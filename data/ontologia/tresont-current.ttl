@@ -1,0 +1,482 @@
+@prefix : <https://itserr.it/ns/tresont/current/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ecrm: <http://erlangen-crm.org/current/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix tresont: <https://itserr.it/ns/tresont/current/> .
+@base <https://itserr.it/ns/tresont/current/> .
+
+<https://itserr.it/ns/tresont/current/> rdf:type owl:Ontology ;
+                                         owl:imports ecrm: ;
+                                         dc:creator "Carlo Meghini"^^xsd:string ;
+                                         dc:date "2024-08-01"^^xsd:string ;
+                                         dc:publisher "ISTI-CNR"^^xsd:string ;
+                                         dc:title "Textual Resources Ontology (TResOnt)"^^xsd:string ;
+                                         dcterms:license "This work is distributed under a Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/)."@en ;
+                                         rdfs:comment "The Textual Resources Ontology is an OWL 2 DL ontology for representing the content and the structure of textual resources"^^xsd:string ;
+                                         rdfs:label "TResOnt Ontology"^^xsd:string ;
+                                         owl:versionInfo "tresont-1.1-20240801"^^xsd:string .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/dc/elements/1.1/creator
+dc:creator rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/date
+dc:date rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/publisher
+dc:publisher rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/elements/1.1/title
+dc:title rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/license
+dcterms:license rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.w3.org/2001/XMLSchema#Integer
+xsd:Integer rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.w3.org/ns/lemon/ontolex#lexicalForm
+ontolex:lexicalForm rdf:type owl:ObjectProperty ;
+                    rdfs:subPropertyOf ecrm:P148_has_component .
+
+
+###  https://itserr.it/ns/tresont/current/hasContent
+tresont:hasContent rdf:type owl:ObjectProperty ;
+                   rdfs:domain tresont:TextSequenceElement ;
+                   rdfs:range tresont:OccurrenceEntity ;
+                   rdfs:comment "This property associates an element of a text sequence to its content."@en ;
+                   rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                   rdfs:label "Has Content"@en .
+
+
+###  https://itserr.it/ns/tresont/current/hasInterval
+tresont:hasInterval rdf:type owl:ObjectProperty ;
+                    rdfs:domain tresont:TextFragment ;
+                    rdfs:range tresont:Interval ;
+                    rdfs:comment "This property associates a text fragment to the interval where the fragment occurs."@en ;
+                    rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                    rdfs:label "Has Interval"@en .
+
+
+###  https://itserr.it/ns/tresont/current/hasSequenceElement
+tresont:hasSequenceElement rdf:type owl:ObjectProperty ;
+                           owl:inverseOf tresont:inSequence ;
+                           rdfs:comment "This is the inverse property of inSequence."@en ;
+                           rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                           rdfs:label "Has Sequence Element"@en .
+
+
+###  https://itserr.it/ns/tresont/current/hasStructuralCoordinate
+tresont:hasStructuralCoordinate rdf:type owl:ObjectProperty ;
+                                rdfs:domain tresont:IntervalByStructuralCoordinates ;
+                                rdfs:range tresont:StructuralCoordinate ;
+                                rdfs:comment "This property associates an interval defined by structural coordinates to any of its structural coordinates."@en ;
+                                rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                                rdfs:label "Has Structural Coordinate"@en .
+
+
+###  https://itserr.it/ns/tresont/current/hasStructuralType
+tresont:hasStructuralType rdf:type owl:ObjectProperty ;
+                          rdfs:subPropertyOf ecrm:P2_has_type ;
+                          rdf:type owl:FunctionalProperty ;
+                          rdfs:domain tresont:TextFragment ;
+                          rdfs:range tresont:StructuralType ;
+                          rdfs:comment "This property associates an occurrence to its structural type, if any."@en ;
+                          rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                          rdfs:label "Has Structural Type"@en .
+
+
+###  https://itserr.it/ns/tresont/current/hasStructuralUnit
+tresont:hasStructuralUnit rdf:type owl:ObjectProperty ;
+                          rdfs:domain tresont:StructuralCoordinate ;
+                          rdfs:range tresont:StructuralType ;
+                          rdfs:comment "This property associates a structural coordinate to its structural unit."@en ;
+                          rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                          rdfs:label "Has Structural Unit"@en .
+
+
+###  https://itserr.it/ns/tresont/current/inAlphabet
+tresont:inAlphabet rdf:type owl:ObjectProperty ;
+                   rdfs:domain tresont:AlphabetElement ;
+                   rdfs:range tresont:Alphabet ;
+                   rdfs:comment "This property associates an element of an alphabet with that alphabet."@en ;
+                   rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                   rdfs:label "In Alphabet"@en .
+
+
+###  https://itserr.it/ns/tresont/current/inSequence
+tresont:inSequence rdf:type owl:ObjectProperty ;
+                   rdfs:domain tresont:TextSequenceElement ;
+                   rdfs:range tresont:TextSequence ;
+                   rdfs:comment "This property associates an element of a text sequence to that text sequence."@en ;
+                   rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                   rdfs:label "In Sequence"@en .
+
+
+###  https://itserr.it/ns/tresont/current/instanceOf
+tresont:instanceOf rdf:type owl:ObjectProperty ;
+                   rdfs:domain tresont:SyntacticEntity ;
+                   rdfs:comment "This property associates a syntactic entity with the conceptual entities (if any) providing its meaning."@en ;
+                   rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                   rdfs:label "Instance Of"@en .
+
+
+###  https://itserr.it/ns/tresont/current/isFragmentOf
+tresont:isFragmentOf rdf:type owl:ObjectProperty ;
+                     rdfs:domain tresont:TextFragment ;
+                     rdfs:range tresont:Book ;
+                     rdfs:comment "This property associates a text fragment to the book where the fragment occurs."@en ;
+                     rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                     rdfs:label "Is Fragment Of"@en .
+
+
+###  https://itserr.it/ns/tresont/current/isPartOf
+tresont:isPartOf rdf:type owl:ObjectProperty ;
+                 rdfs:subPropertyOf ecrm:P148_has_component ;
+                 rdfs:domain tresont:SyntacticEntity ;
+                 rdfs:range tresont:SyntacticEntity ;
+                 rdfs:comment "This property associates a syntactic entity to the syntactic entity it is a ppart of."@en ;
+                 rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                 rdfs:label "Is Part Of"@en .
+
+
+###  https://itserr.it/ns/tresont/current/occurrenceOf
+tresont:occurrenceOf rdf:type owl:ObjectProperty ;
+                     rdfs:domain tresont:OccurrenceEntity ;
+                     rdfs:range tresont:SyntacticEntity ;
+                     rdfs:comment "This property associates an occurrence with the syntactic entity it is an occurrence of."@en ;
+                     rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                     rdfs:label "Occurrence Of"@en .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.w3.org/ns/lemon/ontolex#writtenRep
+ontolex:writtenRep rdf:type owl:DatatypeProperty ;
+                   rdfs:subPropertyOf ecrm:P3_has_note .
+
+
+###  https://itserr.it/ns/tresont/current/hasLength
+tresont:hasLength rdf:type owl:DatatypeProperty ;
+                  rdfs:domain tresont:TextSequence ;
+                  rdfs:range xsd:Integer ;
+                  rdfs:comment "This is the property that associates a text sequence to its length, a positive integer."@en ;
+                  rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                  rdfs:label "Has Length"@en .
+
+
+###  https://itserr.it/ns/tresont/current/hasNumber
+tresont:hasNumber rdf:type owl:DatatypeProperty ;
+                  rdfs:subPropertyOf ecrm:P3_has_note ;
+                  rdfs:domain ecrm:E33_Linguistic_Object ;
+                  rdfs:range xsd:Integer ;
+                  rdfs:comment "This property associates a linguistic object to a positive integer."@en ;
+                  rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                  rdfs:label "Has Number"@en .
+
+
+###  https://itserr.it/ns/tresont/current/hasPosition
+tresont:hasPosition rdf:type owl:DatatypeProperty ;
+                    rdfs:domain tresont:TextSequenceElement ;
+                    rdfs:range xsd:Integer ;
+                    rdfs:comment "This is the property that associates a text sequence element to its position, a positive integer."@en ;
+                    rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                    rdfs:label "Has Position"@en .
+
+
+###  https://itserr.it/ns/tresont/current/hasStructuralValue
+tresont:hasStructuralValue rdf:type owl:DatatypeProperty ;
+                           rdfs:domain tresont:StructuralCoordinate ;
+                           rdfs:range rdfs:Literal ;
+                           rdfs:comment "This property associates a structural coordinate to its value, a literal."@en ;
+                           rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                           rdfs:label "Has Structural Value"@en .
+
+
+###  https://itserr.it/ns/tresont/current/intervalFrom
+tresont:intervalFrom rdf:type owl:DatatypeProperty ;
+                     rdfs:domain tresont:Interval ;
+                     rdfs:range xsd:Integer .
+
+
+###  https://itserr.it/ns/tresont/current/intervalTo
+tresont:intervalTo rdf:type owl:DatatypeProperty ;
+                   rdfs:domain tresont:Interval ;
+                   rdfs:range xsd:Integer .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.w3.org/2001/XMLSchema#integer
+xsd:integer rdf:type owl:Class .
+
+
+###  http://www.w3.org/ns/lemon/ontolex#Form
+ontolex:Form rdf:type owl:Class ;
+             rdfs:subClassOf tresont:AlphabetElement .
+
+
+###  http://www.w3.org/ns/lemon/ontolex#LexicalEntry
+ontolex:LexicalEntry rdf:type owl:Class ;
+                     rdfs:subClassOf ecrm:E73_Information_Object .
+
+
+###  https://itserr.it/ns/tresont/current/Alphabet
+tresont:Alphabet rdf:type owl:Class ;
+                 rdfs:subClassOf tresont:SyntacticEntity ;
+                 rdfs:comment "This is the class of all alphabets."@en ;
+                 rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                 rdfs:label "Alphabet"@en .
+
+
+###  https://itserr.it/ns/tresont/current/AlphabetElement
+tresont:AlphabetElement rdf:type owl:Class ;
+                        rdfs:subClassOf tresont:SyntacticEntity ;
+                        rdfs:comment "This is the class of all alphabet elements."@en ;
+                        rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                        rdfs:label "Alphabet Element"@en .
+
+
+###  https://itserr.it/ns/tresont/current/Book
+tresont:Book rdf:type owl:Class ;
+             rdfs:subClassOf tresont:TextualExpression ;
+             rdfs:comment "This is the class of books."@en ;
+             rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+             rdfs:label "Book"@en .
+
+
+###  https://itserr.it/ns/tresont/current/Interval
+tresont:Interval rdf:type owl:Class ;
+                 rdfs:subClassOf ecrm:E54_Dimension ,
+                                 [ rdf:type owl:Restriction ;
+                                   owl:onProperty tresont:intervalFrom ;
+                                   owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                   owl:onClass xsd:integer
+                                 ] ,
+                                 [ rdf:type owl:Restriction ;
+                                   owl:onProperty tresont:intervalTo ;
+                                   owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                   owl:onClass xsd:integer
+                                 ] ;
+                 rdfs:comment "This is the class of all intervals."@en ;
+                 rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                 rdfs:label "Interval"@en .
+
+
+###  https://itserr.it/ns/tresont/current/IntervalByStructuralCoordinates
+tresont:IntervalByStructuralCoordinates rdf:type owl:Class ;
+                                        rdfs:subClassOf tresont:Interval ;
+                                        rdfs:comment "This is the class of all intervals represented by their structural coordinates."@en ;
+                                        rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                                        rdfs:label "Interval By Structural Coordinates"@en .
+
+
+###  https://itserr.it/ns/tresont/current/OccurrenceEntity
+tresont:OccurrenceEntity rdf:type owl:Class ;
+                         rdfs:subClassOf ecrm:E33_Linguistic_Object ;
+                         rdfs:comment "This is the class of all occurrences."@en ;
+                         rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                         rdfs:label "Occurrence Entity"@en .
+
+
+###  https://itserr.it/ns/tresont/current/OrderedTextualCollection
+tresont:OrderedTextualCollection rdf:type owl:Class ;
+                                 rdfs:subClassOf tresont:TextualCollection ;
+                                 rdfs:comment "This is the class of all ordered textual collections."@en ;
+                                 rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                                 rdfs:label "Ordered Textual Collection"@en .
+
+
+###  https://itserr.it/ns/tresont/current/PunctuationMark
+tresont:PunctuationMark rdf:type owl:Class ;
+                        rdfs:subClassOf tresont:AlphabetElement ;
+                        rdfs:comment "This is the class of all punctuation marks."@en ;
+                        rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                        rdfs:label "Punctuation Mark"@en .
+
+
+###  https://itserr.it/ns/tresont/current/StructuralCoordinate
+tresont:StructuralCoordinate rdf:type owl:Class ;
+                             rdfs:subClassOf ecrm:E54_Dimension ;
+                             rdfs:comment "This is the class of all structural coordinates."@en ;
+                             rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                             rdfs:label "Structural Coordinate"@en .
+
+
+###  https://itserr.it/ns/tresont/current/StructuralType
+tresont:StructuralType rdf:type owl:Class ;
+                       rdfs:subClassOf ecrm:E55_Type ;
+                       rdfs:comment "This is the class of all structural types."@en ;
+                       rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                       rdfs:label "Structural Type"@en .
+
+
+###  https://itserr.it/ns/tresont/current/SyntacticEntity
+tresont:SyntacticEntity rdf:type owl:Class ;
+                        rdfs:subClassOf ecrm:E33_Linguistic_Object ,
+                                        tresont:TextSequence ;
+                        rdfs:comment "This is the class of all syntactic entities."@en ;
+                        rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                        rdfs:label "Syntactic Entity"@en .
+
+
+###  https://itserr.it/ns/tresont/current/TextFragment
+tresont:TextFragment rdf:type owl:Class ;
+                     rdfs:subClassOf tresont:SyntacticEntity ,
+                                     [ rdf:type owl:Restriction ;
+                                       owl:onProperty tresont:hasInterval ;
+                                       owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                       owl:onClass tresont:Interval
+                                     ] ,
+                                     [ rdf:type owl:Restriction ;
+                                       owl:onProperty tresont:isFragmentOf ;
+                                       owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                       owl:onClass tresont:Book
+                                     ] ;
+                     rdfs:comment "This is the class of text fragments."@en ;
+                     rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                     rdfs:label "Text Fragment"@en .
+
+
+###  https://itserr.it/ns/tresont/current/TextSequence
+tresont:TextSequence rdf:type owl:Class ;
+                     rdfs:subClassOf ecrm:E73_Information_Object ,
+                                     [ rdf:type owl:Restriction ;
+                                       owl:onProperty tresont:hasLength ;
+                                       owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                       owl:onDataRange xsd:Integer
+                                     ] ;
+                     rdfs:comment "This is the class of all sequences in the domain of textual expressions."@en ;
+                     rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                     rdfs:label "Text Sequence"@en .
+
+
+###  https://itserr.it/ns/tresont/current/TextSequenceElement
+tresont:TextSequenceElement rdf:type owl:Class ;
+                            rdfs:subClassOf ecrm:E73_Information_Object ,
+                                            [ rdf:type owl:Restriction ;
+                                              owl:onProperty tresont:hasContent ;
+                                              owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                              owl:onClass ecrm:E73_Information_Object
+                                            ] ,
+                                            [ rdf:type owl:Restriction ;
+                                              owl:onProperty tresont:inSequence ;
+                                              owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                              owl:onClass tresont:TextSequence
+                                            ] ,
+                                            [ rdf:type owl:Restriction ;
+                                              owl:onProperty tresont:hasPosition ;
+                                              owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                              owl:onDataRange xsd:Integer
+                                            ] ;
+                            owl:hasKey ( tresont:inSequence
+                                         tresont:hasPosition
+                                       ) ;
+                            rdfs:comment "This is the class of text sequence elements."@en ;
+                            rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                            rdfs:label "Text Sequence Element"@en .
+
+
+###  https://itserr.it/ns/tresont/current/TextualCollection
+tresont:TextualCollection rdf:type owl:Class ;
+                          rdfs:subClassOf tresont:TextualExpression ;
+                          rdfs:comment "This is the class of all textual collections."@en ;
+                          rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                          rdfs:label "Textual Collection"@en .
+
+
+###  https://itserr.it/ns/tresont/current/TextualExpression
+tresont:TextualExpression rdf:type owl:Class ;
+                          rdfs:subClassOf tresont:SyntacticEntity ;
+                          rdfs:comment "This is the class of all textual expressions."@en ;
+                          rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                          rdfs:label "Textual Expression"@en .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  https://itserr.it/ns/tresont/current/
+<https://itserr.it/ns/tresont/current/> rdf:type owl:NamedIndividual .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+tresont:intervalFrom rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                     rdfs:label "Interval From"@en ;
+                     rdfs:comment "This is the property that associates an interval to its left extreme, a positive integer."@en .
+
+
+tresont:intervalTo rdfs:isDefinedBy <https://itserr.it/ns/tresont/current/> ;
+                   rdfs:comment "This is the property that associates an interval to its right extreme, a positive integer."@en ;
+                   rdfs:label "Interval To"@en .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:Restriction ;
+  owl:onProperty [ owl:inverseOf tresont:hasContent
+                 ] ;
+  owl:someValuesFrom [ rdf:type owl:Restriction ;
+                       owl:onProperty tresont:inSequence ;
+                       owl:someValuesFrom tresont:Book
+                     ] ;
+  rdfs:subClassOf tresont:OccurrenceEntity
+] .
+
+
+[ rdf:type owl:Restriction ;
+  owl:onProperty [ owl:inverseOf tresont:hasContent
+                 ] ;
+  owl:someValuesFrom [ rdf:type owl:Restriction ;
+                       owl:onProperty tresont:inSequence ;
+                       owl:someValuesFrom tresont:SyntacticEntity
+                     ] ;
+  rdfs:subClassOf tresont:OccurrenceEntity
+] .
+
+
+[ rdf:type owl:Restriction ;
+  owl:onProperty [ owl:inverseOf tresont:hasContent
+                 ] ;
+  owl:someValuesFrom [ rdf:type owl:Restriction ;
+                       owl:onProperty tresont:inSequence ;
+                       owl:someValuesFrom tresont:TextualCollection
+                     ] ;
+  rdfs:subClassOf tresont:TextualExpression
+] .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
