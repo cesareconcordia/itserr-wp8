@@ -1,7 +1,14 @@
-## Dataset lingua latina (WP8)
+## WP8: CRitical Edition ONTology Enhanced per la Bibbia in latino.
 
-Questa repository contiene i file RDF con la rappresentazione della Bibbia in latino, edizione Vulgata Weber-Gryson ed edizione S_VL (Sabatier).
-L'ontologia usata è denominata CRitical Edition ONTology Enhanced, per brevità CREONTE. CREONTE è un’ontologia applicativa espressa nel linguaggio OWL 2 DL , costruita come segue:
+Questa repository contiene i file RDF con la rappresentazione della Bibbia in latino (edizione Vulgata Weber-Gryson ed edizione S_VL (Sabatier)) ed il codice Python per la creazione di questi file.
+
+Il codice è composto da una 4 notebook Python ed una libreria software, ed implementa le seguenti funzionalità:
+
+* lemmatizzazione dei testi: per ciascun testo biblico vengono individuati i lemmi associati alle forme
+* creazione dei grafi RDF: implementazione degli assiomi definiti nell'ontologia
+
+ 
+L'ontologia creata per definire la struttura dei dataset  è denominata CRitical Edition ONTology Enhanced, per brevità CREONTE ed è un’ontologia applicativa espressa nel linguaggio OWL 2 DL , costruita come segue:
 
 * ontologia top di riferimento: CIDOC-CRM nella versione OWL 2 DL detta “Erlangen”;
 * principali ontologie di dominio: LRMoo per la rappresentazione delle risorse bibliografiche (“a high-level conceptual reference model for bibliographic information managed by libraries of all kinds”), CEO per la rappresentazione dell’edizione critica e dell’apparato relativo, TRESONT per la rappresentazione del contenuto e della struttura di opere testuali.
@@ -15,3 +22,7 @@ Revisioni riguardanti l’ontologia CEO:
 	CEO dichiara R4_embodies inversa sia di R4_is_embodied_in che di R5_is_component_of, quest’ultima dipendenza è stata rimossa
 	CEO dichiara F3_Manifestatiion sottoclasse di F3_Expression, questo assioma è stata rimosso Riguardo all’ontologia CIDOC-CRM, si sono riscontrate analoghe anomalie, con la ridefinizione del dominio e del range di alcune proprietà
 	CEO aggiunge un’asserzione di tipo rdfs:seeAlso alla ri-definizione di ogni classe e proprietà. L’asserzione punta al documento di specifica dell’LRMoo versione 0.9, ora superato
+
+
+#### Autori: 
+Carlo Meghini, Cesare Concordia
