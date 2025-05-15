@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="jude" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="jude">
+        <title>jude</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">jude</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>jude</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="jude">
+      <title>jude</title>
+      <chapter sID="jude.1" osisID="jude.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="jude.1.1" osisID="jude.1.1" />Iudas Iesu Christi servus frater autem Iacobi his qui in Deo Patre dilectis et Iesu Christo conservatis vocatis<verse eID="jude.1.1" />
+        <verse sID="jude.1.2" osisID="jude.1.2" />misericordia vobis et pax et caritas adimpleatur<verse eID="jude.1.2" />
+        <verse sID="jude.1.3" osisID="jude.1.3" />carissimi omnem sollicitudinem faciens scribendi vobis de communi vestra salute necesse habui scribere vobis deprecans supercertari semel traditae sanctis fidei<verse eID="jude.1.3" />
+        <verse sID="jude.1.4" osisID="jude.1.4" />subintroierunt enim quidam homines qui olim praescripti sunt in hoc iudicium impii Dei nostri gratiam transferentes in luxuriam et solum Dominatorem et Dominum nostrum Iesum Christum negantes<verse eID="jude.1.4" />
+        <verse sID="jude.1.5" osisID="jude.1.5" />commonere autem vos volo scientes semel omnia quoniam Iesus populum de terra Aegypti salvans secundo eos qui non crediderunt perdidit<verse eID="jude.1.5" />
+        <verse sID="jude.1.6" osisID="jude.1.6" />angelos vero qui non servaverunt suum principatum sed dereliquerunt suum domicilium in iudicium magni diei vinculis aeternis sub caligine reservavit<verse eID="jude.1.6" />
+        <verse sID="jude.1.7" osisID="jude.1.7" />sicut Sodoma et Gomorra et finitimae civitates simili modo exfornicatae et abeuntes post carnem alteram factae sunt exemplum ignis aeterni poenam sustinentes<verse eID="jude.1.7" />
+        <verse sID="jude.1.8" osisID="jude.1.8" />similiter et hii carnem quidem maculant dominationem autem spernunt maiestates autem blasphemant<verse eID="jude.1.8" />
+        <verse sID="jude.1.9" osisID="jude.1.9" />cum Michahel archangelus cum diabolo disputans altercaretur de Mosi corpore non est ausus iudicium inferre blasphemiae sed dixit imperet tibi Dominus<verse eID="jude.1.9" />
+        <verse sID="jude.1.10" osisID="jude.1.10" />hii autem quaecumque quidem ignorant blasphemant quaecumque autem naturaliter tamquam muta animalia norunt in his corrumpuntur<verse eID="jude.1.10" />
+        <verse sID="jude.1.11" osisID="jude.1.11" />vae illis quia via Cain abierunt et errore Balaam mercede effusi sunt et contradictione Core perierunt<verse eID="jude.1.11" />
+        <verse sID="jude.1.12" osisID="jude.1.12" />hii sunt in epulis suis maculae convivantes sine timore semet ipsos pascentes nubes sine aqua quae a ventis circumferuntur arbores autumnales infructuosae bis mortuae eradicatae<verse eID="jude.1.12" />
+        <verse sID="jude.1.13" osisID="jude.1.13" />fluctus feri maris despumantes suas confusiones sidera errantia quibus procella tenebrarum in aeternum servata est<verse eID="jude.1.13" />
+        <verse sID="jude.1.14" osisID="jude.1.14" />prophetavit autem et his septimus ab Adam Enoch dicens ecce venit Dominus in sanctis milibus suis<verse eID="jude.1.14" />
+        <verse sID="jude.1.15" osisID="jude.1.15" />facere iudicium contra omnes et arguere omnes impios de omnibus operibus impietatis eorum quibus impie egerunt et de omnibus duris quae locuti sunt contra eum peccatores impii<verse eID="jude.1.15" />
+        <verse sID="jude.1.16" osisID="jude.1.16" />hii sunt murmuratores querellosi secundum desideria sua ambulantes et os illorum loquitur superba mirantes personas quaestus causa<verse eID="jude.1.16" />
+        <verse sID="jude.1.17" osisID="jude.1.17" />vos autem carissimi memores estote verborum quae praedicta sunt ab apostolis Domini nostri Iesu Christi<verse eID="jude.1.17" />
+        <verse sID="jude.1.18" osisID="jude.1.18" />quia dicebant vobis quoniam in novissimo tempore venient inlusores secundum sua desideria ambulantes impietatum<verse eID="jude.1.18" />
+        <verse sID="jude.1.19" osisID="jude.1.19" />hii sunt qui segregant animales Spiritum non habentes<verse eID="jude.1.19" />
+        <verse sID="jude.1.20" osisID="jude.1.20" />vos autem carissimi superaedificantes vosmet ipsos sanctissimae vestrae fidei in Spiritu Sancto orantes<verse eID="jude.1.20" />
+        <verse sID="jude.1.21" osisID="jude.1.21" />ipsos vos in dilectione Dei servate<verse eID="jude.1.21" />
+        <verse sID="jude.1.22" osisID="jude.1.22" />et hos quidem arguite iudicatos<verse eID="jude.1.22" />
+        <verse sID="jude.1.23" osisID="jude.1.23" />illos vero salvate de igne rapientes aliis autem miseremini in timore odientes et eam quae carnalis est maculatam tunicam<verse eID="jude.1.23" />
+        <verse sID="jude.1.24" osisID="jude.1.24" />ei autem qui potest vos conservare sine peccato et constituere ante conspectum gloriae suae inmaculatos in exultatione<verse eID="jude.1.24" />
+        <verse sID="jude.1.25" osisID="jude.1.25" />soli Deo salvatori nostro per Iesum Christum Dominum nostrum gloria magnificentia imperium et potestas ante omne saeculum et nunc et in omnia saecula amen<verse eID="jude.1.25" />
+      </p>
+      <chapter eID="jude.1" />
+    </div>
+  </osisText>
+</osis>

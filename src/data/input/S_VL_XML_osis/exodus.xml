@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Ex" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Ex">
+        <title>exodus</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Ex</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>exodus</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Ex">
+      <title>exodus</title>
+      <chapter sID="Ex.1" osisID="Ex.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Ex.1.5" osisID="Ex.1.5" />Erant autem omnes animae de Iacob, quinque et septuaginta qui erant cum Iacob.<verse eID="Ex.1.5" />
+        <verse sID="Ex.1.7" osisID="Ex.1.7" />... et invalescebant valde valde ...<verse eID="Ex.1.7" />
+        <verse sID="Ex.1.8" osisID="Ex.1.8" />Exsurrexit autem rex alter super Aegyptum, qui ignorabat Ioseph.<verse eID="Ex.1.8" />
+        <verse sID="Ex.1.9" osisID="Ex.1.9" />Et dixit genti suae, Ecce, gens filiorum Israel, magna multitudo, et valent super nos.<verse eID="Ex.1.9" />
+        <verse sID="Ex.1.10" osisID="Ex.1.10" />Venite ergo, circumveniamus eos ...<verse eID="Ex.1.10" />
+        <verse sID="Ex.1.11" osisID="Ex.1.11" />... et aedificaverunt civitates munitas Pharaonis, Phiton, Ramessen, et On ...<verse eID="Ex.1.11" />
+        <verse sID="Ex.1.12" osisID="Ex.1.12" />Quantoque eos deprimebant, tanto plures fiebant, et invalescebant magis ...<verse eID="Ex.1.12" />
+        <verse sID="Ex.1.13" osisID="Ex.1.13" />Et cum vi potestatem exercebant Aegyptii in filios Israel,<verse eID="Ex.1.13" />
+        <verse sID="Ex.1.14" osisID="Ex.1.14" />et in odium eis adducebant vitam in operibus duris, luto, et latere, et omnibus operibus, quae faciebant in campis, per omnia opera, quibus eos deprimebant cum vi.<verse eID="Ex.1.14" />
+        <verse sID="Ex.1.19" osisID="Ex.1.19" />... Hebraeae prius pariunt, quam veniant obstetrices ...<verse eID="Ex.1.19" />
+        <verse sID="Ex.1.20" osisID="Ex.1.20" />Benefaciebat Deus cum obstetricibus ...<verse eID="Ex.1.20" />
+        <verse sID="Ex.1.21" osisID="Ex.1.21" />Et fecerunt sibi domos, quoniam timuerunt Deum.<verse eID="Ex.1.21" />
+        <verse sID="Ex.1.22" osisID="Ex.1.22" />... et omne femininum vivificate.<verse eID="Ex.1.22" />
+      </p>
+      <chapter eID="Ex.1" />
+      <chapter sID="Ex.2" osisID="Ex.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Ex.2.1" osisID="Ex.2.1" />Erat autem quidam de tribu Levi, et sumpsit sibi de filiabus Levi.<verse eID="Ex.2.1" />
+        <verse sID="Ex.2.2" osisID="Ex.2.2" />Et habuit eam, et concepit ...<verse eID="Ex.2.2" />
+        <verse sID="Ex.2.13" osisID="Ex.2.13" />... Quid proximum tuum percutis?<verse eID="Ex.2.13" />
+        <verse sID="Ex.2.14" osisID="Ex.2.14" />... Quis te constituit magistrum aut iudicem super nos? ... Timuit autem Moyses, et dixit, Si sic divulgatum est verbum hoc.<verse eID="Ex.2.14" />
+        <verse sID="Ex.2.23" osisID="Ex.2.23" />... et ascendit clamor eorum ad Dominum ...<verse eID="Ex.2.23" />
+        <verse sID="Ex.2.25" osisID="Ex.2.25" />Et respexit filios Israel, et innotuit illis.<verse eID="Ex.2.25" />
+      </p>
+      <chapter eID="Ex.2" />
+      <chapter sID="Ex.3" osisID="Ex.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Ex.3.1" osisID="Ex.3.1" />... pascebat oves Iethro soceri sui sacerdotis Madiam. Et egit oves in desertum, et venit in montem Dei Choreb.<verse eID="Ex.3.1" />
+        <verse sID="Ex.3.2" osisID="Ex.3.2" />Et apparuit ei Angelus Domini in flamma ignis de rubo. Et vidit quoniam rubus arderet igni. Rubus autem non cremabatur.<verse eID="Ex.3.2" />
+        <verse sID="Ex.3.3" osisID="Ex.3.3" />Et dixit Moyses, Transiens videbo hoc grande visum, cur utique non crematur rubus.<verse eID="Ex.3.3" />
+        <verse sID="Ex.3.4" osisID="Ex.3.4" />Ut vidit autem quoniam accedit videre, vocavit eum Dominus Deus de rubo, dicens, Moyses, Moyses. Qui dixit, Quid est?<verse eID="Ex.3.4" />
+        <verse sID="Ex.3.5" osisID="Ex.3.5" />Et dixit, Ne accesseris huc, nisi solveris calciamentum de pedibus tuis. Locus enim, in quo stas, terra sancta est.<verse eID="Ex.3.5" />
+        <verse sID="Ex.3.6" osisID="Ex.3.6" />Et dixit ei, Ego sum Deus patris tui, Deus Abraham, et Deus Isaac, Deus Iacob. Et accedens Moyses, avertit se, quia non potuit considerare in faciem Dei.<verse eID="Ex.3.6" />
+        <verse sID="Ex.3.7" osisID="Ex.3.7" />... Videns vidi afflictionem populi mei, qui est in Aegypto, et gemitum eius audivi ...<verse eID="Ex.3.7" />
+        <verse sID="Ex.3.8" osisID="Ex.3.8" />... et descendi liberare eos ... educere illos de terra illa in terram bonam, et multam, in terram fluentem lac et mel ...<verse eID="Ex.3.8" />
+        <verse sID="Ex.3.9" osisID="Ex.3.9" />Et nunc ecce clamor filiorum Israel venit ad me ...<verse eID="Ex.3.9" />
+        <verse sID="Ex.3.10" osisID="Ex.3.10" />... veni, mittam te ad Pharaonem regem Aegypti ...<verse eID="Ex.3.10" />
+        <verse sID="Ex.3.11" osisID="Ex.3.11" />Et dixit Moyses ad Deum, Et quis ego ut eam ad Pharaonem regem Aegypti, et educam filios Israel de terra Aegypti?<verse eID="Ex.3.11" />
+        <verse sID="Ex.3.12" osisID="Ex.3.12" />Dixit autem Deus ad Moysen, Quia ero tecum. Hoc tibi signum sit, quoniam ego te mittam, ut eiicias populum meum ex Aegypto, et servietis mihi in monte hoc.<verse eID="Ex.3.12" />
+        <verse sID="Ex.3.13" osisID="Ex.3.13" />... Quid dicam illis, si requirant, Quis est Dominus qui misit te, et quod nomen est illi?<verse eID="Ex.3.13" />
+        <verse sID="Ex.3.14" osisID="Ex.3.14" />Dixit autem Dominus ad Moysen, EGO SUM QUI SUM. Et dixit, Sic dices filiis Israel QUI EST, misit me ad vos.<verse eID="Ex.3.14" />
+        <verse sID="Ex.3.15" osisID="Ex.3.15" />Et dixit Deus ad Moysen, Haec dices eis, Dominus Deus patrum vestrorum, Deus Abraham, et Deus Isaac, et Deus Iacob, misit me ad vos. Hoc mihi nomen est sempiternum, et memoriale in generationem et generationem.<verse eID="Ex.3.15" />
+        <verse sID="Ex.3.16" osisID="Ex.3.16" />... Visitans visitavi vos, et quaecunque contigerunt vobis in Aegypto.<verse eID="Ex.3.16" />
+        <verse sID="Ex.3.18" osisID="Ex.3.18" />Et audient vocem tuam ... viam trium dierum ibimus, et immolabimus Domino Deo nostro.<verse eID="Ex.3.18" />
+        <verse sID="Ex.3.19" osisID="Ex.3.19" />Ego autem scio quoniam non dimittet vos Pharao rex Aegypti abire, nisi in manu valida.<verse eID="Ex.3.19" />
+        <verse sID="Ex.3.22" osisID="Ex.3.22" />... poscet mulier a vicina, et ab inquilina sua, vasa argentea et aurea, et vestem ... et praedabimini eos.<verse eID="Ex.3.22" />
+      </p>
+      <chapter eID="Ex.3" />
+      <chapter sID="Ex.4" osisID="Ex.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Ex.4.1" osisID="Ex.4.1" />Respondit Moyses, Si non crediderint mihi, neque obaudierint vocem meam, dicentes, Quia non apparuit tibi Deus, quid dicam illis?<verse eID="Ex.4.1" />
+        <verse sID="Ex.4.4" osisID="Ex.4.4" />... Extende manum tuam, et apprehende caudam eius. Et extendens manum, apphrehendit caudam, et facta est virga in manu eius.<verse eID="Ex.4.4" />
+        <verse sID="Ex.4.5" osisID="Ex.4.5" />Et dixit illi, Ut credant tibi, quoniam apparuit tibi Dominus Deus patrum ipsorum ...<verse eID="Ex.4.5" />
+        <verse sID="Ex.4.6" osisID="Ex.4.6" />... Mitte manum in sinum. Et misit eam ... Et facta est manus eius leprosa tanquam nix.<verse eID="Ex.4.6" />
+        <verse sID="Ex.4.8" osisID="Ex.4.8" />... Quod si non audierint vocem tuam signi primi, credent tibi in voce signi sequentis.<verse eID="Ex.4.8" />
+        <verse sID="Ex.4.9" osisID="Ex.4.9" />... et erit aqua, quam sumes de flumine, sanguis super terram.<verse eID="Ex.4.9" />
+        <verse sID="Ex.4.10" osisID="Ex.4.10" />... Precor Domine, non sum dignus ante hesternam et nudiustertianam diem, neque ex quo coepisti loqui servo tuo. Gracili enim collocutione et tardiore lingua ego sum.<verse eID="Ex.4.10" />
+        <verse sID="Ex.4.11" osisID="Ex.4.11" />... Quis dedit os homini? Et quis fecit mogilalum, et quis surdum, et quis videntem et caecum? Nonne ego Dominus Deus?<verse eID="Ex.4.11" />
+        <verse sID="Ex.4.12" osisID="Ex.4.12" />Et nunc perge, et ego aperiam os tuum. Et instruam te quid loquaris.<verse eID="Ex.4.12" />
+        <verse sID="Ex.4.13" osisID="Ex.4.13" />... provide alium quem mittas.<verse eID="Ex.4.13" />
+        <verse sID="Ex.4.14" osisID="Ex.4.14" />Et iratus iracundia Dominus, dixit, Nonne ecce Aaron frater tuus levites? Scio quia loquens loquetur ipse ...<verse eID="Ex.4.14" />
+        <verse sID="Ex.4.15" osisID="Ex.4.15" />... et dabis verba mea in os eius ... aperiam os tuum, et os eius, et instruam vos quae faciaris.<verse eID="Ex.4.15" />
+        <verse sID="Ex.4.16" osisID="Ex.4.16" />Et loquetur ipse tibi ad populum, et ipse erit tuum os. Tu autem illi eris quae ad Deum.<verse eID="Ex.4.16" />
+        <verse sID="Ex.4.17" osisID="Ex.4.17" />Et virgam hanc sumes in manum tuam, in qua facies in ea signa.<verse eID="Ex.4.17" />
+        <verse sID="Ex.4.18" osisID="Ex.4.18" />... Post dies autem illos multos, mortuus est rex Aegypti.<verse eID="Ex.4.18" />
+        <verse sID="Ex.4.19" osisID="Ex.4.19" />Dixit autem Dominus ad Moysen in Madian, Vade, perge in Aegyptum. Mortui sunt enim omnes qui quaerebant animam tuam.<verse eID="Ex.4.19" />
+        <verse sID="Ex.4.22" osisID="Ex.4.22" />Haec dices Pharaoni, Haec dicit Dominus, Filius meus primogenitus Israel.<verse eID="Ex.4.22" />
+        <verse sID="Ex.4.23" osisID="Ex.4.23" />Dixit tibi, Dimitte populum meum, ut serviat mihi. Tu autem noluisti dimittere eum. Ecce ego occidam filium tuum primogenitum.<verse eID="Ex.4.23" />
+        <verse sID="Ex.4.24" osisID="Ex.4.24" />Et factum est in via, ad refectionem obviavit ei Angelus, et quaerebat eum occidere.<verse eID="Ex.4.24" />
+        <verse sID="Ex.4.25" osisID="Ex.4.25" />Et assumpto Sepphora calculo, circumcidit praeputium filii sui, et procidit ad pedes eius, et dixit, Stetit sanguis circumcisionis infantis mei.<verse eID="Ex.4.25" />
+        <verse sID="Ex.4.26" osisID="Ex.4.26" />Et recessit ab eo, propter quod dixit, Desiit sanguis circumcisionis infantis ...<verse eID="Ex.4.26" />
+      </p>
+      <chapter eID="Ex.4" />
+      <chapter sID="Ex.5" osisID="Ex.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Ex.5.1" osisID="Ex.5.1" />... Dimitte populum meum ut serviat mihi in deserto.<verse eID="Ex.5.1" />
+        <verse sID="Ex.5.2" osisID="Ex.5.2" />... Dominum nescio, et Israel non dimitto.<verse eID="Ex.5.2" />
+        <verse sID="Ex.5.3" osisID="Ex.5.3" />... Tribus diebus ambulabimus, ut epulemur Domino Deo nostro ...<verse eID="Ex.5.3" />
+        <verse sID="Ex.5.10" osisID="Ex.5.10" />... et dicebant ad populum, dicentes, Haec dicit Pharao ...<verse eID="Ex.5.10" />
+        <verse sID="Ex.5.21" osisID="Ex.5.21" />... Videat Deus vos, et iudicet, quoniam exsecrabilem fecistis odorem nostrum palam Pharaone, et palam servis eius, ut daretis gladium in manibus eius, ut occidat nos.<verse eID="Ex.5.21" />
+        <verse sID="Ex.5.22" osisID="Ex.5.22" />... quare afflixisti populum hunc? Et ut quid me misisti?<verse eID="Ex.5.22" />
+        <verse sID="Ex.5.23" osisID="Ex.5.23" />Ex quo enim intravi ad Pharaonem loqui in tuo nomine, in hunc populum. Et non liberasti populum tuum.<verse eID="Ex.5.23" />
+      </p>
+      <chapter eID="Ex.5" />
+      <chapter sID="Ex.6" osisID="Ex.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Ex.6.4" osisID="Ex.6.4" />... Statui testamentum meum ad illos, ita ut darem illis terram Chananaeorum, et terram quam incoluerunt, in qua et incoluerunt in ea.<verse eID="Ex.6.4" />
+        <verse sID="Ex.6.5" osisID="Ex.6.5" />... ego exaudivi gemitum filiorum Israel, quomodo Aegyptii in servitutem deprimunt eos. Et memor factus sum testamenti mei.<verse eID="Ex.6.5" />
+        <verse sID="Ex.6.6" osisID="Ex.6.6" />Vade, et dic filiis Israel, Ego Dominus, et educam vos de potentia Aegyptiorum. Et eruam vos de servitute eorum. Et liberabo vos in brachio excelso, et iudicio magno.<verse eID="Ex.6.6" />
+        <verse sID="Ex.6.7" osisID="Ex.6.7" />Et sumam vos mihi in plebem, et ero vester Deus. Et scietis quoniam ego sum Dominus Deus vester qui educam vos de potentia Aegyptiorum.<verse eID="Ex.6.7" />
+        <verse sID="Ex.6.8" osisID="Ex.6.8" />Et inducam vos in terram, in quam extendi manum meam ...<verse eID="Ex.6.8" />
+        <verse sID="Ex.6.9" osisID="Ex.6.9" />Et locutus est Moyses sic ad filios Israel. Et non exaudierunt Moysen, a defectione animi, et ab operibus duris.<verse eID="Ex.6.9" />
+        <verse sID="Ex.6.12" osisID="Ex.6.12" />Locutus est Moyses in conspectu Domini, dicens, Ecce filii Israel non audierunt me. Et quomodo audiet me Pharao? Ego autem sum tardi sermonis.<verse eID="Ex.6.12" />
+        <verse sID="Ex.6.26" osisID="Ex.6.26" />Hi sunt Aaron et Moyses, quibus dixit eis Deus, ut educant filios Israel de terra Aegypti ...<verse eID="Ex.6.26" />
+        <verse sID="Ex.6.30" osisID="Ex.6.30" />... Ecce ego gracili voce sum, et quomodo exaudiet me Pharao?<verse eID="Ex.6.30" />
+      </p>
+      <chapter eID="Ex.6" />
+      <chapter sID="Ex.7" osisID="Ex.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Ex.7.1" osisID="Ex.7.1" />... Ecce dedi te deum Pharaoni. Et Aaron frater tuus erit tuus propheta.<verse eID="Ex.7.1" />
+        <verse sID="Ex.7.3" osisID="Ex.7.3" />Indurabo cor Pharaonis, et implebo signa mea et portenta mea in Aegypto.<verse eID="Ex.7.3" />
+        <verse sID="Ex.7.6" osisID="Ex.7.6" />Fecit autem Moyses et Aaron sicut praecepit illis Dominus. Ita fecerunt.<verse eID="Ex.7.6" />
+        <verse sID="Ex.7.9" osisID="Ex.7.9" />... Si loquetur vobis Pharao, dicens, Date nobis signum aut portentum, et dices Aaron fratri suo, Sume virgam, et proiice illam pallam Pharaone, et palam servis eius, et erit draco.<verse eID="Ex.7.9" />
+        <verse sID="Ex.7.10" osisID="Ex.7.10" />... et proiecit Aaron virgam suam ...<verse eID="Ex.7.10" />
+        <verse sID="Ex.7.12" osisID="Ex.7.12" />... et adsorbuit virga Aaron virgas illorum.<verse eID="Ex.7.12" />
+        <verse sID="Ex.7.15" osisID="Ex.7.15" />... ecce ipse exiit ad aquam ...<verse eID="Ex.7.15" />
+        <verse sID="Ex.7.16" osisID="Ex.7.16" />... Dimitte populum meum ut serviat mihi in deserto. Et ecce non exaudisti usque adhuc.<verse eID="Ex.7.16" />
+        <verse sID="Ex.7.22" osisID="Ex.7.22" />Fecerunt autem similiter et incantatores Aegyptiorum veneficiis suis. Et induratum est cor Pharaonis, et non exaudivit eos, sicut dixit Dominus.<verse eID="Ex.7.22" />
+      </p>
+      <chapter eID="Ex.7" />
+      <chapter sID="Ex.8" osisID="Ex.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Ex.8.1" osisID="Ex.8.1" />... Dimitte populum meum, ut serviant mihi.<verse eID="Ex.8.1" />
+        <verse sID="Ex.8.2" osisID="Ex.8.2" />... ecce ego ferio omnes fines tuos ranis.<verse eID="Ex.8.2" />
+        <verse sID="Ex.8.3" osisID="Ex.8.3" />Et eructuabit flumen ranas. Et ascendentes intrabunt in domos tuas, et in promptuaria cubiculorum tuorum, super lectos tuos, et in domos servorum tuorum, et in populi tui, et in conspersis tuis, et in clibanis tuis.<verse eID="Ex.8.3" />
+        <verse sID="Ex.8.4" osisID="Ex.8.4" />Et super te, et super populum tuum, et super servos tuos, ascendent ranae.<verse eID="Ex.8.4" />
+        <verse sID="Ex.8.6" osisID="Ex.8.6" />Et extendit Aaron manum super aquas Aegypti, et eduxit ranas, et educta est rana, et operuit terram ...<verse eID="Ex.8.6" />
+        <verse sID="Ex.8.7" osisID="Ex.8.7" />Fecerunt autem similiter et incantatores Aegyptiorum veneficiis suis, et eduxerunt ranas super terram Aegypti.<verse eID="Ex.8.7" />
+        <verse sID="Ex.8.9" osisID="Ex.8.9" />... Constitue mihi quando pro te orem, et pro famulis tuis, et pro populo tuo, ut exterminet Dominus ranas ...<verse eID="Ex.8.9" />
+        <verse sID="Ex.8.10" osisID="Ex.8.10" />Respondit, Crastina die ...<verse eID="Ex.8.10" />
+        <verse sID="Ex.8.14" osisID="Ex.8.14" />Et colligebant eas acervos acervos ...<verse eID="Ex.8.14" />
+        <verse sID="Ex.8.15" osisID="Ex.8.15" />Et vidit Pharao quoniam facta est refrigeratio. Et ingravatum est cor eius, et non exaudivit eos, sicut dixerat Dominus.<verse eID="Ex.8.15" />
+        <verse sID="Ex.8.16" osisID="Ex.8.16" />... Extende manu virgam tuam, et percute terra ...<verse eID="Ex.8.16" />
+        <verse sID="Ex.8.18" osisID="Ex.8.18" />Fecerunt autem similiter et incantatores veneficiis suis, ut educerent cyniphes, et non poterant ...<verse eID="Ex.8.18" />
+        <verse sID="Ex.8.19" osisID="Ex.8.19" />Dixerunt ergo incantatores Pharaoni, Digitus Dei est hoc ... induratum est cor Pharaonis ...<verse eID="Ex.8.19" />
+        <verse sID="Ex.8.21" osisID="Ex.8.21" />... ecce ego mitto in te, et in servos tuos, et in populum tuum, et in domos tuas cynomyiam. Et implebuntur domus Aegyptiorum cynomyia. Et in terram super quam sunt super eam.<verse eID="Ex.8.21" />
+        <verse sID="Ex.8.22" osisID="Ex.8.22" />Et gloriosam faciam in die illa terram Gessen, in qua populus meus inest super eam ... ut scias quoniam ego sum Dominus Deus omnis terrae.<verse eID="Ex.8.22" />
+        <verse sID="Ex.8.23" osisID="Ex.8.23" />Et dabo intervallum inter populum meum, et inter populum tuum ...<verse eID="Ex.8.23" />
+        <verse sID="Ex.8.25" osisID="Ex.8.25" />... Euntes immolate Domino Deo vestro in terra.<verse eID="Ex.8.25" />
+        <verse sID="Ex.8.26" osisID="Ex.8.26" />... Ait Moyses, Non potest fieri sic. Abominationes enim Aegyptiorum immolabimus Domino Deo nostro. Si enim immolaverimus abominationes Aegyptiorum palam ipsis, lapidabimur.<verse eID="Ex.8.26" />
+        <verse sID="Ex.8.27" osisID="Ex.8.27" />Viam trium dierum ibimus, et immolabimus Domino Deo nostro, sicut dixit nobis.<verse eID="Ex.8.27" />
+        <verse sID="Ex.8.29" osisID="Ex.8.29" />Et dixit Moyses, Ego exeam a te, et orabo ad Deum, et exibit cynomyia a Pharaone, et a servis eius ...<verse eID="Ex.8.29" />
+        <verse sID="Ex.8.32" osisID="Ex.8.32" />Et ingravavit Pharao cor suum et in isto tempore, et noluit dimittere populum.<verse eID="Ex.8.32" />
+      </p>
+      <chapter eID="Ex.8" />
+      <chapter sID="Ex.9" osisID="Ex.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Ex.9.1" osisID="Ex.9.1" />... Dimitte populum meum ut mihi serviant.<verse eID="Ex.9.1" />
+        <verse sID="Ex.9.7" osisID="Ex.9.7" />Videns autem Pharao, quia non est mortuum de pecoribus filiorum Israel ullum, ingravatum est cor Pharaonis ...<verse eID="Ex.9.7" />
+        <verse sID="Ex.9.8" osisID="Ex.9.8" />Dicit Deus ad Aaron et Moysen, Sumite vobis plenas manus favillae de fornace, et adspergat Moyses in coelum coram Pharaone, et coram servis eius.<verse eID="Ex.9.8" />
+        <verse sID="Ex.9.9" osisID="Ex.9.9" />Et fiat pulvis in universa terra Aegypti ...<verse eID="Ex.9.9" />
+        <verse sID="Ex.9.10" osisID="Ex.9.10" />... Iactaverunt favillam in coelum. Et facta sunt ulcera, et vesicae candentes, in hominibus, et quadrupedibus.<verse eID="Ex.9.10" />
+        <verse sID="Ex.9.16" osisID="Ex.9.16" />Et propter hoc ipsum conservatus es, ut ostendam in te virtutem meam, et ut annuntietur nomen meum in universa terra.<verse eID="Ex.9.16" />
+        <verse sID="Ex.9.18" osisID="Ex.9.18" />Ecce ego pluam hanc horam crastinam diem grandinem multam ...<verse eID="Ex.9.18" />
+        <verse sID="Ex.9.20" osisID="Ex.9.20" />Qui timuit verbum Domini servorum Pharaonis, congregavit pecora sua in domos.<verse eID="Ex.9.20" />
+        <verse sID="Ex.9.21" osisID="Ex.9.21" />Qui autem non intendit mente in verbum Domini, dimisit pecora sua in campo.<verse eID="Ex.9.21" />
+        <verse sID="Ex.9.22" osisID="Ex.9.22" />Et dixit Dominus ad Moysen, Extende manum tuam in coelum, et erit grando in omni terra Aegypti ...<verse eID="Ex.9.22" />
+        <verse sID="Ex.9.27" osisID="Ex.9.27" />... vocavit autem Pharao Moysen et Aaron, et dixit eis, Peccavi nunc. Nam Deus iustus est. Ego autem et populus meus, impii.<verse eID="Ex.9.27" />
+        <verse sID="Ex.9.28" osisID="Ex.9.28" />Orate pro me ad Dominum, ut desinant fieri voces Dei ...<verse eID="Ex.9.28" />
+        <verse sID="Ex.9.29" osisID="Ex.9.29" />... et desinent voces et grando ...<verse eID="Ex.9.29" />
+        <verse sID="Ex.9.30" osisID="Ex.9.30" />Et tu, et servi tui scio, quod nondum timetis Dominum.<verse eID="Ex.9.30" />
+      </p>
+      <chapter eID="Ex.9" />
+      <chapter sID="Ex.10" osisID="Ex.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Ex.10.1" osisID="Ex.10.1" />Dixit Dominus ad Moysen, Intra ad Pharaonem. Ego enim gravavi cor eius, et servorum eius, ut ordine superveniant signa mea haec super eos,<verse eID="Ex.10.1" />
+        <verse sID="Ex.10.2" osisID="Ex.10.2" />ut narretis in aures filiis vestris, et filiis filiorum vestrorum, quaecunque illusi Aegyptiis ...<verse eID="Ex.10.2" />
+        <verse sID="Ex.10.4" osisID="Ex.10.4" />... ecce ego induco hanc horam crastino die locustam multam ...<verse eID="Ex.10.4" />
+        <verse sID="Ex.10.8" osisID="Ex.10.8" />... qui autem, et qui sunt qui ibunt?<verse eID="Ex.10.8" />
+        <verse sID="Ex.10.12" osisID="Ex.10.12" />... Extende manum tuam super terram Aegypti, et ascendat locusta super terram ...<verse eID="Ex.10.12" />
+        <verse sID="Ex.10.16" osisID="Ex.10.16" />... Peccavi ante Dominum Deum vestrum, et in vobis.<verse eID="Ex.10.16" />
+        <verse sID="Ex.10.17" osisID="Ex.10.17" />Suscipite ergo delictum meum ...<verse eID="Ex.10.17" />
+        <verse sID="Ex.10.19" osisID="Ex.10.19" />... et non est relicta locusta una in omni terra Aegypti.<verse eID="Ex.10.19" />
+        <verse sID="Ex.10.20" osisID="Ex.10.20" />Et induravit Dominus cor Pharaonis ...<verse eID="Ex.10.20" />
+        <verse sID="Ex.10.21" osisID="Ex.10.21" />... Extende manum tuam in coelum ...<verse eID="Ex.10.21" />
+        <verse sID="Ex.10.23" osisID="Ex.10.23" />Et nemo vidit fratrem suum tribus diebus ...<verse eID="Ex.10.23" />
+        <verse sID="Ex.10.24" osisID="Ex.10.24" />... Ite, et servite Domino Deo vestro. Praeter oves et boves relinquite ...<verse eID="Ex.10.24" />
+        <verse sID="Ex.10.26" osisID="Ex.10.26" />... et non relinquemus ungulam ...<verse eID="Ex.10.26" />
+        <verse sID="Ex.10.28" osisID="Ex.10.28" />... adtende tibi ultra apponere videre faciem meam ...<verse eID="Ex.10.28" />
+      </p>
+      <chapter eID="Ex.10" />
+      <chapter sID="Ex.11" osisID="Ex.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Ex.11.1" osisID="Ex.11.1" />Dicit ... Dominus ad Moysen, Adhuc unam plagam ego induco in Pharaonem ...<verse eID="Ex.11.1" />
+        <verse sID="Ex.11.2" osisID="Ex.11.2" />Loquere ergo secreto in aures populi, et petat unusquisque a proximo, et mulier a proxima, vasa aurea et argentea, et vestem.<verse eID="Ex.11.2" />
+        <verse sID="Ex.11.6" osisID="Ex.11.6" />Et erit clamor magnus per omnem terram Aegypti, qualis non fuit, et talis non adhuc apponetur.<verse eID="Ex.11.6" />
+        <verse sID="Ex.11.7" osisID="Ex.11.7" />In filiis autem Israel non mutiet canis lingua sua, ab homine usque ad pecus ...<verse eID="Ex.11.7" />
+        <verse sID="Ex.11.9" osisID="Ex.11.9" />... Dixit autem Dominus ad Moysen, Non exaudiet vos Pharao, ut multiplicem signa mea et portenta mea in terra Aegypti.<verse eID="Ex.11.9" />
+      </p>
+      <chapter eID="Ex.11" />
+      <chapter sID="Ex.12" osisID="Ex.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Ex.12.2" osisID="Ex.12.2" />Mensis hic, vobis initium mensium. Primus est vobis in mensibus anni.<verse eID="Ex.12.2" />
+        <verse sID="Ex.12.3" osisID="Ex.12.3" />Loquere ad omnem synagogam filiorum Israel, dicens, Decima mensis huius sumat unusquisque ovem per domos familiarum, ovem per singulas domos.<verse eID="Ex.12.3" />
+        <verse sID="Ex.12.4" osisID="Ex.12.4" />Quod si pauci erunt in domo, ita ut non sufficiant ad ovem, assumet secum vicinum proximum suum, secundum numerum animarum, unusquisque, quod sufficiat sibi, computabit in agno.<verse eID="Ex.12.4" />
+        <verse sID="Ex.12.5" osisID="Ex.12.5" />Agnus autem perfectus, masculus, anniculus erit vobis. Ab agnis et hoedis sumetis.<verse eID="Ex.12.5" />
+        <verse sID="Ex.12.6" osisID="Ex.12.6" />Et erit vobis servatus usque in quartam decimam mensis huius. Et occident illum omnis multitudo synagogae filiorum Israel ad vesperum.<verse eID="Ex.12.6" />
+        <verse sID="Ex.12.7" osisID="Ex.12.7" />Et accipient de sanguine eius, et ponent super duos postes, et super limen in domibus, in quibus eum edent in ipsis.<verse eID="Ex.12.7" />
+        <verse sID="Ex.12.8" osisID="Ex.12.8" />Et edent carnes ipsa nocte assatas igni, et azyma cum picridibus edent.<verse eID="Ex.12.8" />
+        <verse sID="Ex.12.9" osisID="Ex.12.9" />Non edetis de eis crudam, neque coctam in aqua, nisi assatam igni. Caput cum pedibus et interaneis.<verse eID="Ex.12.9" />
+        <verse sID="Ex.12.10" osisID="Ex.12.10" />Nihil derelinquetis ex eis in mane. Et os non confringetis ex eo. Quae autem relicta fuerint de eo usque in mane, igni crementur.<verse eID="Ex.12.10" />
+        <verse sID="Ex.12.11" osisID="Ex.12.11" />Sic autem comedetis eum: Lumbi vestri praecincti, et caligae vestrae in pedibus vestris, et bacula vestra in manibus vestris, et edetis eum festinanter. Pascha est enim Domini.<verse eID="Ex.12.11" />
+        <verse sID="Ex.12.12" osisID="Ex.12.12" />Et pertransibo in terram Aegyptiorum in nocte illa, et percutiam omne primitivum in Aegypto ab homine usque ad pecus, et in omni terra Aegypti faciam vindictam. Ego Dominus.<verse eID="Ex.12.12" />
+        <verse sID="Ex.12.13" osisID="Ex.12.13" />Et erit vobis sanguis in signo in domibus, in quibus eritis ibi. Et videbo sanguinem, et protegam vos. Et non erit in vobis plaga exterminii, et conteram terram Aegypti.<verse eID="Ex.12.13" />
+        <verse sID="Ex.12.14" osisID="Ex.12.14" />Et erit dies hic vobis memorabilis et solemnis. Et diem festum agetis eum Domino in progenies vestras, legitimum sempiternum diem festum agetis illum.<verse eID="Ex.12.14" />
+        <verse sID="Ex.12.15" osisID="Ex.12.15" />Septem diebus azyma edetis. A primo autem die exterminabitis fermentem de domibus vestris. Omnis qui manducaverit fermentem a primo die usque in septimum diem, disperiet anima illius ex Israel.<verse eID="Ex.12.15" />
+        <verse sID="Ex.12.16" osisID="Ex.12.16" />Et primus dies vocabitur sanctus, et septimus dies vocatus sanctus erit vobis. Omne opus servile non facietis, praeterquam quod faciendum erit omni animae.<verse eID="Ex.12.16" />
+        <verse sID="Ex.12.22" osisID="Ex.12.22" />Accipietis autem falciculum hyssopi, et tinguentes ex sanguine qui est iuxta ostium, linietis super limen, et super ambos postes de sanguine ...<verse eID="Ex.12.22" />
+        <verse sID="Ex.12.23" osisID="Ex.12.23" />... Transibit Dominus percutere Aegyptios. Et videbit sanguinem in limine, et in utrisque postibus, et pertransibit ostium, et non dimittet exterminatorem intrare in domos vestras ...<verse eID="Ex.12.23" />
+        <verse sID="Ex.12.24" osisID="Ex.12.24" />Et custodies sermonem hunc legitimum tibi ipsi et filiis tuis usque in aeternum.<verse eID="Ex.12.24" />
+        <verse sID="Ex.12.26" osisID="Ex.12.26" />Et erit cum dicent ad vos filii vestri, Quae est servitus ista?<verse eID="Ex.12.26" />
+        <verse sID="Ex.12.27" osisID="Ex.12.27" />Et dicetis eis, Immolatio pascha hoc Domino ...<verse eID="Ex.12.27" />
+        <verse sID="Ex.12.28" osisID="Ex.12.28" />Et advenientes fecerunt filii Israel, sicut praecepit Dominus Moysi et Aaron, ita fecerunt.<verse eID="Ex.12.28" />
+        <verse sID="Ex.12.29" osisID="Ex.12.29" />Factum est autem circa mediam noctem, et Dominus percussit omne primogenitum in terra Aegypti, a primogenito Pharaonis, qui sedebat super thronum eius, usque ad primogenitum pecoris.<verse eID="Ex.12.29" />
+        <verse sID="Ex.12.30" osisID="Ex.12.30" />... et factus est clamor magnus in terra Aegypto. Non enim erat domus in qua non erat in ea mortuus.<verse eID="Ex.12.30" />
+        <verse sID="Ex.12.31" osisID="Ex.12.31" />Et vocavit Pharao Moysen et Aaron nocte, et dixit illis, Surgite et exite de populo meo, et vos, et filii vestri. Ite, et servite Domino Deo vestro ...<verse eID="Ex.12.31" />
+        <verse sID="Ex.12.34" osisID="Ex.12.34" />Et sumpsit populus conspersam farinam, priusquam fermentaretur massa illorum. Et ligaverunt in vestimentis suis, et imposuerunt super humeros suos.<verse eID="Ex.12.34" />
+        <verse sID="Ex.12.35" osisID="Ex.12.35" />Filii autem Israel fecerunt sicuti praeceperat illis Moyses. Et petierunt ab Aegyptiis vasa aurea et argentea, et vestem.<verse eID="Ex.12.35" />
+        <verse sID="Ex.12.36" osisID="Ex.12.36" />Et Dominus dedit gratiam populo suo coram Aegyptiis, et commodaverunt illis. Et praedati sunt Aegyptios.<verse eID="Ex.12.36" />
+        <verse sID="Ex.12.37" osisID="Ex.12.37" />Sustulerunt autem filii Israel de Ramesse in Socchoth, in sexcenta millia peditum viri, praeter instructum.<verse eID="Ex.12.37" />
+        <verse sID="Ex.12.39" osisID="Ex.12.39" />... Coxerunt conspersum, quod extulerant de Aegypto. Subcinericia azyma ...<verse eID="Ex.12.39" />
+        <verse sID="Ex.12.40" osisID="Ex.12.40" />Incolatus autem filiorum Israel, quem incoluerunt in terra Aegypto, et in terra Chanaan, ipsi, et patres eorum, anni quadringenti triginta.<verse eID="Ex.12.40" />
+        <verse sID="Ex.12.41" osisID="Ex.12.41" />Et factum est post annos quadringentos triginta, egressius est omnis exercitus Domini nocte.<verse eID="Ex.12.41" />
+        <verse sID="Ex.12.46" osisID="Ex.12.46" />In domo una comedetur, non eiicietis de domo carnem foras, os eius non confringetis.<verse eID="Ex.12.46" />
+        <verse sID="Ex.12.51" osisID="Ex.12.51" />Et factum est in die illa, eduxit Dominus filios Israel de terra Aegypti ...<verse eID="Ex.12.51" />
+      </p>
+      <chapter eID="Ex.12" />
+      <chapter sID="Ex.13" osisID="Ex.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Ex.13.1" osisID="Ex.13.1" />Ait autem Dominus ad Moysen, dicens,<verse eID="Ex.13.1" />
+        <verse sID="Ex.13.3" osisID="Ex.13.3" />Dixit Moyses ad populum, Recordamini diei huius, in qua egressi estis ex Aegypto ex domo servitutis, in manu enim forti eduxit vos hinc Dominus ...<verse eID="Ex.13.3" />
+        <verse sID="Ex.13.6" osisID="Ex.13.6" />Sex dies comedetis azyma. At die septima festum Domino.<verse eID="Ex.13.6" />
+        <verse sID="Ex.13.7" osisID="Ex.13.7" />... non apparebit ibi fermentatum ...<verse eID="Ex.13.7" />
+        <verse sID="Ex.13.9" osisID="Ex.13.9" />... erit tibi in signum super manum tuam ...<verse eID="Ex.13.9" />
+        <verse sID="Ex.13.11" osisID="Ex.13.11" />Et erit cum inducet te Deus in terram Chananaeorum, sicut iuravit patribus tuis, et dabit tibi.<verse eID="Ex.13.11" />
+        <verse sID="Ex.13.12" osisID="Ex.13.12" />Tolles omne quod aperit vulvam masculinum Domino, omne quod aperit vulvam de armentis et pecoribus tuis, quaecunque nata fuerint tibi masculina, sanctifica Domino.<verse eID="Ex.13.12" />
+        <verse sID="Ex.13.13" osisID="Ex.13.13" />Omne quod aperit vulvam asinae, mutabis illud ove. Si autem non mutabis, redimes illud ...<verse eID="Ex.13.13" />
+        <verse sID="Ex.13.15" osisID="Ex.13.15" />... propter hoc ego immolo Domino omne quod aperit vulvam masculina ...<verse eID="Ex.13.15" />
+        <verse sID="Ex.13.16" osisID="Ex.13.16" />Et erit in signum super manum tuam ...<verse eID="Ex.13.16" />
+        <verse sID="Ex.13.17" osisID="Ex.13.17" />Cum autem dimisit Pharao populum, non deduxit eos Deus viam terrae Philistiim, quia prope erat. Dixit enim Deus, Nequando poeniteat populum, cum viderit praelium, et revertatur in Aegyptum.<verse eID="Ex.13.17" />
+        <verse sID="Ex.13.18" osisID="Ex.13.18" />... Quinta autem progenie ascenderunt filii Israel de terra Aegypti.<verse eID="Ex.13.18" />
+        <verse sID="Ex.13.21" osisID="Ex.13.21" />Deus autem praeibat illos, die quidem in columna nubis, et ostendebat illis viam. Nocte autem in columna ignis.<verse eID="Ex.13.21" />
+        <verse sID="Ex.13.22" osisID="Ex.13.22" />Et non deficiebat columna nubis die, et columna ignis nocte, ante populum.<verse eID="Ex.13.22" />
+      </p>
+      <chapter eID="Ex.13" />
+      <chapter sID="Ex.14" osisID="Ex.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Ex.14.5" osisID="Ex.14.5" />... Quid fecimus ut dimitteremus filios Israel, ut non servirent nobis?<verse eID="Ex.14.5" />
+        <verse sID="Ex.14.6" osisID="Ex.14.6" />Iunxit ergo Pharao currus suos ...<verse eID="Ex.14.6" />
+        <verse sID="Ex.14.11" osisID="Ex.14.11" />... Quid hoc nobis fecisti, in eiiciendo nos de Aegypto?<verse eID="Ex.14.11" />
+        <verse sID="Ex.14.12" osisID="Ex.14.12" />... Melius est nobis servire Aegyptiis, quam mori in solitudine hac.<verse eID="Ex.14.12" />
+        <verse sID="Ex.14.13" osisID="Ex.14.13" />Et dixit Moyses ad populum, Fidite, et state, et cernite salutem quae a Domino est, quam vobis faciet hodie. Sicut enim vidistis Aegyptios hodie, non apponetis amplius videre eos in aeternum tempus.<verse eID="Ex.14.13" />
+        <verse sID="Ex.14.14" osisID="Ex.14.14" />Dominus ipse pugnabit pro vobis, et vos tacebitis.<verse eID="Ex.14.14" />
+        <verse sID="Ex.14.15" osisID="Ex.14.15" />Dixit Dominus ad Moysen, Quid clamas ad me? Dic filiis Israel, et iungant se.<verse eID="Ex.14.15" />
+        <verse sID="Ex.14.16" osisID="Ex.14.16" />Et tu leva virgam tuam super mare, et divide illud. Et intrent filii Israel per medium mare, per siccum.<verse eID="Ex.14.16" />
+        <verse sID="Ex.14.17" osisID="Ex.14.17" />Ego enim indurabo cor Pharaonis, et Aegyptiorum omnium ut insequantur eos. Et magnificabor in Pharaone, et in omni exercitu eius ...<verse eID="Ex.14.17" />
+        <verse sID="Ex.14.19" osisID="Ex.14.19" />Promovit autem angelus Dei, qui praecedebat exercitum filiorum Israel ...<verse eID="Ex.14.19" />
+        <verse sID="Ex.14.22" osisID="Ex.14.22" />... filii Israel perrexerunt per siccum in medio maris. Et aqua erat eis murus a dextris, et murus a sinistris.<verse eID="Ex.14.22" />
+        <verse sID="Ex.14.24" osisID="Ex.14.24" />... respexit enim super castra Aegyptiorum ...<verse eID="Ex.14.24" />
+        <verse sID="Ex.14.25" osisID="Ex.14.25" />Et colligavit axes curruum eorum ...<verse eID="Ex.14.25" />
+        <verse sID="Ex.14.27" osisID="Ex.14.27" />... et excussit Dominus Aegyptios in medium maris.<verse eID="Ex.14.27" />
+        <verse sID="Ex.14.28" osisID="Ex.14.28" />Et reversa aqua cooperuit currus, et ascensores, et omnem exercitum Pharaonis, qui ingressi fuerunt post eos in mare. Et non relictus est ex eis ullus.<verse eID="Ex.14.28" />
+        <verse sID="Ex.14.31" osisID="Ex.14.31" />... Vidit autem Israel manum magnam quae fecit Dominus Aegyptiis ...<verse eID="Ex.14.31" />
+      </p>
+      <chapter eID="Ex.14" />
+      <chapter sID="Ex.15" osisID="Ex.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Ex.15.1" osisID="Ex.15.1" />Tunc cantavit Moyses et filii Israel canticum hoc Domino, et dixerunt dicere, Cantemus Domino. Gloriose enim magnificatus est. Equum et ascensorem deiecit in mare.<verse eID="Ex.15.1" />
+        <verse sID="Ex.15.2" osisID="Ex.15.2" />Adiutor, et protector factus est mihi in salutem. Iste Deus meus, et glorificabo eum. Deus patris mei, et exaltabo eum.<verse eID="Ex.15.2" />
+        <verse sID="Ex.15.3" osisID="Ex.15.3" />Dominus conterens bella, Dominus nomen est ei.<verse eID="Ex.15.3" />
+        <verse sID="Ex.15.4" osisID="Ex.15.4" />Currus Faraonis et exercitum eius proiecit in mare. Electos ascensores ternos stantes demersit in rubro mari.<verse eID="Ex.15.4" />
+        <verse sID="Ex.15.5" osisID="Ex.15.5" />Pelago cooperuit eos, devenerunt in profundum tanquam lapis.<verse eID="Ex.15.5" />
+        <verse sID="Ex.15.6" osisID="Ex.15.6" />Dextera tua, Domine, glorificata est in virtutue. Dextera manus tua, Domine, confregit inimicos.<verse eID="Ex.15.6" />
+        <verse sID="Ex.15.7" osisID="Ex.15.7" />Et per multitudinem gloriae tuae contribulasti adversarios. Misisti iram tuam, et comedit illos tanquam stipulam.<verse eID="Ex.15.7" />
+        <verse sID="Ex.15.8" osisID="Ex.15.8" />Et per spiritum irae tuae divisa est aqua. Gelaverunt tanquam murus aquae, gelaverunt fluctus in medio mari.<verse eID="Ex.15.8" />
+        <verse sID="Ex.15.9" osisID="Ex.15.9" />Dixit inimicus, Persequens comprehendam, partibor spolia, replebo animam meam. Interficiam gladio meo, dominabitur manus mea.<verse eID="Ex.15.9" />
+        <verse sID="Ex.15.10" osisID="Ex.15.10" />Misisti spiritum tuum, et cooperuit eos mare. Descenderunt tanquam plumbum in aquam validissimam.<verse eID="Ex.15.10" />
+        <verse sID="Ex.15.11" osisID="Ex.15.11" />Quis similis tibi in diis Domine? Quis similis tibi, gloriosus in sanctis, mirabilis in maiestatibus, faciens prodigia?<verse eID="Ex.15.11" />
+        <verse sID="Ex.15.12" osisID="Ex.15.12" />Extendisti dexteram tuam, et devoravit eos terra.<verse eID="Ex.15.12" />
+        <verse sID="Ex.15.13" osisID="Ex.15.13" />Gubernasti in iustitia tua populum tuum hunc quem redemisti. Exhortatus es in virtute tua, in requie sancta tua.<verse eID="Ex.15.13" />
+        <verse sID="Ex.15.14" osisID="Ex.15.14" />Audierunt gentes, et iratae sunt. Dolores comprehenderunt habitantes Philistiim.<verse eID="Ex.15.14" />
+        <verse sID="Ex.15.15" osisID="Ex.15.15" />Tunc festinaverunt duces Edom, et principes Moabitarum. Apprehendit illos tremor. Fluxerunt omnes habitantes Chanaan.<verse eID="Ex.15.15" />
+        <verse sID="Ex.15.16" osisID="Ex.15.16" />Cecidit super eos timor et tremor, magnitudine brachii tui. Fiant tanquam lapis, donec pertranseat populus tuus, Domine, usquedum transeat populus tuus, Domine, hunc quem adquisisti.<verse eID="Ex.15.16" />
+        <verse sID="Ex.15.17" osisID="Ex.15.17" />Inducens plantato eos in montem haereditatis tuae, in praeparatam habitationem tuam quam praeparasti Domine. Sanctificationem Domine, quam paraverunt manus tuae.<verse eID="Ex.15.17" />
+        <verse sID="Ex.15.18" osisID="Ex.15.18" />Domine, qui regnas in aeternum, et in saeculum, et adhuc.<verse eID="Ex.15.18" />
+        <verse sID="Ex.15.19" osisID="Ex.15.19" />Quia introiit equitatus Pharaonis cum curribus et ascensoribus in mare. Et adduxit super eos Dominus aquas maris. Filii autem Israel transierunt per siccum in medio mari.<verse eID="Ex.15.19" />
+        <verse sID="Ex.15.20" osisID="Ex.15.20" />Sumpsit autem Maria prophetis, soror Aaron, tympanum in manu sua, et exierunt postea omnes mulieres cum tympanis et choris.<verse eID="Ex.15.20" />
+        <verse sID="Ex.15.21" osisID="Ex.15.21" />Praecedebat autem eas Maria, dicens, Cantemus Domino, gloriose enim honorificatus est, equum et ascensorem proiecit in mare.<verse eID="Ex.15.21" />
+        <verse sID="Ex.15.22" osisID="Ex.15.22" />... et non inveniebant aquam, ut biberent.<verse eID="Ex.15.22" />
+        <verse sID="Ex.15.23" osisID="Ex.15.23" />Venerunt autem in Merra, et non poterant bibere de Merra, amara enim erat ...<verse eID="Ex.15.23" />
+        <verse sID="Ex.15.24" osisID="Ex.15.24" />Et murmuravit populus adversus Moysen, dicentes ...<verse eID="Ex.15.24" />
+        <verse sID="Ex.15.25" osisID="Ex.15.25" />... et ostendit ei Dominus lignum, et misit illud in aquam, et facta est aqua dulcis ...<verse eID="Ex.15.25" />
+        <verse sID="Ex.15.26" osisID="Ex.15.26" />... Si audieris vocem Domini Dei tui, et quae placent ei feceris coram ipso, et obedieris praeceptis eius, et custodieris omnem iustitiam eius, omnem infirmitatem, quam importavi Aegyptiis, non importabo in te. Ego enim Dominus sum qui salvum facio te.<verse eID="Ex.15.26" />
+      </p>
+      <chapter eID="Ex.15" />
+      <chapter sID="Ex.16" osisID="Ex.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Ex.16.1" osisID="Ex.16.1" />... et venerunt omnis synagoga filiorum Israel in eremum.<verse eID="Ex.16.1" />
+        <verse sID="Ex.16.2" osisID="Ex.16.2" />Murmurabant omnis synagoga filiorum Israel adversus Moysen et Aaron.<verse eID="Ex.16.2" />
+        <verse sID="Ex.16.3" osisID="Ex.16.3" />... Utinam obiissemus percussi a Domino in terra Aegypti, quando super ollas carnium sedebamus, et panes in plenitudinem comedebamus, quoniam eduxisti nos in haec deserta ad interficiendam synagogam istam fame.<verse eID="Ex.16.3" />
+        <verse sID="Ex.16.4" osisID="Ex.16.4" />Dixit autem Dominus ad Moysen, Ecce, ego pluam vobis panes de coelo, et exiet populus, et colliget unius diei in diem, ut tentem illos si ambulabunt in lege mea, an non.<verse eID="Ex.16.4" />
+        <verse sID="Ex.16.7" osisID="Ex.16.7" />Mane videbitis gloriam. Dum exaudiet murmurationem vestram super Deum ...<verse eID="Ex.16.7" />
+        <verse sID="Ex.16.8" osisID="Ex.16.8" />... propter quod exaudivit Dominus murmurationem vestram, quam vos murmuratis adversum nos, nos autem quid sumus? Non enim adversum nos murmur vestrum est, sed adversus Deum.<verse eID="Ex.16.8" />
+        <verse sID="Ex.16.9" osisID="Ex.16.9" />... Accedite ante Deum. Exaudivit enim murmur vestrum.<verse eID="Ex.16.9" />
+        <verse sID="Ex.16.10" osisID="Ex.16.10" />... et maiestas Domini apparuit in nube.<verse eID="Ex.16.10" />
+        <verse sID="Ex.16.11" osisID="Ex.16.11" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Ex.16.11" />
+        <verse sID="Ex.16.12" osisID="Ex.16.12" />Exaudivi murmur filiorum Israel ... Ad vesperam edetis carnes, et mane replebimini panibus ...<verse eID="Ex.16.12" />
+        <verse sID="Ex.16.13" osisID="Ex.16.13" />Factum est vespere, et adscendit coturnix, et cooperuit castra ...<verse eID="Ex.16.13" />
+        <verse sID="Ex.16.14" osisID="Ex.16.14" />Et ecce in facie eremi minutum tanquam coriandrum ...<verse eID="Ex.16.14" />
+        <verse sID="Ex.16.15" osisID="Ex.16.15" />... Hic est panis, quem dedit vobis manducare Dominus.<verse eID="Ex.16.15" />
+        <verse sID="Ex.16.16" osisID="Ex.16.16" />... sermo quem ordinavit Deus ... secundum numerum animarum vestrarum unusquisque cum commanentibus vobis colligite.<verse eID="Ex.16.16" />
+        <verse sID="Ex.16.17" osisID="Ex.16.17" />... et collegerunt, qui plurimum, et qui minimum.<verse eID="Ex.16.17" />
+        <verse sID="Ex.16.18" osisID="Ex.16.18" />Et mensuram fecerunt gomor. Et non abundavit, nec superfuit ei qui multum, et ei qui minus, non defuit. Unusquisque enim pro numero animarum qui apud se erat in tabernaculis, collegerunt.<verse eID="Ex.16.18" />
+        <verse sID="Ex.16.21" osisID="Ex.16.21" />Et collegerunt illud mane mane ...<verse eID="Ex.16.21" />
+        <verse sID="Ex.16.28" osisID="Ex.16.28" />... Quoad usque non vultis obaudire mandata mea, et legitima mea?<verse eID="Ex.16.28" />
+        <verse sID="Ex.16.29" osisID="Ex.16.29" />Considerate, non Dominus Deus dedit vobis istum diem sabbati? Propterea ipse dedit vobis panes duum dierum ... nullus vestrum egrediatur unusquisque de loco suo die septimo.<verse eID="Ex.16.29" />
+        <verse sID="Ex.16.33" osisID="Ex.16.33" />Et dixit Moyses ad Aaron, Accipe vas aureum unum, et mitte illud plenum gomor Manna. Et repones illud ante Deum, ut servetur in progenies ...<verse eID="Ex.16.33" />
+        <verse sID="Ex.16.34" osisID="Ex.16.34" />quaemadmodum praecepit Dominus ... Et reposuit Aaron ante testimonium ad reservandum.<verse eID="Ex.16.34" />
+        <verse sID="Ex.16.35" osisID="Ex.16.35" />Filii autem Israel ederunt Manna annis quadraginta, quoad usque venirent in terram, quae inhabitatur. Manna ederunt, quoad usque venirent in partem Phoenicis.<verse eID="Ex.16.35" />
+      </p>
+      <chapter eID="Ex.16" />
+      <chapter sID="Ex.17" osisID="Ex.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Ex.17.1" osisID="Ex.17.1" />Et profecta est omnis congregatio filiorum Israel ex deserto Sin per castra sua, secundum verbum Domini, et castrametati sunt in Raphidim. Non erat autem aqua populo ad bibendum.<verse eID="Ex.17.1" />
+        <verse sID="Ex.17.2" osisID="Ex.17.2" />Et maledicebant populus ad Moysen ... Quid maledicitis mihi? ...<verse eID="Ex.17.2" />
+        <verse sID="Ex.17.3" osisID="Ex.17.3" />... et murmuravit populus ad Moysen, dicentes ...<verse eID="Ex.17.3" />
+        <verse sID="Ex.17.5" osisID="Ex.17.5" />Et dixit Dominus ad Moysen, Antecede populum, sume autem tecum de senioribus populi. Et virgam in qua percussisti flumen, accipe in manu tua ...<verse eID="Ex.17.5" />
+        <verse sID="Ex.17.6" osisID="Ex.17.6" />Ego steti hic priusquam tu ... percuties petram, et exiet aqua ex ea, et bibet populus ...<verse eID="Ex.17.6" />
+        <verse sID="Ex.17.9" osisID="Ex.17.9" />Dixit Moyses ad Iesum, Elige tibi viros. Et exi, et constitue cum Amalech in crastinum. Ecce ego stabo in cacumine collis, et virga Dei in manu mea.<verse eID="Ex.17.9" />
+        <verse sID="Ex.17.11" osisID="Ex.17.11" />Et factum est cum levabat manus Moyses, praevalebat Israel. Ubi autem submiserat manus Moyses, invalescebat Amalech.<verse eID="Ex.17.11" />
+        <verse sID="Ex.17.12" osisID="Ex.17.12" />Sed manus Moysi erant graves. Et accepto lapide, supposuerunt sub eo, et sedebat super eum. Et Aaron et Ur sustentabant manus eius hinc et inde. Et factae sunt manus Moysi stabiles usque in occasum solis.<verse eID="Ex.17.12" />
+        <verse sID="Ex.17.13" osisID="Ex.17.13" />Et fugavit Iesus Amalech, et omnem populum eius ...<verse eID="Ex.17.13" />
+        <verse sID="Ex.17.14" osisID="Ex.17.14" />Et dixit Dominus ad Moysen, Scribe hoc, ut sit memoria in libro, et da in aures Iesu, quoniam deletione deleam memoriam Amalech de sub coelo.<verse eID="Ex.17.14" />
+        <verse sID="Ex.17.15" osisID="Ex.17.15" />... Dominus meum refugium.<verse eID="Ex.17.15" />
+      </p>
+      <chapter eID="Ex.17" />
+      <chapter sID="Ex.18" osisID="Ex.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Ex.18.12" osisID="Ex.18.12" />Et sumpsit Iothor socer Moysi holocaustomata et sacrificia Deo. Venit autem et Aaron, et omnes seniores Israel manducare panem cum socero Moysi ante Deum.<verse eID="Ex.18.12" />
+        <verse sID="Ex.18.15" osisID="Ex.18.15" />Moyses socero dixit, Quia venit ad me populus inquirere iudicium a Deo.<verse eID="Ex.18.15" />
+        <verse sID="Ex.18.16" osisID="Ex.18.16" />Cum eis contigerit disceptatio, et venerint ad me, iudico unumquemque, et moneo eos praecepta Dei, et legem eius.<verse eID="Ex.18.16" />
+        <verse sID="Ex.18.18" osisID="Ex.18.18" />... grave tibi verbum hoc ...<verse eID="Ex.18.18" />
+        <verse sID="Ex.18.19" osisID="Ex.18.19" />Nunc itaque audi me, et consilium dabo tibi, et erit Deus tecum. Esto tu populo quae ad Deum, et referes verba eorum ad Deum.<verse eID="Ex.18.19" />
+        <verse sID="Ex.18.20" osisID="Ex.18.20" />Et testaberis illis praecepta Dei, et legem eius. Et demonstrabis illis vias, in quibus ambulabunt in eis, et opera quae facient.<verse eID="Ex.18.20" />
+        <verse sID="Ex.18.24" osisID="Ex.18.24" />Audivit autem Moyses vocem soceri sui, et fecit quaecunque dixit ei.<verse eID="Ex.18.24" />
+        <verse sID="Ex.18.26" osisID="Ex.18.26" />... verbum autem grave referebant ad Moysen. Omne autem verbum leve iudicabant ipsi.<verse eID="Ex.18.26" />
+      </p>
+      <chapter eID="Ex.18" />
+      <chapter sID="Ex.19" osisID="Ex.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Ex.19.1" osisID="Ex.19.1" />Mensis autem tertii exitus filiorum Israel de terra Aegypti, hac die venerunt in eremum Sina.<verse eID="Ex.19.1" />
+        <verse sID="Ex.19.2" osisID="Ex.19.2" />Et profecti sunt ex Raphidin, et venerunt in eremum Sina, et applicuit Israel ibi contra montem.<verse eID="Ex.19.2" />
+        <verse sID="Ex.19.3" osisID="Ex.19.3" />Et Moyses ascendit in montem Dei, et vocavit eum Dominus de monte, dicens, Haec dices domui Iacob, et nunciabis filiis Israel,<verse eID="Ex.19.3" />
+        <verse sID="Ex.19.4" osisID="Ex.19.4" />Ipsi vidistis, quanta fecerim Aegyptiis, et assumpsi vos tanquam supra pinnas aquilae, et adduxi vos ad me.<verse eID="Ex.19.4" />
+        <verse sID="Ex.19.5" osisID="Ex.19.5" />Et nunc si auditu audieritis vocem meam, et custodieritis testamentum meum, eritis mihi populus abundans prae omnibus gentibus. Mea est universa terra.<verse eID="Ex.19.5" />
+        <verse sID="Ex.19.6" osisID="Ex.19.6" />Vos autem eritis mihi regnum sanctissimum, et gens sancta ...<verse eID="Ex.19.6" />
+        <verse sID="Ex.19.8" osisID="Ex.19.8" />... Omnia quaecunque dixit Deus, et audiemus, et faciemus ...<verse eID="Ex.19.8" />
+        <verse sID="Ex.19.10" osisID="Ex.19.10" />Et dixit Dominus ad Moysen, Descende, et testare populo, et purifica illos hodie, et cras, et lavent vestimenta,<verse eID="Ex.19.10" />
+        <verse sID="Ex.19.11" osisID="Ex.19.11" />et sint parati in diem tertium. Tertia enim die descendet Dominus in montem Sina coram omni populo.<verse eID="Ex.19.11" />
+        <verse sID="Ex.19.15" osisID="Ex.19.15" />... Estote parati tribus diebus, non accedetis ad mulieres.<verse eID="Ex.19.15" />
+        <verse sID="Ex.19.18" osisID="Ex.19.18" />Sina autem mons fumabat totus. Propterea quod descendisset Deus in eum in igne, et ascendebat fumus tanquam fumus fornacis. Et mente confusus est omnis populus vehementer.<verse eID="Ex.19.18" />
+        <verse sID="Ex.19.19" osisID="Ex.19.19" />Fiebant autem voces tubae prodeuntes fortiter valde. Moyses loquebatur, et Deus respondebat ei voce.<verse eID="Ex.19.19" />
+        <verse sID="Ex.19.22" osisID="Ex.19.22" />Et Sacerdotes qui accedunt ad Dominum Deum, sanctificentur, ne forte derelinquat illos Dominus.<verse eID="Ex.19.22" />
+      </p>
+      <chapter eID="Ex.19" />
+      <chapter sID="Ex.20" osisID="Ex.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Ex.20.2" osisID="Ex.20.2" />Ego sum Dominus Deus tuus, qui te eduxi de terra Aegypti, de domo servitutis.<verse eID="Ex.20.2" />
+        <verse sID="Ex.20.3" osisID="Ex.20.3" />Non erunt tibi dii alii praeter me.<verse eID="Ex.20.3" />
+        <verse sID="Ex.20.4" osisID="Ex.20.4" />Non facies tibi idolum, neque ullum simulacrum, quaecunque in coelo sunt sursum, et quaecunque in terra deorsum, et quaecunque in aqua sub terra.<verse eID="Ex.20.4" />
+        <verse sID="Ex.20.5" osisID="Ex.20.5" />Non adorabis ea, neque servies illis. Ego sum Dominus Deus tuus, Deus zelans, qui reddo peccata patrum in filios, in tertiam et quartam progeniem, in his qui oderunt me,<verse eID="Ex.20.5" />
+        <verse sID="Ex.20.6" osisID="Ex.20.6" />et faciens misericordiam in millia millium his qui amant, et custodiunt praecepta mea.<verse eID="Ex.20.6" />
+        <verse sID="Ex.20.7" osisID="Ex.20.7" />Non assumes nomen Dei tui in vanum. Non enim mundabit eum Dominus qui sumit nomen eius in vanum.<verse eID="Ex.20.7" />
+        <verse sID="Ex.20.8" osisID="Ex.20.8" />Memento diem Sabbatorum sanctificare eum.<verse eID="Ex.20.8" />
+        <verse sID="Ex.20.9" osisID="Ex.20.9" />Sex diebus operare, et facies omnia opera tua.<verse eID="Ex.20.9" />
+        <verse sID="Ex.20.10" osisID="Ex.20.10" />Septima autem die sabbata Domino Deo tuo. Non facies in ea omne opus ...<verse eID="Ex.20.10" />
+        <verse sID="Ex.20.12" osisID="Ex.20.12" />Honora patrem tuum et matrem tuam, ut bene sit tibi, et sis longaevus super terram, quam Dominus Deus tuus dabit tibi.<verse eID="Ex.20.12" />
+        <verse sID="Ex.20.13" osisID="Ex.20.13" />Non occides.<verse eID="Ex.20.13" />
+        <verse sID="Ex.20.14" osisID="Ex.20.14" />Non moechaberis.<verse eID="Ex.20.14" />
+        <verse sID="Ex.20.15" osisID="Ex.20.15" />Non suraberis.<verse eID="Ex.20.15" />
+        <verse sID="Ex.20.16" osisID="Ex.20.16" />Falsum testimonium non dices adversus proximum tuum.<verse eID="Ex.20.16" />
+        <verse sID="Ex.20.17" osisID="Ex.20.17" />Non concupisces uxorem proximi tui. Non concupisces domum proximi tui, neque agrum eius, neque servum eius, neque ancillam eius, neque bovem eius, neque subiugale eius, neque omne pecus eius, neque quaecunque proximi tui sunt.<verse eID="Ex.20.17" />
+        <verse sID="Ex.20.18" osisID="Ex.20.18" />Et omnis populus videbat vocem et lampadas, et vocem tubae, et montem fumantem ...<verse eID="Ex.20.18" />
+        <verse sID="Ex.20.19" osisID="Ex.20.19" />Et dixerunt ad Moysen, Loquere tu nobis, et non loquatur ad nos Deus, nequando moriamur.<verse eID="Ex.20.19" />
+        <verse sID="Ex.20.20" osisID="Ex.20.20" />Et dicit eis Moyses, Constantes estote. Propterea enim venit Deus ad vos tentare vos, ut sit timor eius in vobis, ne peccetis.<verse eID="Ex.20.20" />
+        <verse sID="Ex.20.21" osisID="Ex.20.21" />Et stabat omnis populus a longe. Moyses autem intravit in nebulam ubi erat Deus.<verse eID="Ex.20.21" />
+        <verse sID="Ex.20.22" osisID="Ex.20.22" />Et dixit Dominus ad Moysen ... Ipsi vidistis quod de coelo locutus ad vos sim.<verse eID="Ex.20.22" />
+        <verse sID="Ex.20.23" osisID="Ex.20.23" />Non facietis vobis deos argenteos, et deos aureos non facietis vobis ipsis.<verse eID="Ex.20.23" />
+        <verse sID="Ex.20.24" osisID="Ex.20.24" />Altare de terra facietis mihi, et immolabitis super illud holocausta et salutaria vestra ... et veniam ad te, et benedicam te.<verse eID="Ex.20.24" />
+        <verse sID="Ex.20.26" osisID="Ex.20.26" />... ne pudenda tua reveles super illud.<verse eID="Ex.20.26" />
+      </p>
+      <chapter eID="Ex.20" />
+      <chapter sID="Ex.21" osisID="Ex.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Ex.21.1" osisID="Ex.21.1" />Et hae iustificationes quas pones coram illis.<verse eID="Ex.21.1" />
+        <verse sID="Ex.21.2" osisID="Ex.21.2" />Si emeris puerum Hebraeum, et servierit tibi annis sex ...<verse eID="Ex.21.2" />
+        <verse sID="Ex.21.5" osisID="Ex.21.5" />... Dilexi dominum meum et uxorem et infantes, non abibo liber.<verse eID="Ex.21.5" />
+        <verse sID="Ex.21.6" osisID="Ex.21.6" />... pertundet ei dominus auriculam de subula. Et serviet ei in sempiternum.<verse eID="Ex.21.6" />
+        <verse sID="Ex.21.7" osisID="Ex.21.7" />Si quis autem vendiderit filiam suam famulam, non abibit ita ut recedunt ancillae.<verse eID="Ex.21.7" />
+        <verse sID="Ex.21.8" osisID="Ex.21.8" />Quod si non placuerit domino suo quam non adnominavit eam, remunerabit eam. Genti autem exterae non est dominus vendere illam, quoniam sprevit in ea.<verse eID="Ex.21.8" />
+        <verse sID="Ex.21.9" osisID="Ex.21.9" />Quod si filio adnominaverit eam, secundum iustificationem filiarum faciet ei.<verse eID="Ex.21.9" />
+        <verse sID="Ex.21.10" osisID="Ex.21.10" />Quod si aliam accipiet ei, quae opus sunt, et vestem, et conversationem eius non fraudabit.<verse eID="Ex.21.10" />
+        <verse sID="Ex.21.11" osisID="Ex.21.11" />Si autem tria haec non fecerit ei, exibit gratis sine pretio.<verse eID="Ex.21.11" />
+        <verse sID="Ex.21.12" osisID="Ex.21.12" />Si quis percusserit aliquem et mortuus fuerit, morte moriatur.<verse eID="Ex.21.12" />
+        <verse sID="Ex.21.13" osisID="Ex.21.13" />Qui autem nolens, sed Deus tradidit in manus eius, dabo tibi locum in quem fugiat ibi qui occiderit.<verse eID="Ex.21.13" />
+        <verse sID="Ex.21.17" osisID="Ex.21.17" />Qui maledixerit patri vel matri, morte morietur.<verse eID="Ex.21.17" />
+        <verse sID="Ex.21.20" osisID="Ex.21.20" />Si quis percusserit servum suum, aut ancillam suam in virga ...<verse eID="Ex.21.20" />
+        <verse sID="Ex.21.22" osisID="Ex.21.22" />Si autem litigabunt duo viri, et percusserint mulierem in utero habentem, et exierit infans eius nondum formatus, detrimentum patietur, quantum indixerit vir mulieris, et dabit cum postulatione.<verse eID="Ex.21.22" />
+        <verse sID="Ex.21.23" osisID="Ex.21.23" />Si autem formatum fuerit, dabit animam pro anima,<verse eID="Ex.21.23" />
+        <verse sID="Ex.21.24" osisID="Ex.21.24" />oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede,<verse eID="Ex.21.24" />
+        <verse sID="Ex.21.25" osisID="Ex.21.25" />combustionem pro combustione, vulnus pro vulnere, livorem pro livore.<verse eID="Ex.21.25" />
+        <verse sID="Ex.21.28" osisID="Ex.21.28" />Si autem cornu percusserit taurus virum aut mulierem, et mortuus fuerit, lapidibus lapidabitur taurus. Et non manducabuntur carnes eius, dominus autem tauri innocens erit.<verse eID="Ex.21.28" />
+        <verse sID="Ex.21.29" osisID="Ex.21.29" />Si autem taurus cornupeta erat ante hesternam et nudiustertianam ...<verse eID="Ex.21.29" />
+        <verse sID="Ex.21.33" osisID="Ex.21.33" />Si quis autem aperuerit lacum, aut exciderit lacum, et non operuerit eum, et ceciderit illuc vitulus aut asinus,<verse eID="Ex.21.33" />
+        <verse sID="Ex.21.34" osisID="Ex.21.34" />dominus laci reddet ... quod autem mortuum fuerit, ipsi erit.<verse eID="Ex.21.34" />
+        <verse sID="Ex.21.35" osisID="Ex.21.35" />Si autem cornu percusserit alicuius taurus taurum proximi, et mortuus fuerit. Vendent taurum vivum, et partientur pretium eius, et taurum, qui mortuus fuerit, dispertientur.<verse eID="Ex.21.35" />
+      </p>
+      <chapter eID="Ex.21" />
+      <chapter sID="Ex.22" osisID="Ex.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Ex.22.1" osisID="Ex.22.1" />Si quis furatus fuerit vitulum, aut ovem ...<verse eID="Ex.22.1" />
+        <verse sID="Ex.22.2" osisID="Ex.22.2" />Si autem perfodiens inventus fuerit fur, et percussus mortuus fuerit. Non est illi homicidium.<verse eID="Ex.22.2" />
+        <verse sID="Ex.22.3" osisID="Ex.22.3" />Si autem orietur sol super eum, reus est, pro morte morietur ...<verse eID="Ex.22.3" />
+        <verse sID="Ex.22.5" osisID="Ex.22.5" />Si autem depaverit quis agrum aut vineam, et admiserit pecus suum depascere agrum alium ...<verse eID="Ex.22.5" />
+        <verse sID="Ex.22.9" osisID="Ex.22.9" />... qui convictus fuerit per deum, restituet duplo ...<verse eID="Ex.22.9" />
+        <verse sID="Ex.22.20" osisID="Ex.22.20" />Sacrificans diis eradicabitur, nisi Domino soli.<verse eID="Ex.22.20" />
+        <verse sID="Ex.22.21" osisID="Ex.22.21" />Advenam non vexabitis, nec tribulabitis eum. Fuistis etenim et vos advenae in terra Aegypti.<verse eID="Ex.22.21" />
+        <verse sID="Ex.22.22" osisID="Ex.22.22" />Omnem viduam et orphanum non vexabitis.<verse eID="Ex.22.22" />
+        <verse sID="Ex.22.23" osisID="Ex.22.23" />Si autem vexaveritis eos, et vociferantes exclamaverint ad me, exaudiam exclamationes eorum.<verse eID="Ex.22.23" />
+        <verse sID="Ex.22.24" osisID="Ex.22.24" />Et irascar animo in vobis, et perimam vos gladio, et erunt coniuges vestrae viduae, et filii vestri orphani.<verse eID="Ex.22.24" />
+        <verse sID="Ex.22.25" osisID="Ex.22.25" />Quod si pecuniam foeneraveris pupillo, orphano, pauperi aupd te, non suffocabis eum, non impones illi usuram.<verse eID="Ex.22.25" />
+        <verse sID="Ex.22.26" osisID="Ex.22.26" />Quod si pignus acceperis vestimentum propinqui tui, ante solis occasum restitues illud.<verse eID="Ex.22.26" />
+        <verse sID="Ex.22.27" osisID="Ex.22.27" />Est enim hoc coopertorium eius, tantum hoc vestimentum turpitudinis eius, in quo dormiet. Quod si itaque proclamaverit ad me, exaudiam eum, quia misericors sum.<verse eID="Ex.22.27" />
+        <verse sID="Ex.22.28" osisID="Ex.22.28" />Deos non maledices, et principem populi tui non maledices.<verse eID="Ex.22.28" />
+        <verse sID="Ex.22.29" osisID="Ex.22.29" />Initia areae tuae et lacus tui non novissima facies. Primitiva filiorum tuorum dabis mihi.<verse eID="Ex.22.29" />
+        <verse sID="Ex.22.31" osisID="Ex.22.31" />... a bestia captum ne tetigeritis ...<verse eID="Ex.22.31" />
+      </p>
+      <chapter eID="Ex.22" />
+      <chapter sID="Ex.23" osisID="Ex.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Ex.23.1" osisID="Ex.23.1" />Non credes auditui vano. Non consenties cum inquo fieri testis iniustus.<verse eID="Ex.23.1" />
+        <verse sID="Ex.23.2" osisID="Ex.23.2" />Non eris cum pluribus in malitia. Non apponeris cum multitudine declinare cum pluribus, ut declines iudicium.<verse eID="Ex.23.2" />
+        <verse sID="Ex.23.3" osisID="Ex.23.3" />Et pauperis non misereberis in iudicio.<verse eID="Ex.23.3" />
+        <verse sID="Ex.23.4" osisID="Ex.23.4" />Si autem obviaveris bovi inimici tui, aut subiugali eius errantibus, reducens reddes ei.<verse eID="Ex.23.4" />
+        <verse sID="Ex.23.5" osisID="Ex.23.5" />Si videris boves inimici tui sub onere ruisse, non transies, sed elevabis cum eo.<verse eID="Ex.23.5" />
+        <verse sID="Ex.23.6" osisID="Ex.23.6" />Non subvertes iudicium pauperis in iudicio eius.<verse eID="Ex.23.6" />
+        <verse sID="Ex.23.7" osisID="Ex.23.7" />Ab omni verbo iniquo recedes. Innocentem et iustum non occides. Non iustificabis impium pro muneribus.<verse eID="Ex.23.7" />
+        <verse sID="Ex.23.8" osisID="Ex.23.8" />Munera enim excaecant oculos videntium, et pestiferant sermones iustos.<verse eID="Ex.23.8" />
+        <verse sID="Ex.23.10" osisID="Ex.23.10" />Sex annis seminabis terram tuam, et colliges fructus eius.<verse eID="Ex.23.10" />
+        <verse sID="Ex.23.11" osisID="Ex.23.11" />Septimo autem anno remissionem facies, et requiem dabis illi, et edent pauperes gentis tuae. Quae autem superabunt, edent ferae bestiae. Sic facies vineam tuam, et olivetum tuum.<verse eID="Ex.23.11" />
+        <verse sID="Ex.23.13" osisID="Ex.23.13" />... Nomen aliorum deorum ne commemoremini, neque audiatur de ore tuo.<verse eID="Ex.23.13" />
+        <verse sID="Ex.23.14" osisID="Ex.23.14" />Tribus temporibus mihi festa celebrabitis in anno.<verse eID="Ex.23.14" />
+        <verse sID="Ex.23.15" osisID="Ex.23.15" />Solemnitatem azymorum custodietis. Septem diebus comedetis azyma, sicut praecepi tibi, in tempore mensis novorum. In ipso enim es egressus ex Aegypto. Non apparebis in conspectu meo vacuus.<verse eID="Ex.23.15" />
+        <verse sID="Ex.23.16" osisID="Ex.23.16" />Et solemnitatem messis primitivorum de operibus tuis, quaecunque seminaveris in agro. Et solemnitatem consummationis in exitu anni, in congregatione operum tuorum de agro.<verse eID="Ex.23.16" />
+        <verse sID="Ex.23.17" osisID="Ex.23.17" />Ter in anno apparebit omne masculinum tuum in conspectu Domini Dei tui.<verse eID="Ex.23.17" />
+        <verse sID="Ex.23.19" osisID="Ex.23.19" />... Non coques agnum in lacte matris suae.<verse eID="Ex.23.19" />
+        <verse sID="Ex.23.20" osisID="Ex.23.20" />... Ecce ego mitto Angelum meum ante faciem tuam, ut servet te in via, ut inducat te in terram quam paravi tibi.<verse eID="Ex.23.20" />
+        <verse sID="Ex.23.21" osisID="Ex.23.21" />Adtende tibi, et exaudi eum, ne non credas illi. Nihil enim subtrahet tibi. Nomen enim meum est super eum.<verse eID="Ex.23.21" />
+        <verse sID="Ex.23.22" osisID="Ex.23.22" />... Si auditu audieris vocem meam, et feceris omnia quae dixero tibi, inimicus ero inimicis tuis, et resistam contrariis tuis.<verse eID="Ex.23.22" />
+        <verse sID="Ex.23.23" osisID="Ex.23.23" />Praecedet te Angelus meus, et adducet te ad Amorrhaeum, et Pheresaeum, et Chananaeum, et Iebusaeum, et Gergesaeum, et occidetis illos.<verse eID="Ex.23.23" />
+        <verse sID="Ex.23.24" osisID="Ex.23.24" />Non adorabis deos illorum, sed neque servies eis. Non facies secundum opera ipsorum, sed deponendo depones, et confringendo confringes simulacra eorum.<verse eID="Ex.23.24" />
+        <verse sID="Ex.23.25" osisID="Ex.23.25" />Et servies Domino Deo tuo, et benedicam panem tuum, et vinum tuum, et aquam tuam, et avertam infirmitatem a vobis.<verse eID="Ex.23.25" />
+        <verse sID="Ex.23.26" osisID="Ex.23.26" />Non erit qui non generet, neque sterilis super terram tuam. Numerum dierum tuorum replebo.<verse eID="Ex.23.26" />
+        <verse sID="Ex.23.27" osisID="Ex.23.27" />Et timorem mittam qui te antecedat, et amentes faciam omnes gentes, in quas tu intrabis ...<verse eID="Ex.23.27" />
+        <verse sID="Ex.23.28" osisID="Ex.23.28" />Et mittam vespas ante te, et eiiciet Amorrhaeos, Evaeos, Chananaeos, et Chettaeos a te.<verse eID="Ex.23.28" />
+        <verse sID="Ex.23.29" osisID="Ex.23.29" />Non eiiciam illos in anno uno. Ne fiat terra deserta, et multiplicentur in te bestiae ferae.<verse eID="Ex.23.29" />
+        <verse sID="Ex.23.30" osisID="Ex.23.30" />Paulatim eiiciam illos, donec multiplicemini, et crescatis, et haereditetis terram.<verse eID="Ex.23.30" />
+        <verse sID="Ex.23.32" osisID="Ex.23.32" />Non dispones illis, et diis eorum pactum.<verse eID="Ex.23.32" />
+        <verse sID="Ex.23.33" osisID="Ex.23.33" />Et non confident in terra tua, ne peccare te faciant ad me. Si servieris diis eorum, erunt tibi offendiculum.<verse eID="Ex.23.33" />
+      </p>
+      <chapter eID="Ex.23" />
+      <chapter sID="Ex.24" osisID="Ex.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Ex.24.1" osisID="Ex.24.1" />Et Moysi dixit, Ascende ad Dominum tu, et Aaron, et Nadab, et Abiud, et septuaginta seniorum Israel, et adorabunt a longe Dominum.<verse eID="Ex.24.1" />
+        <verse sID="Ex.24.2" osisID="Ex.24.2" />Et accedet Moyses solus ad Dominum, ipsi autem non accedent. Populus autem non ascendet cum illis.<verse eID="Ex.24.2" />
+        <verse sID="Ex.24.3" osisID="Ex.24.3" />Introiit autem Moyses, et narravit populo omnia verba Dei, et iustificationes. Respondit autem omnis populus voce una dicentes, Omnia verba, quae locutus est Dominus, faciemus, et audiemus.<verse eID="Ex.24.3" />
+        <verse sID="Ex.24.4" osisID="Ex.24.4" />... Moyses ... aedificavit altare sub monte, et duodecim lapides in duodecim tribus Israel.<verse eID="Ex.24.4" />
+        <verse sID="Ex.24.5" osisID="Ex.24.5" />... et immolaverunt hostiam salutaris Deo ...<verse eID="Ex.24.5" />
+        <verse sID="Ex.24.6" osisID="Ex.24.6" />Sumens autem Moyses dimidiam partem sanguinis, infudit in craterem. Et partem reliquam sanguinis adfudit ad altare.<verse eID="Ex.24.6" />
+        <verse sID="Ex.24.7" osisID="Ex.24.7" />Et accipiens librum testamenti, recitavit in aures populi, et dixerunt, Omnia quaecunque locutus est Dominus, faciemus, et audiemus.<verse eID="Ex.24.7" />
+        <verse sID="Ex.24.8" osisID="Ex.24.8" />Moyses accipiens sanguinem aspersit populum, dicens, Hic est sanguis testamenti quod disposuit Deus ad vos ...<verse eID="Ex.24.8" />
+        <verse sID="Ex.24.9" osisID="Ex.24.9" />Et ascendit Moyses et Aaron, et Nadab, et Abiud, et septuaginta seniorum Israel.<verse eID="Ex.24.9" />
+        <verse sID="Ex.24.10" osisID="Ex.24.10" />Et viderunt locum, ubi steterat ibi Deus Israel. Et sub pedibus Dei erat quasi opus lateris sapphiri, et sicut species firmamenti coeli mundissimi.<verse eID="Ex.24.10" />
+        <verse sID="Ex.24.11" osisID="Ex.24.11" />Et de electis Israel non diffonuit nec unus. Et apparuerunt in loco Dei, et manducaverunt, et biberunt.<verse eID="Ex.24.11" />
+        <verse sID="Ex.24.15" osisID="Ex.24.15" />... ascendit Moyses in montem, et circumdedit lux montem.<verse eID="Ex.24.15" />
+        <verse sID="Ex.24.16" osisID="Ex.24.16" />Et descendit maiestas Domini in montem Sina, et cooperuit eum nubes sex diebus. Et vocavit Dominus Moysen die septimo de media nube.<verse eID="Ex.24.16" />
+        <verse sID="Ex.24.17" osisID="Ex.24.17" />Adspectus autem maiestatis Domini, tanquam ignis ardens super verticem montis, coram filiis Israel.<verse eID="Ex.24.17" />
+        <verse sID="Ex.24.18" osisID="Ex.24.18" />Et intravit Moyses in mediam nubem ... fuit in monte quadraginta diebus, et quadraginta noctibus.<verse eID="Ex.24.18" />
+      </p>
+      <chapter eID="Ex.24" />
+      <chapter sID="Ex.25" osisID="Ex.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Ex.25.1" osisID="Ex.25.1" />Locutus est Deus Moysi, et dixit illi,<verse eID="Ex.25.1" />
+        <verse sID="Ex.25.2" osisID="Ex.25.2" />Loquere ad filios Israel, Fumite primitias ab omni homine, quod mihi destinetis ...<verse eID="Ex.25.2" />
+        <verse sID="Ex.25.3" osisID="Ex.25.3" />... Aurum, argentum, aeramentum,<verse eID="Ex.25.3" />
+        <verse sID="Ex.25.4" osisID="Ex.25.4" />purpuram, byssum, coccum, pilos caprinos,<verse eID="Ex.25.4" />
+        <verse sID="Ex.25.5" osisID="Ex.25.5" />pelles rubras agnorum ... ligna integra ...<verse eID="Ex.25.5" />
+        <verse sID="Ex.25.6" osisID="Ex.25.6" />... oleum ad illuminationem, thymiamata,<verse eID="Ex.25.6" />
+        <verse sID="Ex.25.7" osisID="Ex.25.7" />lapides pretiosos, hoc est, beryllos ...<verse eID="Ex.25.7" />
+        <verse sID="Ex.25.8" osisID="Ex.25.8" />Et constituite tabernaculum, in quo commorari vobiscum possim.<verse eID="Ex.25.8" />
+        <verse sID="Ex.25.11" osisID="Ex.25.11" />... et facies in ea cymatia aurea versatilia in circuitu.<verse eID="Ex.25.11" />
+        <verse sID="Ex.25.12" osisID="Ex.25.12" />Et fabricabis illi quatuor anulos aureos, et impones super quatuor latera, duos anulos in latus unum, et duos anulos in latus secundum.<verse eID="Ex.25.12" />
+        <verse sID="Ex.25.13" osisID="Ex.25.13" />... et inaurabis illa auro.<verse eID="Ex.25.13" />
+        <verse sID="Ex.25.16" osisID="Ex.25.16" />... immittes in arcam testimonia quaecunque dabo tibi.<verse eID="Ex.25.16" />
+        <verse sID="Ex.25.17" osisID="Ex.25.17" />Et facies propitiatorium ex auro puro, duobus cubitis et semis longitudinem eius, et unum cubitum et semis latitudinem eius.<verse eID="Ex.25.17" />
+        <verse sID="Ex.25.18" osisID="Ex.25.18" />Et facies duo Cherubin aurea intertornata, et superpones ea per singula latera propitiatorii.<verse eID="Ex.25.18" />
+        <verse sID="Ex.25.19" osisID="Ex.25.19" />... Et facies ut duo Cherubin sint ext duobus lateribus eius,<verse eID="Ex.25.19" />
+        <verse sID="Ex.25.20" osisID="Ex.25.20" />extendentia alas suas, et obumbrantia super propitiatorium, et facies contra se super propitiatorium,<verse eID="Ex.25.20" />
+        <verse sID="Ex.25.21" osisID="Ex.25.21" />et impones propitiatorium super arcam, et in arcam mittes testimonia quae dabo.<verse eID="Ex.25.21" />
+        <verse sID="Ex.25.22" osisID="Ex.25.22" />Et innotescam tibi inde, et loquar ad te desursum super propitiatorium, inter medium duorum Cherubin, quae sunt super arcam testamenti, secundum omnia quae praecipiam tibi ad filios Israel.<verse eID="Ex.25.22" />
+        <verse sID="Ex.25.27" osisID="Ex.25.27" />Erunt anuli in thecis subportatoriis ad tolendam mensam.<verse eID="Ex.25.27" />
+        <verse sID="Ex.25.29" osisID="Ex.25.29" />... cyathos, in quibus immolabunt in eis ...<verse eID="Ex.25.29" />
+        <verse sID="Ex.25.40" osisID="Ex.25.40" />Vide, ut facias omnia secundum speciem quam ostendi tibi in monte.<verse eID="Ex.25.40" />
+      </p>
+      <chapter eID="Ex.25" />
+      <chapter sID="Ex.26" osisID="Ex.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Ex.26.1" osisID="Ex.26.1" />Et facies tabernaculum decem aulaeorum de bysso torta, et hyacintho, et purpura, et cocco torto. Cherubim facies ea opere textoris.<verse eID="Ex.26.1" />
+        <verse sID="Ex.26.4" osisID="Ex.26.4" />... facies illis ansas hyacinthinas in ora summa aulaei unius ex una parte in commissuram. Et sic facies super ora summa ad commissuram secundam.<verse eID="Ex.26.4" />
+        <verse sID="Ex.26.6" osisID="Ex.26.6" />Et facies circulos quinquaginta aureos, et coniunges aulaeum ad aulaeum circulis, et erit tabernaculum unum.<verse eID="Ex.26.6" />
+        <verse sID="Ex.26.7" osisID="Ex.26.7" />Et facies vela capillacia, operire super tabernaculum. Undecim vela facies ea.<verse eID="Ex.26.7" />
+        <verse sID="Ex.26.8" osisID="Ex.26.8" />Longitudo veli unius erit triginta cubitorum, et quatuor cubitorum latitudo veli unius. Mensura eadem erit undecim velorum.<verse eID="Ex.26.8" />
+        <verse sID="Ex.26.9" osisID="Ex.26.9" />Et coniunges quinque vela in se, et sex vela in se. Et duplicabis velum sextum secundum faciem tabernaculi.<verse eID="Ex.26.9" />
+        <verse sID="Ex.26.10" osisID="Ex.26.10" />Et facies ansas quinquaginta in ora veli unius, quod contra medium est, secundum commissuram. Et quinquaginta ansas facies super oram veli, quod coniunctum est ad secundum velum.<verse eID="Ex.26.10" />
+        <verse sID="Ex.26.11" osisID="Ex.26.11" />Et facies circulos aeraeos quinquaginta, et coniunges circulos de ansis, et coniunges vela, et erit unum.<verse eID="Ex.26.11" />
+        <verse sID="Ex.26.12" osisID="Ex.26.12" />Et suppones quod superabit in velis tabernaculi. Dimidium veli, quod superabit, subteges quod abundat in velis tabernaculi. Subteges post tabernaculum.<verse eID="Ex.26.12" />
+        <verse sID="Ex.26.13" osisID="Ex.26.13" />Cubitum ex hoc, et cubitum ex hoc, ex eo quod superat velis de longitudine velorum tabernaculi. Erit contegens super latera tabernaculi, hinc atque hinc ut operiat.<verse eID="Ex.26.13" />
+        <verse sID="Ex.26.14" osisID="Ex.26.14" />Et facies operimentum tabernaculo, pelles arietum rubricatas. Et operimenta pelles hyacinthinas desuper.<verse eID="Ex.26.14" />
+        <verse sID="Ex.26.15" osisID="Ex.26.15" />Et facies columnas tabernaculo de lignis imputribilibus,<verse eID="Ex.26.15" />
+        <verse sID="Ex.26.16" osisID="Ex.26.16" />decem cubitorum columnam unam, et cubiti unius et dimidii latitudinem columnae unius,<verse eID="Ex.26.16" />
+        <verse sID="Ex.26.17" osisID="Ex.26.17" />duos anconiscos columnae uni consistentes ex adverso. Sic facies omnibus columnis tabernaculi.<verse eID="Ex.26.17" />
+        <verse sID="Ex.26.18" osisID="Ex.26.18" />Et facies columnas tabernaculo, viginti columnas ab latere isto, quod respicit ad aquilonem.<verse eID="Ex.26.18" />
+        <verse sID="Ex.26.19" osisID="Ex.26.19" />Et quadraginta bases argenteas facies viginti columnis, duas bases columnae uni in ambas partes eius,<verse eID="Ex.26.19" />
+        <verse sID="Ex.26.20" osisID="Ex.26.20" />et latus secundum contra austrum, viginti columnas,<verse eID="Ex.26.20" />
+        <verse sID="Ex.26.21" osisID="Ex.26.21" />et quadraginta earum bases argenteas, duas bases columnae uni in ambas partes eius, et duas bases columnae uni in ambas partes eius.<verse eID="Ex.26.21" />
+        <verse sID="Ex.26.22" osisID="Ex.26.22" />Et retro tabernaculum per partem, quae est contra mare, facies sex columnas,<verse eID="Ex.26.22" />
+        <verse sID="Ex.26.23" osisID="Ex.26.23" />et duas columnas facies in angulis tabernaculi a posterioribus.<verse eID="Ex.26.23" />
+        <verse sID="Ex.26.24" osisID="Ex.26.24" />Et aequales deorsum versus, et in se convenientes erunt aequales de capitibus in commissuram unam. Sic facies ambobus duobus angulis, aequales sint.<verse eID="Ex.26.24" />
+        <verse sID="Ex.26.25" osisID="Ex.26.25" />Et erunt octo columnae, et bases earum argenteae sedecim, duae bases columnae uni, et duae bases columnae uni in ambas partes eius.<verse eID="Ex.26.25" />
+        <verse sID="Ex.26.26" osisID="Ex.26.26" />Et facies seras de lignis imputribilibus, quinque uni columnae ex una parte tabernaculi,<verse eID="Ex.26.26" />
+        <verse sID="Ex.26.27" osisID="Ex.26.27" />et quinque seras columnae lateri tabernaculi secundo, et quinque seras columnae posteriori lateri tabernaculi, quod est ad mare,<verse eID="Ex.26.27" />
+        <verse sID="Ex.26.28" osisID="Ex.26.28" />et sera media inter medias columnas pertranseat ab uno latere in aliud latus.<verse eID="Ex.26.28" />
+        <verse sID="Ex.26.29" osisID="Ex.26.29" />Et columnas inaurabis auro, et anulos facies aereos, in quos induces seras, et inaurabis auro seras.<verse eID="Ex.26.29" />
+        <verse sID="Ex.26.30" osisID="Ex.26.30" />Et eriges tabernaculum secundum speciem quae monstrata est tibi in monte.<verse eID="Ex.26.30" />
+        <verse sID="Ex.26.31" osisID="Ex.26.31" />Et facies velamen de hyacintho, et purpura, et cocco torto, et bysso neta, opus textile facies illud Cherubim.<verse eID="Ex.26.31" />
+        <verse sID="Ex.26.32" osisID="Ex.26.32" />Et superimpones illud super quatuor columnas imputribiles inauratas auro, et capita earum aurea, et bases earum quatuor argenteae.<verse eID="Ex.26.32" />
+        <verse sID="Ex.26.33" osisID="Ex.26.33" />Et pones velamen super columnas, et induces illuc, interius quam velam est, arcam testimonii. Et dividet vobis velamen inter medium Sancti, et inter medium Sancti sanctorum.<verse eID="Ex.26.33" />
+        <verse sID="Ex.26.34" osisID="Ex.26.34" />Et cooperies de velamine arcam testimonii in Sancto sanctorum.<verse eID="Ex.26.34" />
+        <verse sID="Ex.26.35" osisID="Ex.26.35" />Et pones mensam foris extra velamen. Et candelabrum contra mensam in parte tabernaculi, quae respicit ad austrum. Et mensam pones in parte tabernaculi, quae respicit ad aquilonem.<verse eID="Ex.26.35" />
+        <verse sID="Ex.26.36" osisID="Ex.26.36" />Et facies adductorium de hyacintho, et purpura, et cocco torto, et bysso torta, opus variatoris.<verse eID="Ex.26.36" />
+        <verse sID="Ex.26.37" osisID="Ex.26.37" />Et facies velamini quinque columnas, et inaurabis illas auro, et capita earum aurea. Et conflabis eis quinque bases aereas.<verse eID="Ex.26.37" />
+      </p>
+      <chapter eID="Ex.26" />
+      <chapter sID="Ex.27" osisID="Ex.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Ex.27.2" osisID="Ex.27.2" />Et facies cornua in quatuor angulos, ex se ipso erunt cornua. Et teges illa aeramento.<verse eID="Ex.27.2" />
+        <verse sID="Ex.27.6" osisID="Ex.27.6" />... et inaerabis ea aeramento.<verse eID="Ex.27.6" />
+        <verse sID="Ex.27.9" osisID="Ex.27.9" />Et facies atrium tabernaculo, in latere quod respicit ad austrum, et tentoria atrii ex bysso torta. Longitudo sit centum cubitorum uni lateri.<verse eID="Ex.27.9" />
+        <verse sID="Ex.27.10" osisID="Ex.27.10" />Columnae eorum viginti, et bases earum aereae viginti, et circuli earum, et arcus earum argentei.<verse eID="Ex.27.10" />
+        <verse sID="Ex.27.11" osisID="Ex.27.11" />Sic et lateri quod est ad aquilonem tentoria centum cubitorum longitudinis, et columnae eorum viginti, et bases earum aereae viginti, et circuli earum, et arcus columnarum, et bases inargentatae argento.<verse eID="Ex.27.11" />
+        <verse sID="Ex.27.12" osisID="Ex.27.12" />Latitudo autem atrii, quae est ad mare, tentoria eius quinquaginta cubitorum, columnae eorum decem, et bases earum decem.<verse eID="Ex.27.12" />
+        <verse sID="Ex.27.13" osisID="Ex.27.13" />Et latitudo atrii, quod est ad orientem, quinquaginta cubitorum, columnae eius decem, et bases earum decem.<verse eID="Ex.27.13" />
+        <verse sID="Ex.27.14" osisID="Ex.27.14" />Et quindecim cubitorum tentoriorum altitudo lateri uni, columnae eorum tres, et bases earum tres,<verse eID="Ex.27.14" />
+        <verse sID="Ex.27.15" osisID="Ex.27.15" />et latus secundum quindecim cubitorum tentoriorum altitudo, columnae eorum tres, et bases earum tres.<verse eID="Ex.27.15" />
+        <verse sID="Ex.27.16" osisID="Ex.27.16" />Et portae atrii tegumen viginti cubitorum altitudo de hyacintho, et purpura, et cocco neto, et bysso torta, varietate acu picta, columnae eorum quatuor, et bases earum quatuor.<verse eID="Ex.27.16" />
+        <verse sID="Ex.27.21" osisID="Ex.27.21" />... extra velum quod est super testamentum ... legitimum sempiternum in progenies vestras ...<verse eID="Ex.27.21" />
+      </p>
+      <chapter eID="Ex.27" />
+      <chapter sID="Ex.28" osisID="Ex.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="Ex.28.3" osisID="Ex.28.3" />Et tu loquere omnibus sapientibus mente, quos replevi spiritu intellectus ...<verse eID="Ex.28.3" />
+        <verse sID="Ex.28.4" osisID="Ex.28.4" />Et stolae quas facient, pectalorem, humeralem, et tunicam talarem, et tunicam cum corymbis ...<verse eID="Ex.28.4" />
+        <verse sID="Ex.28.5" osisID="Ex.28.5" />Et hi accipient aurum, et hyacinthum, et coccum, et purpuram, et byssum.<verse eID="Ex.28.5" />
+        <verse sID="Ex.28.6" osisID="Ex.28.6" />Et faciant superhumerale de bysso retorta, opus texitle varium.<verse eID="Ex.28.6" />
+        <verse sID="Ex.28.9" osisID="Ex.28.9" />... sumes duos lapides onychinos, et sculpes in eis nomina filiorum Israel.<verse eID="Ex.28.9" />
+        <verse sID="Ex.28.10" osisID="Ex.28.10" />Sex nomina in lapide uno, et sex reliqua in altero, iuxta ordinem nativitatis eorum.<verse eID="Ex.28.10" />
+        <verse sID="Ex.28.15" osisID="Ex.28.15" />... Rationale ... ex auro, et hyacintho, et purpura, et cocco duplici torto, et bysso duplici torta.<verse eID="Ex.28.15" />
+        <verse sID="Ex.28.16" osisID="Ex.28.16" />Quadratum duplex. Spithamis autem longitudo, et spithamis latitudo.<verse eID="Ex.28.16" />
+        <verse sID="Ex.28.17" osisID="Ex.28.17" />... in primo ordine, sardius, topazius, smaragdus.<verse eID="Ex.28.17" />
+        <verse sID="Ex.28.18" osisID="Ex.28.18" />In secundo carbunculus, sapphirus, iaspis.<verse eID="Ex.28.18" />
+        <verse sID="Ex.28.19" osisID="Ex.28.19" />In tertio lyncurius, achate, amethystus.<verse eID="Ex.28.19" />
+        <verse sID="Ex.28.20" osisID="Ex.28.20" />... In quarto chrysolitus, onychinus, berillus ...<verse eID="Ex.28.20" />
+        <verse sID="Ex.28.21" osisID="Ex.28.21" />... lapides sint de nominibus filiorum Israel, secundum nativitates eorum ...<verse eID="Ex.28.21" />
+        <verse sID="Ex.28.22" osisID="Ex.28.22" />Et facies super rationale fimbrias complectentes opus catenatum de auro puro.<verse eID="Ex.28.22" />
+        <verse sID="Ex.28.29" osisID="Ex.28.29" />Et sumet Aaron nomina filiorum Israel super rationale iudicii super pectus, introeunti Sanctum ... Et pones super rationale iudicii fimbrias, catenata ...<verse eID="Ex.28.29" />
+        <verse sID="Ex.28.30" osisID="Ex.28.30" />Et impones super rationale iudicii Demonstrationem et Veritatem ... et afferet Aaron iudicia filiorum Israel super pectus ...<verse eID="Ex.28.30" />
+        <verse sID="Ex.28.31" osisID="Ex.28.31" />Et facies tunicam talarem hyacinthinam.<verse eID="Ex.28.31" />
+        <verse sID="Ex.28.32" osisID="Ex.28.32" />Et erit peristomium ex ea medium, oram habens in circuitu peristomii, opus textoris, commissuram contextam ex ipsa, ut ne rumpatur.<verse eID="Ex.28.32" />
+        <verse sID="Ex.28.35" osisID="Ex.28.35" />Et erit Aaron cum coeperit sungi sacerdotio, audietur vox eius intranti in Sanctum in conspectu Domini, et exeunti, ut non moriatur.<verse eID="Ex.28.35" />
+        <verse sID="Ex.28.36" osisID="Ex.28.36" />Et facies laminam auream puram, et formabis in eadem formationem signi, Sanctitatem Domini.<verse eID="Ex.28.36" />
+        <verse sID="Ex.28.37" osisID="Ex.28.37" />Et impones illud super hyacinthum duplicem tortam, et erit super mitram, secundum adspectum mitrae erit.<verse eID="Ex.28.37" />
+        <verse sID="Ex.28.38" osisID="Ex.28.38" />Et erit supra frontem Aaron. Et auferet Aaron peccata sanctorum, quaecunque sanctificabunt filii Israel, omnis dati sanctorum eorum. Et erit super frontem Aaron semper acceptum illis in conspectu Domini.<verse eID="Ex.28.38" />
+        <verse sID="Ex.28.41" osisID="Ex.28.41" />... Et implebis manus eorum ... ut sacerdotio fungantur mihi.<verse eID="Ex.28.41" />
+        <verse sID="Ex.28.42" osisID="Ex.28.42" />Et facies eis femoralia linea, tegere turpitudinem corporis eorum, a lumbis usque ad femora erunt.<verse eID="Ex.28.42" />
+        <verse sID="Ex.28.43" osisID="Ex.28.43" />Et habebit eas Aaron et filii eius cum intrabunt in tabernaculum testimonii, et cum accedent sacrificare ad aram sanctuarii. Et non inducent super se peccatum, ne moriantur ...<verse eID="Ex.28.43" />
+      </p>
+      <chapter eID="Ex.28" />
+      <chapter sID="Ex.29" osisID="Ex.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="Ex.29.8" osisID="Ex.29.8" />... et indues eos tunicas, et cinges eos zonis,<verse eID="Ex.29.8" />
+        <verse sID="Ex.29.9" osisID="Ex.29.9" />et circumdabis eis cidaras. Et erit illis sacerdotium mihi in sempiternum. Et consummabis manus Aaron, et manus filiorum eius,<verse eID="Ex.29.9" />
+        <verse sID="Ex.29.10" osisID="Ex.29.10" />et adduces vitulum ad ostium tabernaculi testimonii. Et superimponent Aaron et filii eius manus suas super caput vituli in conspectu Domini ...<verse eID="Ex.29.10" />
+        <verse sID="Ex.29.13" osisID="Ex.29.13" />... et duos renes, et adipem quae super eos ...<verse eID="Ex.29.13" />
+        <verse sID="Ex.29.26" osisID="Ex.29.26" />Et sumes pectusculum de ariete consummationis, quod est Aaron, et separabis illud separatione ...<verse eID="Ex.29.26" />
+        <verse sID="Ex.29.28" osisID="Ex.29.28" />... et erit Aaron et filius eius legitimum aeternum a filiis Israel ...<verse eID="Ex.29.28" />
+        <verse sID="Ex.29.29" osisID="Ex.29.29" />Et stola sancti, quae est Aaron, erit filiis eius post eum, unguere eos in ipsis, et consummare manus eorum.<verse eID="Ex.29.29" />
+        <verse sID="Ex.29.30" osisID="Ex.29.30" />Septem diebus vestiet se ea sacerdos qui successerit ei de filiis eius, qui intrabit in tabernaculum testimonii deservire in sanctis.<verse eID="Ex.29.30" />
+        <verse sID="Ex.29.37" osisID="Ex.29.37" />... Sanctum sancti erit. Omnis, qui tetigerit altare, sanctificabitur.<verse eID="Ex.29.37" />
+      </p>
+      <chapter eID="Ex.29" />
+      <chapter sID="Ex.30" osisID="Ex.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="Ex.30.4" osisID="Ex.30.4" />Et duos anulos aureos puros facies sub tortili corona eius, in duo latera facies in duobus lateribus. Et erunt arcus amitibus, ita ut tollatur illud in eis.<verse eID="Ex.30.4" />
+        <verse sID="Ex.30.8" osisID="Ex.30.8" />Et cum accendet Aaron lucernas sero, incendet super illud incensum continuationis in conspectu Domini in progenies eorum.<verse eID="Ex.30.8" />
+        <verse sID="Ex.30.10" osisID="Ex.30.10" />Et depropitiabit Aaron super cornua eius semel in anno, de sanguine purificationis delictorum, semel in anno purificabit illud. Sanctum sanctorum est Domino.<verse eID="Ex.30.10" />
+        <verse sID="Ex.30.12" osisID="Ex.30.12" />Cum acceperis computationem filiorum Israel in visitatione ipsorum, dabunt singuli redemptionem animae suae Domino, et non erit in his ruina in visitatione eorum.<verse eID="Ex.30.12" />
+        <verse sID="Ex.30.13" osisID="Ex.30.13" />Et hoc est quod dabunt quotquot perambulant visitationem, didrachmi dimidiam partem, quod est secundum didrachmum sanctum. Viginti oboli didrachmum. Dimidia autem pars didrachmi illatio Domino.<verse eID="Ex.30.13" />
+        <verse sID="Ex.30.14" osisID="Ex.30.14" />Omnis qui intraverit visitare, a viginti annis et supra, dabunt illationem Domino.<verse eID="Ex.30.14" />
+        <verse sID="Ex.30.15" osisID="Ex.30.15" />Qui dives est, non adiiciet, et qui pauper est, non minorabitur a dimidia parte didrachmi, cum coeperint dare oblationem Domino, exorare pro animabus suis.<verse eID="Ex.30.15" />
+        <verse sID="Ex.30.16" osisID="Ex.30.16" />Et accipies pecuniam illationis a filiis Israel, et dabis illam in opus tabernaculi testimonii. Et erit filiis Israel legitimum memoriale in conspectu Domini, exorare pro animis vestris.<verse eID="Ex.30.16" />
+        <verse sID="Ex.30.29" osisID="Ex.30.29" />... erunt Sancta sanctorum. Omnis qui tangit ea, sanctificabitur.<verse eID="Ex.30.29" />
+        <verse sID="Ex.30.31" osisID="Ex.30.31" />Et filiis Israel loqueris, dicens, Oleum linitio unctionis sanctum erit hoc vobis in progenies vestras.<verse eID="Ex.30.31" />
+        <verse sID="Ex.30.32" osisID="Ex.30.32" />Super carnem hominis non linietur, et secundum compositionem hanc non facietis vobis ipsis similiter. Sanctum est, et sanctificatio erit vobis.<verse eID="Ex.30.32" />
+        <verse sID="Ex.30.33" osisID="Ex.30.33" />Quicunque fecerit similiter, et quicunque dabit de eo, exterae nationi, interibit de populo suo.<verse eID="Ex.30.33" />
+        <verse sID="Ex.30.36" osisID="Ex.30.36" />Et concides de illis minutum, et pones contra testimonia in tabernaculo testimonii, unde innotescam tibi inde. Sanctum sanctorum erit vobis incensum.<verse eID="Ex.30.36" />
+      </p>
+      <chapter eID="Ex.30" />
+      <chapter sID="Ex.31" osisID="Ex.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="Ex.31.3" osisID="Ex.31.3" />Et replevi eum spiritu divino, sapientiae, et intellectus, et scientiae in omni opere,<verse eID="Ex.31.3" />
+        <verse sID="Ex.31.4" osisID="Ex.31.4" />excogitare, et architectonari ...<verse eID="Ex.31.4" />
+        <verse sID="Ex.31.13" osisID="Ex.31.13" />... et sabbata mea observabitis. Erit enim signum apud me vobis in generationes vestras ...<verse eID="Ex.31.13" />
+        <verse sID="Ex.31.17" osisID="Ex.31.17" />Testamentum aeternum in me et filiis Israel. Signum est aeternum ...<verse eID="Ex.31.17" />
+        <verse sID="Ex.31.18" osisID="Ex.31.18" />Et dedit Moysi, statim ut cessavit loqui ad eum in monte Sina, duas tabulas testimonii, tabulas lapideas, scriptas digito Dei.<verse eID="Ex.31.18" />
+      </p>
+      <chapter eID="Ex.31" />
+      <chapter sID="Ex.32" osisID="Ex.32" />
+      <title>Chatper 32</title>
+      <p>
+        <verse sID="Ex.32.1" osisID="Ex.32.1" />... consurrexit populus in Aaron, et dixerunt ei, Surge, et fac nobis deos, qui nos praecedant. Moyses enim hic homo, qui eduxit nos de terra Aegypti, non scimus quid factum sit ei.<verse eID="Ex.32.1" />
+        <verse sID="Ex.32.2" osisID="Ex.32.2" />... Deponite anulos et inaures aureas, quae sunt inaures mulierum vestrarum ...<verse eID="Ex.32.2" />
+        <verse sID="Ex.32.4" osisID="Ex.32.4" />... Hi dii tui Israel, qui eduxerunt te de terra Aegypti.<verse eID="Ex.32.4" />
+        <verse sID="Ex.32.6" osisID="Ex.32.6" />... sedit populus manducare, et bibere, et surrexerunt ludere.<verse eID="Ex.32.6" />
+        <verse sID="Ex.32.7" osisID="Ex.32.7" />Dixit autem Dominus ad Moysen, Descende celeriter. Praevaricatus est enim populus tuus, quos eduxisti ex Aegypto.<verse eID="Ex.32.7" />
+        <verse sID="Ex.32.8" osisID="Ex.32.8" />... Hi dii tui Israel, qui te eduxerunt de terra Aegypti.<verse eID="Ex.32.8" />
+        <verse sID="Ex.32.10" osisID="Ex.32.10" />Et nunc sine me, et indignatus ira disperdam illos, et faciam te in nationem magnam.<verse eID="Ex.32.10" />
+        <verse sID="Ex.32.11" osisID="Ex.32.11" />Et precatus est Moyses in conspectu Domini Dei sui, et dixit, Quare, Domine, irasceris in populo tuo? ...<verse eID="Ex.32.11" />
+        <verse sID="Ex.32.12" osisID="Ex.32.12" />... parce irae animae tuae, esto placabilis super nequitiam populi tui.<verse eID="Ex.32.12" />
+        <verse sID="Ex.32.13" osisID="Ex.32.13" />Memento Abraham, Isaac, et Iacob ...<verse eID="Ex.32.13" />
+        <verse sID="Ex.32.14" osisID="Ex.32.14" />Et placatus est Dominus de malignitate quam dixit facere populo suo.<verse eID="Ex.32.14" />
+        <verse sID="Ex.32.15" osisID="Ex.32.15" />Et conversus Moyses, descendit de monte, et duae tabulae testimonii in manibus eius, tabulae lapidae scriptae ex utraque parte earum, hinc atque hinc erant scriptae,<verse eID="Ex.32.15" />
+        <verse sID="Ex.32.16" osisID="Ex.32.16" />et tabulae opus Dei erant. Et scriptura, scriptura Dei insculpta in tabulis.<verse eID="Ex.32.16" />
+        <verse sID="Ex.32.24" osisID="Ex.32.24" />... Qui habet aurum, demat. Et dederunt mihi, et misi in ignem, et exiit vitulus hic.<verse eID="Ex.32.24" />
+        <verse sID="Ex.32.25" osisID="Ex.32.25" />Et cum vidisset Moyses populum quia dissipatus est, (dissipavit enim eos Aaron, ut in gaudium venirent adversariis suis)<verse eID="Ex.32.25" />
+        <verse sID="Ex.32.26" osisID="Ex.32.26" />stetit Moyses ad portas castrorum, et dixit, Quis ad Dominum? Paratus veniat ad me. Et convenerunt ad eum omnes filii Levi.<verse eID="Ex.32.26" />
+        <verse sID="Ex.32.27" osisID="Ex.32.27" />Et dixit eis, Haec dicit Dominus Deus Israel, Ponite unusquisquie gladium suum in femore suo, et pertransite, et revertimini a porta usque ad portam per castra, et occidite unusquisque fratrem suum, et unusquisque propinquum suum, et unusquisque proximum suum.<verse eID="Ex.32.27" />
+        <verse sID="Ex.32.28" osisID="Ex.32.28" />Et fecerunt filii Levi sicut dixit eis Moyses, et ceciderunt de populo in illa die quasi tria millia hominum.<verse eID="Ex.32.28" />
+        <verse sID="Ex.32.29" osisID="Ex.32.29" />Et dixit eis Moyses, Consecrastis hodie manus vestras Domino, unusquisque in filio, aut in fratre suo, ut detur vobis benedictio.<verse eID="Ex.32.29" />
+        <verse sID="Ex.32.31" osisID="Ex.32.31" />... Precor, peccavit populus iste peccatum magnum, et fecerunt sibi deos aureos. Et nunc siquidem remittis illis peccatum illorum, remitte.<verse eID="Ex.32.31" />
+        <verse sID="Ex.32.32" osisID="Ex.32.32" />Sin autem, dele me de libro tuo quem scripsisti.<verse eID="Ex.32.32" />
+        <verse sID="Ex.32.33" osisID="Ex.32.33" />Et dixit Dominus ad Moysen, Si quis deliquerit ante me, deleam eum de libro meo.<verse eID="Ex.32.33" />
+        <verse sID="Ex.32.34" osisID="Ex.32.34" />... ecce angelus meus antecedet te ...<verse eID="Ex.32.34" />
+        <verse sID="Ex.32.35" osisID="Ex.32.35" />Et percussit Dominus populum propter facturam vituli, quem fecit Aaron.<verse eID="Ex.32.35" />
+      </p>
+      <chapter eID="Ex.32" />
+      <chapter sID="Ex.33" osisID="Ex.33" />
+      <title>Chatper 33</title>
+      <p>
+        <verse sID="Ex.33.1" osisID="Ex.33.1" />Et dixit Dominus ad Moysen, Vade, et ascende hinc tu, et populus tuus quos eduxisti de terra Aegypti, in terram quam iuravi Abraham, et Isaac, et Iacob, dicens, Semini vestro dabo eam.<verse eID="Ex.33.1" />
+        <verse sID="Ex.33.2" osisID="Ex.33.2" />Et simul mittam ante faciem tuam angelum meum, et eiiciet Amorrhaeum, et Cetthaeum, et Pheresaeum, et Gergesaeum, et Evaeum, et Iebusaeum, et Chananaeum,<verse eID="Ex.33.2" />
+        <verse sID="Ex.33.3" osisID="Ex.33.3" />et introducet te in terram fluentem lac et mel. Non enim ascendam tecum, quia populus dura cervice es, ut non deleam te in via.<verse eID="Ex.33.3" />
+        <verse sID="Ex.33.5" osisID="Ex.33.5" />Et dixit Dominus ad Moysen, Dic filiis Israel, Vos populus durae cervicis, videte ne aliam plagam inducens super vos, deleam vos. Nunc ergo deponite stolas gloriae vestrae, et ornamentum, et ostendam quae facturus sum vobis.<verse eID="Ex.33.5" />
+        <verse sID="Ex.33.6" osisID="Ex.33.6" />Et abstulerunt filii Israel ornamentum suum, et stolas a monte Choreb.<verse eID="Ex.33.6" />
+        <verse sID="Ex.33.7" osisID="Ex.33.7" />Et sumens tabernaculum Moyses, fixit illud extra castra, longe a castris. Et appellatum est Tabernaculum testimonii. Et fiebat ut omnis quicunque quaerebat Dominum, ibat ad Tabernaculum testimonii, foras extra castra.<verse eID="Ex.33.7" />
+        <verse sID="Ex.33.8" osisID="Ex.33.8" />Cum autem egrediebatur foras de tabernaculo Moyses, stabat omnis populus speculans unusquisque ad ostium tabernaculi sui, considerabant euntem Moysen, usque dum introiret tabernaculum.<verse eID="Ex.33.8" />
+        <verse sID="Ex.33.9" osisID="Ex.33.9" />Mox autem cum introisset in tabernaculum Moyses, descendebat columna nubis, et stabat in ianua tabernaculi, et loquebatur Moysi.<verse eID="Ex.33.9" />
+        <verse sID="Ex.33.10" osisID="Ex.33.10" />Et videbat omnis populus columnam nubis stantem in ianua tabernaculi. Et stans totus populus, adoravit unusquisque ad ostium tabernaculi.<verse eID="Ex.33.10" />
+        <verse sID="Ex.33.11" osisID="Ex.33.11" />Et locutus est Dominus ad Moysen facie ad faciem, quemadmodum quis loquitur ad amicum suum. Minister autem Iesus filius Nave, iunior, non exibat de tabernaculo.<verse eID="Ex.33.11" />
+        <verse sID="Ex.33.12" osisID="Ex.33.12" />Et dixit Moyses ad Dominum, Ecce tu mihi dicis, Deduc populum hunc. Tu autem non demonstrasti mihi quem simul mittas mecum. Tu autem dixisti mihi, Scio te prae omnibus, et gratiam habes apud me.<verse eID="Ex.33.12" />
+        <verse sID="Ex.33.13" osisID="Ex.33.13" />Si ergo inveni gratiam in conspectu tuo, ostende mihi temetipsum, manifeste ut videam te, ut sim inveniens gratiam ante te, et ut sciam quia populus tuus est gens haec.<verse eID="Ex.33.13" />
+        <verse sID="Ex.33.14" osisID="Ex.33.14" />Et ait, Ipse antecedam te, et requiem tibi dabo.<verse eID="Ex.33.14" />
+        <verse sID="Ex.33.15" osisID="Ex.33.15" />Et ait, Si non tu ipse simul veneris nobiscum, ne me educas hinc.<verse eID="Ex.33.15" />
+        <verse sID="Ex.33.16" osisID="Ex.33.16" />Et quomodo scietur vere, quia inveni gratiam apud te, ego et populus tuus, nisi tu parieter nobiscum fueris? Et gloriabimur ego et populus tuus prae omnibus gentibus quae sunt super terram.<verse eID="Ex.33.16" />
+        <verse sID="Ex.33.17" osisID="Ex.33.17" />... Et hoc verbum tibi, quod dixisti, faciam. Invenisti enim gratiam in conspectu meo, et scio te prae omnibus.<verse eID="Ex.33.17" />
+        <verse sID="Ex.33.18" osisID="Ex.33.18" />... Ostende mihi gloriam tuam.<verse eID="Ex.33.18" />
+        <verse sID="Ex.33.19" osisID="Ex.33.19" />... Ego transibo ante te gloria mea, et vocabo nomine Domini in conspectu tuo. Et miserebor cui misertus ero, et misericordiam praestabo cui misericordiam praestitero.<verse eID="Ex.33.19" />
+        <verse sID="Ex.33.20" osisID="Ex.33.20" />Et ait, Non poteris videre faciem meam, et vivere. Non enim videbit homo faciem meam, et vivet.<verse eID="Ex.33.20" />
+        <verse sID="Ex.33.21" osisID="Ex.33.21" />Et ait Dominus, Ecce locus penes me est, et stabis super petram.<verse eID="Ex.33.21" />
+        <verse sID="Ex.33.22" osisID="Ex.33.22" />Statim ut transiet mea maiestas, et ponam te in specula petrae, et tegam manu mea super te, donec transeam.<verse eID="Ex.33.22" />
+        <verse sID="Ex.33.23" osisID="Ex.33.23" />Et auferam manum meam, et tunc videbis posteriora mea. Nam facies mea non apparebit tibi.<verse eID="Ex.33.23" />
+      </p>
+      <chapter eID="Ex.33" />
+      <chapter sID="Ex.34" osisID="Ex.34" />
+      <title>Chatper 34</title>
+      <p>
+        <verse sID="Ex.34.1" osisID="Ex.34.1" />Et dixit Dominus ad Moysen, Excide tibi duas tabulas lapideas, sicut et priores, et adscende ad me in montem. Et scribam in tabulis verba, quae erant in tabulis prioribus quas tu contrivisti.<verse eID="Ex.34.1" />
+        <verse sID="Ex.34.2" osisID="Ex.34.2" />... tu autem sta hic mecum ...<verse eID="Ex.34.2" />
+        <verse sID="Ex.34.5" osisID="Ex.34.5" />... descendit Dominus in nube, et astitit iuxta Moysen, et invocavit Moyses nomen Domini.<verse eID="Ex.34.5" />
+        <verse sID="Ex.34.6" osisID="Ex.34.6" />Et transiit Dominus ante faciem eius, et invocavit eum, dicens, Domine Deus, miserator et misericors, patiens et multae misericordiae, et verax,<verse eID="Ex.34.6" />
+        <verse sID="Ex.34.7" osisID="Ex.34.7" />et iustitiam servans, et misericordiam in millia, auferens iniquitates, et iniustitias, et peccata. Et non emundabit reum, reddens iniquitates patrum super filios, et super filios filiorum, in tertiam et quartam generationem.<verse eID="Ex.34.7" />
+        <verse sID="Ex.34.9" osisID="Ex.34.9" />... Si inveni gratiam in conspectu tuo, simul ambulet Dominus meus nobiscum. Populus hic dura cervice est ...<verse eID="Ex.34.9" />
+        <verse sID="Ex.34.10" osisID="Ex.34.10" />... coram omni populo tuo, faciam gloriosa ... omnis populus in quibus es ...<verse eID="Ex.34.10" />
+        <verse sID="Ex.34.12" osisID="Ex.34.12" />Adtende tibi nequando ponat testamentum his qui sedent super terram ...<verse eID="Ex.34.12" />
+        <verse sID="Ex.34.13" osisID="Ex.34.13" />... templa eorum destruetis, idola frangetis ...<verse eID="Ex.34.13" />
+        <verse sID="Ex.34.14" osisID="Ex.34.14" />... Dominus enim Deus, zelans nomen, Deus zelator est.<verse eID="Ex.34.14" />
+        <verse sID="Ex.34.15" osisID="Ex.34.15" />Ne forte ponas testamentum his qui sedent super terram, et fornicentur post deos eorum ...<verse eID="Ex.34.15" />
+        <verse sID="Ex.34.17" osisID="Ex.34.17" />Et deos fusiles ne feceris tibi.<verse eID="Ex.34.17" />
+        <verse sID="Ex.34.19" osisID="Ex.34.19" />Omne adaperiens vulvam masculina ...<verse eID="Ex.34.19" />
+        <verse sID="Ex.34.20" osisID="Ex.34.20" />... primitivum subiugalis redimes ove ... non videberis in conspectu meo inanis.<verse eID="Ex.34.20" />
+        <verse sID="Ex.34.21" osisID="Ex.34.21" />... satione et messe requiesces.<verse eID="Ex.34.21" />
+        <verse sID="Ex.34.24" osisID="Ex.34.24" />... non concupiscet quisquam de terra tua, cum ascendes videri in conspectu Dei tui tria tempora anni.<verse eID="Ex.34.24" />
+        <verse sID="Ex.34.25" osisID="Ex.34.25" />Non occides super fermentum sanguinem immolatorum meorum. Et non dormiet in mane immolatio solemnitatis Paschae.<verse eID="Ex.34.25" />
+        <verse sID="Ex.34.26" osisID="Ex.34.26" />Initia primitiarum tuarum inferes in domum Domini Dei tui. Non coques agnum in lacte matris suae.<verse eID="Ex.34.26" />
+        <verse sID="Ex.34.27" osisID="Ex.34.27" />Et dixit Dominus ad Moysen, Scribe tibi verba haec, etenim in verbis his posui testamentum tibi, et Israel.<verse eID="Ex.34.27" />
+        <verse sID="Ex.34.28" osisID="Ex.34.28" />Et erat ibi Moyses in conspectu Domini quadraginta diebus et quadraginta noctibus. Panem non manducavit, et aquam non bibit, et scripsit in tabulis verba testamenti, decem verba.<verse eID="Ex.34.28" />
+      </p>
+      <chapter eID="Ex.34" />
+      <chapter sID="Ex.35" osisID="Ex.35" />
+      <title>Chatper 35</title>
+      <p>
+        <verse sID="Ex.35.1" osisID="Ex.35.1" />... Haec verba quae dixit Dominus facere ea.<verse eID="Ex.35.1" />
+        <verse sID="Ex.35.2" osisID="Ex.35.2" />... sabbatum, requies sancta Domino ...<verse eID="Ex.35.2" />
+        <verse sID="Ex.35.4" osisID="Ex.35.4" />Et ait Moyses ad omnem synagogam filiorum Israel, dicens ...<verse eID="Ex.35.4" />
+        <verse sID="Ex.35.21" osisID="Ex.35.21" />Et attulerunt unusquisque quod afferebat cor eorum, et quibus visum est animae eorum, attulerunt demtionem Domino ...<verse eID="Ex.35.21" />
+        <verse sID="Ex.35.23" osisID="Ex.35.23" />... et omnis cui inventum est apud eum coria arietum rubricata ...<verse eID="Ex.35.23" />
+        <verse sID="Ex.35.24" osisID="Ex.35.24" />Omnis afferens demtionem, argentum et res attulerunt demtiones Domino. Et apud quos inventa sunt apud eos ligna imputribilia ...<verse eID="Ex.35.24" />
+        <verse sID="Ex.35.25" osisID="Ex.35.25" />Et omnis mulier sapiens mente, manibus nere, attulerunt ...<verse eID="Ex.35.25" />
+        <verse sID="Ex.35.26" osisID="Ex.35.26" />Et omnes mulieres, quibus visum est sensu suo, in sapientia nerunt pilos caprinos.<verse eID="Ex.35.26" />
+        <verse sID="Ex.35.28" osisID="Ex.35.28" />Et compositiones, et oleum unctionis, et compositionem incensi.<verse eID="Ex.35.28" />
+        <verse sID="Ex.35.29" osisID="Ex.35.29" />Et omnis vir et mulier, quorum afferebat sensus eorum, ut intrarent et facerent omne opus, quodcunque praecepit Dominus fieri illud per Moysen, attulerunt filii Israel demtionem Domino.<verse eID="Ex.35.29" />
+        <verse sID="Ex.35.32" osisID="Ex.35.32" />... facere aurum, et argentum, et aes.<verse eID="Ex.35.32" />
+        <verse sID="Ex.35.33" osisID="Ex.35.33" />... et operari ligna ...<verse eID="Ex.35.33" />
+        <verse sID="Ex.35.35" osisID="Ex.35.35" />... facere omnia opera sancti textilia, et varia, texere cocco et bysso, facere omne opus architectonicum varietatis.<verse eID="Ex.35.35" />
+      </p>
+      <chapter eID="Ex.35" />
+      <chapter sID="Ex.36" osisID="Ex.36" />
+      <title>Chatper 36</title>
+      <p>
+        <verse sID="Ex.36.2" osisID="Ex.36.2" />... et omnes qui sponte vellent ire ad opera, ut consummarent ea.<verse eID="Ex.36.2" />
+        <verse sID="Ex.36.3" osisID="Ex.36.3" />Et acceperunt a Moyse omnes demtiones ...<verse eID="Ex.36.3" />
+      </p>
+      <chapter eID="Ex.36" />
+      <chapter sID="Ex.38" osisID="Ex.38" />
+      <title>Chatper 38</title>
+      <p>
+        <verse sID="Ex.38.9" osisID="Ex.38.9" />Et fecerunt atrium, quod est ad austrum, tentoria atrii de bysso torta, centum per centum,<verse eID="Ex.38.9" />
+        <verse sID="Ex.38.10" osisID="Ex.38.10" />et columnae eorum viginti, et bases earum viginti aereae.<verse eID="Ex.38.10" />
+        <verse sID="Ex.38.11" osisID="Ex.38.11" />Et latus, quod ad aquilonem, centum per centum, et columnae eorum viginti, et bases earum viginti aereae.<verse eID="Ex.38.11" />
+        <verse sID="Ex.38.12" osisID="Ex.38.12" />Et latus, quod est ad mare, aulaea quinquaginta cubitorum, columnae eorum decem, et bases earum decem.<verse eID="Ex.38.12" />
+        <verse sID="Ex.38.13" osisID="Ex.38.13" />Et latus, quod est ad orientem, quinquaginta cubitorum tentoria,<verse eID="Ex.38.13" />
+        <verse sID="Ex.38.14" osisID="Ex.38.14" />quindecim cubitorum, quod est a dorso, et columnae eorum tres, et bases earum tres,<verse eID="Ex.38.14" />
+        <verse sID="Ex.38.15" osisID="Ex.38.15" />et a dorso secundo hinc et hinc, secundum portam atrii, aulaea quindecim cubitorum, columnae eorum tres, et bases earum tres.<verse eID="Ex.38.15" />
+        <verse sID="Ex.38.16" osisID="Ex.38.16" />Omnia aulaea atrii de bysso torta.<verse eID="Ex.38.16" />
+        <verse sID="Ex.38.17" osisID="Ex.38.17" />Et bases columnarum aereae, et ansae earum argenteae, et capita earum inargentata argento, et columnae inargentatae argento, omnes columnae atrii.<verse eID="Ex.38.17" />
+        <verse sID="Ex.38.18" osisID="Ex.38.18" />Et vela memorati atrii, opus variatoris, de hyacintho, et purpura, et cocco neto, et bysso torta, viginti cubitorum longitudinem, et altitudinem, et latitudinem quinque cubitorum ...<verse eID="Ex.38.18" />
+        <verse sID="Ex.38.23" osisID="Ex.38.23" />Et Eliab filius Achisamach de tribu Dan, qui architectonatus est textilia, et consutilia, et diversicoloria, texere de cocco et bysso.<verse eID="Ex.38.23" />
+      </p>
+      <chapter eID="Ex.38" />
+      <chapter sID="Ex.39" osisID="Ex.39" />
+      <title>Chatper 39</title>
+      <p>
+        <verse sID="Ex.39.1" osisID="Ex.39.1" />Et fecit omnis sapiens in operibus stolas sanctorum, quae sunt Aaron sacerdotis, sicut Dominus praecepit Moysi.<verse eID="Ex.39.1" />
+        <verse sID="Ex.39.2" osisID="Ex.39.2" />Et fecerunt superhumerale de auro, et hyacintho, et purpura, et cocco, et bysso retorta,<verse eID="Ex.39.2" />
+        <verse sID="Ex.39.4" osisID="Ex.39.4" />humeralia continentia ex utrisque partibus eius.<verse eID="Ex.39.4" />
+        <verse sID="Ex.39.29" osisID="Ex.39.29" />Et fecit laminam auream, et scripsit in ea litteras deformatas sigillo sanctificationis Domini.<verse eID="Ex.39.29" />
+        <verse sID="Ex.39.30" osisID="Ex.39.30" />Et posuit super caput Aaron.<verse eID="Ex.39.30" />
+        <verse sID="Ex.39.31" osisID="Ex.39.31" />... Et fecerunt filii Israel sicut praecepit Dominus Moysi, ita fecerunt ...<verse eID="Ex.39.31" />
+      </p>
+      <chapter eID="Ex.39" />
+      <chapter sID="Ex.40" osisID="Ex.40" />
+      <title>Chatper 40</title>
+      <p>
+        <verse sID="Ex.40.14" osisID="Ex.40.14" />Et fecit Moyses omnia quae praecepit ei Dominus, ita fecit.<verse eID="Ex.40.14" />
+        <verse sID="Ex.40.19" osisID="Ex.40.19" />Extendit aulaea super tabernaculum ...<verse eID="Ex.40.19" />
+        <verse sID="Ex.40.31" osisID="Ex.40.31" />... et super atrium in circuitu tabernaculi et altaris ...<verse eID="Ex.40.31" />
+      </p>
+      <chapter eID="Ex.40" />
+    </div>
+  </osisText>
+</osis>

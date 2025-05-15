@@ -1,0 +1,1235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Gen" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Gen">
+        <title>genesis</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Gen</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>genesis</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Gen">
+      <title>genesis</title>
+      <chapter sID="Gen.1" osisID="Gen.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Gen.1.1" osisID="Gen.1.1" />In principio fecit Deus coelum et terram.<verse eID="Gen.1.1" />
+        <verse sID="Gen.1.2" osisID="Gen.1.2" />Terra autem erat invisibilis et incomposita, et tenebrae erant super abyssum. Et spiritus Dei superferebatur super aquam.<verse eID="Gen.1.2" />
+        <verse sID="Gen.1.3" osisID="Gen.1.3" />Et dixit Deus, Fiat lux. Et facta est lux.<verse eID="Gen.1.3" />
+        <verse sID="Gen.1.4" osisID="Gen.1.4" />Et vidit Deus lucem, quia bona est. Et divisit Deus inter lucem, et tenebras.<verse eID="Gen.1.4" />
+        <verse sID="Gen.1.5" osisID="Gen.1.5" />Et vocavit Deus lucem, Diem. Et tenebras vocavit Noctem. Et facta est vespera, et factum est mane, dies unus.<verse eID="Gen.1.5" />
+        <verse sID="Gen.1.6" osisID="Gen.1.6" />Et dixit Deus, Fiat firmamentum in medio aquarum. Et sit dividens inter aquam et aquam. Et sic est factum.<verse eID="Gen.1.6" />
+        <verse sID="Gen.1.7" osisID="Gen.1.7" />Et fecit Deus firmamentum, et divisit Deus inter aquam, quae erat infra firmamentum, et inter aquam, quae erat super firmamentum.<verse eID="Gen.1.7" />
+        <verse sID="Gen.1.8" osisID="Gen.1.8" />Et vocavit Deus firmamentum, Coelum. Et vidit Deus quia bonum est. Et facta est vespera, et factum est mane, dies secundus.<verse eID="Gen.1.8" />
+        <verse sID="Gen.1.9" osisID="Gen.1.9" />Et dixit Deus, Congregetur aqua, quae sub coelo est, in congregationem unam, et appareat arida. Et factum est sic. Et congregata est aqua, quae sub coelo est, in congregationem unam, et apparuit arida.<verse eID="Gen.1.9" />
+        <verse sID="Gen.1.10" osisID="Gen.1.10" />Et vocavit Deus aridam, Terram. Et congregationes aquarum vocavit Mare. Et vidit Deus quia bonum est.<verse eID="Gen.1.10" />
+        <verse sID="Gen.1.11" osisID="Gen.1.11" />Et dixit Deus, Germinet terra herbam pabuli, ferentem semen secundum genus, et secundum similitudinem, et lignum fructiferum faciens fructum, cuius semen sit in ipso secundum similitudinem suam super terram. Et factum est sic.<verse eID="Gen.1.11" />
+        <verse sID="Gen.1.12" osisID="Gen.1.12" />Et produxit terra herbam pabuli, semen habentem secundum genus, et secundum similitudinem, et lignum fructiferum faciens fructum, cuius semen eius in eo sit secundum genus super terram. Et vidit Deus quia bonum est.<verse eID="Gen.1.12" />
+        <verse sID="Gen.1.13" osisID="Gen.1.13" />Et facta est vespera, et factum est mane, dies tertius.<verse eID="Gen.1.13" />
+        <verse sID="Gen.1.14" osisID="Gen.1.14" />Et dixit Deus, Fiant luminaria in firmamento coeli, ut luceant super terram, in inchoationem diei et noctis, et ut dividant inter diem et noctem, et sint in signa, et tempora, et in dies, et in annos.<verse eID="Gen.1.14" />
+        <verse sID="Gen.1.15" osisID="Gen.1.15" />Et sint in splendorem in firmamento coeli, ut luceant super terram. Et factum est sic.<verse eID="Gen.1.15" />
+        <verse sID="Gen.1.16" osisID="Gen.1.16" />Et fecit Deus duo luminaria magna. Luminare maius in inchoationem diei, et luminare minus in inchoationem noctis, et stellas.<verse eID="Gen.1.16" />
+        <verse sID="Gen.1.17" osisID="Gen.1.17" />Et posuit ea Deus in firmamento coeli, ut luceant super terram.<verse eID="Gen.1.17" />
+        <verse sID="Gen.1.18" osisID="Gen.1.18" />Et ut sint in inchoationem diei, et noctis, et ut dividant inter lucem, et tenebras. Et vidit Deus quia bonum est.<verse eID="Gen.1.18" />
+        <verse sID="Gen.1.19" osisID="Gen.1.19" />Et facta est vespera, et factum est mane, dies quartus.<verse eID="Gen.1.19" />
+        <verse sID="Gen.1.20" osisID="Gen.1.20" />Et dixit Deus, Educant aquae reptilia animarum vivarum, et volatilia super terram, secundum firmamentum coeli. Et factum est sic.<verse eID="Gen.1.20" />
+        <verse sID="Gen.1.21" osisID="Gen.1.21" />Et fecit Deus cetos magnos, et omne animal reptilium, quae eduxerant aqua secundum genus eorum, et omne volatile pennatum secundum genus. Et vidit Deus, quia bona sunt.<verse eID="Gen.1.21" />
+        <verse sID="Gen.1.22" osisID="Gen.1.22" />Et benedixit ea Deus, dicens, Crescite, et multiplicamini, et replete aquas in mari, et volatilia multiplicentur super terram.<verse eID="Gen.1.22" />
+        <verse sID="Gen.1.23" osisID="Gen.1.23" />Et facta est vespera, et factum est mane, dies quintus.<verse eID="Gen.1.23" />
+        <verse sID="Gen.1.24" osisID="Gen.1.24" />Et dixit Deus, Educat terra animam vivam secundum genus, quadrupedia, et reptilia, et bestias terrae secundum genus, et pecora secundum genus. Et factum est sic.<verse eID="Gen.1.24" />
+        <verse sID="Gen.1.25" osisID="Gen.1.25" />Et fecit Deus bestias terrae secundum genus, et pecora secundum genus, et omnia reptilia terrae secundum genus. Et vidit Deus quia bona sunt.<verse eID="Gen.1.25" />
+        <verse sID="Gen.1.26" osisID="Gen.1.26" />Et dixit Deus, Faciamus hominem ad imaginem et similitudinem nostram. Et dominetur piscium maris, et volatilium coeli, et omnium pecorum, et omnis terrae, et omnium reptilium repentium super terram.<verse eID="Gen.1.26" />
+        <verse sID="Gen.1.27" osisID="Gen.1.27" />Et fecit Deus hominem. Ad imaginem Dei fecit eum. Masculum et feminam fecit eos.<verse eID="Gen.1.27" />
+        <verse sID="Gen.1.28" osisID="Gen.1.28" />Et benedixit eos Deus dicens, Crescite, et multiplicamini, et implete terram, et dominamini eius, et principamini piscium maris, et volatilium coeli, et omnium pecorum, et omnis terrae, et omnium reptilium repentium super terram.<verse eID="Gen.1.28" />
+        <verse sID="Gen.1.29" osisID="Gen.1.29" />Et dixit Deus, Ecce dedi vobis omne pabulum seminale, seminans semen quod est super omnem terram, et omne lignum, quod habet in se fructum seminis seminalis, vobis erit ad escam.<verse eID="Gen.1.29" />
+        <verse sID="Gen.1.30" osisID="Gen.1.30" />Et omnibus bestiis terrae, et omnibus volatilibus coeli, et omni reptili repenti super terram, quod habet in se spiritum vitae, et omne pabulum viride in escam. Et factum est sic.<verse eID="Gen.1.30" />
+        <verse sID="Gen.1.31" osisID="Gen.1.31" />Et vidit Deus omnia quae fecit. Et ecce bona valde. Et facta est vespera, et factum est mane, dies sextus.<verse eID="Gen.1.31" />
+      </p>
+      <chapter eID="Gen.1" />
+      <chapter sID="Gen.2" osisID="Gen.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Gen.2.1" osisID="Gen.2.1" />Et consummata sunt coelum et terra, et omnis ornatus eorum.<verse eID="Gen.2.1" />
+        <verse sID="Gen.2.2" osisID="Gen.2.2" />Et consummavit Deus in die sexto opera sua quae fecit. Et requievit Deus in die septimo ab omnibus operibus suis quae fecit.<verse eID="Gen.2.2" />
+        <verse sID="Gen.2.3" osisID="Gen.2.3" />Et benedixit Deus diem septimum, et sanctificavit eum, quia in ipso requievit ab omnibus operibus suis quae inchoavit Deus facere.<verse eID="Gen.2.3" />
+        <verse sID="Gen.2.4" osisID="Gen.2.4" />Hic est liber creaturae coeli et terra, cum factus est dies, fecit Deus coelum et terram.<verse eID="Gen.2.4" />
+        <verse sID="Gen.2.5" osisID="Gen.2.5" />Et omne viride agri, antequam esset super terram, et omne foenum agri, antequam exortum est. Non enim pluerat super terram Deus. Et homo non erat qui operaretur terram.<verse eID="Gen.2.5" />
+        <verse sID="Gen.2.6" osisID="Gen.2.6" />Fons autem adscendebat de terra, et irrigabat omnem faciem terrae.<verse eID="Gen.2.6" />
+        <verse sID="Gen.2.7" osisID="Gen.2.7" />Et finixit Deus hominem pulverem de terra. Et insufflavit in faciem eius flatum vitae, et factus est homo in animam viventem.<verse eID="Gen.2.7" />
+        <verse sID="Gen.2.8" osisID="Gen.2.8" />Et plantavit Deus paradisum in Eden ad Orientem. Et posuit ibi hominem quem finxerat.<verse eID="Gen.2.8" />
+        <verse sID="Gen.2.9" osisID="Gen.2.9" />Et eiecit Deus adhuc de terra omne lignum pulchrum ad aspectum, et bonum ad escam, et lignum vitae in medio paradisi, et lignum scientiae dignoscendi bonum et malum.<verse eID="Gen.2.9" />
+        <verse sID="Gen.2.10" osisID="Gen.2.10" />Flumen autem exiit de Eden, quod irrigabat paradisum, et inde divisum est in quatuor partes.<verse eID="Gen.2.10" />
+        <verse sID="Gen.2.11" osisID="Gen.2.11" />Ex his uni nomen est Phison. Hoc est quod circuit totam terram Evilath, ubi est aurum.<verse eID="Gen.2.11" />
+        <verse sID="Gen.2.12" osisID="Gen.2.12" />Aurum autem terrae illius bonum. Et ibi est carbunculus, et lapis prasinus.<verse eID="Gen.2.12" />
+        <verse sID="Gen.2.13" osisID="Gen.2.13" />Et nomen flumini secundo Geon. Hoc est quod circuit totam terram Aethiopiae.<verse eID="Gen.2.13" />
+        <verse sID="Gen.2.14" osisID="Gen.2.14" />Flumen autem tertium Tigris. Hoc est quod fluit contra Assyrios. Flumen autem quartum Euphrates.<verse eID="Gen.2.14" />
+        <verse sID="Gen.2.15" osisID="Gen.2.15" />Et sumpsit Dominus Deus hominem quem fecit, et posuit eum in paradiso, ut operaretur et custodiret.<verse eID="Gen.2.15" />
+        <verse sID="Gen.2.16" osisID="Gen.2.16" />Et praecepit Dominus Deus Adae dicens, Ab omni ligno, quod est in paradiso, edes ad escam.<verse eID="Gen.2.16" />
+        <verse sID="Gen.2.17" osisID="Gen.2.17" />De ligno autem cognoscendi bonum et malum, non manducabitis de illo. Qua die autem ederitis ab eo, morte moriemini.<verse eID="Gen.2.17" />
+        <verse sID="Gen.2.18" osisID="Gen.2.18" />Et dixit Dominus Deus, Non bonum est hominem esse solum. Faciamus ei adiutorium secundum ipsum.<verse eID="Gen.2.18" />
+        <verse sID="Gen.2.19" osisID="Gen.2.19" />Et finxit Deus adhuc de terra omnes bestias agri, et omnia volatilia coeli, et adduxit illa ad Adam, ut videret quid vocaret illa. Et omne quodcunque vocavit illud Adam animam vivam, hoc est nomen eius.<verse eID="Gen.2.19" />
+        <verse sID="Gen.2.20" osisID="Gen.2.20" />Et vocavit Adam nomina omnibus pecoribus, et omnibus volatilibus coeli, et omnibus bestiis agri. Ipsi autem Adam non est inventus adiutor similis ei.<verse eID="Gen.2.20" />
+        <verse sID="Gen.2.21" osisID="Gen.2.21" />Et immisit Deus ecstasim in Adam, et obdormivit, et accepit unam costarum eius, et adimplevit carnem in loco eius.<verse eID="Gen.2.21" />
+        <verse sID="Gen.2.22" osisID="Gen.2.22" />Et aedificavit Dominus Deus costam, quam accepit de Adam, in mulierem. Et adduxit eam ad Adam.<verse eID="Gen.2.22" />
+        <verse sID="Gen.2.23" osisID="Gen.2.23" />Et dixit Adam, Hoc nunc, os ex ossibus meis, et caro de carne mea, haec vocabitur mulier, quoniam ex viro suo sumpta est.<verse eID="Gen.2.23" />
+        <verse sID="Gen.2.24" osisID="Gen.2.24" />Et propter hoc relinquet homo patrem et matrem, et conglutinabitur uxori suae. Et erunt due in carne una.<verse eID="Gen.2.24" />
+        <verse sID="Gen.2.25" osisID="Gen.2.25" />Et erant nudi ambo, Adam et mulier eius, et non pudebat illos.<verse eID="Gen.2.25" />
+      </p>
+      <chapter eID="Gen.2" />
+      <chapter sID="Gen.3" osisID="Gen.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Gen.3.1" osisID="Gen.3.1" />Serpens autem erat prudentissimus omnium bestiarum quae sunt super terram, quas fecit Dominus Deus. Et dixit serpens mulieri, Quid quia dixit Deus, Non edetis ab omni ligno paradisi?<verse eID="Gen.3.1" />
+        <verse sID="Gen.3.2" osisID="Gen.3.2" />Et dixit mulier serpenti, A fructu ligni, quod est in paradiso, edemus.<verse eID="Gen.3.2" />
+        <verse sID="Gen.3.3" osisID="Gen.3.3" />De fructu autem ligni, quod est in medio paradisi, dixit Deus, non edetis ex eo, neque tangetis illud, ne moriamini.<verse eID="Gen.3.3" />
+        <verse sID="Gen.3.4" osisID="Gen.3.4" />Et dixit serpens mulieri, Non morte moriemini.<verse eID="Gen.3.4" />
+        <verse sID="Gen.3.5" osisID="Gen.3.5" />Sciebat enim Deus, quoniam qua die manducaveritis de eo, aperientur vobis oculi. Et eritis tanquam dii, scientes bonum et malum.<verse eID="Gen.3.5" />
+        <verse sID="Gen.3.6" osisID="Gen.3.6" />Et vidit mulier quia bonum lignum ad escam, et quia placet oculis videre, et decorum est cognoscere. Et sumens de fructu eius, edit. Et dedit viro suo secum, et ederunt.<verse eID="Gen.3.6" />
+        <verse sID="Gen.3.7" osisID="Gen.3.7" />Et aperti sunt oculi amborum, et agnoverunt quia nudi erant, et consuerunt folia fici, et fecerunt sibi campestria.<verse eID="Gen.3.7" />
+        <verse sID="Gen.3.8" osisID="Gen.3.8" />Et audierunt vocem Domini Dei deambulantis in paradiso ad vesperam, et absconderunt se Adam et mulier eius a facie Domini Dei in medio ligni paradisi.<verse eID="Gen.3.8" />
+        <verse sID="Gen.3.9" osisID="Gen.3.9" />Et vocavit Dominus Deus Adam, et dixit illi, Ubi es?<verse eID="Gen.3.9" />
+        <verse sID="Gen.3.10" osisID="Gen.3.10" />Et dixit ei, Vocem tuam audivi deambulantis in paradiso, et timui, quia nudus sum, et abscondi me.<verse eID="Gen.3.10" />
+        <verse sID="Gen.3.11" osisID="Gen.3.11" />Et dixit illi, Quis nunciavit tibi quia nudus es, nisi a ligno quod praeceperam tibi tantum ne ex eo manducares, ab eo edisti?<verse eID="Gen.3.11" />
+        <verse sID="Gen.3.12" osisID="Gen.3.12" />Et dixit Adam, Mulier, quam dedisti mecum, haec mihi dedit de ligno, et edi.<verse eID="Gen.3.12" />
+        <verse sID="Gen.3.13" osisID="Gen.3.13" />Et dixit Dominus Deus mulieri, Quid hoc fecisti? Et dixit mulier, Serpens seduxit me, et manducavi.<verse eID="Gen.3.13" />
+        <verse sID="Gen.3.14" osisID="Gen.3.14" />Et dixit Dominus Deus serpenti, Quia fecisti hoc, maledictus tu ab omnibus pecoribus, et ab omnibus bestiis, quae sunt super terram. Super pectus tuum et ventrem tuum ambulabis. Et terram edes omnes dies vitae tuae.<verse eID="Gen.3.14" />
+        <verse sID="Gen.3.15" osisID="Gen.3.15" />Et inimicitias ponam inter te et inter mulierem, et inter semen tuum et semen eius. Ipsa tibi servabit caput, et tu servabis eius calcaneum.<verse eID="Gen.3.15" />
+        <verse sID="Gen.3.16" osisID="Gen.3.16" />Et mulieri dixit, Multiplicans multiplicabo tristitias tuas, et gemitum tuum. In tristitiis paries filios, et ad virum tuum conversio tua, et ipse tui dominabitur.<verse eID="Gen.3.16" />
+        <verse sID="Gen.3.17" osisID="Gen.3.17" />Adae autem dixit, Quia audisti vocem mulieris tuae, et edisti de ligno, de quo praeceperam tibi de eo solo non edere, maledicta terra in operibus tuis. In tristitiis edes illam omnes dies vitae tuae.<verse eID="Gen.3.17" />
+        <verse sID="Gen.3.18" osisID="Gen.3.18" />Spinas et tribulos germinabit tibi, et edes foenum agri.<verse eID="Gen.3.18" />
+        <verse sID="Gen.3.19" osisID="Gen.3.19" />In sudore faciei tuae edes panem tuum, donec convertaris in terram ex qua sumptus es. Quia terra es, et in terram ibis.<verse eID="Gen.3.19" />
+        <verse sID="Gen.3.20" osisID="Gen.3.20" />Et vocavit Adam nomen mulieris suae, Vita, quoniam haec est mater omnium viventium.<verse eID="Gen.3.20" />
+        <verse sID="Gen.3.21" osisID="Gen.3.21" />Et fecit Dominus Deus Adam et mulieri eius tunicas pelliceas, et induit eos.<verse eID="Gen.3.21" />
+        <verse sID="Gen.3.22" osisID="Gen.3.22" />Et dixit Dominus Deus, Ecce Adam factus est tanquam unus ex nobis, in cognoscendo bonum et malum. Et nunc ne aliquando extendat manum suam, et sumat de ligno vitae, et edat, et vivat in aeternum.<verse eID="Gen.3.22" />
+        <verse sID="Gen.3.23" osisID="Gen.3.23" />Et dimisit illum Dominus Deus de paradiso voluptatis operari terram, ex qua sumptus est.<verse eID="Gen.3.23" />
+        <verse sID="Gen.3.24" osisID="Gen.3.24" />Et eiecit Adam, et collocavit eum contra paradisum voluptatis. Et ordinavit Cherubim, et flammeam romphaeam, quae vertitur, custodire viam ligni vitae.<verse eID="Gen.3.24" />
+      </p>
+      <chapter eID="Gen.3" />
+      <chapter sID="Gen.4" osisID="Gen.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Gen.4.1" osisID="Gen.4.1" />Adam autem cognovit Evam mulierem suam, quae concepit et peperit Cain, et dixit, Acquisivi hominem per Deum.<verse eID="Gen.4.1" />
+        <verse sID="Gen.4.2" osisID="Gen.4.2" />Et adiecit parere Abel. Et factus est Abel pastor ovium. Cain autem operabatur terram.<verse eID="Gen.4.2" />
+        <verse sID="Gen.4.3" osisID="Gen.4.3" />Et factum est post dies obtulit Cain de fructu terrae sacrificium Domino.<verse eID="Gen.4.3" />
+        <verse sID="Gen.4.4" osisID="Gen.4.4" />Et Abel obtulit et ipse de primitiis ovium suarum. Et respexit Deus super Abel, et super munera eius.<verse eID="Gen.4.4" />
+        <verse sID="Gen.4.5" osisID="Gen.4.5" />Super Cain vero, et super sacrificia eius, non respexit. Et contristatus est Cain valde, et concidit vultus eius.<verse eID="Gen.4.5" />
+        <verse sID="Gen.4.6" osisID="Gen.4.6" />Et dixit Dominus Deus ad Cain, Quare tristis factus es? Et quare concidit vultus tuus?<verse eID="Gen.4.6" />
+        <verse sID="Gen.4.7" osisID="Gen.4.7" />Nonne si recte offeras, recte autem non dividas, peccasti? Quiesce. Ad te enim conversio eius, et tu dominaberis illius.<verse eID="Gen.4.7" />
+        <verse sID="Gen.4.8" osisID="Gen.4.8" />Et dixit Cain ad Abel fratrem suum, Eamus in campum. Et factum est, cum essent ipsi in campo, insurrexit Cain super Abel fratrem suum, et occidit eum.<verse eID="Gen.4.8" />
+        <verse sID="Gen.4.9" osisID="Gen.4.9" />Et dixit Deus ad Cain, Ubi est frater tuus? Et dixit, Nescio. Numquid custos fratris mei sum ego?<verse eID="Gen.4.9" />
+        <verse sID="Gen.4.10" osisID="Gen.4.10" />Et dixit Deus, Quid fecisti hoc? Vox sanguinis fratris tui clamat ad me de terra.<verse eID="Gen.4.10" />
+        <verse sID="Gen.4.11" osisID="Gen.4.11" />Et nunc maledictus tu a terra, quae aperuit os suum excipere sanguinem fratris tui de manu tua.<verse eID="Gen.4.11" />
+        <verse sID="Gen.4.12" osisID="Gen.4.12" />Quoniam operaberis terram, et non adiiciet virtutem suam dare tibi. Gemens et tremens eris in terra.<verse eID="Gen.4.12" />
+        <verse sID="Gen.4.13" osisID="Gen.4.13" />Et dixit Cain ad Dominum, Maius delictum meum, quam ut remittatur mihi.<verse eID="Gen.4.13" />
+        <verse sID="Gen.4.14" osisID="Gen.4.14" />Si eiicis me hodie a facie terrae, et a facie tua abscondar, et ero gemens et tremens super terram. Et erit, omnis qui invenerit me, occidet me.<verse eID="Gen.4.14" />
+        <verse sID="Gen.4.15" osisID="Gen.4.15" />Et dixit ei Dominus, Non sic. Sed omnis qui occiderit Cain, septem vindictas exsolvet. Hoc est signum quod posuit Dominus in Cain, ne occideret eum omnis qui invenisset eum.<verse eID="Gen.4.15" />
+        <verse sID="Gen.4.16" osisID="Gen.4.16" />... et habitavit in terra Naid ...<verse eID="Gen.4.16" />
+        <verse sID="Gen.4.17" osisID="Gen.4.17" />Et cognovit Cain uxorem suam, et concipiens peperit Enoch. Et erat aedificans civitatem in nomine filii sui Enoch.<verse eID="Gen.4.17" />
+        <verse sID="Gen.4.18" osisID="Gen.4.18" />... Mathusael genuit Lamech.<verse eID="Gen.4.18" />
+        <verse sID="Gen.4.19" osisID="Gen.4.19" />Et sumpsit sibi Lamech duas uxores, nomen uni Ada, et nomen secundae Sella.<verse eID="Gen.4.19" />
+        <verse sID="Gen.4.20" osisID="Gen.4.20" />Et peperit Ada Iobel. Hic erat pater habitantium in tabernaculis pecuariorum.<verse eID="Gen.4.20" />
+        <verse sID="Gen.4.21" osisID="Gen.4.21" />Et nomen fratris eius Iubal. Hic fuit qui ostendit psalterium et citharam.<verse eID="Gen.4.21" />
+        <verse sID="Gen.4.22" osisID="Gen.4.22" />Sella autem peperit et ipsa Thobel, et erat aerarius, et malleator aeramenti et ferri. Soror autem Thobel, Noema.<verse eID="Gen.4.22" />
+        <verse sID="Gen.4.23" osisID="Gen.4.23" />... Audite verba mea uxores Lamech, auribus percipite verba mea. Quia virum occidi in vulnus meum, et iuvenem in livorem meum.<verse eID="Gen.4.23" />
+        <verse sID="Gen.4.24" osisID="Gen.4.24" />Quoniam septies vindicabitur de Cain, de Lamech autem septuagies septies.<verse eID="Gen.4.24" />
+        <verse sID="Gen.4.25" osisID="Gen.4.25" />Cognovit Adam uxorem suam Evam, et concepit, et peperit filium, et nominavit nomen illius Seth, dicens, Suscitavit enim mihi Deus semen aliud pro Abel, quem occidit Cain.<verse eID="Gen.4.25" />
+        <verse sID="Gen.4.26" osisID="Gen.4.26" />Et Seth natus est filius, et nominavit nomen eius Enos. Hic speravit invocare nomen Domini Dei.<verse eID="Gen.4.26" />
+      </p>
+      <chapter eID="Gen.4" />
+      <chapter sID="Gen.5" osisID="Gen.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Gen.5.1" osisID="Gen.5.1" />Hic liber nativitatis hominum. Qua die fecit Deus Adam, ad imaginem Dei fecit illum.<verse eID="Gen.5.1" />
+        <verse sID="Gen.5.2" osisID="Gen.5.2" />Masculum et feminam fecit illos, et benedixit illos, et cognominavit nomen eorum Adam, qua die fecit illos.<verse eID="Gen.5.2" />
+        <verse sID="Gen.5.3" osisID="Gen.5.3" />Vixit autem Adam ducentis triginta annis, et genuit secundum effigiem suam, et secundum similitudinem suam, et cognominavit nomen eius Seth.<verse eID="Gen.5.3" />
+        <verse sID="Gen.5.4" osisID="Gen.5.4" />Fuerunt autem dies Adam, postquam genuit Seth, septingenti anni, et genuit filios et filias.<verse eID="Gen.5.4" />
+        <verse sID="Gen.5.6" osisID="Gen.5.6" />Vixit autem Seth quinque et ducentos annos, et genuit Enos.<verse eID="Gen.5.6" />
+        <verse sID="Gen.5.7" osisID="Gen.5.7" />... et genuit filios et filias.<verse eID="Gen.5.7" />
+        <verse sID="Gen.5.8" osisID="Gen.5.8" />Et fuerunt omnes dies Seth duodecim et nongenti anni, et mortuus est.<verse eID="Gen.5.8" />
+        <verse sID="Gen.5.24" osisID="Gen.5.24" />Et complacuit Enoch Deo, et non est inventus postmodum, quia Deus illum transtulit.<verse eID="Gen.5.24" />
+        <verse sID="Gen.5.25" osisID="Gen.5.25" />Et vixit Mathusala annis centum sexaginta septem, et genuit Lamech.<verse eID="Gen.5.25" />
+        <verse sID="Gen.5.26" osisID="Gen.5.26" />Et vixit Mathusala, postquam genuit Lamech, annos octingentos duos, et genuit filios et filias.<verse eID="Gen.5.26" />
+        <verse sID="Gen.5.27" osisID="Gen.5.27" />Et fuerunt omnes dies Mathusalae quos vixit, anni nongenti sexaginta novem, et mortuus est.<verse eID="Gen.5.27" />
+        <verse sID="Gen.5.29" osisID="Gen.5.29" />Et vocavit nomen eius Noe, dicens, Iste requiescere nos faciet ab operibus nostris, et a tristitia, et a terra cui maledixit Dominus Deus.<verse eID="Gen.5.29" />
+      </p>
+      <chapter eID="Gen.5" />
+      <chapter sID="Gen.6" osisID="Gen.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Gen.6.1" osisID="Gen.6.1" />Et factum est, postquam coeperunt homines multi fieri super terram, et filiae natae sunt illis.<verse eID="Gen.6.1" />
+        <verse sID="Gen.6.2" osisID="Gen.6.2" />Videntes autem angeli Dei filias hominum, quia bonae sunt, sumpserunt sibi uxores ex omnibus, quas elegerant.<verse eID="Gen.6.2" />
+        <verse sID="Gen.6.3" osisID="Gen.6.3" />Et dixit Dominus Deus, Non permanebit spiritus meus in hominibus his in aeternum, propter quod caro sunt. Erunt autem dies eorum centum viginti anni.<verse eID="Gen.6.3" />
+        <verse sID="Gen.6.4" osisID="Gen.6.4" />Gigantes autem erant super terram in diebus illis. Et post illud, cum intrarent filii Dei ad filias hominum, et generabant sibi, illi erant gigantes a saeculo homines nominati.<verse eID="Gen.6.4" />
+        <verse sID="Gen.6.5" osisID="Gen.6.5" />Videns Dominus Deus, quia multiplicatae sunt malitiae hominum super terram, et omnis quisque cogitat in corde suo diligenter super maligna omnes dies.<verse eID="Gen.6.5" />
+        <verse sID="Gen.6.6" osisID="Gen.6.6" />Et cogitavit Deus quia fecit hominem super terram, et recogitavit.<verse eID="Gen.6.6" />
+        <verse sID="Gen.6.7" osisID="Gen.6.7" />Et dixit Deus, Deleam hominem, quem feci, a facie terrae, ab homine usque ad pecus, et a reptilibus usque ad volatilia coeli, quia iratus sum, quoniam feci eos.<verse eID="Gen.6.7" />
+        <verse sID="Gen.6.9" osisID="Gen.6.9" />... Noe vir iustus atque perfectus in generatione sua. Deo placuit.<verse eID="Gen.6.9" />
+        <verse sID="Gen.6.11" osisID="Gen.6.11" />Corrupta est autem terra coram Deo, et impleta est iniquitate.<verse eID="Gen.6.11" />
+        <verse sID="Gen.6.12" osisID="Gen.6.12" />... quoniam corrupit omnis caro viam eius ...<verse eID="Gen.6.12" />
+        <verse sID="Gen.6.13" osisID="Gen.6.13" />Dominus Deus ait, Tempus omnis hominis venit ante me, quia repleta est terra iniquitatibus suis ...<verse eID="Gen.6.13" />
+        <verse sID="Gen.6.14" osisID="Gen.6.14" />Fac igitur tibi arcam ex lignis quadratis. Nidos facies in ea, et bituminabis eam intus et foris bitumine.<verse eID="Gen.6.14" />
+        <verse sID="Gen.6.15" osisID="Gen.6.15" />Et facies arcam trecentorum cubitorum longitudine, et quinquaginta cubitorum latitudine, et triginta cubitorum altitudine.<verse eID="Gen.6.15" />
+        <verse sID="Gen.6.16" osisID="Gen.6.16" />Colligens facies arcam, et in cubito consummabis eam a summo. Ostium vero facies ex transverso. Inferiora autem arcae bicamerata et tricamerata facies.<verse eID="Gen.6.16" />
+        <verse sID="Gen.6.17" osisID="Gen.6.17" />Ecce adducam diluvium aquae super terram, et interficiam omnem carnem, in qua est spiritus vitae sub caelo. Quaecunque sunt in terra, morientur.<verse eID="Gen.6.17" />
+        <verse sID="Gen.6.18" osisID="Gen.6.18" />Statua testamentum meum ad te ...<verse eID="Gen.6.18" />
+        <verse sID="Gen.6.19" osisID="Gen.6.19" />... Ex omnibus bestiis ex omni carne, duo induces in arcam, ut vivant tecum. Masculus et femina erunt.<verse eID="Gen.6.19" />
+        <verse sID="Gen.6.20" osisID="Gen.6.20" />De animalibus volatilibus secundum genus, et de omnibus serpentibus terrae secundum genus ipsorum, duo ex omnibus introibunt ad te, masculus et femina.<verse eID="Gen.6.20" />
+      </p>
+      <chapter eID="Gen.6" />
+      <chapter sID="Gen.7" osisID="Gen.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Gen.7.1" osisID="Gen.7.1" />Et dicit Dominus ... Intra tu, et omnis domus tua, in arcam, quia te vidi iustum coram me in generatione ista.<verse eID="Gen.7.1" />
+        <verse sID="Gen.7.2" osisID="Gen.7.2" />A pecoribus autem mundis induces ad te septem et septem, et a pecoribus immundis bina et bina.<verse eID="Gen.7.2" />
+        <verse sID="Gen.7.4" osisID="Gen.7.4" />Adhuc enim septem dies, ego inducam diluvium aquae super terram ... et delebo omnem resurrectionem carnis a facie terrae.<verse eID="Gen.7.4" />
+        <verse sID="Gen.7.5" osisID="Gen.7.5" />Et fecit Noe omnia, quaecunque praecepit illi Dominus Deus, sic fecit.<verse eID="Gen.7.5" />
+        <verse sID="Gen.7.7" osisID="Gen.7.7" />... Ingressus est Noe et filii eius, et eius uxor et uxores filiorum eius.<verse eID="Gen.7.7" />
+        <verse sID="Gen.7.8" osisID="Gen.7.8" />Et a volatilibus mundis, et a volatilibus immundis, et a pecoribus mundis, et a pecoribus immundis, et ab omnibus serpentibus in terra,<verse eID="Gen.7.8" />
+        <verse sID="Gen.7.9" osisID="Gen.7.9" />duo duo intraverunt ad Noe in arcam, masculus et femina ...<verse eID="Gen.7.9" />
+        <verse sID="Gen.7.10" osisID="Gen.7.10" />... et aqua diluvii facta est super terram.<verse eID="Gen.7.10" />
+        <verse sID="Gen.7.11" osisID="Gen.7.11" />Sexcentesimo anno in vita Noe, secundi mensis, septima et vicesima mensis, et rupti sunt omnes fontes abyssi, et cataractae coeli apertae sunt.<verse eID="Gen.7.11" />
+        <verse sID="Gen.7.14" osisID="Gen.7.14" />Et omnes bestiae secundum genus, et omnia pecora secundum genus, et omne repens quod movetur super terram secundum genus, et omne volatile secundum genus,<verse eID="Gen.7.14" />
+        <verse sID="Gen.7.15" osisID="Gen.7.15" />intrarunt ad Noe in arcam, bina ab omni carne, in quo est spiritus vitae.<verse eID="Gen.7.15" />
+        <verse sID="Gen.7.16" osisID="Gen.7.16" />... et clausit Dominus a foris arcam.<verse eID="Gen.7.16" />
+        <verse sID="Gen.7.17" osisID="Gen.7.17" />Et factum est diluvium quadraginta diebus, et quadraginta noctibus.<verse eID="Gen.7.17" />
+        <verse sID="Gen.7.21" osisID="Gen.7.21" />Et mortua est omnis caro quae movebatur super terram, volatilium, pecorum, et iumentorum, et ferarum, et omnis serpens, qui movetur super terram, et omnis homo.<verse eID="Gen.7.21" />
+        <verse sID="Gen.7.22" osisID="Gen.7.22" />Et omnia quaecunque habent spiritum vitae, et omnis qui erat super aridam, mortuus est.<verse eID="Gen.7.22" />
+        <verse sID="Gen.7.23" osisID="Gen.7.23" />Et deleta est omnis suscitatio, quae erat super faciem omnis terrae, ab homine usque ad pecudem, et repentium, et volatilium coeli. Et deleta sunt de terra, et derelictus est Noe solus in arca cum iis, qui cum ipso erant.<verse eID="Gen.7.23" />
+        <verse sID="Gen.7.24" osisID="Gen.7.24" />Et exaltata est aqua super terram centum quinquaginta dies.<verse eID="Gen.7.24" />
+      </p>
+      <chapter eID="Gen.7" />
+      <chapter sID="Gen.8" osisID="Gen.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Gen.8.1" osisID="Gen.8.1" />Memor fuit Dominus Noe, et bestiarum, et iumentorum ... et induxit Dominus spiritum super terram, et cessavit aqua.<verse eID="Gen.8.1" />
+        <verse sID="Gen.8.2" osisID="Gen.8.2" />Et conclusi sunt fontes abyssi, et cataractae coeli, et detenta pluvia de coelo.<verse eID="Gen.8.2" />
+        <verse sID="Gen.8.3" osisID="Gen.8.3" />Et cessavit aqua super terram ...<verse eID="Gen.8.3" />
+        <verse sID="Gen.8.4" osisID="Gen.8.4" />Et sedit arca in mense septimo, septima et vicesima die mensis, super montes Ararat.<verse eID="Gen.8.4" />
+        <verse sID="Gen.8.5" osisID="Gen.8.5" />Aqua autem minuebatur usque ad undecimum mensem, in undecimo autem mense, prima die mensis, paruerunt capita montium.<verse eID="Gen.8.5" />
+        <verse sID="Gen.8.6" osisID="Gen.8.6" />... post quadraginta dies, aperuit Noe ostium arcae, quod fecit, et emisit corvum,<verse eID="Gen.8.6" />
+        <verse sID="Gen.8.7" osisID="Gen.8.7" />et egressus non rediit ad eum, donec siccarentur aquae de terra.<verse eID="Gen.8.7" />
+        <verse sID="Gen.8.9" osisID="Gen.8.9" />... et extendit manum suam, accepit eam, et induxit eam ad semetipsum in arcam.<verse eID="Gen.8.9" />
+        <verse sID="Gen.8.11" osisID="Gen.8.11" />Regressa est igitur columba ad vesperam, habens folium oleae et ramum in ore suo, et cognovit Noe quia defecit aqua a terra.<verse eID="Gen.8.11" />
+        <verse sID="Gen.8.12" osisID="Gen.8.12" />... et non apposuit reverti ad eum amplius.<verse eID="Gen.8.12" />
+        <verse sID="Gen.8.13" osisID="Gen.8.13" />... in primo et sexcentesimo anno vitae Noe, primo die mensis imminuta aqua a facie terrae, et denudavit Noe tectum arcae, et advertit quod aqua omnis recessisset.<verse eID="Gen.8.13" />
+        <verse sID="Gen.8.14" osisID="Gen.8.14" />In secundo autem mense, septima et vicesima die mensis, siccata terra.<verse eID="Gen.8.14" />
+        <verse sID="Gen.8.15" osisID="Gen.8.15" />Et dixit Dominus Deus ad Noe,<verse eID="Gen.8.15" />
+        <verse sID="Gen.8.16" osisID="Gen.8.16" />Exi de arca, tu et uxor tua, et filii tui ...<verse eID="Gen.8.16" />
+        <verse sID="Gen.8.18" osisID="Gen.8.18" />Et exivit ipse, et uxor eius, et filii, et uxores filiorum eius.<verse eID="Gen.8.18" />
+        <verse sID="Gen.8.20" osisID="Gen.8.20" />Et aedificavit Noe altare Deo, et accepit ab omnibus pecoribus mundis, et ab omnibus volatilibus mundis, et obtulit hostiam super altare Deo.<verse eID="Gen.8.20" />
+        <verse sID="Gen.8.21" osisID="Gen.8.21" />Et odoratus est Dominus odorem suavitatis, et dixit Dominus Deus, Recogitans, non adiiciam maledicere terram propter opera hominum, quia permanet cor hominis diligenter super mala a iuventute. Non ergo adiiciam adhuc percutere omnem carnem sicut feci.<verse eID="Gen.8.21" />
+        <verse sID="Gen.8.22" osisID="Gen.8.22" />Omnibus diebus terrae, semen et messis, frigus et aestus, hiems et aestas, die et nocte non requiescent.<verse eID="Gen.8.22" />
+      </p>
+      <chapter eID="Gen.8" />
+      <chapter sID="Gen.9" osisID="Gen.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Gen.9.1" osisID="Gen.9.1" />Et benedixit Dominus Noe et filios eius, dicens, Crescite, et multiplicamini, et replete terram, et dominamini eius.<verse eID="Gen.9.1" />
+        <verse sID="Gen.9.2" osisID="Gen.9.2" />Et timor vester et tremor erit omnibus bestiis terrae, et omnibus avibus coeli, et in omnibus quae moventur super terram, et in omnibus piscibus maris ...<verse eID="Gen.9.2" />
+        <verse sID="Gen.9.3" osisID="Gen.9.3" />Omnia reptilia, quae sunt viva, erunt vobis in escam, sicut olera pabuli dedi vobis omnia.<verse eID="Gen.9.3" />
+        <verse sID="Gen.9.4" osisID="Gen.9.4" />Verum carnem in sanguine animae suae non edetis.<verse eID="Gen.9.4" />
+        <verse sID="Gen.9.5" osisID="Gen.9.5" />Etenim vestrum sanguinem animarum vestrarum exquiram illum de manu omnium bestiarum, et de manu hominis fratris exquiram animam hominis.<verse eID="Gen.9.5" />
+        <verse sID="Gen.9.6" osisID="Gen.9.6" />Qui effuderit sanguinem hominis, pro sanguine eius effundetur anima eius, quia ad imaginem Dei feci hominem.<verse eID="Gen.9.6" />
+        <verse sID="Gen.9.7" osisID="Gen.9.7" />... Crescite et multiplicamini ...<verse eID="Gen.9.7" />
+        <verse sID="Gen.9.8" osisID="Gen.9.8" />... dixit Dominus ad Noe, et ad filios eius ...<verse eID="Gen.9.8" />
+        <verse sID="Gen.9.9" osisID="Gen.9.9" />Ecce ego excito testamentum meum vobis, et semini vestro post vos,<verse eID="Gen.9.9" />
+        <verse sID="Gen.9.10" osisID="Gen.9.10" />et omni animae, quae vivit vobiscum ...<verse eID="Gen.9.10" />
+        <verse sID="Gen.9.11" osisID="Gen.9.11" />... Non erit diluvium, ut corrumpat omnem terram.<verse eID="Gen.9.11" />
+        <verse sID="Gen.9.12" osisID="Gen.9.12" />... Hoc signum testamenti, quod ego ponam inter me et vos, et omnem animam vivam ...<verse eID="Gen.9.12" />
+        <verse sID="Gen.9.13" osisID="Gen.9.13" />Arcum meum ponam in nube, et erit signum testamenti aeterni inter me et inter terram.<verse eID="Gen.9.13" />
+        <verse sID="Gen.9.14" osisID="Gen.9.14" />Et erit cum innubilavero nubes super terram, parebit arcus meus in nube,<verse eID="Gen.9.14" />
+        <verse sID="Gen.9.15" osisID="Gen.9.15" />et memor ero testamenti mei, quod est inter me et vos, et omnem animam vivam ...<verse eID="Gen.9.15" />
+        <verse sID="Gen.9.18" osisID="Gen.9.18" />Et erant filii Noe, qui egressi sunt de arca, Sem, Cham, Iapheth. Cham autem pater erat Chanaan.<verse eID="Gen.9.18" />
+        <verse sID="Gen.9.19" osisID="Gen.9.19" />Isti tres erant filii Noe ...<verse eID="Gen.9.19" />
+        <verse sID="Gen.9.20" osisID="Gen.9.20" />Et coepit Noe homo agricola esse terrae, et plantavit vineam.<verse eID="Gen.9.20" />
+        <verse sID="Gen.9.21" osisID="Gen.9.21" />Et bibit de vino, et inebriatus est, et nudatus est in domo sua.<verse eID="Gen.9.21" />
+        <verse sID="Gen.9.22" osisID="Gen.9.22" />Et vidit Cham, pater Chanaan, nudationem patris ...<verse eID="Gen.9.22" />
+        <verse sID="Gen.9.23" osisID="Gen.9.23" />... Sem et Iapheth imposuerunt vestimentum super humeros suos, et perrexerunt retrorsum, et operuerunt nudum patrem, et non viderunt nudationem eius.<verse eID="Gen.9.23" />
+        <verse sID="Gen.9.24" osisID="Gen.9.24" />Et sobrius factus est Noe a vino, et cognovit omnia quae fecit ei filius iunior.<verse eID="Gen.9.24" />
+        <verse sID="Gen.9.25" osisID="Gen.9.25" />Et dixit, Maledictus Cham, servus domesticus erit fratribus suis.<verse eID="Gen.9.25" />
+        <verse sID="Gen.9.26" osisID="Gen.9.26" />Et ait, Benedictus Dominus Deus Sem, et erit Chanaan servus eius.<verse eID="Gen.9.26" />
+        <verse sID="Gen.9.27" osisID="Gen.9.27" />Dilatet Dominus Iapheth, habitet in domibus Sem, et fiat Chanaan servus eius.<verse eID="Gen.9.27" />
+        <verse sID="Gen.9.28" osisID="Gen.9.28" />Vixit autem Noe post diluvium trecentis et quinquaginta annis.<verse eID="Gen.9.28" />
+        <verse sID="Gen.9.29" osisID="Gen.9.29" />Et facti sunt omnes dies Noe, nongenti quinquaginta anni ...<verse eID="Gen.9.29" />
+      </p>
+      <chapter eID="Gen.9" />
+      <chapter sID="Gen.10" osisID="Gen.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Gen.10.2" osisID="Gen.10.2" />Filii Iapheth: Gomer, et Magog, et Madai, et Iavan, et Thubal, et Mosoch, et Thiras.<verse eID="Gen.10.2" />
+        <verse sID="Gen.10.3" osisID="Gen.10.3" />Filii Gomer: Aschenez, et Riphath, et Thogarma.<verse eID="Gen.10.3" />
+        <verse sID="Gen.10.4" osisID="Gen.10.4" />Filii Iavan: Elisa et Tharsis, Cethim et Dodanim.<verse eID="Gen.10.4" />
+        <verse sID="Gen.10.5" osisID="Gen.10.5" />Ex his segregatae sunt insulae gentium in terra sua, unusquisque secundum linguam suam, in tribubus suis, et in gentibus suis.<verse eID="Gen.10.5" />
+        <verse sID="Gen.10.6" osisID="Gen.10.6" />Filii Cham: Chus, et Mesraim, et Phuth, et Chanaan.<verse eID="Gen.10.6" />
+        <verse sID="Gen.10.7" osisID="Gen.10.7" />Filii Chus: Saba et Aevila, Sabatha, Regma, et Sabathaca. Filii Regma: Saba, et Dadan.<verse eID="Gen.10.7" />
+        <verse sID="Gen.10.8" osisID="Gen.10.8" />Chus autem genuit Nebroth. Hic coepit esse gigas super terram.<verse eID="Gen.10.8" />
+        <verse sID="Gen.10.9" osisID="Gen.10.9" />Hic erat gigas venator contra Dominum Deum. Propter hoc dicunt, Sicut Nebroth gigas venator contra Dominum.<verse eID="Gen.10.9" />
+        <verse sID="Gen.10.10" osisID="Gen.10.10" />Et factum est initium regni eius Babylon, Orech, Archad, et Chalanne, in terra Sennaar.<verse eID="Gen.10.10" />
+        <verse sID="Gen.10.11" osisID="Gen.10.11" />De terra illa exiit Assur, et aedificavit Niniven, et Robooth civitatem, et Chalach.<verse eID="Gen.10.11" />
+        <verse sID="Gen.10.12" osisID="Gen.10.12" />Et Dasem inter medium Ninives et Chalach. Haec civitas magna.<verse eID="Gen.10.12" />
+        <verse sID="Gen.10.13" osisID="Gen.10.13" />Et Mesraim genuit Ludim, et Anamim, et Laabim, et Nephtuim,<verse eID="Gen.10.13" />
+        <verse sID="Gen.10.14" osisID="Gen.10.14" />et Phetrosim, et Chasloim, e quibus egressi sunt Philistiim, et Caphtorim.<verse eID="Gen.10.14" />
+        <verse sID="Gen.10.15" osisID="Gen.10.15" />Et Chanaan genuit Sidona primogenitum suum, et Chettaeum,<verse eID="Gen.10.15" />
+        <verse sID="Gen.10.16" osisID="Gen.10.16" />et Iebusaeum, et Amorraeum, et Gergesaeum,<verse eID="Gen.10.16" />
+        <verse sID="Gen.10.17" osisID="Gen.10.17" />et Evaeum, et Aracaeum, et Sinaeum,<verse eID="Gen.10.17" />
+        <verse sID="Gen.10.18" osisID="Gen.10.18" />et Aradium, et Samarraeum, et Amathaeum ...<verse eID="Gen.10.18" />
+        <verse sID="Gen.10.19" osisID="Gen.10.19" />Et fuit terminus Chananaeorum a Sidone, donec venias in Gerara usque ad Gazam, pergentibus Sodomam, et Gomorram, et Adamam, et Seboim, usque ad Lise.<verse eID="Gen.10.19" />
+        <verse sID="Gen.10.20" osisID="Gen.10.20" />Hi filii Cham in tribubus suis, secundum linguas suas, in regionibus suis, et in gentibus suis.<verse eID="Gen.10.20" />
+        <verse sID="Gen.10.21" osisID="Gen.10.21" />Et Sem natus est etiam ipsi, patri omnium filiorum Heber, fratri Iaphet maiori.<verse eID="Gen.10.21" />
+        <verse sID="Gen.10.22" osisID="Gen.10.22" />Filii Sem: Elam et Assur, et Arphaxad, et Lud, et Aram.<verse eID="Gen.10.22" />
+        <verse sID="Gen.10.23" osisID="Gen.10.23" />Filii Aram: Us, et Ul, et Gether, et Mes.<verse eID="Gen.10.23" />
+        <verse sID="Gen.10.24" osisID="Gen.10.24" />Arphaxat genuit Cainan, Cainan genuit Sala, Sala genuit Heber.<verse eID="Gen.10.24" />
+        <verse sID="Gen.10.25" osisID="Gen.10.25" />Et Heber nati sunt filii duo. Nomen unius Phalech, quia in diebus eius divisa est terra. Et nomen fratris eius Iectan.<verse eID="Gen.10.25" />
+        <verse sID="Gen.10.26" osisID="Gen.10.26" />Iectan genuit Helmodad, et Saleph, et Asermoth, et Iare,<verse eID="Gen.10.26" />
+        <verse sID="Gen.10.27" osisID="Gen.10.27" />et Aduram, et Uzal, et Decla,<verse eID="Gen.10.27" />
+        <verse sID="Gen.10.28" osisID="Gen.10.28" />Ebal, Abimael, Seba,<verse eID="Gen.10.28" />
+        <verse sID="Gen.10.29" osisID="Gen.10.29" />Ophir, Evila, et Iobab ...<verse eID="Gen.10.29" />
+        <verse sID="Gen.10.31" osisID="Gen.10.31" />Hi filii Sem, in tribubus suis, secundum linguas suas, in regionibus suis, et in gentibus suis.<verse eID="Gen.10.31" />
+        <verse sID="Gen.10.32" osisID="Gen.10.32" />Hae tribus filiorum Noe secundum generationes eorum, et secundum gentes eorum. Ab his dispersae sunt insulae gentium super terram post diluvium.<verse eID="Gen.10.32" />
+      </p>
+      <chapter eID="Gen.10" />
+      <chapter sID="Gen.11" osisID="Gen.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Gen.11.1" osisID="Gen.11.1" />Et erat omnis terra labium unum, et vox una omnibus.<verse eID="Gen.11.1" />
+        <verse sID="Gen.11.2" osisID="Gen.11.2" />Et factum est, cum moverunt ipsi ab oriente, invenerunt campum in terra Sennaar, et habitaverunt ibi.<verse eID="Gen.11.2" />
+        <verse sID="Gen.11.3" osisID="Gen.11.3" />Et dixit homo proximo suo, Venite, faciamus lateres, et coquamus illos igni. Et facti sunt illis lateres in lapidem, et bitumen illis erat lutum.<verse eID="Gen.11.3" />
+        <verse sID="Gen.11.4" osisID="Gen.11.4" />Et dixerunt, Venite, et aedificemus nobismeripsis civitatem, et turrem, cuius caput erit usque ad coelum, et faciamus nostrum nomen antequam dispergamur in faciem omnis terrae.<verse eID="Gen.11.4" />
+        <verse sID="Gen.11.5" osisID="Gen.11.5" />Et descendit Dominus videre civitatem et turrem, quam aedificaverunt filii hominum.<verse eID="Gen.11.5" />
+        <verse sID="Gen.11.6" osisID="Gen.11.6" />Et dixit Dominus Deus, Ecce, genus unum, et labium unum omnium, et hoc inchoaverunt facere, et nunc non deficient ex illis omnia, quae conati fuerint facere.<verse eID="Gen.11.6" />
+        <verse sID="Gen.11.7" osisID="Gen.11.7" />Venite, et descendentes confundamus ibi linguam eorum, ut non audiant unusquisque vocem proximi sui.<verse eID="Gen.11.7" />
+        <verse sID="Gen.11.8" osisID="Gen.11.8" />Et dispersit eos Dominus inde super faciem omnis terrae, et cessaverunt aedificantes civitatem et turrem.<verse eID="Gen.11.8" />
+        <verse sID="Gen.11.9" osisID="Gen.11.9" />Propter hoc appellatum est nomen illius Confusio, quia ibi confundit Dominus labia omnis terrae, et inde dispersit illos Dominus Deus super faciem omnis terrae.<verse eID="Gen.11.9" />
+        <verse sID="Gen.11.10" osisID="Gen.11.10" />Et hae generationes Sem. Sem filius centum annorum cum genuit Arphaxat, secundo anno post diluvium.<verse eID="Gen.11.10" />
+        <verse sID="Gen.11.11" osisID="Gen.11.11" />Et vixit Sem postquam genuit Arphaxat, quingentos annos, et genuit filios et filias, et mortuus est.<verse eID="Gen.11.11" />
+        <verse sID="Gen.11.12" osisID="Gen.11.12" />Et erat Arphaxad annorum centum triginta quinque cum genuit Chainan.<verse eID="Gen.11.12" />
+        <verse sID="Gen.11.13" osisID="Gen.11.13" />Et vixit Arphaxad, postquam genuit Chainan, annos quadringentos ...<verse eID="Gen.11.13" />
+        <verse sID="Gen.11.26" osisID="Gen.11.26" />Cum esset Tharra annorum septuaginta, genuit Abraham, et Nachor, et Arran.<verse eID="Gen.11.26" />
+        <verse sID="Gen.11.27" osisID="Gen.11.27" />Hae sunt generationes Tharae. Thara genuit Abram, et Nachor, et Aran. Et Aran genuit Lot.<verse eID="Gen.11.27" />
+        <verse sID="Gen.11.28" osisID="Gen.11.28" />Et mortuus est Aran coram Thara patre suo, in terra in qua natus est, in regione Chaldaeorum.<verse eID="Gen.11.28" />
+        <verse sID="Gen.11.29" osisID="Gen.11.29" />Et sumpserunt Abram et Nachor sibi uxores. Nomen mulieris Abram, Sara. Et nomen mulieris Nachor, Melcha filia Aran, pater Melchae, et pater Iescae.<verse eID="Gen.11.29" />
+        <verse sID="Gen.11.30" osisID="Gen.11.30" />Et erat Sara sterilis, et non generabat.<verse eID="Gen.11.30" />
+        <verse sID="Gen.11.31" osisID="Gen.11.31" />Et sumpsit Thara Abram filium suum, et Lot filium Aran, filium filii sui, et Saram nurum suam, uxorem Abram filii sui, et eduxit illos de regione Chaldaeorum, ire in terram Chanaan. Et venit in Charram, et habitavit ibi.<verse eID="Gen.11.31" />
+        <verse sID="Gen.11.32" osisID="Gen.11.32" />Et fuerunt dies Tharae in Charra quinque et ducenti anni, et mortuus est in Charra.<verse eID="Gen.11.32" />
+      </p>
+      <chapter eID="Gen.11" />
+      <chapter sID="Gen.12" osisID="Gen.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Gen.12.1" osisID="Gen.12.1" />Et dixit Dominus ad Abram, Exi de terra tua, et de cognatione tua, et de domo patris tui, et vade in terram quam tibi demonstravero.<verse eID="Gen.12.1" />
+        <verse sID="Gen.12.2" osisID="Gen.12.2" />Et faciam te in gentem magnam, et benedicam te, et magnificabo nomen tuum, et eris benedictus.<verse eID="Gen.12.2" />
+        <verse sID="Gen.12.3" osisID="Gen.12.3" />Et benedicam benedicentes te, et maledicam maledicentes te, et benedicentur IN TE omnes tribus terrae.<verse eID="Gen.12.3" />
+        <verse sID="Gen.12.4" osisID="Gen.12.4" />Et exiit Abram, quemadmodum locutus est illi Dominus, et abiit cum eo Lot. Abram autem erat quinque et septuaginta annorum cum exiit ex Charra.<verse eID="Gen.12.4" />
+        <verse sID="Gen.12.5" osisID="Gen.12.5" />Et sumpsit Abraham Saram uxorem suam, et Lot filium fratris sui ... et omnem animam, quascunque possederat in Charram ...<verse eID="Gen.12.5" />
+        <verse sID="Gen.12.6" osisID="Gen.12.6" />Et perambulavit Abraham terram usque ad locum Sychem, ad quercum altam ...<verse eID="Gen.12.6" />
+        <verse sID="Gen.12.7" osisID="Gen.12.7" />Et visus est Dominus Deus Abrae, et dixit ei, Semini tuo dabo terram istam. Et aedificavit ibi Abram altare Domino, qui visus est ei.<verse eID="Gen.12.7" />
+        <verse sID="Gen.12.8" osisID="Gen.12.8" />Et recessit inde in montem contra orientem Bethel, et statuit ibi tabernaculum suum Bethel, secundum mare Agge, contra orientem, et aedificavit ibi altare Domino Deo, et invocavit in nomine Domini Dei, qui visus est.<verse eID="Gen.12.8" />
+        <verse sID="Gen.12.9" osisID="Gen.12.9" />Et abiit Abram, et demoratus est in deserto.<verse eID="Gen.12.9" />
+        <verse sID="Gen.12.10" osisID="Gen.12.10" />Et fames facta est super terram, et descendit Abraham in Aegyptum ...<verse eID="Gen.12.10" />
+        <verse sID="Gen.12.12" osisID="Gen.12.12" />Erit ergo cum te viderint Aegyptii, dicent, quia uxor illius haec ...<verse eID="Gen.12.12" />
+        <verse sID="Gen.12.14" osisID="Gen.12.14" />Factum est autem, statim ut intravit Abram in Aegyptum, videntes Aegyptii mulierem, quia speciola erat valde.<verse eID="Gen.12.14" />
+        <verse sID="Gen.12.15" osisID="Gen.12.15" />Et viderunt eam principes Pharaonis, et laudaverunt eam apud Pharaonem. Et introduxerunt eam in domum Pharaonis.<verse eID="Gen.12.15" />
+        <verse sID="Gen.12.16" osisID="Gen.12.16" />Et Abram bene fecit propter eam. Et fuerunt ei oves, et armenta, et asini, et servi et ancillae, muli, et cameli.<verse eID="Gen.12.16" />
+        <verse sID="Gen.12.17" osisID="Gen.12.17" />Afflixit autem Dominus Pharao afflictationibus magnis et saevissimis, et domum eius, propter Saram uxorem Abrae.<verse eID="Gen.12.17" />
+        <verse sID="Gen.12.18" osisID="Gen.12.18" />Pharao vocavit Abraham, et ait, Quid hoc fecisti mihi? Quare non dixisti mihi quia uxor tua est?<verse eID="Gen.12.18" />
+        <verse sID="Gen.12.19" osisID="Gen.12.19" />Sed dixisti mihi quia soror tua est, et sumpseram eam mihi uxorem. Et nunc ecce mulier tua ante te, accipe, et recurre hinc.<verse eID="Gen.12.19" />
+      </p>
+      <chapter eID="Gen.12" />
+      <chapter sID="Gen.13" osisID="Gen.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Gen.13.1" osisID="Gen.13.1" />Et ascendit Abram ex Aegypto, ipse et uxor eius, et omnia quae illius erant, et Loth cum eo, in desertum.<verse eID="Gen.13.1" />
+        <verse sID="Gen.13.2" osisID="Gen.13.2" />Erat autem Abram dives valde in pecore, et argento, et auro.<verse eID="Gen.13.2" />
+        <verse sID="Gen.13.3" osisID="Gen.13.3" />Et abiit unde venerat in desertum, usque Bethel, ad locum ubi fuerat tabernaculum eius prius, inter Bethel et inter Agge,<verse eID="Gen.13.3" />
+        <verse sID="Gen.13.4" osisID="Gen.13.4" />in locum ubi altare fecerat initio, et invocaverat ibi Abram nomen Dei.<verse eID="Gen.13.4" />
+        <verse sID="Gen.13.5" osisID="Gen.13.5" />Et Lot qui simul ambulabat cum Abram, erant oves, et boves, et tabernacula.<verse eID="Gen.13.5" />
+        <verse sID="Gen.13.6" osisID="Gen.13.6" />Et non capiebat illos terra, habitare simul ...<verse eID="Gen.13.6" />
+        <verse sID="Gen.13.7" osisID="Gen.13.7" />Et facta est rixa inter pastores pecorum Abram, et pecorum Lot ...<verse eID="Gen.13.7" />
+        <verse sID="Gen.13.8" osisID="Gen.13.8" />Dixit autem Abraham ad Lot, Non sit rixa inter me et te, et inter pastores meos et pastores tuos, quia homines nos fratres sumus.<verse eID="Gen.13.8" />
+        <verse sID="Gen.13.9" osisID="Gen.13.9" />Nonne ecce tota terra ante te est? Discede a me. Si tu in sinistram, ego in dexteram. Vel si tu in dexteram, ego in sinistram.<verse eID="Gen.13.9" />
+        <verse sID="Gen.13.10" osisID="Gen.13.10" />Et levavit Lot oculos, et aspexit omnem regionem Iordanis, quae irrigabatur, priusquam everteret Deus Sodomam et Gomorrham, sicut paradisus Dei, et terra Aegypti, usque dum venias Zothopa.<verse eID="Gen.13.10" />
+        <verse sID="Gen.13.11" osisID="Gen.13.11" />Et elegit sibi Lot regionem Iordanis, et elevavit Lot ab oriente, et discesserunt unusquisque a fratre suo.<verse eID="Gen.13.11" />
+        <verse sID="Gen.13.13" osisID="Gen.13.13" />Homines in Sodomis saevi erant, et peccatores in conspectu Domini valde.<verse eID="Gen.13.13" />
+        <verse sID="Gen.13.14" osisID="Gen.13.14" />Et dixit Deus ad Abram, postquam recessit Lot ab illo, Respice oculis tuis, et vide a loco, in quo nunc tu es, ad africum, et aquilonem, et orientem, et mare.<verse eID="Gen.13.14" />
+        <verse sID="Gen.13.15" osisID="Gen.13.15" />Quia omnem terram, quam tu vides, tibi dabo eam, et semini tuo usque in saeculum.<verse eID="Gen.13.15" />
+        <verse sID="Gen.13.16" osisID="Gen.13.16" />Et faciam semen tuum tanquam arenam terrae, si potest aliquis dinumerare arenam terrae, et semen tuum dinumerabitur.<verse eID="Gen.13.16" />
+        <verse sID="Gen.13.17" osisID="Gen.13.17" />Surgens perambula terram in longitudinem eius, et in latitudinem, quia tibi dabo eam, et semini tuo in aeternum.<verse eID="Gen.13.17" />
+      </p>
+      <chapter eID="Gen.13" />
+      <chapter sID="Gen.14" osisID="Gen.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Gen.14.1" osisID="Gen.14.1" />Factum est autem in regno Amarphal regis Sennaar ...<verse eID="Gen.14.1" />
+        <verse sID="Gen.14.2" osisID="Gen.14.2" />... et rex Bale, haec est Segor.<verse eID="Gen.14.2" />
+        <verse sID="Gen.14.3" osisID="Gen.14.3" />Omnes hi consenserunt apud vallem Salsam, hoc est mare salis.<verse eID="Gen.14.3" />
+        <verse sID="Gen.14.5" osisID="Gen.14.5" />Quarto decimo autem anno Chodollogomor, et reges qui cum eo, et conciderunt gigantes in Astaroth-Carnaim, et gentes fortes simul cum eis, et Ominaeos in Save civitate, antequam Sodomam pervenirent,<verse eID="Gen.14.5" />
+        <verse sID="Gen.14.6" osisID="Gen.14.6" />et Chorraeos qui in montibus Seir ...<verse eID="Gen.14.6" />
+        <verse sID="Gen.14.7" osisID="Gen.14.7" />Et revertentes venerunt ad fontem iudicii, haec est Cades, et percusserunt omnem regionem Amalecitarum, et Amorraeorum sedentem in Asasonthamar.<verse eID="Gen.14.7" />
+        <verse sID="Gen.14.8" osisID="Gen.14.8" />... Et direxerunt contra eos aciem ad bellum in valle Salinarum.<verse eID="Gen.14.8" />
+        <verse sID="Gen.14.11" osisID="Gen.14.11" />Et tulerunt omnem equitatum Sodomorum et Gomorrhae ...<verse eID="Gen.14.11" />
+        <verse sID="Gen.14.12" osisID="Gen.14.12" />Ceperunt etiam Lot, filium fratris Abrahae ... et discesserunt ...<verse eID="Gen.14.12" />
+        <verse sID="Gen.14.13" osisID="Gen.14.13" />Adveniens autem eorum, qui evaserunt, quidam, nunciavit Abram transfluviali. Ipse autem habitabat ad quercum Mambre Amorrhis, fratris Eschol, et fratris Aunan, qui erant coniurati Abram.<verse eID="Gen.14.13" />
+        <verse sID="Gen.14.14" osisID="Gen.14.14" />Cum autem audisset Abraham, quia captivus ductus est Lot frater suus, numeravit vernaculos suos trecentos decem et octo, et persecutus est eos usque Dan.<verse eID="Gen.14.14" />
+        <verse sID="Gen.14.15" osisID="Gen.14.15" />... et percussit eos, et persecutus est usque Choba, quae est ad dexteram Damasci.<verse eID="Gen.14.15" />
+        <verse sID="Gen.14.16" osisID="Gen.14.16" />Et reduxit omnem equitatem Sodomorum, et Lot fratrem suum revocavit ...<verse eID="Gen.14.16" />
+        <verse sID="Gen.14.18" osisID="Gen.14.18" />Et Melchisedech rex Salem protulit panem et vinum, et ipse sacerdos Dei excelsi.<verse eID="Gen.14.18" />
+        <verse sID="Gen.14.19" osisID="Gen.14.19" />Et benedixit Abram, et dixit, Benedictus Abraham Deo summo, qui creavit coelum et terram.<verse eID="Gen.14.19" />
+        <verse sID="Gen.14.21" osisID="Gen.14.21" />Rex Sodomorum exivit obviam Abrae, et dixit, Da mihi homines, equos autem sume tibi.<verse eID="Gen.14.21" />
+        <verse sID="Gen.14.22" osisID="Gen.14.22" />Et dixit Abram ad regem Sodomorum, Extendo manum meam ad Deum altissimum, qui creavit coelum et terram,<verse eID="Gen.14.22" />
+        <verse sID="Gen.14.23" osisID="Gen.14.23" />si a sparto usque ad corrigiam calceamenti, accipiam de omnibus tuis ...<verse eID="Gen.14.23" />
+      </p>
+      <chapter eID="Gen.14" />
+      <chapter sID="Gen.15" osisID="Gen.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Gen.15.1" osisID="Gen.15.1" />Post haec verba, factum est verbum Domini ad Abram in visu, dicens, Noli timere Abram, ego protegam te, merces tua multa erit valde.<verse eID="Gen.15.1" />
+        <verse sID="Gen.15.2" osisID="Gen.15.2" />Dixitque Abraham, Domine Deus, quid dabis mihi? Et ego vado sine liberis, et filius Masec vernaculae meae, hic Damascus Eliezer.<verse eID="Gen.15.2" />
+        <verse sID="Gen.15.3" osisID="Gen.15.3" />Et dixit Abram, Ecce mihi non dedisti semen, et filius vernaculae meae haeres meus erit.<verse eID="Gen.15.3" />
+        <verse sID="Gen.15.4" osisID="Gen.15.4" />Statimque sermo Domino ad eum, Non erit haeres tuus hic. Sed qui exiet de te, ille erit haeres tuus.<verse eID="Gen.15.4" />
+        <verse sID="Gen.15.5" osisID="Gen.15.5" />Eduxit autem eum foras, et dixit ei, Aspice in coelum, et numera stellas, si poteris dinumerare eas. Et ait illi, Sic erit semen tuum.<verse eID="Gen.15.5" />
+        <verse sID="Gen.15.6" osisID="Gen.15.6" />Et credidit Abram Deo, et reputatum est ei ad iustitiam.<verse eID="Gen.15.6" />
+        <verse sID="Gen.15.7" osisID="Gen.15.7" />Ait autem ad illum, Ego Deus qui te eduxi de regione Chaldaeorum, ut dem tibi terram hanc, ut haeres sis eius.<verse eID="Gen.15.7" />
+        <verse sID="Gen.15.8" osisID="Gen.15.8" />Dixit autem, Dominator Domine, secundum quid sciam, quia haeres eius ero?<verse eID="Gen.15.8" />
+        <verse sID="Gen.15.9" osisID="Gen.15.9" />Dixit illi Deus, Accipe mihi iuvencam trimam, et capram trimam, et arietem trimum, et turturem, et columbam.<verse eID="Gen.15.9" />
+        <verse sID="Gen.15.10" osisID="Gen.15.10" />Accepit autem illi haec omnia, et divisit illa media, et posuit ea contra faciem alterum alteri. Aves autem non divisit.<verse eID="Gen.15.10" />
+        <verse sID="Gen.15.11" osisID="Gen.15.11" />Et descenderunt aves supra corpora, quae divisa erant, et consedit illis Abram.<verse eID="Gen.15.11" />
+        <verse sID="Gen.15.12" osisID="Gen.15.12" />Circa solis autem occasum, pavor irruit super Abram, et ecce timor tenebrosus magnus incidit ei.<verse eID="Gen.15.12" />
+        <verse sID="Gen.15.13" osisID="Gen.15.13" />Et dictum est ad Abram, Sciendo scies, quia peregrinum erit semen tuum in terra non propria, et in servitutem redigent eos, et affligent eos quadringentis annis.<verse eID="Gen.15.13" />
+        <verse sID="Gen.15.14" osisID="Gen.15.14" />Gentem autem, cui servierint, iudicabo ego. Post haec vero exibunt huc cum supellectili multa.<verse eID="Gen.15.14" />
+        <verse sID="Gen.15.15" osisID="Gen.15.15" />Tu autem ibis ad patres tuos cum pace, nutritus in senecta bona.<verse eID="Gen.15.15" />
+        <verse sID="Gen.15.16" osisID="Gen.15.16" />Quarta vero generatione convertent se huc. Nondum enim impleta sunt peccata Amorrhaeorum usque adhuc.<verse eID="Gen.15.16" />
+        <verse sID="Gen.15.17" osisID="Gen.15.17" />Cum autem iam sol erat ad occasum, facta est flamma, et ecce fornax fumabunda, et lampades ignis, quae pertransierunt per media divisa illa.<verse eID="Gen.15.17" />
+        <verse sID="Gen.15.18" osisID="Gen.15.18" />In die illa disposuit Dominus Deus testamentum ad Abram, dicens, Semini tuo dabo terram hanc a flumine Aegypti usque ad flumen magnum Euphratem,<verse eID="Gen.15.18" />
+        <verse sID="Gen.15.19" osisID="Gen.15.19" />Cenaeos, et Cenezaeos, et Cedmonaeos,<verse eID="Gen.15.19" />
+        <verse sID="Gen.15.20" osisID="Gen.15.20" />et Chetaeos, et Pherefaeos, et Raphaim,<verse eID="Gen.15.20" />
+        <verse sID="Gen.15.21" osisID="Gen.15.21" />et Amorrhaeos, et Chananaeos, et Evaeos, et Gergesaeos, et Iebusaeos.<verse eID="Gen.15.21" />
+      </p>
+      <chapter eID="Gen.15" />
+      <chapter sID="Gen.16" osisID="Gen.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Gen.16.2" osisID="Gen.16.2" />Dixit Sara ad Abram, Ecce conclusit me Dominus, ut non pariam. Intra ergo ad ancillam meum, ut filios facias ex illa ...<verse eID="Gen.16.2" />
+        <verse sID="Gen.16.3" osisID="Gen.16.3" />Et apprehendit Sarra, uxor Abram, Agar Aegyptiam ancillam suam, post decem annos quam habitaverat Abram in terra Chanaan, et dedit eam Abram viro suo ipsi uxorem.<verse eID="Gen.16.3" />
+        <verse sID="Gen.16.5" osisID="Gen.16.5" />Et dicit ad eum, Iniuriam accipio ex te. Ego dedi ancillam meam in sinum tuum. Ubi autem videt conceptum esse, spreta sum coram ab ea. Iudicet Deus inter me et te.<verse eID="Gen.16.5" />
+        <verse sID="Gen.16.6" osisID="Gen.16.6" />Dixit autem Abram ad Saram, Ecce ancilla tua in manibus tuis, utere ea quomodo tibi placuerit. Et afflixit eam Sara, et fugit a facie eius.<verse eID="Gen.16.6" />
+        <verse sID="Gen.16.7" osisID="Gen.16.7" />Et invenit eam angelus Domini super fontem aquae in deserto, ad fontem in via Sur.<verse eID="Gen.16.7" />
+        <verse sID="Gen.16.8" osisID="Gen.16.8" />... A facie Sarae dominae meae ego fugio.<verse eID="Gen.16.8" />
+        <verse sID="Gen.16.9" osisID="Gen.16.9" />Et dixit angelus Domini ad Agar, Redi ad dominam tuam, et humilia te sub manibus eius.<verse eID="Gen.16.9" />
+        <verse sID="Gen.16.10" osisID="Gen.16.10" />Et dixit ei angelus Domini, Multiplicans multiplicabo semen tuum, et non dinumerabitur a multitudine.<verse eID="Gen.16.10" />
+        <verse sID="Gen.16.11" osisID="Gen.16.11" />... et vocavit nomen eius Ismael, quia exaudivit Deus humilitatem meum.<verse eID="Gen.16.11" />
+        <verse sID="Gen.16.12" osisID="Gen.16.12" />Iste erit rusticanus homo, manus eius super omnes, et manus omnium super eum. Et contra faciem omnium fratrum suorum habitabit.<verse eID="Gen.16.12" />
+        <verse sID="Gen.16.13" osisID="Gen.16.13" />Et vocavit nomen Domini qui loquebatur secum, Tu Deus qui aspexisti me ...<verse eID="Gen.16.13" />
+      </p>
+      <chapter eID="Gen.16" />
+      <chapter sID="Gen.17" osisID="Gen.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Gen.17.1" osisID="Gen.17.1" />Cum esset annorum nonaginta et novem, apparuit ei Dominus, et dixit illi, Ego sum Deus. Place in conspectu meo, et esto sine querela.<verse eID="Gen.17.1" />
+        <verse sID="Gen.17.2" osisID="Gen.17.2" />Et ponam testamentum meum inter me et inter te, et implebo te valde.<verse eID="Gen.17.2" />
+        <verse sID="Gen.17.3" osisID="Gen.17.3" />Et procidit Abram in faciem suam.<verse eID="Gen.17.3" />
+        <verse sID="Gen.17.4" osisID="Gen.17.4" />Et locutus est illi Deus, dicens, Et ego, ecce testamentum meum tecum, et eris pater multitudinis gentium.<verse eID="Gen.17.4" />
+        <verse sID="Gen.17.5" osisID="Gen.17.5" />Et non appellabitur adhuc nomen tuum Abram, sed erit nomen tuum Abraham, quia patrem multarum gentium posui te.<verse eID="Gen.17.5" />
+        <verse sID="Gen.17.6" osisID="Gen.17.6" />Et augeam te valde, et ponam te in gentes, et reges ex te exibunt.<verse eID="Gen.17.6" />
+        <verse sID="Gen.17.7" osisID="Gen.17.7" />Et statuam testamentum meum inter me et inter te, et inter semen tuum post te in generationes eorum, in testamentum aeternum, ut sim tibi Deus, et semini tuo post te.<verse eID="Gen.17.7" />
+        <verse sID="Gen.17.8" osisID="Gen.17.8" />Et dabo tibi et semini tuo post te terram, in qua incola es, omnem terram Chanaan in possessionem aeternam, et ero illis Deus.<verse eID="Gen.17.8" />
+        <verse sID="Gen.17.9" osisID="Gen.17.9" />Et dixit Deus ad Abraham, Tu autem testamentum meum conservabis, et semen tuum post te in generationes suas.<verse eID="Gen.17.9" />
+        <verse sID="Gen.17.10" osisID="Gen.17.10" />Et hoc est testamentum quod conservabis inter me et vos, et inter semen tuum post te in generationes suas: circumcidetur omne vestrum masculinum.<verse eID="Gen.17.10" />
+        <verse sID="Gen.17.11" osisID="Gen.17.11" />Et circumcidemini carnem praeputii vestri, et erit in signum testamenti inter me et vos.<verse eID="Gen.17.11" />
+        <verse sID="Gen.17.12" osisID="Gen.17.12" />Et puer octo dierum circumcidetur, vestrum omne masculinum in progenies vestras, vernaculas, et emptitius ab omni filio alieno, qui non est de semine tuo, circumcisione circumcidetur, vernaculas domus tuae, et emptitius.<verse eID="Gen.17.12" />
+        <verse sID="Gen.17.13" osisID="Gen.17.13" />Et erit testamentum meum in carne vestra in testamentum aeternum.<verse eID="Gen.17.13" />
+        <verse sID="Gen.17.14" osisID="Gen.17.14" />Et qui non fuerit circumcisus masculus, qui non circumcidetur carnem praeputii sui octavo die, interibit anima illa de genere eius, quia testamentum meum dissipavit.<verse eID="Gen.17.14" />
+        <verse sID="Gen.17.15" osisID="Gen.17.15" />Et dixit Deus ad Abraham, Sara uxor tua non appellabitur nomen eius Sara, sed Sarra erit nomen eius.<verse eID="Gen.17.15" />
+        <verse sID="Gen.17.16" osisID="Gen.17.16" />Benedicam autem illam, et dabo tibi ex ea filium, et benedicam illum, et erit in nationes, et reges gentium ex eo erunt.<verse eID="Gen.17.16" />
+        <verse sID="Gen.17.17" osisID="Gen.17.17" />Et procidit Abraham super faciem suam, et risit, et dixit in animo suo, dicens, Si mihi centum annos habenti nascetur filius? Et si Sarra annorum nonaginta pariet?<verse eID="Gen.17.17" />
+        <verse sID="Gen.17.18" osisID="Gen.17.18" />Dixit autem Abraham ad Deum, Ismael hic vivat in conspectu tuo.<verse eID="Gen.17.18" />
+        <verse sID="Gen.17.19" osisID="Gen.17.19" />Dixit autem Deus ad Abraham, Ita, ecce Sarra uxor tua pariet tibi filium, et vocabis nomen eius Isaac, et statuam testamentum meum ad illum in testamentum aeternum, esse illi Deus, et semini eius post illum.<verse eID="Gen.17.19" />
+        <verse sID="Gen.17.20" osisID="Gen.17.20" />De Ismael autem ecce exaudivi te. Ecce, benedixi eum, et ampliabo illum, et multiplicabo illum valde. Duodecim gentes generabit, et dabo illum in gentem magnam.<verse eID="Gen.17.20" />
+        <verse sID="Gen.17.21" osisID="Gen.17.21" />Testamentum autem meum statuam ad Isaac, quem pariet tibi Sarra in tempore hoc ad annum sequentem.<verse eID="Gen.17.21" />
+        <verse sID="Gen.17.24" osisID="Gen.17.24" />Abraham autem erat annorum nonaginta novem, cum circumcisus est carnem praeputii sui.<verse eID="Gen.17.24" />
+      </p>
+      <chapter eID="Gen.17" />
+      <chapter sID="Gen.18" osisID="Gen.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Gen.18.1" osisID="Gen.18.1" />Visus est autem ei Deus ad ilicem Mambre sedenti ad ostium tabernaculi sui meridie.<verse eID="Gen.18.1" />
+        <verse sID="Gen.18.2" osisID="Gen.18.2" />Respiciens autem oculis suis, vidit, et ecce tres viri stabant super eum. Et videns, procucurrit in obviam illis ab ostio tabernaculi sui, et adoravit super terram.<verse eID="Gen.18.2" />
+        <verse sID="Gen.18.3" osisID="Gen.18.3" />Et dixit, Domine, si inveni gratiam ante te, ne praetereas servum tuum.<verse eID="Gen.18.3" />
+        <verse sID="Gen.18.4" osisID="Gen.18.4" />Sumatur nunc aqua, et lavem pedes vestros, et refrigerate sub arbore.<verse eID="Gen.18.4" />
+        <verse sID="Gen.18.5" osisID="Gen.18.5" />Et sumam panem, et manducate, et postea transibitis in viam vestram. Propter quod declinastis ad servum vestrum ...<verse eID="Gen.18.5" />
+        <verse sID="Gen.18.6" osisID="Gen.18.6" />Et festinavit Abraham in tabernaculum ad Saram, et dixit ei, Festina, et consperge tres mensuras similaginis, et fac subcinericia.<verse eID="Gen.18.6" />
+        <verse sID="Gen.18.7" osisID="Gen.18.7" />Et in boves adcucurrit Abraham, et accepit vitulum unum tenerum et bonum, et dedit puero, et festinavit facere eum.<verse eID="Gen.18.7" />
+        <verse sID="Gen.18.8" osisID="Gen.18.8" />... manducaverunt illi. Abraham autem stabat sub arbore.<verse eID="Gen.18.8" />
+        <verse sID="Gen.18.9" osisID="Gen.18.9" />Dixit autem ad illum, Ubi est Sara uxor tua? Qui respondit, et dixit, Ecce in tabernaculo.<verse eID="Gen.18.9" />
+        <verse sID="Gen.18.10" osisID="Gen.18.10" />Et dixit ei, Revertens veniam ad te ad hoc tempus in futurum, et habebit filium Sara uxor tua. Audiens vero haec Sara, cum esset in ostio tabernaculi post eum.<verse eID="Gen.18.10" />
+        <verse sID="Gen.18.11" osisID="Gen.18.11" />Abraham autem et Sara seniores, progressi in diebus. Defecerant autem Sarae fieri muliebra.<verse eID="Gen.18.11" />
+        <verse sID="Gen.18.12" osisID="Gen.18.12" />Risit autem Sara in semetipsa, dicens, Necdum mihi factum est usque nunc, et dominus meus senex est.<verse eID="Gen.18.12" />
+        <verse sID="Gen.18.13" osisID="Gen.18.13" />Et dixit Dominus ad Abraham, Quare risit Sara in semetipsa, dicens, Ergo vere pariam? Ego autem senui.<verse eID="Gen.18.13" />
+        <verse sID="Gen.18.14" osisID="Gen.18.14" />Nunquid impossibile est a Deo verbum? In tempore hoc revertar ad te in futurum, et erit Sarae filius.<verse eID="Gen.18.14" />
+        <verse sID="Gen.18.15" osisID="Gen.18.15" />Negavit Sara dicens, Non risi. Timuit enim ...<verse eID="Gen.18.15" />
+        <verse sID="Gen.18.16" osisID="Gen.18.16" />Exsurgentes autem inde viri, conspexerunt in faciem Sodomorum et Gomorrhae. Abraham vero ambulabat cum illis, deducens.<verse eID="Gen.18.16" />
+        <verse sID="Gen.18.17" osisID="Gen.18.17" />Dominus autem dixit, Nunquid celabo ego puero meo Abraham quae ego facio?<verse eID="Gen.18.17" />
+        <verse sID="Gen.18.18" osisID="Gen.18.18" />Abraham autem fiens fiet, et erit in gentem magnam, et multam, et BENEDICENTUR in eo omnes gentes terrae.<verse eID="Gen.18.18" />
+        <verse sID="Gen.18.19" osisID="Gen.18.19" />Scio enim quia constituet filiis suis, et domui suae post se, et custodient vias Domini, et facere iustitiam et iudicium, ut adducat Dominus in Abraham omnia quae locutus est ad illum.<verse eID="Gen.18.19" />
+        <verse sID="Gen.18.20" osisID="Gen.18.20" />Dixit autem Dominus, Clamor Sodomorum et Gomorrhae impletus est, et peccata eorum magna valde.<verse eID="Gen.18.20" />
+        <verse sID="Gen.18.21" osisID="Gen.18.21" />Descendens ergo videbo, si secundum clamorem ipsorum venientem ad me, consummantur. Si autem non, ut sciam.<verse eID="Gen.18.21" />
+        <verse sID="Gen.18.22" osisID="Gen.18.22" />Et conversi inde viri, venerunt in Sodoma. Abraham autem erat adhuc stans ante Dominum.<verse eID="Gen.18.22" />
+        <verse sID="Gen.18.23" osisID="Gen.18.23" />Et appropians Abraham dixit, Ne simul perdas iustum cum impio, et erit iustus tanquam impius?<verse eID="Gen.18.23" />
+        <verse sID="Gen.18.24" osisID="Gen.18.24" />Si fuerint quinquaginta iusti in civitate, perdes illos? Non remittes omnem locum causa illorum quinquaginta iustorum? ...<verse eID="Gen.18.24" />
+        <verse sID="Gen.18.25" osisID="Gen.18.25" />Nullo modo tu facies hoc verbum, occidere iustum cum impio, et erit iustus sicut impius. Nequaquam, qui iudicas omnem terram, facies hoc iudicium.<verse eID="Gen.18.25" />
+        <verse sID="Gen.18.26" osisID="Gen.18.26" />Et dixit Dominus, Si invenero in Sodomis quinquaginta iustos in civitate, remittam omni loco propter illos.<verse eID="Gen.18.26" />
+        <verse sID="Gen.18.28" osisID="Gen.18.28" />... Et dixit, Quia non perdam, si invenero ibi quadraginta quinque.<verse eID="Gen.18.28" />
+        <verse sID="Gen.18.30" osisID="Gen.18.30" />Et dixit, Nunquid est, Domine, si loquar? ...<verse eID="Gen.18.30" />
+        <verse sID="Gen.18.32" osisID="Gen.18.32" />... Nunquid, Domine, si loquar? ... Si decem ibi invenero, parcam universae civitati.<verse eID="Gen.18.32" />
+        <verse sID="Gen.18.33" osisID="Gen.18.33" />Abiit autem Dominus postquam cessavit loquens ad Abraham, et Abraham reversus est ad locum suum.<verse eID="Gen.18.33" />
+      </p>
+      <chapter eID="Gen.18" />
+      <chapter sID="Gen.19" osisID="Gen.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Gen.19.1" osisID="Gen.19.1" />Venerunt autem duo angeli in Sodomis vespere. Loth autem sedebat ad portam Sodomorum. Et cum vidisset eos Loth, surrexit in obviam illis, et adoravit in faciem super terram.<verse eID="Gen.19.1" />
+        <verse sID="Gen.19.2" osisID="Gen.19.2" />Et dixit, Ecce, domini, declinate in domum pueri vestri ... in platea manebimus.<verse eID="Gen.19.2" />
+        <verse sID="Gen.19.4" osisID="Gen.19.4" />... Viri autem civitatis Sodomorum circumdederunt domum ab infante usque ad senem, totus populus pariter.<verse eID="Gen.19.4" />
+        <verse sID="Gen.19.5" osisID="Gen.19.5" />... Educ foras viros, ut concumbamus cum eis.<verse eID="Gen.19.5" />
+        <verse sID="Gen.19.8" osisID="Gen.19.8" />Sunt mihi duae filiae, quae non cognoverunt virum. Producam illas ad vos, et utimini eis quomodo placuerit vobis, tantum in viros istos ne faciatis iniquum, propterea quia intraverunt sub tectum tignorum meorum.<verse eID="Gen.19.8" />
+        <verse sID="Gen.19.11" osisID="Gen.19.11" />Viros vero, qui erant ad ostium domus, percusserunt caecitate ...<verse eID="Gen.19.11" />
+        <verse sID="Gen.19.12" osisID="Gen.19.12" />Dixerunt viri ad Loth, Sunt tibi hic generi, aut filii, aut filiae? Aut si quis tibi alius est in civitate, educ de loco hoc,<verse eID="Gen.19.12" />
+        <verse sID="Gen.19.13" osisID="Gen.19.13" />quoniam perdimus nos locum hunc, quia exaltatus est clamor eorum ante Dominum, et misit nos Dominus conterere eum.<verse eID="Gen.19.13" />
+        <verse sID="Gen.19.14" osisID="Gen.19.14" />Et locutus est ad generos suos, qui acceperant filias eius ... Surgite, et exite ex hoc loco, quia conteret Dominus civitatem ...<verse eID="Gen.19.14" />
+        <verse sID="Gen.19.16" osisID="Gen.19.16" />... Et tenuerunt angeli manum eius, et manum uxoris eius, et manus duarum filiarum eius, in eo quod parceret Dominus ipsi.<verse eID="Gen.19.16" />
+        <verse sID="Gen.19.17" osisID="Gen.19.17" />Et factum est mox, ut eduxerunt illum foras, et dixerunt, Salvam fac animam tuam, ne respexeris retro, nec steteris in tota regione. In monte salvum te fac, nequando comprehendaris.<verse eID="Gen.19.17" />
+        <verse sID="Gen.19.18" osisID="Gen.19.18" />Dixit autem Loth ad illos, Oro, Domine,<verse eID="Gen.19.18" />
+        <verse sID="Gen.19.19" osisID="Gen.19.19" />quia invenit puer tuus misericordiam ante te, et magnificasti iustitiam tuam quam facis in me, ut vivat anima mea. Ego autem non possum salvus fieri in monte, ne forte comprehendant me mala, et moriar.<verse eID="Gen.19.19" />
+        <verse sID="Gen.19.21" osisID="Gen.19.21" />Et dixit ei, Ecce miratus sum faciem tuam, et super verbum hoc, ne everterem civitatem de qua locutus es.<verse eID="Gen.19.21" />
+        <verse sID="Gen.19.22" osisID="Gen.19.22" />Festina ergo, ut salvus sis ibi. Non enim potero facere verbum, donec tu illo introeas ...<verse eID="Gen.19.22" />
+        <verse sID="Gen.19.23" osisID="Gen.19.23" />Sol exortus est super terram, et Loth intravit in Segor.<verse eID="Gen.19.23" />
+        <verse sID="Gen.19.24" osisID="Gen.19.24" />Et pluit Dominus super Sodomam et Gomorrham sulphur et ignem a Domino de coelo.<verse eID="Gen.19.24" />
+        <verse sID="Gen.19.25" osisID="Gen.19.25" />Et evertit civitates illas ...<verse eID="Gen.19.25" />
+        <verse sID="Gen.19.28" osisID="Gen.19.28" />... Et ecce ascendebat flamma de terra quasi vapor fornacis.<verse eID="Gen.19.28" />
+        <verse sID="Gen.19.29" osisID="Gen.19.29" />... Cum contereret Deus omnes civitates in circuitu, commemoratus est Deus Abrahae, et emisit Loth e medio subversionis, cum subverteret Deus civitates, in quibus inhabitabat in eis Loth.<verse eID="Gen.19.29" />
+        <verse sID="Gen.19.30" osisID="Gen.19.30" />Et ascendit Loth de Segor, et sedit in monte, et duae filiae eius cum eo (timuit enim sedere in Segor) ...<verse eID="Gen.19.30" />
+        <verse sID="Gen.19.31" osisID="Gen.19.31" />Dixit autem maior ad minorem, Pater noster senior est, et nemo est super terram qui intret ad nos ut oportet omni terrae.<verse eID="Gen.19.31" />
+        <verse sID="Gen.19.32" osisID="Gen.19.32" />Veni, potionemus patrem nostrum vino, et dormiamus cum eo, ut suscitemus de patre nostro semen.<verse eID="Gen.19.32" />
+        <verse sID="Gen.19.33" osisID="Gen.19.33" />... Et intravit maior nata, et dormivit cum patre suo nocte illa. Et non scivit Lot cum dormiret illa, et cum surgeret.<verse eID="Gen.19.33" />
+        <verse sID="Gen.19.35" osisID="Gen.19.35" />... Et non scivit cum dormisset secum, nec cum surrexisset.<verse eID="Gen.19.35" />
+        <verse sID="Gen.19.36" osisID="Gen.19.36" />Et conceperunt duae filiae Lot de patre suo.<verse eID="Gen.19.36" />
+        <verse sID="Gen.19.37" osisID="Gen.19.37" />Et genuit primogenita filium, et vocavit nomen eius Moab. Iste est pater Moabitarum usque in hanc diem.<verse eID="Gen.19.37" />
+        <verse sID="Gen.19.38" osisID="Gen.19.38" />Et minor et ipsa peperit filium, et vocavit nomen eius Ammon, id est, filius generis mei. Iste est pater filiorum Ammon ...<verse eID="Gen.19.38" />
+      </p>
+      <chapter eID="Gen.19" />
+      <chapter sID="Gen.20" osisID="Gen.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Gen.20.2" osisID="Gen.20.2" />Dixit autem Abraham de Sara uxore sua, Soror mea est. Timuit enim dicere, Uxor mea est. Ne forte occiderent eum viri civitatis propter illam ...<verse eID="Gen.20.2" />
+        <verse sID="Gen.20.3" osisID="Gen.20.3" />... Ecce tu morieris propter mulierem ... Haec autem commoratur cum viro.<verse eID="Gen.20.3" />
+        <verse sID="Gen.20.4" osisID="Gen.20.4" />... Domine, nunquid gentem ignorantem perdes?<verse eID="Gen.20.4" />
+        <verse sID="Gen.20.6" osisID="Gen.20.6" />... Et ego cognovi quoniam puro corde fecisti hoc. Et peperci tibi ut non peccares in me, propter hoc non sum passus te tangere illam.<verse eID="Gen.20.6" />
+        <verse sID="Gen.20.7" osisID="Gen.20.7" />... Quoniam propheta est, et orabit pro te, et salvus eris tu, et domus tua.<verse eID="Gen.20.7" />
+        <verse sID="Gen.20.12" osisID="Gen.20.12" />Etenim vere soror mea est de patre, sed non de matre ...<verse eID="Gen.20.12" />
+        <verse sID="Gen.20.13" osisID="Gen.20.13" />... In omni loco, ubi intraverimus ibi ...<verse eID="Gen.20.13" />
+      </p>
+      <chapter eID="Gen.20" />
+      <chapter sID="Gen.21" osisID="Gen.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Gen.21.1" osisID="Gen.21.1" />Et Dominus visitavit Saram sicut dixit, et fecit Deus Sarae sicut locutus est.<verse eID="Gen.21.1" />
+        <verse sID="Gen.21.2" osisID="Gen.21.2" />Et concepit et peperit Sara Abrahae filium in senectute sua, et in tempore, sicut locutus est illi Dominus.<verse eID="Gen.21.2" />
+        <verse sID="Gen.21.5" osisID="Gen.21.5" />Genitus est autem Abrahae filius Isaac, cum esset annorum centum.<verse eID="Gen.21.5" />
+        <verse sID="Gen.21.6" osisID="Gen.21.6" />Dixit et Sara, Risum mihi fecit Dominus. Quicunque enim audierit, congratulabitur mihi.<verse eID="Gen.21.6" />
+        <verse sID="Gen.21.7" osisID="Gen.21.7" />Et dixit Sara, Quis annuntiabit Abrahae, quoniam lactet infantem Sara? ...<verse eID="Gen.21.7" />
+        <verse sID="Gen.21.8" osisID="Gen.21.8" />... fecit autem Abraham coenam magnum, qua die ablactatus est Isaac filius eius.<verse eID="Gen.21.8" />
+        <verse sID="Gen.21.9" osisID="Gen.21.9" />Et vidit Sara filium Agar Aegyptiae, quem peperit Abrahae, ludentem cum Isaac filio suo, et dixit ad Abraham,<verse eID="Gen.21.9" />
+        <verse sID="Gen.21.10" osisID="Gen.21.10" />Eiice ancillam, et filium eius. Non enim haeres erit filius ancillae cum filio meo Isaac.<verse eID="Gen.21.10" />
+        <verse sID="Gen.21.12" osisID="Gen.21.12" />Dixit autem Deus Abrahae, Non sit durum ante te de puero, et de ancilla. Omnia quaecunque dixerit tibi Sara, audi vocem eius, quoniam in Isaac vocabitur tibi semen.<verse eID="Gen.21.12" />
+        <verse sID="Gen.21.13" osisID="Gen.21.13" />Filium autem ancillae huius in magnam gentem faciam illum, quia semen tuum est.<verse eID="Gen.21.13" />
+        <verse sID="Gen.21.14" osisID="Gen.21.14" />Surrexit autem Abraham mane, et sumpsit panes, et utrem aquae, et dedit Agar, et imposuit in humeros, et puerum, et dimisit illam ...<verse eID="Gen.21.14" />
+        <verse sID="Gen.21.15" osisID="Gen.21.15" />Defecit autem aqua de utre, et proiecit puerum sub unam abietem.<verse eID="Gen.21.15" />
+        <verse sID="Gen.21.16" osisID="Gen.21.16" />Et discessit, et sedere coepit contra illum longe quantum arcus mittit. Dixit enim, Non videbo mortem filii mei. Et sedit contra eum. Exclamans autem puer, ploravit.<verse eID="Gen.21.16" />
+        <verse sID="Gen.21.17" osisID="Gen.21.17" />Et exaudivit Deus vocem pueri de loco ubi erat, et vocavit Angelus Dei Agar de coelo, et dixit ei, Quid est Agar? Noli timere. Exaudivit enim Deus vocem filii tui de loco in quo est.<verse eID="Gen.21.17" />
+        <verse sID="Gen.21.18" osisID="Gen.21.18" />Surge, et accipe puerum, et tene illum in manu tua. In magnam enim gentem faciam illum.<verse eID="Gen.21.18" />
+        <verse sID="Gen.21.19" osisID="Gen.21.19" />Et aperuit Deus oculos eius, et vidit Deus puteum aquae vivae ...<verse eID="Gen.21.19" />
+        <verse sID="Gen.21.22" osisID="Gen.21.22" />Factum est autem in tempore illo, et dixit Abimelech, et Ochozath pronubus eius, et Phichol princeps exercitus eius ...<verse eID="Gen.21.22" />
+        <verse sID="Gen.21.23" osisID="Gen.21.23" />... et terra quam inhabitasti in ea.<verse eID="Gen.21.23" />
+        <verse sID="Gen.21.27" osisID="Gen.21.27" />... et disposuerunt ambo testamentum.<verse eID="Gen.21.27" />
+        <verse sID="Gen.21.30" osisID="Gen.21.30" />Et dixit, Septem oves has accipies a me, ut sint in testimonium mihi, quia ego fodi puteum istum.<verse eID="Gen.21.30" />
+        <verse sID="Gen.21.31" osisID="Gen.21.31" />Ideo cognominavit nomen loci illius, Puteus iuramenti, quia ibi iuraverunt ambo.<verse eID="Gen.21.31" />
+        <verse sID="Gen.21.34" osisID="Gen.21.34" />Et habitavit Abraham in terra Philistinorum ...<verse eID="Gen.21.34" />
+      </p>
+      <chapter eID="Gen.21" />
+      <chapter sID="Gen.22" osisID="Gen.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Gen.22.1" osisID="Gen.22.1" />Et factum est post haec verba, tentavit Deus Abraham, et dixit ad eum, Abraham, Abraham. Et ille dixit, Ecce ego.<verse eID="Gen.22.1" />
+        <verse sID="Gen.22.2" osisID="Gen.22.2" />Et dixit ei, Accipe filium tuum dilectum, quem diligis, Isaac, et vade in terram excelsam, et offer eum ibi in holocaustum super unum montium quem tibi dixero.<verse eID="Gen.22.2" />
+        <verse sID="Gen.22.3" osisID="Gen.22.3" />Exsurgens mane, stravit asinam suam, et adhibuit secum duos pueros, et Isaac filium suum. Et concidens ligna ad holocaustum, surgens abiit, et venit ad locum, quem dixerat ei Deus, die tertia.<verse eID="Gen.22.3" />
+        <verse sID="Gen.22.4" osisID="Gen.22.4" />Et respiciens Abraham oculis, vidit locum a longe.<verse eID="Gen.22.4" />
+        <verse sID="Gen.22.5" osisID="Gen.22.5" />Ait pueris suis, Sedere hic cum asina. Ego autem et puer pertransibimus usque illuc, et cum adoraverimus, revertemur ad vos.<verse eID="Gen.22.5" />
+        <verse sID="Gen.22.6" osisID="Gen.22.6" />Accepit autem ligna holocausti, et imposuit Isaac filio. Accepit et ignem ipse in manu, et machaeram ...<verse eID="Gen.22.6" />
+        <verse sID="Gen.22.7" osisID="Gen.22.7" />Dixit autem Isaac ad Abraham patrem suum, Pater. Qui dixit, Quid vis fili? Dixit autem, Ecce ignis et ligna. Ubi est ovis in holocaustum?<verse eID="Gen.22.7" />
+        <verse sID="Gen.22.8" osisID="Gen.22.8" />Respondit et Abraham, Deus providebit sibi ovem ad holocaustum, fili ...<verse eID="Gen.22.8" />
+        <verse sID="Gen.22.9" osisID="Gen.22.9" />... Et aedificavit ibi aram, et imposuit ligna, et colligatis manibus ac pedibus Isaac filii sui, imposuit eum in aram super ligna.<verse eID="Gen.22.9" />
+        <verse sID="Gen.22.10" osisID="Gen.22.10" />Et extendit Abraham manum suam, sumere machaeram, ut occideret filium suum.<verse eID="Gen.22.10" />
+        <verse sID="Gen.22.11" osisID="Gen.22.11" />Et vocavit illum angelus Domini de coelo, et dixit, Abraham. Ille autem dixit, Ecce ego.<verse eID="Gen.22.11" />
+        <verse sID="Gen.22.12" osisID="Gen.22.12" />Et dixit, Non iniicias manum tuam super puerum, neque facias illi quidquam. Nunc enim scivi quia times Deum tu, et non pepercisti filio tuo dilecto propter me.<verse eID="Gen.22.12" />
+        <verse sID="Gen.22.13" osisID="Gen.22.13" />Respiciens Abraham oculis suis vidit, et ecce aries unus tenebatur in arbore Sabech cornibus. Et abiit Abraham, et accepit arietem, et obtulit eum holocaustum pro Isaac filio suo.<verse eID="Gen.22.13" />
+        <verse sID="Gen.22.14" osisID="Gen.22.14" />Et cognominavit Abraham nomen loci illius, Dominus vidit. Ut dicant hodie, quod in monte Dominus visus est.<verse eID="Gen.22.14" />
+        <verse sID="Gen.22.15" osisID="Gen.22.15" />Et vocavit Angelus Domini Abraham secundo de coelo, dicens,<verse eID="Gen.22.15" />
+        <verse sID="Gen.22.16" osisID="Gen.22.16" />Per memetipsum iuravi, dicit Dominus. Propter quod fecisti verbum hoc, et non pepercisti filio tuo dilecto propter me,<verse eID="Gen.22.16" />
+        <verse sID="Gen.22.17" osisID="Gen.22.17" />nisi benedicens benedicam te, et multiplicans multiplicabo semen tuum sicut stellas coeli, et tanquam arenam quae est iuxta labium maris, et haereditate possidebit semen tuum civitates adversariorum,<verse eID="Gen.22.17" />
+        <verse sID="Gen.22.18" osisID="Gen.22.18" />et BENEDICENTUR in semine tuo omnes gentes terrae, quia obaudisti vocem meam.<verse eID="Gen.22.18" />
+        <verse sID="Gen.22.20" osisID="Gen.22.20" />... Et nunciaverunt Abraham, dicentes, Ecce peperit Melcha et ipsa filios Nachor fratri tuo.<verse eID="Gen.22.20" />
+        <verse sID="Gen.22.21" osisID="Gen.22.21" />Us primogenitum eius, et Buz fratrem eius, et Camuel patrem Syrorum, et Cased.<verse eID="Gen.22.21" />
+      </p>
+      <chapter eID="Gen.22" />
+      <chapter sID="Gen.23" osisID="Gen.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Gen.23.2" osisID="Gen.23.2" />Et mortua est Sara in civitate Arboc, quae est in valle, haec est Chebron, in terra Chanaan. Venit autem Abraham plangere Saram et lugere.<verse eID="Gen.23.2" />
+        <verse sID="Gen.23.3" osisID="Gen.23.3" />Et surrexit Abraham a mortuo suo, et dixit filiis Heth,<verse eID="Gen.23.3" />
+        <verse sID="Gen.23.4" osisID="Gen.23.4" />Peregrinus et advena sum ego vobiscum. Date ergo mihi possessionem monumenti, ubi sepeliam mortuum meum.<verse eID="Gen.23.4" />
+        <verse sID="Gen.23.5" osisID="Gen.23.5" />Responderunt autem filii Heth ad Abraham, dicentes, Absit hoc, domine.<verse eID="Gen.23.5" />
+        <verse sID="Gen.23.6" osisID="Gen.23.6" />Audi nunc et nos, rex a Deo tu es in nobis. In electis monumentis nostris sepeli mortuum tuum. Nemo enim nostrum prohibet te a monumento suo, ut sepelias mortuum tuum ibi.<verse eID="Gen.23.6" />
+        <verse sID="Gen.23.7" osisID="Gen.23.7" />Surgens autem Abraham, adoravit plebem filiorum Heth.<verse eID="Gen.23.7" />
+        <verse sID="Gen.23.16" osisID="Gen.23.16" />Et audivit Abraham Ephrou, et appendit Abraham Ephron argentum, quod locutus est in auribus filiorum Heth ...<verse eID="Gen.23.16" />
+      </p>
+      <chapter eID="Gen.23" />
+      <chapter sID="Gen.24" osisID="Gen.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Gen.24.2" osisID="Gen.24.2" />... Pone manum tuam sub femore meo,<verse eID="Gen.24.2" />
+        <verse sID="Gen.24.3" osisID="Gen.24.3" />et adiurabo te per Dominum, Deum coeli, et Dominum terrae, ut non sumas filio meo Isaac uxorem de filiabus Chananaeorum, cum quibus ego habito in eis.<verse eID="Gen.24.3" />
+        <verse sID="Gen.24.5" osisID="Gen.24.5" />... Nequando noluerit mulier ire mecum ... in terram de qua existi inde?<verse eID="Gen.24.5" />
+        <verse sID="Gen.24.6" osisID="Gen.24.6" />... Attende tibi, ne revoces filium meum illo.<verse eID="Gen.24.6" />
+        <verse sID="Gen.24.7" osisID="Gen.24.7" />Dominus Deus coeli, et Deus terrae accepit me de domo patris mei, et de terra in qua natus sum, qui locutus est mihi, et iuravit, dicens, Tibi dabo terram hanc, et semini tuo. Ipse mittet Angelum suum ante te, et accipies filio meo uxorem inde.<verse eID="Gen.24.7" />
+        <verse sID="Gen.24.8" osisID="Gen.24.8" />Quod si noluerit tecum venire mulier in terram hanc, purus eris a iuramento hoc ...<verse eID="Gen.24.8" />
+        <verse sID="Gen.24.9" osisID="Gen.24.9" />Et posuit puer manum suam sub femore Abrahae, et iuravit ei de verbo hoc.<verse eID="Gen.24.9" />
+        <verse sID="Gen.24.10" osisID="Gen.24.10" />Et accepit puer decem camelos de camelis domini sui, et de omnibus bonis domini sui secum, et exsurgens profectus est in Mesopotamiam in civitatem Nachor.<verse eID="Gen.24.10" />
+        <verse sID="Gen.24.13" osisID="Gen.24.13" />Ecce ego sto super fontem aquae ...<verse eID="Gen.24.13" />
+        <verse sID="Gen.24.14" osisID="Gen.24.14" />... Bibe et tu, et adaquabo camelos tuos, quoad usque bibere desinent ...<verse eID="Gen.24.14" />
+        <verse sID="Gen.24.15" osisID="Gen.24.15" />... occurrit ei Rebecca ... habens hydriam super humerum.<verse eID="Gen.24.15" />
+        <verse sID="Gen.24.16" osisID="Gen.24.16" />Virgo autem erat speciola valde. Virgo erat, vir non cognoverat eam. Descendens ad fontem, implevit hydriam, et ascendit.<verse eID="Gen.24.16" />
+        <verse sID="Gen.24.20" osisID="Gen.24.20" />... et adaquavit omnes camelos eius.<verse eID="Gen.24.20" />
+        <verse sID="Gen.24.22" osisID="Gen.24.22" />... accepit inaures aureas singularum drachmarum, et duas virias dedit in manus eius, decem aureorum pondus earum.<verse eID="Gen.24.22" />
+        <verse sID="Gen.24.26" osisID="Gen.24.26" />... adoravit Domino,<verse eID="Gen.24.26" />
+        <verse sID="Gen.24.27" osisID="Gen.24.27" />... quoniam non dereliquit iustitiam et veritatem a domino meo ...<verse eID="Gen.24.27" />
+        <verse sID="Gen.24.28" osisID="Gen.24.28" />Et currens puella, nunciavit in domum matris suae ...<verse eID="Gen.24.28" />
+        <verse sID="Gen.24.32" osisID="Gen.24.32" />... et aquam lavare pedibus ipsius, et pedibus virorum qui cum eo erant.<verse eID="Gen.24.32" />
+        <verse sID="Gen.24.37" osisID="Gen.24.37" />... Non sumes uxorem filio meo a filiabus Chananaeorum, inter quos ego habito in terra eorum.<verse eID="Gen.24.37" />
+        <verse sID="Gen.24.38" osisID="Gen.24.38" />Sed in domum patris mei ibis, et in tribum meam, et sumes uxorem filio meo inde.<verse eID="Gen.24.38" />
+        <verse sID="Gen.24.40" osisID="Gen.24.40" />... Dominus cui placui ante ipsum, ipse mittet angelum suum tecum ...<verse eID="Gen.24.40" />
+        <verse sID="Gen.24.41" osisID="Gen.24.41" />Tunc innocens eris a iuramento meo ...<verse eID="Gen.24.41" />
+        <verse sID="Gen.24.42" osisID="Gen.24.42" />... Domine Deus domini mei Abraham, si tu dirigis viam meam, per quam ego ingredior,<verse eID="Gen.24.42" />
+        <verse sID="Gen.24.43" osisID="Gen.24.43" />ecce ego sto super fontem aqua, et filiae hominum civitatis egredientur ad hauriendam aquam, et erit virgo, cui ego dixero, Da mihi bibere paululum aquae de hydria tua,<verse eID="Gen.24.43" />
+        <verse sID="Gen.24.44" osisID="Gen.24.44" />et dicet mihi, Et tu bibe, et camelis tuis hauriam, haec mulier est quam paravit Dominus famulo suo Isaac ...<verse eID="Gen.24.44" />
+        <verse sID="Gen.24.48" osisID="Gen.24.48" />... Et benedixi Dominum Deum domini mei Abraham ...<verse eID="Gen.24.48" />
+        <verse sID="Gen.24.49" osisID="Gen.24.49" />Si ergo facitis misericordiam et iustitiam ad dominum meum, renuntiate mihi, ut redeam in dextram, aut sinistram.<verse eID="Gen.24.49" />
+        <verse sID="Gen.24.51" osisID="Gen.24.51" />Ecce Rebecca in conspectu tuo, accipiens recurre, et sit uxor filii domini tui, quemadmodum locutus est Dominus.<verse eID="Gen.24.51" />
+        <verse sID="Gen.24.53" osisID="Gen.24.53" />... vasa aurea, et argentea, et vestem dedit Rebeccae ...<verse eID="Gen.24.53" />
+        <verse sID="Gen.24.59" osisID="Gen.24.59" />Et dimiserunt Rebeccam sororem suam, et substantiam eius, et servum Abraham, et viros qui cum eo erant,<verse eID="Gen.24.59" />
+        <verse sID="Gen.24.60" osisID="Gen.24.60" />... Soror nostra es, esto in millia millium, et haereditatem obtineat semen tuum civitates adversariorum.<verse eID="Gen.24.60" />
+        <verse sID="Gen.24.62" osisID="Gen.24.62" />... Et ipse habitabit in terra austri ...<verse eID="Gen.24.62" />
+        <verse sID="Gen.24.63" osisID="Gen.24.63" />Et egressus est Isaac exerceri in campo, ad vesperam ...<verse eID="Gen.24.63" />
+        <verse sID="Gen.24.65" osisID="Gen.24.65" />... et tulit theristrum, et operuit se.<verse eID="Gen.24.65" />
+      </p>
+      <chapter eID="Gen.24" />
+      <chapter sID="Gen.25" osisID="Gen.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Gen.25.1" osisID="Gen.25.1" />Adiiciens autem Abraham, sumpsit uxorem, cui nomen Cethura,<verse eID="Gen.25.1" />
+        <verse sID="Gen.25.2" osisID="Gen.25.2" />et peperit ei Zamram, et Iecsan, et Madan, et Madian, et Iesboc, et Sue.<verse eID="Gen.25.2" />
+        <verse sID="Gen.25.3" osisID="Gen.25.3" />Et Iecsan genuit Saba, et Dadan. Et filii Dadan fuerunt, Asurium, et Latusim, et Laomim.<verse eID="Gen.25.3" />
+        <verse sID="Gen.25.4" osisID="Gen.25.4" />Et filii Madian, Iephar, et Apher, et Enoch, et Abida, et Aledea. Omnes hii filii Ceturae.<verse eID="Gen.25.4" />
+        <verse sID="Gen.25.5" osisID="Gen.25.5" />Dedit autem Abraham omnem censum suum Isaac filio suo.<verse eID="Gen.25.5" />
+        <verse sID="Gen.25.6" osisID="Gen.25.6" />Et filiis concubinarum suarum dedit Abraham dationes, et dimisit eos ab Isaac filio suo, adhuc se vivo, ad orientem in terram orientis.<verse eID="Gen.25.6" />
+        <verse sID="Gen.25.8" osisID="Gen.25.8" />Et deficiens mortuus est Abraham in senectute bona, senex, et plenus dierum, et appositus est ad populum suum.<verse eID="Gen.25.8" />
+        <verse sID="Gen.25.13" osisID="Gen.25.13" />Haec sunt nomina filiorum Ismael secundum nomina generationum eorum. Primogenitus Ismaelis Nabaioth, et Cedar ...<verse eID="Gen.25.13" />
+        <verse sID="Gen.25.14" osisID="Gen.25.14" />... et Duma ...<verse eID="Gen.25.14" />
+        <verse sID="Gen.25.15" osisID="Gen.25.15" />... et Theman ... et Cedema.<verse eID="Gen.25.15" />
+        <verse sID="Gen.25.17" osisID="Gen.25.17" />Hi sunt anni vitae Ismael centum triginta septem, et deficiens mortuus est, et est appositus ad genus suum.<verse eID="Gen.25.17" />
+        <verse sID="Gen.25.18" osisID="Gen.25.18" />... contra faciem omnium fratrum suorum habitavit ...<verse eID="Gen.25.18" />
+        <verse sID="Gen.25.20" osisID="Gen.25.20" />... accepit Rebeccam filiam Bathuel Syri de Mesopotamia, sororem Laban Syri sibi in uxorem.<verse eID="Gen.25.20" />
+        <verse sID="Gen.25.21" osisID="Gen.25.21" />... et concepit Rebecca uxor eius.<verse eID="Gen.25.21" />
+        <verse sID="Gen.25.22" osisID="Gen.25.22" />... Si sic mihi futurum erat, ut quid mihi hoc? Abiit autem Isaac cum ea interrogare Dominum.<verse eID="Gen.25.22" />
+        <verse sID="Gen.25.23" osisID="Gen.25.23" />Et dixit Dominus Rebeccae, Duae gentes in utero tuo sunt, et duo populi de ventre tuo dividentur, et populus populum superabit, et maior serviet minori.<verse eID="Gen.25.23" />
+        <verse sID="Gen.25.24" osisID="Gen.25.24" />... et ei erant gemini in utero eius.<verse eID="Gen.25.24" />
+        <verse sID="Gen.25.25" osisID="Gen.25.25" />Et egressus est primus rubeus, totus sicut pellis pilosus ...<verse eID="Gen.25.25" />
+        <verse sID="Gen.25.27" osisID="Gen.25.27" />Creverunt autem iuvenes. Erat Esau homo sciens venari, agrestis. Iacob autem homo simplex, habitans domum.<verse eID="Gen.25.27" />
+        <verse sID="Gen.25.30" osisID="Gen.25.30" />Et dixit Esau Iacob, Da mihi gustum de coctione rubea ista, quia deficio. Propterea vocatum est nomen eius Edom.<verse eID="Gen.25.30" />
+        <verse sID="Gen.25.31" osisID="Gen.25.31" />... Vende mihi hodie primogenita tua mihi.<verse eID="Gen.25.31" />
+        <verse sID="Gen.25.32" osisID="Gen.25.32" />... ut quid mihi primatus?<verse eID="Gen.25.32" />
+      </p>
+      <chapter eID="Gen.25" />
+      <chapter sID="Gen.26" osisID="Gen.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Gen.26.1" osisID="Gen.26.1" />Facta est autem fames super terram, praeter famem quae prius facta est in tempore Abrahae. Abiit autem Isaac ad Abimelech regem Philistinorum in Gerara.<verse eID="Gen.26.1" />
+        <verse sID="Gen.26.2" osisID="Gen.26.2" />Apparuit autem illi Dominus, et dixit, Noli descendere in Aegyptum. Habita autem in terra, quam tibi dixero.<verse eID="Gen.26.2" />
+        <verse sID="Gen.26.3" osisID="Gen.26.3" />Et incole in terra hac, et ero tecum, et benedicam te. Tibi enim et semini tuo dabo omnem terram hanc, et statuam iuramentum meum quod iuravi Abrahae patri tuo.<verse eID="Gen.26.3" />
+        <verse sID="Gen.26.4" osisID="Gen.26.4" />Et multiplicabo semen tuum tanquam stellas coeli. Et dabo semini tuo omnem terram hanc, et BENEDICENTUR in semine tuo omnes gentes terrae,<verse eID="Gen.26.4" />
+        <verse sID="Gen.26.5" osisID="Gen.26.5" />pro eo quod obaudivit Abraham patrem tuus vocem meum, et custodivit praecepta mea, et mandata mea, et iustificationes meas, et legitima mea.<verse eID="Gen.26.5" />
+        <verse sID="Gen.26.12" osisID="Gen.26.12" />Seminavit autem Isaac in terra illa, et invenit in anno illo centuplum hordei. Benedixit autem eum Dominus.<verse eID="Gen.26.12" />
+        <verse sID="Gen.26.13" osisID="Gen.26.13" />Et exaltatus est homo, et procedens maior fiebat, quoad usque magnus factus est valde.<verse eID="Gen.26.13" />
+        <verse sID="Gen.26.17" osisID="Gen.26.17" />Et abiit inde Isaac, et venit in vallem Gerarum, et habitavit ibi.<verse eID="Gen.26.17" />
+        <verse sID="Gen.26.19" osisID="Gen.26.19" />Et foderunt pueri Isaac in valle Gerarum, et invenerunt ibi puteum aquae vivae.<verse eID="Gen.26.19" />
+        <verse sID="Gen.26.20" osisID="Gen.26.20" />Et litem fecerunt pastores Gerarum cum pastoribus Isaac ... et vocavit nomen eius, Iniustitiam ...<verse eID="Gen.26.20" />
+        <verse sID="Gen.26.21" osisID="Gen.26.21" />... et foderunt puteum alterum, et altercati sunt etiam super eo, et vocavit nomen eius, Inimicitiae.<verse eID="Gen.26.21" />
+        <verse sID="Gen.26.22" osisID="Gen.26.22" />... Et foderunt puteum alium, et non litigaverunt cum eis, et vocavit nomen eius, Latitudo ... Dilatavit Dominus nobis, et auxit nos super terram.<verse eID="Gen.26.22" />
+        <verse sID="Gen.26.23" osisID="Gen.26.23" />Ascendit autem inde ad puteum Iuramenti,<verse eID="Gen.26.23" />
+        <verse sID="Gen.26.24" osisID="Gen.26.24" />et visus est ei Dominus in illa nocte, et dixit ei, Ego sum Deus Abraham patris tui, ne timeas, tecum enim sum, et benedicam te, et multiplicabo semen tuum propter Abraham patrem tuum.<verse eID="Gen.26.24" />
+        <verse sID="Gen.26.25" osisID="Gen.26.25" />Et aedificavit ibi Isaac altare, et invocavit in nomine Domini ...<verse eID="Gen.26.25" />
+        <verse sID="Gen.26.26" osisID="Gen.26.26" />Et Abimelech ivit ad eum de Geraris, et Ochozath pronubus eius, et Phichol princeps militiae eius.<verse eID="Gen.26.26" />
+        <verse sID="Gen.26.28" osisID="Gen.26.28" />... Videntes vidimus quia est Dominus tecum ... Fiat exsecratio inter nos, et inter te, et disponemus tecum testamentum,<verse eID="Gen.26.28" />
+        <verse sID="Gen.26.29" osisID="Gen.26.29" />ne facias nobiscum malum ...<verse eID="Gen.26.29" />
+        <verse sID="Gen.26.32" osisID="Gen.26.32" />... Et venerunt pueri Isaac, et nunciaverunt ei de puteo quem foderunt, et dixerunt ei, Non invenimus aquam.<verse eID="Gen.26.32" />
+        <verse sID="Gen.26.33" osisID="Gen.26.33" />Et vocavit nomen eius, Iuramentum ...<verse eID="Gen.26.33" />
+      </p>
+      <chapter eID="Gen.26" />
+      <chapter sID="Gen.27" osisID="Gen.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Gen.27.1" osisID="Gen.27.1" />... et vocavit filium suum seniorem Esau, et dixit ...<verse eID="Gen.27.1" />
+        <verse sID="Gen.27.3" osisID="Gen.27.3" />Nunc ergo sume vas tuum, pharetramque, et arcum, et exi in campum, et venare mihi venationem.<verse eID="Gen.27.3" />
+        <verse sID="Gen.27.8" osisID="Gen.27.8" />Nunc ergo fili, audi me ...<verse eID="Gen.27.8" />
+        <verse sID="Gen.27.9" osisID="Gen.27.9" />Et vade ade oves, et sume mihi duos hoedos teneros, et bonos ...<verse eID="Gen.27.9" />
+        <verse sID="Gen.27.11" osisID="Gen.27.11" />... Ecce Esau frater meus vir pilosus, et ego sum vir levis.<verse eID="Gen.27.11" />
+        <verse sID="Gen.27.15" osisID="Gen.27.15" />Et sumpsit Rebecca vestimenta Esau filii sui maiores, quae erant desiderabilia valde apud se domi ...<verse eID="Gen.27.15" />
+        <verse sID="Gen.27.18" osisID="Gen.27.18" />... Et dicit, Pater? At ille, Quis es tu fili?<verse eID="Gen.27.18" />
+        <verse sID="Gen.27.19" osisID="Gen.27.19" />... Ego sum primogenitus tuus Esau. Feci sicut locutus es mihi ...<verse eID="Gen.27.19" />
+        <verse sID="Gen.27.20" osisID="Gen.27.20" />... Quid est hoc quod tam cito invenisti, fili mi? (Respondit Iacob.) Quod tradidit Dominus Deus tuus in manus meas.<verse eID="Gen.27.20" />
+        <verse sID="Gen.27.22" osisID="Gen.27.22" />... Vox quidem, vox Iacob. Manus autem, manus Esau.<verse eID="Gen.27.22" />
+        <verse sID="Gen.27.24" osisID="Gen.27.24" />... Tu es filius meus Esau ... Ego.<verse eID="Gen.27.24" />
+        <verse sID="Gen.27.25" osisID="Gen.27.25" />Et dixit, Appone mihi, et manducabo de venatione tua, fili, et benedicat te anima mea ...<verse eID="Gen.27.25" />
+        <verse sID="Gen.27.27" osisID="Gen.27.27" />Et accessit, et osculatus est eum, et odoratus est odorem vestis eius, et benedixit eum, et dixit, Ecce odor filii mei sicut odor agri pleni, quem benedixit Dominus.<verse eID="Gen.27.27" />
+        <verse sID="Gen.27.28" osisID="Gen.27.28" />Et det tibi Deus de rore coeli, et de ubertate terrae, et multitudinem frumenti et vini.<verse eID="Gen.27.28" />
+        <verse sID="Gen.27.29" osisID="Gen.27.29" />Et serviant tibi gentes, et adorent te principes, et fiere dominus fratris tui, et adorabunt te filii patris tui. Qui maledixerit te, maledictus, et qui benedixerit te, benedictus.<verse eID="Gen.27.29" />
+        <verse sID="Gen.27.31" osisID="Gen.27.31" />... Exsurgat pater meus, et manducet de venatione filii sui, ut benedicat me anima tua.<verse eID="Gen.27.31" />
+        <verse sID="Gen.27.32" osisID="Gen.27.32" />Dixit Isaac ... Quis es tu? Et ille, Ego sum Esau filius tuus maior.<verse eID="Gen.27.32" />
+        <verse sID="Gen.27.33" osisID="Gen.27.33" />Expavit autem Isaac pavore magno valde ... Quis ergo venatus est mihi venationem, et intulit mihi, et manducavi ab omnibus antequam tu venires? Et benedixi eum, et sit benedictus.<verse eID="Gen.27.33" />
+        <verse sID="Gen.27.34" osisID="Gen.27.34" />Factum est autem, ut audivit Esau verba Isaac patris sui, exclamavit voce magna, et dixit, Benedic et me, pater.<verse eID="Gen.27.34" />
+        <verse sID="Gen.27.35" osisID="Gen.27.35" />Et dixit illi, Venit frater tuus cum dolo, et accepit benedictionem tuam.<verse eID="Gen.27.35" />
+        <verse sID="Gen.27.36" osisID="Gen.27.36" />Et dixit Esau, Iuste vocatum est nomen eius Iacob. Supplantavit enim me iam bis, et primogenita me accepit.<verse eID="Gen.27.36" />
+        <verse sID="Gen.27.37" osisID="Gen.27.37" />Respondit autem Isaac, et dixit ad illum, Dominum tuum feci illum, et omnes fratres eius feci servos. Tritico et vino confirmavi illum. Tibi autem quid faciam, fili?<verse eID="Gen.27.37" />
+        <verse sID="Gen.27.38" osisID="Gen.27.38" />Et dixit Esau ad patrem suum, Nunquid una benedictio tibi est, pater? Benedic tamen et me, pater. Cum strangulatus esset Isaac ...<verse eID="Gen.27.38" />
+        <verse sID="Gen.27.39" osisID="Gen.27.39" />Respondit autem Isaac, et ait illi, Ecce a fertilitate terrae erit habitatio tua, et a rore coeli desuper.<verse eID="Gen.27.39" />
+        <verse sID="Gen.27.40" osisID="Gen.27.40" />Et super gladium tuum vives, et servies fratri tuo. Erit autem cum deposueris et solveris iugum illius a collo tuo.<verse eID="Gen.27.40" />
+        <verse sID="Gen.27.41" osisID="Gen.27.41" />... Appropinquent dies passionis patris mei, ut interficiam Iacob fratrem meum.<verse eID="Gen.27.41" />
+        <verse sID="Gen.27.43" osisID="Gen.27.43" />... exsurgens fuge in Mesopotamiam ...<verse eID="Gen.27.43" />
+        <verse sID="Gen.27.45" osisID="Gen.27.45" />... mittam ad te, et accersiam te inde ...<verse eID="Gen.27.45" />
+      </p>
+      <chapter eID="Gen.27" />
+      <chapter sID="Gen.28" osisID="Gen.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="Gen.28.1" osisID="Gen.28.1" />... Non accipies uxorem ex filiabus Chananaeorum.<verse eID="Gen.28.1" />
+        <verse sID="Gen.28.2" osisID="Gen.28.2" />Surgens fuge in Mesopotamiam, in domum Bathuel patris matris tuae, et sume tibi inde uxorem de filiabus Laban fratris matris tuae.<verse eID="Gen.28.2" />
+        <verse sID="Gen.28.3" osisID="Gen.28.3" />Deus autem meus benedicat te, et augeat te, et multiplicet te, et eris in congregationes gentium.<verse eID="Gen.28.3" />
+        <verse sID="Gen.28.4" osisID="Gen.28.4" />Et det tibi benedictionem Abrahae patris tui, tibi, et semini tuo post te, ut haeres fias terrae incolatus tui, quam dedit Deus Abrahae.<verse eID="Gen.28.4" />
+        <verse sID="Gen.28.5" osisID="Gen.28.5" />... et exiit in Mesopotamiam Syriae ...<verse eID="Gen.28.5" />
+        <verse sID="Gen.28.10" osisID="Gen.28.10" />Et exiit Iacob a puteo Iurationis, et profectus est in Charram.<verse eID="Gen.28.10" />
+        <verse sID="Gen.28.11" osisID="Gen.28.11" />Et devenit in locum, et dormivit ibi. Occiderat enim sol. Et sumpsit ex lapidibus loci, et posuit ad caput suum, et dormivit in loco illo.<verse eID="Gen.28.11" />
+        <verse sID="Gen.28.12" osisID="Gen.28.12" />Et somniavit, et ecce scala stabilita super terram, cuius caput pertingebat ad coelum. Et Angeli Dei ascendebant, et descendebant per illam.<verse eID="Gen.28.12" />
+        <verse sID="Gen.28.13" osisID="Gen.28.13" />Et Dominus incumbebat super illam, et dixit, Ego sum Deus Abraham patris tui, et Deus Isaac. Noli timere. Terram, in qua tu dormis super eam, tibi dabo illam et semini tuo.<verse eID="Gen.28.13" />
+        <verse sID="Gen.28.14" osisID="Gen.28.14" />Et erit semen tuum sicut arena terrae, et dilatabitur super mare, et in Africum, et in Aquilonem, et ad Orientem, et BENEDICENTUR IN TE omnes tribus terrae, et in semine tuo.<verse eID="Gen.28.14" />
+        <verse sID="Gen.28.15" osisID="Gen.28.15" />Et ecce ego sum tecum custodiens te in omni via quacumque ibis, et reducam te in terram hanc, quia non te derelinquam, donec faciam omnia quae tecum locutus sum.<verse eID="Gen.28.15" />
+        <verse sID="Gen.28.16" osisID="Gen.28.16" />Et surrexit Iacob de somno suo, et dixit, Quia Dominus est in loco hoc, ego autem nesciebam.<verse eID="Gen.28.16" />
+        <verse sID="Gen.28.17" osisID="Gen.28.17" />Et timuit, et dixit, Quam terribilis est locus hic! Non est hoc nisi domus Dei, et haec porta est coeli.<verse eID="Gen.28.17" />
+        <verse sID="Gen.28.18" osisID="Gen.28.18" />Et surrexit Iacob, et sumpsit lapidem quem supposuit ibi ad caput, et statuit illum in titulum, et superfudit oleum in cacumen eius.<verse eID="Gen.28.18" />
+        <verse sID="Gen.28.19" osisID="Gen.28.19" />Et vocavit Iacob nomen loci illius, Domus Dei. Et Ulammaus erat nomen civitati ante.<verse eID="Gen.28.19" />
+        <verse sID="Gen.28.20" osisID="Gen.28.20" />... Si fuerit Dominus Deus mecum, et custodierit me in via, per quam ego pergo, et dederit mihi panem ad manducandum, et vestimentum ad operiendum,<verse eID="Gen.28.20" />
+        <verse sID="Gen.28.21" osisID="Gen.28.21" />et reduxerit me cum salute in domum patris mei, erit mihi Dominus in Deum,<verse eID="Gen.28.21" />
+        <verse sID="Gen.28.22" osisID="Gen.28.22" />et lapis iste, quem posui in titulum, erit mihi Domus Dei, et omnium quaecunque dederis mihi, decimas offeram tibi.<verse eID="Gen.28.22" />
+      </p>
+      <chapter eID="Gen.28" />
+      <chapter sID="Gen.29" osisID="Gen.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="Gen.29.5" osisID="Gen.29.5" />... Nostis Laban filium Nachor? ...<verse eID="Gen.29.5" />
+        <verse sID="Gen.29.7" osisID="Gen.29.7" />... Adhuc est dies multa, nondum est hora congregandi pecora ...<verse eID="Gen.29.7" />
+        <verse sID="Gen.29.9" osisID="Gen.29.9" />... venit Rachel cum ovibus patris sui ...<verse eID="Gen.29.9" />
+        <verse sID="Gen.29.10" osisID="Gen.29.10" />... cum vidisset Iacob Rachel, filiam Laban fratris matris suae ... accessit, et revolvit lapidem ab ore putei.<verse eID="Gen.29.10" />
+        <verse sID="Gen.29.11" osisID="Gen.29.11" />Et adaquavit oves Laban fratris matris suae, et osculatus est Iacob Rachel, et exclamans voce sua ploravit.<verse eID="Gen.29.11" />
+        <verse sID="Gen.29.12" osisID="Gen.29.12" />Et indicavit Rachel, quia frater est patris eius, et quia filius Rebeccae est ...<verse eID="Gen.29.12" />
+        <verse sID="Gen.29.15" osisID="Gen.29.15" />Dixit autem Laban ad Iacob, Quoniam frater meus es, non servies mihi gratis. Dic mihi quae sit merces tua.<verse eID="Gen.29.15" />
+        <verse sID="Gen.29.20" osisID="Gen.29.20" />Et servivit Iacob pro Rachel annis septem, et erant in conspectu eius velut pauci dies, eo quo diligebat illam.<verse eID="Gen.29.20" />
+        <verse sID="Gen.29.27" osisID="Gen.29.27" />Consumma itaque septimanam istius, et dabo tibi et hanc pro opere quod operaberis apud me adhuc septem annos alios.<verse eID="Gen.29.27" />
+        <verse sID="Gen.29.28" osisID="Gen.29.28" />Fecit autem Iacob sic, et implevit septimanam eius, et dedit illi Laban Rachel filiam suam ipsi uxorem.<verse eID="Gen.29.28" />
+        <verse sID="Gen.29.29" osisID="Gen.29.29" />Dedit autem Laban Rachel filiae suae Ballam ancillam suam, ei ancillam.<verse eID="Gen.29.29" />
+        <verse sID="Gen.29.30" osisID="Gen.29.30" />Et intravit ad Rachel. Dilexit autem Rachel magis quam Liam, et servivit illi septem annos alios.<verse eID="Gen.29.30" />
+        <verse sID="Gen.29.32" osisID="Gen.29.32" />Et concepit, et peperit filium, et vocavit nomen eius, Ruben, dicens, Quia vidit Dominus humilitatem meam ...<verse eID="Gen.29.32" />
+        <verse sID="Gen.29.33" osisID="Gen.29.33" />Et concepit alterum filium, et dixit, Quoniam exaudivit me Dominus, eo quod odio me haberet vir meus, et dedit mihi etiam hunc. Et vocavit nomen eius, Simeon.<verse eID="Gen.29.33" />
+        <verse sID="Gen.29.34" osisID="Gen.29.34" />Et concepit adhuc, et peperit filium, et dixit, Nunc mecum erit vir meus, quia peperi ei tres filios. Ideo vocavit nomen eius, Levi.<verse eID="Gen.29.34" />
+        <verse sID="Gen.29.35" osisID="Gen.29.35" />Et concepit, et peperit filium, et dixit, Nunc super hoc confitebor Domino, et ob id vocavit nomen eius, Iuda ...<verse eID="Gen.29.35" />
+      </p>
+      <chapter eID="Gen.29" />
+      <chapter sID="Gen.30" osisID="Gen.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="Gen.30.1" osisID="Gen.30.1" />... et zelavit Rachel sororem suam ...<verse eID="Gen.30.1" />
+        <verse sID="Gen.30.4" osisID="Gen.30.4" />Et dedit illi Ballam ancillam suam ipsi uxorem ...<verse eID="Gen.30.4" />
+        <verse sID="Gen.30.5" osisID="Gen.30.5" />Et concepit Bala, et peperit Iacob filium.<verse eID="Gen.30.5" />
+        <verse sID="Gen.30.6" osisID="Gen.30.6" />Et dixit Rachel, Iudicavit me Dominus, et exaudivit vocem meam, et dedit mihi filium, propterea vocavit nomen eius, Dan.<verse eID="Gen.30.6" />
+        <verse sID="Gen.30.7" osisID="Gen.30.7" />Et concepit adhuc, et peperit Bala ancilla Rachel filium secundum Iacob.<verse eID="Gen.30.7" />
+        <verse sID="Gen.30.8" osisID="Gen.30.8" />Et dixit Rachel, Habitare fecit me Deus habitatione cum sorore mea, et invalui. Et vocavit nomen eius, Nephtalim.<verse eID="Gen.30.8" />
+        <verse sID="Gen.30.10" osisID="Gen.30.10" />Et peperit Zelpha ancilla Liae Iacob filium,<verse eID="Gen.30.10" />
+        <verse sID="Gen.30.11" osisID="Gen.30.11" />et dixit Lia, In fortuna. Et vocavit nomen eius, Gad.<verse eID="Gen.30.11" />
+        <verse sID="Gen.30.12" osisID="Gen.30.12" />Et peperit Zelpha ancilla Liae filium secundum Iacob.<verse eID="Gen.30.12" />
+        <verse sID="Gen.30.13" osisID="Gen.30.13" />Et dixit Lia, Beata ego, quia beatificant me mulieres. Et vocavit nomen eius, Aser, divitiae.<verse eID="Gen.30.13" />
+        <verse sID="Gen.30.15" osisID="Gen.30.15" />... Patum est tibi, quod accepisti virum meum, insuper et mandragorica filii mei vis accipere? ...<verse eID="Gen.30.15" />
+        <verse sID="Gen.30.16" osisID="Gen.30.16" />... Ad me intrabis. Conduxi enim te pro mandragoris filii mei ...<verse eID="Gen.30.16" />
+        <verse sID="Gen.30.17" osisID="Gen.30.17" />Et audivit Deus Liam, et concepit, et peperit Iacob filium quintum.<verse eID="Gen.30.17" />
+        <verse sID="Gen.30.18" osisID="Gen.30.18" />Et dixit Lia, Dedit Deus mercedem meam mihi, quia dedit ancillam meam viro meo. Et vocavit nomen eius, Issachar, quod est merces.<verse eID="Gen.30.18" />
+        <verse sID="Gen.30.19" osisID="Gen.30.19" />Et concepit adhuc Lia, et peperit filium sextum Iacob.<verse eID="Gen.30.19" />
+        <verse sID="Gen.30.20" osisID="Gen.30.20" />Et dixit Lia, Dotavit me Deus dote bona. Ex hoc tempore deliget me vir meus, quia peperi ei sex filios. Et vocavit nomen eius, Zabulon.<verse eID="Gen.30.20" />
+        <verse sID="Gen.30.21" osisID="Gen.30.21" />Et post haec peperit filiam, et vocavit nomen eius, Dina.<verse eID="Gen.30.21" />
+        <verse sID="Gen.30.27" osisID="Gen.30.27" />... Si inveni gratiam ante te, auguratus essem. Benedixit enim me Deus in introitu tuo.<verse eID="Gen.30.27" />
+        <verse sID="Gen.30.30" osisID="Gen.30.30" />... et benedixit te Dominus in pede meo. Nunc ergo quando faciam et ego mihi domum?<verse eID="Gen.30.30" />
+        <verse sID="Gen.30.32" osisID="Gen.30.32" />Transibo in universo pecore tuo hodie. Separa inde omne pecus varium, et discolor. Et omne pecus unius coloris in agnis, et varium, et discolor in capris, erit merces mea.<verse eID="Gen.30.32" />
+        <verse sID="Gen.30.33" osisID="Gen.30.33" />Et respondebit mihi iustitia mea in die crastino, cum venerit merces mea coram te. Omne in quo non fuerit varium, et discolor in capris et in agnis, furtum erit apud me.<verse eID="Gen.30.33" />
+      </p>
+      <chapter eID="Gen.30" />
+      <chapter sID="Gen.31" osisID="Gen.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="Gen.31.2" osisID="Gen.31.2" />Et vidit Iacob faciem Laban, et ecce non erat ad eum sicut hesterna et nudiustertiana die.<verse eID="Gen.31.2" />
+        <verse sID="Gen.31.3" osisID="Gen.31.3" />Et dixit ei Deus, Revertere in terram patris tui, et in gentem tuam, et ego ero tecum.<verse eID="Gen.31.3" />
+        <verse sID="Gen.31.7" osisID="Gen.31.7" />Et pater vester mentitus est mihi, et mutavit mercedem meam decem agnis. Et non dedit ei Deus ut noceret mihi.<verse eID="Gen.31.7" />
+        <verse sID="Gen.31.10" osisID="Gen.31.10" />... et vidi oculis meis in somno ...<verse eID="Gen.31.10" />
+        <verse sID="Gen.31.11" osisID="Gen.31.11" />Et dixit mihi Angelus Domini in somnis, Iacob, Iacob? Et ego dixi, Quid est?<verse eID="Gen.31.11" />
+        <verse sID="Gen.31.12" osisID="Gen.31.12" />... Aspice oculis tuis, et vide hircos et arietes ascendentes super oves et capras, variatos, albos, et varios, et cinericios, et aspersos. Vidi enim quaecunque tibi Laban fecit.<verse eID="Gen.31.12" />
+        <verse sID="Gen.31.13" osisID="Gen.31.13" />Ego sum Deus qui visus sum tibi in loco Dei, ubi unxisti mihi illic stantem lapidem, et vovisti mihi illic votum. Nunc ergo surge, et proficiscere de terra hac, et vade in terram nativitatis tuae, et ero tecum.<verse eID="Gen.31.13" />
+        <verse sID="Gen.31.14" osisID="Gen.31.14" />... Nunquid est nobis portio aut haereditas in domo patris nostri?<verse eID="Gen.31.14" />
+        <verse sID="Gen.31.15" osisID="Gen.31.15" />Nonne sicut alienae aestimamur ei? Vendidit enim nos, et devoravit pretium nostrum.<verse eID="Gen.31.15" />
+        <verse sID="Gen.31.16" osisID="Gen.31.16" />Omnes divitiae et gloria, quam tulit Deus patri nostro, nobis erit, et filiis nostris ...<verse eID="Gen.31.16" />
+        <verse sID="Gen.31.19" osisID="Gen.31.19" />... et furata est Rachel idola patris sui.<verse eID="Gen.31.19" />
+        <verse sID="Gen.31.21" osisID="Gen.31.21" />... et transivit fluvium, et venit in montem Galaad.<verse eID="Gen.31.21" />
+        <verse sID="Gen.31.27" osisID="Gen.31.27" />Si annuntiasses mihi, emisissem te ...<verse eID="Gen.31.27" />
+        <verse sID="Gen.31.30" osisID="Gen.31.30" />... quare furatus es deos meos?<verse eID="Gen.31.30" />
+        <verse sID="Gen.31.31" osisID="Gen.31.31" />Respondens autem Iacob, dixit ad Laban, Dixi enim, ne forte auferas filias tuas a me, et omnia mea.<verse eID="Gen.31.31" />
+        <verse sID="Gen.31.32" osisID="Gen.31.32" />... cognosce si quid tuum est apud me ...<verse eID="Gen.31.32" />
+        <verse sID="Gen.31.33" osisID="Gen.31.33" />Intravit autem Laban, et inscrutatus est in domo Liae ...<verse eID="Gen.31.33" />
+        <verse sID="Gen.31.36" osisID="Gen.31.36" />... Quae culpa mea est, et quod delictum meum, quod persequutus es me?<verse eID="Gen.31.36" />
+        <verse sID="Gen.31.37" osisID="Gen.31.37" />Et quare scrutatus es omnia vasa mea? Quid invenisti de omnibus tuis? Pone hic in conspectu fratrum tuorum et fratrum meorum, et redarguent inter nos duos.<verse eID="Gen.31.37" />
+        <verse sID="Gen.31.40" osisID="Gen.31.40" />Et fui diei perustus calore, et gelu noctis ...<verse eID="Gen.31.40" />
+        <verse sID="Gen.31.41" osisID="Gen.31.41" />... et decepisti mercedem meam decem agnabus.<verse eID="Gen.31.41" />
+        <verse sID="Gen.31.42" osisID="Gen.31.42" />Nisi Deus patris mei Abraham, et timor Isaac, adesset mihi, nunc me inanem dimisisses ...<verse eID="Gen.31.42" />
+        <verse sID="Gen.31.45" osisID="Gen.31.45" />Sumpsit autem Iacob lapidem, et constituit eum titulum.<verse eID="Gen.31.45" />
+        <verse sID="Gen.31.46" osisID="Gen.31.46" />Et dixit Iacob fratribus suis, Colligamus lapides. Et congregatis lapidibus, fecerunt acervum, et comederunt super eum ...<verse eID="Gen.31.46" />
+        <verse sID="Gen.31.47" osisID="Gen.31.47" />Et vocavit illum Laban, Acervum testimonii, et Iacob vocavit illum, Acervum testis.<verse eID="Gen.31.47" />
+        <verse sID="Gen.31.48" osisID="Gen.31.48" />... Testatur acervus hic, et testatur titulus hic. Propter hoc appellatum est nomen, Acervus testatur.<verse eID="Gen.31.48" />
+        <verse sID="Gen.31.49" osisID="Gen.31.49" />Et visio quam dixit, Respiciat Deus inter me et te ...<verse eID="Gen.31.49" />
+        <verse sID="Gen.31.50" osisID="Gen.31.50" />... vide, nemo nobiscum est ...<verse eID="Gen.31.50" />
+        <verse sID="Gen.31.53" osisID="Gen.31.53" />... Et iuravit Iacob per timorem patris sui Isaac.<verse eID="Gen.31.53" />
+      </p>
+      <chapter eID="Gen.31" />
+      <chapter sID="Gen.32" osisID="Gen.32" />
+      <title>Chatper 32</title>
+      <p>
+        <verse sID="Gen.32.1" osisID="Gen.32.1" />... vidit castra Dei applicantia, et occurrerunt ei Angeli Dei.<verse eID="Gen.32.1" />
+        <verse sID="Gen.32.2" osisID="Gen.32.2" />Et dixit Iacob, ut vidit eos, Castra Dei haec sunt. Et vocavit nomen loci eius, Castra.<verse eID="Gen.32.2" />
+        <verse sID="Gen.32.3" osisID="Gen.32.3" />Misit autem Iacob nuncios ante se ad Esau fratrem suum in terram Seir, in regionem Edom.<verse eID="Gen.32.3" />
+        <verse sID="Gen.32.4" osisID="Gen.32.4" />Et mandavit illis, dicens, Sic dicetis domino meo Esau, Sic dicit puer tuus Iacob, Cum Laban habitavi, et demoratus sum usque modo.<verse eID="Gen.32.4" />
+        <verse sID="Gen.32.5" osisID="Gen.32.5" />Et facti sunt mihi boves, et asini, et oves, et pueri, et puellae. Et misi nunciare domino meo Esau ...<verse eID="Gen.32.5" />
+        <verse sID="Gen.32.8" osisID="Gen.32.8" />Et dixit, Si venerit ad castra prima frater meus, et exciderit ea, erunt secunda in salutem.<verse eID="Gen.32.8" />
+        <verse sID="Gen.32.9" osisID="Gen.32.9" />... Deus patris mei Abraham, et Deus patris mei Isaac, Domine qui dixisti mihi, Recurre in terram generationis tuae, et bene tibi faciam,<verse eID="Gen.32.9" />
+        <verse sID="Gen.32.10" osisID="Gen.32.10" />idoneus es mihi ab omni iustitia, et ab omni veritate, quae fecisti puero tuo. In virga enim mea ista transii Iordanem hunc. Nunc autem factus sum in duo castra.<verse eID="Gen.32.10" />
+        <verse sID="Gen.32.11" osisID="Gen.32.11" />Erue me de manu fratris mei, de manu Esau, quia ego timeo illum, ne cum venerit, feriat me, et matres super filios.<verse eID="Gen.32.11" />
+        <verse sID="Gen.32.12" osisID="Gen.32.12" />Tu autem dixisti, Benefaciam tibi, et ponam semen tuum tanquam arenam maris, quae non dinumerabitur prae multitudine.<verse eID="Gen.32.12" />
+        <verse sID="Gen.32.17" osisID="Gen.32.17" />... Si interrogaverit te Esau, dicens, Cuius es? Et, Quo vadis? Et, Cuius haec quae antecedunt te?<verse eID="Gen.32.17" />
+        <verse sID="Gen.32.18" osisID="Gen.32.18" />Et dices, Pueri tui Iacob, munera misit domino meo Esau. Et ecce ipse post nos.<verse eID="Gen.32.18" />
+        <verse sID="Gen.32.20" osisID="Gen.32.20" />... dixit enim, Placabo vultum eius in muneribus praecedentibus eum, et post hoc videbo faciem eius, forsitan enim suscipiet faciem meam.<verse eID="Gen.32.20" />
+        <verse sID="Gen.32.21" osisID="Gen.32.21" />... dormivit ... in castris.<verse eID="Gen.32.21" />
+        <verse sID="Gen.32.22" osisID="Gen.32.22" />Surrexit autem eadem nocte, et accepit uxores duas, et duas ancillas ...<verse eID="Gen.32.22" />
+        <verse sID="Gen.32.24" osisID="Gen.32.24" />remansit autem Iacob solus, et luctabatur homo cum illo usque in mane.<verse eID="Gen.32.24" />
+        <verse sID="Gen.32.25" osisID="Gen.32.25" />Vidit autem quod non potest ad eum, et tetiget latitudinem semoris eius, et obstipuit latitudo femoris Iacob, dum luctaretur cum eo.<verse eID="Gen.32.25" />
+        <verse sID="Gen.32.26" osisID="Gen.32.26" />Et dixit illi, Dimitte me. Ascendit enim aurora. Ille autem dixit, Non te dimittam, nisi me benedixeris.<verse eID="Gen.32.26" />
+        <verse sID="Gen.32.27" osisID="Gen.32.27" />Dixit autem ei, Quod est nomen tuum? Ille autem dixit, Iacob.<verse eID="Gen.32.27" />
+        <verse sID="Gen.32.28" osisID="Gen.32.28" />Et dixit ei, Non vocabitur amplius nomen tuum Iacob, sed Israel erit nomen tuum, quia valuisti cum Deo, et cum hominibus potens es.<verse eID="Gen.32.28" />
+        <verse sID="Gen.32.29" osisID="Gen.32.29" />Rogavit autem eum Iacob, dicens, Enuncia mihi nomen tuum. Et dixit, Quare hoc interrogas tu nomen meum? Et benedixit eum illic.<verse eID="Gen.32.29" />
+        <verse sID="Gen.32.30" osisID="Gen.32.30" />Et appellavit Iacob nomen loci illius, Aspectus Dei. Vidi enim Deum facie ad faciem, et salva facta est anima mea.<verse eID="Gen.32.30" />
+        <verse sID="Gen.32.31" osisID="Gen.32.31" />Ortusque est ei sol, mox transivit visionem Dei. Ipse vero claudicabat femore suo.<verse eID="Gen.32.31" />
+        <verse sID="Gen.32.32" osisID="Gen.32.32" />Propter hoc non manducant hodieque filii Israel nervum ...<verse eID="Gen.32.32" />
+      </p>
+      <chapter eID="Gen.32" />
+      <chapter sID="Gen.33" osisID="Gen.33" />
+      <title>Chatper 33</title>
+      <p>
+        <verse sID="Gen.33.1" osisID="Gen.33.1" />... et divisit pueros super Liam, et super Rachel, et super duas ancillas.<verse eID="Gen.33.1" />
+        <verse sID="Gen.33.2" osisID="Gen.33.2" />Et posuit ancillas, et filios earum primos. Liam vero, et pueros eius, novissimos, et Rachel, et Ioseph novissimos.<verse eID="Gen.33.2" />
+        <verse sID="Gen.33.3" osisID="Gen.33.3" />Et ipse transivit ante eos, et adoravit septies in terra ...<verse eID="Gen.33.3" />
+        <verse sID="Gen.33.10" osisID="Gen.33.10" />... propter hoc vidi faciem tuam, quemadmodum cum videt aliquis faciem Dei ...<verse eID="Gen.33.10" />
+        <verse sID="Gen.33.11" osisID="Gen.33.11" />... misericordiam mei habuit Deus, et sunt mihi omnia ...<verse eID="Gen.33.11" />
+        <verse sID="Gen.33.13" osisID="Gen.33.13" />... et oves, et boves foetantur ...<verse eID="Gen.33.13" />
+        <verse sID="Gen.33.17" osisID="Gen.33.17" />... Iacob reversus est in tabernacula. Et fecit sibi domos, et pecoribus suis fecit tabernacula. Propter hoc vocavit nomen loci illius, Tabernacula.<verse eID="Gen.33.17" />
+        <verse sID="Gen.33.18" osisID="Gen.33.18" />Et venit Iacob in Salem in civitatem Sichimorum, quae est in terra Chanaan, cum advenit de Mesopotamia Syriae. Et applicuit ad faciem civitatis.<verse eID="Gen.33.18" />
+        <verse sID="Gen.33.19" osisID="Gen.33.19" />Et emit partem agri in quo statuit illic tabernaculum suum, ab Emmor patre Sichem, centum agnis.<verse eID="Gen.33.19" />
+        <verse sID="Gen.33.20" osisID="Gen.33.20" />Et statuit ibi aram, et invocavit Deum Israel.<verse eID="Gen.33.20" />
+      </p>
+      <chapter eID="Gen.33" />
+      <chapter sID="Gen.34" osisID="Gen.34" />
+      <title>Chatper 34</title>
+      <p>
+        <verse sID="Gen.34.1" osisID="Gen.34.1" />Exiit autem Dina filia Liae, quam peperit ipsi Iacob, ut condisceret filias regionis eius.<verse eID="Gen.34.1" />
+        <verse sID="Gen.34.2" osisID="Gen.34.2" />... Vidit Sichem filius Emmor Evaei, princeps terrae, Dinam filiam Iacob, et accepit eam, et dormivit cum ea, et humiliavit eam.<verse eID="Gen.34.2" />
+        <verse sID="Gen.34.3" osisID="Gen.34.3" />Et indendit animo Dinae filiae Iacob, et adamavit virginem, et locutus est secundum sensum virginis ipsi.<verse eID="Gen.34.3" />
+        <verse sID="Gen.34.7" osisID="Gen.34.7" />Et filii Iacob venerunt de campo, et cum audissent, compuncti sunt viri, et triste erat illis valde, quod turpe fecerat in Israel, quod dormisset cum filia Iacob, et non sic erit.<verse eID="Gen.34.7" />
+        <verse sID="Gen.34.8" osisID="Gen.34.8" />... Sichem filius meus elegit animo filiam vestram, date ergo illi eam uxorem.<verse eID="Gen.34.8" />
+        <verse sID="Gen.34.15" osisID="Gen.34.15" />... In hoc similes erimus vobis, et habitabimus in vobis ...<verse eID="Gen.34.15" />
+        <verse sID="Gen.34.19" osisID="Gen.34.19" />... appositus enim erat filiae Iacob ...<verse eID="Gen.34.19" />
+        <verse sID="Gen.34.20" osisID="Gen.34.20" />Et venit Emor et Sichem filius eius ad portam civitatis suae, et locuti sunt ad viros civitatis, dicentes,<verse eID="Gen.34.20" />
+        <verse sID="Gen.34.21" osisID="Gen.34.21" />Viri isti pacifici nobis sunt ...<verse eID="Gen.34.21" />
+        <verse sID="Gen.34.25" osisID="Gen.34.25" />... et introgressi sunt civitatem diligenter, et interfecerunt omne masculum.<verse eID="Gen.34.25" />
+        <verse sID="Gen.34.26" osisID="Gen.34.26" />... Et filium eius Sichem interfecerunt in ore gladii ...<verse eID="Gen.34.26" />
+        <verse sID="Gen.34.28" osisID="Gen.34.28" />Oves eorum, et boves eorum, et asinos eorum, quaecunque erant in civitate, et quaecunque erant in campo, tulerunt.<verse eID="Gen.34.28" />
+        <verse sID="Gen.34.29" osisID="Gen.34.29" />Et omnia corpora eorum ... captivaverunt, et diripuerunt quaecunque erant in civitate, et quaecunque erant in domibus.<verse eID="Gen.34.29" />
+        <verse sID="Gen.34.30" osisID="Gen.34.30" />Iacob Simeon et Levi ait, Odiosum me fecistis, ita ut saevus videar ... ego autem exiguus sum numero, et convenientes super me, occident me ...<verse eID="Gen.34.30" />
+      </p>
+      <chapter eID="Gen.34" />
+      <chapter sID="Gen.35" osisID="Gen.35" />
+      <title>Chatper 35</title>
+      <p>
+        <verse sID="Gen.35.1" osisID="Gen.35.1" />Dixit autem Deus ad Iacob, Surge, et ascende in locum Bethel, et habita ibi, et fac ibi aram Deo qui apparuit tibi, cum fugeres a facie Esau fratris tui.<verse eID="Gen.35.1" />
+        <verse sID="Gen.35.2" osisID="Gen.35.2" />Iacob ... dixit domui suae, et omnibus qui cum illo erant, Tollite deos alienos, qui vobiscum sunt, de medio vestrum ...<verse eID="Gen.35.2" />
+        <verse sID="Gen.35.4" osisID="Gen.35.4" />Et tradiderunt Iacob deos alienos qui erant in manibus eorum, et inaures quae erant in auriculis eorum, et abscondit ea Iacob subter terebinthum, quae est in Sichimis, et perdidit ea usque in hodiernum diem.<verse eID="Gen.35.4" />
+        <verse sID="Gen.35.5" osisID="Gen.35.5" />... Et factus est timor Dei in civitatibus quae circa illos erant, et non sunt consecuti post filios Israel.<verse eID="Gen.35.5" />
+        <verse sID="Gen.35.6" osisID="Gen.35.6" />Venit autem Iacob in Luza, quae est in terra Chanaan, quae est Bethel. Ipse et omnis plebs quae erant cum eo.<verse eID="Gen.35.6" />
+        <verse sID="Gen.35.7" osisID="Gen.35.7" />Et aedificavit ibi altare, et vocavit nomen loci illius, Domus Dei. Ibi enim apparuit ei Deus cum fugeret a facie fratris sui Esau.<verse eID="Gen.35.7" />
+        <verse sID="Gen.35.8" osisID="Gen.35.8" />Et mortua est Debbora nutrix Rebeccae, et sepulta est iuxta Behtel ...<verse eID="Gen.35.8" />
+        <verse sID="Gen.35.9" osisID="Gen.35.9" />Iterum in Luza apparuit Deus Iacob ...<verse eID="Gen.35.9" />
+        <verse sID="Gen.35.10" osisID="Gen.35.10" />Et dixit ei Deus, Iam non vocabitur nomen tuum Iacob, sed Israel erit nomen tuum. Et vocavit nomen eius, Israel.<verse eID="Gen.35.10" />
+        <verse sID="Gen.35.11" osisID="Gen.35.11" />... gentes et congregrationes gentium erunt ex te ...<verse eID="Gen.35.11" />
+        <verse sID="Gen.35.13" osisID="Gen.35.13" />Ascendit autem Deus ab eo loco, ubi locutus est cum eo.<verse eID="Gen.35.13" />
+        <verse sID="Gen.35.14" osisID="Gen.35.14" />Et statuit Iacob titulum in loco, in quo locutus est cum eo, titulum lapideum. Et libavit super eum libamen, et infudit super eum oleum.<verse eID="Gen.35.14" />
+        <verse sID="Gen.35.15" osisID="Gen.35.15" />Et vocavit Iacob nomen loci, in quo locutus est cum eo illic Deus, Bethel.<verse eID="Gen.35.15" />
+        <verse sID="Gen.35.16" osisID="Gen.35.16" />Et profectus est Israel, et extendit tabernaculum suum trans turrium Ader. Et factum est dum appropinquaret Chabratha in terra Chanaan, ut veniret Ephratha, peperit Rachel ...<verse eID="Gen.35.16" />
+        <verse sID="Gen.35.18" osisID="Gen.35.18" />Et factum est cum dimitteret eam anima, siquidem moriebatur. Vocavit nomen eius, Filius doloris mei. Pater vero eius vocavit nomen eius, Beniamin.<verse eID="Gen.35.18" />
+        <verse sID="Gen.35.19" osisID="Gen.35.19" />Mortua est autem Rachel, et sepulta est in via Ephrata, ipsa est Bethleem.<verse eID="Gen.35.19" />
+        <verse sID="Gen.35.20" osisID="Gen.35.20" />... Columnam statuit Iacob supra monumentum eius ...<verse eID="Gen.35.20" />
+        <verse sID="Gen.35.26" osisID="Gen.35.26" />... hi sunt filii Israel, qui nati sunt ei in Mesopotamia Syriae.<verse eID="Gen.35.26" />
+        <verse sID="Gen.35.27" osisID="Gen.35.27" />Et venit Iacob ad Isaac patrem suum in Mambre, civitatem Campi, haec est Chebron ...<verse eID="Gen.35.27" />
+        <verse sID="Gen.35.28" osisID="Gen.35.28" />Fuerunt autem dies Isaac, quos vixit, anni centum octoginta quinque.<verse eID="Gen.35.28" />
+        <verse sID="Gen.35.29" osisID="Gen.35.29" />Et deficiens Isaac mortuus est. Et appositus est ad genus suum senex, et plenus dierum ...<verse eID="Gen.35.29" />
+      </p>
+      <chapter eID="Gen.35" />
+      <chapter sID="Gen.36" osisID="Gen.36" />
+      <title>Chatper 36</title>
+      <p>
+        <verse sID="Gen.36.4" osisID="Gen.36.4" />Et peperit Ada Esau Eliphaz ...<verse eID="Gen.36.4" />
+        <verse sID="Gen.36.12" osisID="Gen.36.12" />Et Thamna erat concubina Eliphaz filii primogeniti Esau, et ex ipsa natus est Amalech ...<verse eID="Gen.36.12" />
+        <verse sID="Gen.36.19" osisID="Gen.36.19" />Isti filii Esau, et isti principes eorum. Ipse est Edom.<verse eID="Gen.36.19" />
+        <verse sID="Gen.36.20" osisID="Gen.36.20" />Et hi filii Seir et Chorraei, habitantis terram ...<verse eID="Gen.36.20" />
+        <verse sID="Gen.36.21" osisID="Gen.36.21" />... hi principes Chorraei, filii Seir, in Terra Edom.<verse eID="Gen.36.21" />
+        <verse sID="Gen.36.22" osisID="Gen.36.22" />Et fuerunt filii Lotan: Chorri, et Aemam. Et soror Lotan, Thamna.<verse eID="Gen.36.22" />
+        <verse sID="Gen.36.24" osisID="Gen.36.24" />... Ipse est Ana qui invenit Iamin in deserto, cum pasceret asinos Zebeon patris sui.<verse eID="Gen.36.24" />
+        <verse sID="Gen.36.31" osisID="Gen.36.31" />Et hi reges qui regnaverunt in Edom, antequam regnaret rex in Israel.<verse eID="Gen.36.31" />
+        <verse sID="Gen.36.33" osisID="Gen.36.33" />... et regnavit pro eo Iobab filius Zarae de Bozra.<verse eID="Gen.36.33" />
+        <verse sID="Gen.36.40" osisID="Gen.36.40" />Haec nomina principum Esau, secundum loca eorum in regionibus eorum, et in gentibus eorum ...<verse eID="Gen.36.40" />
+      </p>
+      <chapter eID="Gen.36" />
+      <chapter sID="Gen.37" osisID="Gen.37" />
+      <title>Chatper 37</title>
+      <p>
+        <verse sID="Gen.37.1" osisID="Gen.37.1" />Habitabat autem Iacob in terra Chanaan.<verse eID="Gen.37.1" />
+        <verse sID="Gen.37.2" osisID="Gen.37.2" />Hae autem procreaturae Iacob. Ioseph autem decem et septem annorum erat, pascens cum fratribus oves ...<verse eID="Gen.37.2" />
+        <verse sID="Gen.37.3" osisID="Gen.37.3" />Et Israel dilexit Ioseph super omnes filios suos, quia erat filius senectutis. Et fecit ei tunicam variam.<verse eID="Gen.37.3" />
+        <verse sID="Gen.37.7" osisID="Gen.37.7" />Putabam nos ligare gremia in campo. Surrexit gremium meum, et erectum est. Conversa autem gremia vestra adoraverunt gremium meum.<verse eID="Gen.37.7" />
+        <verse sID="Gen.37.8" osisID="Gen.37.8" />... Nunquid regnando regnaturus es nobis? Aut dominando dominaturus es nobis? ...<verse eID="Gen.37.8" />
+        <verse sID="Gen.37.9" osisID="Gen.37.9" />Vidit autem aliud somnium, et narravit illud patri suo et fratribus suis ... quasi sol, et luna, et undecim stellae adorabant me.<verse eID="Gen.37.9" />
+        <verse sID="Gen.37.10" osisID="Gen.37.10" />... obiurgavit illum pater eius, dicens, Quid ergo erit hoc visum quod somniasti? Nunquid venientes, ego et mater tua et fratres tui, adorabimus te super terram?<verse eID="Gen.37.10" />
+        <verse sID="Gen.37.18" osisID="Gen.37.18" />Et praeviderunt eum de longe venientem, antequam appropiaret ad illos, et insaeviebant ut occiderent illum.<verse eID="Gen.37.18" />
+        <verse sID="Gen.37.19" osisID="Gen.37.19" />... Ecce somniator ille venit.<verse eID="Gen.37.19" />
+        <verse sID="Gen.37.20" osisID="Gen.37.20" />Nunc ergo venite, occidamus eum ... et videbimus quid proderunt somnia illius.<verse eID="Gen.37.20" />
+        <verse sID="Gen.37.21" osisID="Gen.37.21" />Cum audisset autem Ruben, liberavit eum de manibus eorum, et dixit,<verse eID="Gen.37.21" />
+        <verse sID="Gen.37.22" osisID="Gen.37.22" />Non feriamus eum in animam ... manus autem nolite inferre illi ...<verse eID="Gen.37.22" />
+        <verse sID="Gen.37.27" osisID="Gen.37.27" />Venite, vendamus Ioseph Ismaelitis. Manus autem nostrae non sint super eum, quoniam frater noster et caro nostra est ...<verse eID="Gen.37.27" />
+        <verse sID="Gen.37.28" osisID="Gen.37.28" />... et vendiderunt Ioseph Ismaelitis, viginti aureis ...<verse eID="Gen.37.28" />
+        <verse sID="Gen.37.31" osisID="Gen.37.31" />... occiderunt hoedum caprarum ...<verse eID="Gen.37.31" />
+        <verse sID="Gen.37.34" osisID="Gen.37.34" />Iacob scidit vestimentia sua ...<verse eID="Gen.37.34" />
+        <verse sID="Gen.37.35" osisID="Gen.37.35" />Congregati sunt autem omnes filii eius et filiae, et venerunt consolari eum, et noluit consolari, dicens, Quoniam descendam ad filium meum lugens in infernum ...<verse eID="Gen.37.35" />
+        <verse sID="Gen.37.36" osisID="Gen.37.36" />Et vendiderunt Ioseph in Aegyptum Petephrae spadoni, praeposito coquorum.<verse eID="Gen.37.36" />
+      </p>
+      <chapter eID="Gen.37" />
+      <chapter sID="Gen.38" osisID="Gen.38" />
+      <title>Chatper 38</title>
+      <p>
+        <verse sID="Gen.38.1" osisID="Gen.38.1" />Factum est autem in tempore illo, descendit Iudas a fratribus suis ad hominem quemdam Odollamitam, cui nomen Iras.<verse eID="Gen.38.1" />
+        <verse sID="Gen.38.2" osisID="Gen.38.2" />Et vidit illic Iudas filiam hominis Chananaei, nomine Savam. Et accepit eam, et introivit ad eam.<verse eID="Gen.38.2" />
+        <verse sID="Gen.38.3" osisID="Gen.38.3" />Et concepit, et peperit filium ...<verse eID="Gen.38.3" />
+        <verse sID="Gen.38.5" osisID="Gen.38.5" />Et adiecit, et peperit filium, et vocavit nomen eius Selom. Haec autem erat in Chazbi, quando peperit eum.<verse eID="Gen.38.5" />
+        <verse sID="Gen.38.12" osisID="Gen.38.12" />... et consulatus Iudas, ascendit ad eos qui tondebant oves eius, ipse et Hiras pastor eius Odollamites ...<verse eID="Gen.38.12" />
+        <verse sID="Gen.38.13" osisID="Gen.38.13" />Et nunciatum est nurui eius Thamar, dicentes ...<verse eID="Gen.38.13" />
+        <verse sID="Gen.38.14" osisID="Gen.38.14" />Et depositis vestimentis viduitatis suae a se, cooperuit se pallio, et adornavit. Et sedit ad portam Enam, quae est in transitu Thamna ...<verse eID="Gen.38.14" />
+        <verse sID="Gen.38.15" osisID="Gen.38.15" />Et cum aspexisset eam Iudas, visum est ei meretricem esse ...<verse eID="Gen.38.15" />
+        <verse sID="Gen.38.26" osisID="Gen.38.26" />Cognovit autem Iudas, et dixit, Iustior est illa quam ego. Eo quod non dedi eam Selom filio meo. Et non apposuit amplius scire eam.<verse eID="Gen.38.26" />
+        <verse sID="Gen.38.27" osisID="Gen.38.27" />Factum est cum pareret, et haberet geminos in utero. In ipso partu, unus protulit manum, et tulit obstettix, et ligavit in manu eius coccinum, dicens,<verse eID="Gen.38.27" />
+        <verse sID="Gen.38.28" osisID="Gen.38.28" />Hic egredietur prior.<verse eID="Gen.38.28" />
+        <verse sID="Gen.38.29" osisID="Gen.38.29" />Cum autem contraxisset manum, statim egressus est frater eius. Et illa ait, Quare divisa est propter te maceria? Et vocavit nomen eius Phares.<verse eID="Gen.38.29" />
+        <verse sID="Gen.38.30" osisID="Gen.38.30" />Et post haec egressus est frater eius, in cuius manu erat coccinum. Et vocavit nomen eius Zara.<verse eID="Gen.38.30" />
+      </p>
+      <chapter eID="Gen.38" />
+      <chapter sID="Gen.39" osisID="Gen.39" />
+      <title>Chatper 39</title>
+      <p>
+        <verse sID="Gen.39.1" osisID="Gen.39.1" />Ioseph autem depositus est in Aegyptum, et possedit eum Petephres spado Pharaonis ...<verse eID="Gen.39.1" />
+        <verse sID="Gen.39.4" osisID="Gen.39.4" />Et invenit Ioseph gratiam in conspectu domini sui ...<verse eID="Gen.39.4" />
+        <verse sID="Gen.39.5" osisID="Gen.39.5" />... benedixit Dominus domum Aegyptii propter Ioseph, et facta est benedictio Domini in toto censu eius, et in domo, et in agris. Et convertit omnia quaecunque illi erant in manus Ioseph.<verse eID="Gen.39.5" />
+        <verse sID="Gen.39.6" osisID="Gen.39.6" />Et nesciebat quae circa eum erant nihil, praeter panem quem ipse edebat ...<verse eID="Gen.39.6" />
+        <verse sID="Gen.39.7" osisID="Gen.39.7" />... et misit uxor domini eius oculos suos in Ioseph, et ait, Dormi mecum.<verse eID="Gen.39.7" />
+        <verse sID="Gen.39.8" osisID="Gen.39.8" />... et dixit uxori domini tui, Si dominus meus propter me nihil scit in domo sua, et omnia quaecunque habet, dedit in manus meas,<verse eID="Gen.39.8" />
+        <verse sID="Gen.39.9" osisID="Gen.39.9" />... neque subtractum est a me quidquam, praeter te, quia uxor illius es, quomodo faciam verbum malum hoc, et peccabo coram Domino?<verse eID="Gen.39.9" />
+        <verse sID="Gen.39.22" osisID="Gen.39.22" />Et dedit carceris custos carcerem per manum Ioseph ...<verse eID="Gen.39.22" />
+        <verse sID="Gen.39.23" osisID="Gen.39.23" />... quia Dominus erat cum eo, et quaecunque faciebat, prosperabantur a Domino in manibus eius.<verse eID="Gen.39.23" />
+      </p>
+      <chapter eID="Gen.39" />
+      <chapter sID="Gen.40" osisID="Gen.40" />
+      <title>Chatper 40</title>
+      <p>
+        <verse sID="Gen.40.1" osisID="Gen.40.1" />... post verba haec, peccavit princeps vinariorum regis Aegypti ...<verse eID="Gen.40.1" />
+        <verse sID="Gen.40.8" osisID="Gen.40.8" />Et dixerunt, Somnium vidimus, et non est qui interpretetur illud ... Nonne per Deum interpretatio somnii est? Narrate ergo mihi.<verse eID="Gen.40.8" />
+        <verse sID="Gen.40.9" osisID="Gen.40.9" />Et narravit praepositus vini somnium suum. Erat vitis in conspectu meo.<verse eID="Gen.40.9" />
+        <verse sID="Gen.40.10" osisID="Gen.40.10" />In vite autem tres radices, et ipsa flores ferens, germinavit maturos botryones uvarum.<verse eID="Gen.40.10" />
+        <verse sID="Gen.40.11" osisID="Gen.40.11" />Et calix Pharao in manu mea. Et sumpsi eam, et expressi eam in calicem, et dedi calicem in manus Pharao.<verse eID="Gen.40.11" />
+        <verse sID="Gen.40.12" osisID="Gen.40.12" />Et dixit illi Ioseph, Haec interpretatio eius, Tres radices, tres dies sunt.<verse eID="Gen.40.12" />
+        <verse sID="Gen.40.13" osisID="Gen.40.13" />Adhuc triduo, et in mentem habebit Pharao principatum tuum, et restituet te super officium tuum pristinum. Et dabis calicem in manus Pharao ...<verse eID="Gen.40.13" />
+        <verse sID="Gen.40.14" osisID="Gen.40.14" />Sed memor esto per temetipsum, cum tibi bene erit, et facies in me misericordiam. Et memor eris mei ad Pharaonem, et educes me de carcere isto,<verse eID="Gen.40.14" />
+        <verse sID="Gen.40.15" osisID="Gen.40.15" />quia furto involatus sum de terra Hebraeorum, et hic nihil male feci, sed miserunt me in lacum carceris huius.<verse eID="Gen.40.15" />
+        <verse sID="Gen.40.16" osisID="Gen.40.16" />... Et videbar mihi tria cansitra chondritorum portare in capite meo.<verse eID="Gen.40.16" />
+        <verse sID="Gen.40.19" osisID="Gen.40.19" />... et auferet Pharao caput tuum abs te ... et manducabunt aves coeli carnes tuas abs te.<verse eID="Gen.40.19" />
+      </p>
+      <chapter eID="Gen.40" />
+      <chapter sID="Gen.41" osisID="Gen.41" />
+      <title>Chatper 41</title>
+      <p>
+        <verse sID="Gen.41.1" osisID="Gen.41.1" />Et factum est post biennium dierum ... Putabat se stare super flumen.<verse eID="Gen.41.1" />
+        <verse sID="Gen.41.2" osisID="Gen.41.2" />Et ecce de fluvio ascendebant septem boves, speciosae ad videndum, et electae carnibus. Et pascebantur in Achi.<verse eID="Gen.41.2" />
+        <verse sID="Gen.41.7" osisID="Gen.41.7" />... Surrexit autem Pharao, et erat somnium.<verse eID="Gen.41.7" />
+        <verse sID="Gen.41.9" osisID="Gen.41.9" />... Peccatum meum recordor hodie.<verse eID="Gen.41.9" />
+        <verse sID="Gen.41.10" osisID="Gen.41.10" />Pharao iratus fuit pueris suis, et posuit nos in carcere ...<verse eID="Gen.41.10" />
+        <verse sID="Gen.41.11" osisID="Gen.41.11" />Et vidimus somnium ambo nocte una, ego et ille ...<verse eID="Gen.41.11" />
+        <verse sID="Gen.41.13" osisID="Gen.41.13" />Factum est autem sicut comparavit nobis, ita et contigit ...<verse eID="Gen.41.13" />
+        <verse sID="Gen.41.16" osisID="Gen.41.16" />Et respondit Ioseph Pharaoni, dicens, Sine Deo non respondebitur salutare Pharaoni.<verse eID="Gen.41.16" />
+        <verse sID="Gen.41.19" osisID="Gen.41.19" />... quales nunquam vidi tales in tota terra Aegypti turpiores.<verse eID="Gen.41.19" />
+        <verse sID="Gen.41.21" osisID="Gen.41.21" />... Exsurgens autem, dormivi.<verse eID="Gen.41.21" />
+        <verse sID="Gen.41.25" osisID="Gen.41.25" />... quaecunque facit Deus, ostendit Pharao.<verse eID="Gen.41.25" />
+        <verse sID="Gen.41.26" osisID="Gen.41.26" />Septem vaccae bonae, septem anni sunt. Et septem spicae bonae, septem anni sunt. Somnium Pharao unum est.<verse eID="Gen.41.26" />
+        <verse sID="Gen.41.27" osisID="Gen.41.27" />Et septem vaccae macrae, quae post illas ascendebant, septem anni sunt. Et septem spicae macrae, et a vento corruptae, septem anni sunt. Erit septem annis fames.<verse eID="Gen.41.27" />
+        <verse sID="Gen.41.28" osisID="Gen.41.28" />Verbum autem quod dixi, quaecunque facit Deus, ostendit Pharao.<verse eID="Gen.41.28" />
+        <verse sID="Gen.41.29" osisID="Gen.41.29" />Ecce septem anni veniunt ubertatis magnae in totam terram Aegypti.<verse eID="Gen.41.29" />
+        <verse sID="Gen.41.30" osisID="Gen.41.30" />Veniet autem septem annis fames post haec, et obliviscentur ubertatem in tota Aegypto. Et consumet fames totam terram,<verse eID="Gen.41.30" />
+        <verse sID="Gen.41.31" osisID="Gen.41.31" />et non agnoscetur ubertas terrae a fame quae futura est post haec. Valida enim nimium.<verse eID="Gen.41.31" />
+        <verse sID="Gen.41.32" osisID="Gen.41.32" />Quod autem iteravit somnium Pharao bis, quia verum erit verbum a Deo, et festinabit Deus facere illud.<verse eID="Gen.41.32" />
+        <verse sID="Gen.41.33" osisID="Gen.41.33" />Nunc ergo vide hominem prudentem et intelligentem, et constitue eum super terram Aegypti.<verse eID="Gen.41.33" />
+        <verse sID="Gen.41.34" osisID="Gen.41.34" />Et faciat Pharao, et constituat locorum principes super terram ...<verse eID="Gen.41.34" />
+        <verse sID="Gen.41.35" osisID="Gen.41.35" />... et congregetur triticum sub manu Pharaonis ...<verse eID="Gen.41.35" />
+        <verse sID="Gen.41.38" osisID="Gen.41.38" />... Nunquid inveniemus hominem talem, qui habeat spiritum Dei in se?<verse eID="Gen.41.38" />
+        <verse sID="Gen.41.40" osisID="Gen.41.40" />... tamen thronum praecedam tui ego.<verse eID="Gen.41.40" />
+        <verse sID="Gen.41.43" osisID="Gen.41.43" />... et clamavit ante eum praeco, et constituit eum super omnem terram Aegypti.<verse eID="Gen.41.43" />
+        <verse sID="Gen.41.44" osisID="Gen.41.44" />... Ego Pharao. Sine te nemo extollet manum suam super omnem terram Aegypti.<verse eID="Gen.41.44" />
+        <verse sID="Gen.41.45" osisID="Gen.41.45" />Et imposuit Pharao nomen Ioseph, Psonthomphanech. Et dedit ei Aseneth filiam Petephrae sacerdotis solis civitatis, ipsi uxorem.<verse eID="Gen.41.45" />
+        <verse sID="Gen.41.49" osisID="Gen.41.49" />Et congregavit Ioseph triticum, sicut arenam maris, multum valde, quoad usque non potuit numerari. Non enim erat numerus.<verse eID="Gen.41.49" />
+        <verse sID="Gen.41.50" osisID="Gen.41.50" />Et Ioseph nati sunt duo filii antequam venirent anni famis, quos peperit ei Aseneth, filia Putipharis sacerdotis Heliopoleos.<verse eID="Gen.41.50" />
+        <verse sID="Gen.41.51" osisID="Gen.41.51" />Vocavit autem Ioseph nomen primogeniti, Manasse, quia oblivisci me fecit Deus omnium laborum meorum, et omnis domus patris mei<verse eID="Gen.41.51" />
+        <verse sID="Gen.41.52" osisID="Gen.41.52" />Nomen autem secundi vocavit Ephraim, quia crescere me fecit Deus in terra humilitatis meae.<verse eID="Gen.41.52" />
+        <verse sID="Gen.41.57" osisID="Gen.41.57" />Et omnes regiones venerunt in Aegyptum ad Ioseph, emere ...<verse eID="Gen.41.57" />
+      </p>
+      <chapter eID="Gen.41" />
+      <chapter sID="Gen.42" osisID="Gen.42" />
+      <title>Chatper 42</title>
+      <p>
+        <verse sID="Gen.42.1" osisID="Gen.42.1" />Videns autem Iacob quia est venditio in Aegypto, dixit filiis suis, Quare segnes estis?<verse eID="Gen.42.1" />
+        <verse sID="Gen.42.2" osisID="Gen.42.2" />Ecce audivi quia frumentum est in Aegypto. Descendite illo, et emite nobis pusillas escas, ut vivamus, et non moriamur.<verse eID="Gen.42.2" />
+        <verse sID="Gen.42.7" osisID="Gen.42.7" />... ab his se avertebat, et loquebatur his dura ...<verse eID="Gen.42.7" />
+        <verse sID="Gen.42.8" osisID="Gen.42.8" />... agnovit eos, ipsi vero non cognoverunt illum.<verse eID="Gen.42.8" />
+        <verse sID="Gen.42.9" osisID="Gen.42.9" />Et commemoratus est Ioseph somniorum suorum, quae vidit ipse ... et dixit, Exploratores estis, considerare vestigia huius terrae venistis.<verse eID="Gen.42.9" />
+        <verse sID="Gen.42.11" osisID="Gen.42.11" />... pacati sumus, non sunt pueri tui exploratores.<verse eID="Gen.42.11" />
+        <verse sID="Gen.42.13" osisID="Gen.42.13" />... Duodecim sumus pueri tui, fratres in terra Chanaan ...<verse eID="Gen.42.13" />
+        <verse sID="Gen.42.14" osisID="Gen.42.14" />... Hoc est quod dixi vobis, dicens, Quod exploratores estis.<verse eID="Gen.42.14" />
+        <verse sID="Gen.42.15" osisID="Gen.42.15" />... Per salutem Pharaonis non exibitis hinc, nisi venerit frater vester iunior.<verse eID="Gen.42.15" />
+        <verse sID="Gen.42.16" osisID="Gen.42.16" />Mittite ex vobis unum, et adducite fratrem vestrum. Vos autem ducemini, quoad usque manifesta sint verba vestra, si vera dicitis an non. Sin autem, per salutem Pharaonis exploratores estis.<verse eID="Gen.42.16" />
+        <verse sID="Gen.42.19" osisID="Gen.42.19" />... ipsi vero ite, et ducite emptionem tritici vestri.<verse eID="Gen.42.19" />
+        <verse sID="Gen.42.21" osisID="Gen.42.21" />... In peccato sumus de fratre nostro ...<verse eID="Gen.42.21" />
+        <verse sID="Gen.42.22" osisID="Gen.42.22" />... Nonne locutus sum vobis, dicens, Non noceatis puero, et non exaudistis me? ... Ecce sanguis eius exquiritur.<verse eID="Gen.42.22" />
+        <verse sID="Gen.42.23" osisID="Gen.42.23" />Ipsi autem ignorabant quia audit Ioseph. Interpres enim inter illos erat.<verse eID="Gen.42.23" />
+        <verse sID="Gen.42.24" osisID="Gen.42.24" />... et iterum accessit ad eos, et dixit illis.<verse eID="Gen.42.24" />
+        <verse sID="Gen.42.32" osisID="Gen.42.32" />Duodecim sumus fratres filii patris nostri. Unus non est. Pusillus autem cum patre nostro hodie in terra Chanaan.<verse eID="Gen.42.32" />
+        <verse sID="Gen.42.34" osisID="Gen.42.34" />... et in terra mercamini.<verse eID="Gen.42.34" />
+        <verse sID="Gen.42.35" osisID="Gen.42.35" />... et erat uniuscuiusque alligatura argenti in sacco eorum ...<verse eID="Gen.42.35" />
+        <verse sID="Gen.42.36" osisID="Gen.42.36" />... super me facta sunt omnia haec.<verse eID="Gen.42.36" />
+        <verse sID="Gen.42.38" osisID="Gen.42.38" />... et deducetis senectam meam cum tristitia ad infernum.<verse eID="Gen.42.38" />
+      </p>
+      <chapter eID="Gen.42" />
+      <chapter sID="Gen.43" osisID="Gen.43" />
+      <title>Chatper 43</title>
+      <p>
+        <verse sID="Gen.43.3" osisID="Gen.43.3" />Ait autem illi Iudas, dicens ...<verse eID="Gen.43.3" />
+        <verse sID="Gen.43.7" osisID="Gen.43.7" />... Interrogans interrogavit nos homo ...<verse eID="Gen.43.7" />
+        <verse sID="Gen.43.8" osisID="Gen.43.8" />... Mitte puerum mecum, et surgentes ibimus, ut vivamus, et non moriamur et nos, et tu, et substantia nostra.<verse eID="Gen.43.8" />
+        <verse sID="Gen.43.11" osisID="Gen.43.11" />... et deferte viro munera, aliquid resinae, et mellis, thymiama, et stacten, et terebinthum, et nuces.<verse eID="Gen.43.11" />
+        <verse sID="Gen.43.16" osisID="Gen.43.16" />... mecum enim manducabunt homines panes meridie.<verse eID="Gen.43.16" />
+        <verse sID="Gen.43.18" osisID="Gen.43.18" />... ut accipias nos in servos, et asinos nostros.<verse eID="Gen.43.18" />
+        <verse sID="Gen.43.21" osisID="Gen.43.21" />... aperuimus saccos nostros, et hoc argentum uniuscuiusque in sacco suo. Ad pondus argentum nostrum retulimus ...<verse eID="Gen.43.21" />
+        <verse sID="Gen.43.23" osisID="Gen.43.23" />... Propitius vobis, nolite timere. Deus vester, et Deus patrum vestrorum dedit vobis thesauros in saccis vestris. Argentum autem vestrum probatum habeo ...<verse eID="Gen.43.23" />
+        <verse sID="Gen.43.25" osisID="Gen.43.25" />Paraverunt autem munera, donec introiret Ioseph meridie ...<verse eID="Gen.43.25" />
+        <verse sID="Gen.43.26" osisID="Gen.43.26" />... et intulerunt ei munera ...<verse eID="Gen.43.26" />
+        <verse sID="Gen.43.27" osisID="Gen.43.27" />... Quomodo habetis? ... Recte est pater vester senior? ...<verse eID="Gen.43.27" />
+        <verse sID="Gen.43.28" osisID="Gen.43.28" />... Recte est puer tuus pater noster, adhuc vivit ...<verse eID="Gen.43.28" />
+        <verse sID="Gen.43.29" osisID="Gen.43.29" />Respiciens autem oculis, vidit Beniamin fratrem suum ex eadem matre ... Hic frater vester est adolescentior? ...<verse eID="Gen.43.29" />
+        <verse sID="Gen.43.30" osisID="Gen.43.30" />Et turbatus est. Torquebantur autem viscera eius ... ingressius in promptuarium, ploravit.<verse eID="Gen.43.30" />
+        <verse sID="Gen.43.31" osisID="Gen.43.31" />Et lavit faciem suam, et continuit se ... Apponite panes.<verse eID="Gen.43.31" />
+        <verse sID="Gen.43.32" osisID="Gen.43.32" />... non enim poterant Aegyptii manudcare cum Hebraeis panes. Abominatio est enim Aegyptiis.<verse eID="Gen.43.32" />
+        <verse sID="Gen.43.34" osisID="Gen.43.34" />... magnificata facta est autem pars Beniamin prae partibus omnium quincupliciter ad illorum. Biberunt autem, et inebriati sunt cum eo.<verse eID="Gen.43.34" />
+      </p>
+      <chapter eID="Gen.43" />
+      <chapter sID="Gen.44" osisID="Gen.44" />
+      <title>Chatper 44</title>
+      <p>
+        <verse sID="Gen.44.1" osisID="Gen.44.1" />... et pone argentum uniuscuiusque in ore sacculi.<verse eID="Gen.44.1" />
+        <verse sID="Gen.44.2" osisID="Gen.44.2" />Et condy meum argenteum mitte in sacculum iunioris ...<verse eID="Gen.44.2" />
+        <verse sID="Gen.44.6" osisID="Gen.44.6" />Inveniens autem eos, dixit secundum verba haec.<verse eID="Gen.44.6" />
+        <verse sID="Gen.44.7" osisID="Gen.44.7" />... Ut quid loquitur dominus secundum verba haec? Absit a pueris tuis facere secundum verbum hoc.<verse eID="Gen.44.7" />
+        <verse sID="Gen.44.9" osisID="Gen.44.9" />... Et nos autem erimus servi domino nostro.<verse eID="Gen.44.9" />
+        <verse sID="Gen.44.15" osisID="Gen.44.15" />... nesciebatis quia augurio auguratur homo qualis ego?<verse eID="Gen.44.15" />
+        <verse sID="Gen.44.34" osisID="Gen.44.34" />Quomodo autem ascendam ad patrem, cum puer non sit nobiscum, ut non videam mala, quae invenient patrem meum?<verse eID="Gen.44.34" />
+      </p>
+      <chapter eID="Gen.44" />
+      <chapter sID="Gen.45" osisID="Gen.45" />
+      <title>Chatper 45</title>
+      <p>
+        <verse sID="Gen.45.2" osisID="Gen.45.2" />... audierunt autem omnes Aegyptii, et auditum est in domo Pharaonis.<verse eID="Gen.45.2" />
+        <verse sID="Gen.45.3" osisID="Gen.45.3" />Dixit autem Ioseph ad fratres suos, Ego sum Ioseph. Adhuc pater meus vivit? ...<verse eID="Gen.45.3" />
+        <verse sID="Gen.45.4" osisID="Gen.45.4" />... Accedite ad me. Et accesserunt ad illum, et dixit, Ego sum Ioseph frater vester, quem vos tradidistis in Aegyptum.<verse eID="Gen.45.4" />
+        <verse sID="Gen.45.5" osisID="Gen.45.5" />Nunc ergo nolite moesti esse, neque vobis durum videatur quoniam huc me vendidistis. Ad vitam enim vestram misit me Deus ante vos.<verse eID="Gen.45.5" />
+        <verse sID="Gen.45.7" osisID="Gen.45.7" />Misit enim me Deus ante vos remanere vestrum reliquias super terram, et enutrire vestrum reiliquiarium magnum.<verse eID="Gen.45.7" />
+        <verse sID="Gen.45.9" osisID="Gen.45.9" />... Ascendite ad patrem meum, et dicite illi, Haec dicit filius tuus Ioseph, Fecit me Deus dominum totius terrae Aegypti. Descende ergo ad me. Ne steteris,<verse eID="Gen.45.9" />
+        <verse sID="Gen.45.10" osisID="Gen.45.10" />et habitabis in terra Gesem Arabiae. Et eris prope me tu, et filii tui, et filii filiorum tuorum ...<verse eID="Gen.45.10" />
+        <verse sID="Gen.45.16" osisID="Gen.45.16" />Et divulgata est vox in domo Pharaonis, dicentes, Venerunt fratres Ioseph ...<verse eID="Gen.45.16" />
+        <verse sID="Gen.45.17" osisID="Gen.45.17" />Dixit autem Pharao ad Ioseph, Dic fratribus tuis, Hoc facite, onerate vehicula vestra, et ite in terram Chanaan.<verse eID="Gen.45.17" />
+        <verse sID="Gen.45.21" osisID="Gen.45.21" />... et dedit illis cibaria in via.<verse eID="Gen.45.21" />
+        <verse sID="Gen.45.24" osisID="Gen.45.24" />Dimisit autem fratres suos, et abierunt. Et dixit illis Ioseph, Nolite irasci in via.<verse eID="Gen.45.24" />
+        <verse sID="Gen.45.25" osisID="Gen.45.25" />Et ascenderunt de Aegypto, et venerunt in terram Chanaan ad Iacob patrem suum.<verse eID="Gen.45.25" />
+        <verse sID="Gen.45.26" osisID="Gen.45.26" />Et nunciaverunt illi, dicentes, Quia Ioseph filius tuus vivit. Et ipse est princeps totius terrae Aegypti ... expavit mente, non enim credebat eis.<verse eID="Gen.45.26" />
+        <verse sID="Gen.45.28" osisID="Gen.45.28" />... Magnum mihi est si adhuc filius meus Ioseph vivit. Ibo, et videbo illum priusquam moriar.<verse eID="Gen.45.28" />
+      </p>
+      <chapter eID="Gen.45" />
+      <chapter sID="Gen.46" osisID="Gen.46" />
+      <title>Chatper 46</title>
+      <p>
+        <verse sID="Gen.46.1" osisID="Gen.46.1" />Et elevans se Israel, venit ad Puteum iuramenti, immolavitque hostiam Deo patris sui Isaac.<verse eID="Gen.46.1" />
+        <verse sID="Gen.46.2" osisID="Gen.46.2" />Dixit autem Deus ad Israel in visu nocte, dicens, Iacob, Iacob. Qui dixit, Quid est?<verse eID="Gen.46.2" />
+        <verse sID="Gen.46.3" osisID="Gen.46.3" />Et Dominus ait, Ego sum Deus patrum tuorum. Noli timere, descende in Aegyptum, in gentum enim magnam faciam te ibi.<verse eID="Gen.46.3" />
+        <verse sID="Gen.46.4" osisID="Gen.46.4" />Ego descendam tecum in Aegyptum, et ego deducam te in perpetuum. Ioseph mittet manum super oculos tuos.<verse eID="Gen.46.4" />
+        <verse sID="Gen.46.6" osisID="Gen.46.6" />... intrarunt in Aegyptum, Iacob, et omne semen eius,<verse eID="Gen.46.6" />
+        <verse sID="Gen.46.7" osisID="Gen.46.7" />filii, et filii filiorum eius, filiae, et filiae filiarum eius cum eo ...<verse eID="Gen.46.7" />
+        <verse sID="Gen.46.8" osisID="Gen.46.8" />Haec autem nomina filiorum Israel, qui intraverunt in Aegyptum simul cum Iacob patre suo ...<verse eID="Gen.46.8" />
+        <verse sID="Gen.46.15" osisID="Gen.46.15" />Hi filii Liae, quos peperit ipsi Iacob in Mesopotamia Syriae, et Dinam filiam eius. Omnia animae, filii et filiae eius, triginta tres.<verse eID="Gen.46.15" />
+        <verse sID="Gen.46.20" osisID="Gen.46.20" />... Facti sunt autem filii Manasse, quos genuit ei concubina Syra, Machir. Et Machir genuit Galaad. Filii autem Ephraim fratris Manasse, Suthalaam, et Thaam. Filii vero Suthalaam, Edem.<verse eID="Gen.46.20" />
+        <verse sID="Gen.46.25" osisID="Gen.46.25" />Hi filii Bala, quam dedit Laban Rachel filiae suae. Et peperit hos Iacob animas septem.<verse eID="Gen.46.25" />
+        <verse sID="Gen.46.26" osisID="Gen.46.26" />Omnes ergo animae, quae ingressae sunt cum Iacob Aegyptum, et quae exierunt de femoribus eius, absque mulieribus filiorum Iacob, animae sexaginta sex.<verse eID="Gen.46.26" />
+        <verse sID="Gen.46.27" osisID="Gen.46.27" />Filii autem Ioseph, qui nati sunt ei in Aegypto, animae novem. Omnes ergo animae, quae ingressae sunt cum Iacob in Aegyptum, septuaginta quinque.<verse eID="Gen.46.27" />
+        <verse sID="Gen.46.28" osisID="Gen.46.28" />Iudam vero misit ante se ad Ioseph, ut occurreret ei ad urbem Heroum in terram Ramesse.<verse eID="Gen.46.28" />
+        <verse sID="Gen.46.31" osisID="Gen.46.31" />... Ascendens nunciabo Pharaoni, et dicam ei, Fratres mei, et domus patris mei, qui erant in terra Chanaan, venerunt ad me.<verse eID="Gen.46.31" />
+        <verse sID="Gen.46.32" osisID="Gen.46.32" />Viri autem sunt pastores. Viri enim pecorum nutritores erant. Et iumenta, et oves, et omnia sua adduxerunt.<verse eID="Gen.46.32" />
+        <verse sID="Gen.46.34" osisID="Gen.46.34" />... abominatio est enim Aegyptiis omnis pastor ovium.<verse eID="Gen.46.34" />
+      </p>
+      <chapter eID="Gen.46" />
+      <chapter sID="Gen.47" osisID="Gen.47" />
+      <title>Chatper 47</title>
+      <p>
+        <verse sID="Gen.47.4" osisID="Gen.47.4" />... non sunt enim pascua pecoribus puerorum tuorum, invaluit enim fames in terra Chanaan ...<verse eID="Gen.47.4" />
+        <verse sID="Gen.47.5" osisID="Gen.47.5" />Et ait Pharao ad Ioseph, dicens, Pater tuus et fratres tui venerunt ad te.<verse eID="Gen.47.5" />
+        <verse sID="Gen.47.6" osisID="Gen.47.6" />Ecce terra Aegypti ante te est. In terra optima colloca patrem tuum et fratres tuos.<verse eID="Gen.47.6" />
+        <verse sID="Gen.47.8" osisID="Gen.47.8" />Dixit autem Pharao ad Iacob, Quot anni dierum vitae tuae?<verse eID="Gen.47.8" />
+        <verse sID="Gen.47.9" osisID="Gen.47.9" />Et Iacob dixit, Dies annorum vitae meae, quos habeo, centum triginta. Pusilli et mali fuerunt dies annorum vitae meae. Non pervenerunt in dies annorum vitae patrum meorum quos dies vixerunt.<verse eID="Gen.47.9" />
+        <verse sID="Gen.47.11" osisID="Gen.47.11" />... Et dedit eis possessionem in terra optima in terra Ramessem, sicut praecepit Pharao.<verse eID="Gen.47.11" />
+        <verse sID="Gen.47.12" osisID="Gen.47.12" />Et metiebatur triticum patri suo Ioseph ... triticum secundum corpus.<verse eID="Gen.47.12" />
+        <verse sID="Gen.47.13" osisID="Gen.47.13" />... invaluerat autem fames valde, et defecit terra Aegypti ...<verse eID="Gen.47.13" />
+        <verse sID="Gen.47.14" osisID="Gen.47.14" />... et intulit Ioseph omnem pecuniam in domum Pharaonis.<verse eID="Gen.47.14" />
+        <verse sID="Gen.47.15" osisID="Gen.47.15" />... venerunt autem omnes Aegyptii ad Ioseph, dicentes, Da nobis panes ...<verse eID="Gen.47.15" />
+        <verse sID="Gen.47.16" osisID="Gen.47.16" />Dixit autem illis Ioseph, Adducite pecora vestra, et dabo vobis panes pro pecoribus vestris, si defecit argentum.<verse eID="Gen.47.16" />
+        <verse sID="Gen.47.20" osisID="Gen.47.20" />... et facta est terra Pharaoni,<verse eID="Gen.47.20" />
+        <verse sID="Gen.47.22" osisID="Gen.47.22" />praeter terram sacerdotum tantum, non possedit Ioseph ...<verse eID="Gen.47.22" />
+        <verse sID="Gen.47.25" osisID="Gen.47.25" />... dixerunt, Sanasti nos, invenimus gratiam in conspectu domini nostri ...<verse eID="Gen.47.25" />
+        <verse sID="Gen.47.26" osisID="Gen.47.26" />Et posuit illis Ioseph in praeceptum usque in hodiernum diem in terra Aegypti, ut praestent quintas Pharaoni ...<verse eID="Gen.47.26" />
+        <verse sID="Gen.47.28" osisID="Gen.47.28" />... et fuerunt dies Iacob annorum vitae eius ...<verse eID="Gen.47.28" />
+        <verse sID="Gen.47.29" osisID="Gen.47.29" />... Si inveni gratiam in conspectu tuo, subiice manum tuam sub femore meo, et facias in me misericordiam et veritatem ...<verse eID="Gen.47.29" />
+        <verse sID="Gen.47.31" osisID="Gen.47.31" />Et dixit ei, Iura mihi. Et iuravit ei, et adoravit super caput virgae suae.<verse eID="Gen.47.31" />
+      </p>
+      <chapter eID="Gen.47" />
+      <chapter sID="Gen.48" osisID="Gen.48" />
+      <title>Chatper 48</title>
+      <p>
+        <verse sID="Gen.48.1" osisID="Gen.48.1" />... nunciatum est Ioseph, quia pater tuus turbatur. Et tulit duos filios secum, Manassen et Ephraim ...<verse eID="Gen.48.1" />
+        <verse sID="Gen.48.2" osisID="Gen.48.2" />... Et confortatus Israel sedit super lectulum.<verse eID="Gen.48.2" />
+        <verse sID="Gen.48.4" osisID="Gen.48.4" />... faciam te in congregationes gentium ...<verse eID="Gen.48.4" />
+        <verse sID="Gen.48.5" osisID="Gen.48.5" />Nunc ergo filii tui duo, qui facti sunt tibi in terra Aegypti, priusquam ad te venirem in Aegyptum, mei sunt. Ephraem et Manasse, tanquam Ruben et Simeon erunt mihi.<verse eID="Gen.48.5" />
+        <verse sID="Gen.48.6" osisID="Gen.48.6" />Natos autem si genueris postea, tibi erunt, in nomine fratrum suorum appellabuntur in sortibus eorum.<verse eID="Gen.48.6" />
+        <verse sID="Gen.48.7" osisID="Gen.48.7" />Ego autem cum venirem de Mesopotamia Syriae, mortua est mater tua Rachel in terra Chanaan in via Hippodromi, ut venirem Ephratha ...<verse eID="Gen.48.7" />
+        <verse sID="Gen.48.15" osisID="Gen.48.15" />... Deus qui pascit me a iuventute mea usque in hunc diem.<verse eID="Gen.48.15" />
+        <verse sID="Gen.48.16" osisID="Gen.48.16" />Angelus, qui liberavit me ex omnibus malis, benedicat pueros hos, et invocabitur in his nomen meum, et nomen patrum meorum ...<verse eID="Gen.48.16" />
+        <verse sID="Gen.48.17" osisID="Gen.48.17" />Ubi autem vidit Ioseph quoniam superposuit pater suus manum dexteram super caput Effraim, grave illi visum est. Et apprehendit Ioseph manum patris sui, auferre eam a capite Effraim, ad caput Manasse.<verse eID="Gen.48.17" />
+        <verse sID="Gen.48.18" osisID="Gen.48.18" />Dixit autem Ioseph ad patrem suum, Non sic, pater. Hic est primitivus meus, superpone dexteram tuam super caput eius.<verse eID="Gen.48.18" />
+        <verse sID="Gen.48.19" osisID="Gen.48.19" />Ille autem noluit, et dixit, Scio fili, scio. Et hic erit in populum, et hic exaltabitur. Sed frater eius iunior, maior illo erit. Et semen eius erit in multitudinem gentium.<verse eID="Gen.48.19" />
+        <verse sID="Gen.48.20" osisID="Gen.48.20" />... In vobis benedicetur Israel, dicentibus, Faciat vobis Deus sicut Ephraem et Manassen ...<verse eID="Gen.48.20" />
+        <verse sID="Gen.48.22" osisID="Gen.48.22" />Do tibi Sichimam praecipuam super omnes fratres tuos, quam accepi de manibus Amorrhaeorum in machaera mea et arcu.<verse eID="Gen.48.22" />
+      </p>
+      <chapter eID="Gen.48" />
+      <chapter sID="Gen.49" osisID="Gen.49" />
+      <title>Chatper 49</title>
+      <p>
+        <verse sID="Gen.49.1" osisID="Gen.49.1" />Vocavit Iacob filios suos, et dixit, Congregamini, ut annuntiem vobis quae occursura sunt vobis in novissimis diebus.<verse eID="Gen.49.1" />
+        <verse sID="Gen.49.2" osisID="Gen.49.2" />Congregamini, et audite filii Iacob, audite Israel patrem vestrum.<verse eID="Gen.49.2" />
+        <verse sID="Gen.49.3" osisID="Gen.49.3" />Ruben primitivus meus, tu virtus mea, et initium filiorum meorum. Durus portari, durus et temerarius.<verse eID="Gen.49.3" />
+        <verse sID="Gen.49.4" osisID="Gen.49.4" />Affecisti me contumelia, sicut aqua non esferveas, ascendisti enim in cubile patris tui. Tunc polluisti thorum, quando ascendisti.<verse eID="Gen.49.4" />
+        <verse sID="Gen.49.5" osisID="Gen.49.5" />Simeon et Levit fratres consummaverunt iniquitatem adinventionis suae.<verse eID="Gen.49.5" />
+        <verse sID="Gen.49.6" osisID="Gen.49.6" />In consilium eorum non veniat anima mea, et in congregationem illorum non contendant viscera mea, quoniam in ira sua occiderunt hominem, et in cupiditate sua subnervaverunt taurum.<verse eID="Gen.49.6" />
+        <verse sID="Gen.49.7" osisID="Gen.49.7" />Maledictus furor eorum, quia superbus et temerarius, et ira illorum, quia indurata est. Dividam eos in Iacob, et dispergam illos in Israel.<verse eID="Gen.49.7" />
+        <verse sID="Gen.49.8" osisID="Gen.49.8" />Iuda, te laudabunt fratres tui. Manus tuae super dorsum inimicorum tuorum. Te adorabunt filii patris tui.<verse eID="Gen.49.8" />
+        <verse sID="Gen.49.9" osisID="Gen.49.9" />Catulus leonis Iuda. Ex germinatione, fili mi, ascendisti. Recumbens dormisti ut leo, et ut catulus leonis, quis suscitabit eum?<verse eID="Gen.49.9" />
+        <verse sID="Gen.49.10" osisID="Gen.49.10" />NON DEFICIET princeps ex Iuda, et dux de femoribus eius, donec veniant quae reposita sunt ei, et ipse expectatio gentium.<verse eID="Gen.49.10" />
+        <verse sID="Gen.49.11" osisID="Gen.49.11" />Alligans ad vitem pullum suum, et cilicio pullum asinae suae. Lavabit in vino stolam suam, et in sanguine uvae amictum suum.<verse eID="Gen.49.11" />
+        <verse sID="Gen.49.12" osisID="Gen.49.12" />Fulvi oculi eius a vino, et dentes candidiores lacte.<verse eID="Gen.49.12" />
+        <verse sID="Gen.49.13" osisID="Gen.49.13" />Zabulon iuxta mare habitabit, et ipse secus accessus navium, et pertendet usque ad Sidonem.<verse eID="Gen.49.13" />
+        <verse sID="Gen.49.14" osisID="Gen.49.14" />Issachar bonum concupivit requiescens inter medias sortes.<verse eID="Gen.49.14" />
+        <verse sID="Gen.49.15" osisID="Gen.49.15" />Et videns requiem quia bona est, et terra quia pinguis, supposuit humerum suum ad laborandum, et factus est vir agricola.<verse eID="Gen.49.15" />
+        <verse sID="Gen.49.16" osisID="Gen.49.16" />Dan iudicabit populum suum tanquam et una tribus Israel.<verse eID="Gen.49.16" />
+        <verse sID="Gen.49.17" osisID="Gen.49.17" />Et factus est Dan ipsi serpens in via, sedens et in semita, mordens calcaneum equi, et cadet eques retrorsum.<verse eID="Gen.49.17" />
+        <verse sID="Gen.49.18" osisID="Gen.49.18" />SALUTEM expectans a Domino.<verse eID="Gen.49.18" />
+        <verse sID="Gen.49.19" osisID="Gen.49.19" />Gad, tentatio tentavit eum. Et ipse tentavit eos secus pedes.<verse eID="Gen.49.19" />
+        <verse sID="Gen.49.20" osisID="Gen.49.20" />Aser, pinguis eius panis, et ipse dabit escam principibus.<verse eID="Gen.49.20" />
+        <verse sID="Gen.49.21" osisID="Gen.49.21" />Nephtalim, vitis remissa, porrigens in gemine suo decorem.<verse eID="Gen.49.21" />
+        <verse sID="Gen.49.22" osisID="Gen.49.22" />Filius meus ampliatus Ioseph, filius meus adampliatus. Zelo appetitus filius meus, filius meus adolescentior, ad me revertere.<verse eID="Gen.49.22" />
+        <verse sID="Gen.49.23" osisID="Gen.49.23" />In quem consilium conferentes maledicebant, et intendebant in eum domini arcum.<verse eID="Gen.49.23" />
+        <verse sID="Gen.49.24" osisID="Gen.49.24" />Et contriti sunt cum potentia arcus eorum, et dissoluti sunt nervi brachiorum manuum eorum per manum potentis Iacob. Indeque praevaluit Israel a Deo patris tui.<verse eID="Gen.49.24" />
+        <verse sID="Gen.49.25" osisID="Gen.49.25" />Et adiuvit te Deus meus, et benedixit te benedictione coeli a summo, et benedictione terrae habentis omnia, propter benedictionem uberum et vulvae.<verse eID="Gen.49.25" />
+        <verse sID="Gen.49.26" osisID="Gen.49.26" />Benedictiones patris tui et matris tuae praevaluerunt super benedictiones montium manentium. Et desideria collium aeternorum erunt super caput Ioseph, et super verticem eorum, quibus praefuit, fratrum.<verse eID="Gen.49.26" />
+        <verse sID="Gen.49.27" osisID="Gen.49.27" />Beniamin lupus rapax, mane comedet adhuc, et ad vesperam dividet escam (principibus).<verse eID="Gen.49.27" />
+        <verse sID="Gen.49.32" osisID="Gen.49.32" />... Cessavit Iacob praecipiens filiis suis, et levans pedes super lectum, defecit. Et appositus est ad populum suum.<verse eID="Gen.49.32" />
+      </p>
+      <chapter eID="Gen.49" />
+      <chapter sID="Gen.50" osisID="Gen.50" />
+      <title>Chatper 50</title>
+      <p>
+        <verse sID="Gen.50.2" osisID="Gen.50.2" />... Praecepit Ioseph pueris sepultoribus, ut sepelirent eum. Et sepelierunt sepultores Israel.<verse eID="Gen.50.2" />
+        <verse sID="Gen.50.3" osisID="Gen.50.3" />Et repleti sunt ei quadraginta dies. Sic enim dinumerantur dies sepulturae. Et luxit eum Aegyptus septuaginta diebus.<verse eID="Gen.50.3" />
+        <verse sID="Gen.50.4" osisID="Gen.50.4" />... loquimini in aures Pharaonis ...<verse eID="Gen.50.4" />
+        <verse sID="Gen.50.5" osisID="Gen.50.5" />Pater meus adiuravit me, dicens, In monumento quod ego fodi mihi in terra Chanaan, ibi me sepelies ...<verse eID="Gen.50.5" />
+        <verse sID="Gen.50.6" osisID="Gen.50.6" />Et dixit Pharao ad Ioseph, Descende et sepeli patrem tuum ...<verse eID="Gen.50.6" />
+        <verse sID="Gen.50.7" osisID="Gen.50.7" />Et ascendit Ioseph sepelire patrem suum, et ascenderunt cum eo omnes pueri Pharaonis, et seniores domus eius, et seniores omnis terrae Aegypti,<verse eID="Gen.50.7" />
+        <verse sID="Gen.50.8" osisID="Gen.50.8" />et omnis domus Ioseph, et fratres eius ...<verse eID="Gen.50.8" />
+        <verse sID="Gen.50.9" osisID="Gen.50.9" />Et ascenderunt cum eo quadrigae, et equites. Et facta sunt castra grandia nimis.<verse eID="Gen.50.9" />
+        <verse sID="Gen.50.10" osisID="Gen.50.10" />Et advenerunt ad aream Atad, quae est trans Iordanem. Et planxerunt eum planctum magnum et validum, et fecit luctum patri suo septem dies.<verse eID="Gen.50.10" />
+        <verse sID="Gen.50.15" osisID="Gen.50.15" />... et redditione reddet nobis omnia mala quae ostendimus ei.<verse eID="Gen.50.15" />
+        <verse sID="Gen.50.17" osisID="Gen.50.17" />... accipe iniquitatem servorum Dei patris tui ...<verse eID="Gen.50.17" />
+        <verse sID="Gen.50.18" osisID="Gen.50.18" />Et venientes ad eum dixerunt ...<verse eID="Gen.50.18" />
+        <verse sID="Gen.50.20" osisID="Gen.50.20" />... quemadmodum fieret in hodierno, ut pasceretur populus multus.<verse eID="Gen.50.20" />
+        <verse sID="Gen.50.22" osisID="Gen.50.22" />Et habitavit Ioseph in Aegypto, ipse et fratres eius, et omnis cohabitatio patris eius. Et vixit annos centum et decem. Et vidit Ioseph filios Ephraem usque in tertiam generationem. Et filii Machir filii Manasse, nati sunt supra femora Ioseph.<verse eID="Gen.50.22" />
+      </p>
+      <chapter eID="Gen.50" />
+    </div>
+  </osisText>
+</osis>

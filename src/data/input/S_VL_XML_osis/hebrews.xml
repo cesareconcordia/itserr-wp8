@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="hebrews" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="hebrews">
+        <title>Hebrews</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">hebrews</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Hebrews</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="hebrews">
+      <title>Hebrews</title>
+      <chapter sID="hebrews.1" osisID="hebrews.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="hebrews.1.1" osisID="hebrews.1.1" />MULTIFARIE, multisque modis ante Deus locutus patribus in Prophetis: in novissimis<verse eID="hebrews.1.1" />
+        <verse sID="hebrews.1.2" osisID="hebrews.1.2" />diebus his locutus est nobis in filio, quem posuit haeredem omnium, per quem etiam fecit saecula:<verse eID="hebrews.1.2" />
+        <verse sID="hebrews.1.3" osisID="hebrews.1.3" />qui est splendor gloriae, et imago substantiae eius, ferens omnia verbo virtutis suae, per ipsum purificatione peccatorum facta, sedit in dexteram magnitudinis in excelsis:<verse eID="hebrews.1.3" />
+        <verse sID="hebrews.1.4" osisID="hebrews.1.4" />tanto melior facto Angelis, quanto procellentius his possidet nomen.<verse eID="hebrews.1.4" />
+        <verse sID="hebrews.1.5" osisID="hebrews.1.5" />Cui enim aliquando Angelorum dixit: Filius meus es tu, ego hodie generavi te ? Et iterum Ego ero illi in patrem, et ipse erit mihi in filio<verse eID="hebrews.1.5" />
+        <verse sID="hebrews.1.6" osisID="hebrews.1.6" />Deinde iterum cum inducit primogenitum in creatione, dicit: Et adorent illum omnes Angeli Dei.<verse eID="hebrews.1.6" />
+        <verse sID="hebrews.1.7" osisID="hebrews.1.7" />Et Angelus ipsius quidem dicit: Qui facit Angelos suos spiritum, et ministros suos ignem urentem.<verse eID="hebrews.1.7" />
+        <verse sID="hebrews.1.8" osisID="hebrews.1.8" />Ad filium autem: Thronus tuus Deus, in aeterno aeterni: et virga aequitatis, virga regni tui.<verse eID="hebrews.1.8" />
+        <verse sID="hebrews.1.9" osisID="hebrews.1.9" />Dilexisti aequitatem, et odisti iniquitatem: ideo linivit te Deus, Deus tuus oleum laetitiae prae participes tuos.<verse eID="hebrews.1.9" />
+        <verse sID="hebrews.1.10" osisID="hebrews.1.10" />Et : Tu initiis Domine fundasti terram : et opera manuum tuarum sunt coeli.<verse eID="hebrews.1.10" />
+        <verse sID="hebrews.1.11" osisID="hebrews.1.11" />Ipsi perient, tu autem permanebis, et omnes tanquam vestimentum veterascent:<verse eID="hebrews.1.11" />
+        <verse sID="hebrews.1.12" osisID="hebrews.1.12" />et tanquam amictum mutabis illos et tanquam vestimentum mutabuntur: tu autem ipse es, et anni tui non deficient.<verse eID="hebrews.1.12" />
+        <verse sID="hebrews.1.13" osisID="hebrews.1.13" />Ad quem autem Angelorum dixit aliquando: Sede a dextris meis, donec ponam inimicos tuos sub pedes tuos?<verse eID="hebrews.1.13" />
+        <verse sID="hebrews.1.14" osisID="hebrews.1.14" />Non enim omnes sunt ministri spiritus, in ministerio qui mittuntur propter possessuros salutem aeternam?<verse eID="hebrews.1.14" />
+      </p>
+      <chapter eID="hebrews.1" />
+      <chapter sID="hebrews.2" osisID="hebrews.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="hebrews.2.1" osisID="hebrews.2.1" />Ideo oportet nos amplius intueri quae audita sunt, ne casu lebemur.<verse eID="hebrews.2.1" />
+        <verse sID="hebrews.2.2" osisID="hebrews.2.2" />Si enim quod per Angelos praedicatum verbum, certissimum factum est, et omnis praevaricatio, et contumacia accepit iustam remunerationem:<verse eID="hebrews.2.2" />
+        <verse sID="hebrews.2.3" osisID="hebrews.2.3" />quomodo nos effugiemus, si tantam neglexerimus salutem? quaecunque initium accepissent praedicandi Deum, * ab his, qui audierunt, in nobis confirmata est<verse eID="hebrews.2.3" />
+        <verse sID="hebrews.2.4" osisID="hebrews.2.4" />adseverante Deo signis quoque , et prodigiis, et variis virtutibus, et Spiritus sancti divisionibus secundum ipsius voluptatem.<verse eID="hebrews.2.4" />
+        <verse sID="hebrews.2.5" osisID="hebrews.2.5" />Non enim Angelis subdidit saeculum futurum, de quo loquimur.<verse eID="hebrews.2.5" />
+        <verse sID="hebrews.2.6" osisID="hebrews.2.6" />Contestatus est autem quodam loco quis dicens: Quis est homo quod memor* es eum; aut filius hominis, qui visitas eum?<verse eID="hebrews.2.6" />
+        <verse sID="hebrews.2.7" osisID="hebrews.2.7" />Minorasti eum paulo minus ab Angelis: gloria et honore coronasti eum: et constituisti eum super opera manum tuarum.<verse eID="hebrews.2.7" />
+        <verse sID="hebrews.2.8" osisID="hebrews.2.8" />Omnia subiecisti sub pedibus eius. Subiiciendo autem omnia, nihil reliquit non subiectum. Modo autem nondum videmus omnia eius subiecta.<verse eID="hebrews.2.8" />
+        <verse sID="hebrews.2.9" osisID="hebrews.2.9" />Nam paulo quam Angelos minoratum videmus Iesum propter passionem mortis, gloria et *honore coronatum: ut gratiâ Dei, pro omnibus gustaret mortem.<verse eID="hebrews.2.9" />
+        <verse sID="hebrews.2.10" osisID="hebrews.2.10" />Decebat enim eum, pro quo omnia, et per quem omnia, multis filiis in gloriam adductis, ducem salutis eorum per passionem consummare.<verse eID="hebrews.2.10" />
+        <verse sID="hebrews.2.11" osisID="hebrews.2.11" />Qui enim sanctificat, et qui sanctificantur omnes ex uno. Quam ob causam non pudet eum fratres eius vocare, dicens:<verse eID="hebrews.2.11" />
+        <verse sID="hebrews.2.12" osisID="hebrews.2.12" />Renuntiabo nomen tuum fratribus meis: in media Ecclesia cantabo tibi.<verse eID="hebrews.2.12" />
+        <verse sID="hebrews.2.13" osisID="hebrews.2.13" />Et iterum: Ego ero fidens in illo. Et iterum: Ecce ego, et filii, quos mihi dedit Deus.<verse eID="hebrews.2.13" />
+        <verse sID="hebrews.2.14" osisID="hebrews.2.14" />Ergo quia filii participes sunt sanguinis, et carnis, similiter et ipse* particeps factus* eorumdem passione : ut per mortem, mortem destrueret, qui imperium habebat mortis, hoc est, diabolum:<verse eID="hebrews.2.14" />
+        <verse sID="hebrews.2.15" osisID="hebrews.2.15" />et liberaret hos, quodquod ii metu mortis semper vivendo obnoxii erant servituti.<verse eID="hebrews.2.15" />
+        <verse sID="hebrews.2.16" osisID="hebrews.2.16" />Nec enim statim Angelos adsumpsit, sed semen Abrahae suscepit.<verse eID="hebrews.2.16" />
+        <verse sID="hebrews.2.17" osisID="hebrews.2.17" />Unde debuit per omnia fratribus similari ut misericors fieret, et fidelis summus sacerdos ad Deum, ut expiaret peccata populi.<verse eID="hebrews.2.17" />
+        <verse sID="hebrews.2.18" osisID="hebrews.2.18" />In quo enim ipse expertus passus est, potest experientes adiuvare.<verse eID="hebrews.2.18" />
+      </p>
+      <chapter eID="hebrews.2" />
+      <chapter sID="hebrews.3" osisID="hebrews.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="hebrews.3.1" osisID="hebrews.3.1" />Propter quod, fratres sanctissimi, coelestis vocationis participes, intuimini Apostolum et principem constitutionis nostrae Iesum,<verse eID="hebrews.3.1" />
+        <verse sID="hebrews.3.2" osisID="hebrews.3.2" />fidelem esse creatori suo, sicut et Moyses in omni domo eius.<verse eID="hebrews.3.2" />
+        <verse sID="hebrews.3.3" osisID="hebrews.3.3" />Ampliorem enim hic gloriam, quam Moyses, consecutus est, quanto maiorem honorem habet domus is, qui praeparavit ipsam.<verse eID="hebrews.3.3" />
+        <verse sID="hebrews.3.4" osisID="hebrews.3.4" />Omnis enim domus aedificatur ab aliquo: qui autem omnia creavit, Deus.<verse eID="hebrews.3.4" />
+        <verse sID="hebrews.3.5" osisID="hebrews.3.5" />Et Moyses quidem fidelis in tota domo eius tanquam servus, in testimonio loquendorum:<verse eID="hebrews.3.5" />
+        <verse sID="hebrews.3.6" osisID="hebrews.3.6" />Christus autem tanquam filius in domo eius: quae domus nos sumus, si libertatem, et exultationem spei usque ad finem, firmam tenuerimus.<verse eID="hebrews.3.6" />
+        <verse sID="hebrews.3.7" osisID="hebrews.3.7" />Propter quod sicut dicit Spiritus sanctus: Hodie si vocem eius audieritis<verse eID="hebrews.3.7" />
+        <verse sID="hebrews.3.8" osisID="hebrews.3.8" />nolite obdurare corda vestra, sicut in exacerbationem secundum diem tentationis in solitudinem<verse eID="hebrews.3.8" />
+        <verse sID="hebrews.3.9" osisID="hebrews.3.9" />ubi tentaverunt patres* in experimento, et viderunt opera mea<verse eID="hebrews.3.9" />
+        <verse sID="hebrews.3.10" osisID="hebrews.3.10" />xl. annis : Ideo perosa est mihi gens ista et dixi: Semper errant in corde. Hi autem non cognoverunt vias meas<verse eID="hebrews.3.10" />
+        <verse sID="hebrews.3.11" osisID="hebrews.3.11" />sicut iuravi in ira mea: Si intrabunt in requiem meam.<verse eID="hebrews.3.11" />
+        <verse sID="hebrews.3.12" osisID="hebrews.3.12" />Videte itaque fratres, ne sit in aliquo vestrum cor malignum iniquitatis, discedendi a Deo vivente:<verse eID="hebrews.3.12" />
+        <verse sID="hebrews.3.13" osisID="hebrews.3.13" />sed consolamini vosmetipsos quotidie, donec Hodie vocatus, nec praeduretur ex vobis aliquis in errore peccati.<verse eID="hebrews.3.13" />
+        <verse sID="hebrews.3.14" osisID="hebrews.3.14" />Participes enim Christi facti sumus: si quidem principium substantiae usque ad finem* firmum tenuerimus.<verse eID="hebrews.3.14" />
+        <verse sID="hebrews.3.15" osisID="hebrews.3.15" />Cum dicitur: Hodie si vocem eius audieritis, nolite praedurare corda vestra, sicut in exacerbatione.<verse eID="hebrews.3.15" />
+        <verse sID="hebrews.3.16" osisID="hebrews.3.16" />Quidam enim audito exacerbaverunt: sed non omnes, qui exierunt de Agypto per Moysen.<verse eID="hebrews.3.16" />
+        <verse sID="hebrews.3.17" osisID="hebrews.3.17" />Quibus autem et perosus fuit xl. annis? Nonne his, qui peccaverunt, quorum ossa ceciderunt in solitudine?<verse eID="hebrews.3.17" />
+        <verse sID="hebrews.3.18" osisID="hebrews.3.18" />Quibus autem iuravit non * introituros in requiem suam, nisi contumaces?<verse eID="hebrews.3.18" />
+        <verse sID="hebrews.3.19" osisID="hebrews.3.19" />Et videmus, quia non potuerunt intrare propter incredulitatem.<verse eID="hebrews.3.19" />
+      </p>
+      <chapter eID="hebrews.3" />
+      <chapter sID="hebrews.4" osisID="hebrews.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="hebrews.4.1" osisID="hebrews.4.1" />Timeamus itaque ne derelicto mandato, intrare in requiem eius* neglexisse quis videatur.<verse eID="hebrews.4.1" />
+        <verse sID="hebrews.4.2" osisID="hebrews.4.2" />Nam et adnuntiatum nobis est, quemadmodum et illis: sed non profuit illis verbum auditus, non temperatum fide auditorum.<verse eID="hebrews.4.2" />
+        <verse sID="hebrews.4.3" osisID="hebrews.4.3" />Intramus enim in requiem, qui credimus: ut dixit: Sicut iuravi in ira mea: Si intrabunt in requiem meam: et cum opera ab origine mundi facta sunt.<verse eID="hebrews.4.3" />
+        <verse sID="hebrews.4.4" osisID="hebrews.4.4" />Dixit * iam alicubi de die septima sic: Et requievit Deus in die septima ab omnibus operibus suis.<verse eID="hebrews.4.4" />
+        <verse sID="hebrews.4.5" osisID="hebrews.4.5" />Et in hoc iterum sic: Et intrabunt in requiem meam.<verse eID="hebrews.4.5" />
+        <verse sID="hebrews.4.6" osisID="hebrews.4.6" />Ergo quia superest reliquos intrare in illam, et hi quidem primum, quibus* praedictum est, non intraverunt propter contumaciam:<verse eID="hebrews.4.6" />
+        <verse sID="hebrews.4.7" osisID="hebrews.4.7" />rursus aliam praefinivit diem, Hodie, in David dicendo, post tantum temporis, sicut antea dictum est: Hodie si vocem eius audieritis, nolite praedurare corda vestra.<verse eID="hebrews.4.7" />
+        <verse sID="hebrews.4.8" osisID="hebrews.4.8" />Quoniam si Iesus requiem dedisset illi, non de alio dixisset, Postera die.<verse eID="hebrews.4.8" />
+        <verse sID="hebrews.4.9" osisID="hebrews.4.9" />Ergo restat requies populo Dei.<verse eID="hebrews.4.9" />
+        <verse sID="hebrews.4.10" osisID="hebrews.4.10" />Qui enim intravit in requiem eius; et ipse requievit ab operibus suis, sicut a suis Deus.<verse eID="hebrews.4.10" />
+        <verse sID="hebrews.4.11" osisID="hebrews.4.11" />Festinemus itaque intrare, fratres, in illam requiem: ne aliquis eodem exemplo cadat a veritate.<verse eID="hebrews.4.11" />
+        <verse sID="hebrews.4.12" osisID="hebrews.4.12" />Vivum enim verbum Dei, et validum, et acutum, omni gladio acutissimum: et penetrans usque ad divisionem animae et spiritus, artuumque et medullarum, et * scrutator animi et cogitationis, et cogitationis cordis.<verse eID="hebrews.4.12" />
+        <verse sID="hebrews.4.13" osisID="hebrews.4.13" />Et non est * ulla creatio, quae non pareat ante illum: omnia autem nuda, et aperta oculis: eius, ante quem nobis oratio est.<verse eID="hebrews.4.13" />
+        <verse sID="hebrews.4.14" osisID="hebrews.4.14" />Habentes itaque sacerdotem magnum egressum coelos, Iesum filium Dei: teneamus confessionem.<verse eID="hebrews.4.14" />
+        <verse sID="hebrews.4.15" osisID="hebrews.4.15" />Nec enim* habemus sacerdotem, qui non possit adfici in infirmitatibus nostris: expertum in omnibus secundum similitudinem sine peccato.<verse eID="hebrews.4.15" />
+        <verse sID="hebrews.4.16" osisID="hebrews.4.16" />Accedamus itaque cum fiducia ad sedem gratiae: ut accipiamus misericordiam et pacem, ut inveniamus opportunum auxilium.<verse eID="hebrews.4.16" />
+      </p>
+      <chapter eID="hebrews.4" />
+      <chapter sID="hebrews.5" osisID="hebrews.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="hebrews.5.1" osisID="hebrews.5.1" />Omnis enim Sacerdos de hominibus * electus, pro hominibus constitutus* quae sunt Deo, ut offerat munera, et hostias pro peccatis:<verse eID="hebrews.5.1" />
+        <verse sID="hebrews.5.2" osisID="hebrews.5.2" />qui possit* ignorantibus, et errantibus: quoniam ipse gestat infirmitatem:<verse eID="hebrews.5.2" />
+        <verse sID="hebrews.5.3" osisID="hebrews.5.3" />et propter illam debet, sicut populo, sic et pro se offerre pro peccatis.<verse eID="hebrews.5.3" />
+        <verse sID="hebrews.5.4" osisID="hebrews.5.4" />Et non quis sibi sumit honorem, sed qui vocatur a Deo, non quemadmodum Aaron.<verse eID="hebrews.5.4" />
+        <verse sID="hebrews.5.5" osisID="hebrews.5.5" />Sic et Christus non se magnificavit fieri summum sacerdotem: sed qui locutus est ad illum: Filius meus es tu, ego hodie genui te.<verse eID="hebrews.5.5" />
+        <verse sID="hebrews.5.6" osisID="hebrews.5.6" />Sicut et alio loco dicit: Tu es sacerdos in aeternum, secundum ordinem Melchisedech.<verse eID="hebrews.5.6" />
+        <verse sID="hebrews.5.7" osisID="hebrews.5.7" />Qui in diebus carnis suae, precibus et supplicationis huic, qui possit eliberare eum de morte, cum voce magna et lacrymis oblatis, et exauditus a metu.<verse eID="hebrews.5.7" />
+        <verse sID="hebrews.5.8" osisID="hebrews.5.8" />Quanquam esset Filius, didicit a quibus passus est, subditionem:<verse eID="hebrews.5.8" />
+        <verse sID="hebrews.5.9" osisID="hebrews.5.9" />et perfectus, et omnibus operantibus sibi, causa salutis aeternae,<verse eID="hebrews.5.9" />
+        <verse sID="hebrews.5.10" osisID="hebrews.5.10" />vocatus a Deo summus sacerdos secundum ordinem Melchisedech.<verse eID="hebrews.5.10" />
+        <verse sID="hebrews.5.11" osisID="hebrews.5.11" />De quo nobis magnus sermo , et laboriosa quae interpretatio est: quoniam imbecilles facti estis auribus.<verse eID="hebrews.5.11" />
+        <verse sID="hebrews.5.12" osisID="hebrews.5.12" />Et cum deberetis esse magistri secundum tempus: iterum necesse est doceri vos quae sint elementa principii verborum Dei: et facti estis egentes lacte, et non solidae escae.<verse eID="hebrews.5.12" />
+        <verse sID="hebrews.5.13" osisID="hebrews.5.13" />Omnis enim, qui percipit* lacte, peritus verborum iustitiae est: parvolus enim adhuc est.<verse eID="hebrews.5.13" />
+        <verse sID="hebrews.5.14" osisID="hebrews.5.14" />Perfectorum est autem solida esca: quia propter* habitum sensus exercitatos habent ad discrimina boni et mali.<verse eID="hebrews.5.14" />
+      </p>
+      <chapter eID="hebrews.5" />
+      <chapter sID="hebrews.6" osisID="hebrews.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="hebrews.6.1" osisID="hebrews.6.1" />Relicto igitur initii Christi* verbo, ad perfectum tendamus, non iterum fundamentum diruentes poenitentiae ab operibus mortuis, et fidei ad Deum.<verse eID="hebrews.6.1" />
+        <verse sID="hebrews.6.2" osisID="hebrews.6.2" />baptismorum* doctrinae, impositionis manuum, et resurrectionis mortuorum, et iudicii aeterni.<verse eID="hebrews.6.2" />
+        <verse sID="hebrews.6.3" osisID="hebrews.6.3" />Et hoc faciemus, si quidem permiserit Deus.<verse eID="hebrews.6.3" />
+        <verse sID="hebrews.6.4" osisID="hebrews.6.4" />Difficile est enim* hos, qui semel* inluminati sunt, et gustaverunt donum coeleste, participesque facti sunt Spiritus sancti,<verse eID="hebrews.6.4" />
+        <verse sID="hebrews.6.5" osisID="hebrews.6.5" />et bonum gustaverunt Dei verbum, et* virtutes futuri saeculi,<verse eID="hebrews.6.5" />
+        <verse sID="hebrews.6.6" osisID="hebrews.6.6" />et lapsos eos, iterum renovare in poenitentiam, recrucientes in eis filium Dei, et populare.<verse eID="hebrews.6.6" />
+        <verse sID="hebrews.6.7" osisID="hebrews.6.7" />Terra enim sitiens, * bibens venientem in se saepe imbrem, generans herbam utilem his, propter quos colitur; recipit benedictionem a Deo<verse eID="hebrews.6.7" />
+        <verse sID="hebrews.6.8" osisID="hebrews.6.8" />nam quae promit spinas et tribulos, reproba, et devotationi proxuma: cuius finis incendium.<verse eID="hebrews.6.8" />
+        <verse sID="hebrews.6.9" osisID="hebrews.6.9" />Fidemus autem de vobis, carissimi, et meliora et proximiora saluti: nam et sic loquimur.<verse eID="hebrews.6.9" />
+        <verse sID="hebrews.6.10" osisID="hebrews.6.10" />Nec enim iniquus Deus, ut obliviscatur opus vestrum, et amorem quem ostendistis in nomine eius, ministrando sanctis, et audimus.<verse eID="hebrews.6.10" />
+        <verse sID="hebrews.6.11" osisID="hebrews.6.11" />Cupimus enim unumquemque vestrum eandem exhibere sollicitudinem ad confirmationem spei in sempiterno:<verse eID="hebrews.6.11" />
+        <verse sID="hebrews.6.12" osisID="hebrews.6.12" />ne sitis aegri, imitatores autem horum, qui per fidem, et patientiam potiuntur* repromissiones.<verse eID="hebrews.6.12" />
+        <verse sID="hebrews.6.13" osisID="hebrews.6.13" />Cum enim Abrahae repromisisset Deus quoniam nullum alium * habuit maiorem, per quem iuraret, iuravit per seipsum,<verse eID="hebrews.6.13" />
+        <verse sID="hebrews.6.14" osisID="hebrews.6.14" />dicens : Nisi benedicendo benedixero te , et multiplicando multiplicabo te.<verse eID="hebrews.6.14" />
+        <verse sID="hebrews.6.15" osisID="hebrews.6.15" />Et sic per patientiam* potitus est promissionem.<verse eID="hebrews.6.15" />
+        <verse sID="hebrews.6.16" osisID="hebrews.6.16" />Homines enim per maiorem iurant: et omni * controversiâ eorum novissimum, in* observationem, iurandum intervenit.<verse eID="hebrews.6.16" />
+        <verse sID="hebrews.6.17" osisID="hebrews.6.17" />In quo primum Deus volens ostendere haeredibus repromissionis* immobilitatem voluntatis suae, interposuit iusiurandum:<verse eID="hebrews.6.17" />
+        <verse sID="hebrews.6.18" osisID="hebrews.6.18" />ut per duas res immobiles, in quibus impossibile est mentiri Deum, fortissimum solatium *habeamus, qui confugimus tenere propositam spem:<verse eID="hebrews.6.18" />
+        <verse sID="hebrews.6.19" osisID="hebrews.6.19" />quam ut anchoram habemus animae tutam et fortissimam et incedentem usque in interiora velaminis:<verse eID="hebrews.6.19" />
+        <verse sID="hebrews.6.20" osisID="hebrews.6.20" />ubi praecursor pro nobis intravit Iesus, secundum ordinem Melchisedech sacerdos factus in perpetuum.<verse eID="hebrews.6.20" />
+      </p>
+      <chapter eID="hebrews.6" />
+      <chapter sID="hebrews.7" osisID="hebrews.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="hebrews.7.1" osisID="hebrews.7.1" />Hic enim Melchisedech, rex Salem, sacerdos Dei altissimi, qui obviavit Abrahae regresso a caede regum; cumque eum benedixisset, et Abraham benedictus ab eo:<verse eID="hebrews.7.1" />
+        <verse sID="hebrews.7.2" osisID="hebrews.7.2" />cui et decimam omnium divisit eum: primum quidem interpretatur rex iustitiae: deinde rex Salem, quod, rex pacis,<verse eID="hebrews.7.2" />
+        <verse sID="hebrews.7.3" osisID="hebrews.7.3" />sine patre, sine matre, sine genealogia neque initium dierum, neque vitae finem habens, * similatus autem Filio Dei, manet sacerdos in perpetuum.<verse eID="hebrews.7.3" />
+        <verse sID="hebrews.7.4" osisID="hebrews.7.4" />Videtis autem quantus sit hic, cui decimas Abraham dedit de primitivis principens patri.<verse eID="hebrews.7.4" />
+        <verse sID="hebrews.7.5" osisID="hebrews.7.5" />Et *hi, qui de filiis Levi sunt, sacerdotium accipientes, mandatum habent decimas sumere a populo secundum legem, id est, * fratres suos: quanquam qui exierunt de semine Abrahae.<verse eID="hebrews.7.5" />
+        <verse sID="hebrews.7.6" osisID="hebrews.7.6" />Qui autem non enumeratur de his, decimas sumsit Abraham, et hunc, qui habebat repromissiones, benedixit.<verse eID="hebrews.7.6" />
+        <verse sID="hebrews.7.7" osisID="hebrews.7.7" />Sine ulla autem controversia, quod minimum est, a meliore benedicitur.<verse eID="hebrews.7.7" />
+        <verse sID="hebrews.7.8" osisID="hebrews.7.8" />Et * hîc quidem, decimas morientes homines accipiunt: ibi autem contestatur, quia vivit.<verse eID="hebrews.7.8" />
+        <verse sID="hebrews.7.9" osisID="hebrews.7.9" />Et (quemadmodum dicam)* Abraham, et Levi, qui decimas accepit, decimatus est :<verse eID="hebrews.7.9" />
+        <verse sID="hebrews.7.10" osisID="hebrews.7.10" />adhuc enim in utero patris erat, quando obviavit eum Melchisedech.<verse eID="hebrews.7.10" />
+        <verse sID="hebrews.7.11" osisID="hebrews.7.11" />Si ergo consummatio per sacerdotium Levitarum erat (populus enim in* illos legem accepit) quid adhuc necesse est secundum ordinem Melchisedech alium sacerdotem surgere, et non secundum Aaron dici?<verse eID="hebrews.7.11" />
+        <verse sID="hebrews.7.12" osisID="hebrews.7.12" />Translato enim sacerdotio, necesse est et legis translatio fiat.<verse eID="hebrews.7.12" />
+        <verse sID="hebrews.7.13" osisID="hebrews.7.13" />In quo enim haec* dicitur, de alia tribu est, de qua tribu nullus praesto fuit ad aram.<verse eID="hebrews.7.13" />
+        <verse sID="hebrews.7.14" osisID="hebrews.7.14" />Manifestum enim quoniam de Iuda ortus est Dominus noster: in qua tribu de sacerdotibus nihil Moses locutus est.<verse eID="hebrews.7.14" />
+        <verse sID="hebrews.7.15" osisID="hebrews.7.15" />Et amplius adhuc manifestum est; si secundum similitudinem Melchisedech surgit alius sacerdos:<verse eID="hebrews.7.15" />
+        <verse sID="hebrews.7.16" osisID="hebrews.7.16" />non secundum legem mandatum carnis factum est, sed secundum virtutem vitae infatigabilis.<verse eID="hebrews.7.16" />
+        <verse sID="hebrews.7.17" osisID="hebrews.7.17" />Contestatur enim: Quoniam tu es sacerdos in perpetuum, secundum ordinem Melchisedech.<verse eID="hebrews.7.17" />
+        <verse sID="hebrews.7.18" osisID="hebrews.7.18" />Intermittitur igitur praecedens mandatum, propter suam infirmitatem, et inutilitatem:<verse eID="hebrews.7.18" />
+        <verse sID="hebrews.7.19" osisID="hebrews.7.19" />quoniam nihil consummavit lex: introductio autem melioris spei, per quam* accedimus ad Deum.<verse eID="hebrews.7.19" />
+        <verse sID="hebrews.7.20" osisID="hebrews.7.20" />Nec quantum sine iureiurando sunt sacerdotes facti;<verse eID="hebrews.7.20" />
+        <verse sID="hebrews.7.21" osisID="hebrews.7.21" />hic autem* qui iureiurando, per eum, qui dixit ad illum: Iuravit Dominus, et non poenitebit: tu es sacerdos in perpetuum, secundum ordinem Melchisedech.<verse eID="hebrews.7.21" />
+        <verse sID="hebrews.7.22" osisID="hebrews.7.22" />Et ideo tanto melior testamenti factus est sponsor Iesus.<verse eID="hebrews.7.22" />
+        <verse sID="hebrews.7.23" osisID="hebrews.7.23" />Et illi quidem plures sacerdotes facti sunt, ideo quod morte prohiberentur permanere:<verse eID="hebrews.7.23" />
+        <verse sID="hebrews.7.24" osisID="hebrews.7.24" />is autem, eo quod maneat in* aeternum, sempiternum habet sacerdotium.<verse eID="hebrews.7.24" />
+        <verse sID="hebrews.7.25" osisID="hebrews.7.25" />Unde et salvos in perpetuum potest facere * accedentes per ipsum ad Deum: semper vivens ad exorandum pro his.<verse eID="hebrews.7.25" />
+        <verse sID="hebrews.7.26" osisID="hebrews.7.26" />Talis enim nobis decebat sacerdos, iustus, innocens, immaculatus, segregatus a peccatoribus, et excelsior * coelis factus:<verse eID="hebrews.7.26" />
+        <verse sID="hebrews.7.27" osisID="hebrews.7.27" />qui non habet quotidie necesse, quemadmodum sacerdotes, prius pro suis delictis hostiam offerre, deinde * pro populi : hoc enim fecit semel, se offerendo.<verse eID="hebrews.7.27" />
+        <verse sID="hebrews.7.28" osisID="hebrews.7.28" />Lex enim constituit sacerdotes homines habentes infirmitatem: verbum autem * iurisiurandi, quod post legem est, Filium in aeternum perfectum.<verse eID="hebrews.7.28" />
+      </p>
+      <chapter eID="hebrews.7" />
+      <chapter sID="hebrews.8" osisID="hebrews.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="hebrews.8.1" osisID="hebrews.8.1" />Capitulum autem super ea, quae dicimus: Talem habemus Sacerdotem, qui* sedet in dexteram sedis magnitudinis in coelis<verse eID="hebrews.8.1" />
+        <verse sID="hebrews.8.2" osisID="hebrews.8.2" />sanctorum minister, et tabernaculi veri, quod fixit Deus, non homo.<verse eID="hebrews.8.2" />
+        <verse sID="hebrews.8.3" osisID="hebrews.8.3" />Omnis enim sacerdos ad offerenda munera et hostias constituitur: unde necesse sit * aliqui hunc habere aliquid, quod offerat:<verse eID="hebrews.8.3" />
+        <verse sID="hebrews.8.4" osisID="hebrews.8.4" />si ergo esset super terram, nec esset sacerdos: aliis offerentibus secundum legem munera<verse eID="hebrews.8.4" />
+        <verse sID="hebrews.8.5" osisID="hebrews.8.5" />qui exemplari, et umbra serviunt in coelestium. Sicut et responsum est Moysi, cum consummat tabernaculum: Vide (inquit) facis omnia secundum exemplar, quod tibi ostensum est in monte.<verse eID="hebrews.8.5" />
+        <verse sID="hebrews.8.6" osisID="hebrews.8.6" />Nunc autem melius sortitus est ministerium quanto et melioris testamenti interventor est quod in melioribus repromissionibus sancitum est.<verse eID="hebrews.8.6" />
+        <verse sID="hebrews.8.7" osisID="hebrews.8.7" />Nam si illud prius culpa vacasset: non * secundus inquireretur locus.<verse eID="hebrews.8.7" />
+        <verse sID="hebrews.8.8" osisID="hebrews.8.8" />Vituperans enim eos dicit: Ecce dies venient, dicit Dominus: et disponam * domui Israel, et domui Iuda, testamentum novum;<verse eID="hebrews.8.8" />
+        <verse sID="hebrews.8.9" osisID="hebrews.8.9" />non secundum testamentum, quale fecit patribus illorum in die, qua apprehendit manum eorum* educere illos de Terra Aegypti: quoniam ipsi non permanserunt in testamento meo, et ego neglexi illorum, dicit Dominus.<verse eID="hebrews.8.9" />
+        <verse sID="hebrews.8.10" osisID="hebrews.8.10" />Quoniam hoc testamentum, quod disponam domui Israel post dies illos, dicit Dominus: Dando leges meas in sensibus eorum, et in cordibus eorum superscribam eas: et ero eorum Deus, et ipsi erunt mihi populus:<verse eID="hebrews.8.10" />
+        <verse sID="hebrews.8.11" osisID="hebrews.8.11" />et non docebunt singuli civem suum, vel fratrem, dicens : Cognosce Deum: quoniam omnes scient me a minore usque ad maiorem eorum:<verse eID="hebrews.8.11" />
+        <verse sID="hebrews.8.12" osisID="hebrews.8.12" />quia propitius ero malitiae eorum, et peccati illorum, et * iniustitiis eorum iam non memorabor.<verse eID="hebrews.8.12" />
+        <verse sID="hebrews.8.13" osisID="hebrews.8.13" />Dicendo autem novum, veteravit prius. Quod autem veteratur, et senescit, prope interitum est.<verse eID="hebrews.8.13" />
+      </p>
+      <chapter eID="hebrews.8" />
+      <chapter sID="hebrews.9" osisID="hebrews.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="hebrews.9.1" osisID="hebrews.9.1" />Habebat autem et quidem* prius constitutiones culturae, Sanctum saeculare.<verse eID="hebrews.9.1" />
+        <verse sID="hebrews.9.2" osisID="hebrews.9.2" />Tabernaculum enim factum est primum, in quo candelabrum, et mensa, et propositio panum, * quod dicitur Sancta sanctorum.<verse eID="hebrews.9.2" />
+        <verse sID="hebrews.9.3" osisID="hebrews.9.3" />Post velamentum autem secundum, tabernaculum, quod dixit Sanctum sanctorum:<verse eID="hebrews.9.3" />
+        <verse sID="hebrews.9.4" osisID="hebrews.9.4" />aureum habens altare, et arcam testamenti tectam undique auro, in qua urna aurea habens manna, et virga Aaron, quae florierat, et tabulae testamenti,<verse eID="hebrews.9.4" />
+        <verse sID="hebrews.9.5" osisID="hebrews.9.5" />super eam Cherubim gloriae, et tegentes expiationem: de quibus modo non est dicendum per singula.<verse eID="hebrews.9.5" />
+        <verse sID="hebrews.9.6" osisID="hebrews.9.6" />His autem ita aptatis; priori quidem tabernaculo semper intrabant sacerdotes, ministeria consummare:<verse eID="hebrews.9.6" />
+        <verse sID="hebrews.9.7" osisID="hebrews.9.7" />in secundo autem semel in anno singularis summus sacerdos, non sine sanguine, quem* offert pro se, et populi delictis:<verse eID="hebrews.9.7" />
+        <verse sID="hebrews.9.8" osisID="hebrews.9.8" />hoc significante Spiritu sancto, nondum * propalatam esse sanctorum viam, adhuc priore tabernaculo* habente virtutem:<verse eID="hebrews.9.8" />
+        <verse sID="hebrews.9.9" osisID="hebrews.9.9" />quae prior parabola in tempore: in quo munera, et hostiae offeruntur, quae non possunt conscientiâ* consummare servientes, solum in cibis, et potu,<verse eID="hebrews.9.9" />
+        <verse sID="hebrews.9.10" osisID="hebrews.9.10" />et variis baptismis, iustitia carnis usque ad tempus restitutionis imposita.<verse eID="hebrews.9.10" />
+        <verse sID="hebrews.9.11" osisID="hebrews.9.11" />Christus autem, sacerdos quando* advenit bonorum factorum, per amplius et perfectum tabernaculum non manufactum, id est, non huius creationis;<verse eID="hebrews.9.11" />
+        <verse sID="hebrews.9.12" osisID="hebrews.9.12" />neque per sanguinem hircorum, et vitulorum, sed per suum sanguinem intravit semel in Sanctis, aeterna expiatione reperta.<verse eID="hebrews.9.12" />
+        <verse sID="hebrews.9.13" osisID="hebrews.9.13" />Si enim sanguis hircorum, et taurorum et cinis vitulae sparsus. *inquinatos sanctificat ad carnem emundandam:<verse eID="hebrews.9.13" />
+        <verse sID="hebrews.9.14" osisID="hebrews.9.14" />quanto magis sanguis Christi, qui per Spiritum sanctum seipsum obtulit immaculatum Deo: qui emundavit conscientiam nostram ab operibus mortuis, ut serviamus Deo viventi?<verse eID="hebrews.9.14" />
+        <verse sID="hebrews.9.15" osisID="hebrews.9.15" />Et ideo novi testamenti arbiter est; ut morte intercedente, in redemptione veteris testamenti praevaricationum, promissionem * accipiant, qui vocati sunt * aeternae haereditatis.<verse eID="hebrews.9.15" />
+        <verse sID="hebrews.9.16" osisID="hebrews.9.16" />Ubi enim testamentum, mors necesse est intercedat testatoris.<verse eID="hebrews.9.16" />
+        <verse sID="hebrews.9.17" osisID="hebrews.9.17" />Testamentum enim in mortuis confirmatur: quoniam nondum valet, dum vivit qui testatur.<verse eID="hebrews.9.17" />
+        <verse sID="hebrews.9.18" osisID="hebrews.9.18" />Unde pridem prius testamentum non sine sanguine dedicatum est.<verse eID="hebrews.9.18" />
+        <verse sID="hebrews.9.19" osisID="hebrews.9.19" />Lecto enim omni testamento secundum legem per Moysen universo populo, accepto sanguine hircorum, et vitulorum, cum aqua, et lana coccinea, et hyssopo; ipsum quoque librum, et omnem populum aspersit,<verse eID="hebrews.9.19" />
+        <verse sID="hebrews.9.20" osisID="hebrews.9.20" />dicens: Hic sanguis testamenti, quod mandavit ad vos Deus.<verse eID="hebrews.9.20" />
+        <verse sID="hebrews.9.21" osisID="hebrews.9.21" />Ipsum etiam tabernaculum, et omnia vasa ministerii * sanguine similiter aspersit.<verse eID="hebrews.9.21" />
+        <verse sID="hebrews.9.22" osisID="hebrews.9.22" />Et pene in sanguine omnia emundantur secundum legem: et sine sanguinis fusione non fit remissio.<verse eID="hebrews.9.22" />
+        <verse sID="hebrews.9.23" osisID="hebrews.9.23" />Necessario itaque exemplaria coelestium his mundari: nam ipsa coelestia melioribus hostiis quam istis.<verse eID="hebrews.9.23" />
+        <verse sID="hebrews.9.24" osisID="hebrews.9.24" />Non enim in manufactis Sanctis intravit Christus exemplarium veritatis: sed in ipso coelo modo apparuit* personae Dei pro nobis:<verse eID="hebrews.9.24" />
+        <verse sID="hebrews.9.25" osisID="hebrews.9.25" />Sed neque ut saepe offerat se, quemadmodum Sacerdos intrat in Sanctis per singulos annos in sanguine alieno:<verse eID="hebrews.9.25" />
+        <verse sID="hebrews.9.26" osisID="hebrews.9.26" />caeterum oportebat eum aliquotiens pati ab origine mundi: nunc autem semel * in comsummatione saeculorum, ad destituendum peccatum, per sanguinem suum apparuit.<verse eID="hebrews.9.26" />
+        <verse sID="hebrews.9.27" osisID="hebrews.9.27" />Et quemadmodum statutum est hominibus semel mori, et postea iudicari :<verse eID="hebrews.9.27" />
+        <verse sID="hebrews.9.28" osisID="hebrews.9.28" />sic et Christus semel oblatus ad multorum exhaurienda peccata; secundo sine peccato apparebit expectantibus eum, in salutem.<verse eID="hebrews.9.28" />
+      </p>
+      <chapter eID="hebrews.9" />
+      <chapter sID="hebrews.10" osisID="hebrews.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="hebrews.10.1" osisID="hebrews.10.1" />Umbram enim habens lex futurorum bonorum, non in ipsa persona rerum; per singulos annos iisdem hostiis, quas offerunt infrequentiam, nunquam potest accedentes emundare:<verse eID="hebrews.10.1" />
+        <verse sID="hebrews.10.2" osisID="hebrews.10.2" />nam nec cessassent offerri: idcirco quod nullam haberent conscientiam peccati, qui observantes semel purgati.<verse eID="hebrews.10.2" />
+        <verse sID="hebrews.10.3" osisID="hebrews.10.3" />sed in ipsis memoratio peccatorum per singulos annos fit:<verse eID="hebrews.10.3" />
+        <verse sID="hebrews.10.4" osisID="hebrews.10.4" />difficile enim est sanguine taurorum et hircorum auferri peccata.<verse eID="hebrews.10.4" />
+        <verse sID="hebrews.10.5" osisID="hebrews.10.5" />Ideoque incedens in orbem dicit: Hostiam et oblationem noluisti: corpus autem aptasti mihi:<verse eID="hebrews.10.5" />
+        <verse sID="hebrews.10.6" osisID="hebrews.10.6" />* holocaustomata et pro peccato non tibi placuerunt.<verse eID="hebrews.10.6" />
+        <verse sID="hebrews.10.7" osisID="hebrews.10.7" />Tunc dixi: Ego ecce venio : in volumine libri scriptum est de me: Ut * faciam, Deus, voluntatem tuam.<verse eID="hebrews.10.7" />
+        <verse sID="hebrews.10.8" osisID="hebrews.10.8" />Superius dicens: Quoniam hostias, et oblationes, et * holocaustomata, et pro peccatis noluisti, nec placuit tibi, quae secundum legem offeruntur<verse eID="hebrews.10.8" />
+        <verse sID="hebrews.10.9" osisID="hebrews.10.9" />tunc dixit: Ecce venio, ut * faciam voluntatem tuam: retollet primum, ut secundum stet.<verse eID="hebrews.10.9" />
+        <verse sID="hebrews.10.10" osisID="hebrews.10.10" />In qua voluntate sanctificati sumus per* oblationem sanguinis Iesu Christi semel.<verse eID="hebrews.10.10" />
+        <verse sID="hebrews.10.11" osisID="hebrews.10.11" />Et omnis quidem sacerdos praesto est quotidie ministrans, easdem saepe offerens hostias quae nunquam possunt auferre peccata:<verse eID="hebrews.10.11" />
+        <verse sID="hebrews.10.12" osisID="hebrews.10.12" />hic autem,* unâ pro peccatis oblatâ hostiâ, in sempiterno sedet in dextera Dei<verse eID="hebrews.10.12" />
+        <verse sID="hebrews.10.13" osisID="hebrews.10.13" />postea exspectans donec ponantur inimici eius scabellum pedum eius.<verse eID="hebrews.10.13" />
+        <verse sID="hebrews.10.14" osisID="hebrews.10.14" />Una enim oblatione, consummavit in sempiternum nos sanctificans.<verse eID="hebrews.10.14" />
+        <verse sID="hebrews.10.15" osisID="hebrews.10.15" />Contestatur autem nobis et Spiritus sanctus. Cum enim dixerit:<verse eID="hebrews.10.15" />
+        <verse sID="hebrews.10.16" osisID="hebrews.10.16" />Hoc testamentum, quod testabor ad illos post dies illos, dicit Dominus, Dando leges meas in cordibus eorum, et in sensibus eorum superscribam eas:<verse eID="hebrews.10.16" />
+        <verse sID="hebrews.10.17" osisID="hebrews.10.17" />* et peccati, et sceleris eorum iam non memorabor.<verse eID="hebrews.10.17" />
+        <verse sID="hebrews.10.18" osisID="hebrews.10.18" />Ubi ergo remissio eorum: iam non oblatio pro peccatis.<verse eID="hebrews.10.18" />
+        <verse sID="hebrews.10.19" osisID="hebrews.10.19" />Habentes itaque fratres libertatem ad * introitum sanctorum in sanguinem Iesu,<verse eID="hebrews.10.19" />
+        <verse sID="hebrews.10.20" osisID="hebrews.10.20" />in qua initiavit nobis viam novam, et viventem per velamen, id est, carnem eius,<verse eID="hebrews.10.20" />
+        <verse sID="hebrews.10.21" osisID="hebrews.10.21" />et sacerdotem magnum in domo Dei:<verse eID="hebrews.10.21" />
+        <verse sID="hebrews.10.22" osisID="hebrews.10.22" />accedamus cum certo corde in confirmatione * fidei, adsparsi corda a conscientia mala, et abluti corpus aqua munda,<verse eID="hebrews.10.22" />
+        <verse sID="hebrews.10.23" osisID="hebrews.10.23" />et teneamus spei * confessionem inpraevaricabilem, (fidelis enim qui repromisit)<verse eID="hebrews.10.23" />
+        <verse sID="hebrews.10.24" osisID="hebrews.10.24" />et aspiciamus invicem in* provocationem amoris, et bonorum operum:<verse eID="hebrews.10.24" />
+        <verse sID="hebrews.10.25" osisID="hebrews.10.25" />non deserentes collectionem nostram, sicut et consuetudini quibusdam, sed consolamini tanto magis, quanto vides appropinquantem diem.<verse eID="hebrews.10.25" />
+        <verse sID="hebrews.10.26" osisID="hebrews.10.26" />Ultro enim peccantibus nobis post accepta notitia veritatis, iam non restat peccatis* hostiam offerre,<verse eID="hebrews.10.26" />
+        <verse sID="hebrews.10.27" osisID="hebrews.10.27" />horribilis autem quidam execratio* iudicii et ignis aemulatio, quae consumptura est adversarios.<verse eID="hebrews.10.27" />
+        <verse sID="hebrews.10.28" osisID="hebrews.10.28" />Cum enim quidam* relinqueret legem Moysi, sine ulla miseratione , et lacrymis, duobus vel tribus testibus moritur:<verse eID="hebrews.10.28" />
+        <verse sID="hebrews.10.29" osisID="hebrews.10.29" />quanto magis, putatis, deteriora deprecabitur vindictae, qui filium Dei inculcaverit, et sanguinem testamenti communem aestimaverit. in quo sanctificatus est, et * spiritui gratiae contumeliam fecerit?<verse eID="hebrews.10.29" />
+        <verse sID="hebrews.10.30" osisID="hebrews.10.30" />Nam scimus qui dixit: Mihi vindictam ego reddam. Et iterum: Quia iudicat Dominus populum suum.<verse eID="hebrews.10.30" />
+        <verse sID="hebrews.10.31" osisID="hebrews.10.31" />Horribile autem est incidere in manus Dei viventis.<verse eID="hebrews.10.31" />
+        <verse sID="hebrews.10.32" osisID="hebrews.10.32" />Rememoramini igitur pristinos dies, in quibus illuminati, magnum certamen* sustinuistis passionum<verse eID="hebrews.10.32" />
+        <verse sID="hebrews.10.33" osisID="hebrews.10.33" />spectaculo improperantium, et * angustiis subiecti: et socii* taliter conversantium facti.<verse eID="hebrews.10.33" />
+        <verse sID="hebrews.10.34" osisID="hebrews.10.34" />Nam et vinculis eorum consensistis, et rapinam substantiae vestrae cum gaudio exspectastis, scientes vos habere meliorem substantiam,* et manentem.<verse eID="hebrews.10.34" />
+        <verse sID="hebrews.10.35" osisID="hebrews.10.35" />Nolite itaque amittere libertatem vestram, quae magnam habet remunerationem.<verse eID="hebrews.10.35" />
+        <verse sID="hebrews.10.36" osisID="hebrews.10.36" />* Perseverantes enim, vobis necesse est, ut voluntate Dei consummata, percipiatis repromissionem.<verse eID="hebrews.10.36" />
+        <verse sID="hebrews.10.37" osisID="hebrews.10.37" />Adhuc enim modicum, donec qui venturus est, veniat, et non * tardabit:<verse eID="hebrews.10.37" />
+        <verse sID="hebrews.10.38" osisID="hebrews.10.38" />nam iustus ex fide mea vivit: et si* subtrahet se, non placebit animae meae in eo.<verse eID="hebrews.10.38" />
+        <verse sID="hebrews.10.39" osisID="hebrews.10.39" />Nos quidem non simus per vestigium in perditionem, sed fidei in renascenti animae.<verse eID="hebrews.10.39" />
+      </p>
+      <chapter eID="hebrews.10" />
+      <chapter sID="hebrews.11" osisID="hebrews.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="hebrews.11.1" osisID="hebrews.11.1" />Est autem fides * sperantium substantia rerum, accusator non videntium.<verse eID="hebrews.11.1" />
+        <verse sID="hebrews.11.2" osisID="hebrews.11.2" />In* testimonium consecuti sunt seniores.<verse eID="hebrews.11.2" />
+        <verse sID="hebrews.11.3" osisID="hebrews.11.3" />Fide scimus aptata esse saecula verbo Dei; ut ex non apparentibus id quod videtur* factis.<verse eID="hebrews.11.3" />
+        <verse sID="hebrews.11.4" osisID="hebrews.11.4" />Fide Abel plurimam hostiam, quam Cain, obtulit Deo, per* quam testimonium consecutus est, iustus testificatur, perhibente muneribus Deo; et per illam defunctus adhuc nominatur.<verse eID="hebrews.11.4" />
+        <verse sID="hebrews.11.5" osisID="hebrews.11.5" />Fide Henoc translatus est ne videret mortem, et non* inveniebatur, quod transtulit illum Deus: ante translationem enim testimonium habet placuisse Deo.<verse eID="hebrews.11.5" />
+        <verse sID="hebrews.11.6" osisID="hebrews.11.6" />Sine fide autem non potuit placere. Credere enim oportet accedentem ad Deum quia est, et quia inquirentes se eum remunerat.<verse eID="hebrews.11.6" />
+        <verse sID="hebrews.11.7" osisID="hebrews.11.7" />Fide responso Noe accepto de his, quae non videbantur, metuens aptavit arcam in salutem domus suae, per quam damnavit saeculum: et fidei iustitiae haeres institutus est.<verse eID="hebrews.11.7" />
+        <verse sID="hebrews.11.8" osisID="hebrews.11.8" />Fide qui vocatur Abraham oboediit in locum exire, quem accepturus erat in *possessionem : et exivit, nesciens ubi veniret.<verse eID="hebrews.11.8" />
+        <verse sID="hebrews.11.9" osisID="hebrews.11.9" />Et demoratus est in Terra promissionis, tanquam in aliena, tabernaculis habitando cum Isaac, et Iacob cohaeredibus repromissionis eiusdem.<verse eID="hebrews.11.9" />
+        <verse sID="hebrews.11.10" osisID="hebrews.11.10" />Exspectabat enim fundamentum habentem civitatem: cuius artifex, et conditor Deus.<verse eID="hebrews.11.10" />
+        <verse sID="hebrews.11.11" osisID="hebrews.11.11" />Fide et ipsa Sarra sterilis virtutem in conceptionem seminis accepit, filium etiam super tempus aetatis: quia fidelem credidit esse repromissionem.<verse eID="hebrews.11.11" />
+        <verse sID="hebrews.11.12" osisID="hebrews.11.12" />Propter quod et ab uno orti sunt (et hoc emortuo) tanquam sidera coeli in multitudinem, et sicut arena maris innumerabilis.<verse eID="hebrews.11.12" />
+        <verse sID="hebrews.11.13" osisID="hebrews.11.13" />In fide defuncti sunt omnes, non acceptis repromissionibus, sed a longe aspectis, et salutantes, et confitentes quia peregrini , et hospites sunt super terram.<verse eID="hebrews.11.13" />
+        <verse sID="hebrews.11.14" osisID="hebrews.11.14" />Qui enim talia dicunt, significant se patriam inquirere.<verse eID="hebrews.11.14" />
+        <verse sID="hebrews.11.15" osisID="hebrews.11.15" />Et si quidem illius meminissent de qua exierunt, habebant tempus revertendi:<verse eID="hebrews.11.15" />
+        <verse sID="hebrews.11.16" osisID="hebrews.11.16" />nunc autem meliorem desiderant, id est, coelestem. Ideo merito non pudet eos Deus vocari eorum Deus: paravit enim illis civitatem.<verse eID="hebrews.11.16" />
+        <verse sID="hebrews.11.17" osisID="hebrews.11.17" />Fide obtulit Isaac, cum tentabatur Abraham, et unicum offerebat, repromissionem qui susceperat;<verse eID="hebrews.11.17" />
+        <verse sID="hebrews.11.18" osisID="hebrews.11.18" />ad quem dictum est: In Isaac vocabitur tibi semen:<verse eID="hebrews.11.18" />
+        <verse sID="hebrews.11.19" osisID="hebrews.11.19" />certus aestimans quod a mortuis suscitare possit Deus: unde eum et in parabolam accepit.<verse eID="hebrews.11.19" />
+        <verse sID="hebrews.11.20" osisID="hebrews.11.20" />Fide et de futuris benedicit Isaac Iacob, et Esau.<verse eID="hebrews.11.20" />
+        <verse sID="hebrews.11.21" osisID="hebrews.11.21" />Fide Iacob , moriens, singulos filios Ioseph benedixit: et adoravit fastigium virgae eius.<verse eID="hebrews.11.21" />
+        <verse sID="hebrews.11.22" osisID="hebrews.11.22" />Fide Ioseph, moriens, de profectione filiorum Israel memoratus est, et de ossibus suis mandavit.<verse eID="hebrews.11.22" />
+        <verse sID="hebrews.11.23" osisID="hebrews.11.23" />Fide Moyses, * qua natus, est occultatus mensibus tribus a parentibus suis, eo quod vidissent elegantem infantem, et non timuerunt regis edictum. Fide magnus factus Moyses, occidit Aegyptium, considerans dolorem fratrum suorum.<verse eID="hebrews.11.23" />
+        <verse sID="hebrews.11.24" osisID="hebrews.11.24" />Fide Moyses, grandis factus, negavit se dici filium filiae Pharaonis:<verse eID="hebrews.11.24" />
+        <verse sID="hebrews.11.25" osisID="hebrews.11.25" />maluit enim experiri afflictum cum populo Dei, quam temporales habere peccati delicias,<verse eID="hebrews.11.25" />
+        <verse sID="hebrews.11.26" osisID="hebrews.11.26" />maiorem honestatem aestimans thesauris Aegyptum, improperium Christi: aspiciens enim in remuneratione<verse eID="hebrews.11.26" />
+        <verse sID="hebrews.11.27" osisID="hebrews.11.27" />fide reliquit Aegyptum, non veritus animositatem regis: hunc enim quem non aspiciebat, tanquam aspiciens sustinebat.<verse eID="hebrews.11.27" />
+        <verse sID="hebrews.11.28" osisID="hebrews.11.28" />Fide celebravit Pascha, et sanguinis fusionem: * ne qui subvastabat primitiva, tangeret eos.<verse eID="hebrews.11.28" />
+        <verse sID="hebrews.11.29" osisID="hebrews.11.29" />Fide transierunt per rubrum Mare tanquam per aridam terram: quam experti Aegyptii, devorati sunt.<verse eID="hebrews.11.29" />
+        <verse sID="hebrews.11.30" osisID="hebrews.11.30" />Fide muri Iericho ruerunt, diebus VII. girati.<verse eID="hebrews.11.30" />
+        <verse sID="hebrews.11.31" osisID="hebrews.11.31" />Fide Raab meretrix non * comperivit infidelibus cum contumacibus, exceptis exploratoribus cum pace.<verse eID="hebrews.11.31" />
+        <verse sID="hebrews.11.32" osisID="hebrews.11.32" />Et quid adhuc dico? Deficiet enim me in narrando tempus de Gedeon, et de Barac, Samsoni, et Ephtan, David* que, et Samuel, et Prophetis:<verse eID="hebrews.11.32" />
+        <verse sID="hebrews.11.33" osisID="hebrews.11.33" />qui per fidem devicerunt regna, operati sunt aequitatem, potiti sunt? repromissiones, obturaverunt ora leonum,<verse eID="hebrews.11.33" />
+        <verse sID="hebrews.11.34" osisID="hebrews.11.34" />exstinxerunt impetum ignis, effugerunt acies gladii, evaluerunt de infirmitate, in bello fortes fuerunt, castra ceperunt exterorum:<verse eID="hebrews.11.34" />
+        <verse sID="hebrews.11.35" osisID="hebrews.11.35" />acceperunt mulieres de resurrectione mortuorum suorum. Et alii necati sunt, non exspectantes delicias, ut meliorem haberent resurrectionem.<verse eID="hebrews.11.35" />
+        <verse sID="hebrews.11.36" osisID="hebrews.11.36" />Alii vero ludibria , et verbera experti , insuper et * vincula, et carceres:<verse eID="hebrews.11.36" />
+        <verse sID="hebrews.11.37" osisID="hebrews.11.37" />lapidati , et secti sunt, tentaverunt, mactatione gladii mortui sunt: circumierunt in antelenis, et caprinis pellibus, egentes, * angustiati, et doloribus afflicti:<verse eID="hebrews.11.37" />
+        <verse sID="hebrews.11.38" osisID="hebrews.11.38" />quorum non erat dignus orbis: in solitudinibus errantes, in montibus, et in speluncis, in foveis terrae.<verse eID="hebrews.11.38" />
+        <verse sID="hebrews.11.39" osisID="hebrews.11.39" />Et hi omnes testimonio fidei probati, non acceperunt repromissionem,<verse eID="hebrews.11.39" />
+        <verse sID="hebrews.11.40" osisID="hebrews.11.40" />Deo scilicet pro nobis melius aliquid* prodente, ne sine nobis consummarentur.<verse eID="hebrews.11.40" />
+      </p>
+      <chapter eID="hebrews.11" />
+      <chapter sID="hebrews.12" osisID="hebrews.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="hebrews.12.1" osisID="hebrews.12.1" />Ideoque et nos tantam habentes impositam imbrem in nobis testimoniorum, firmamentum depositi omne, et fragile peccatum, per patientiam curramus ad propositum nobis certamen:<verse eID="hebrews.12.1" />
+        <verse sID="hebrews.12.2" osisID="hebrews.12.2" />aspicientes fidei Principalem, et consummatorem Iesum, qui pro tanto deposito sibi gaudio sustinuit crucem,* confusione contempta, in dextera sedis Dei sedit.<verse eID="hebrews.12.2" />
+        <verse sID="hebrews.12.3" osisID="hebrews.12.3" />Recogitate igitur talem vos portasse a * peccatoribus in vobis adversitatem: nec fatigemini animis deficientes.<verse eID="hebrews.12.3" />
+        <verse sID="hebrews.12.4" osisID="hebrews.12.4" />Nondum usque ad sanguinem* restitistis, adversus peccatum repugnantes:<verse eID="hebrews.12.4" />
+        <verse sID="hebrews.12.5" osisID="hebrews.12.5" />et obliti estis consolationem, quae vobis tanquam filiis loquitur: Fili,* ne negligas disciplinam Domini: neque fatigeris cum ab eo argueris.<verse eID="hebrews.12.5" />
+        <verse sID="hebrews.12.6" osisID="hebrews.12.6" />Quem enim diligit Deus, verberat: castigat autem omnem filium, quem recipit.<verse eID="hebrews.12.6" />
+        <verse sID="hebrews.12.7" osisID="hebrews.12.7" />In * disciplina perseverate. Tanquam filiis vobis offeret* Deus: quis enim est filius, quem non verberat pater?<verse eID="hebrews.12.7" />
+        <verse sID="hebrews.12.8" osisID="hebrews.12.8" />Quod si extra disciplinam estis, cui participes facti sunt omnes: * ergo adulteri, et non filii estis.<verse eID="hebrews.12.8" />
+        <verse sID="hebrews.12.9" osisID="hebrews.12.9" />Deinde quidem carnis nostrae patres habentes eruditores, et verebamur: quanto magis optemperabimus* Patri spiritum, et vivemus?<verse eID="hebrews.12.9" />
+        <verse sID="hebrews.12.10" osisID="hebrews.12.10" />Et illi quidem in tempore paucorum dierum, erudiebant nos secundum voluntatem suam: hic autem meliora ad recipiendam sanctificationem eius.<verse eID="hebrews.12.10" />
+        <verse sID="hebrews.12.11" osisID="hebrews.12.11" />Et * omnis quidem disciplina, in praesente videtur non esse gaudiis, sed moerore: postea autem fructum pacissimum exercitatis per eam* reddit iustitiae.<verse eID="hebrews.12.11" />
+        <verse sID="hebrews.12.12" osisID="hebrews.12.12" />Propter quod remissas manus, et soluta genua, erigite,<verse eID="hebrews.12.12" />
+        <verse sID="hebrews.12.13" osisID="hebrews.12.13" />et regressus* rectos facite pedibus vestris: ne claudicans erret, magis* que sanetur.<verse eID="hebrews.12.13" />
+        <verse sID="hebrews.12.14" osisID="hebrews.12.14" />Pacem sequimini cum omnibus, et sanctimonium, * sine quo nemo videbit Deum:<verse eID="hebrews.12.14" />
+        <verse sID="hebrews.12.15" osisID="hebrews.12.15" />providentes ne quid desit gratiae Dei : neque radix amaritudinis exsurgens impediat, et per illam inquinentur multi.<verse eID="hebrews.12.15" />
+        <verse sID="hebrews.12.16" osisID="hebrews.12.16" />Ne quis fornicator, aut pollutus ut Esau: qui propter unam escam vendidit primitiva sua:<verse eID="hebrews.12.16" />
+        <verse sID="hebrews.12.17" osisID="hebrews.12.17" />scitote enim quoniam et postea cupiens accipere benedictionem, reprobatus est: non enim invenit poenitentia locum, et quamquam cum lacrymis inquisisset eam.<verse eID="hebrews.12.17" />
+        <verse sID="hebrews.12.18" osisID="hebrews.12.18" />Non enim accessistis ad ardentem, et tractabilem ignem, et turbinem, et procellam,<verse eID="hebrews.12.18" />
+        <verse sID="hebrews.12.19" osisID="hebrews.12.19" />et cantum tubae, et vocem verborum quam qui audierunt, excusaverunt se, ne iam eis fieret verbum.<verse eID="hebrews.12.19" />
+        <verse sID="hebrews.12.20" osisID="hebrews.12.20" />Non enim portabant monentem: Licet bestia tetigerit montem, lapidabitur.<verse eID="hebrews.12.20" />
+        <verse sID="hebrews.12.21" osisID="hebrews.12.21" />Etiam sic terribile erat quod parebat. Moses dixit: Tremibundus sum, et exterritus.<verse eID="hebrews.12.21" />
+        <verse sID="hebrews.12.22" osisID="hebrews.12.22" />Sed * accessistis ad Sion montem, civitatem Dei viventis, coelestem Ierusalem, et multitudinem Angelorum frequentem<verse eID="hebrews.12.22" />
+        <verse sID="hebrews.12.23" osisID="hebrews.12.23" />et * Ecclesiam primitivorum, qui professi sunt in coelis, et iudicem Deum omnium, et spiritum iustorum* fundatorum<verse eID="hebrews.12.23" />
+        <verse sID="hebrews.12.24" osisID="hebrews.12.24" />et testamenti novi, et * sponsorem Iesum et sanguinem asparsionis melius loquentem quam Abel.<verse eID="hebrews.12.24" />
+        <verse sID="hebrews.12.25" osisID="hebrews.12.25" />Videte * negligatis loquentem in vobis. Si enim illi non effugerunt, in terra veniam postulantes ab eo praestante divitias: multo magis nos, qui a coelis loquentem nobis * avertimus:<verse eID="hebrews.12.25" />
+        <verse sID="hebrews.12.26" osisID="hebrews.12.26" />qua voce movit terra tunc: nunc autem repromisit, dicens : Adhuc ego semel moveo, inquit, non solum terram, sed iam et coelum.<verse eID="hebrews.12.26" />
+        <verse sID="hebrews.12.27" osisID="hebrews.12.27" />Adhuc autem semel, declarat mobilium translationem factorum, ut maneant quae non moventur.<verse eID="hebrews.12.27" />
+        <verse sID="hebrews.12.28" osisID="hebrews.12.28" />Regno itaque immobili suscepto, habemus gratiam: per quam serviamus placentes Deo cum metu, et verecundia.<verse eID="hebrews.12.28" />
+        <verse sID="hebrews.12.29" osisID="hebrews.12.29" />Dominus enim Deus noster ignis consumens.<verse eID="hebrews.12.29" />
+      </p>
+      <chapter eID="hebrews.12" />
+      <chapter sID="hebrews.13" osisID="hebrews.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="hebrews.13.1" osisID="hebrews.13.1" />Caritas fraternitatis maneat.<verse eID="hebrews.13.1" />
+        <verse sID="hebrews.13.2" osisID="hebrews.13.2" />Et hospitalitatem nolite oblivisci, per hanc enim didicerunt aliqui, Angelis hospitio receptis.<verse eID="hebrews.13.2" />
+        <verse sID="hebrews.13.3" osisID="hebrews.13.3" />Mementote vinctorum, tanquam simul vincti; et laborantium, tanquam et ipsi in corpore morantes.<verse eID="hebrews.13.3" />
+        <verse sID="hebrews.13.4" osisID="hebrews.13.4" />*Venerabile connubium in omnibus, et torus inmaculatus. Fornicatores enim, adulteros iudicat Deus.<verse eID="hebrews.13.4" />
+        <verse sID="hebrews.13.5" osisID="hebrews.13.5" />Sint mores sine avaritia, contenti quae in praesenti habetis: ipse enim dixit: Non te deseram, neque relinquam:<verse eID="hebrews.13.5" />
+        <verse sID="hebrews.13.6" osisID="hebrews.13.6" />ita * audenter dicite: Deus mihi auxilio est: non timebo quid faciat mihi homo.<verse eID="hebrews.13.6" />
+        <verse sID="hebrews.13.7" osisID="hebrews.13.7" />Mementote praepositorum vestrorum, qui vobis locuti sunt verbum Dei: quorum aspicientes exitum conversationis, imitamini fidem Iesu Christi.<verse eID="hebrews.13.7" />
+        <verse sID="hebrews.13.8" osisID="hebrews.13.8" />Heri, et hodie ipse est, et in saecula. Amen.<verse eID="hebrews.13.8" />
+        <verse sID="hebrews.13.9" osisID="hebrews.13.9" />Doctrinis variis, et novis nolite adduci. Optimum enim est gratia confirmari* corda, quam esca: quae non profuit ambulantibus.<verse eID="hebrews.13.9" />
+        <verse sID="hebrews.13.10" osisID="hebrews.13.10" />Habemus hostiam, de qua edere non habent, qui tabernaculo serviunt.<verse eID="hebrews.13.10" />
+        <verse sID="hebrews.13.11" osisID="hebrews.13.11" />Quorum enim animalium inferetur sanguis pro peccato in Sanctis per sacerdotem, eorum corpora cremantur extra castra.<verse eID="hebrews.13.11" />
+        <verse sID="hebrews.13.12" osisID="hebrews.13.12" />Propter quod et Iesus, ut sanctificaret per suum sanguinem populum, extra porta passus est.<verse eID="hebrews.13.12" />
+        <verse sID="hebrews.13.13" osisID="hebrews.13.13" />Exeamus itaque ad eum extra castra, inproperium eius portantes.<verse eID="hebrews.13.13" />
+        <verse sID="hebrews.13.14" osisID="hebrews.13.14" />Non enim habemus manentem hîc civitatem, sed futuram inquirimus.<verse eID="hebrews.13.14" />
+        <verse sID="hebrews.13.15" osisID="hebrews.13.15" />Ut per ipsum offeramus hostias * laudis semper Deo, id est, fructum labiorum confitentium nomini eius.<verse eID="hebrews.13.15" />
+        <verse sID="hebrews.13.16" osisID="hebrews.13.16" />Benivolentiae autem, et communionis nolite oblivisci: talibus enim hostiis promeretur Deus.<verse eID="hebrews.13.16" />
+        <verse sID="hebrews.13.17" osisID="hebrews.13.17" />Oboediite praepositis vestris, et subiacete: quoniam ipsi vigilant pro animis vestris, quasi rationem reddituri pro vobis, ut cum gaudio hoc faciant, et non gementes : hoc enim proderit vobis.<verse eID="hebrews.13.17" />
+        <verse sID="hebrews.13.18" osisID="hebrews.13.18" />Et orate et pro nobis: suademus enim bonam conscientiam habentes, in omnibus bene volentes conversari.<verse eID="hebrews.13.18" />
+        <verse sID="hebrews.13.19" osisID="hebrews.13.19" />Amplius autem hoc peto faciatis, quod celerius restituar vobis.<verse eID="hebrews.13.19" />
+        <verse sID="hebrews.13.20" osisID="hebrews.13.20" />Nam Deus autem pacis, qui suscitat ex mortuis pastorem ovium magnum, in sanguinem testamenti aeterni, Deum nostrum Iesum Christum,<verse eID="hebrews.13.20" />
+        <verse sID="hebrews.13.21" osisID="hebrews.13.21" />aptet vos in omni bono, ut faciatis voluntatem eius: ipso faciente in vobis quo placeat coram se.<verse eID="hebrews.13.21" />
+      </p>
+    </div>
+  </osisText>
+</osis>

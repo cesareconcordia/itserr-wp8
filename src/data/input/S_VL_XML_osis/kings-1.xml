@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="1Kings" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="1Kings">
+        <title>kings-1</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">1Kings</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>kings-1</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="1Kings">
+      <title>kings-1</title>
+      <chapter sID="1Kings.1" osisID="1Kings.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="1Kings.1.47" osisID="1Kings.1.47" />... adoravit rex David in cubili suo,<verse eID="1Kings.1.47" />
+        <verse sID="1Kings.1.48" osisID="1Kings.1.48" />et dixit, Benedictus Dominus Deus Israel, qui dedit mihi hodie de semine meo sedentem in throno meo, et oculi mei vident.<verse eID="1Kings.1.48" />
+      </p>
+      <chapter eID="1Kings.1" />
+      <chapter sID="1Kings.2" osisID="1Kings.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="1Kings.2.27" osisID="1Kings.2.27" />Et deposuit Salomon Abiathar de sacerdotio Domini, ut impleatur verbum Domini, quod locutus est de domo Heli in Selom.<verse eID="1Kings.2.27" />
+        <verse sID="1Kings.2.29" osisID="1Kings.2.29" />... Vade, occurre illi ...<verse eID="1Kings.2.29" />
+      </p>
+      <chapter eID="1Kings.2" />
+      <chapter sID="1Kings.3" osisID="1Kings.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="1Kings.3.5" osisID="1Kings.3.5" />... Pete tibi aliquam petitionem ...<verse eID="1Kings.3.5" />
+        <verse sID="1Kings.3.7" osisID="1Kings.3.7" />... ego sum puer humilis, et ignoro introitum meum et exitum meum.<verse eID="1Kings.3.7" />
+        <verse sID="1Kings.3.8" osisID="1Kings.3.8" />Et servus tuus in medio populi tui, quem elegisti, populum multum, sicut arenam maris, quae dinumerari non potest prae multitudine.<verse eID="1Kings.3.8" />
+        <verse sID="1Kings.3.9" osisID="1Kings.3.9" />Et dabis servo tuo cor prudens, audire et iudicare cum iustitia populum tuum, et intelligere inter bonum et malum ...<verse eID="1Kings.3.9" />
+        <verse sID="1Kings.3.11" osisID="1Kings.3.11" />... Pro eo quod petiisti a me verbum istud, et non petiisti tibi dies multos, nec postulasti divitias, nec animas inimicorum tuorum, sed petiisti ut intelligeres, et audires iudicium,<verse eID="1Kings.3.11" />
+        <verse sID="1Kings.3.12" osisID="1Kings.3.12" />ecce feci verbum tuum, et dedi tibi cor prudens et sapiens, sicut tu non fuit ante te, et post te non surget similis tibi.<verse eID="1Kings.3.12" />
+        <verse sID="1Kings.3.16" osisID="1Kings.3.16" />Tunc apparuerunt duae mulieres meretrices regi Salomoni, et steterunt in conspectu eius,<verse eID="1Kings.3.16" />
+        <verse sID="1Kings.3.17" osisID="1Kings.3.17" />et dixit mulier una, Animadverte, domine, ego et mulier haec habitabamus in domo una, et peperi in domo.<verse eID="1Kings.3.17" />
+        <verse sID="1Kings.3.18" osisID="1Kings.3.18" />Et contigit die tertio postquam peperi, peperit etiam haec mulier filium, et eramus in uno, et non erat quisquam nobiscum, praeter ambas nos in domo.<verse eID="1Kings.3.18" />
+        <verse sID="1Kings.3.19" osisID="1Kings.3.19" />Et mortuus est filius mulieris huius per noctem, mox dormivit super eum.<verse eID="1Kings.3.19" />
+        <verse sID="1Kings.3.20" osisID="1Kings.3.20" />Et surrexit media nocte, et tulit filium meum ab ascellis meis, et collocavit in sinu suo, et filium suum mortuum in sinu meo.<verse eID="1Kings.3.20" />
+        <verse sID="1Kings.3.21" osisID="1Kings.3.21" />Et surrexi mane dare lac filio meo, et ille erat mortuus, consideravi eum mane, et ecce non erat filius meus quem peperi.<verse eID="1Kings.3.21" />
+        <verse sID="1Kings.3.22" osisID="1Kings.3.22" />Et dixit mulier illa alia, Non, sed filius meus est qui vivit, filius autem tuus qui mortuus est. Et ipsa dixit, Non, filius tuus est ille mortuus, et meus filius est qui vivit. Et locutae sunt in conspectu regis.<verse eID="1Kings.3.22" />
+        <verse sID="1Kings.3.23" osisID="1Kings.3.23" />Et dixit eis rex, Tu dicis, Hic est filius meus qui vivit, et filius eius mortuus est. Et tu dicis, Non, sed filius meus vivit, et filius eius mortuus est.<verse eID="1Kings.3.23" />
+        <verse sID="1Kings.3.24" osisID="1Kings.3.24" />Et ait rex, Afferte mihi machaeram. Et obtulerunt ei machaeram in conspectu regis,<verse eID="1Kings.3.24" />
+        <verse sID="1Kings.3.25" osisID="1Kings.3.25" />et dixit rex, Dividite puerum qui vivit in duas partes, et date dimidium eius huic, et dimidium eius huic.<verse eID="1Kings.3.25" />
+        <verse sID="1Kings.3.26" osisID="1Kings.3.26" />Et respondit mulier, cuius erat filius qui vivebat, et dixit ad regem, (quoniam conturbata est vulva eius super filio suo) et dixit, Animadvertite domine, date ei puerum, et nolite eum morte afficere. Et haec dixit, Neque mihi, neque huic sit, sed dividite illum.<verse eID="1Kings.3.26" />
+        <verse sID="1Kings.3.27" osisID="1Kings.3.27" />Et respondit rex, et dixit ei mulieri, quae dixit, Date eum illi, et morte nolite eum afficere, quia haec est mater eius.<verse eID="1Kings.3.27" />
+        <verse sID="1Kings.3.28" osisID="1Kings.3.28" />Audivit omnis Israel hoc iudicium quod iudicavit rex, et timuerunt a facie regis, eo quod intellectus Dei in eo esset ut faceret iustitiam.<verse eID="1Kings.3.28" />
+      </p>
+      <chapter eID="1Kings.3" />
+      <chapter sID="1Kings.4" osisID="1Kings.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="1Kings.4.21" osisID="1Kings.4.21" />... et erat dominans in omnibus regibus a flumine usque ad terram Philisthiim, et usque ad fines Aegypti.<verse eID="1Kings.4.21" />
+      </p>
+      <chapter eID="1Kings.4" />
+      <chapter sID="1Kings.8" osisID="1Kings.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="1Kings.8.22" osisID="1Kings.8.22" />... expandit manus suas in coelum,<verse eID="1Kings.8.22" />
+        <verse sID="1Kings.8.23" osisID="1Kings.8.23" />et ait, Domine Deus Israel, non est similis tibi Deus, nec in coelo sursum, neque in terra deorsum ...<verse eID="1Kings.8.23" />
+        <verse sID="1Kings.8.46" osisID="1Kings.8.46" />... non est homo qui non peccavit ...<verse eID="1Kings.8.46" />
+        <verse sID="1Kings.8.57" osisID="1Kings.8.57" />Fiat Dominus noster nobiscum, sicut erat cum patribus nostris, non derelinquat nos, nec avertat nos a se.<verse eID="1Kings.8.57" />
+        <verse sID="1Kings.8.58" osisID="1Kings.8.58" />Inclinet corda nostra ad se, ut eamus in omnibus viis eius ...<verse eID="1Kings.8.58" />
+      </p>
+      <chapter eID="1Kings.8" />
+      <chapter sID="1Kings.9" osisID="1Kings.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="1Kings.9.4" osisID="1Kings.9.4" />... si ambulaveris in conspectu meo, sicut ambulavit David pater tuus, in sanctitate cordis, et iustitia, ad hoc ut faceret secundum omnia quae mandavi ei ...<verse eID="1Kings.9.4" />
+        <verse sID="1Kings.9.6" osisID="1Kings.9.6" />Quod si avertimini a me, dicit Dominus, et non custodieritis veritatem meam ...<verse eID="1Kings.9.6" />
+        <verse sID="1Kings.9.7" osisID="1Kings.9.7" />reiiciam Israel a terra, quam dedi illis, et domum hanc, quam aedificavi illis in nomine meo, proiiciam illam ex omnibus, et erit Israel in perditionem, et in opprobrium populo.<verse eID="1Kings.9.7" />
+        <verse sID="1Kings.9.8" osisID="1Kings.9.8" />Et domus haec erit deserta, et omnis qui transibit per illam, admirabitur, et dicet, Propter quam rem fecit Dominus terrae huic, et huic domui haec mala?<verse eID="1Kings.9.8" />
+        <verse sID="1Kings.9.9" osisID="1Kings.9.9" />Et dicent, Quia reliquerunt Dominum Deum suum ... propter hoc importavit illis Deus mala haec ...<verse eID="1Kings.9.9" />
+        <verse sID="1Kings.9.19" osisID="1Kings.9.19" />... et omne propositum Salomonis quo destinaverat aedificare in Ierusalem, et Libano, et in omni terra potestatis suae.<verse eID="1Kings.9.19" />
+        <verse sID="1Kings.9.20" osisID="1Kings.9.20" />Omnis populus, qui derelictus est a Cethaeo, et Amorrhaeo, et Pheresaeo, et Evaeo, et Iebusaeo, qui non erant ex Israel,<verse eID="1Kings.9.20" />
+        <verse sID="1Kings.9.21" osisID="1Kings.9.21" />ex filiis eorum, qui residui erant cum eis in terra, quos non consumpserant filii Israel, et subiugavit eos Salomon in tributum, usque in diem hunc.<verse eID="1Kings.9.21" />
+      </p>
+      <chapter eID="1Kings.9" />
+      <chapter sID="1Kings.10" osisID="1Kings.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="1Kings.10.2" osisID="1Kings.10.2" />et venit, et omnia locuta est quae habebat in corde suo.<verse eID="1Kings.10.2" />
+        <verse sID="1Kings.10.6" osisID="1Kings.10.6" />... Verus est sermo, quem audivi in terra mea,<verse eID="1Kings.10.6" />
+        <verse sID="1Kings.10.7" osisID="1Kings.10.7" />de sermonibus tuis, et de prudentia tua, et non credidi his qui dicebant mihi, donec veni, et viderunt oculi mei, et nunc non est nec dimidia quidem pars secundum ea quae annuntiabant mihi, apposuisti bona super omnia quae audivi in terra mea.<verse eID="1Kings.10.7" />
+        <verse sID="1Kings.10.8" osisID="1Kings.10.8" />Beatae mulieres tuae, et beati pueri tui, qui assistunt tibi, qui audiunt omnem prudentiam tuam.<verse eID="1Kings.10.8" />
+      </p>
+      <chapter eID="1Kings.10" />
+      <chapter sID="1Kings.11" osisID="1Kings.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="1Kings.11.1" osisID="1Kings.11.1" />Et rex Salomon erat amator mulierum, et accepit sibi mulieres alienigenas ...<verse eID="1Kings.11.1" />
+        <verse sID="1Kings.11.3" osisID="1Kings.11.3" />... sexaginta reginae, et octoginta concubinae, et iuvenculae quarum numerus non est ...<verse eID="1Kings.11.3" />
+        <verse sID="1Kings.11.4" osisID="1Kings.11.4" />Et factum est in tempore senectutis Salomonis, non erat cor eius perfectum cum Domino Deo suo, et diverterunt mulieres alienigenae cor eius post deos alienos.<verse eID="1Kings.11.4" />
+        <verse sID="1Kings.11.6" osisID="1Kings.11.6" />Et fecit Salomon malignum in conspectu Domini, non abiit post Dominum, quaemadmodum David pater eius.<verse eID="1Kings.11.6" />
+        <verse sID="1Kings.11.9" osisID="1Kings.11.9" />Et iratus est Dominus in Salomonem ...<verse eID="1Kings.11.9" />
+        <verse sID="1Kings.11.10" osisID="1Kings.11.10" />... non enim erat cor eius perfectum in Domino, secundum cor David patris eius.<verse eID="1Kings.11.10" />
+        <verse sID="1Kings.11.11" osisID="1Kings.11.11" />... disrumpens disrumpam regnum tuum de manu tua, et dabo illud servo tuo.<verse eID="1Kings.11.11" />
+        <verse sID="1Kings.11.12" osisID="1Kings.11.12" />Verum in diebus tuis non faciam haec propter David patrem tuum, de manu filii tui accipiam illud,<verse eID="1Kings.11.12" />
+        <verse sID="1Kings.11.13" osisID="1Kings.11.13" />verum omne regnum non accipiam, sceptrum unum dabo filio tuo, propter David servum meum, et propter Ierusalem civitatem quam elegi.<verse eID="1Kings.11.13" />
+        <verse sID="1Kings.11.14" osisID="1Kings.11.14" />Et suscitavit Dominus adversarios Salomoni, Adad Idumaeum, et Esrom filium Anadeth in Remathad, Adragas regem Soba dominum eius, et congregati sunt super eum viri, et erat princeps congregationis, et praeoccupavit Demasic civitatem, et sedit in ea, et regnavit in Demasic, et erant adversarii Salomoni, et Israel omnibus diebus Salomonis ...<verse eID="1Kings.11.14" />
+        <verse sID="1Kings.11.29" osisID="1Kings.11.29" />Et factum est in tempore illo, et Ieroboas exiit de Ierusalem, et invenit eum Achias Silonites prophetes in via, et Achias opertus erat vestimento novo, et ambo erant in campo.<verse eID="1Kings.11.29" />
+        <verse sID="1Kings.11.30" osisID="1Kings.11.30" />Et apprehendit Achias vestimentum suum novum, quod super se habebat, et dirupit illud duodecim scissuris.<verse eID="1Kings.11.30" />
+        <verse sID="1Kings.11.31" osisID="1Kings.11.31" />Et dixit ad Ieroboam, Accipe tibi decem scissuras, quoniam haec dicit Dominus Deus Israel, Ecce ego disrumpo regnum de manu Salomonis, et dabo tibi decem sceptra.<verse eID="1Kings.11.31" />
+        <verse sID="1Kings.11.32" osisID="1Kings.11.32" />Et duo sceptra erunt illi, propter servum meum David, et propter Ierusalem civitatem, quam elegi ex omnibus tribubus Israel,<verse eID="1Kings.11.32" />
+        <verse sID="1Kings.11.33" osisID="1Kings.11.33" />pro quibus dereliquit me Salomon, et fecit Astarte idolo immundo Sidoniorum, et Cama idolo Moab, et regi eorum, religioni filiorum Ammon, et non abiit in vias meas, ut faceret quod rectum est coram me, sicut fecit David pater eius.<verse eID="1Kings.11.33" />
+        <verse sID="1Kings.11.34" osisID="1Kings.11.34" />Et non accipiam regnum totum de manu eius in diebus vitae eius, propter David servum meum, quem elegi, quoniam contra faciam illi per omnes dies vitae eius.<verse eID="1Kings.11.34" />
+        <verse sID="1Kings.11.35" osisID="1Kings.11.35" />Et accipiam regnum de manu filii eius, et dabo tibi sceptra decem,<verse eID="1Kings.11.35" />
+        <verse sID="1Kings.11.36" osisID="1Kings.11.36" />filio autem eius dabo duo sceptra, ut sit positio servo meo David omnibus diebus coram me in Ierusalem civitate, quam elegi mihi ut ponam nomen meum ibi.<verse eID="1Kings.11.36" />
+        <verse sID="1Kings.11.37" osisID="1Kings.11.37" />Et accipiam te, et regnabis in quibus concupiscit anima tua, et tu eris rex in Israel.<verse eID="1Kings.11.37" />
+        <verse sID="1Kings.11.38" osisID="1Kings.11.38" />Et erit, si custodieris omnia quaecunque praecepero tibi, et ieris in vias meas, et feceris quod rectum est in conspectu meo, et custodieris praecepta mea et mandata mea, sicut fecit David servus meus, ero tecum, et aedificabo tibi domum fidelem, sicut aedificavi David.<verse eID="1Kings.11.38" />
+      </p>
+      <chapter eID="1Kings.11" />
+      <chapter sID="1Kings.12" osisID="1Kings.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="1Kings.12.15" osisID="1Kings.12.15" />Et non audivit rex plebem, quoniam erat conversio a Domino, ut statueret verbum suum, quod locutus est in manu Achiae Selonitae, de Ieroboam filio Nabath.<verse eID="1Kings.12.15" />
+        <verse sID="1Kings.12.16" osisID="1Kings.12.16" />... Non est nobis portio cum David, neque haereditas in filiis Iesse. Revertere unusquisque in tabernacula tua Israel ...<verse eID="1Kings.12.16" />
+        <verse sID="1Kings.12.20" osisID="1Kings.12.20" />Et factum est ut audivit omnis Israel, quoniam reversus est Ieroboas ex Aegypto, et miserunt, et vocaverunt eum in synagoga, et regnificaverunt eum in Israel ...<verse eID="1Kings.12.20" />
+        <verse sID="1Kings.12.24" osisID="1Kings.12.24" />Et rex Salomon dormivit cum patribus suis in civitate David, et regnavit filius eius Roboam pro eo in Ierusalem, et erat sexdecim annorum cum regnaret, et viginti annis regnavit in Ierusalem ... ... Et erat homo ex monte Ephraem servus Salomonis, et nomen ei erat Ieroboam, et nomen matris eius erat Sarira, mulier fornicaria ...<verse eID="1Kings.12.24" />
+        <verse sID="1Kings.12.26" osisID="1Kings.12.26" />Et dixit Ieroboas in corde suo, Nunc revertetur regnum David,<verse eID="1Kings.12.26" />
+        <verse sID="1Kings.12.27" osisID="1Kings.12.27" />si ascenderit populus hic sacrificium offere in domo Domini in Ierusalem, et convertetur cor populi ad dominum suum Roboam regem Iuda.<verse eID="1Kings.12.27" />
+        <verse sID="1Kings.12.28" osisID="1Kings.12.28" />Tunc igitur Ieroboas cogitavit, et abiit, et fecit duas vitulas aureas, et dixit ad populum, Sufficiat vobis ascendisse in Ierusalem. Ecce sunt dii tui Israel, qui reduxerunt te de terra Aegypti.<verse eID="1Kings.12.28" />
+        <verse sID="1Kings.12.29" osisID="1Kings.12.29" />Et posuit unam in Bethel, et unam dedit in Dan,<verse eID="1Kings.12.29" />
+        <verse sID="1Kings.12.30" osisID="1Kings.12.30" />et factum est hoc verbum in peccatum, et antecedebat populus ante faciem unius vitulae usque Dan.<verse eID="1Kings.12.30" />
+        <verse sID="1Kings.12.31" osisID="1Kings.12.31" />Et fecerunt domos in excelsum, et fecit sacerdotes partem aliquam populi, qui non erant ex filiis Levi.<verse eID="1Kings.12.31" />
+        <verse sID="1Kings.12.32" osisID="1Kings.12.32" />Et fecit Ieroboas diem festum in mense octavo, in quintadecima mensis, secundum diem festum Iuda. Et ascendit in sacrario, quod fecit in Bethel, ut sacrificaret ante vitulas, quas fecit, et constituit in Bethel sacerdotes excelsorum, quos fecit.<verse eID="1Kings.12.32" />
+        <verse sID="1Kings.12.33" osisID="1Kings.12.33" />Et ascendit in sacrarium quod fecit, in quintodecimo die mense octavo, in die festo, quem finxit a corde suo, et fecit diem festum filiis Israel, et ascendit in sacrarium, ut sacrificaret.<verse eID="1Kings.12.33" />
+      </p>
+      <chapter eID="1Kings.12" />
+      <chapter sID="1Kings.13" osisID="1Kings.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="1Kings.13.1" osisID="1Kings.13.1" />Et ecce homo Dei ex Iuda advenit in verbo Domini in Bethel, et Ieroboam stabat super aram suam, sacrificare.<verse eID="1Kings.13.1" />
+        <verse sID="1Kings.13.2" osisID="1Kings.13.2" />Et propheta invocavit ad aram in verbo Domini, dicens, O sacrarium, sacrarium, haec dicit Dominus, Ecce filius nascetur in domo David, et Iosias erit nomen illi, et sacrificabit in te sacerdotes excelsorum, qui sacrificant in te, et ossa hominum comburet in te.<verse eID="1Kings.13.2" />
+        <verse sID="1Kings.13.3" osisID="1Kings.13.3" />Et dabit in illa die prodigium, quod locutus est Dominus, Ecce sacrarium disrumpetur, et effundetur pinguedo quae est in eo.<verse eID="1Kings.13.3" />
+        <verse sID="1Kings.13.4" osisID="1Kings.13.4" />Et factum est ut audivit verba hominis Dei invocantis in aram, quae in Bethel erat, et extendit manum suam ad aram, dicens, Apprehendite eum. Et arida facta est manus regis, quam extendit in eum, et non potuit reducere eam ad se.<verse eID="1Kings.13.4" />
+        <verse sID="1Kings.13.5" osisID="1Kings.13.5" />Et sacrificium ruptum est, et effusa est pinguedo eius a sacrario, secundum prodigium quod dixit homo Dei in verbo Domini.<verse eID="1Kings.13.5" />
+        <verse sID="1Kings.13.6" osisID="1Kings.13.6" />Et respondit rex, et dixit homini Dei, Roga faciem Domini Dei tui, ut revertatur manus mea ad me. Et rogavit homo Dei faciem Domini, et reversa est manus regis ad eum, et facta est sicut prius fuerat.<verse eID="1Kings.13.6" />
+        <verse sID="1Kings.13.7" osisID="1Kings.13.7" />Et locutus est rex ad hominem Dei, et dixit, Intra mecum in domum et prande, et dabo tibi munera.<verse eID="1Kings.13.7" />
+        <verse sID="1Kings.13.8" osisID="1Kings.13.8" />Et dixit homo Dei ad regem, Nec si mihi dimidium dares domus tuae, non intrabo tecum, nec manducabo panem, nec bibam aquam in hoc loco,<verse eID="1Kings.13.8" />
+        <verse sID="1Kings.13.9" osisID="1Kings.13.9" />quoniam sic praecepit mihi Dominus in verbo, dicens, Non manducabis panem, et non bibes aquam, et non reverteris in via qua ibis in iea.<verse eID="1Kings.13.9" />
+        <verse sID="1Kings.13.10" osisID="1Kings.13.10" />Et abiit per aliam viam, et non est reversus per viam, qua venerat in Bethel.<verse eID="1Kings.13.10" />
+        <verse sID="1Kings.13.11" osisID="1Kings.13.11" />Et propheta alius habitabat in Bethel, et venerunt filii eius, et nunciaverunt ei omnia opera, quae fecerat homo Dei die illo in Bethel, et verba quae locutus est regi. Et averterunt faciem patris sui.<verse eID="1Kings.13.11" />
+        <verse sID="1Kings.13.12" osisID="1Kings.13.12" />Et locutus est ad eos pater eorum, dicens, Qua via abiit? Et demonstraverunt filii eius viam, per quam ierat homo Dei, qui venerat ex Iuda.<verse eID="1Kings.13.12" />
+        <verse sID="1Kings.13.13" osisID="1Kings.13.13" />Et dixit filiis suis, Sternite mihi asinam. Et straverunt ei, et ascendit super illam,<verse eID="1Kings.13.13" />
+        <verse sID="1Kings.13.14" osisID="1Kings.13.14" />et abiit post hominem Dei, et invenit eum sedentem sub arbore ilicis, et dixit ei, Si tu es homo Dei qui venisti ex Iuda? Et dixit, Ego sum.<verse eID="1Kings.13.14" />
+        <verse sID="1Kings.13.15" osisID="1Kings.13.15" />Et dixit ei, Veni mecum, et manduca panem.<verse eID="1Kings.13.15" />
+        <verse sID="1Kings.13.16" osisID="1Kings.13.16" />Et dixit, Non possum reverti tecum, neque manducare panem, neque bibere aquam in hoc loco,<verse eID="1Kings.13.16" />
+        <verse sID="1Kings.13.17" osisID="1Kings.13.17" />quoniam sic praecepit mihi in verbo Dominus, dicens, Non manducabis panem ibi, et non bibes aquam ibi, et non reverteris inde per viam quam ieris.<verse eID="1Kings.13.17" />
+        <verse sID="1Kings.13.18" osisID="1Kings.13.18" />Et dixit ad eum, Et ego prophetes sum sicut et tu, et angelus locutus est ad me in verbo Domini, dicens, Reduc eum ad te in domum tuam, et manducet panem, et bibat aquam. Et mentitus est illi,<verse eID="1Kings.13.18" />
+        <verse sID="1Kings.13.19" osisID="1Kings.13.19" />et reduxit eum, et manducavit panem in domo eius, et bibit aquam.<verse eID="1Kings.13.19" />
+        <verse sID="1Kings.13.20" osisID="1Kings.13.20" />Et factum est, sedentibus illis ad mensam, verbum Domini ad pseudoprophetam, qui reduxit eum.<verse eID="1Kings.13.20" />
+        <verse sID="1Kings.13.21" osisID="1Kings.13.21" />Et dixit ad hominem Dei, qui venerat ex Iuda, dicens, Haec dicit Dominus, Propter quod exacerbasti verbum Domini, et non custodisti praeceptum quod praecepit tibi Dominus Deus tuus,<verse eID="1Kings.13.21" />
+        <verse sID="1Kings.13.22" osisID="1Kings.13.22" />et rediisti, et manducasti panem, et bibisti aquam in hoc loco de quo locutus est ad te, dicens, Non manducabis panem, neque bibes aquam, ideo non intrabit corpus tuum in monumentum patrum tuorum.<verse eID="1Kings.13.22" />
+        <verse sID="1Kings.13.23" osisID="1Kings.13.23" />Et factum est, postquam manducavit panem, et bibit aquam, et straverunt ei asinam.<verse eID="1Kings.13.23" />
+        <verse sID="1Kings.13.24" osisID="1Kings.13.24" />Et reversus est, et abiit, et invenit eum leo in via, et occidit eum, et erat corpus eius proiectum in via, et asina stabat ad eum, et leo stabat ad corpus ipsius.<verse eID="1Kings.13.24" />
+        <verse sID="1Kings.13.25" osisID="1Kings.13.25" />... Et venerunt viri civitatis illius, et locuti sunt in civitate, ubi prophetes senior habitabat in illa.<verse eID="1Kings.13.25" />
+        <verse sID="1Kings.13.26" osisID="1Kings.13.26" />Et cum audissent, qui reduxerant eum de via, dixit, Hic est homo Dei, qui exacerbavit verbum Domini.<verse eID="1Kings.13.26" />
+        <verse sID="1Kings.13.28" osisID="1Kings.13.28" />Et abiit, et invenit corpus eius proiectum in via. Et asina, et leo stabat super corpus eius, et leo non edit corpus illius, neque insilivit in asinam.<verse eID="1Kings.13.28" />
+        <verse sID="1Kings.13.33" osisID="1Kings.13.33" />Et post hoc non est reversus Ieroboas a malitia sua, sed e contrario fecit ex parte populi sacerdotes excelsorum, qui enim volebat, allevabat manum suam, et fiebat sacerdos in excelsis.<verse eID="1Kings.13.33" />
+        <verse sID="1Kings.13.34" osisID="1Kings.13.34" />Et factum est hoc verbum in peccatum in domum Ieroboam, et in interitum, et in exterminium a facie terrae.<verse eID="1Kings.13.34" />
+      </p>
+      <chapter eID="1Kings.13" />
+      <chapter sID="1Kings.14" osisID="1Kings.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="1Kings.14.1" osisID="1Kings.14.1" />Et homo erat exilis, et nomen ei Achiabeth. Hic erat sexaginta annorum, et verbum Domini erat cum illo.<verse eID="1Kings.14.1" />
+        <verse sID="1Kings.14.2" osisID="1Kings.14.2" />Et dixit Ieroboam ad uxorem suam, Surge ...<verse eID="1Kings.14.2" />
+        <verse sID="1Kings.14.3" osisID="1Kings.14.3" />Et accipe in manu tua homini Dei panes, et collyrides filiis eius, et uvas et vas mellis ...<verse eID="1Kings.14.3" />
+        <verse sID="1Kings.14.4" osisID="1Kings.14.4" />Et surrexit mulier, et fecit sicut dixit ei vir eius, et Achiab homo senex erat valde, et oculi eius caliginabantur videre.<verse eID="1Kings.14.4" />
+        <verse sID="1Kings.14.5" osisID="1Kings.14.5" />Et surrexit mulier ex Baria, et abiit.<verse eID="1Kings.14.5" />
+        <verse sID="1Kings.14.6" osisID="1Kings.14.6" />Et factum est, cum intrasset ipsa in civitatem ad Achiab Selonitem, et dixit Achiab puero suo, Exi nunc in obviam Annae uxori Ieroboam, et dices ei, Intra, et noli stare, quoniam haec dicit Dominus, Dura ego mitto in te. Et intravit Anna ad hominem Dei, et dixit ei Achiab, Ut quod mihi attulisti panes, et uvam, et collyrides, et vas mellis?<verse eID="1Kings.14.6" />
+        <verse sID="1Kings.14.10" osisID="1Kings.14.10" />[12] Ecce tu ibis a me, et ecce cum intraveris portam civitatis Arira, et puellae tuae exient in obviam, et dicent tibi, Puer mortuus est.<verse eID="1Kings.14.10" />
+        <verse sID="1Kings.14.11" osisID="1Kings.14.11" />[10] Quoniam haec dicit Dominus, Ecce ego disperdam huius Ieroboam mingentem ad parietem.<verse eID="1Kings.14.11" />
+        <verse sID="1Kings.14.12" osisID="1Kings.14.12" />[11] Et erunt mortui eius Ieroboam in civitatem, et comedent eos cane, et mortui erunt ei in agro, et comedent eos volucres coeli.<verse eID="1Kings.14.12" />
+      </p>
+      <chapter eID="1Kings.14" />
+      <chapter sID="1Kings.15" osisID="1Kings.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="1Kings.15.3" osisID="1Kings.15.3" />Et abiit in peccatis patris sui, quae fecit in conspectu eius, et non erat cor eius consummatum cum Domino Deo suo, sicut erat cor David patris eius.<verse eID="1Kings.15.3" />
+        <verse sID="1Kings.15.11" osisID="1Kings.15.11" />... fecit Asa rectum in conspectu Domini, sicut David pater eius.<verse eID="1Kings.15.11" />
+        <verse sID="1Kings.15.14" osisID="1Kings.15.14" />sed excelsa non abstulit. Attamen cor eius perfectum erat cum Deo omnibus diebus vitae suae,<verse eID="1Kings.15.14" />
+        <verse sID="1Kings.15.34" osisID="1Kings.15.34" />Et fecit malignum coram Domino, et abiit in viam Ieroboam filii Nabath, et in peccatis eius, quemadmodum peccavit in Israel.<verse eID="1Kings.15.34" />
+      </p>
+      <chapter eID="1Kings.15" />
+      <chapter sID="1Kings.16" osisID="1Kings.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="1Kings.16.2" osisID="1Kings.16.2" />Propter quod magnificavi te principem super Israel, quia exacerbaverunt me in vanitatibus suis,<verse eID="1Kings.16.2" />
+        <verse sID="1Kings.16.3" osisID="1Kings.16.3" />ecce, ego suscitabo post Baasam, et domum eius, et tradam domum eius, sicut domum Hieroboae filii Naboth.<verse eID="1Kings.16.3" />
+        <verse sID="1Kings.16.4" osisID="1Kings.16.4" />Qui mortuus fuerit de suis in civitate, comedent eum canes, et mortuum corpus illius in campo, comedent volatilia coeli.<verse eID="1Kings.16.4" />
+        <verse sID="1Kings.16.25" osisID="1Kings.16.25" />Et fecit malignum in conspectu Domini, et maligne fecit super omnes, qui fuerunt ante eum.<verse eID="1Kings.16.25" />
+        <verse sID="1Kings.16.26" osisID="1Kings.16.26" />Et abiit in omnem viam Ieroboam filii Nabath, in peccatis eius ...<verse eID="1Kings.16.26" />
+        <verse sID="1Kings.16.28" osisID="1Kings.16.28" />... abiit in vias Asab patris sui, et non declinavit ab illis ut faceret quod rectum erat in conspectu Domini, sed ab excelsis non abstinuerunt, et sacrificabant in excelsis, et incendebant ...<verse eID="1Kings.16.28" />
+        <verse sID="1Kings.16.30" osisID="1Kings.16.30" />Et fecit Achab malignum in conspectu Domini, et maligne fecit super omnes, qui fuerunt ante eum.<verse eID="1Kings.16.30" />
+        <verse sID="1Kings.16.31" osisID="1Kings.16.31" />Et non fuit illi satis ut ambularet in peccatis Ieroboam filii Nabath, sed et accepit uxorem Iezabel filiam Basan et Hela regis Sidoniorum. Et abiit, et servivit Baali, et adoravit eum.<verse eID="1Kings.16.31" />
+        <verse sID="1Kings.16.32" osisID="1Kings.16.32" />Et statuit sacrarium Baali in domo religionum suarum, quam aedificavit in Samaria,<verse eID="1Kings.16.32" />
+        <verse sID="1Kings.16.33" osisID="1Kings.16.33" />et fecit Achab lucum, ut faceret exacerbationem, ut exacerbaret Deum, et animam suam disperderet, et malignum fecit super omnes reges Israel, qui fuerunt ante eum.<verse eID="1Kings.16.33" />
+      </p>
+      <chapter eID="1Kings.16" />
+      <chapter sID="1Kings.17" osisID="1Kings.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="1Kings.17.1" osisID="1Kings.17.1" />... Vivit Dominus, cui assisto ante conspectum, si erit annis istis ros et pluvia, nisi per verbum oris mei.<verse eID="1Kings.17.1" />
+        <verse sID="1Kings.17.9" osisID="1Kings.17.9" />... vade in Sarepta Sidoniae, ibi enim mandavi viduae ut pascat te.<verse eID="1Kings.17.9" />
+        <verse sID="1Kings.17.12" osisID="1Kings.17.12" />... Vivit Dominus, quia non habeo, nisi pugillum farinae, et modicum olei in vase, et ecce ego exeo ut colligam duo ligna, et faciam mihi cibum et filio meo, et manducabimus, et moriemur.<verse eID="1Kings.17.12" />
+        <verse sID="1Kings.17.14" osisID="1Kings.17.14" />Quia haec dicit Dominus, Hydria farinae non deficiet, et vas olei non deficiet, usque in diem quo dabit Dominus pluviam super terram.<verse eID="1Kings.17.14" />
+        <verse sID="1Kings.17.16" osisID="1Kings.17.16" />non defecit hydria polentae ...<verse eID="1Kings.17.16" />
+        <verse sID="1Kings.17.20" osisID="1Kings.17.20" />... O Domine, testis huius viduae, cum qua ego inhabito apud ipsam, tu male fecisti ut occideres filium eius.<verse eID="1Kings.17.20" />
+        <verse sID="1Kings.17.21" osisID="1Kings.17.21" />Et insufflavit puero ter, et invocavit Dominum, et dixit, Domine Deus meus, revertatur nunc anima pueri huius in eum.<verse eID="1Kings.17.21" />
+        <verse sID="1Kings.17.22" osisID="1Kings.17.22" />Et factum est sic ...<verse eID="1Kings.17.22" />
+        <verse sID="1Kings.17.24" osisID="1Kings.17.24" />...Ecce cognovi, quoniam homo Dei es tu, et verbum Domini in ore tuo certissimum.<verse eID="1Kings.17.24" />
+      </p>
+      <chapter eID="1Kings.17" />
+      <chapter sID="1Kings.18" osisID="1Kings.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="1Kings.18.18" osisID="1Kings.18.18" />Et dixit Helias, Ego non verto Israel, sed evertis tu, et domus patris tui, dum relinquitis vos Dominum Deum nostrum, et itis post Baal.<verse eID="1Kings.18.18" />
+        <verse sID="1Kings.18.19" osisID="1Kings.18.19" />Et nunc mitte, et congrega ad me omnem Israel in montem Carmeli, et prophetas confusionis quadringentos quinquaginta, et prophetas lucorum quadringentos, manducantes et bibentes in mensa Iezabel.<verse eID="1Kings.18.19" />
+        <verse sID="1Kings.18.20" osisID="1Kings.18.20" />Et misit rex Achab ad omnem Israel, et collegit omnes prophetas in montem Carmeli.<verse eID="1Kings.18.20" />
+        <verse sID="1Kings.18.21" osisID="1Kings.18.21" />Et accessit Helias ad omnes, et dixit eis, Usquequo vos claudicatis sensu vestro? Si est Dominus Deus, ite post ipsum, si autem Baal est, ite post illum. Et non respondit illi populus verbum.<verse eID="1Kings.18.21" />
+        <verse sID="1Kings.18.22" osisID="1Kings.18.22" />Et dixit Helias ad populum, dicens, Ego superavi solus prophetarum Domini unus, et prophetae huius Baal quadringenti quinquaginta viri, et prophetae lucorum quadringenti.<verse eID="1Kings.18.22" />
+        <verse sID="1Kings.18.23" osisID="1Kings.18.23" />Dentur ergo nobis duo boves, et eligant sibi illi unum, et demembrent, et imponant eum super lignum, et ignem non supponant, et ego faciam bovem alterum, et ignem non supponam.<verse eID="1Kings.18.23" />
+        <verse sID="1Kings.18.24" osisID="1Kings.18.24" />Et clamate in nomine deorum vestrorum, et ego clamabo in nomine Dei mei, et erit, hic Deus quicunque exaudierit nos in igne, hic erit Deus. Et respondit omnis populus, et dixerunt, Bonum verbum quod locutus est Helias.<verse eID="1Kings.18.24" />
+        <verse sID="1Kings.18.25" osisID="1Kings.18.25" />Et dixit Helias ad prophetas confusionis, Eligite vobis vitulum unum, et facite priores, quoniam vos multi estis, et clamate in nomine deorum vestrorum, et ignem nolite supponere.<verse eID="1Kings.18.25" />
+        <verse sID="1Kings.18.26" osisID="1Kings.18.26" />Et acceperunt vitulum, et fecerunt, et invocabant in nomine Baal a mane usque ad vesperam, et dicebant, Exaudi nos Baal, exaudi nos. Et non fuit istis vox, neque auditio.<verse eID="1Kings.18.26" />
+        <verse sID="1Kings.18.27" osisID="1Kings.18.27" />Et apposuit Helias Thesbites, dicens, Invocate in voce magna pariter, ne forte occupatus sit, vel dormiat ipse, et suscitabitur.<verse eID="1Kings.18.27" />
+        <verse sID="1Kings.18.28" osisID="1Kings.18.28" />Et illum vocabant in voce magna, et secabant se secundum consuetudinem suam gladiis et novaculis, usque ad effusionem sanguinis super se.<verse eID="1Kings.18.28" />
+        <verse sID="1Kings.18.29" osisID="1Kings.18.29" />Et prophetabant usque dum transiret meridies, et factum est, quomodo tempus erat ut ascenderet sacrificium, et locutus est Helias Thesbites ad prophetas, dicens, Discedite amodo, et ego faciam holocaustomata. Et discesserunt, et abierunt,<verse eID="1Kings.18.29" />
+        <verse sID="1Kings.18.30" osisID="1Kings.18.30" />et dixit Helias ad populum, Accedite ad me. Et accesserunt omnes populi ad eum.<verse eID="1Kings.18.30" />
+        <verse sID="1Kings.18.31" osisID="1Kings.18.31" />Et accepit Helias duodecim lapides secundum numerum tribus Israel, sicut locutus est Dominus ad eum, dicens, Israel erit nomen tuum.<verse eID="1Kings.18.31" />
+        <verse sID="1Kings.18.32" osisID="1Kings.18.32" />Et aedificavit lapides, et restituit altare Domini, quod dissipatum fuerat, et fecit foveam, quae caperet duas metretas semis, in gyro altaris,<verse eID="1Kings.18.32" />
+        <verse sID="1Kings.18.33" osisID="1Kings.18.33" />et constipavit scizas super altare quod fecit, et demembravit holocaustum, et imposuit scizam, et stipavit super altare,<verse eID="1Kings.18.33" />
+        <verse sID="1Kings.18.34" osisID="1Kings.18.34" />et dixit, Accipite mihi quatuor hydrias aquae, et effundite super holocaustum, et super scizam. Et dixit, Iterum afferte. Et iterum attulerunt. Et dixit, Repetite tertio. Et repetierunt tertio,<verse eID="1Kings.18.34" />
+        <verse sID="1Kings.18.35" osisID="1Kings.18.35" />et manabat aqua in circuitu sacrarii, et foveam impleverunt aqua.<verse eID="1Kings.18.35" />
+        <verse sID="1Kings.18.36" osisID="1Kings.18.36" />Et clamavit Helias in coelum, et dixit, Dominus Deus Abraham, et Isaac, et Israel, exaudi me Domine, exaudi me hodie in igne, ut sciat omnis populus hic, quoniam tu es Dominus Deus Israel, et ego servus tuus, et propter te feci haec opera,<verse eID="1Kings.18.36" />
+        <verse sID="1Kings.18.37" osisID="1Kings.18.37" />et tu versasti cor populi huius retro.<verse eID="1Kings.18.37" />
+        <verse sID="1Kings.18.38" osisID="1Kings.18.38" />Et cecidit ignis a Domino de coelo, et comedit holocausta, et scizas, et aquam quae erat in altare, et lapides, et terram linxit ignis.<verse eID="1Kings.18.38" />
+        <verse sID="1Kings.18.39" osisID="1Kings.18.39" />Et cecidit totus populus super faciem suam, et dixit, Vere Dominus Deus ipse est Deus.<verse eID="1Kings.18.39" />
+        <verse sID="1Kings.18.40" osisID="1Kings.18.40" />Et dixit Helias ad populum, Suscipite prophetas Baal, nemo sit salvus ex illis. Et susceperunt illos, et deduxit illos Helias at torrentem Cizon, et occidit illos ibi.<verse eID="1Kings.18.40" />
+        <verse sID="1Kings.18.41" osisID="1Kings.18.41" />Et dixit ad Achab, Manduca et bibe, quoniam vox est pedum pluviae.<verse eID="1Kings.18.41" />
+        <verse sID="1Kings.18.42" osisID="1Kings.18.42" />Et ascendit Achab ut manducaret et biberet, et Helias ascendit in Carmelum, et inclinavit se in terram, et posuit faciem suam inter genua,<verse eID="1Kings.18.42" />
+        <verse sID="1Kings.18.43" osisID="1Kings.18.43" />et dixit puero suo, Ascende, et prospice viam maris. Et respexit puer, et dixit puer, Non est nihil. Circumage te septies.<verse eID="1Kings.18.43" />
+        <verse sID="1Kings.18.44" osisID="1Kings.18.44" />Et factum est in septimo, Et ecce nubis pusilla quasi vestigium hominis adducens aquam de mari. Et dixit illi Helias, Ascende, et dic ad Achab, Iunge currum tuum et ascende, ne comprehendat te pluvia.<verse eID="1Kings.18.44" />
+        <verse sID="1Kings.18.45" osisID="1Kings.18.45" />Et factum est hinc et inde, et coelum contenebricavit nubibus, et ventis, et facta est pluvia magna. Et plorabat, et ibat Achab in Iezrael,<verse eID="1Kings.18.45" />
+        <verse sID="1Kings.18.46" osisID="1Kings.18.46" />et manus Domini erat in Heliam ...<verse eID="1Kings.18.46" />
+      </p>
+      <chapter eID="1Kings.18" />
+      <chapter sID="1Kings.19" osisID="1Kings.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="1Kings.19.4" osisID="1Kings.19.4" />... Sufficit mihi Domine, tolle animam meam, neque enim melior sum patribus meis.<verse eID="1Kings.19.4" />
+        <verse sID="1Kings.19.5" osisID="1Kings.19.5" />... Surge, et manduca.<verse eID="1Kings.19.5" />
+        <verse sID="1Kings.19.6" osisID="1Kings.19.6" />Respexit, et ecce ad caput eius panis colyrida, et vas aquae ...<verse eID="1Kings.19.6" />
+        <verse sID="1Kings.19.10" osisID="1Kings.19.10" />... Aemulando aemulatus sum Domino Deo omnipotenti, quia dereliquerunt te filii Israel, altaria tua demolierunt, et prophetas tuos interfecerunt gladio, et remansi ego solitarius, et quaerunt animam meam auferre a me.<verse eID="1Kings.19.10" />
+        <verse sID="1Kings.19.11" osisID="1Kings.19.11" />... Exies cras, et stabis in conspectu Domini, et ecce Dominus transiet, et ecce spiritus magnus et fortis, qui dissolvet montes, et conteret petras in conspectu Domini, et non in spiritu Dominus, et post spiritum terrae motus, et non in terrae motu Dominus,<verse eID="1Kings.19.11" />
+        <verse sID="1Kings.19.12" osisID="1Kings.19.12" />et post terrae motum ignis, et non in igne Dominus, et post ignem vox aurae tenuis.<verse eID="1Kings.19.12" />
+        <verse sID="1Kings.19.14" osisID="1Kings.19.14" />Aemulans aemulatus sum Domino Deo omnipotenti, quia dereliquerunt te filii Israel, et altaria tua demolierunt, et prophetas tuos interfecerunt gladio, et remansi ego solitarius, et quaerunt animam meam auferre a me.<verse eID="1Kings.19.14" />
+      </p>
+      <chapter eID="1Kings.19" />
+      <chapter sID="1Kings.20" osisID="1Kings.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="1Kings.20.13" osisID="1Kings.20.13" />Et ecce prophetes unus accessit ad regem Israel, et dixit, Haec dicit Dominus, Si audisti sonum magnum istum? Ecce, ego hodie tradam eum in manus tuas, et scies, quoniam ego sum Dominus.<verse eID="1Kings.20.13" />
+        <verse sID="1Kings.20.14" osisID="1Kings.20.14" />Et dixit rex, In quo? Et dixit prophetes, In pueris principum regionum. Et dixit rex, Quis committet pugnam? Et dixit prophetes, Tu.<verse eID="1Kings.20.14" />
+        <verse sID="1Kings.20.19" osisID="1Kings.20.19" />Et exierunt pueri de civitate principum regionum, et exercitus qui post illos,<verse eID="1Kings.20.19" />
+        <verse sID="1Kings.20.20" osisID="1Kings.20.20" />et percussit unusquisque, quem invenit secus se, et fugerunt Syri, et persecutus est Israel ...<verse eID="1Kings.20.20" />
+        <verse sID="1Kings.20.22" osisID="1Kings.20.22" />... cognosce, et vide quid facias ...<verse eID="1Kings.20.22" />
+        <verse sID="1Kings.20.23" osisID="1Kings.20.23" />... Deus montium Deus Israel, et non deus Baal, propter hoc obtinuerunt pro nobis. Et ideo si non plene obtinuerimus eos,<verse eID="1Kings.20.23" />
+        <verse sID="1Kings.20.24" osisID="1Kings.20.24" />in locum Syriae regis satrapas constitue,<verse eID="1Kings.20.24" />
+        <verse sID="1Kings.20.35" osisID="1Kings.20.35" />... Occide me. Et noluit homo occidere eum.<verse eID="1Kings.20.35" />
+        <verse sID="1Kings.20.36" osisID="1Kings.20.36" />Et dixit, Eo quod non obedisti verbo Domini, ecce tu recedis a me, et interficiet te leo. Et recessit ab eo, et invenit eum leo, et interfecit eum.<verse eID="1Kings.20.36" />
+        <verse sID="1Kings.20.42" osisID="1Kings.20.42" />Et dixit ad eum, Haec dicit Dominus, Quoniam dimisisti tu virum exterminationis de manu tua, ecce anima tua pro anima illius, et populus tuus pro populo illius.<verse eID="1Kings.20.42" />
+      </p>
+      <chapter eID="1Kings.20" />
+      <chapter sID="1Kings.21" osisID="1Kings.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="1Kings.21.1" osisID="1Kings.21.1" />Et factum est post haec verba, erat vinea Nabuthe Iezraelitae in Israel, iuxta domum Achab regis Samariae.<verse eID="1Kings.21.1" />
+        <verse sID="1Kings.21.2" osisID="1Kings.21.2" />Et locutus est Achab ad Nabuthe, dicens, Da mihi vineam tuam, et erit mihi in hortum olerum, quoniam propinquat domui meae, et dabo tibi pro ea aliam vineam, si vero placuerit tibi, dabo tibi pecuniam pro vinea ista, et erit mihi in hortum olerum.<verse eID="1Kings.21.2" />
+        <verse sID="1Kings.21.3" osisID="1Kings.21.3" />Et dixit Nabuthe ad Achab, Non fiat hoc a Deo, ut dem tibi haereditatem patrum meorum.<verse eID="1Kings.21.3" />
+        <verse sID="1Kings.21.4" osisID="1Kings.21.4" />Et turbatus est spiritus eius, et dormivit in lecto suo, et velavit faciem suam, et non manducavit panem.<verse eID="1Kings.21.4" />
+        <verse sID="1Kings.21.7" osisID="1Kings.21.7" />... Surge, manduca panem, et redi ad te, ego dabo tibi vineam Nabuthe Iezraelitae.<verse eID="1Kings.21.7" />
+        <verse sID="1Kings.21.8" osisID="1Kings.21.8" />Et scripsit librum nomine Achab, et signavit annulo illius, et misit librum ad seniores et ad liberos eos, qui morabantur cum Nabuthe.<verse eID="1Kings.21.8" />
+        <verse sID="1Kings.21.9" osisID="1Kings.21.9" />Et erat scriptum in libro, Ieiunate ieiunium, et constituite Nabuthe in principem populi.<verse eID="1Kings.21.9" />
+        <verse sID="1Kings.21.10" osisID="1Kings.21.10" />Et constituite duos viros filios iniquitatis ex diverso eius, ut falsum testimonium perhibeant adversus eum, dicentes, Benedixit Deum et regem, et producite illum, et lapidate ...<verse eID="1Kings.21.10" />
+        <verse sID="1Kings.21.13" osisID="1Kings.21.13" />... produxerunt igitur Nabuthe foras, et lapidaverunt eum ...<verse eID="1Kings.21.13" />
+        <verse sID="1Kings.21.15" osisID="1Kings.21.15" />... Surge, posside vineam Naboth Iezraelitae, qui noluit tibi eam dare pretio, quia ecce mortuus est.<verse eID="1Kings.21.15" />
+        <verse sID="1Kings.21.16" osisID="1Kings.21.16" />Et factum est, cum audisset Achab, quia mortuus est Nabuthe, conscidit vestimenta sua, et cooperuit se cilicio. Et factum est post haec, et surrexit, et descendit Achab ad vineam Nabuthe Iezraelitae, possidere eam.<verse eID="1Kings.21.16" />
+        <verse sID="1Kings.21.18" osisID="1Kings.21.18" />Surge, et descende in obviam Achab regi Israel, qui est in Samaria, quia hic in vineam Nabuthaei descendit, ut possideat eam,<verse eID="1Kings.21.18" />
+        <verse sID="1Kings.21.19" osisID="1Kings.21.19" />et dices ad eum, Haec dicit Dominus, Quomodo occidisti Nabuthaeum, et possedisti vineam eius, propter hoc haec dicit Dominus, In loco, in quo linxerunt canes et sues sanguinem Nabuthaei, ibi lingent canes sanguinem tuum, et fornicariae lavabunt in sanguine tuo.<verse eID="1Kings.21.19" />
+        <verse sID="1Kings.21.20" osisID="1Kings.21.20" />Et dixit Achab ad Heliam, Si invenisti me inimicum tibi? Et dixit Helias, Inveni, quoniam cogitasti facere maligne ante conspectum Domini, ut exacerbares eum.<verse eID="1Kings.21.20" />
+        <verse sID="1Kings.21.21" osisID="1Kings.21.21" />Haec dicit Dominus, Ecce ego induco super te mala, et succendam post te ignem, et disperdam tuum Achab mingentem ad parietem, et contemptum et reliquum in Israel.<verse eID="1Kings.21.21" />
+        <verse sID="1Kings.21.22" osisID="1Kings.21.22" />Et dabo domum tuum sicut domum Hieroboam filii Nabath, sicut domum Saba filii Acia, pro omnibus exacerbationibus, quibus exacerbasti, et peccatum dedisti in Israel.<verse eID="1Kings.21.22" />
+        <verse sID="1Kings.21.23" osisID="1Kings.21.23" />Et ad Iezabel locutus est Dominus, dicens, Canes manducabunt eam ante murum Israel.<verse eID="1Kings.21.23" />
+        <verse sID="1Kings.21.24" osisID="1Kings.21.24" />Et mortuos tuos in civitate, manducabunt volucres coeli.<verse eID="1Kings.21.24" />
+        <verse sID="1Kings.21.27" osisID="1Kings.21.27" />... ecce rex commotus est ante faciem Domini, et ibat plorans, et conscidit vestimenta sua, et operuit se cilicio, et erat indutus sacco ex illo die, quo interfecit Nabuthe Iezraelitam.<verse eID="1Kings.21.27" />
+        <verse sID="1Kings.21.28" osisID="1Kings.21.28" />Tunc sermo Domini ad Heliam,<verse eID="1Kings.21.28" />
+        <verse sID="1Kings.21.29" osisID="1Kings.21.29" />Vidisti quemadmodum commutus est Achab a facie mea? Non inducam in diebus eius mala, sed in diebus filii eius inducam mala.<verse eID="1Kings.21.29" />
+      </p>
+      <chapter eID="1Kings.21" />
+      <chapter sID="1Kings.22" osisID="1Kings.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="1Kings.22.5" osisID="1Kings.22.5" />... Et dixit Iosaphat rex Iuda ad regem Israel, Interrogate nunc hodie Dominum.<verse eID="1Kings.22.5" />
+        <verse sID="1Kings.22.6" osisID="1Kings.22.6" />Et convocavit rex Israel omnes prophetas, quasi quadringentos viros, et dixit illis rex Achab, Si ibo in Remma ad Galaath in pugnam, aut cessabo? Et dixerunt, Ascende ...<verse eID="1Kings.22.6" />
+        <verse sID="1Kings.22.7" osisID="1Kings.22.7" />Et dixit Iosaphat ad regem Israel, Non est hic prophetes Domini, et interrogabimus Dominum?<verse eID="1Kings.22.7" />
+        <verse sID="1Kings.22.8" osisID="1Kings.22.8" />Et dixit Achab rex Israel ad Iosaphat regem, Unus est, per quem interrogemus Dominum, sed ego illum, quoniam non loquitur de me bona ...<verse eID="1Kings.22.8" />
+        <verse sID="1Kings.22.18" osisID="1Kings.22.18" />(Dixit rex Israel ad Iosaphat regem Iuda, Nonne dixi ad te, quoniam prophetat mihi hic non bona, sed magis mala?)<verse eID="1Kings.22.18" />
+        <verse sID="1Kings.22.19" osisID="1Kings.22.19" />... Vidi Dominum sedentem super thronum suum, et omnis exercitus coeli stabat circa eum a dextris eius et a sinistris eius,<verse eID="1Kings.22.19" />
+        <verse sID="1Kings.22.20" osisID="1Kings.22.20" />et dixit Dominus, Quis seducet Achab regem Israel, et ascendet, et cadet in Ramoth Galaad? Et dixit iste sic, et iste sic.<verse eID="1Kings.22.20" />
+        <verse sID="1Kings.22.21" osisID="1Kings.22.21" />Et exiit spiritus, et stetit in conspectu Domini, et dixit, Ego seducam eum. Et dixit Dominus ad eum, In quo?<verse eID="1Kings.22.21" />
+        <verse sID="1Kings.22.22" osisID="1Kings.22.22" />Et dixit, Exibo, et ero spiritus mendax in ore omnium prophetarum eius. Et dixit, Seduces, et praevalebis, exi, et fac sic.<verse eID="1Kings.22.22" />
+        <verse sID="1Kings.22.44" osisID="1Kings.22.44" />... veruntamen adhuc populus immolabat, et adolebat in excelsis.<verse eID="1Kings.22.44" />
+      </p>
+      <chapter eID="1Kings.22" />
+    </div>
+  </osisText>
+</osis>

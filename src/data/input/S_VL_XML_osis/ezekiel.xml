@@ -1,0 +1,1185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Ezek" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Ezek">
+        <title>ezekiel</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Ezek</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>ezekiel</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Ezek">
+      <title>ezekiel</title>
+      <chapter sID="Ezek.1" osisID="Ezek.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Ezek.1.1" osisID="Ezek.1.1" />Et factum est in trigesimo anno, in quarto mense, in quinta mensis, et ego eram in medio transmigrationis iuxta flumen Chobar ...<verse eID="Ezek.1.1" />
+        <verse sID="Ezek.1.2" osisID="Ezek.1.2" />... annus quintus captivitatis regis Ioachin,<verse eID="Ezek.1.2" />
+        <verse sID="Ezek.1.3" osisID="Ezek.1.3" />... et facta est super me manus Domini.<verse eID="Ezek.1.3" />
+        <verse sID="Ezek.1.4" osisID="Ezek.1.4" />Et vidi, et ecce spiritus auferens veniebat ab Aquilone. Et nubes magna in eo, et ignis micans, et splendor in circuitu eius, et in medio eius quasi visio electri in medio ignis, et splendor in eo,<verse eID="Ezek.1.4" />
+        <verse sID="Ezek.1.5" osisID="Ezek.1.5" />et in medio sicut similitudo quatuor animalium ...<verse eID="Ezek.1.5" />
+        <verse sID="Ezek.1.6" osisID="Ezek.1.6" />Et quatuor facies uni, et quatuor alae uni.<verse eID="Ezek.1.6" />
+        <verse sID="Ezek.1.7" osisID="Ezek.1.7" />Et crura eorum recta, et pennati pedes eorum, et scintillae quasi fulgurans aeramentum, et leves pennae eorum.<verse eID="Ezek.1.7" />
+        <verse sID="Ezek.1.8" osisID="Ezek.1.8" />Et manus hominis sub pennis eorum in quatuor partibus eorum.<verse eID="Ezek.1.8" />
+        <verse sID="Ezek.1.10" osisID="Ezek.1.10" />Similitudo vultus eorum, facies hominis, facies leonis a dextris illis quatuor. Et facies vituli, a sinistris illis quatuor, et facies aquilae desuper illis quatuor.<verse eID="Ezek.1.10" />
+        <verse sID="Ezek.1.11" osisID="Ezek.1.11" />Et alae eorum extensae ...<verse eID="Ezek.1.11" />
+        <verse sID="Ezek.1.13" osisID="Ezek.1.13" />Et in medio animalium visio sicut carbonum ignis ardentium, sicut facies lampadarum discurrentium in medio animalium, et splendor ignis, et de igne egrediebatur quasi fulgur.<verse eID="Ezek.1.13" />
+        <verse sID="Ezek.1.14" osisID="Ezek.1.14" />Et animalia currebant et revertebantur quasi species bezec.<verse eID="Ezek.1.14" />
+        <verse sID="Ezek.1.15" osisID="Ezek.1.15" />Et vidi, et ecce rota una super terram sequens animalia quatuor,<verse eID="Ezek.1.15" />
+        <verse sID="Ezek.1.16" osisID="Ezek.1.16" />et aspectus rotarum, et factura earum, quasi species Tharsis, et similitudo in quatuor, et opus earum erat, sicut solet esse rota in rota.<verse eID="Ezek.1.16" />
+        <verse sID="Ezek.1.17" osisID="Ezek.1.17" />In quatuor partes earum ambulabant, et non revertebantur cum ambularent.<verse eID="Ezek.1.17" />
+        <verse sID="Ezek.1.18" osisID="Ezek.1.18" />Et dorsa earum, et altitudo erat eis. Et vidi eas, et dorsa earum plena oculis in circuitu ipsarum quatuor.<verse eID="Ezek.1.18" />
+        <verse sID="Ezek.1.19" osisID="Ezek.1.19" />... cum autem elevarent se animalia a terra, exsiliebant rotae.<verse eID="Ezek.1.19" />
+        <verse sID="Ezek.1.20" osisID="Ezek.1.20" />Et ubicunque ibant nubes, et iuxta illud spiritus rotae extollebatur cum eis, quoniam spiritus vitae erat in rotis.<verse eID="Ezek.1.20" />
+        <verse sID="Ezek.1.21" osisID="Ezek.1.21" />Cum irent animalia, ibant et rotae coniunctae illis, et cum elevarent se animalia a terra, elevabantur rotae, quoniam spiritus vitae erat in rotis.<verse eID="Ezek.1.21" />
+        <verse sID="Ezek.1.23" osisID="Ezek.1.23" />... alae eorum extentae, et volantes ...<verse eID="Ezek.1.23" />
+        <verse sID="Ezek.1.24" osisID="Ezek.1.24" />Audiebam vocem alarum eorum, sicut vocem aquarum multarum, et vocem sublimis Dei, et cum irent ut vox verbi, sicut vocem castrorum ...<verse eID="Ezek.1.24" />
+        <verse sID="Ezek.1.26" osisID="Ezek.1.26" />... super similitudinem throni, similitudo sicut species hominis.<verse eID="Ezek.1.26" />
+      </p>
+      <chapter eID="Ezek.1" />
+      <chapter sID="Ezek.2" osisID="Ezek.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Ezek.2.1" osisID="Ezek.2.1" />Haec visio similitudinis gloriae Domini ...<verse eID="Ezek.2.1" />
+        <verse sID="Ezek.2.2" osisID="Ezek.2.2" />Et venit ad me spiritus, et assumpsit me, et elevavit, et statuit me super pedes meos, et audivi eum loquentem ad me,<verse eID="Ezek.2.2" />
+        <verse sID="Ezek.2.3" osisID="Ezek.2.3" />et dixit mihi, Fili hominis, mitto te ad domum Israel, quia amaricaverunt me ipsi, et patres eorum usque in hodiernum diem.<verse eID="Ezek.2.3" />
+        <verse sID="Ezek.2.4" osisID="Ezek.2.4" />Et dices ad illos, Haec dicit Dominus,<verse eID="Ezek.2.4" />
+        <verse sID="Ezek.2.5" osisID="Ezek.2.5" />Si audierint, aut trepidaverint, quoniam domus amaricans est, et cognoscent quoniam propheta es tu in medio eorum.<verse eID="Ezek.2.5" />
+        <verse sID="Ezek.2.6" osisID="Ezek.2.6" />Et tu fili hominis ne timueris eos, neque trepidaveris a facie eorum, quoniam effuriabuntur, et concurrent super te in circuitu, et in medio scorpionum tu inhabitas, sermones eorum ne timueris, et a facie eorum ne trepidaveris, quoniam domus amaricans est.<verse eID="Ezek.2.6" />
+        <verse sID="Ezek.2.7" osisID="Ezek.2.7" />Et loqueris verba mea ad eos, si forte audierint, vel expaverint, quoniam domus amaricans est.<verse eID="Ezek.2.7" />
+        <verse sID="Ezek.2.9" osisID="Ezek.2.9" />Et vidi, et ecce manus extenta ad me, in qua erat capitulum libri ... et inscripta erat lamentatio, et melos, et vae.<verse eID="Ezek.2.9" />
+      </p>
+      <chapter eID="Ezek.2" />
+      <chapter sID="Ezek.3" osisID="Ezek.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Ezek.3.3" osisID="Ezek.3.3" />Et dixit ad me, Fili hominis os tuum comedet, et venter tuus implebitur capitulo isto tibi dato ...<verse eID="Ezek.3.3" />
+        <verse sID="Ezek.3.4" osisID="Ezek.3.4" />... Fili hominis ingredere ad domum Israel, et loquere sermones meos ad eos.<verse eID="Ezek.3.4" />
+        <verse sID="Ezek.3.5" osisID="Ezek.3.5" />Quoniam non ad populum alti sermonis tu mitteris, ad Israel,<verse eID="Ezek.3.5" />
+        <verse sID="Ezek.3.6" osisID="Ezek.3.6" />neque ad populos multos aliae vocis, aut aliae linguae, neque graves qui sint in lingua, quorum non audies sermonem, et si ad tales misissem te, illi forsitan audissent sermones tuos.<verse eID="Ezek.3.6" />
+        <verse sID="Ezek.3.7" osisID="Ezek.3.7" />Domus autem Israel nolunt audire te, quoniam nolunt audire me, quoniam tota domus Israel contentiosa est, et duro corde.<verse eID="Ezek.3.7" />
+        <verse sID="Ezek.3.8" osisID="Ezek.3.8" />Et ecce dedi faciem tuam potentem adversus facies eorum, et constantiam tuam confortabo adversus contentionem eorum.<verse eID="Ezek.3.8" />
+        <verse sID="Ezek.3.9" osisID="Ezek.3.9" />Et eris semper firmior petra, ne timueris ab eis, neque expaveris a facie eorum, quoniam domus amaricans est.<verse eID="Ezek.3.9" />
+        <verse sID="Ezek.3.13" osisID="Ezek.3.13" />Et vidi vocem alarum animalium percutientium altera ad alteram ...<verse eID="Ezek.3.13" />
+        <verse sID="Ezek.3.14" osisID="Ezek.3.14" />Et spiritus elevavit me, et suscepit me, et abii sublimis in impetu spiritus mei, et manus Domini facta est super me fortis.<verse eID="Ezek.3.14" />
+        <verse sID="Ezek.3.15" osisID="Ezek.3.15" />Et intravi ad captivitatem sublimis, et circuivi habitantes super fluvium Chobar, qui erant ibi, et sedi ibi septem diebus conversans in medio eorum.<verse eID="Ezek.3.15" />
+        <verse sID="Ezek.3.16" osisID="Ezek.3.16" />Et factum est verbum Domini ad me, dicens,<verse eID="Ezek.3.16" />
+        <verse sID="Ezek.3.17" osisID="Ezek.3.17" />Fili hominis, ecce dedi te speculatorem domus Israel, et audies de ore meo sermonem, et comminaberis eis a me.<verse eID="Ezek.3.17" />
+        <verse sID="Ezek.3.18" osisID="Ezek.3.18" />In eo quod dicam ad sceleratum, Morte morieris, et non distinxisti illi, neque locutus es ut distingueres scelerato avertere a viis suis, ut vivat, ille sceleratus in iniustitia sua morietur, et sanguinem eius de manu tua inquiram.<verse eID="Ezek.3.18" />
+        <verse sID="Ezek.3.19" osisID="Ezek.3.19" />Et tu si distinxeris scelerato, et non aversatus fuerit a scelere suo, et via sua, sceleratus ille in iniustitia sua morietur, et tu animam tuam liberabis.<verse eID="Ezek.3.19" />
+        <verse sID="Ezek.3.20" osisID="Ezek.3.20" />Et in eo, in quo aversatur iustus a iustitiis suis, et faciet delictum, et dabo tormentum in facie eius, ipse morietur, quoniam non distinxisti illi, et in peccatis suis morietur, eo quod non sint in memoriam iustitiae eius. Et sanguinem eius de manu tua exquiram.<verse eID="Ezek.3.20" />
+        <verse sID="Ezek.3.21" osisID="Ezek.3.21" />Tu autem si distinxeris iusto ne delinquat, et ipse non delinquat, iustus ille vivens vivet, quoniam distinxisti illi, et tu animam tuam salvabis.<verse eID="Ezek.3.21" />
+        <verse sID="Ezek.3.22" osisID="Ezek.3.22" />Et facta est super me manus Domini, et ait ad me, Surge, egredere in campum, et ibi loquar ad te.<verse eID="Ezek.3.22" />
+        <verse sID="Ezek.3.23" osisID="Ezek.3.23" />Et surrexi, et exii, et ecce illic maiestas Domini stabat sicut maiestas eius, quem vidi ad fluvium Chobar ...<verse eID="Ezek.3.23" />
+        <verse sID="Ezek.3.27" osisID="Ezek.3.27" />... Qui audit, audiat, et qui incredulus est, incredulus sit ...<verse eID="Ezek.3.27" />
+      </p>
+      <chapter eID="Ezek.3" />
+      <chapter sID="Ezek.4" osisID="Ezek.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Ezek.4.3" osisID="Ezek.4.3" />Accipe tibi sartaginem ...<verse eID="Ezek.4.3" />
+        <verse sID="Ezek.4.5" osisID="Ezek.4.5" />... et accipies iniquitates domus Israel.<verse eID="Ezek.4.5" />
+        <verse sID="Ezek.4.6" osisID="Ezek.4.6" />Et consummabis ... et suscipies iniquitates domus Iuda, et diebus quadraginta dormies in latere dextro ...<verse eID="Ezek.4.6" />
+        <verse sID="Ezek.4.7" osisID="Ezek.4.7" />Et ad conclusionem Ierusalem parabis faciem tuam, et brachium tuum roborabis, et prophetabis super eam.<verse eID="Ezek.4.7" />
+        <verse sID="Ezek.4.8" osisID="Ezek.4.8" />... donec compleas dies conclusionis tuae.<verse eID="Ezek.4.8" />
+        <verse sID="Ezek.4.17" osisID="Ezek.4.17" />... et tabescent in iniquitatibus suis.<verse eID="Ezek.4.17" />
+      </p>
+      <chapter eID="Ezek.4" />
+      <chapter sID="Ezek.5" osisID="Ezek.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Ezek.5.1" osisID="Ezek.5.1" />Et tu fili hominis sume tibi gladium acutum, quasi novaculam tonsorum, et trahe per caput tuum, et barbam tuam ...<verse eID="Ezek.5.1" />
+        <verse sID="Ezek.5.2" osisID="Ezek.5.2" />Quartem partem igni combures in medio civitatis, et quartam concides gladio in circuitu eius, et quartam disperges in ventum, et quartam partem assumes, et combures eam in medio civitatis ...<verse eID="Ezek.5.2" />
+        <verse sID="Ezek.5.6" osisID="Ezek.5.6" />... iustificationes meas iniquae ex gentibus, et legitima mea de regionibus, quae sunt in circuitu eius ...<verse eID="Ezek.5.6" />
+        <verse sID="Ezek.5.7" osisID="Ezek.5.7" />... Quia occasio vestra de gentibus, quae in circuitu vestro sunt, et in legalibus meis non ambulastis, et iustificationes meas non fecistis, sed neque secundum iustificationes gentium, quae sunt in circuitu vestro, fecistis.<verse eID="Ezek.5.7" />
+        <verse sID="Ezek.5.11" osisID="Ezek.5.11" />... ego quoque abiiciam te ...<verse eID="Ezek.5.11" />
+        <verse sID="Ezek.5.12" osisID="Ezek.5.12" />Quarta pars tui morte atteretur, et quarta pars tui fame consumetur in medio tui, et quarta pars tui cadet in circuitu tuo, et quartam partem tui in omnem ventum dispergam ...<verse eID="Ezek.5.12" />
+        <verse sID="Ezek.5.14" osisID="Ezek.5.14" />Et dabo te in desertum, et filias tuas in circuitu tuo, in conspectu omnis praetereuntis.<verse eID="Ezek.5.14" />
+        <verse sID="Ezek.5.15" osisID="Ezek.5.15" />Et eris gemibilis ...<verse eID="Ezek.5.15" />
+      </p>
+      <chapter eID="Ezek.5" />
+      <chapter sID="Ezek.6" osisID="Ezek.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Ezek.6.3" osisID="Ezek.6.3" />... Haec dicit Adonai Dominus montibus, et collibus, Ecce ego inducam super vos gladium, et dissipabuntur excelsa vestra,<verse eID="Ezek.6.3" />
+        <verse sID="Ezek.6.4" osisID="Ezek.6.4" />et conterentur arae vestrae ...<verse eID="Ezek.6.4" />
+        <verse sID="Ezek.6.9" osisID="Ezek.6.9" />... iuravi cordi eorum fornicanti ...<verse eID="Ezek.6.9" />
+        <verse sID="Ezek.6.11" osisID="Ezek.6.11" />... Plaude manu, et percute pede ...<verse eID="Ezek.6.11" />
+      </p>
+      <chapter eID="Ezek.6" />
+      <chapter sID="Ezek.7" osisID="Ezek.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Ezek.7.7" osisID="Ezek.7.7" />... venit tempus, appropinquavit dies, non cum perturbatione, neque cum doloribus.<verse eID="Ezek.7.7" />
+        <verse sID="Ezek.7.10" osisID="Ezek.7.10" />Ecce dies parit, ecce sinis venit, egressa est complexio, et floruit virga, germinavit superbia,<verse eID="Ezek.7.10" />
+        <verse sID="Ezek.7.11" osisID="Ezek.7.11" />Suscitata est iniuria, et conteret fortitudinem iniqui, et non cum perturbatione, neque cum festinatione, et non ex ipsis sunt, neque pulchritudo in eis.<verse eID="Ezek.7.11" />
+        <verse sID="Ezek.7.13" osisID="Ezek.7.13" />Quia qui emet, ad venditorem non revertetur, et homo in oculis vitae suae non obtinebit.<verse eID="Ezek.7.13" />
+        <verse sID="Ezek.7.14" osisID="Ezek.7.14" />Clangite tuba, et iudicate omnia.<verse eID="Ezek.7.14" />
+        <verse sID="Ezek.7.17" osisID="Ezek.7.17" />... femora polluentur humore.<verse eID="Ezek.7.17" />
+        <verse sID="Ezek.7.19" osisID="Ezek.7.19" />Argentum eorum in plateis proiicietur, et aurum eorum erit contemptui ... quia cruciatus iniquitatum eorum fuit.<verse eID="Ezek.7.19" />
+        <verse sID="Ezek.7.20" osisID="Ezek.7.20" />Electa mundi in superbiam posuerunt, et imagines abominationum suarum, et offendicula sua posuerunt ex eis, propter hoc dedi ea illis in immunditiam,<verse eID="Ezek.7.20" />
+        <verse sID="Ezek.7.21" osisID="Ezek.7.21" />et tradam ea in manus alienorum ut diripiant ea, et pestilentibus terrae in praedam, et polluent ea.<verse eID="Ezek.7.21" />
+        <verse sID="Ezek.7.22" osisID="Ezek.7.22" />... et violabunt visitationem meam, et introibunt in ea temere ...<verse eID="Ezek.7.22" />
+        <verse sID="Ezek.7.23" osisID="Ezek.7.23" />Et adducam perturbationem, quoniam terra plena populis, et civitas plena iniquitate est.<verse eID="Ezek.7.23" />
+        <verse sID="Ezek.7.24" osisID="Ezek.7.24" />Et avertam impetum virtutis eorum, et polluentur sancta eorum.<verse eID="Ezek.7.24" />
+        <verse sID="Ezek.7.25" osisID="Ezek.7.25" />Exoratio veniet, et quaeret pacem, et non erit.<verse eID="Ezek.7.25" />
+        <verse sID="Ezek.7.26" osisID="Ezek.7.26" />Vae superveniet, et nuncius super nuncium erit, et quaeretur visio a propheta, et lex peribit a sacerdote, et consilium de senioribus.<verse eID="Ezek.7.26" />
+        <verse sID="Ezek.7.27" osisID="Ezek.7.27" />Princeps induetur interitu, et manus populi terrae dissolventur. Secundum viam eorum faciam eis, et secundum iudicia eorum ulciscar eos, et scient quia ego Dominus.<verse eID="Ezek.7.27" />
+      </p>
+      <chapter eID="Ezek.7" />
+      <chapter sID="Ezek.8" osisID="Ezek.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Ezek.8.1" osisID="Ezek.8.1" />... et facta est super me manus Adonai Domini.<verse eID="Ezek.8.1" />
+        <verse sID="Ezek.8.2" osisID="Ezek.8.2" />Et vidi, et ecce similitudo quasi species viri, a lumbis eius, et deorsum, ignis, et a lumbis eius, et sursum, quasi visio electri.<verse eID="Ezek.8.2" />
+        <verse sID="Ezek.8.3" osisID="Ezek.8.3" />Et extendit similitudinem manus, et assumpsit me in fimbria verticis mei ... et adduxit me in Ierusalem in visione Dei, ad vestibulum portae, quae respicit Aquilonem, ubi erat statua possidentis.<verse eID="Ezek.8.3" />
+        <verse sID="Ezek.8.4" osisID="Ezek.8.4" />Et ecce erat ibi gloria Domini Dei Israel, secundum visionem quam vidi in campo.<verse eID="Ezek.8.4" />
+        <verse sID="Ezek.8.5" osisID="Ezek.8.5" />... ab Aquilone ad portam orientalem.<verse eID="Ezek.8.5" />
+        <verse sID="Ezek.8.12" osisID="Ezek.8.12" />Et dixit Dominus ad me, Fili hominis, vidisti quae seniores Israel faciunt unusquisque eorum in tenebris, unusquisque in cubiculo absconso, quoniam dixerunt, Non videt nos Dominus, dereliquit Dominus terram.<verse eID="Ezek.8.12" />
+        <verse sID="Ezek.8.13" osisID="Ezek.8.13" />Et dixit ad me, Adhuc conversus videbis facinora maiora, quae isti faciunt.<verse eID="Ezek.8.13" />
+        <verse sID="Ezek.8.14" osisID="Ezek.8.14" />Et introduxit me ad limina ianuae domus Domini, quae aspicit ad Aquilonem, et ecce illic mulieres sedentes, et plangentes Thamnus.<verse eID="Ezek.8.14" />
+        <verse sID="Ezek.8.15" osisID="Ezek.8.15" />Et dixit Dominus ad me, Fili hominis vidisti, nunquid modica domus Iuda, ut faciant facinora, quae fecerunt? Et adhuc visurus es affectiones maiores eorum.<verse eID="Ezek.8.15" />
+        <verse sID="Ezek.8.16" osisID="Ezek.8.16" />Et introduxit me in aedem domus Domini interiorem, et ecce in liminibus templi Domini inter medium aelam, et inter medium altaris, quasi viginti quinque viri posteriora sua dederunt ad templum Domini, et facies suas contra Orientalem, hi adorabunt solem.<verse eID="Ezek.8.16" />
+        <verse sID="Ezek.8.17" osisID="Ezek.8.17" />Et dixit ad me, Vides fili hominis, nunquid pusilla domus Iuda, ut faciant facinora, quae fecerunt hic, quoniam impleverunt impietates suas? Et ecce ipsi quasi subsannantes.<verse eID="Ezek.8.17" />
+        <verse sID="Ezek.8.18" osisID="Ezek.8.18" />Ego faciam cum indignatione mea, non parcet oculus meus, neque miserebor, et exclamabunt ad aures meas voce magna, non exaudiam eos, sed neque miserebor.<verse eID="Ezek.8.18" />
+      </p>
+      <chapter eID="Ezek.8" />
+      <chapter sID="Ezek.9" osisID="Ezek.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Ezek.9.1" osisID="Ezek.9.1" />Et clamavit in aures meas voce magna, dicens, Approximavit vindicta civitatis huius, et unusquisque habuit vasa exterminii in manu sua.<verse eID="Ezek.9.1" />
+        <verse sID="Ezek.9.2" osisID="Ezek.9.2" />Et ecce sex viri veniebant a via portae altae, quae respiciebat ad Aquilonem, et uniuscuiusque bipennis dispersionis erat in manu eius, et unus vir in medio eorum indutus podere, et zona sapphiri in lumbis eius, et introierunt, et steterunt in proximis altaris aerei,<verse eID="Ezek.9.2" />
+        <verse sID="Ezek.9.3" osisID="Ezek.9.3" />Et claritas Dei Israel ascendit a cherubin, quae fuit super eam in subdival domus, et vocavit hominem, qui indutus erat podere, qui habuit super lumbos suos zonam.<verse eID="Ezek.9.3" />
+        <verse sID="Ezek.9.4" osisID="Ezek.9.4" />Et dixit ad eum Dominus, Transi mediam Ierusalem, et scribe signum thau in frontibus virorum qui gemunt, et dolent super omnia sacinora, quae fiunt in medio eorum.<verse eID="Ezek.9.4" />
+        <verse sID="Ezek.9.5" osisID="Ezek.9.5" />Et in his dixit ad audientem, Ite post eum in civitatem, et concidite, et nolite parcere oculis vestris, et ne misereamini<verse eID="Ezek.9.5" />
+        <verse sID="Ezek.9.6" osisID="Ezek.9.6" />senioris, aut iuvenis, aut virginis, et parvulos, et mulieries interficite omnes, ut perdeleantur, omnes autem, super quos est thau signum, ne accesseritis, et a sanctis meis incipite ...<verse eID="Ezek.9.6" />
+        <verse sID="Ezek.9.9" osisID="Ezek.9.9" />... Iniquitas domus Israel et Iuda, invaluit nimis, quia repleta est terra populis, et civitas est repleta iniquitate et immunditia ...<verse eID="Ezek.9.9" />
+        <verse sID="Ezek.9.10" osisID="Ezek.9.10" />Ecce ego sum, non parcet oculus meus, neque miserebor ...<verse eID="Ezek.9.10" />
+        <verse sID="Ezek.9.11" osisID="Ezek.9.11" />Et ecce vir, qui indutus erat podere, et accinctus zona lumbos suos, et respondit verbum, dicens, Feci sicut mandasti mihi.<verse eID="Ezek.9.11" />
+      </p>
+      <chapter eID="Ezek.9" />
+      <chapter sID="Ezek.10" osisID="Ezek.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Ezek.10.2" osisID="Ezek.10.2" />Et dixit ad virum, qui indutus erat stola ...<verse eID="Ezek.10.2" />
+        <verse sID="Ezek.10.5" osisID="Ezek.10.5" />... sicut vox Dei saddai ...<verse eID="Ezek.10.5" />
+        <verse sID="Ezek.10.9" osisID="Ezek.10.9" />... species rotarum, quasi visio carbunculi.<verse eID="Ezek.10.9" />
+      </p>
+      <chapter eID="Ezek.10" />
+      <chapter sID="Ezek.11" osisID="Ezek.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Ezek.11.5" osisID="Ezek.11.5" />... Haec dicit Dominus Deus, Sic dixistis domus Israel, et cogitationes spiritus vestri ego novi.<verse eID="Ezek.11.5" />
+        <verse sID="Ezek.11.13" osisID="Ezek.11.13" />... cecidi super faciem meam, et clamavi voce magna, et dixi, Heu mihi, heu mihi, Adonai Domine, in consummatione tu facis reliquias Israel?<verse eID="Ezek.11.13" />
+        <verse sID="Ezek.11.14" osisID="Ezek.11.14" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.11.14" />
+        <verse sID="Ezek.11.15" osisID="Ezek.11.15" />Fili hominis, fratres tui, et viri captivitatis tuae, et omnis domus Israel consummata est, quibus dixerunt habitatores Ierusalem, Longe recessistis a Domino, nobis data est terra in haereditatem.<verse eID="Ezek.11.15" />
+        <verse sID="Ezek.11.16" osisID="Ezek.11.16" />Propterea dic, Haec dicit Adonai Dominus, quia repellam eos in gentes, et disseminabo eos in omnem terram, et ero eis in sanctificationem parvulam in regionibus, ad quas ingressi fuerint illuc.<verse eID="Ezek.11.16" />
+        <verse sID="Ezek.11.19" osisID="Ezek.11.19" />Et dabo eis cor aliud, et spiritum novum dabo eis, et evellam cor lapideum de carne eorum, et dabo eis cor carneum,<verse eID="Ezek.11.19" />
+        <verse sID="Ezek.11.20" osisID="Ezek.11.20" />Ut in praeceptis meis ambulent, et iustificationes meas observent, et faciant eas, et erunt mihi in populum, et ego ero eis in Deum, dicit Dominus.<verse eID="Ezek.11.20" />
+        <verse sID="Ezek.11.24" osisID="Ezek.11.24" />... et ascendi a visione, quam videram.<verse eID="Ezek.11.24" />
+      </p>
+      <chapter eID="Ezek.11" />
+      <chapter sID="Ezek.12" osisID="Ezek.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Ezek.12.1" osisID="Ezek.12.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.12.1" />
+        <verse sID="Ezek.12.2" osisID="Ezek.12.2" />Fili hominis in medio iniquitatum eorum tu habitas ...<verse eID="Ezek.12.2" />
+        <verse sID="Ezek.12.3" osisID="Ezek.12.3" />Et tu fili hominis, fac tibi vasa captivitatis, et captivare per diem coram eis, et captivare de loco tuo in locum alterum in conspectu eorum, ut videant, quia domus exasperans est.<verse eID="Ezek.12.3" />
+        <verse sID="Ezek.12.4" osisID="Ezek.12.4" />Et proferes vasa tua, vasa captivitatis per diem in oculis eorum, et tu egredieris vespere in conspectu eorum, sicut egreditur captivus.<verse eID="Ezek.12.4" />
+        <verse sID="Ezek.12.5" osisID="Ezek.12.5" />Perfode tibi parietem, et transibis per eum.<verse eID="Ezek.12.5" />
+        <verse sID="Ezek.12.6" osisID="Ezek.12.6" />In conspectu eorum in humeris portaberis, et absconditus egredieris, faciem tuam operies, et non videbis terram, quia portentum dedi te domui Israel.<verse eID="Ezek.12.6" />
+        <verse sID="Ezek.12.7" osisID="Ezek.12.7" />Et feci sic iuxta omnia quae mandaverat mihi, vasaque protuli sicut vasa captivitatis per diem, et ad vesperum perfodi mihi parietem manu, et absconditus egressus sum, super humeros assumptus sum in conspectu eorum.<verse eID="Ezek.12.7" />
+        <verse sID="Ezek.12.8" osisID="Ezek.12.8" />Et factus est sermo Domini mane ad me, dicens,<verse eID="Ezek.12.8" />
+        <verse sID="Ezek.12.9" osisID="Ezek.12.9" />Fili hominis, etiamsi non interrogaverint, tu ingredere, ut sciant cur ista feceris.<verse eID="Ezek.12.9" />
+        <verse sID="Ezek.12.10" osisID="Ezek.12.10" />Dic ad eos, Haec dicit Dominus Deus ...<verse eID="Ezek.12.10" />
+        <verse sID="Ezek.12.11" osisID="Ezek.12.11" />Dic, Ego qui portenta facio ...<verse eID="Ezek.12.11" />
+        <verse sID="Ezek.12.17" osisID="Ezek.12.17" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.12.17" />
+        <verse sID="Ezek.12.18" osisID="Ezek.12.18" />Fili hominis, panem tuum cum dolore comedes, et aquam tuam cum tormento et angustia bibes.<verse eID="Ezek.12.18" />
+        <verse sID="Ezek.12.19" osisID="Ezek.12.19" />Et dices ad populum terrae, Haec dicit Adonai Dominus habitatoribus Ierusalem super terram Israel, Panes suos cum egestate comedent, et aquam suam cum dissipatione bibent, ut dissipetur terra et plenitudo eius, in impietate enim omnes qui habitant in ea.<verse eID="Ezek.12.19" />
+        <verse sID="Ezek.12.20" osisID="Ezek.12.20" />Et civitates eorum, quae habitantur, in desolationem erunt, et terra dissipabitur, et cognoscetis quia ego sum Dominus.<verse eID="Ezek.12.20" />
+        <verse sID="Ezek.12.21" osisID="Ezek.12.21" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.12.21" />
+        <verse sID="Ezek.12.22" osisID="Ezek.12.22" />Fili hominis, quae est parabola ...<verse eID="Ezek.12.22" />
+        <verse sID="Ezek.12.24" osisID="Ezek.12.24" />... nec divinans iuxta gratiam ...<verse eID="Ezek.12.24" />
+      </p>
+      <chapter eID="Ezek.12" />
+      <chapter sID="Ezek.13" osisID="Ezek.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Ezek.13.1" osisID="Ezek.13.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.13.1" />
+        <verse sID="Ezek.13.2" osisID="Ezek.13.2" />Fili hominis, vaticinare ad prophetas Israel, et prophetabis, et dices ad eos, Audite verbum Domini.<verse eID="Ezek.13.2" />
+        <verse sID="Ezek.13.3" osisID="Ezek.13.3" />Haec dicit Dominus Deus, Vae his, qui prophetant de corde suo, et omnino non vident.<verse eID="Ezek.13.3" />
+        <verse sID="Ezek.13.4" osisID="Ezek.13.4" />Sicut vulpes in desertis, prophetae tui Israel.<verse eID="Ezek.13.4" />
+        <verse sID="Ezek.13.5" osisID="Ezek.13.5" />Non steterunt in firmamento, et congregaverunt greges super domum Israel, non resurrexerunt qui dicunt, In die Domini,<verse eID="Ezek.13.5" />
+        <verse sID="Ezek.13.6" osisID="Ezek.13.6" />videntes mendacia, divinantes vana, qui dicunt, Dicit Dominus, et Dominus non misit eos, et coeperunt suscitare sermonem.<verse eID="Ezek.13.6" />
+        <verse sID="Ezek.13.7" osisID="Ezek.13.7" />Nonne visionem falsam vidistis, et divinationes vanas locuti estis? Et dicebatis, Dicit Dominus. Et ego non sum locutus.<verse eID="Ezek.13.7" />
+        <verse sID="Ezek.13.8" osisID="Ezek.13.8" />Ideo dic, Haec dicit Adonai Dominus, Quoniam verba vestra mendacia, et divinationes vestrae vanae, idcirco ecce ego super vos, dicit Dominus Deus.<verse eID="Ezek.13.8" />
+        <verse sID="Ezek.13.9" osisID="Ezek.13.9" />Et extendam manum meam super prophetas, qui vident mendacium, et qui loquuntur vana, in disciplina populi mei non erunt, nec in scriptura domus Israel scribentur, et in terram Israel non intrabunt, et scient quia ego Adonai Dominus.<verse eID="Ezek.13.9" />
+        <verse sID="Ezek.13.10" osisID="Ezek.13.10" />Quoniam deceperunt populum meum, dicentes, Pax pax, et non erat pax, et iste aedificabat parietem, et isti linunt eum stultitia.<verse eID="Ezek.13.10" />
+        <verse sID="Ezek.13.11" osisID="Ezek.13.11" />Dic ad eos, qui linunt stultitia, Cadet, erit pluvia inundans, et dabo lapides magnos in iuncturas eorum, et cadent, et spiritus auferens, et disrumpetur.<verse eID="Ezek.13.11" />
+        <verse sID="Ezek.13.12" osisID="Ezek.13.12" />Et ecce cecidit paries, et non dicent ad vos, Ubi est litura vestra, quam livistis?<verse eID="Ezek.13.12" />
+        <verse sID="Ezek.13.13" osisID="Ezek.13.13" />Propterea haec dicit Adonai Dominus, Et disrumpam spiritum auferentem in furore meo, et pluvia inundans in ira mea erit, et lapides magnos in furore inducam in consummationem.<verse eID="Ezek.13.13" />
+        <verse sID="Ezek.13.14" osisID="Ezek.13.14" />Et suffodiam parietem, quem livistis, et cadet, et ponam eum super terram, et revelabuntur fundamenta eius, et cadet, et consumemini cum increpationibus, et cognosceris quia ego Dominus.<verse eID="Ezek.13.14" />
+        <verse sID="Ezek.13.15" osisID="Ezek.13.15" />Et complebo furorem meum super parietem, et super eos qui linunt eum, cadet, dixique ad vos, Non est paries, neque qui linunt eum.<verse eID="Ezek.13.15" />
+        <verse sID="Ezek.13.16" osisID="Ezek.13.16" />Prophetae Israel, qui prophetant super Ierusalem, et qui vident illi pacem, non est pax eis, dicit Dominus Deus.<verse eID="Ezek.13.16" />
+        <verse sID="Ezek.13.17" osisID="Ezek.13.17" />Et tu fili hominis, obfirma faciem tuam super filias populi tui, quae prophetant de corde suo, et propheta super eas,<verse eID="Ezek.13.17" />
+        <verse sID="Ezek.13.18" osisID="Ezek.13.18" />et dices, Haec dicit Adonai Dominus, Vae his quae consuunt cervicalia sub omni cubito manus, et faciunt velamina super omne caput universae aetatis, ut pervertant animas, animae subversae sunt populi mei, et animas salvabant.<verse eID="Ezek.13.18" />
+        <verse sID="Ezek.13.19" osisID="Ezek.13.19" />Et contaminabant me ad populum meum propter pugillum hordei, et fragmentum panis, ut occiderent animas, quas non oportuit mori, et salvarent animas, quas non oportuit vivere, dum loquuntur populo audienti vanos sermones.<verse eID="Ezek.13.19" />
+        <verse sID="Ezek.13.20" osisID="Ezek.13.20" />Propterea haec dicit Dominus Deus, Ecce ego super cervicalia vestra, super quae vos colligitis animas, et disrumpam ea de brachiis vestris, et dimittam animas, quas vos pervertitis, animas eorum in dispersionem.<verse eID="Ezek.13.20" />
+        <verse sID="Ezek.13.21" osisID="Ezek.13.21" />Et disrumpam velamina vestra, et liberabo populum meum de manibus vestris, et non erunt ultra in manibus vestris in congregationem, et cognoscetis quia ego Dominus.<verse eID="Ezek.13.21" />
+        <verse sID="Ezek.13.22" osisID="Ezek.13.22" />Pro eo quod pervertebatis animam iusti inique, et ego non pervertebam eum, et confortabatis manus iniqui, ut penitus non converteretur a via sua pessima, et viveret,<verse eID="Ezek.13.22" />
+        <verse sID="Ezek.13.23" osisID="Ezek.13.23" />propterea mendacia vestra ultra non videbitis, et divinationes nequaquam divinabitis adhuc, et liberabo populum meum de manu vestra, et scietis quia ego Dominus.<verse eID="Ezek.13.23" />
+      </p>
+      <chapter eID="Ezek.13" />
+      <chapter sID="Ezek.14" osisID="Ezek.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Ezek.14.1" osisID="Ezek.14.1" />Et venerunt ad me viri de senioribus Israel, et sederunt ante faciem meam.<verse eID="Ezek.14.1" />
+        <verse sID="Ezek.14.2" osisID="Ezek.14.2" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.14.2" />
+        <verse sID="Ezek.14.3" osisID="Ezek.14.3" />Fili hominis, viri isti posuerunt cogitationes suas in cordibus suis, et tormentum iniquitatum suarum posuerunt ante faciem suam, si respondens respondebo eis?<verse eID="Ezek.14.3" />
+        <verse sID="Ezek.14.4" osisID="Ezek.14.4" />Propterea loqueris eis, et dic ad eos, Haec dicit Adonai Dominus, Homo homo de domo Israel, qui posuerit cogitationes suas in corde suo, et tormentum iniquitatis suae posuerit ante faciem suam, et venerit ad prophetam ut interroget eum in me, ego Dominus respondebo ei in his quibus tenetur mens eius,<verse eID="Ezek.14.4" />
+        <verse sID="Ezek.14.5" osisID="Ezek.14.5" />ut averteret domum Israel secundum corda eorum, quae abalienata sunt a me in cogitationibus eorum.<verse eID="Ezek.14.5" />
+        <verse sID="Ezek.14.6" osisID="Ezek.14.6" />Propterea dic ad domum Israel, Haec dicit Dominus Deus, Convertimini, et recedite ab inventionibus vestris, et ab omnibus impietatibus vestris, et convertite facies vestras ad me.<verse eID="Ezek.14.6" />
+        <verse sID="Ezek.14.7" osisID="Ezek.14.7" />Quia homo homo de domo Israel, et de advenis qui peregrinantur in terra Israel, qui abalienatus fuerit a me, et posuerit cogitationes suas in corde suo, et tormentum iniquitatis suae posuerit ante faciem suam, et venerit ad prophetam ut interroget eum in me, ego Dominus respondebo ei in eo quo tenetur.<verse eID="Ezek.14.7" />
+        <verse sID="Ezek.14.8" osisID="Ezek.14.8" />Et obfirmabo faciem meam super hominem illum, et ponam eum in desertum, et in exterminium, et auferam eum de medio populi mei, et cognoscetis quia ego Dominus.<verse eID="Ezek.14.8" />
+        <verse sID="Ezek.14.9" osisID="Ezek.14.9" />Et propheta si erraverit, et locutus fuerit verbum, ego Dominus errare feci prophetam illum, et extendam manum meam super eum, et exterminabo illum de medio populi mei Israel.<verse eID="Ezek.14.9" />
+        <verse sID="Ezek.14.10" osisID="Ezek.14.10" />Et accipient iniquitatem suam, secundum iniquitatem interrogantis, et iniquitas similiter prophetae erit,<verse eID="Ezek.14.10" />
+        <verse sID="Ezek.14.11" osisID="Ezek.14.11" />ut nequaquam erret domus Israel a me, et non pollantur adhuc in cunctis delictis suis, et erunt mihi in populum, et ego ero eis in Deum, dicit Adonai Dominus.<verse eID="Ezek.14.11" />
+        <verse sID="Ezek.14.12" osisID="Ezek.14.12" />Factus est sermo Domini ad me, dicens,<verse eID="Ezek.14.12" />
+        <verse sID="Ezek.14.13" osisID="Ezek.14.13" />Fili hominis, terra quae peccaverit mihi, ut delinquat delictum, extendam manum meam, et conteram eius firmamentum panis, et emittam in eam famem, et tollam de ea hominem, et pecora.<verse eID="Ezek.14.13" />
+        <verse sID="Ezek.14.14" osisID="Ezek.14.14" />Et si sint tres viri isti in medio eius, Noe, Daniel, et Iob, non liberabunt eam, ipsi in sua iustitia salvi erunt, dicit Dominus.<verse eID="Ezek.14.14" />
+        <verse sID="Ezek.14.15" osisID="Ezek.14.15" />Quod si etiam bestias malas inducam super terram, et puniam illam, et erit in exterminium, et non erit qui iter faciat a facie bestiarum,<verse eID="Ezek.14.15" />
+        <verse sID="Ezek.14.16" osisID="Ezek.14.16" />Et tres viri isti in medio eius sint, vivo ego, dicit Dominus, si filii, et filiae eius liberabuntur, sed ipsi soli salvi erunt, terra autem erit in interitum.<verse eID="Ezek.14.16" />
+      </p>
+      <chapter eID="Ezek.14" />
+      <chapter sID="Ezek.15" osisID="Ezek.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Ezek.15.4" osisID="Ezek.15.4" />... annuam purgationem eius consumit ignis, et dimittit in finem ...<verse eID="Ezek.15.4" />
+        <verse sID="Ezek.15.7" osisID="Ezek.15.7" />... cum obfirmavero faciem meam in eos.<verse eID="Ezek.15.7" />
+      </p>
+      <chapter eID="Ezek.15" />
+      <chapter sID="Ezek.16" osisID="Ezek.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Ezek.16.1" osisID="Ezek.16.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.16.1" />
+        <verse sID="Ezek.16.2" osisID="Ezek.16.2" />Fili hominis, testificare Ierusalem iniquitates suas,<verse eID="Ezek.16.2" />
+        <verse sID="Ezek.16.3" osisID="Ezek.16.3" />Et dices ad eam, Haec dicit Adonai Dominus, Pater tuus Chananaeus, mater tua Chethaea, radix tua, et generatio tua de terra Chanaan.<verse eID="Ezek.16.3" />
+        <verse sID="Ezek.16.4" osisID="Ezek.16.4" />Et generatio tua in die qua nata es, non ligaverunt mamillas tuas, et umbilicus tuus non est praecisus, et in aqua non es lota in salutem, nec sale salita, et pannis non es involuta.<verse eID="Ezek.16.4" />
+        <verse sID="Ezek.16.5" osisID="Ezek.16.5" />Nec pepercit super te oculus tuus, ut facerem tibi unum ex omnibus istis, et pateretur quippiam super te, et proiecta es super faciem campi pravitate animae tuae, in die qua nata es.<verse eID="Ezek.16.5" />
+        <verse sID="Ezek.16.6" osisID="Ezek.16.6" />Et transivi per te, et vidi te mistam in sanguine tuo, et dixi tibi, De sanguine tuo vita,<verse eID="Ezek.16.6" />
+        <verse sID="Ezek.16.7" osisID="Ezek.16.7" />Multiplicare, sicut ortum agri dedi te, et multiplicata es, et magnificata es, et ingressa es in civitates civitatum, ubera tua erecta sunt, et pilus tuus ortus est, tu autem eras nuda, plena ignominiae.<verse eID="Ezek.16.7" />
+        <verse sID="Ezek.16.8" osisID="Ezek.16.8" />Et transivi per te, et vidi te, et ecce tempus tuum, tempus divertentium, et expandi alas meas super te, et operui ignominiam tuam. Et iuravi tibi, et ingressus sum in testamentum tecum (dicit Adonai Dominus) et facta es mihi.<verse eID="Ezek.16.8" />
+        <verse sID="Ezek.16.9" osisID="Ezek.16.9" />Et lavi te aqua, et mundavi sanguinem tuum ex te, et unxi te oleo.<verse eID="Ezek.16.9" />
+        <verse sID="Ezek.16.10" osisID="Ezek.16.10" />Et indui te variis, et calciavi te hyacintho, et cinxi te bysso, et circumdedi te trichapto.<verse eID="Ezek.16.10" />
+        <verse sID="Ezek.16.11" osisID="Ezek.16.11" />Et ornavi te ornamento, et imposui tibi armillas circa manus tuas, et monile circa collum tuum.<verse eID="Ezek.16.11" />
+        <verse sID="Ezek.16.12" osisID="Ezek.16.12" />Et dedi inaurem super nares tuas, et rotulas super aures tuas, et coronam gloriationis super caput tuum.<verse eID="Ezek.16.12" />
+        <verse sID="Ezek.16.13" osisID="Ezek.16.13" />Et ornata es auro, et argento, et amictus tui byssini, et trichapta, et versicoloria, similam, et mel, et oleum comedisti, et speciosa facta es vehementer nimis.<verse eID="Ezek.16.13" />
+        <verse sID="Ezek.16.14" osisID="Ezek.16.14" />Et exivit nomen tuum in gentes in specie tua, quia completum erat in pulchritudine, quam posui super te, dicit Dominus Deus.<verse eID="Ezek.16.14" />
+        <verse sID="Ezek.16.16" osisID="Ezek.16.16" />Et tulisti de vestibus tuis, et fecisti tibi idola consuta, et fornicata es super eis, et non ingredieris, neque fiet.<verse eID="Ezek.16.16" />
+        <verse sID="Ezek.16.17" osisID="Ezek.16.17" />Et protulisti de vasis gloriae tuae de auro meo, et de argento meo, ex quibus dedi tibi, et fecisti tibi imagines masculinas, et fornicata es in eis.<verse eID="Ezek.16.17" />
+        <verse sID="Ezek.16.18" osisID="Ezek.16.18" />Et accepisti vestem meam versicoloriam, et cooperuisti idola tua, et oleum meum, et incensum meum posuisti ante faciem idolorum tuorum.<verse eID="Ezek.16.18" />
+        <verse sID="Ezek.16.19" osisID="Ezek.16.19" />Et panes meos, quos dedi tibi, et similagine, et melle, et oleo cibavi te, et posuisti haec ante faciem idolorum tuorum in odorem bene olentem. Et factum est post haec, dicit Adonai Dominus,<verse eID="Ezek.16.19" />
+        <verse sID="Ezek.16.20" osisID="Ezek.16.20" />et tulisti filios tuos, et filias tuas, quas genuisti, et immolasti eis in consumptionem. Quasi parum fornicata sis,<verse eID="Ezek.16.20" />
+        <verse sID="Ezek.16.21" osisID="Ezek.16.21" />et interfecisti filios tuos, et dedisti eos, cum offerres illis.<verse eID="Ezek.16.21" />
+        <verse sID="Ezek.16.22" osisID="Ezek.16.22" />Hoc est super omnem fornicationem tuam, et abominationes tuas, et non es recordata diei infantiae tuae, quando eras nuda, et ignominiosa. Mista in sanguine tuo vixisti.<verse eID="Ezek.16.22" />
+        <verse sID="Ezek.16.23" osisID="Ezek.16.23" />Et factum est post omnes malitias tuas, dicit Adonai Dominus,<verse eID="Ezek.16.23" />
+        <verse sID="Ezek.16.24" osisID="Ezek.16.24" />et aedificasti tibi habitaculum fornicationis, et fecisti tibi prostitutionem in omni platea.<verse eID="Ezek.16.24" />
+        <verse sID="Ezek.16.25" osisID="Ezek.16.25" />Et in principio omnis viae aedificasti fornicationes tuas, et corrupisti decorem tuum, et divaricasti crura tua omni transeunti, et multiplicasti fornicationem tuam.<verse eID="Ezek.16.25" />
+        <verse sID="Ezek.16.26" osisID="Ezek.16.26" />Et fornicata es cum filiis Aegypti vicinis tuis, qui sunt magnarum carnium, et multipliciter fornicata es, ut me ad iracundiam provocares.<verse eID="Ezek.16.26" />
+        <verse sID="Ezek.16.27" osisID="Ezek.16.27" />Si autem extendero manum meam super te, et auferam legitima tua, et dabo te in animas odientium te filiarum alienigenarum, quae te declinare fecerunt de via tua. Impie egisti,<verse eID="Ezek.16.27" />
+        <verse sID="Ezek.16.28" osisID="Ezek.16.28" />et fornicata es in filios Assur, et nec sic satiata es, et fornicata es, et non es repleta.<verse eID="Ezek.16.28" />
+        <verse sID="Ezek.16.29" osisID="Ezek.16.29" />Et multiplicasti testamenta tua ad terram Chanaan et Chaldaeorum, et neque in istis expleta es.<verse eID="Ezek.16.29" />
+        <verse sID="Ezek.16.30" osisID="Ezek.16.30" />Quid faciam cordi tuo, dicit Adonai Dominus. Cum feceris haec omnia opera mulieris fornicariae, et impudentis? Et fornicata es tripliciter in filiabus tuis,<verse eID="Ezek.16.30" />
+        <verse sID="Ezek.16.31" osisID="Ezek.16.31" />quando aedificasti lupanar tuum in principio omnis viae, et basim tuam fecisti in omni platea, et non fuisti quasi meretrix congregans mercedes.<verse eID="Ezek.16.31" />
+        <verse sID="Ezek.16.32" osisID="Ezek.16.32" />Mulier adultera similis tui, a viro suo accipiens mercedes,<verse eID="Ezek.16.32" />
+        <verse sID="Ezek.16.33" osisID="Ezek.16.33" />omnibus qui fornicabantur cum ea dabat mercedes, et tu dedisti mercedes cunctis amatoribus tuis, et onerabas illos, ut venirent ad te per circuitum in fornicatione tua.<verse eID="Ezek.16.33" />
+        <verse sID="Ezek.16.34" osisID="Ezek.16.34" />Et factum est in te perversum contra mulieres in fornicatione tua, et post te non sunt fornicatae, in eo quod dares mercedes, et mercedes non sunt datae tibi, et factum est in te perversum.<verse eID="Ezek.16.34" />
+        <verse sID="Ezek.16.35" osisID="Ezek.16.35" />Propterea meretrix audi verbum Domini.<verse eID="Ezek.16.35" />
+        <verse sID="Ezek.16.36" osisID="Ezek.16.36" />Haec dicit Adonai Dominus, Quia effudisti aes tuum, et revelabitur ignominia tua in fornicatione tua ad amatores tuos, et in omnes cogitationes iniquitatum tuarum, et in sanguine filiorum tuorum, quos dedisti eis,<verse eID="Ezek.16.36" />
+        <verse sID="Ezek.16.37" osisID="Ezek.16.37" />Ideo ecce ego super te congregabo omnes amatores tuos, quibus commista es. Et omnes quos dilexisti, cum universis quos oderas, et congregabo eos super te per circuitum, et revelabo malitias tuas ad eos, et videbunt cunctam ignominiam tuam.<verse eID="Ezek.16.37" />
+        <verse sID="Ezek.16.38" osisID="Ezek.16.38" />Et ulciscar te ultione adulterarum, et effundentium sanguinem, et ponam te in sanguine furoris et zeli.<verse eID="Ezek.16.38" />
+        <verse sID="Ezek.16.39" osisID="Ezek.16.39" />Et tradam te in manus eorum, et suffodient lupanar tuum, et destruent basim tuam, et nudabunt te vestimentis tuis, et tollent vasa gloriationis tuae, et derelinquent te nudam, et plenam ignominiae,<verse eID="Ezek.16.39" />
+        <verse sID="Ezek.16.40" osisID="Ezek.16.40" />et adducent super te multitudinem, et lapidabunt te lapidibus, et truncabunt te gladiis suis.<verse eID="Ezek.16.40" />
+        <verse sID="Ezek.16.41" osisID="Ezek.16.41" />Et succendent domos tuas igni, et facient in te ultiones coram mulieribus plurimis, et avertam te a fornicatione, et mercedes ultra non dabis.<verse eID="Ezek.16.41" />
+        <verse sID="Ezek.16.42" osisID="Ezek.16.42" />Et immittam furorem meum super te, et auferetur zelus meus a te, et requiescam, et non ero ultra sollicitus.<verse eID="Ezek.16.42" />
+        <verse sID="Ezek.16.43" osisID="Ezek.16.43" />Quia non es recordata diei infantiae tuae, et contristabas me in his omnibus, et ecce ego vias tuas in caput tuum dabo, dicit Adonai Dominus, et sic fecisti iniquitatem super cunctis iniquitatibus tuis.<verse eID="Ezek.16.43" />
+        <verse sID="Ezek.16.44" osisID="Ezek.16.44" />Haec sunt omnia, quae dixerunt contra te in parabola, dicentes, Sicut mater, et filia.<verse eID="Ezek.16.44" />
+        <verse sID="Ezek.16.45" osisID="Ezek.16.45" />Filia matris tuae tu es, quae repulit virum suum, et filios suos, et sorores sororum tuarum, quae repulerunt viros suos, et filios suos, mater vestra Chethaea, et pater vester Amorrhaeus.<verse eID="Ezek.16.45" />
+        <verse sID="Ezek.16.46" osisID="Ezek.16.46" />Soror vestra senior, Samaria, haec et filiae eius, quae habitant a sinistris tuis, et soror tua iunior te, quae habitat a dextris tuis, Sodoma, et filiae eius.<verse eID="Ezek.16.46" />
+        <verse sID="Ezek.16.47" osisID="Ezek.16.47" />Et nec sic quidem in viis eius ambulasti, neque secundum iniquitates illius egisti paulo minus, et transgressa es eas in omnibus viis tuis.<verse eID="Ezek.16.47" />
+        <verse sID="Ezek.16.48" osisID="Ezek.16.48" />Vivo ego, dicit Adonai Dominus, sic fecit Sodoma soror tua haec, et filiae eius, sicut fecisti tu, et filiae tuae.<verse eID="Ezek.16.48" />
+        <verse sID="Ezek.16.49" osisID="Ezek.16.49" />Veruntamen fuit iniquitas Sodomae sororis tuae, superbia in saturitate panum, et in abundantia, deliciis affluebat ipsa, et filiae eius. Hoc habebat ipsa, et filiae eius, et manum pauperis et egeni non assumebant.<verse eID="Ezek.16.49" />
+        <verse sID="Ezek.16.50" osisID="Ezek.16.50" />Et gloriabantur magnifice, et fecerunt iniquitates in conspectu meo, et abstuli eas sicut vidisti.<verse eID="Ezek.16.50" />
+        <verse sID="Ezek.16.51" osisID="Ezek.16.51" />Et Samaria dimidium peccatorum tuorum non peccavit, et multiplicasti iniquitates tuas super eas, et iustificasti sorores tuas in omnibus iniquitatibus tuis, quas operata es.<verse eID="Ezek.16.51" />
+        <verse sID="Ezek.16.52" osisID="Ezek.16.52" />Et tu sustine tormentum tuum, in eo quod corruperis sorores tuas in peccatis tuis, quibus inique egisti super eas, et iustificasti illas super te, et tu confundere, et suscipe ignominiam tuam, eo quod iustificaveris sorores tuas.<verse eID="Ezek.16.52" />
+        <verse sID="Ezek.16.53" osisID="Ezek.16.53" />Et convertam conversiones earum conversione Sodomorum, et filiarum eius, et convertam conversionem Samariae, et filiarum eius, et convertam conversionem tuam in medio earum,<verse eID="Ezek.16.53" />
+        <verse sID="Ezek.16.54" osisID="Ezek.16.54" />ut portes tormentum tuum, et habeas ignominiam ex omnibus, quae fecisti, ut me ad iracundiam provocares.<verse eID="Ezek.16.54" />
+        <verse sID="Ezek.16.55" osisID="Ezek.16.55" />Et soror tua Sodoma, et filiae eius restituentur sicut fuerunt a principio, et Samaria, et filiae eius restituentur sicut fuerunt a principio, et tu, et filiae tuae, restituemini sicut fuistis ab initio.<verse eID="Ezek.16.55" />
+        <verse sID="Ezek.16.56" osisID="Ezek.16.56" />Nisi fuisset Sodoma soror tua ad audiendum in ore tuo, in diebus superbiae tuae,<verse eID="Ezek.16.56" />
+        <verse sID="Ezek.16.57" osisID="Ezek.16.57" />antequam revelarentur malitiae tuae, sicut nunc est filiarum Syriae, et nisi hoc fuisset, quid factum esset tibi, et omnium in circuitu tuo filiarum alienigenarum, quae circumdant te per gyrum?<verse eID="Ezek.16.57" />
+        <verse sID="Ezek.16.58" osisID="Ezek.16.58" />Impietates tuas et iniquitates tuas tu porta.<verse eID="Ezek.16.58" />
+        <verse sID="Ezek.16.59" osisID="Ezek.16.59" />Haec dicit Adonai Dominus, Et faciam in te, sicut fecisti, sicut despexisti haec, ut praeterires testamentum meum,<verse eID="Ezek.16.59" />
+        <verse sID="Ezek.16.60" osisID="Ezek.16.60" />et recordabor ego testamenti mei, quod feci tecum in diebus adolescentiae tuae, et suscitabo tibi testamentum sempiternum.<verse eID="Ezek.16.60" />
+        <verse sID="Ezek.16.61" osisID="Ezek.16.61" />Et recordaberis viae tuae, et despicieris, cum receperis sorores tuas te maiores cum iunioribus tuis, et dabo eas tibi in probationem, et non ex testamento tuo.<verse eID="Ezek.16.61" />
+        <verse sID="Ezek.16.62" osisID="Ezek.16.62" />Et suscitabo ego testamentum meum tecum, et cognosces quia ego Dominus,<verse eID="Ezek.16.62" />
+        <verse sID="Ezek.16.63" osisID="Ezek.16.63" />ut recorderis, et confundaris, et non sit tibi ultra aperire os a facie ignominiae tuae, cum propitius fuero tibi iuxta omnia quae fecisti, dicit Dominus Deus.<verse eID="Ezek.16.63" />
+      </p>
+      <chapter eID="Ezek.16" />
+      <chapter sID="Ezek.17" osisID="Ezek.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Ezek.17.1" osisID="Ezek.17.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.17.1" />
+        <verse sID="Ezek.17.2" osisID="Ezek.17.2" />Fili hominis narra narrationem, et dic parabolam ad domum Israel,<verse eID="Ezek.17.2" />
+        <verse sID="Ezek.17.3" osisID="Ezek.17.3" />et dices, Haec dicit Adonai Dominus, Aquila magna magnarum alarum, longo ductu, plena unguium, quae habet ductum intrandi in Libanum, et tulit electa cedri.<verse eID="Ezek.17.3" />
+        <verse sID="Ezek.17.4" osisID="Ezek.17.4" />Summitates teneritudinis avellit, et attulit eas in terra Chanaan, in civitate murata posuit illud.<verse eID="Ezek.17.4" />
+        <verse sID="Ezek.17.5" osisID="Ezek.17.5" />Et tulit de semine terrae, et dedit illud in campo plantationem super aquas multas, ut respiceretur posuit illud.<verse eID="Ezek.17.5" />
+        <verse sID="Ezek.17.6" osisID="Ezek.17.6" />Ortumque est, et factum in vineam infirmam et parvulam magnitudine, ut tantum apparerent rami eius sub ea, et radices illius subter illam erant, et facta est in vineam magnam, et fecit propagines, et extendit ramos suos.<verse eID="Ezek.17.6" />
+        <verse sID="Ezek.17.7" osisID="Ezek.17.7" />Et facta est aquila altera grandis, magnarum alarum, plurimis unguibus, et ecce vinea haec implicata erat ad eam, et radices eius ad illam, et ramos suos extendit ad illam, ut irrigaret eam cum gleba plantationis suae.<verse eID="Ezek.17.7" />
+        <verse sID="Ezek.17.8" osisID="Ezek.17.8" />In campo bono super aquam multam ipsa impinguata est, ut faceret germina, et afferret fructum, et esset in vineam grandem.<verse eID="Ezek.17.8" />
+        <verse sID="Ezek.17.9" osisID="Ezek.17.9" />Propterea dic, Haec dicit Adonai Dominus, Si dirigetur? Nonne radices teneritudinis eius, et fructus illius computrescet, et arescent omnia quae ex ea orta sunt, et non in brachio magno, neque in populo multo, ut evellat eam a radicibus suis?<verse eID="Ezek.17.9" />
+        <verse sID="Ezek.17.10" osisID="Ezek.17.10" />Et ecce impinguatur, nunquid dirigetur? Nonne statim ut tetigerit eam ventus urens, arescet ac siccabitur ariditate, cum gleba germinis sui arescet?<verse eID="Ezek.17.10" />
+        <verse sID="Ezek.17.22" osisID="Ezek.17.22" />Quia haec dicit Adonai Dominus, Et auferam ego de electis cedri de vertice, de corde eorum auferam, et plantabo super montem excelsum.<verse eID="Ezek.17.22" />
+        <verse sID="Ezek.17.23" osisID="Ezek.17.23" />Et suspendam illud in monte sublimi Israel, et plantabo, et afferet germen, et faciet fructum, et erit in cedrum magnam, et requiescet sub ea omnis avis, et omne volatile sub umbra eius requiescet, et rami eius restituentur.<verse eID="Ezek.17.23" />
+        <verse sID="Ezek.17.24" osisID="Ezek.17.24" />Et scient omnia ligna campi, quia ego Dominus qui humilio lignum excelsum, et exalto lignum humile, et arefacio lignum viride, et germinare facio lignum aridum. Ego Dominus locutus sum, et facio.<verse eID="Ezek.17.24" />
+      </p>
+      <chapter eID="Ezek.17" />
+      <chapter sID="Ezek.18" osisID="Ezek.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Ezek.18.1" osisID="Ezek.18.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.18.1" />
+        <verse sID="Ezek.18.2" osisID="Ezek.18.2" />Fili hominis, quid vobis parabolam istam in terra Israel, dicentium, Patres manducaverunt uvam acerbam, et dentes filiorum obstuerunt?<verse eID="Ezek.18.2" />
+        <verse sID="Ezek.18.3" osisID="Ezek.18.3" />Vivo ego, dicit Adonai Dominus, si amplius dicetur parabola haec in Israel.<verse eID="Ezek.18.3" />
+        <verse sID="Ezek.18.4" osisID="Ezek.18.4" />Quoniam omnes animae, meae sunt, quemadmodum anima patris, ita et anima filii. Omnes animae, meae sunt, anima, quae peccat, ipsa morietur.<verse eID="Ezek.18.4" />
+        <verse sID="Ezek.18.5" osisID="Ezek.18.5" />Homo autem qui fuerit iustus, qui faciet iudicium et iustitiam,<verse eID="Ezek.18.5" />
+        <verse sID="Ezek.18.6" osisID="Ezek.18.6" />in montibus non manducabit, et oculos suos non extollet ad desideria domus Israel, et uxorem proximi sui non contaminabit, et ad mulierem menstruatam non accedet,<verse eID="Ezek.18.6" />
+        <verse sID="Ezek.18.7" osisID="Ezek.18.7" />et hominem non deprimet, et pignus debitori reddet, et rapinam non rapuerit, panem suum esurienti dabit, et nudum operiet vestimento,<verse eID="Ezek.18.7" />
+        <verse sID="Ezek.18.8" osisID="Ezek.18.8" />et pecuniam suam in usuram non dabit, et superabundantiam non accipiet, et ab iniustitia avertet manum suam, et iudicium iustum faciet inter virum et proximum eius,<verse eID="Ezek.18.8" />
+        <verse sID="Ezek.18.9" osisID="Ezek.18.9" />et in praeceptis meis ambulavit, et iustificationes meas custodivit ut faceret eas, iustus est iste, vita vivet, dicit Adonai Dominus.<verse eID="Ezek.18.9" />
+        <verse sID="Ezek.18.10" osisID="Ezek.18.10" />Et si genuerit filium pestilentem, effundentem sanguinem, et facientem peccata,<verse eID="Ezek.18.10" />
+        <verse sID="Ezek.18.11" osisID="Ezek.18.11" />in via patris sui iusti non ambulavit, sed qui in montibus manducavit, et uxorem proximi sui contaminavit,<verse eID="Ezek.18.11" />
+        <verse sID="Ezek.18.12" osisID="Ezek.18.12" />et mendicum et pauperem despressit, et rapinam rapuit, et pignus non reddidit, et in simulacra posuit oculos suos, et iniquitatem fecit,<verse eID="Ezek.18.12" />
+        <verse sID="Ezek.18.13" osisID="Ezek.18.13" />cum usura dedit, et superabundantiam accepit, hic vita non vivet, omnes istas iniquitates fecit, morte morietur, sanguis eius super ipsum erit.<verse eID="Ezek.18.13" />
+        <verse sID="Ezek.18.14" osisID="Ezek.18.14" />Si autem genuerit filium, et viderit omnia peccata patris sui quae fecit, et timuerit, et non fecerit secundum ista,<verse eID="Ezek.18.14" />
+        <verse sID="Ezek.18.15" osisID="Ezek.18.15" />in montibus non manducavit, et oculos suos non levavit ad desideria domus Israel, et uxorem proximi sui non contaminavit,<verse eID="Ezek.18.15" />
+        <verse sID="Ezek.18.16" osisID="Ezek.18.16" />et hominem non depressit, et pignus non pigneravit, et rapinam non rapuit, panem suum esurienti dedit, et nudum operuit vestimento,<verse eID="Ezek.18.16" />
+        <verse sID="Ezek.18.17" osisID="Ezek.18.17" />et ab iniquitate avertit manum suam, usuram et superabundantiam non accepit, iustitiam fecit, et in praeceptis meis ambulavit, iste non morietur in patris sui iniquitatibus, vita vivet.<verse eID="Ezek.18.17" />
+        <verse sID="Ezek.18.18" osisID="Ezek.18.18" />Pater autem eius quia tribulatione tribulavit, et rapinam rapuit, contraria fecit in medio populo meo, et mortuus est in sua iniquitate.<verse eID="Ezek.18.18" />
+        <verse sID="Ezek.18.19" osisID="Ezek.18.19" />Et dixistis, Quid est quod non accepit iniquitatem patris sui filius? Quia filius iustitiam, et iudicium, et misericordiam fecit, omnia legitima mea conservavit, et fecit ea, vita vivet.<verse eID="Ezek.18.19" />
+        <verse sID="Ezek.18.20" osisID="Ezek.18.20" />Anima autem, quae peccat, ipsa morietur, filius non accipiet iniustitiam patris sui, neque pater accipiet iniustitiam filii sui, iustitia iusti super ipsum erit, et iniquitas iniqui super ipsum erit.<verse eID="Ezek.18.20" />
+        <verse sID="Ezek.18.21" osisID="Ezek.18.21" />Et iniquus, si convertat se ab omnibus iniquitatibus suis, quas fecit, et custodiat omnia mandata mea, et faciat iudicium, et iustitiam, et misericordiam, vita vivet, et non morietur.<verse eID="Ezek.18.21" />
+        <verse sID="Ezek.18.22" osisID="Ezek.18.22" />Omnia delicta eius, quaecunque fecit, non erunt in memoria, in sua iustitia, quam fecit, vita vivet.<verse eID="Ezek.18.22" />
+        <verse sID="Ezek.18.23" osisID="Ezek.18.23" />Nunquid voluntate volo mortem iniusti, dicit Adonai Dominus, quam ut avertat se a via sua mala, et vivat?<verse eID="Ezek.18.23" />
+        <verse sID="Ezek.18.24" osisID="Ezek.18.24" />Cum se autem converterit iustus a sua iustitia, et fecerit iniquitates secundum omnes iniquitates, quas fecit iniquus, si fecerit, non vivet, omnes iustitiae eius, quas fecit, non erunt in memoria, in delicto eius, quo excidit, et in peccatis suis, quibus peccavit, in ipsis morietur.<verse eID="Ezek.18.24" />
+        <verse sID="Ezek.18.25" osisID="Ezek.18.25" />Et dixistis, Non dirigit via Domini. Audite nunc domus Israel, Nunquid via mea non dirigit? Nunc via vestra non est aequa.<verse eID="Ezek.18.25" />
+        <verse sID="Ezek.18.26" osisID="Ezek.18.26" />Cum convertit se iustus a sua iustitia, et facit delictum, morietur in eo delicto, quod fecit. In ipso morietur.<verse eID="Ezek.18.26" />
+        <verse sID="Ezek.18.27" osisID="Ezek.18.27" />Et cum averterit se iniquus ab iniquitate sua, quam fecit, et fecerit iudicium et iustitiam, hic animam suam custodivit.<verse eID="Ezek.18.27" />
+        <verse sID="Ezek.18.28" osisID="Ezek.18.28" />Et vidit ut averteret se ab omnibus iniquitatibus suis, quas fecit, vita vivet, et non morietur.<verse eID="Ezek.18.28" />
+        <verse sID="Ezek.18.29" osisID="Ezek.18.29" />Et dicit domus Israel, Non corrigit via Domini. Nunquid via mea non corrigit, domus Israel? Nonne magis via vestra non corrigit?<verse eID="Ezek.18.29" />
+        <verse sID="Ezek.18.30" osisID="Ezek.18.30" />Ideo unumquemque vestrum secundum vias ipsius iudicabo vos domus Israel, dicit Adonai Dominus. Convertimini, et avertite vos ab omnibus impietatibus vestris, et non erunt vobis in poenam iniquitatis.<verse eID="Ezek.18.30" />
+        <verse sID="Ezek.18.31" osisID="Ezek.18.31" />Proiicite a vobis omnes iniquitates vestras, quas impie fecistis adversus me, et facite vobis cor novum, et spiritum novum, et ut quid morimini domus Israel?<verse eID="Ezek.18.31" />
+        <verse sID="Ezek.18.32" osisID="Ezek.18.32" />Quoniam nolo mortem morientis, sed ut avertatur ipse a via sua mala, et vivat anima eius.<verse eID="Ezek.18.32" />
+      </p>
+      <chapter eID="Ezek.18" />
+      <chapter sID="Ezek.19" osisID="Ezek.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Ezek.19.1" osisID="Ezek.19.1" />Et tu accipe lamentum super principem Israel,<verse eID="Ezek.19.1" />
+        <verse sID="Ezek.19.2" osisID="Ezek.19.2" />et dices, Quid mater tua catulus in medio leonum facta est, in medio leonum multiplicavit catulos suos?<verse eID="Ezek.19.2" />
+        <verse sID="Ezek.19.3" osisID="Ezek.19.3" />Et exsilivit unus de catulis eius, leo factus est, et didicit rapere rapinas, homines comedit.<verse eID="Ezek.19.3" />
+        <verse sID="Ezek.19.4" osisID="Ezek.19.4" />Et audierunt contra eum gentes, in corruptione earum captus est, et adduxerunt in camo in terram Aegypti.<verse eID="Ezek.19.4" />
+        <verse sID="Ezek.19.5" osisID="Ezek.19.5" />Et vivit quoniam ablatus esses ab ea, et periisset substantia eius, et tulit alium de catulis suis, leonem constituit eum.<verse eID="Ezek.19.5" />
+        <verse sID="Ezek.19.6" osisID="Ezek.19.6" />Et conversabatur in medio leonum, leo factus est, et didicit rapere rapinas, homines comedit,<verse eID="Ezek.19.6" />
+        <verse sID="Ezek.19.7" osisID="Ezek.19.7" />Et pascebatur in audacia sua, et civitates eorum ad desertum adduxit, et vastavit terram, et plenitudinem eius a voce rugitus sui.<verse eID="Ezek.19.7" />
+        <verse sID="Ezek.19.8" osisID="Ezek.19.8" />Et dedit super eum gentes per circuitum de regionibus, et expanderunt super eum retia sua, in corruptione earum captus est.<verse eID="Ezek.19.8" />
+        <verse sID="Ezek.19.9" osisID="Ezek.19.9" />Et posuerunt eum in camo, et in cavea, venit ad regem Babylonis, et introduxerunt eum in carcerem, ut non audiretur vox eius ultra super montes Israel.<verse eID="Ezek.19.9" />
+        <verse sID="Ezek.19.10" osisID="Ezek.19.10" />Mater tua quasi vinea, sicut flos in malis granatis in aqua plantata, fructus eius, et germen illius factum est ex aqua multa.<verse eID="Ezek.19.10" />
+        <verse sID="Ezek.19.11" osisID="Ezek.19.11" />Et facta est ei virga fortitudinis in tribum ducum, et exaltata est magnitudine sua in medio propaginum, et vidit magnitudinem suam in multitudine palmitum suorum.<verse eID="Ezek.19.11" />
+        <verse sID="Ezek.19.12" osisID="Ezek.19.12" />Et confracta est in furore, in terram proiecta est, et ventus urens arefecit electa eius, vindicati sunt, et arefacta est virga fortitudinis eius, ignis consumpsit eam.<verse eID="Ezek.19.12" />
+        <verse sID="Ezek.19.13" osisID="Ezek.19.13" />Et nunc plantaverunt eam in deserto, in terra sine aqua.<verse eID="Ezek.19.13" />
+        <verse sID="Ezek.19.14" osisID="Ezek.19.14" />Et exivit ignis de virga electorum eius, et comedit eam, et non erat in ea virga fortitudinis. Tribus in parabolam lamentationis est, et erit in planctum.<verse eID="Ezek.19.14" />
+      </p>
+      <chapter eID="Ezek.19" />
+      <chapter sID="Ezek.20" osisID="Ezek.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Ezek.20.3" osisID="Ezek.20.3" />... vivo ego si respondero vobis ...<verse eID="Ezek.20.3" />
+        <verse sID="Ezek.20.4" osisID="Ezek.20.4" />Si ultus eos fuero ultione, fili hominis, iniquitates patrum eorum contestare eis.<verse eID="Ezek.20.4" />
+        <verse sID="Ezek.20.5" osisID="Ezek.20.5" />Et dices ad eos, Haec dicit Dominus Deus, Ex qua die elegi domum Israel, et notus factus sum semini domus Iacob, et cognitus eis in terra Aegypti, et suscepi eos, dicens, Ego Dominus Deus vester,<verse eID="Ezek.20.5" />
+        <verse sID="Ezek.20.6" osisID="Ezek.20.6" />in die illa apprehendi eos manu mea, dicens, ut educerem eos de terra Aegypti, in terram, quam paravi eis, terram fluentem lacte et melle, savus est ultra omnem terram.<verse eID="Ezek.20.6" />
+        <verse sID="Ezek.20.7" osisID="Ezek.20.7" />Et dixi ad eos, Unusquisque abominationes oculorum suorum proiiciat, et in adinventionibus Aegypti non polluatur, ego Dominus Deus vester.<verse eID="Ezek.20.7" />
+        <verse sID="Ezek.20.8" osisID="Ezek.20.8" />Et recesserunt a me, et noluerunt audire me, abominationes oculorum non proiecerunt, et adinventiones Aegypti non reliquerunt ...<verse eID="Ezek.20.8" />
+        <verse sID="Ezek.20.10" osisID="Ezek.20.10" />Eduxi eos de terra Aegypti, et adduxi eos in desertum.<verse eID="Ezek.20.10" />
+        <verse sID="Ezek.20.11" osisID="Ezek.20.11" />Et dedi eis praecepta mea, et iustificationes meas ostendi illis, quas faciet homo, et vivet in eis.<verse eID="Ezek.20.11" />
+        <verse sID="Ezek.20.12" osisID="Ezek.20.12" />Et sabbata mea dedi eis, in signum inter me et inter eos, ut scirent quia ego Dominus qui sanctifico eos.<verse eID="Ezek.20.12" />
+        <verse sID="Ezek.20.15" osisID="Ezek.20.15" />Et ego levavi manum meam super eos in deserto, ut omnino non introducerem eos in terram, quam dedi eis, terram fluentem lacte et melle. Favus est ultra omnem terram,<verse eID="Ezek.20.15" />
+        <verse sID="Ezek.20.16" osisID="Ezek.20.16" />Eo quod iustificationes meas repulerunt, et in praeceptis meis non ambulaverunt, et sabbata mea violaverunt, et post cogitationes cordium suorum ambulaverunt.<verse eID="Ezek.20.16" />
+        <verse sID="Ezek.20.17" osisID="Ezek.20.17" />Et pepercit oculus meus super eos ne delerem eos, et non interfeci eos in consumptionem in deserto.<verse eID="Ezek.20.17" />
+        <verse sID="Ezek.20.18" osisID="Ezek.20.18" />... In legalibus patrum vestrorum nolite ambulare, et iustificationes eorum nolite custodire, et studiis eorum nolite commisceri, et nolite inquinari.<verse eID="Ezek.20.18" />
+        <verse sID="Ezek.20.19" osisID="Ezek.20.19" />Ego Dominus Deus vester, in praeceptis meis ambulate, et iustificationes meas custodite ...<verse eID="Ezek.20.19" />
+        <verse sID="Ezek.20.23" osisID="Ezek.20.23" />Levavi manum meam in deserto inter eos, ut dispergerentur inter gentes, et disseminarentur in regionibus,<verse eID="Ezek.20.23" />
+        <verse sID="Ezek.20.24" osisID="Ezek.20.24" />eo quod iustificationes meas non fecerunt, et praecepta mea repulerunt ... et post concupiscentiam cordis sui erant oculi eorum.<verse eID="Ezek.20.24" />
+        <verse sID="Ezek.20.25" osisID="Ezek.20.25" />Et ego dedi eis praecepta non bona, et iustificationes in quibus non vivent in eis.<verse eID="Ezek.20.25" />
+        <verse sID="Ezek.20.26" osisID="Ezek.20.26" />... cum transducerent omne quod aperit vulvam, ut delerem eos.<verse eID="Ezek.20.26" />
+        <verse sID="Ezek.20.27" osisID="Ezek.20.27" />Idcirco loquere ad domum Israel, fili hominis, et dices ad eos, Haec dicit Adonai Dominus, Usque ad hoc me ad iracundiam provocaverunt patres vestri in delictis suis, quibus coruerunt in me,<verse eID="Ezek.20.27" />
+        <verse sID="Ezek.20.28" osisID="Ezek.20.28" />et introduxi eos in terram, super quam levavi manum meam ut traderem eam illis, videruntque omnem collem excelsum, et omne lignum nemorosum, et immolaverunt ibi diis suis, et posuerunt ibi furorem munerum suorum, et posuerunt ibi odorem fragrantiae eorum, et libaverunt ibi libamina sua.<verse eID="Ezek.20.28" />
+        <verse sID="Ezek.20.29" osisID="Ezek.20.29" />Et dixi ad eos, Quid est abbana, quia vos intratis illuc? Et vocaverunt nomen eius Abbana usque in hodiernum diem.<verse eID="Ezek.20.29" />
+        <verse sID="Ezek.20.31" osisID="Ezek.20.31" />... Vivo ego, dicit Dominus, si respondero vobis, et si ascenderit in spiritum vestrum hoc.<verse eID="Ezek.20.31" />
+        <verse sID="Ezek.20.32" osisID="Ezek.20.32" />Et non erit, quemadmodum dicitis vos, Erimus sicut gentes, et sicut tribus terrae, ut serviamus lignis et lapidibus.<verse eID="Ezek.20.32" />
+        <verse sID="Ezek.20.33" osisID="Ezek.20.33" />Vivo ego, dicit Dominus, nisi in manu forti, et brachio excelso, et in ira effusa regnabo super vos.<verse eID="Ezek.20.33" />
+        <verse sID="Ezek.20.34" osisID="Ezek.20.34" />Et educam vos de populis, et recipiam vos de regionibus, in quibus dispersi estis, in manu forti, et brachio excelso, et ira effusa.<verse eID="Ezek.20.34" />
+        <verse sID="Ezek.20.35" osisID="Ezek.20.35" />Et adducam vos in desertum populorum, et disputabo illic ad vos facie ad faciem.<verse eID="Ezek.20.35" />
+        <verse sID="Ezek.20.36" osisID="Ezek.20.36" />Quemadmodum disputavi ad patres vestros in deserto terrae Aegypti, sic iudicabo vos, dicit Dominus.<verse eID="Ezek.20.36" />
+        <verse sID="Ezek.20.37" osisID="Ezek.20.37" />Et redigam vos sub virga mea, et inducam vos in numero.<verse eID="Ezek.20.37" />
+        <verse sID="Ezek.20.38" osisID="Ezek.20.38" />Et eligam impios de vobis, et desertores, quoniam ex transmigratione eorum educam eos, et in terram Israel non intrabunt, et cognoscetis quia ego sum Dominus.<verse eID="Ezek.20.38" />
+        <verse sID="Ezek.20.39" osisID="Ezek.20.39" />Et vos domus Israel, Haec dicit Adonai Dominus, Unusquisque adinventiones suas auferat. Et post haec, si vos audieritis me, et nomen meum sanctum non pollueritis ultra in muneribus vestris, et in studiis vestris,<verse eID="Ezek.20.39" />
+        <verse sID="Ezek.20.45" osisID="Ezek.20.45" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.20.45" />
+        <verse sID="Ezek.20.46" osisID="Ezek.20.46" />Fili hominis, obfirma faciem tuam super Theman, et respice ad Darom. Vaticinare super saltum ducem Nageb.<verse eID="Ezek.20.46" />
+        <verse sID="Ezek.20.47" osisID="Ezek.20.47" />Et dices saltui Nageb, Audi sermonem Domini, haec dicit Dominus, Ecce ego succendam in te ignem, et devorabit in te omne lignum viride, et lignum aridum, non exstinguetur flamma succensa, et ardebit in ea omnis facies a Meridie usque ad Aquilonem.<verse eID="Ezek.20.47" />
+        <verse sID="Ezek.20.48" osisID="Ezek.20.48" />Et cognoscet omnis caro, quia ego Dominus succendi illam, non exstinguetur.<verse eID="Ezek.20.48" />
+        <verse sID="Ezek.20.49" osisID="Ezek.20.49" />Et dixi, Nequaquam, Domine Domine, ipsi dicunt ad me, Nonne parabola est quae dicitur haec?<verse eID="Ezek.20.49" />
+      </p>
+      <chapter eID="Ezek.20" />
+      <chapter sID="Ezek.21" osisID="Ezek.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Ezek.21.1" osisID="Ezek.21.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.21.1" />
+        <verse sID="Ezek.21.2" osisID="Ezek.21.2" />Idcirco vaticinare fili hominis, et obfirma faciem tuam contra Ierusalem, et aspice ad sancta eorum, et propheta super terram Israel,<verse eID="Ezek.21.2" />
+        <verse sID="Ezek.21.3" osisID="Ezek.21.3" />Et dices ad terram Israel, Haec dicit Dominus Deus, Ecce ego ad te, et educam gladium meum de vagina sua, et interficiam ex te iniquum et iniustum.<verse eID="Ezek.21.3" />
+        <verse sID="Ezek.21.4" osisID="Ezek.21.4" />Sic egredietur gladius meus de vagina sua super omnem carnem a Meridie usque ad Aquilonem,<verse eID="Ezek.21.4" />
+        <verse sID="Ezek.21.5" osisID="Ezek.21.5" />Et cognoscet omnis caro quia ego Dominus eduxi gladium meum de vagina sua, non revertetur ultra.<verse eID="Ezek.21.5" />
+        <verse sID="Ezek.21.6" osisID="Ezek.21.6" />Et tu fili hominis ingemisce in contritione lumborum tuorum, et in doloribus geme in conspectu eorum.<verse eID="Ezek.21.6" />
+        <verse sID="Ezek.21.7" osisID="Ezek.21.7" />Eritque, si dixerint ad te, Quare tu gemis? Et dices, Propter nuncium, quia venit, et comprehendetur pavore omne cor, et dissolventur universae manus, et exanimabitur omnis caro, et omnis spiritus, et omnia femora polluentur humore, ecce venit, et erit, dicit Dominus Deus.<verse eID="Ezek.21.7" />
+        <verse sID="Ezek.21.10" osisID="Ezek.21.10" />... interfice, contemne, repelle omne lignum.<verse eID="Ezek.21.10" />
+        <verse sID="Ezek.21.12" osisID="Ezek.21.12" />... hospites mei ... percute manu,<verse eID="Ezek.21.12" />
+        <verse sID="Ezek.21.13" osisID="Ezek.21.13" />... tribus repulsa est ...<verse eID="Ezek.21.13" />
+        <verse sID="Ezek.21.14" osisID="Ezek.21.14" />... plaude manu, et percute pede ...<verse eID="Ezek.21.14" />
+        <verse sID="Ezek.21.25" osisID="Ezek.21.25" />Et tu profane, inique dux Israel, cuius venit dies, in tempore iniquitatis finis,<verse eID="Ezek.21.25" />
+        <verse sID="Ezek.21.26" osisID="Ezek.21.26" />Haec dicit Dominus Deus, Abstulisti cidarim, et posuisti coronam. Haec non erit similis, humiliasti excelsum, et sublevasti humilem.<verse eID="Ezek.21.26" />
+        <verse sID="Ezek.21.27" osisID="Ezek.21.27" />Iniquitatem, iniquitatem ponam eam, nec haec talis erit, donec veniat cui debetur, et dabo ei.<verse eID="Ezek.21.27" />
+      </p>
+      <chapter eID="Ezek.21" />
+      <chapter sID="Ezek.22" osisID="Ezek.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Ezek.22.5" osisID="Ezek.22.5" />... illudent tibi ...<verse eID="Ezek.22.5" />
+        <verse sID="Ezek.22.7" osisID="Ezek.22.7" />Patri et matri maledixerunt ... pupillum et viduam oppresserunt.<verse eID="Ezek.22.7" />
+        <verse sID="Ezek.22.8" osisID="Ezek.22.8" />... sabbata mea profanastis.<verse eID="Ezek.22.8" />
+        <verse sID="Ezek.22.9" osisID="Ezek.22.9" />Viri latrones fuerunt in te ...<verse eID="Ezek.22.9" />
+        <verse sID="Ezek.22.12" osisID="Ezek.22.12" />... et complebo consummationem malitiae tuae in oppressione tua ...<verse eID="Ezek.22.12" />
+        <verse sID="Ezek.22.18" osisID="Ezek.22.18" />... pro eo quod facta est mihi omnis domus Israel permistio, omnes aeramentum, argentum, ferrum, stannum, et plumbum, in medio camini ardentis permistum,<verse eID="Ezek.22.18" />
+        <verse sID="Ezek.22.19" osisID="Ezek.22.19" />Propterea dicit, Haec dicit Dominus, Propter quod facti estis omnes in permistione una, ideo recipio vos in medio Ierusalem,<verse eID="Ezek.22.19" />
+        <verse sID="Ezek.22.20" osisID="Ezek.22.20" />sicut recipitur aeramentum, argentum, et ferrum, et stannum, et plumbum in medio camini, ad insufflandum in igni, ut confletur, ita recipiam vos in ira mea, et concremabo,<verse eID="Ezek.22.20" />
+        <verse sID="Ezek.22.21" osisID="Ezek.22.21" />et insufflabo in vos insufflationem ignis irae meae, et conflabimini in medio eius.<verse eID="Ezek.22.21" />
+        <verse sID="Ezek.22.22" osisID="Ezek.22.22" />... et scietis quia ego sum Dominus, qui effudi iram meam super vos.<verse eID="Ezek.22.22" />
+        <verse sID="Ezek.22.24" osisID="Ezek.22.24" />... Tu es terra in qua non pluit, nec imber venit super te in die irae.<verse eID="Ezek.22.24" />
+        <verse sID="Ezek.22.25" osisID="Ezek.22.25" />Cuius principes in medio eius, quasi leones rugientes, rapientes praedam, animas devorantes per potentiam ...<verse eID="Ezek.22.25" />
+        <verse sID="Ezek.22.26" osisID="Ezek.22.26" />Sacerdotes eius repulerunt legem meam, profanabant sancta mea, inter mundum et immundum non dividebant, et inter sanctum et pollutum non separabant ...<verse eID="Ezek.22.26" />
+      </p>
+      <chapter eID="Ezek.22" />
+      <chapter sID="Ezek.23" osisID="Ezek.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Ezek.23.3" osisID="Ezek.23.3" />... ibi ceciderunt ubera earum, et ibi devirginatae sunt.<verse eID="Ezek.23.3" />
+        <verse sID="Ezek.23.4" osisID="Ezek.23.4" />Nomina earum, Oolla senior, et Ooliba soror eius, et factae sunt mihi, et pepererunt filios et filias ...<verse eID="Ezek.23.4" />
+        <verse sID="Ezek.23.5" osisID="Ezek.23.5" />... et abiit ad amatores suos ...<verse eID="Ezek.23.5" />
+        <verse sID="Ezek.23.8" osisID="Ezek.23.8" />... et ipsi devirginaverant eam ...<verse eID="Ezek.23.8" />
+        <verse sID="Ezek.23.10" osisID="Ezek.23.10" />... et facta est in sermone mulierum, et ultiones fecerunt in ea.<verse eID="Ezek.23.10" />
+        <verse sID="Ezek.23.17" osisID="Ezek.23.17" />Cumque venissent ad eam filii Babylonis ad cubile divertentium ... et recessit anima eius ab illis.<verse eID="Ezek.23.17" />
+        <verse sID="Ezek.23.20" osisID="Ezek.23.20" />... et verenda equorum, verenda eorum.<verse eID="Ezek.23.20" />
+        <verse sID="Ezek.23.22" osisID="Ezek.23.22" />Propterea Ooliba, haec dicit Dominus Deus, Ecce ego suscitabo amatores tuos contra te, a quibus recessit anima tua, et adducam eos adversum te per circuitum.<verse eID="Ezek.23.22" />
+        <verse sID="Ezek.23.23" osisID="Ezek.23.23" />Filios Babylonis, et omnes Chaldaeos, Phacouth, et Sue, et Couth, et omnes filios Assyriorum cum eis, iuvenes electos, duces et magistratus, omnes tristatas, et nominatos equitantes in equis,<verse eID="Ezek.23.23" />
+        <verse sID="Ezek.23.24" osisID="Ezek.23.24" />cuncti venient super te ab Aquilone, currus et rotae, cum multitudine populorum. Clypei, et peltae, et mittent custodiam super te in circuitu, et dabo ante faciem eorum iudicium, et iudicabunt te iudiciis suis.<verse eID="Ezek.23.24" />
+        <verse sID="Ezek.23.25" osisID="Ezek.23.25" />Et dabo zelum meum in te, et facient tecum in ira furoris, nasum tuum, et aures tuas auferent, et reliquos tuos gladio deiicient, ipsi filios tuos, et filias tuas tollent. Et residuos tuos devorabit ignis.<verse eID="Ezek.23.25" />
+        <verse sID="Ezek.23.26" osisID="Ezek.23.26" />Et denudabunt te vestimento tuo, et assument vasa gloriationis tuae.<verse eID="Ezek.23.26" />
+        <verse sID="Ezek.23.27" osisID="Ezek.23.27" />Et avertent impietates tuas a te, et fornicationem tuam de terra Aegypti, et non elevabis oculos tuos ad eos, et Aegypti non recordaberis amplius.<verse eID="Ezek.23.27" />
+        <verse sID="Ezek.23.32" osisID="Ezek.23.32" />... Calicem sororis tuae Samariae bibes profundum et latum, ut inebrieris.<verse eID="Ezek.23.32" />
+        <verse sID="Ezek.23.34" osisID="Ezek.23.34" />Festivitates et neomenias eius auferam ...<verse eID="Ezek.23.34" />
+        <verse sID="Ezek.23.36" osisID="Ezek.23.36" />... et annuntias eis iniquitates earum?<verse eID="Ezek.23.36" />
+        <verse sID="Ezek.23.37" osisID="Ezek.23.37" />... cum adinventionibus suis fornicatae sunt, insuper et filios suos, quos genuerant mihi, transduxerunt per ignem.<verse eID="Ezek.23.37" />
+        <verse sID="Ezek.23.40" osisID="Ezek.23.40" />... cum venissent, statim lavabaris ...<verse eID="Ezek.23.40" />
+        <verse sID="Ezek.23.42" osisID="Ezek.23.42" />Et voce composita persultabat ... et veniebant ebrii de deserto ...<verse eID="Ezek.23.42" />
+        <verse sID="Ezek.23.44" osisID="Ezek.23.44" />... sic ingrediebantur ad Oollam et Oolibam, ut facerent iniquitatem.<verse eID="Ezek.23.44" />
+        <verse sID="Ezek.23.48" osisID="Ezek.23.48" />Et auferam impietatem de terra, et discent omnes mulieres ne faciant secundum impietatem earum.<verse eID="Ezek.23.48" />
+        <verse sID="Ezek.23.49" osisID="Ezek.23.49" />Et dabunt impietatem vestram super vos ...<verse eID="Ezek.23.49" />
+      </p>
+      <chapter eID="Ezek.23" />
+      <chapter sID="Ezek.24" osisID="Ezek.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Ezek.24.1" osisID="Ezek.24.1" />Et factus est sermo Domini ad me, in anno nono, in mense decimo, decima mensis, dicens,<verse eID="Ezek.24.1" />
+        <verse sID="Ezek.24.2" osisID="Ezek.24.2" />Fili hominis scribe tibi diem ab hac die, qua obfirmatus est rex Babylonis super Ierusalem ab hodierna die.<verse eID="Ezek.24.2" />
+        <verse sID="Ezek.24.3" osisID="Ezek.24.3" />Et dic ad domum exasperantem parabolam, et dices ad eos, Haec dicit Dominus Deus, Pone lebetem, et infunde super eum aquam.<verse eID="Ezek.24.3" />
+        <verse sID="Ezek.24.4" osisID="Ezek.24.4" />Et mitte in eum divisiones, omnem incisuram bonam, crus et humerum, carnibus separatis ab ossibus,<verse eID="Ezek.24.4" />
+        <verse sID="Ezek.24.5" osisID="Ezek.24.5" />de electis pecoribus assumpta. Et incende ossa sub eis, ferbuit, et sunt cocta ossa eius in medio illius.<verse eID="Ezek.24.5" />
+        <verse sID="Ezek.24.6" osisID="Ezek.24.6" />Propterea haec dicit Adonai Dominus, O civitas sanguinum, lebes, in quo est rubigo in eo, et rubigo non est egressa ex eo, per partes suas protulit, non cecidit super eam sors.<verse eID="Ezek.24.6" />
+        <verse sID="Ezek.24.7" osisID="Ezek.24.7" />Quia sanguis eius in medio illius est, super levissimam petram posui illum, non effudi illum super terram ut operiretur terra.<verse eID="Ezek.24.7" />
+        <verse sID="Ezek.24.8" osisID="Ezek.24.8" />Ut ascenderet furor in ultionem vindictae, dedi sanguinem eius super limpidissimam petram ut non operiretur.<verse eID="Ezek.24.8" />
+        <verse sID="Ezek.24.9" osisID="Ezek.24.9" />Propterea haec dicit Adonai Dominus, Vae civitas sanguinum, et ego magnificabo torrem.<verse eID="Ezek.24.9" />
+        <verse sID="Ezek.24.10" osisID="Ezek.24.10" />Et multiplicabo ligna, et succendam ignem, ut tabescant carnes, et imminuatur ius, et ossa concrementur,<verse eID="Ezek.24.10" />
+        <verse sID="Ezek.24.11" osisID="Ezek.24.11" />et stet super carbones suos, incensa est ut exuratur, et frigatur aes eius, et concremetur in medio illius immunditia eius, et deficiat rubigo eius,<verse eID="Ezek.24.11" />
+        <verse sID="Ezek.24.12" osisID="Ezek.24.12" />humiliabitur rubigo, et non exiet de ea multa rubigo eius, confundetur rubigo illius.<verse eID="Ezek.24.12" />
+        <verse sID="Ezek.24.13" osisID="Ezek.24.13" />Immunditia tua zemma, pro eo quod contaminata es tu, et non es emundata ab immunditia tua, et quid erit si non fueris emundata ultra, donec impleam furorem meum in te?<verse eID="Ezek.24.13" />
+        <verse sID="Ezek.24.14" osisID="Ezek.24.14" />Ego Dominus locutus sum, Et veniet, et faciam, non differam, nec miserebor, nec deprecabilis ero, secundum vias tuas, et secundum adinventiones tuas iudicabo te, dicit Adonai Dominus. Propterea ego iudicabo te iuxta sanguinem tuum, et iuxta cogitationes tuas iudicabo te, immunda atque famosa, et nimia ad irritandum.<verse eID="Ezek.24.14" />
+        <verse sID="Ezek.24.15" osisID="Ezek.24.15" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.24.15" />
+        <verse sID="Ezek.24.16" osisID="Ezek.24.16" />Fili hominis, ecce ego auferam a te desiderabilia oculorum tuorum in praeparatione, non planges, neque flebis, nec venient lacrymae tibi.<verse eID="Ezek.24.16" />
+        <verse sID="Ezek.24.17" osisID="Ezek.24.17" />Gemitus sanguinis, renum luctus est, erunt crines tui colligati super te, et calceamenta tua in pedibus tuis, nec consolaberis in labiis eorum, et panem hominum non comedes.<verse eID="Ezek.24.17" />
+        <verse sID="Ezek.24.18" osisID="Ezek.24.18" />Locutus sum ad populum mane sicut praeceperat mihi, et mortua est uxor mea vesperi, fecique mane sicut praeceptum est mihi.<verse eID="Ezek.24.18" />
+        <verse sID="Ezek.24.19" osisID="Ezek.24.19" />Et dixit ad me populus, Non annuntias nobis, quid haec, quae tu facis?<verse eID="Ezek.24.19" />
+        <verse sID="Ezek.24.20" osisID="Ezek.24.20" />Et dixi ad eos, Sermo Domini factus est ad me, dicens,<verse eID="Ezek.24.20" />
+        <verse sID="Ezek.24.21" osisID="Ezek.24.21" />Dic ad domum Israel, Haec dicit Adonai Dominus, Ecce ego contaminabo sancta mea, superbiam fortitudinis vestrae, desiderabilia oculorum vestrorum, et quibus parcunt animae vestrae, filii vestri, et filiae vestrae, quos reliquistis, in gladio cadent.<verse eID="Ezek.24.21" />
+        <verse sID="Ezek.24.22" osisID="Ezek.24.22" />Et facietis sicut feci, Ore eorum non consolabimini, et panem virorum non comedetis.<verse eID="Ezek.24.22" />
+        <verse sID="Ezek.24.23" osisID="Ezek.24.23" />Et comae vestrae super capita vestra, et calceamenta vestra in pedibus vestris, non plangetis nec flebitis, et consumemini in iniquitatibus vestris, et consolabitur unusquisque fratrem suum.<verse eID="Ezek.24.23" />
+        <verse sID="Ezek.24.24" osisID="Ezek.24.24" />Et erit Iezekiel vobis in portentum, secundum omnia, quae fecit, facietis, cumque venerint haec, cognoscetis quoniam ego Adonai Dominus.<verse eID="Ezek.24.24" />
+        <verse sID="Ezek.24.25" osisID="Ezek.24.25" />Et tu fili hominis, nonne in die, quando abstulero fortitudinem ab eis, elationem gloriationis eorum, desiderabilia oculorum eorum, et elationem animae eorum, filios et filias eorum.<verse eID="Ezek.24.25" />
+        <verse sID="Ezek.24.26" osisID="Ezek.24.26" />In die illa veniet qui salvus factus fuerit ad te, ut annuntiet in auribus tuis?<verse eID="Ezek.24.26" />
+        <verse sID="Ezek.24.27" osisID="Ezek.24.27" />In die illa aperietur os tuum ad eum qui fugerit, et loqueris, et nequaquam ultra reticebis, et eris eis in portentum, et cognoscent quoniam ego Dominus.<verse eID="Ezek.24.27" />
+      </p>
+      <chapter eID="Ezek.24" />
+      <chapter sID="Ezek.25" osisID="Ezek.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Ezek.25.1" osisID="Ezek.25.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.25.1" />
+        <verse sID="Ezek.25.2" osisID="Ezek.25.2" />Fili hominis obfirma faciem tuam super filios Ammon ...<verse eID="Ezek.25.2" />
+        <verse sID="Ezek.25.3" osisID="Ezek.25.3" />... Quia gavisi estis super sanctuarium meum ...<verse eID="Ezek.25.3" />
+        <verse sID="Ezek.25.4" osisID="Ezek.25.4" />Idcirco ego tradam te filiis Cedem ... et ipsi bibent ubertatem tuam.<verse eID="Ezek.25.4" />
+        <verse sID="Ezek.25.5" osisID="Ezek.25.5" />Daboque civitatem Ammon in pascua camelorum ...<verse eID="Ezek.25.5" />
+        <verse sID="Ezek.25.6" osisID="Ezek.25.6" />... insonuisti pede, et insultasti ex animo tuo ...<verse eID="Ezek.25.6" />
+        <verse sID="Ezek.25.8" osisID="Ezek.25.8" />Haec dicit Adonai Dominus, Pro eo quod dixit Moab, Ecce sicut omnes gente, domus Iuda,<verse eID="Ezek.25.8" />
+        <verse sID="Ezek.25.9" osisID="Ezek.25.9" />Idcirco ecce ego dissolvam humerum Moab de civitatibus promontoriorum eius, electam terram, domum Beth Iasimuth super fontem urbis maritimae,<verse eID="Ezek.25.9" />
+        <verse sID="Ezek.25.10" osisID="Ezek.25.10" />filios Orientis super filios Ammon, dedi ei in haereditatem, ut non sit memoria filiorum Ammon in gentibus.<verse eID="Ezek.25.10" />
+        <verse sID="Ezek.25.11" osisID="Ezek.25.11" />Et in Moab faciam ultiones, et cognoscent quoniam ego Dominus.<verse eID="Ezek.25.11" />
+        <verse sID="Ezek.25.12" osisID="Ezek.25.12" />Haec dicit Adonai Dominus, Pro eo quod fecit Idumaea ut ulciscerentur ultionem de domo Iuda, et memoriam retinuerunt mali, et ulti sunt ultione.<verse eID="Ezek.25.12" />
+        <verse sID="Ezek.25.13" osisID="Ezek.25.13" />Propterea haec dicit Adonai Dominus, Extendam manum meam super Idumaeam, et interficiam de ea hominem et pecus, et ponam eam desertam, et de Theman fugientes, gladio cadent.<verse eID="Ezek.25.13" />
+        <verse sID="Ezek.25.14" osisID="Ezek.25.14" />Et dabo ultionem meam super Idumaeam in manu populi mei Israel, et facient in Idumaea iuxta iram meam, et furorem meum, et cognoscent ultionem meam, dicit Adonai Dominus.<verse eID="Ezek.25.14" />
+        <verse sID="Ezek.25.15" osisID="Ezek.25.15" />Propterea haec dicit Adonai Dominus, Pro eo quod fecerunt Alienigenae ultionem, et suscitaverunt vindictam, insultantes ex animo, ut delerent usque in aeternum,<verse eID="Ezek.25.15" />
+        <verse sID="Ezek.25.16" osisID="Ezek.25.16" />propterea haec dicit Adonai Dominus, Ecce ego extendam manum meam super Alienigenas, et disperdam Cretenses, et perdam reliquias littoris maritimae,<verse eID="Ezek.25.16" />
+        <verse sID="Ezek.25.17" osisID="Ezek.25.17" />et faciam in eis ultiones magnas in vindicta furoris, et cognoscent quia ego Adonai Dominus, cum dedero ultionem meam super eos.<verse eID="Ezek.25.17" />
+      </p>
+      <chapter eID="Ezek.25" />
+      <chapter sID="Ezek.26" osisID="Ezek.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Ezek.26.1" osisID="Ezek.26.1" />Et factum est in undecimo anno, una mensis, factus est sermo Domini ad me, dicens,<verse eID="Ezek.26.1" />
+        <verse sID="Ezek.26.2" osisID="Ezek.26.2" />Fili hominis, pro eo quod dixit Sor de Ierusalem, Euge confractae sunt gentes, conversa est ad me, quae fuit plena, deserta est.<verse eID="Ezek.26.2" />
+        <verse sID="Ezek.26.3" osisID="Ezek.26.3" />Propterea haec dicit Dominus Deus, Ecce ego super te Sor ...<verse eID="Ezek.26.3" />
+        <verse sID="Ezek.26.4" osisID="Ezek.26.4" />... et ventilabo pulverem eius de ea, et dabo eam in nitidissimam petram.<verse eID="Ezek.26.4" />
+        <verse sID="Ezek.26.6" osisID="Ezek.26.6" />Filiae quoque eius, quae sunt in campo, gladio interficientur, et scient quia ego Dominus.<verse eID="Ezek.26.6" />
+        <verse sID="Ezek.26.7" osisID="Ezek.26.7" />Quia haec dicit Dominus, Ecce ego adducam ad te Sor, Nabuchodonosor regem Babylonis ab Aquilone ...<verse eID="Ezek.26.7" />
+        <verse sID="Ezek.26.10" osisID="Ezek.26.10" />... quasi ingrediens urbem de campo.<verse eID="Ezek.26.10" />
+        <verse sID="Ezek.26.11" osisID="Ezek.26.11" />... et sustantiam fortitudinis tuae in terram deducet.<verse eID="Ezek.26.11" />
+        <verse sID="Ezek.26.12" osisID="Ezek.26.12" />Vastabit opes tuas, spoliabit substantiam tuam, et destruet muros tuos, et domos tuas desiderabiles vertet, et lapides tuos, et ligna tua, et pulverem tuum in medio maris iniiciet.<verse eID="Ezek.26.12" />
+        <verse sID="Ezek.26.13" osisID="Ezek.26.13" />Et destruam multitudinem musicorum tuorum, et vox organorum tuorum non audietur amplius.<verse eID="Ezek.26.13" />
+        <verse sID="Ezek.26.14" osisID="Ezek.26.14" />Et dabo te in nitidissimam petram ...<verse eID="Ezek.26.14" />
+        <verse sID="Ezek.26.15" osisID="Ezek.26.15" />Quia haec dicit Dominus Deus Sor, Nonne a voce ruinae tuae, cum ingremuerint vulnerati cui, cum evaginatus fuerit gladius in medio tui, commovebuntur insulae?<verse eID="Ezek.26.15" />
+        <verse sID="Ezek.26.16" osisID="Ezek.26.16" />Et descendent de sedibus suis omnes principes maris, et auferent coronas suas, et vestimentis suis variis nudabuntur, furore insanient, in terra sedebunt, et formidabunt perditionem suam, et gement super te.<verse eID="Ezek.26.16" />
+        <verse sID="Ezek.26.17" osisID="Ezek.26.17" />Et assument super te lamentum, et dicent tibi, Quomodo peristi, et dissipata es in mari, urbs laudata, quae fuisti fortis in mari, ipsa, et habitatores eius, quae dedit timorem suum omnibus habitatoribus suis?<verse eID="Ezek.26.17" />
+        <verse sID="Ezek.26.18" osisID="Ezek.26.18" />Et formidabunt insulae in die ruinae tuae, et turbabuntur insulae in mari in exitu tuo.<verse eID="Ezek.26.18" />
+        <verse sID="Ezek.26.20" osisID="Ezek.26.20" />Et detraxero te ad eos qui descendunt in foveam ad populum sempiternum, et collocavero te in profundo terrarum sicut solitudines veteres, cum his qui descendunt in foveam, ut non habiteris, et non resurgas in terra viventium,<verse eID="Ezek.26.20" />
+        <verse sID="Ezek.26.21" osisID="Ezek.26.21" />perditionem dabo te, et ultra non eris in sempiternum, dicit Dominus Deus.<verse eID="Ezek.26.21" />
+      </p>
+      <chapter eID="Ezek.26" />
+      <chapter sID="Ezek.27" osisID="Ezek.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Ezek.27.3" osisID="Ezek.27.3" />... negotiationi populorum ab insulis multis ... dixisti, Circumdedi mihi ego decorem ...<verse eID="Ezek.27.3" />
+        <verse sID="Ezek.27.4" osisID="Ezek.27.4" />... Beelim, filii tui circumdederunt tibi decorem,<verse eID="Ezek.27.4" />
+        <verse sID="Ezek.27.5" osisID="Ezek.27.5" />cedrus de Sanir aedificata est tibi, tenues tabulas cypressinas de Libano tulerunt ut facerent tibi malos abiegnos.<verse eID="Ezek.27.5" />
+        <verse sID="Ezek.27.6" osisID="Ezek.27.6" />De Basan fecerunt remos tuos, et templa tua, et fecerunt tibi ex ebore domos silvestres de insulis Chettiim.<verse eID="Ezek.27.6" />
+        <verse sID="Ezek.27.7" osisID="Ezek.27.7" />Byssus cum varietate de Aegypto facta est tibi in stratum, ut circumdaret tibi gloriam, et operiret te hyacintho et purpura, de insulis Elissa facta sunt opertoria tua.<verse eID="Ezek.27.7" />
+        <verse sID="Ezek.27.8" osisID="Ezek.27.8" />Principes tui, qui habitabant in Sidone, et Aradii fuerunt remiges tui, sapientes tui, Sor, qui erant in te, isti gubernatores tui.<verse eID="Ezek.27.8" />
+        <verse sID="Ezek.27.9" osisID="Ezek.27.9" />Senes Biblii, et sapientes eius erant in te. Isti confortabant consilium tuum, et omnes naves maris, et remiges earum, facti sunt tibi in Occidentem Occidentis.<verse eID="Ezek.27.9" />
+        <verse sID="Ezek.27.10" osisID="Ezek.27.10" />... peltas et galeas suspenderunt in te, ipsi dederunt gloriam tuam.<verse eID="Ezek.27.10" />
+        <verse sID="Ezek.27.11" osisID="Ezek.27.11" />Filii Aradiorum, et fortitudo tua super muros tuos in circuitu, custodes in turribus tuis erant, pharetras suas suspenderunt super propugnacula tua per gyrum, ipsi perfecerunt decorem tuum.<verse eID="Ezek.27.11" />
+        <verse sID="Ezek.27.13" osisID="Ezek.27.13" />Graecia universa, et adiacentia eius, ipsi negotiatores tui in animabus hominum, et vasa aenea dederunt mercatum tuum.<verse eID="Ezek.27.13" />
+        <verse sID="Ezek.27.14" osisID="Ezek.27.14" />De domo Thorgama, equos, et equites, et mulos dederunt nundinas tuas.<verse eID="Ezek.27.14" />
+        <verse sID="Ezek.27.15" osisID="Ezek.27.15" />Filii Rhodiorum negotiatores tui ex insulis multiplicaverunt negotiationem tuam dentes elephantinos, et his, qui introducebantur, redebas mercedes tuas,<verse eID="Ezek.27.15" />
+        <verse sID="Ezek.27.16" osisID="Ezek.27.16" />homines, negotiationem tuam a multitudine mercatus tui in Aphec, stactem, et polymita de Tharsis, et ramoth, et chodchod dederunt in nundinas tuas.<verse eID="Ezek.27.16" />
+        <verse sID="Ezek.27.17" osisID="Ezek.27.17" />Iudas et filii Israel isti negotiatores tui in frumenti commercio, et unguentis, primum mel, et oleum, et resinam dederunt in nundinis tuis.<verse eID="Ezek.27.17" />
+        <verse sID="Ezek.27.18" osisID="Ezek.27.18" />Damascus negotiator tuus in multitudine operum tuorum, ex multitudine omnis fortitudinis tuae, vinum ex Chelbon, et lanas de Mileto.<verse eID="Ezek.27.18" />
+        <verse sID="Ezek.27.19" osisID="Ezek.27.19" />Ferrum factum opere, et rota in commistione tua est.<verse eID="Ezek.27.19" />
+        <verse sID="Ezek.27.20" osisID="Ezek.27.20" />Dedan negotiatores tui cum iumentis electis ad currus.<verse eID="Ezek.27.20" />
+        <verse sID="Ezek.27.21" osisID="Ezek.27.21" />Arabia, et universi principes Cedar, ipsi negotiatores manus tuae, camelos, et arietes, et agnos ...<verse eID="Ezek.27.21" />
+        <verse sID="Ezek.27.23" osisID="Ezek.27.23" />Charran, et Chana, et Edne, isti negotiatores tui, Sabba, Assur, et Chalman, institores tui,<verse eID="Ezek.27.23" />
+        <verse sID="Ezek.27.24" osisID="Ezek.27.24" />deferentes negotiationem, hyacinthum, et thesauros electos funibus colligatos, et cyparissos.<verse eID="Ezek.27.24" />
+        <verse sID="Ezek.27.25" osisID="Ezek.27.25" />... satiata et honorata es nimis in corde maris.<verse eID="Ezek.27.25" />
+        <verse sID="Ezek.27.26" osisID="Ezek.27.26" />In aqua multa deduxerunt te remiges tui, spiritus austri contrivit te in corde maris.<verse eID="Ezek.27.26" />
+        <verse sID="Ezek.27.28" osisID="Ezek.27.28" />Ad clamorem vocis tuae gubernatores tui timore timebunt,<verse eID="Ezek.27.28" />
+        <verse sID="Ezek.27.29" osisID="Ezek.27.29" />Et discedent de navibus omnes remiges tui, et vectores, et proretae maris super terram stabunt,<verse eID="Ezek.27.29" />
+        <verse sID="Ezek.27.30" osisID="Ezek.27.30" />et ululabunt super te voce sua, et clamabunt super te amarum, et imponent super caput suum terram, et cinerem sternent.<verse eID="Ezek.27.30" />
+        <verse sID="Ezek.27.32" osisID="Ezek.27.32" />Et accipient super te lamentationem filiorum, lamentum Sor,<verse eID="Ezek.27.32" />
+        <verse sID="Ezek.27.33" osisID="Ezek.27.33" />Quantum invenisti mercedis de mari? Satiasti gentes multitudine tua, et a commistione tua locupletasti omnes reges terrae.<verse eID="Ezek.27.33" />
+        <verse sID="Ezek.27.34" osisID="Ezek.27.34" />Nunc autem contrita es in mari, in profundo aquae commistio tua, et omnis congregatio tua in medio tui. Ceciderunt omnes remiges tui.<verse eID="Ezek.27.34" />
+        <verse sID="Ezek.27.35" osisID="Ezek.27.35" />Omnes qui inhabitant insulas contristati sunt super te, et remiges eorum mentis alienatione stupuerunt, et lacrymatus est vultus eorum super te.<verse eID="Ezek.27.35" />
+        <verse sID="Ezek.27.36" osisID="Ezek.27.36" />Mercatores eorum de gentibus exsibilabunt te, perditio facta es, ultra non eris in aeternum, dicit Dominus.<verse eID="Ezek.27.36" />
+      </p>
+      <chapter eID="Ezek.27" />
+      <chapter sID="Ezek.28" osisID="Ezek.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="Ezek.28.1" osisID="Ezek.28.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.28.1" />
+        <verse sID="Ezek.28.2" osisID="Ezek.28.2" />Et tu fili hominis, dic principi Tyri, Haec dicit Dominus Deus, Pro eo quod exaltatum est cor tuum, et dixisti, Deus ego sum, habitationem Dei habitavi in corde maris, tu autem es homo, et non Deus, et dedisti cor tuum quasi cor Dei.<verse eID="Ezek.28.2" />
+        <verse sID="Ezek.28.3" osisID="Ezek.28.3" />Nunquid sapientior es Daniele? Sapientes non erudierunt te disciplina sua.<verse eID="Ezek.28.3" />
+        <verse sID="Ezek.28.4" osisID="Ezek.28.4" />Nunquid in eruditione tua, aut prudentia tua fecisti tibi fortitudinem, et fecisti aurum et argentum in thesauris tuis?<verse eID="Ezek.28.4" />
+        <verse sID="Ezek.28.5" osisID="Ezek.28.5" />Aut in multa eruditione tua, et negotiatione tua multiplicasti fortitudinem tuam? Elatum est cor tuum in fortitudine tua.<verse eID="Ezek.28.5" />
+        <verse sID="Ezek.28.6" osisID="Ezek.28.6" />Propterea haec dicit Dominus Deus, Quia dedisti cor tuum quasi cor Dei,<verse eID="Ezek.28.6" />
+        <verse sID="Ezek.28.7" osisID="Ezek.28.7" />propter hoc ecce ego adducam super te alienos pestilentes de gentibus, et evaginabunt gladios suos in te super pulchritudine doctrinae tuae, et humiliabunt pulchritudinem tuam in perditione.<verse eID="Ezek.28.7" />
+        <verse sID="Ezek.28.8" osisID="Ezek.28.8" />Et deducent te, et disponent te, et morieris morte vulneratorum in corde maris.<verse eID="Ezek.28.8" />
+        <verse sID="Ezek.28.9" osisID="Ezek.28.9" />Nunquid loquens dices, Deus ego sum, in conspectu interficientium te? Tu autem es homo, et non Deus, in multitudine vulnerantium te.<verse eID="Ezek.28.9" />
+        <verse sID="Ezek.28.10" osisID="Ezek.28.10" />Mortibus incircumcisorum morieris in manibus alienorum, quia ego locutus sum, dicit Adonai Dominus.<verse eID="Ezek.28.10" />
+        <verse sID="Ezek.28.11" osisID="Ezek.28.11" />Et factus est sermo Domini ad me, dicens, Fili hominis sume planctum super principem Tyri,<verse eID="Ezek.28.11" />
+        <verse sID="Ezek.28.12" osisID="Ezek.28.12" />et dices ei, Haec dicit Dominus Deus, Tu signaculum similitudinis, plenus sapientia, et corona decoris,<verse eID="Ezek.28.12" />
+        <verse sID="Ezek.28.13" osisID="Ezek.28.13" />in deliciis paradisi Dei fuisti, omni lapide bono circumdatus es, sardio, et topazio, et smaragdo, et carbunculo, et sapphiro, et iaspide, et argento, et auro, et ligurio, et achate, et amethysto, et chrysolito, et berillo, et onychino, et auro replesti thesauros tuos, et horea tua in te a die, qua conditus es, paraverunt,<verse eID="Ezek.28.13" />
+        <verse sID="Ezek.28.14" osisID="Ezek.28.14" />cum cherub uncto a Deo, et habitante in tabernaculo, et dedi te in monte sancto Dei, factus es in medio lapidum ignitorum.<verse eID="Ezek.28.14" />
+        <verse sID="Ezek.28.15" osisID="Ezek.28.15" />Fuisti immaculatus in diebus tuis a die, qua creatus es, donec inventae sunt iniquitates in te.<verse eID="Ezek.28.15" />
+        <verse sID="Ezek.28.16" osisID="Ezek.28.16" />A multitudine negotiationis tuae replesti cellaria tua iniquitate, et peccasti, et vulneratus es a monte Dei, et adduxit te cherub obumbrans, de medio lapidum ignitorum.<verse eID="Ezek.28.16" />
+        <verse sID="Ezek.28.17" osisID="Ezek.28.17" />Elatum est cor tuum in decore tuo, corrupta est disciplina tua cum decore tuo. Propter multitudinem peccatorum tuorum in terram proiieci te, in conspectu regum dedi te ut dehonestareris.<verse eID="Ezek.28.17" />
+        <verse sID="Ezek.28.18" osisID="Ezek.28.18" />Propter multitudinem peccatorum tuorum, et iniquitates negotiationis tuae, contaminavi sancta tua, et educam ignem in medio tui, hic devorabit te, et dabo te in cinerem super terram in conspectu omnium videntium te.<verse eID="Ezek.28.18" />
+        <verse sID="Ezek.28.19" osisID="Ezek.28.19" />Et omnes, qui noverunt te in gentibus, contristabuntur super te, perditio factus es, et non eris ultra in saeculum.<verse eID="Ezek.28.19" />
+        <verse sID="Ezek.28.20" osisID="Ezek.28.20" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.28.20" />
+        <verse sID="Ezek.28.21" osisID="Ezek.28.21" />Fili hominis obfirma faciem tuam contra Sidonem ...<verse eID="Ezek.28.21" />
+        <verse sID="Ezek.28.22" osisID="Ezek.28.22" />... Haec dicit Dominus Deus, Ecce ego ad te Sidon, et glorificabor in te ... cum fecero in te iudicia, et sanctificatus fuero in te.<verse eID="Ezek.28.22" />
+        <verse sID="Ezek.28.23" osisID="Ezek.28.23" />... et corruent vulnerati in gladiis per circuitum, et scient quia ego Dominus.<verse eID="Ezek.28.23" />
+        <verse sID="Ezek.28.24" osisID="Ezek.28.24" />... qui fecerint contumeliam ...<verse eID="Ezek.28.24" />
+        <verse sID="Ezek.28.25" osisID="Ezek.28.25" />Haec dicit Dominus, Colligam Israel ab omnibus gentibus, ubi dispersi sunt illic, et sanctificabor in eis in conspectu filiorum gentium, et habitabunt super terram suam, quam dedi servo meo Iacob.<verse eID="Ezek.28.25" />
+        <verse sID="Ezek.28.26" osisID="Ezek.28.26" />Et inhabitabunt super eam in spe, et aedificabunt domos, et plantabunt vineas, et inhabitabunt in spe, quando faciam iudicium in omnibus qui inhonoraverunt eos in iis, qui in circuitu sunt eorum, et cognoscent quoniam ego sum Dominus Deus ipsorum, et Deus patrum ipsorum.<verse eID="Ezek.28.26" />
+      </p>
+      <chapter eID="Ezek.28" />
+      <chapter sID="Ezek.29" osisID="Ezek.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="Ezek.29.1" osisID="Ezek.29.1" />In anno duodecimo, in decimo mense, in una mensis die, factum est verbum Domini ad me, dicens,<verse eID="Ezek.29.1" />
+        <verse sID="Ezek.29.2" osisID="Ezek.29.2" />Fili hominis obfirma vultum tuum super Pharaonem regem Aegypti ...<verse eID="Ezek.29.2" />
+        <verse sID="Ezek.29.4" osisID="Ezek.29.4" />Et ponam laqueum in maxillis tuis, et aglutinabo pises fluminum tuorum pennis tuis ...<verse eID="Ezek.29.4" />
+        <verse sID="Ezek.29.5" osisID="Ezek.29.5" />Et deponam te velociter, et omnes pisces fluminis tui, super faciem campi tui cades, nec colligeris, neque congregaberis, bestiis terrae, et volatilibus coeli dedi te ad devorandum,<verse eID="Ezek.29.5" />
+        <verse sID="Ezek.29.6" osisID="Ezek.29.6" />Et scient omnes habitatores Aegypti quia ego sum Dominus, pro eo quod factus es virga arundinea domui Israel.<verse eID="Ezek.29.6" />
+        <verse sID="Ezek.29.7" osisID="Ezek.29.7" />Quando apprehendit te manu sua ... et confregisti omnes renes eorum.<verse eID="Ezek.29.7" />
+        <verse sID="Ezek.29.8" osisID="Ezek.29.8" />Propterea haec dicit Dominus Deus, Ecce ego adducam super te gladium ...<verse eID="Ezek.29.8" />
+        <verse sID="Ezek.29.9" osisID="Ezek.29.9" />Et erit terra Aegypti perditio, et solitudo, et scient quia ego sum Dominus, eo quod dixeris, Fluvii mei sunt, et ego feci illos.<verse eID="Ezek.29.9" />
+        <verse sID="Ezek.29.10" osisID="Ezek.29.10" />Idcirco ecce ego ad te ... daboque terram Aegypti in solitudines, gladio disperditam, a Magdalo et Syene, usque ad terminum Aethiopiae.<verse eID="Ezek.29.10" />
+        <verse sID="Ezek.29.13" osisID="Ezek.29.13" />... congregabo Aegyptios de gentibus, in quibus dispersi fuerant.<verse eID="Ezek.29.13" />
+        <verse sID="Ezek.29.14" osisID="Ezek.29.14" />Et reducam captivitatem Aegypti, et collocabo eos in terra Phatures, in terra, de qua assumpti sunt, et erunt ibi in principatum humilem,<verse eID="Ezek.29.14" />
+        <verse sID="Ezek.29.15" osisID="Ezek.29.15" />... et imminuam eos ne plures sint inter gentes.<verse eID="Ezek.29.15" />
+        <verse sID="Ezek.29.16" osisID="Ezek.29.16" />Neque erunt ultra domui Israel in spe, ut reducant eos in memoriam iniquitatis, ut sequantur illos, et scient quia ego sum Dominus Deus.<verse eID="Ezek.29.16" />
+        <verse sID="Ezek.29.17" osisID="Ezek.29.17" />Et factum est in vigesimo et septimo anno, in primo, et una die mensis, factum est verbum Domini ad me, dicens,<verse eID="Ezek.29.17" />
+        <verse sID="Ezek.29.18" osisID="Ezek.29.18" />Fili hominis, Nabuchodonosor rex Babylonis subiugavit exercitum suum opere magno adversum Tyrum, omne caput calvum, et omnis humerus depilatus, et merces non data est ei, et exercitui eius contra Tyrum, et operi in quo servivit adversum eam.<verse eID="Ezek.29.18" />
+      </p>
+      <chapter eID="Ezek.29" />
+      <chapter sID="Ezek.30" osisID="Ezek.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="Ezek.30.1" osisID="Ezek.30.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.30.1" />
+        <verse sID="Ezek.30.2" osisID="Ezek.30.2" />Fili hominis vaticinare, et dic, Haec dicit Adonai Dominus, O o dies,<verse eID="Ezek.30.2" />
+        <verse sID="Ezek.30.3" osisID="Ezek.30.3" />quoniam iuxta est dies, et iuxta via Domini, dies nubis, finis gentium erit.<verse eID="Ezek.30.3" />
+        <verse sID="Ezek.30.4" osisID="Ezek.30.4" />Et veniet gladius super Aegyptios, et erit conturbatio in Aethiopia, et cadent vulnerati in Aegypto, et auferent multitudinem eius, et concidentur fundamenta illius.<verse eID="Ezek.30.4" />
+        <verse sID="Ezek.30.5" osisID="Ezek.30.5" />Persae, et Cretenses, et Lydi, et Libyes, et omnes commisti, et de filiis testamenti mei, gladio cadent.<verse eID="Ezek.30.5" />
+        <verse sID="Ezek.30.6" osisID="Ezek.30.6" />Haec dicit Adonai Dominus, Et concident sustentacula Aegypti, et descendet contumelia fortitudinis eius, a Magdalo usque ad Syenem gladio cadent in ea, dicit Adonai Dominus,<verse eID="Ezek.30.6" />
+        <verse sID="Ezek.30.7" osisID="Ezek.30.7" />et desolabitur in medio regionum desolatarum, et civitates eius in medio urbium desertarum erunt.<verse eID="Ezek.30.7" />
+        <verse sID="Ezek.30.8" osisID="Ezek.30.8" />Et scient quoniam ego sum Dominus, quando dedero ignem super Aegyptum, et contriti fuerint omnes qui auxiliantur ei.<verse eID="Ezek.30.8" />
+        <verse sID="Ezek.30.9" osisID="Ezek.30.9" />In die illa egredientur nuncii a facie mea, festinantes disperdere Aethiopiae spem. Et erit conturbatio in eis in die Aegypti, quia ecce veniet.<verse eID="Ezek.30.9" />
+        <verse sID="Ezek.30.10" osisID="Ezek.30.10" />Haec dicit Dominus Deus, Et disperdam multitudinem Aegyptiorum per manum Nabuchodonosor regis Babylonis,<verse eID="Ezek.30.10" />
+        <verse sID="Ezek.30.11" osisID="Ezek.30.11" />ipsius et populi eius cum eo, pestilentes. Qui de gentibus missi sunt ad perdendam terram, et evaginabunt omnes gladios suos super Aegyptum, et replebitur terra vulneratorum.<verse eID="Ezek.30.11" />
+        <verse sID="Ezek.30.12" osisID="Ezek.30.12" />Et dabo fluvios eorum desertos, et tradam terram in manu pessimorum, et disperdam terram et plenitudinem eius in manibus alienigenarum, ego Dominus locutus sum.<verse eID="Ezek.30.12" />
+        <verse sID="Ezek.30.13" osisID="Ezek.30.13" />Quia haec dicit Dominus Deus, Et perdam abominationes, et deficere faciam optimates de Memphis, et principes de terra Aegypti, et non erunt ultra, et dabo terrorem in terra Aegypti.<verse eID="Ezek.30.13" />
+        <verse sID="Ezek.30.14" osisID="Ezek.30.14" />Et disperdam terram Phatures, et dabo ignem super Taphnim, et faciam ultionem in Diospoli.<verse eID="Ezek.30.14" />
+        <verse sID="Ezek.30.15" osisID="Ezek.30.15" />Et effundam furorem meum super Sain rober Aegypti, et disperdam multitudinem Mempheos,<verse eID="Ezek.30.15" />
+        <verse sID="Ezek.30.16" osisID="Ezek.30.16" />et dabo ignem super Aegyptum, et conturbatione conturbabitur Sais, et in Diospoli erit scissura, et diffundentur aquae.<verse eID="Ezek.30.16" />
+        <verse sID="Ezek.30.17" osisID="Ezek.30.17" />Iuvenes Heliopoleos et Bubasti gladio cadent, et mulieres captivae ducentur.<verse eID="Ezek.30.17" />
+        <verse sID="Ezek.30.18" osisID="Ezek.30.18" />Et in Taphnis tenebrescet dies, quando contrivero ibi sceptra Aegypti, et peribit ibi contumelia fortitudinis eius, et ipsam nubes operiet, et filiae eius ducentur.<verse eID="Ezek.30.18" />
+        <verse sID="Ezek.30.19" osisID="Ezek.30.19" />Et faciam iudicia in Aegypto, et scient quoniam ego sum Dominus.<verse eID="Ezek.30.19" />
+        <verse sID="Ezek.30.20" osisID="Ezek.30.20" />Et factum est in undecimo anno, in primo, in septima mensis, factum est verbum Domini ad me, dicens,<verse eID="Ezek.30.20" />
+        <verse sID="Ezek.30.21" osisID="Ezek.30.21" />Fili hominis brachium Pharaonis regis Aegpyti confregi ... ut acciperet malagma, et accepto robore posset tenere gladium.<verse eID="Ezek.30.21" />
+        <verse sID="Ezek.30.22" osisID="Ezek.30.22" />Propterea haec dicit Dominus Deus, Ecce ego ad Pharaonem regem Aegypti, et conteram brachia eius fortia, et disposita, et deiiciam gladium de manu eius,<verse eID="Ezek.30.22" />
+        <verse sID="Ezek.30.23" osisID="Ezek.30.23" />et disseminabo Aegyptum in gentibus, et ventilabo eos in terras.<verse eID="Ezek.30.23" />
+        <verse sID="Ezek.30.24" osisID="Ezek.30.24" />Et confortabo brachia regis Babylonis, daboque gladium meum in manu eius, et inducet gladium super Aegyptum, et populabitur praedas eius, et spoliabit spolia illius.<verse eID="Ezek.30.24" />
+        <verse sID="Ezek.30.25" osisID="Ezek.30.25" />Et confortabo brachia regis Babylonis, et brachia Pharaonis cadent, et scient quia ego Dominus, cum dedero gladium meum in manu regis Babylonis, et extenderit eum super terram Aegypti.<verse eID="Ezek.30.25" />
+        <verse sID="Ezek.30.26" osisID="Ezek.30.26" />Et disseminabo Aegyptum in nationes, et ventilabo eos in terras, et scient quia ego Dominus.<verse eID="Ezek.30.26" />
+      </p>
+      <chapter eID="Ezek.30" />
+      <chapter sID="Ezek.31" osisID="Ezek.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="Ezek.31.1" osisID="Ezek.31.1" />Et factum est in undecimo anno, tertio mense, una die mensis, factum est verbum Domini ad me, dicens,<verse eID="Ezek.31.1" />
+        <verse sID="Ezek.31.2" osisID="Ezek.31.2" />Fili hominis dic Pharaoni regi Aegypti, et multitudini eius, Cui similis factus es in altitudine tua?<verse eID="Ezek.31.2" />
+        <verse sID="Ezek.31.3" osisID="Ezek.31.3" />Ecce Assur cypressus in Libano, et bonus ramis, et condensus umbraculo, et excelsus magnitudine, et in medio nubium factum est cacumen eius.<verse eID="Ezek.31.3" />
+        <verse sID="Ezek.31.4" osisID="Ezek.31.4" />Aqua nutrivit eum, et abyssus exaltavit illum ...<verse eID="Ezek.31.4" />
+        <verse sID="Ezek.31.5" osisID="Ezek.31.5" />Propterea elevata est altitudo eius super omnia ligna campi, et multiplicati sunt rami eius prae aquis multis.<verse eID="Ezek.31.5" />
+        <verse sID="Ezek.31.7" osisID="Ezek.31.7" />Eratque pulcherrimus ... et in multitudine ramorum suorum ...<verse eID="Ezek.31.7" />
+        <verse sID="Ezek.31.8" osisID="Ezek.31.8" />Et cyparissi ... et pini ... et abietes non fuerunt similes ramis illius, omne lignum in paradiso Dei non est assimilatum ei, et pulchritudini eius.<verse eID="Ezek.31.8" />
+        <verse sID="Ezek.31.9" osisID="Ezek.31.9" />... et aemulata sunt eam omnia ligna deliciarum, quae erant in paradiso.<verse eID="Ezek.31.9" />
+        <verse sID="Ezek.31.11" osisID="Ezek.31.11" />Tradidi eam in manu principis gentium, et faciam perditionem eius.<verse eID="Ezek.31.11" />
+        <verse sID="Ezek.31.12" osisID="Ezek.31.12" />Et succendent eam alieni, et pestilentes gentium ... et confringentur arbusta eius in universis campis terrae ...<verse eID="Ezek.31.12" />
+        <verse sID="Ezek.31.13" osisID="Ezek.31.13" />In ruina eius requieverunt omnia volatilia coeli ...<verse eID="Ezek.31.13" />
+        <verse sID="Ezek.31.15" osisID="Ezek.31.15" />Haec dicit Dominus Deus, In die quando descendit ad inferos, luxit eum abyssus ... et contenebratus est super eum Libanus, et omnia ligna agri defecerunt.<verse eID="Ezek.31.15" />
+        <verse sID="Ezek.31.16" osisID="Ezek.31.16" />A sonitu ruinae eius commotae sunt gentes, cum deducerent eam ad infernum cum his qui descendunt in lacum, et consolata sunt in terra omnia ligna deliciarum ...<verse eID="Ezek.31.16" />
+        <verse sID="Ezek.31.17" osisID="Ezek.31.17" />Nam et ipsi cum eo descenderunt ad infernum ad vulneratos gladio, et semen uniuscuiusque habitantium sub umbraculo eius in medio vitae suae perierunt.<verse eID="Ezek.31.17" />
+        <verse sID="Ezek.31.18" osisID="Ezek.31.18" />Cui assimilatus es? ... in medio incircumcisorum dormies, cum his qui interfecti sunt gladio, sic est Pharao, et omnis multitudo eius, dicit Dominus Deus.<verse eID="Ezek.31.18" />
+      </p>
+      <chapter eID="Ezek.31" />
+      <chapter sID="Ezek.32" osisID="Ezek.32" />
+      <title>Chatper 32</title>
+      <p>
+        <verse sID="Ezek.32.1" osisID="Ezek.32.1" />Et factum est, duodecimo anno, in mense decimo, in una die mensis, factum est verbum Domini ad me, dicens,<verse eID="Ezek.32.1" />
+        <verse sID="Ezek.32.2" osisID="Ezek.32.2" />Fili hominis assume lamentum super Pharaonem regem Aegypti, et dices ad eum, Leoni gentium assimilatus es, et draconi qui est in mari, et ventilabas cornu in fluminibus tuis, et conturbabas aquas pedibus tuis, et conculcabas flumina tua.<verse eID="Ezek.32.2" />
+        <verse sID="Ezek.32.3" osisID="Ezek.32.3" />Haec dicit Dominus, Circumiaciam super te retia populorum multorum, et extraham te in hamo meo.<verse eID="Ezek.32.3" />
+        <verse sID="Ezek.32.4" osisID="Ezek.32.4" />Et extendam te super terram, campi tui, et constituam super te omnes aves coeli, et saturabo omnes bestias universae terrae.<verse eID="Ezek.32.4" />
+        <verse sID="Ezek.32.5" osisID="Ezek.32.5" />Et dabo carnes tuas super montes, et saturabo sanguine tuo colles.<verse eID="Ezek.32.5" />
+        <verse sID="Ezek.32.6" osisID="Ezek.32.6" />Et rigabitur terra ab his, quae de te procedunt, a multitudine tua in montibus, valles implebo abs te.<verse eID="Ezek.32.6" />
+        <verse sID="Ezek.32.7" osisID="Ezek.32.7" />Et cooperiam coelum, cum exstingueris, et obscurabo astra eius, solem in nube contegam, et lunae non lucebit lumen eius.<verse eID="Ezek.32.7" />
+        <verse sID="Ezek.32.8" osisID="Ezek.32.8" />Omnia quae lucent lumine in coelo, obscurabuntur super te, et dabo tenebras super terram tuam, dicit Dominus.<verse eID="Ezek.32.8" />
+        <verse sID="Ezek.32.9" osisID="Ezek.32.9" />Et exasperabo cor populorum multorum, cum ducam captivitatem tuam in nationes in terram quam non noveras.<verse eID="Ezek.32.9" />
+        <verse sID="Ezek.32.10" osisID="Ezek.32.10" />Et contristabuntur super te multae nationes, et reges earum mentis alienatione stupebunt, cum volabit gladius meus super facies eorum, in medio eorum erit ad ruinam ex die ruinae tuae.<verse eID="Ezek.32.10" />
+        <verse sID="Ezek.32.11" osisID="Ezek.32.11" />Quoniam haec dicit Dominus, Gladius regis Babylonis venit tibi<verse eID="Ezek.32.11" />
+        <verse sID="Ezek.32.12" osisID="Ezek.32.12" />in gladiis gigantum, et deiiciam virtutem tuam, pestes a nationibus omnes, et perdent contumeliam Aegypti, et conteretur omnis virtus eius.<verse eID="Ezek.32.12" />
+        <verse sID="Ezek.32.13" osisID="Ezek.32.13" />Et perdam omnia pecora eius ab aqua multa, et non turbabit eam pes hominis ultra, et vestigium pecorum non calcabit eam.<verse eID="Ezek.32.13" />
+        <verse sID="Ezek.32.14" osisID="Ezek.32.14" />Tunc requiescent aquae eorum, et flumina eorum ut oleum abibunt, dicit Dominus.<verse eID="Ezek.32.14" />
+        <verse sID="Ezek.32.15" osisID="Ezek.32.15" />Et dabo Aegyptum in interitum, et desolabitur terra cum plenitudine sua, et dispergam omnes inhabitantes in ea, et scient quia ego Dominus sum.<verse eID="Ezek.32.15" />
+        <verse sID="Ezek.32.16" osisID="Ezek.32.16" />Planctus est, et plangent eum filiae gentium, super Aegyptum, et super omni fortitudine illius plangent eum, ait Dominus Deus.<verse eID="Ezek.32.16" />
+        <verse sID="Ezek.32.17" osisID="Ezek.32.17" />Et factum est in duodecimo anno, in quintadecima mensis, factus est sermo Domini ad me, dicens,<verse eID="Ezek.32.17" />
+        <verse sID="Ezek.32.18" osisID="Ezek.32.18" />Fili hominis plange super multitudinem Aegypti, et deducent filias eius gentes mortuas in profundum terrae, ad eos qui descendunt in foveam.<verse eID="Ezek.32.18" />
+        <verse sID="Ezek.32.20" osisID="Ezek.32.20" />In medio vulneratorum gladio cadent cum eo, et dormiet omnis fortitudo eius.<verse eID="Ezek.32.20" />
+        <verse sID="Ezek.32.21" osisID="Ezek.32.21" />Et dicent tibi gigantes, In profundo foveae descende, quo melior es? Descende, et dormi cum incircumcisis in medio vulneratorum gladio.<verse eID="Ezek.32.21" />
+        <verse sID="Ezek.32.22" osisID="Ezek.32.22" />Ibi Assur, et omnis congregatio eius, omnes vulneratir ibi dati sunt.<verse eID="Ezek.32.22" />
+        <verse sID="Ezek.32.23" osisID="Ezek.32.23" />Et sepulcrum eius in profundo foveae, et facta est congregatio eius in circuitu sepulcri eius, omnes vulnerati, qui ceciderant gladio, qui dederunt timorem suum in terra vitae.<verse eID="Ezek.32.23" />
+        <verse sID="Ezek.32.24" osisID="Ezek.32.24" />Ibi Aelam, et omnis fortitudo eius in circuitu sepulcri eius, omnes vulnerati, et cadentes gladio, et qui descendunt incircumcisi in terrae profundum, qui dederunt terrorem suum in terra vitae, et acceperunt tormentum suum cum his qui descendunt in foveam,<verse eID="Ezek.32.24" />
+        <verse sID="Ezek.32.25" osisID="Ezek.32.25" />in medio vulneratorum.<verse eID="Ezek.32.25" />
+        <verse sID="Ezek.32.26" osisID="Ezek.32.26" />Ibi dati sunt Mosoch, et Thubal, et omnes fortitudo eorum, in circuitu sepulcri eius omnes vulnerati eius, universi incircumcisi, et vulnerati gladio, qui dederunt terrorem suum super terram vitae.<verse eID="Ezek.32.26" />
+        <verse sID="Ezek.32.27" osisID="Ezek.32.27" />Et non dormierunt cum gigantibus, qui ceciderunt ab aeterno, qui descenderunt in infernum cum armis quibus utebantur ad bella, et posuerunt gladios suos sub capitibus suis, et factae sunt iniquitates eorum in ossibus eorum, quia terruerunt gigantes in vita sua.<verse eID="Ezek.32.27" />
+        <verse sID="Ezek.32.28" osisID="Ezek.32.28" />Et tu in medio incircumcisorum contereris, et dormies cum vulneratis gladio.<verse eID="Ezek.32.28" />
+        <verse sID="Ezek.32.29" osisID="Ezek.32.29" />Ibi Edom, et reges eius, et omnes principes Assur, qui dederunt fortitudinem eius in vulnere gladii, isti cum vulneratis dormierunt, cum his qui descenderunt in foveam.<verse eID="Ezek.32.29" />
+        <verse sID="Ezek.32.30" osisID="Ezek.32.30" />Ibi principes Aquilonis omnes, universi magistratus Assur, qui descenderunt vulnerati, cum terrore suo, et in fortitudine sua confusi, dormierunt incircumcisi cum vulneratis gladio, et abstulerunt tormentum suum cum descendentibus in foveam.<verse eID="Ezek.32.30" />
+        <verse sID="Ezek.32.31" osisID="Ezek.32.31" />Videbit eos Pharao, et consolationem accipiet super omni fortitudine eorum. Vulnerati gladio. Pharao, et omnis fortitudo eius, dicit Dominus Deus,<verse eID="Ezek.32.31" />
+        <verse sID="Ezek.32.32" osisID="Ezek.32.32" />quia dedi formidinem eius super terram vitae, et dormiet in medio incircumcisorum cum vulneratis gladio. Pharao, et omnis multitudo eius, dicit Dominus Deus.<verse eID="Ezek.32.32" />
+      </p>
+      <chapter eID="Ezek.32" />
+      <chapter sID="Ezek.33" osisID="Ezek.33" />
+      <title>Chatper 33</title>
+      <p>
+        <verse sID="Ezek.33.1" osisID="Ezek.33.1" />Et factum est verbum Domini ad me, dicens,<verse eID="Ezek.33.1" />
+        <verse sID="Ezek.33.2" osisID="Ezek.33.2" />Fili hominis loquere ad filios populi tui, et dices ad eos, Terra cum induxero super eam gladium, et tulerit populus terrae hominem unum de suis, et constituerit eum super se speculatorem,<verse eID="Ezek.33.2" />
+        <verse sID="Ezek.33.3" osisID="Ezek.33.3" />et ille viderit gladium venientem super terram, et cecinerit buccina, et annuntiaverit populo,<verse eID="Ezek.33.3" />
+        <verse sID="Ezek.33.4" osisID="Ezek.33.4" />Audiens autem ... sonitum buccinae, et non se observaverit, veneritque gladius, et comprehenderit eum, sanguis ipsius super caput eius erit.<verse eID="Ezek.33.4" />
+        <verse sID="Ezek.33.5" osisID="Ezek.33.5" />Vocem buccinae audivit, et non se observavit, sanguis eius in ipso erit ...<verse eID="Ezek.33.5" />
+        <verse sID="Ezek.33.6" osisID="Ezek.33.6" />Quod si speculator viderit gladium venientem, et non insonuerit buccina, et populus non se custodierit, veneritque gladius, et tulerit de his animam, ille quidem in iniquitate sua captus est, sanguinem autem eius de manu speculatoris requiram.<verse eID="Ezek.33.6" />
+        <verse sID="Ezek.33.7" osisID="Ezek.33.7" />Et tu fili hominis, speculatorem dedi te domui Israel, audies ex ore meo sermonem, et praemonstrabis eis ex me.<verse eID="Ezek.33.7" />
+        <verse sID="Ezek.33.8" osisID="Ezek.33.8" />In eo cum dixero peccatori, Morte morieris, et non fueris locutus ut caveat impius a via sua, ille facinorosus in suo facinore morietur, sanguinem autem eius de manu tua exquiram.<verse eID="Ezek.33.8" />
+        <verse sID="Ezek.33.9" osisID="Ezek.33.9" />Tu autem si praenuntiaveris facinoroso viam eius ut avertatur ab ea, et non fuerit aversus a via sua, iste in facinore suo morietur, et tu animam tuam liberabis.<verse eID="Ezek.33.9" />
+        <verse sID="Ezek.33.10" osisID="Ezek.33.10" />... Fili hominis dic populo Israel, Quare locuti estis, dicentes, Erroribus nostris contabescimus, et quomodo salvi esse poterimus?<verse eID="Ezek.33.10" />
+        <verse sID="Ezek.33.11" osisID="Ezek.33.11" />Dic eis, Vivo ego, dicit Dominus, quia non desidero mortem peccatoris, sed desidero ut avertatur peccator a via sua pessima, et vivat. Redite ergo a via vestra pessima, quid morti vos traditis domus Israel?<verse eID="Ezek.33.11" />
+        <verse sID="Ezek.33.12" osisID="Ezek.33.12" />... Iustitia iusti non liberabit eum in quacunque die exerraverit, iniquitas iniqui non nocebit eum, in quacunque die averterit se a sua iniquitate ...<verse eID="Ezek.33.12" />
+        <verse sID="Ezek.33.13" osisID="Ezek.33.13" />Et si dixero iusto, Vita vives, et recesserit post haec a iustitia sua, vivo ego, dicit Dominus, quia morte morietur, iustitiae eius non liberabunt eum in die qua recesserit a iustitia, et fecerit iniquitatem. In iniquitate sua morietur.<verse eID="Ezek.33.13" />
+        <verse sID="Ezek.33.14" osisID="Ezek.33.14" />Cum dixero peccatori, Morte morieris, et peccator se abstulerit a via sua mala, et ab studiis suis pessimis,<verse eID="Ezek.33.14" />
+        <verse sID="Ezek.33.15" osisID="Ezek.33.15" />vivo ego, dicit Domoinus, vita vivet, et non morietur in delicto suo quod fecit.<verse eID="Ezek.33.15" />
+        <verse sID="Ezek.33.21" osisID="Ezek.33.21" />Et factum est in duodecimo anno ... quinta mensis captivitatis nostrae, venit ad me qui salvatus fuerat de Ierusalem, dicens, Capta est civitas.<verse eID="Ezek.33.21" />
+        <verse sID="Ezek.33.31" osisID="Ezek.33.31" />Et veniunt ad te, quomodo populus congregari solet ... quoniam mendacium in ore eorum ipsi faciunt, et post abominationes suas cor eorum graditur.<verse eID="Ezek.33.31" />
+        <verse sID="Ezek.33.32" osisID="Ezek.33.32" />Et factus es eis quasi vox citharae suave canentis, et bene compositae, et audiunt verba tua, et non faciunt ea.<verse eID="Ezek.33.32" />
+      </p>
+      <chapter eID="Ezek.33" />
+      <chapter sID="Ezek.34" osisID="Ezek.34" />
+      <title>Chatper 34</title>
+      <p>
+        <verse sID="Ezek.34.1" osisID="Ezek.34.1" />Et factum est ad me verbum Domini, dicens,<verse eID="Ezek.34.1" />
+        <verse sID="Ezek.34.2" osisID="Ezek.34.2" />Fili hominis propheta super pastores Israel, Haec dicit Dominus Deus, O pastores Israel, qui pascunt se solos, nunquid non oves pascunt pastores?<verse eID="Ezek.34.2" />
+        <verse sID="Ezek.34.3" osisID="Ezek.34.3" />Ecce lac consumitis, et lanis vos tegitis, et quod crassum est interficitis, et oves meas non pascitis.<verse eID="Ezek.34.3" />
+        <verse sID="Ezek.34.4" osisID="Ezek.34.4" />Quod infirmatum est non confortastis, et quod aegrotum est non corroborastis, et quod contribulatum est non colligastis, et quod errabat non revocastis, et quod periit non inquisistis, et quod forte suit confecistis.<verse eID="Ezek.34.4" />
+        <verse sID="Ezek.34.5" osisID="Ezek.34.5" />Et dispersae sunt oves meae, eo quod non sit pastor, et factae sunt in comesturam omnibus bestiis agri, et dispersae sunt.<verse eID="Ezek.34.5" />
+        <verse sID="Ezek.34.6" osisID="Ezek.34.6" />Et erraverunt oves meae in omnem montem, et in omnem collem altum, et super omnem faciem terrae dispersae sunt, et non fuit qui requireret, non fuit qui revocaret.<verse eID="Ezek.34.6" />
+        <verse sID="Ezek.34.7" osisID="Ezek.34.7" />Propterea pastores audite verbum Domini,<verse eID="Ezek.34.7" />
+        <verse sID="Ezek.34.8" osisID="Ezek.34.8" />Vivo ego, dicit Dominus Deus, nisi pro eo quod factae sunt oves meae in comesturam omnibus bestiis campi, eo quod non esset pastor, et non quaesierunt pastores oves meas, et paverunt pastores se ipsos, oves autem meas non paverunt,<verse eID="Ezek.34.8" />
+        <verse sID="Ezek.34.9" osisID="Ezek.34.9" />Propter istud pastores audite verbum Domini,<verse eID="Ezek.34.9" />
+        <verse sID="Ezek.34.10" osisID="Ezek.34.10" />Haec dicit Dominus Deus, Ecce ego super pastores, et inquiram oves meas de manibus eorum, et avertam ab eis ut non pascant oves meas, et non pascent adhuc pastores semetipsos, et extraham oves meas de ore eorum, et de manibus eorum, et non erunt eis adhuc in cibum.<verse eID="Ezek.34.10" />
+        <verse sID="Ezek.34.11" osisID="Ezek.34.11" />Quoniam haec dicit Dominus Deus, Ecce ego ipse et inquiram oves meas, et visitabo eas.<verse eID="Ezek.34.11" />
+        <verse sID="Ezek.34.12" osisID="Ezek.34.12" />Sicut visitat pastor gregem suum in die, cum fuerit nimbus et nubes in medio ovium dispersarum, sic inquiram oves meas, et educam eas ab omni loco, quo dispersae sunt illic in die nubis et nimbi.<verse eID="Ezek.34.12" />
+        <verse sID="Ezek.34.13" osisID="Ezek.34.13" />Et educam eas de gentibus, et colligam eas de regionibus, et inducam eas in terram earum, et pascam eas super montes Israel, et in rivis, et in omni habitatione terrae.<verse eID="Ezek.34.13" />
+        <verse sID="Ezek.34.14" osisID="Ezek.34.14" />In pascua bona pascam eas, et in montibus altis Israel erunt stabula earum illic, et dormient, et requiescent in deliciis bonis, et in pascua pingui pascentur super montes Israel.<verse eID="Ezek.34.14" />
+        <verse sID="Ezek.34.15" osisID="Ezek.34.15" />Ego pascam oves meas, et ego requiescere faciam eas, dicit Dominus Deus.<verse eID="Ezek.34.15" />
+        <verse sID="Ezek.34.16" osisID="Ezek.34.16" />Haec dicit Dominus Deus, Quod periit requiram, et quod erravit revocabo, et quod comminutum est colligabo, et quod exanime est confortabo, et quod pingue est, et quod forte est custodiam, et pascam eas cum iudicio.<verse eID="Ezek.34.16" />
+        <verse sID="Ezek.34.17" osisID="Ezek.34.17" />Et vos oves meae, haec dicit Dominus Deus, Ecce ego iudicio inter ovem et ovem, et arietes et hircos.<verse eID="Ezek.34.17" />
+        <verse sID="Ezek.34.18" osisID="Ezek.34.18" />Nunquid non sufficit vobis quia bonam pascuam pascebatis? Et reliquias pascuae vestrae conculcabatis pedibus vestris, et potabatis aquam, quae subsidebat, et reliquam pedibus vestris turbabatis.<verse eID="Ezek.34.18" />
+        <verse sID="Ezek.34.19" osisID="Ezek.34.19" />Et oves meae conculcationes pedum vestrorum depascebant, et conturbatam pedibus vestris aquam potabant.<verse eID="Ezek.34.19" />
+        <verse sID="Ezek.34.20" osisID="Ezek.34.20" />Pro istis haec dicit Dominus Deus ad eos, Ecce ego iudico inter ovem fortem, et inter ovem imbecillam,<verse eID="Ezek.34.20" />
+        <verse sID="Ezek.34.21" osisID="Ezek.34.21" />quoniam lateribus et humeris vestris impellebatis, et cornibus vestris percutiebatis, et omne quod deficiebat comprimebatis, quoadusque dispergeretis eas foras,<verse eID="Ezek.34.21" />
+        <verse sID="Ezek.34.22" osisID="Ezek.34.22" />et salvabo oves meas, et iam non erunt in vastationem, et iudicabo inter ovem et ovem.<verse eID="Ezek.34.22" />
+        <verse sID="Ezek.34.23" osisID="Ezek.34.23" />ET EXCITABO SUPER EAS PASTOREM UNUM, et pascet eas servus meus David, ipse pascet eas, et erit eis in pastorem.<verse eID="Ezek.34.23" />
+        <verse sID="Ezek.34.24" osisID="Ezek.34.24" />Et ego Dominus ero illis in Deum, et servus meus David princeps in medio eorum, ego Dominus locutus sum.<verse eID="Ezek.34.24" />
+        <verse sID="Ezek.34.25" osisID="Ezek.34.25" />Et disponam ad eos testamentum pacis, et exterminabo bestias malas a terra, et habitabunt in eremo in spe, et somnum habebunt in rivis.<verse eID="Ezek.34.25" />
+        <verse sID="Ezek.34.26" osisID="Ezek.34.26" />Et dabo eis in circumitu collis mei benedictionem, et deferam imbrem in tempore suo, imbres benedictionis erunt.<verse eID="Ezek.34.26" />
+        <verse sID="Ezek.34.27" osisID="Ezek.34.27" />Et ligna, quae in campo sunt, dabunt fructum suum, et terra dabit generationem suam, et habitabunt in terra sua in spe, et scient quoniam ego sum Dominus, in eo cum confregero furcas iugi eorum, et eximam eos de manu eorum, qui eos in servitutem redigebant.<verse eID="Ezek.34.27" />
+        <verse sID="Ezek.34.28" osisID="Ezek.34.28" />Et non erunt adhuc in vastationem gentibus, et bestiae terrae iam non comedent eos, et inhabitabunt in spe, et non erit qui eos terreat.<verse eID="Ezek.34.28" />
+        <verse sID="Ezek.34.29" osisID="Ezek.34.29" />Et excitabo eis plantarium pacis, et iam non erunt qui exterminentur fame in terra, et iam non portabunt maledictum gentium.<verse eID="Ezek.34.29" />
+        <verse sID="Ezek.34.30" osisID="Ezek.34.30" />Et scient quoniam ego sum Dominus Deus eorum, et ipsi populus meus domus Israel, dicit Dominus Deus.<verse eID="Ezek.34.30" />
+        <verse sID="Ezek.34.31" osisID="Ezek.34.31" />Et vos oves meae, et oves gregis mei homines estis, et ego Deus vester, dicit Dominus Deus.<verse eID="Ezek.34.31" />
+      </p>
+      <chapter eID="Ezek.34" />
+      <chapter sID="Ezek.35" osisID="Ezek.35" />
+      <title>Chatper 35</title>
+      <p>
+        <verse sID="Ezek.35.1" osisID="Ezek.35.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.35.1" />
+        <verse sID="Ezek.35.2" osisID="Ezek.35.2" />Fili hominis converte faciem tuam adversum montem Seir, et prophetabis ad eum ...<verse eID="Ezek.35.2" />
+        <verse sID="Ezek.35.3" osisID="Ezek.35.3" />Haec dicit Dominus Deus, Ecce ego ad te mons Seir, et extendam manum meam super te ...<verse eID="Ezek.35.3" />
+        <verse sID="Ezek.35.4" osisID="Ezek.35.4" />In urbibus tuis faciam solitudinem, et tu desertus eris, et scies quia ego sim Dominus.<verse eID="Ezek.35.4" />
+        <verse sID="Ezek.35.5" osisID="Ezek.35.5" />Eo quod fueris inimicus sempiternus, et assederis domui Israel fraudulenter in manu gladii ...<verse eID="Ezek.35.5" />
+        <verse sID="Ezek.35.6" osisID="Ezek.35.6" />Propterea vivo ego, dicit Dominus Deus, quoniam in sanguine peccasti, et sanguis te persequetur.<verse eID="Ezek.35.6" />
+        <verse sID="Ezek.35.7" osisID="Ezek.35.7" />Et dabo montem Seir desolatum et desertum, et auferam de eo homines, et iumenta.<verse eID="Ezek.35.7" />
+        <verse sID="Ezek.35.8" osisID="Ezek.35.8" />Et implebo montes eius vulneratorum ... atque campis interfecti gladio cadent.<verse eID="Ezek.35.8" />
+        <verse sID="Ezek.35.9" osisID="Ezek.35.9" />... et civitates tuae non habitabuntur, et scies quoniam ego sum Dominus.<verse eID="Ezek.35.9" />
+        <verse sID="Ezek.35.10" osisID="Ezek.35.10" />Eo quod dixeris, Duae gentes, et duae regiones meae erunt, et haereditate possidebo eas, cum Dominus esset ibi,<verse eID="Ezek.35.10" />
+        <verse sID="Ezek.35.11" osisID="Ezek.35.11" />Propterea vivo ego, dicit Dominus Deus, quia faciam iuxta inimicitiam tuam, et secundum zelum tuum, quem fecisti ... et notus efficiar tibi cum iudicavero te.<verse eID="Ezek.35.11" />
+        <verse sID="Ezek.35.12" osisID="Ezek.35.12" />Et scies quia ego sum Dominus, audivi vocem blasphemiarum tuarum, quia locutus es ...<verse eID="Ezek.35.12" />
+        <verse sID="Ezek.35.13" osisID="Ezek.35.13" />Et magnifice locutus es super me ore tuo, et vociferati estis contra me, ego audivi.<verse eID="Ezek.35.13" />
+        <verse sID="Ezek.35.15" osisID="Ezek.35.15" />Desertus eris mons Seir, et omnis Idumaea, et consumentur, et scient quia ego sum Dominus.<verse eID="Ezek.35.15" />
+      </p>
+      <chapter eID="Ezek.35" />
+      <chapter sID="Ezek.36" osisID="Ezek.36" />
+      <title>Chatper 36</title>
+      <p>
+        <verse sID="Ezek.36.1" osisID="Ezek.36.1" />Tu autem fili hominis propheta super montes Israel ... Audite verbum Domini,<verse eID="Ezek.36.1" />
+        <verse sID="Ezek.36.2" osisID="Ezek.36.2" />Haec dicit Dominus Deus, Eo quod dixerit inimicus de vobis, Euge, solitudines sempiternae in possessionem datae sunt nobis,<verse eID="Ezek.36.2" />
+        <verse sID="Ezek.36.3" osisID="Ezek.36.3" />propterea vaticinare, et dic, Haec dicit Dominus Deus, Pro eo quod dispersi estis ab his, qui in circuitu vestro sunt, et facti in possessionem reliquis gentibus, et ascendistis super labiuim linguae, et opprobrium gentibus,<verse eID="Ezek.36.3" />
+        <verse sID="Ezek.36.4" osisID="Ezek.36.4" />propterea montes Israel audite verbum Domini Dei, Haec dicit Dominus Deus montibus, et collibus, torrentibus, vallibusque, et desertis, dissipatis, et urbibus derelictis, quae depopulatae sunt, et conculcatae, et reliquis gentibus per circuitum.<verse eID="Ezek.36.4" />
+        <verse sID="Ezek.36.5" osisID="Ezek.36.5" />Propterea haec dicit Dominus Deus ... quoniam dederunt terram tuam sibi in possessionem cum iucunditate, inhonorantes animas, ut exterminarent in vastationem,<verse eID="Ezek.36.5" />
+        <verse sID="Ezek.36.6" osisID="Ezek.36.6" />propterea propheta super terram Israel, et dic montibus et collibus, et rivis, et nemoribus, Haec dicit Dominus, Ecce ego in zelo meo, et in ira mea locutus sum, propter quod opprobrium gentium portastis.<verse eID="Ezek.36.6" />
+        <verse sID="Ezek.36.7" osisID="Ezek.36.7" />Ecce ego levabo manum meam super nationes, quae sunt in circuitu vestro, hi iniuriam suam accipient.<verse eID="Ezek.36.7" />
+        <verse sID="Ezek.36.8" osisID="Ezek.36.8" />Vestri autem montes Israel uvam, et fructum vestrum manducabit populus meus, qui appropinquat venire,<verse eID="Ezek.36.8" />
+        <verse sID="Ezek.36.9" osisID="Ezek.36.9" />Quia ecce ego super vos, et respiciam super vos, et colemini, et seminabimini.<verse eID="Ezek.36.9" />
+        <verse sID="Ezek.36.10" osisID="Ezek.36.10" />Et multiplicabo super vos totam domum Israel usque in finem, et habitabuntur civitates, et quae desolatae erant aedificabuntur.<verse eID="Ezek.36.10" />
+        <verse sID="Ezek.36.11" osisID="Ezek.36.11" />... et scietis quia ego sum Dominus.<verse eID="Ezek.36.11" />
+        <verse sID="Ezek.36.12" osisID="Ezek.36.12" />Et generabo super vos homines, populum meum Israel, et haereditate possidebunt vos, et eritis eis in possessionem, et non addetis ultra ut absque liberis vos faciant.<verse eID="Ezek.36.12" />
+        <verse sID="Ezek.36.13" osisID="Ezek.36.13" />Haec dicit Dominus Deus, Pro eo quod dixerunt tibi, Devoratrix hominum es ...<verse eID="Ezek.36.13" />
+        <verse sID="Ezek.36.14" osisID="Ezek.36.14" />Propterea homines non comedes amplius ... ait Dominus Deus,<verse eID="Ezek.36.14" />
+        <verse sID="Ezek.36.15" osisID="Ezek.36.15" />Nec auditam faciam in vobis amplius ignominiam gentium, et opprobria populorum nequaquam portabitis, et gens tua absque liberis ultra non erit, dicit Dominus Deus.<verse eID="Ezek.36.15" />
+        <verse sID="Ezek.36.16" osisID="Ezek.36.16" />Et factus est ad me sermo Domini, dicens,<verse eID="Ezek.36.16" />
+        <verse sID="Ezek.36.17" osisID="Ezek.36.17" />Fili hominis, domus Israel habitavit in terra, et polluerunt illam in via sua, et in idolis suis, et peccatis suis. Secundum immunditiam menstruatae facta est via eorum ante faciem meam.<verse eID="Ezek.36.17" />
+        <verse sID="Ezek.36.18" osisID="Ezek.36.18" />Et effudi iram meam super eos,<verse eID="Ezek.36.18" />
+        <verse sID="Ezek.36.19" osisID="Ezek.36.19" />et dispersi illos inter nationes, et ventilavi eos in regiones, secundum vias eorum, et secundum peccata eorum iudicavi eos.<verse eID="Ezek.36.19" />
+        <verse sID="Ezek.36.20" osisID="Ezek.36.20" />Et ingressi sunt inter nationes, quas ingressi sunt illic, et polluerunt nomen meum sanctum, dum dicunt ipsi, Populus Domini hi, et de terra sui egressi sunt.<verse eID="Ezek.36.20" />
+        <verse sID="Ezek.36.21" osisID="Ezek.36.21" />Et peperci illis propter nomen meum sanctum, quod polluerunt domus Israel in nationibus, in quas ingressi sunt illic.<verse eID="Ezek.36.21" />
+        <verse sID="Ezek.36.22" osisID="Ezek.36.22" />Propter hoc dic domui Israel, Haec dicit Dominus, Non vobis ego facio, domus Israel, sed propter nomen meum sanctum, quod polluistis in nationibus, in medio in quas ingressi estis illic.<verse eID="Ezek.36.22" />
+        <verse sID="Ezek.36.23" osisID="Ezek.36.23" />Et sanctificabo nomen meum sanctum, illud magnum, quod pollutum est inter nationes, quod polluistis in medio earum, et scient gentes quoniam ego sum Dominus, dum sanctificor in vobis ante oculos eorum.<verse eID="Ezek.36.23" />
+        <verse sID="Ezek.36.24" osisID="Ezek.36.24" />Et accipiam vos de gentibus, et congregabo vos ex omnibus terris, et inducam vos in terram vestram.<verse eID="Ezek.36.24" />
+        <verse sID="Ezek.36.25" osisID="Ezek.36.25" />Et aspergam vos aqua munda, et mundabimini ab omnibus simulacris vestris, et mundabo vos.<verse eID="Ezek.36.25" />
+        <verse sID="Ezek.36.26" osisID="Ezek.36.26" />Et dabo vobis cor novum, et spiritum novum dabo in vobis, et auferam cor lapideum de carne vestra, et dabo vobis cor carneum.<verse eID="Ezek.36.26" />
+        <verse sID="Ezek.36.27" osisID="Ezek.36.27" />Et spiritum meum dabo in vos, et faciam ut in iustitiis meis ambuletis, et iudicia mea custodiatis, et faciatis.<verse eID="Ezek.36.27" />
+        <verse sID="Ezek.36.28" osisID="Ezek.36.28" />Et habitabitis in terra, quam dedi patribus vestris, et eritis mihi in populum, et ego ero vobis in Deum.<verse eID="Ezek.36.28" />
+        <verse sID="Ezek.36.29" osisID="Ezek.36.29" />Et mundabo vos ex omnibus immunditiis vestris, et vocabo triticum, et multiplicabo illud, et non dabo in vos famem.<verse eID="Ezek.36.29" />
+        <verse sID="Ezek.36.30" osisID="Ezek.36.30" />Et multiplicabo fructum ligni, et quae nascuntur in agro, ut non aciipiatis ultra opprobrium famis in nationibus.<verse eID="Ezek.36.30" />
+        <verse sID="Ezek.36.31" osisID="Ezek.36.31" />Et reminiscemini vias vestras pessimas, et cogitationes vestras non bonas, et odio habebitis eas ante faciem eorum in iniquitatibus vestris, et in abominationibus eorum.<verse eID="Ezek.36.31" />
+        <verse sID="Ezek.36.32" osisID="Ezek.36.32" />Non propter vos ego facio, dicit Dominus, notum est vobis, confundimini, et revertimini de viis vestris, domus Israel.<verse eID="Ezek.36.32" />
+        <verse sID="Ezek.36.33" osisID="Ezek.36.33" />Haec dicit Adonai Dominus, In die, qua mundabo vos ab omnibus iniquitatibus vestris, et inhabitari faciam civitates, et reaedificabuntur deserta,<verse eID="Ezek.36.33" />
+        <verse sID="Ezek.36.34" osisID="Ezek.36.34" />et terra, quae exterminata fuerit, coletur, propter quod fuit exterminata sub oculis omnis praetereuntis,<verse eID="Ezek.36.34" />
+        <verse sID="Ezek.36.35" osisID="Ezek.36.35" />et dicent, Terra illa, quae fuerat exterminata, facta est sicut hortus deliciarum, et civitates desertae, et exterminatae, et demolitae, munitae consederunt.<verse eID="Ezek.36.35" />
+        <verse sID="Ezek.36.36" osisID="Ezek.36.36" />Et scient gentes quaecunque derelictae fuerint in circuitu vestro, quoniam ego sum Dominus, aedificavi demolitas, et plantavi exterminatas, quia ego Dominus locutus sum, et feci.<verse eID="Ezek.36.36" />
+        <verse sID="Ezek.36.37" osisID="Ezek.36.37" />Haec dicit Dominus, Adhuc hoc inquiram domui Israel, ut faciam eis, Multiplicabo eos sicut oves homines,<verse eID="Ezek.36.37" />
+        <verse sID="Ezek.36.38" osisID="Ezek.36.38" />sicut oves sanctas, sicut oves Ierusalem in diebus festis eius, Sic erunt civitates illae desolatae, plenae ovium hominum, et scient quia ego Dominus.<verse eID="Ezek.36.38" />
+      </p>
+      <chapter eID="Ezek.36" />
+      <chapter sID="Ezek.37" osisID="Ezek.37" />
+      <title>Chatper 37</title>
+      <p>
+        <verse sID="Ezek.37.1" osisID="Ezek.37.1" />Et facta est super me manus Domini, et eduxit me in spiritu Domini, et posuit me in medio campi, et hic erat plenus ossium hominum,<verse eID="Ezek.37.1" />
+        <verse sID="Ezek.37.2" osisID="Ezek.37.2" />Et circumduxit me super ea per gyrum in circuitu, et ecce multa nimis super faciem campi, et arida vehementer.<verse eID="Ezek.37.2" />
+        <verse sID="Ezek.37.3" osisID="Ezek.37.3" />Et dixit ad me, Fili hominis, si vivent ossa haec? Et dixi, Unde Domine Domine, tu nosti haec?<verse eID="Ezek.37.3" />
+        <verse sID="Ezek.37.4" osisID="Ezek.37.4" />Et dixit ad me, Fili hominis propheta super ossa ista, et dices eis, Ossa arida audite verbum Domini.<verse eID="Ezek.37.4" />
+        <verse sID="Ezek.37.5" osisID="Ezek.37.5" />Haec dicit Dominus Deus ossibus istis, Ecce ego adducam super vos spiritum vitae.<verse eID="Ezek.37.5" />
+        <verse sID="Ezek.37.6" osisID="Ezek.37.6" />Et dabo super vos nervos, et inducam super vos carnes, et extendam super vos pellem, et dabo spiritum meum super vos, et vivetis, et cognoscetis quoniam ego sum Dominus.<verse eID="Ezek.37.6" />
+        <verse sID="Ezek.37.7" osisID="Ezek.37.7" />Et prophetavi sicut praecepit mihi, et facta est vos, cum ego prophetarem, et ecce commotio, et accedebant ossa ad ossa, ad iuncturam suam.<verse eID="Ezek.37.7" />
+        <verse sID="Ezek.37.8" osisID="Ezek.37.8" />Et vidi, et ecce super ea nervi et carnes oriebantur, et ascendebant super ea pelles desuper, et spiritus non erat in eis.<verse eID="Ezek.37.8" />
+        <verse sID="Ezek.37.9" osisID="Ezek.37.9" />Et dixit ad me, Propheta fili hominis, propheta super spiritum, et dic spiritui, Haec dicit Dominus Deus, A quatuor spiritibus veni spiritus, et insuffla super mortuos istos, et vivant.<verse eID="Ezek.37.9" />
+        <verse sID="Ezek.37.10" osisID="Ezek.37.10" />Et prophetavi sicut praeceperat mihi, et ingressus est in eos spiritus, et vixerunt, et steterunt in pedibus suis congregatio multa vehementer nimis.<verse eID="Ezek.37.10" />
+        <verse sID="Ezek.37.11" osisID="Ezek.37.11" />Et locutus est Dominus ad me, dicens, Fili hominis, ossa haec, omnis domus Israel est, ipsi dicunt, Arida facta sunt ossa nostra, periit spes nostra, desperavimus.<verse eID="Ezek.37.11" />
+        <verse sID="Ezek.37.12" osisID="Ezek.37.12" />Propterea vaticinare, et dic ad eos, Haec dicit Dominus Deus, Ecce ego aperiam memorias vestras, et reducam vos de sepulcris vestris, populus meus, et introducam vos in terram Israel.<verse eID="Ezek.37.12" />
+        <verse sID="Ezek.37.13" osisID="Ezek.37.13" />Et cognoscetis quoniam ego sum Dominus, cum aperuero sepulcra vestra, ut educam vos de sepulcris vestris, populus meus,<verse eID="Ezek.37.13" />
+        <verse sID="Ezek.37.14" osisID="Ezek.37.14" />Et dabo spiritum meum in vobis, et vivetis, et ponam vos super terram vestram, et cognoscetis quia ego sum Dominus, locutus sum, et faciam, dicit Dominus Deus.<verse eID="Ezek.37.14" />
+        <verse sID="Ezek.37.15" osisID="Ezek.37.15" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.37.15" />
+        <verse sID="Ezek.37.16" osisID="Ezek.37.16" />Et tu fili hominis assume tibi virgam unam, et scribe super eam, Iudam, et filios Israel, qui appositi sunt ei, et virgam secundam assumes tibi, et scribes super eam, Ioseph virgam Ephraim, et omnes filios Israel, qui appositi sunt ei.<verse eID="Ezek.37.16" />
+        <verse sID="Ezek.37.17" osisID="Ezek.37.17" />Et coniunges eas invicem tibi in virgam unam, ut copules eas, et erunt in manu tua.<verse eID="Ezek.37.17" />
+        <verse sID="Ezek.37.18" osisID="Ezek.37.18" />Et erit quando dixerint tibi filii Israel loquentes, Non indicas nobis quid fiut ista tibi?<verse eID="Ezek.37.18" />
+        <verse sID="Ezek.37.19" osisID="Ezek.37.19" />Et dices ad eos, Haec dicit Dominus Deus, Ecce ego assumam in tribum Ioseph, per manum Ephraim, tribus Israel, quae adiunctae sunt ei, et dabo eos omnes super tribuem Iuda, et erunt in virgam unam, et erunt una in manu Iuda.<verse eID="Ezek.37.19" />
+        <verse sID="Ezek.37.20" osisID="Ezek.37.20" />Et erunt virgae, quas inscripsisti sic in manu tua, coram eis.<verse eID="Ezek.37.20" />
+        <verse sID="Ezek.37.21" osisID="Ezek.37.21" />Et dices eis, Haec dicit Dominus Deus, Ecce ego assumam omnem domum Israel de medio gentium, ad quas ingressi sunt, et congregabo eos ex omnibus qui in circuitu eius sunt, et inducam eos in terram Israel.<verse eID="Ezek.37.21" />
+        <verse sID="Ezek.37.22" osisID="Ezek.37.22" />Et dabo eos in gentem unam in terra mea in montibus Israel, et princeps unus erit omnium istorum in regem, et non erunt ultra in duas gentes, nec dividentur ultra in duo regna,<verse eID="Ezek.37.22" />
+        <verse sID="Ezek.37.23" osisID="Ezek.37.23" />ut non polluantur ultra in idolis suis, et in offendiculis suis, et in omnibus impietatibus suis, et eruam eos ex omnibus iniquitatibus eorum, in quibus peccaverunt, et mundabo eos, et erunt mihi in populum, et ego ero eis in Deum.<verse eID="Ezek.37.23" />
+        <verse sID="Ezek.37.24" osisID="Ezek.37.24" />Et servus meus David princeps in medio eorum, et pastor unus erit omnium istorum, quia in praeceptis meis ambulabunt, et iudicia mea custodient, et facient ea.<verse eID="Ezek.37.24" />
+        <verse sID="Ezek.37.25" osisID="Ezek.37.25" />Et habitabunt in terra sua, quam dedi servo meo Iacob, ubi habitaverunt patres eorum, et habitabunt in ea ipsi, et filii eorum, et filii filiorum eorum, usque in sempiternum, et David servus meus princeps eorum erit in perpetuum.<verse eID="Ezek.37.25" />
+        <verse sID="Ezek.37.26" osisID="Ezek.37.26" />Et disponam eis testamentum pacis, testamentum sempiternum erit cum eis, et dabo eos, et multiplicabo eos, et ponam sancta mea in medio eorum in perpetuum.<verse eID="Ezek.37.26" />
+        <verse sID="Ezek.37.27" osisID="Ezek.37.27" />Et erit tabernaculum meum in eis, et ero eis Deus, et ipsi erunt mihi populus.<verse eID="Ezek.37.27" />
+        <verse sID="Ezek.37.28" osisID="Ezek.37.28" />Et scient gentes quia ego sum Dominus qui sanctifico eos, cum fuerint sancta mea in medio eorum in perpetuum.<verse eID="Ezek.37.28" />
+      </p>
+      <chapter eID="Ezek.37" />
+      <chapter sID="Ezek.38" osisID="Ezek.38" />
+      <title>Chatper 38</title>
+      <p>
+        <verse sID="Ezek.38.1" osisID="Ezek.38.1" />Et factus est sermo Domini ad me, dicens,<verse eID="Ezek.38.1" />
+        <verse sID="Ezek.38.2" osisID="Ezek.38.2" />Fili hominis, obfirma faciem tuam super Gog, et Magog, principem Ros Mosoch ...<verse eID="Ezek.38.2" />
+        <verse sID="Ezek.38.3" osisID="Ezek.38.3" />... Ecce ego ad te Gog principem Ros Mosoch ...<verse eID="Ezek.38.3" />
+        <verse sID="Ezek.38.4" osisID="Ezek.38.4" />et congregabo te, et omnem exercitum tuum, equos et equites vestitos loricis universos ... peltas, et galeas, et gladios.<verse eID="Ezek.38.4" />
+        <verse sID="Ezek.38.5" osisID="Ezek.38.5" />Persae, Aethiopes, et Libyes cum eis, omnes scutati et galeati.<verse eID="Ezek.38.5" />
+        <verse sID="Ezek.38.6" osisID="Ezek.38.6" />Gomer, et universa agmina eius, domus Thogorma, ab extremis Aquilonis ... et gentes multae tecum.<verse eID="Ezek.38.6" />
+        <verse sID="Ezek.38.7" osisID="Ezek.38.7" />Praepara ... et eris mihi in custodiam.<verse eID="Ezek.38.7" />
+        <verse sID="Ezek.38.8" osisID="Ezek.38.8" />... ad terram, quae perversa est a gladio ...<verse eID="Ezek.38.8" />
+        <verse sID="Ezek.38.10" osisID="Ezek.38.10" />Haec dicit Dominus Deus, In die illa ascendent sermones super cor tuum, et cogitabis cogitationem pessimam,<verse eID="Ezek.38.10" />
+        <verse sID="Ezek.38.11" osisID="Ezek.38.11" />et dices, Ascendam super terram abiectam, veniam ad quiescentes, habitantesque in pace ...<verse eID="Ezek.38.11" />
+        <verse sID="Ezek.38.13" osisID="Ezek.38.13" />Saba, et Dedan, et negotiatores Carthaginenses, et omnes villae eorum dicent tibi ...<verse eID="Ezek.38.13" />
+        <verse sID="Ezek.38.14" osisID="Ezek.38.14" />Propterea prophetiza fili hominis, et dic, O Gog, haec dicit Dominus, Nonne in die illa, cum constituetur habitare populus meus Israel in pace, surges?<verse eID="Ezek.38.14" />
+        <verse sID="Ezek.38.15" osisID="Ezek.38.15" />Et venies de loco tuo ab extremo Aquilone, et gentes tecum multae, seffores equorum omnes, congregatio multa et magna, et virtus copiosa.<verse eID="Ezek.38.15" />
+        <verse sID="Ezek.38.16" osisID="Ezek.38.16" />Et ascendes super populum meum Israel quasi nubes, ut operias terram. In novissimis diebus erit, et adducam te super terram meam, ut sciant omnes gentes me, cum sanctificatus fuero in te in oculis eorum.<verse eID="Ezek.38.16" />
+        <verse sID="Ezek.38.17" osisID="Ezek.38.17" />Haec dicit Dominus Deus, Tu ergo ille es, de quo locutus sum in diebus antiquis, in manu servorum meorum prophetarum Israel, qui prophetaverunt in diebus illis atque annis, ut adducerem te super eos.<verse eID="Ezek.38.17" />
+        <verse sID="Ezek.38.18" osisID="Ezek.38.18" />Et erit in die illa, in die adventus Gog super terram Israel, ait Dominus Deus, ascendet indignatio mea ...<verse eID="Ezek.38.18" />
+        <verse sID="Ezek.38.19" osisID="Ezek.38.19" />... in igne irae meae locutus sum. Quia in die illa erit commotio magna super terram Israel,<verse eID="Ezek.38.19" />
+        <verse sID="Ezek.38.20" osisID="Ezek.38.20" />et commovebuntur a facie mea pisces maris, et volucres coeli, et bestiae campi, et omne reptile quod movetur super humum, cunctique homines qui sunt super faciem terrae, et scindetur montes, et cadent valles, et omnis murus in terram corruet.<verse eID="Ezek.38.20" />
+        <verse sID="Ezek.38.21" osisID="Ezek.38.21" />Et convocabo adversum eum omnem formidinem gladii, dicit Dominus Deus, gladius hominis in fratrem suum ...<verse eID="Ezek.38.21" />
+        <verse sID="Ezek.38.22" osisID="Ezek.38.22" />Et iudicabo eum morte, et sanguine, et imbre vehementi, et lapidibus grandinis, ignem et sulphur pluam super eum, et super omnes qui cum eo sunt, et super populos multos, qui sunt cum eo.<verse eID="Ezek.38.22" />
+        <verse sID="Ezek.38.23" osisID="Ezek.38.23" />Et magnificabor, et sanctificabor, et notus ero in conspectu gentium multarum, et scient quia ego sum Dominus.<verse eID="Ezek.38.23" />
+      </p>
+      <chapter eID="Ezek.38" />
+      <chapter sID="Ezek.39" osisID="Ezek.39" />
+      <title>Chatper 39</title>
+      <p>
+        <verse sID="Ezek.39.1" osisID="Ezek.39.1" />Tu autem fili hominis vaticinare adversum Gog, et dices, Haec dicit Dominus Deus, Ecce ego super te Gog principem Mosoch et Thobel,<verse eID="Ezek.39.1" />
+        <verse sID="Ezek.39.2" osisID="Ezek.39.2" />et congregabo te, et deducam te, et ponam te a novissimo Aquilone, et adducam te super montem Israel.<verse eID="Ezek.39.2" />
+        <verse sID="Ezek.39.3" osisID="Ezek.39.3" />Et perdam arcum de manu tua sinistra, et sagittas tuas de manu tua dextera, et deiiciam te<verse eID="Ezek.39.3" />
+        <verse sID="Ezek.39.4" osisID="Ezek.39.4" />super montes Israel, et cades tu ... et gentes, quae tecum sunt ... omnique volatili, et bestiis terrae dedi te devorandum.<verse eID="Ezek.39.4" />
+        <verse sID="Ezek.39.5" osisID="Ezek.39.5" />Super faciem campi cades, quia ego locutus sum, dicit Dominus Deus.<verse eID="Ezek.39.5" />
+        <verse sID="Ezek.39.6" osisID="Ezek.39.6" />Et emittam ignem ... et habitabuntur insulae in pace, et scient quia ego Dominus.<verse eID="Ezek.39.6" />
+        <verse sID="Ezek.39.7" osisID="Ezek.39.7" />Et nomen sanctum meum notum faciam in medio populi mei Israel, et non polluetur nomen sanctum meum amplius, et scient gentes quoniam ego sum Dominus sanctus Israel.<verse eID="Ezek.39.7" />
+        <verse sID="Ezek.39.8" osisID="Ezek.39.8" />Ecce venit, et scies quoniam erit, dicit Dominus, haec est dies, de qua locutus sum.<verse eID="Ezek.39.8" />
+        <verse sID="Ezek.39.9" osisID="Ezek.39.9" />Et egredientur habitatores urbium Israel, et succendent, et comburent arma, peltas, et contos, arcum, et sagittas, baculos manuum, et lanceas, et succendent ea igni septem annis.<verse eID="Ezek.39.9" />
+        <verse sID="Ezek.39.10" osisID="Ezek.39.10" />Et non assument ligna de campis, neque succident de saltibus, quoniam arma succendent igni, et depraedabuntur eos, qui depraedati eos fuerant, et despoliabunt eos, qui sibi spolia detraxerant, dicit Dominus.<verse eID="Ezek.39.10" />
+        <verse sID="Ezek.39.11" osisID="Ezek.39.11" />Eritque in die illa, dabo Gog locum nominatum, monumentum Israel multorum virorum congestum, qui supervenerunt ad mare, et per circuitum struet os vallis, et obruet illic Gog, et totam multitudinem eius, et vocabitur Ge polyandrium Gog.<verse eID="Ezek.39.11" />
+        <verse sID="Ezek.39.12" osisID="Ezek.39.12" />Et obruet eos domus Israel, ut purgetur terra septem mensibus.<verse eID="Ezek.39.12" />
+        <verse sID="Ezek.39.14" osisID="Ezek.39.14" />Et viros iugiter constituent circumeuntes terram, qui sepeliant, et requirant eos qui remanserint super faciem terrae, ut emundent eam, post menses autem septem quaerere incipient.<verse eID="Ezek.39.14" />
+        <verse sID="Ezek.39.16" osisID="Ezek.39.16" />Nomen autem civitatis Polyandrium, et mundabitur terra.<verse eID="Ezek.39.16" />
+        <verse sID="Ezek.39.17" osisID="Ezek.39.17" />Tu ergo fili hominis, haec dicit Dominus Deus, Dic omni volucri ... cunctisque bestiis campi ... concurrite per circuitum ad victimam meam, quam ego immolavi vobis, victimam grandem super montes Israel, ut comedatis carnem, et bibatis sanguinem.<verse eID="Ezek.39.17" />
+        <verse sID="Ezek.39.18" osisID="Ezek.39.18" />Carnes gigantium comedetis, et sanguinem principum terrae bibetis ...<verse eID="Ezek.39.18" />
+        <verse sID="Ezek.39.19" osisID="Ezek.39.19" />Et comedetis adipem in saturitate, et bibetis sanguinem in ebrietate, de victima, quam ego immolavi vobis,<verse eID="Ezek.39.19" />
+        <verse sID="Ezek.39.20" osisID="Ezek.39.20" />et saturabimini super mensam meam de equo, et de equite gigante, et de universis viris bellatoribus, ait Dominus Deus.<verse eID="Ezek.39.20" />
+        <verse sID="Ezek.39.21" osisID="Ezek.39.21" />Et dabo gloriam meam in vobis, et videbunt omnes gentes iudicium meum, quod fecerim. Et manum meam, quam induxerim super eos.<verse eID="Ezek.39.21" />
+        <verse sID="Ezek.39.22" osisID="Ezek.39.22" />Et scient domus Israel, quia ego sum Dominus Deus eorum, a die illa, et deinceps.<verse eID="Ezek.39.22" />
+        <verse sID="Ezek.39.23" osisID="Ezek.39.23" />Et scient omnes gentes quoniam propter iniquitates suas capta sit domus Israel, eo quod reliquerint me, et averterim faciem meam ab eis, et tradiderim eos in manus inimicorum eorum, et ceciderint in gladio universi.<verse eID="Ezek.39.23" />
+        <verse sID="Ezek.39.24" osisID="Ezek.39.24" />Iuxta immunditias eorum et iniquitates eorum feci eis, et averti faciem meam ab illis.<verse eID="Ezek.39.24" />
+        <verse sID="Ezek.39.25" osisID="Ezek.39.25" />Propterea haec dicit Dominus Deus, Nunc reducam captivitatem Iacob, et miserebor omni domui Israel, et assumam zelum pro nomine sancto meo.<verse eID="Ezek.39.25" />
+        <verse sID="Ezek.39.26" osisID="Ezek.39.26" />Et portabunt ignominiam suam ... cum habitaverint in terra sua in pace ...<verse eID="Ezek.39.26" />
+        <verse sID="Ezek.39.27" osisID="Ezek.39.27" />congregabo de gentibus eos, et congregabo illos de regionibus nationum, et sanctificabor in his, in conspectu gentium.<verse eID="Ezek.39.27" />
+        <verse sID="Ezek.39.28" osisID="Ezek.39.28" />Et scient quod ego sum Dominus Deus ipsorum, dum apparebo illis inter nationes.<verse eID="Ezek.39.28" />
+        <verse sID="Ezek.39.29" osisID="Ezek.39.29" />Et non avertam amplius faciem meam ab eis, pro eo quod effudi itam meam in domum Israel, dicit Dominus.<verse eID="Ezek.39.29" />
+      </p>
+      <chapter eID="Ezek.39" />
+      <chapter sID="Ezek.40" osisID="Ezek.40" />
+      <title>Chatper 40</title>
+      <p>
+        <verse sID="Ezek.40.1" osisID="Ezek.40.1" />In vigesimo et quinto anno captivitatis nostrae, in primo mense, decima mensis, quartodecimo anno postquam capta est civitas, in die illa facta est super me manus Domini, et adduxit me illuc.<verse eID="Ezek.40.1" />
+        <verse sID="Ezek.40.2" osisID="Ezek.40.2" />In visione Dei adduxit me in terram Israel, et posuit me super montem excelsum nimis, super quem erat quasi aedificium civitatis e regione.<verse eID="Ezek.40.2" />
+        <verse sID="Ezek.40.3" osisID="Ezek.40.3" />Et introduxit me illuc, et ecce vir, cuius erat species quasi species aeris splendentis, et funiculus caementariorum in manu eius, et calamus mensurae in manu eius, stabat autem in porta.<verse eID="Ezek.40.3" />
+        <verse sID="Ezek.40.4" osisID="Ezek.40.4" />Et locutus est ad me idem vir ... vide oculis tuis, et auribus tuis audi, et pone in cor tuum omnia, quae ostendero tibi, quia ut ostendantur tibi ingressus es huc, et monstrabis omnia, quae tu vides, domui Israel.<verse eID="Ezek.40.4" />
+        <verse sID="Ezek.40.5" osisID="Ezek.40.5" />Et ecce murus extra domum per gyrum, et in manu viri calamus mensurae cubitorum sex, et palaestes, et murum mensus est, latitudinem aequalem calamo, et altitudinem eius mensurae.<verse eID="Ezek.40.5" />
+        <verse sID="Ezek.40.6" osisID="Ezek.40.6" />Et ingressus est portam, quae respiciebat Orientem, septem gradibus, et mensus est thee, sex hinc et sex inde, aelam portae aequalem calamo longitudine, et aequalem calamo in latitudine,<verse eID="Ezek.40.6" />
+        <verse sID="Ezek.40.7" osisID="Ezek.40.7" />et aelam in medio theelath cubitorum sex, et thee secundum, aequalem calamo in latitudine, et aequalem calamo in longitudine, et aelam cubitorum quinque,<verse eID="Ezek.40.7" />
+        <verse sID="Ezek.40.8" osisID="Ezek.40.8" />et thee tertium, aequalem calamo in latitudine trium, et aequalem calamo in longitudine trium,<verse eID="Ezek.40.8" />
+        <verse sID="Ezek.40.9" osisID="Ezek.40.9" />et aelam portae, qui iuxta aelam portae, octo cubitorum, et aelam duorum cubitorum, et aelam portae intrinsecus.<verse eID="Ezek.40.9" />
+        <verse sID="Ezek.40.10" osisID="Ezek.40.10" />Et thee portae e regione, tres hinc et tres inde, et mensura una trium, mensura una aelam hinc et inde.<verse eID="Ezek.40.10" />
+        <verse sID="Ezek.40.11" osisID="Ezek.40.11" />Mensus est latitudinem introitus portae, decem cubitorum, et latitudinem portae, cubitorum tredecim,<verse eID="Ezek.40.11" />
+        <verse sID="Ezek.40.12" osisID="Ezek.40.12" />Et cubitus unus redigebatur in conspectu theeri cubiti unius, et cubiti unius terminus hinc inde, et thee, cubitorum sex hinc, et cubitorum sex inde.<verse eID="Ezek.40.12" />
+        <verse sID="Ezek.40.13" osisID="Ezek.40.13" />Et mensus est portam a muro thee, usque ad parietem thee, latitudinem viginti quinque cubitorum, haec porta contra portam.<verse eID="Ezek.40.13" />
+        <verse sID="Ezek.40.14" osisID="Ezek.40.14" />Et sub divo aelam portae sexaginta cubitis, et theim atrii portae per circuitum.<verse eID="Ezek.40.14" />
+        <verse sID="Ezek.40.15" osisID="Ezek.40.15" />Et sub divo atrii extrinsecus aelam portae interioris, quinquaginta cubitis.<verse eID="Ezek.40.15" />
+        <verse sID="Ezek.40.16" osisID="Ezek.40.16" />Et fenestrae absconditae super theim, et super aelam intra portam atrii per circuitum, et similiter elamoth, et fenestrae in circuitu intrinsecus, et super aelam palmae hinc et inde.<verse eID="Ezek.40.16" />
+        <verse sID="Ezek.40.17" osisID="Ezek.40.17" />Et introduxit me in atrium interius, et ecce thalami, et intercolumnia atrii per circuitum, triginta thalami per columnas,<verse eID="Ezek.40.17" />
+        <verse sID="Ezek.40.18" osisID="Ezek.40.18" />et porticus post ianuas, in longitudinem ianuarum ante columnas inferius.<verse eID="Ezek.40.18" />
+        <verse sID="Ezek.40.19" osisID="Ezek.40.19" />Et mensus est latitudinem atrii ab eo loco, qui erat sub divo portae exterioris, usque ad interius, sub divo portae interioris, quae respiciebat exteriora, cubitos centum, et vergebat ad Orientem, et introduxit me ad Aquilonem.<verse eID="Ezek.40.19" />
+        <verse sID="Ezek.40.20" osisID="Ezek.40.20" />Et ecce porta respiciens atrium exterius, et mensus est eam in longitudine, et in latitudine.<verse eID="Ezek.40.20" />
+        <verse sID="Ezek.40.21" osisID="Ezek.40.21" />Et thee eius tres hinc, et tres inde, et elau, et elamoth, et palmas eius, et factum est secundum mensuram portae, quae respicit Orientem, quinquaginta cubitorum longitudo eius, et latitudo eius viginti quinque cubitorum.<verse eID="Ezek.40.21" />
+        <verse sID="Ezek.40.22" osisID="Ezek.40.22" />Et fenestrae eius, et elamoth, et palmae eius sicut in porta, quae respiciebat Orientem, et in gradibus septem ascendebatur ad eam, et elamoth intrinsecus.<verse eID="Ezek.40.22" />
+        <verse sID="Ezek.40.23" osisID="Ezek.40.23" />Et porta atrii interioris respiciens ad portam Aquilonis, sicut porta quae respicit ad Orientem, et mensus est atrium a porta usque ad portam centum cubitorum.<verse eID="Ezek.40.23" />
+        <verse sID="Ezek.40.24" osisID="Ezek.40.24" />Et eduxit me ad Austrum, et ecce porta, quae respiciebat ad Austrum ...<verse eID="Ezek.40.24" />
+        <verse sID="Ezek.40.43" osisID="Ezek.40.43" />Et gisum palmi habentes dolatum intrinsecus per circuitum, et in mensis desuper tecta, ut operiantur a pluvia et siccitate.<verse eID="Ezek.40.43" />
+        <verse sID="Ezek.40.48" osisID="Ezek.40.48" />... et latitudo portae, cubitorum quatuordecim.<verse eID="Ezek.40.48" />
+        <verse sID="Ezek.40.49" osisID="Ezek.40.49" />... et decem gradibus ascendebatur ad eam ...<verse eID="Ezek.40.49" />
+      </p>
+      <chapter eID="Ezek.40" />
+      <chapter sID="Ezek.41" osisID="Ezek.41" />
+      <title>Chatper 41</title>
+      <p>
+        <verse sID="Ezek.41.1" osisID="Ezek.41.1" />Et introduxit me in templum, et mensus est aelam, sex cubitos latitudinis hinc, et sex cubitos latitudinis inde ...<verse eID="Ezek.41.1" />
+        <verse sID="Ezek.41.2" osisID="Ezek.41.2" />Et latitudo portae, decem cubitorum erat, et humeri portae, quinque cubitis hinc, et quinque cubitis inde, et mensus est longitudinem eius quadraginta cubitorum, et latitudinem viginti cubitorum.<verse eID="Ezek.41.2" />
+        <verse sID="Ezek.41.3" osisID="Ezek.41.3" />Et ingressus in atrium interius mensus est aelam portae duos cubitos, et portam, sex cubitorum, et humeros portae, septem cubitis hinc, et septem cubitis inde.<verse eID="Ezek.41.3" />
+        <verse sID="Ezek.41.4" osisID="Ezek.41.4" />Et mensus est longitudinem ostiorum cubitorum quadraginta, et latitudinem viginti cubitorum, ante faciem templi, et dixit ad me, Hoc est sanctum sanctorum.<verse eID="Ezek.41.4" />
+        <verse sID="Ezek.41.5" osisID="Ezek.41.5" />Et mensus est parietem domus sex cubitorum, et latitudinem lateris quatuor cubitorum undique per circuitum domus.<verse eID="Ezek.41.5" />
+        <verse sID="Ezek.41.6" osisID="Ezek.41.6" />Latera autem, latus ad latus, bis triginta trium ...<verse eID="Ezek.41.6" />
+        <verse sID="Ezek.41.7" osisID="Ezek.41.7" />... et sic de inferioribus ascendebatur ad superiora in medium, et de mediis ad tristega et thrael.<verse eID="Ezek.41.7" />
+        <verse sID="Ezek.41.13" osisID="Ezek.41.13" />Et mensus est contra domum longitudinem, cubitorum centum, et reliqua, et separantia, et parietes eius, in longitudinem cubitorum centum.<verse eID="Ezek.41.13" />
+        <verse sID="Ezek.41.14" osisID="Ezek.41.14" />Et latitudinem contra faciem templi, et reliqua e contra, cubitorum centum.<verse eID="Ezek.41.14" />
+        <verse sID="Ezek.41.15" osisID="Ezek.41.15" />Et mensus est longitudinem separantis contra faciem reliquorum, quae erant post tergum domus illius, et reliqua hinc et inde cubitorum centum longitudinem, et templum, et anguli, et aelam exterius strata ligno.<verse eID="Ezek.41.15" />
+        <verse sID="Ezek.41.16" osisID="Ezek.41.16" />Et fenestrae in modum retis factae tres ad lucendum, ut prospiceretur per eas. Et domus, et ea quae proxima erant, strata ligno per circuitum, et pavimentum, et de pavimento usque ad fenestras, et fenstrae aperiebantur tripliciter, ut prospiceretur per eas.<verse eID="Ezek.41.16" />
+        <verse sID="Ezek.41.17" osisID="Ezek.41.17" />Et usque ad domum interiorem et exteriorem, et per omnem parietem in circuitu intrinsecus, et extrinsecus, mensura.<verse eID="Ezek.41.17" />
+        <verse sID="Ezek.41.18" osisID="Ezek.41.18" />Et caelata cherubim, et palmae inter cherub et cherub, duae facies cherub.<verse eID="Ezek.41.18" />
+        <verse sID="Ezek.41.19" osisID="Ezek.41.19" />Facies hominis ad palmam hinc, et facies leonis ad palmam inde, caelatus omnis paries per circuitum.<verse eID="Ezek.41.19" />
+        <verse sID="Ezek.41.20" osisID="Ezek.41.20" />A pavimento usque ad laquearia, cherubim, et palmae caelatae.<verse eID="Ezek.41.20" />
+        <verse sID="Ezek.41.21" osisID="Ezek.41.21" />Et sanctuarium, et templum aperiebatur per quatuor angulos, contra faciem sanctorum visio quasi species<verse eID="Ezek.41.21" />
+        <verse sID="Ezek.41.22" osisID="Ezek.41.22" />altaris lignei, trium cubitorum altitudo eius, et longitudo cubitorum duorum, et latitudo cubitorum duorum, et cornua habebat. Bases quoque et parietes eius lignei. Et locutus est ad me, Haec est mensa coram Domino.<verse eID="Ezek.41.22" />
+        <verse sID="Ezek.41.23" osisID="Ezek.41.23" />Et duo ostia erant in templo, et in sanctuario.<verse eID="Ezek.41.23" />
+        <verse sID="Ezek.41.26" osisID="Ezek.41.26" />... fenestrae absconditae, et mensus est hinc et inde in laquearibus aelam, et latera domus aequalis ponderis.<verse eID="Ezek.41.26" />
+      </p>
+      <chapter eID="Ezek.41" />
+      <chapter sID="Ezek.42" osisID="Ezek.42" />
+      <title>Chatper 42</title>
+      <p>
+        <verse sID="Ezek.42.1" osisID="Ezek.42.1" />Et eduxit me in atrium exterius ad Orientem contra portam Aquilonis, et introduxit me, et ecce exedrae quinque iuxta partem aedificii, et prope aedificium separatum ad Aquilonem<verse eID="Ezek.42.1" />
+        <verse sID="Ezek.42.2" osisID="Ezek.42.2" />e contra, cubitis centum longitudinis ad Aquilonem, et latitudinis quinquaginta cubitis,<verse eID="Ezek.42.2" />
+        <verse sID="Ezek.42.3" osisID="Ezek.42.3" />descriptae sicut portae atrii interioris, et sicut columnae atrii exterioris per ordinem, contra faciem porticus ternae.<verse eID="Ezek.42.3" />
+        <verse sID="Ezek.42.4" osisID="Ezek.42.4" />Et contra exedras deambulatio cubitorum decem latitudinis, per cubitos centum longitudinis in interiorem viam cubiti unius. Et ostia earum ad Aquilonem,<verse eID="Ezek.42.4" />
+        <verse sID="Ezek.42.5" osisID="Ezek.42.5" />Et deambulationes coenaculorum similiter, quoniam eminebant columnae a columnis inferioribus, et spatium simile erat.<verse eID="Ezek.42.5" />
+        <verse sID="Ezek.42.6" osisID="Ezek.42.6" />Et porticus triplices erant, et columnas non habebant, sicut columnae in exterioribus, propterea eminebant ab his quae erant inferius, et in medio de terra quinquaginta cubitorum.<verse eID="Ezek.42.6" />
+        <verse sID="Ezek.42.7" osisID="Ezek.42.7" />Et lumen exterius sicut exedrarum atrii exterioris, quae respiciebant contra exedras Aquilonis, longitudine cubitorum quinquaginta.<verse eID="Ezek.42.7" />
+        <verse sID="Ezek.42.8" osisID="Ezek.42.8" />Longitudo enim exedrarum respicientium in atrium exterius, erat cubitorum quinquaginta, et haec sunt contra faciem suam, omnes cubitorum centum.<verse eID="Ezek.42.8" />
+        <verse sID="Ezek.42.9" osisID="Ezek.42.9" />Et ostia exedrarum istarum ad introitum Orientalem, ut ingrediatur per eadem in atrio exteriori,<verse eID="Ezek.42.9" />
+        <verse sID="Ezek.42.10" osisID="Ezek.42.10" />secundum lumen, quod erat in principio deambulationis ad Austrum contra Meridiem, et faciem reliqui aedificii, et separati. Et exedrae,<verse eID="Ezek.42.10" />
+        <verse sID="Ezek.42.11" osisID="Ezek.42.11" />et deambulatio contra faciem suam, iuxta mensuras exedrarum, et viam ad Aquilonem, et longitudinem earum, et latitudinem earum, et omnis exitus earum, et introitus, et luminaria,<verse eID="Ezek.42.11" />
+        <verse sID="Ezek.42.12" osisID="Ezek.42.12" />et ostia exedrarum contra meridiem, et introitus ab initio deambulacri ad luminare spatio calami, et ut ad Orientem iretur per ea.<verse eID="Ezek.42.12" />
+        <verse sID="Ezek.42.13" osisID="Ezek.42.13" />Et dixit ad me, Exedrae ad Aquilonem, et exedrae ad Austrum ... hae sunt exedrae sanctuarii, in quibus vescuntur sacerdotes, filii Sadoc, qui appropinquant ad Dominum in sancta sanctorum, ibi ponent sancta sanctorum ... locus enim sanctus est.<verse eID="Ezek.42.13" />
+        <verse sID="Ezek.42.14" osisID="Ezek.42.14" />... propterea non egredientur in atrium exterius sacerdotes, ut semper sancti sint qui offerunt ...<verse eID="Ezek.42.14" />
+        <verse sID="Ezek.42.15" osisID="Ezek.42.15" />... eduxit me per viam portae, quae respiciebat ad viam Orientalem, et mensus est similitudinem domus per circuitum in ordine.<verse eID="Ezek.42.15" />
+        <verse sID="Ezek.42.16" osisID="Ezek.42.16" />Et stetit post tergum portae respicientis ad Orientem ...<verse eID="Ezek.42.16" />
+        <verse sID="Ezek.42.20" osisID="Ezek.42.20" />... murum eius undique per circuitum, longitudine quingentorum cubitorum, et latitudine quingentorum cubitorum ...<verse eID="Ezek.42.20" />
+      </p>
+      <chapter eID="Ezek.42" />
+      <chapter sID="Ezek.43" osisID="Ezek.43" />
+      <title>Chatper 43</title>
+      <p>
+        <verse sID="Ezek.43.1" osisID="Ezek.43.1" />Et adduxit me ad portam, quae respiciebat contra Orientem, et eduxit me.<verse eID="Ezek.43.1" />
+        <verse sID="Ezek.43.2" osisID="Ezek.43.2" />Et ecce gloria Dei Israel veniebat per viam Orientis, et vox castrorum quasi vox geminantium multorum, et terra resplendebat quasi fulgur a gloria per circuitum.<verse eID="Ezek.43.2" />
+        <verse sID="Ezek.43.3" osisID="Ezek.43.3" />Et visio quam vidi, secundum visionem, quam videram, quando ingrediebar ut ungerem civitatem, et visio currus, quam vidi, secundum visionem, quam videram super fluvium Chobar, cecidique in faciem meam.<verse eID="Ezek.43.3" />
+        <verse sID="Ezek.43.4" osisID="Ezek.43.4" />Et gloria Domini ingressa est domum per viam portae, quae respiciebat Orientem.<verse eID="Ezek.43.4" />
+        <verse sID="Ezek.43.5" osisID="Ezek.43.5" />Et assumpsit me spiritus, et introduxit me in atrium interius, et ecce plena gloria Domini domus.<verse eID="Ezek.43.5" />
+        <verse sID="Ezek.43.6" osisID="Ezek.43.6" />Et steti, et ecce vox, de domo loquentis ad me, et vir stabat iuxta me,<verse eID="Ezek.43.6" />
+        <verse sID="Ezek.43.7" osisID="Ezek.43.7" />et dixit ad me, Vidisti fili hominis locum solii mei, et locum vestigii pedum meorum, in quibus habitabit nomen meum in medio domus Israel in sempiternum, et non contaminabunt ultra domus Israel nomen sanctum meum, ipsi et duces eorum in fornicatione sua, et in homicidiis ducum in medio sui,<verse eID="Ezek.43.7" />
+        <verse sID="Ezek.43.8" osisID="Ezek.43.8" />cum ponerent limen meum in liminibus suis, et postes meos iuxta postes suos, et dederunt parietem meum quasi connexum inter me et se, et contaminaverunt nomen sanctum meum in iniquitatibus suis, quas faciebant, et contrivi eos in furore meo, et in occisione.<verse eID="Ezek.43.8" />
+        <verse sID="Ezek.43.9" osisID="Ezek.43.9" />Et nunc abiiciant fornicationem suam, et homicidia ducum suorum a me, et habitabo in medio eorum in sempiternum.<verse eID="Ezek.43.9" />
+        <verse sID="Ezek.43.10" osisID="Ezek.43.10" />Et tu fili hominis ostende domui Israel domum, et cessabunt a peccatis suis, et visionem eius, et dispositionem illius,<verse eID="Ezek.43.10" />
+        <verse sID="Ezek.43.11" osisID="Ezek.43.11" />et ipsi sustinebunt tormentum suum pro omnibus quae fecerunt, Et describes domum, et praeparationem eius, et exitus, atque introitus eius, et substantiam eius, et omnia praecepta illius, et omnia legitima eius, et omnes leges eius ostendes illis, et describes coram eis, et custodient omnes iustificationes, et omnia praecepta mea, et facient ea,<verse eID="Ezek.43.11" />
+        <verse sID="Ezek.43.12" osisID="Ezek.43.12" />et descriptionem domus in vertice montis, Omnes termini eius in circuitu, sancta sanctorum sunt, ista est lex domus.<verse eID="Ezek.43.12" />
+        <verse sID="Ezek.43.13" osisID="Ezek.43.13" />Et haec mensura altaris in cubito perfecto cubitus, et palaestes, sinus illius altitudo per circuitum, et cubitus latitudinis, et gisus per labium eius in circuitu, palmi unius, et haec est altaris altitudo.<verse eID="Ezek.43.13" />
+        <verse sID="Ezek.43.14" osisID="Ezek.43.14" />A profundo exordii in sinu eius usque ad propitiatorium magnum, quod erat subter, cubitorum duorum, et latitudo cubiti, et a propitiatoria minori usque ad propitiatorium maius cubiti quatuor, et latitudo cubiti.<verse eID="Ezek.43.14" />
+        <verse sID="Ezek.43.15" osisID="Ezek.43.15" />Et Ariel cubitorum quatuor, et ab Ariel usque ad superiora cornuum cubitus.<verse eID="Ezek.43.15" />
+        <verse sID="Ezek.43.16" osisID="Ezek.43.16" />Ipsum autem Ariel duodecim cubitos habebat in longitudine, et duodecim cubitos in latitudine quatuor angulorum per singulas partes eius.<verse eID="Ezek.43.16" />
+        <verse sID="Ezek.43.17" osisID="Ezek.43.17" />Et propitiatorium quatuordecim cubitorum in latitudine per quatuor partes eius, et gisus eius per circuitum gyrans illud dimidio cubito, et circuitus eius cubito per gyrum, et gradus eius respicientes ad Orientem.<verse eID="Ezek.43.17" />
+        <verse sID="Ezek.43.18" osisID="Ezek.43.18" />Et dixit ad me, Fili hominis, haec dicit Dominus Deus, Haec sunt praecepta altaris in die qua factum fuerit, ut offerantur super eo holocaustomata, et effundatur super illud sanguis.<verse eID="Ezek.43.18" />
+        <verse sID="Ezek.43.19" osisID="Ezek.43.19" />Et dabis Sacerdotibus Levitis, qui sunt ex semine Sadduc, et appropinquant ad me, dicit Dominus Deus, ut ministrent mihi vitulum de bobus pro peccato.<verse eID="Ezek.43.19" />
+        <verse sID="Ezek.43.20" osisID="Ezek.43.20" />Et tollent de sanguine eius, et ponent super quatuor cornua altaris, et super basim eius in circuitu, et mundabunt, et expiabunt illud.<verse eID="Ezek.43.20" />
+        <verse sID="Ezek.43.21" osisID="Ezek.43.21" />Et tollent vitulum pro peccato, et comburetur in loco separato domus extra sancta.<verse eID="Ezek.43.21" />
+        <verse sID="Ezek.43.22" osisID="Ezek.43.22" />Et die secunda tollent haedos duos de capris immaculatos pro peccato, et expiabunt altare, sicut expiaverunt in vitulo.<verse eID="Ezek.43.22" />
+        <verse sID="Ezek.43.23" osisID="Ezek.43.23" />Et cum compleveris expiationem, offerent vitulum de bobus immaculatum, et arietem de ovibus immaculatum.<verse eID="Ezek.43.23" />
+        <verse sID="Ezek.43.24" osisID="Ezek.43.24" />Et offeretis coram Domino, et aspergent sacerdotes super ea sal, et offerent ea holocausta Domino.<verse eID="Ezek.43.24" />
+        <verse sID="Ezek.43.25" osisID="Ezek.43.25" />Septem diebus facies haedum pro peccato quotidie, et vitulum ex bobus, et arietem de ovibus immaculatum facient septem diebus.<verse eID="Ezek.43.25" />
+        <verse sID="Ezek.43.26" osisID="Ezek.43.26" />Et expiabunt altare, et mundabunt illud, et implebunt manus eorum,<verse eID="Ezek.43.26" />
+        <verse sID="Ezek.43.27" osisID="Ezek.43.27" />et consummabunt dies. Et erit a die octavo et ultra, facient sacerdotes super altare holocausta vestra, et pro salute vestra, et suscipiam vos, dicit Dominus Deus.<verse eID="Ezek.43.27" />
+      </p>
+      <chapter eID="Ezek.43" />
+      <chapter sID="Ezek.44" osisID="Ezek.44" />
+      <title>Chatper 44</title>
+      <p>
+        <verse sID="Ezek.44.1" osisID="Ezek.44.1" />Et converti me secundum viam portae sanctorum exterioris, quae respicit ad Orientem, et haec erat clausa.<verse eID="Ezek.44.1" />
+        <verse sID="Ezek.44.2" osisID="Ezek.44.2" />Et ait ad me Dominus, Porta haec clausa erit, et non aperietur, et nemo transibit per eam, quoniam Dominus Deus Israel transibit per eam, eritque clausa.<verse eID="Ezek.44.2" />
+        <verse sID="Ezek.44.3" osisID="Ezek.44.3" />Quoniam dux hic sedebit in ea, ut manducet panem in conspectu Domini, secundum viam aelam portae intrabit, et secundum viam eius exibit.<verse eID="Ezek.44.3" />
+        <verse sID="Ezek.44.6" osisID="Ezek.44.6" />Et dices ad exasperantem me domum Israel, Haec dicit Dominus Deus, Sufficiant vobis omnis scelera vestra domus Israel,<verse eID="Ezek.44.6" />
+        <verse sID="Ezek.44.7" osisID="Ezek.44.7" />eo quod inducitis filios alienigenas incircumcisos corde, et incircumcisos carne ... et praeteristis pactum meum in omnibus sceleribus vestris.<verse eID="Ezek.44.7" />
+        <verse sID="Ezek.44.9" osisID="Ezek.44.9" />Propterea haec dicit Dominus, Omnis filius alienigena incircumcisus corde, et incircumcisus carne, non ingredietur in sancta mea, in omnibus filiis alienigenarum qui sunt in medio domus Israel.<verse eID="Ezek.44.9" />
+        <verse sID="Ezek.44.10" osisID="Ezek.44.10" />Sed et Levitae, qui longe recesserunt a me, cum erraret Israel a me post cogitationes suas, et accipient iniquitatem suam,<verse eID="Ezek.44.10" />
+        <verse sID="Ezek.44.11" osisID="Ezek.44.11" />et erunt in sanctis meis ministrantes, ostiarii in portis domus, et ministri domus, isti immolabunt holocausta, et victimas populo, et isti stabunt ante populum, ut ministrent eis.<verse eID="Ezek.44.11" />
+        <verse sID="Ezek.44.12" osisID="Ezek.44.12" />Pro eo quod ministraverunt eis ante faciem idolorum suorum, et factum est domui Israel in tormentum iniquitatis, propterea levavi manum meam super eos, dicit Dominus Deus, et accipient iniquitatem suam,<verse eID="Ezek.44.12" />
+        <verse sID="Ezek.44.13" osisID="Ezek.44.13" />et non accedent ad me ut sacerdotio fungantur mihi, neque ut offerant ad omnia sancta filiorum Israel, nec ad sancta sanctorum meorum, et suscipient ignominiam suam in errore, quo erraverunt.<verse eID="Ezek.44.13" />
+        <verse sID="Ezek.44.14" osisID="Ezek.44.14" />Et ponent eos ut servent custodias domus in omnia opera eius, et in universa quae fecerunt in ea.<verse eID="Ezek.44.14" />
+        <verse sID="Ezek.44.15" osisID="Ezek.44.15" />Sacerdotes Levitae filii Sadduc, qui custodierunt custodias sanctorum meorum, cum erraret domus Israel a me, isti accedent ad me ut ministrent mihi, et stabunt ante faciem meam ut offerant mihi hostiam, adipem, et sanguinem, dicit Dominus Deus.<verse eID="Ezek.44.15" />
+        <verse sID="Ezek.44.16" osisID="Ezek.44.16" />Isti ingredientur in sancta mea, et ista accedent ad mensam meam ut ministrent mihi, et observent custodias meas.<verse eID="Ezek.44.16" />
+        <verse sID="Ezek.44.17" osisID="Ezek.44.17" />Cumque ingredientur portas atrii interioris, stolis lineis induentur, et non induentur lanificiis, quando ministrant a portis atrii interioris.<verse eID="Ezek.44.17" />
+        <verse sID="Ezek.44.18" osisID="Ezek.44.18" />Cidares lineas habebunt super capita sua, et feminalia linea erunt in lumbis eorum, et non accingentur violenter.<verse eID="Ezek.44.18" />
+        <verse sID="Ezek.44.19" osisID="Ezek.44.19" />Cumque egredientur atrium exterius ad populum, exuent se stolis suis, in quibus ministraverant, et reponent eas in exedris sanctorum, et vestient se stolis aliis, et non sanctificabunt populum in stolis suis.<verse eID="Ezek.44.19" />
+        <verse sID="Ezek.44.20" osisID="Ezek.44.20" />Capita sua non radent, et comas non ad pressum tondebunt, operientes operient capita sua.<verse eID="Ezek.44.20" />
+        <verse sID="Ezek.44.21" osisID="Ezek.44.21" />Et vinum non bibet omnis sacerdos quando ingressurus est atrium interius.<verse eID="Ezek.44.21" />
+        <verse sID="Ezek.44.22" osisID="Ezek.44.22" />Viduam, et eiectam non accipient uxores, sed virginem de semine domus Israel, sed et viduam, quae fuerit vidua a sacerdote, accipient.<verse eID="Ezek.44.22" />
+        <verse sID="Ezek.44.23" osisID="Ezek.44.23" />Et populum meum docebunt quid sit inter sanctum et pollutum, et inter mundum et immundum ostendent eis.<verse eID="Ezek.44.23" />
+        <verse sID="Ezek.44.24" osisID="Ezek.44.24" />Et cum fuerit controversia sanguinis, stabunt in iudiciis ... et sabbata mea sanctificabunt.<verse eID="Ezek.44.24" />
+        <verse sID="Ezek.44.25" osisID="Ezek.44.25" />Et super animam hominis non ingredientur, ne polluantur ...<verse eID="Ezek.44.25" />
+        <verse sID="Ezek.44.26" osisID="Ezek.44.26" />Et postquam fuerit mundatus, septem dies numerabuntur ei.<verse eID="Ezek.44.26" />
+        <verse sID="Ezek.44.27" osisID="Ezek.44.27" />Et in die introitus sui ... offeret placationem ...<verse eID="Ezek.44.27" />
+        <verse sID="Ezek.44.28" osisID="Ezek.44.28" />... ego haereditas eorum, et possessiones non dabitis eis in Israel, ego possessio eorum.<verse eID="Ezek.44.28" />
+        <verse sID="Ezek.44.29" osisID="Ezek.44.29" />Victimam et pro peccato, et pro ignorantia ipsi comedent, et omnis separatio in Israel ipsorum erit.<verse eID="Ezek.44.29" />
+        <verse sID="Ezek.44.30" osisID="Ezek.44.30" />... et primitiva ciborum vestrorum dabitis sacerdoti, ut ponat benedictiones super domos vestras.<verse eID="Ezek.44.30" />
+        <verse sID="Ezek.44.31" osisID="Ezek.44.31" />Omne morticinum, et captum a bestia de avibus et de pecoribus non comedent sacerdotes.<verse eID="Ezek.44.31" />
+      </p>
+      <chapter eID="Ezek.44" />
+      <chapter sID="Ezek.45" osisID="Ezek.45" />
+      <title>Chatper 45</title>
+      <p>
+        <verse sID="Ezek.45.3" osisID="Ezek.45.3" />... et in ipso erit sanctificatio ...<verse eID="Ezek.45.3" />
+        <verse sID="Ezek.45.5" osisID="Ezek.45.5" />... ipsi tenebunt civitatem ut habitent.<verse eID="Ezek.45.5" />
+        <verse sID="Ezek.45.6" osisID="Ezek.45.6" />Et possessionem civitatis dabitis quinque milibus latitudinis, et longitudinis viginti quinque millibus ...<verse eID="Ezek.45.6" />
+        <verse sID="Ezek.45.9" osisID="Ezek.45.9" />Haec dicit Dominus Deus, Sufficiat vobis principes Israel, iniquitatem et miseriam intermittite, et iudicium et iustitiam facite, separate oppressionem a populo meo, ait Dominus Deus.<verse eID="Ezek.45.9" />
+        <verse sID="Ezek.45.10" osisID="Ezek.45.10" />Statera iusta, et mensura iusta, et choenix iustus erit vobis ad mensuram.<verse eID="Ezek.45.10" />
+        <verse sID="Ezek.45.11" osisID="Ezek.45.11" />Et choenix similiter unus erit ad accipiendum, decima pars gomor, choenix. Et decima pars gomor, ephi, gomor erit aequum<verse eID="Ezek.45.11" />
+        <verse sID="Ezek.45.12" osisID="Ezek.45.12" />ad pondus, viginti sicli, et quindecim sicli, mina erit vobis.<verse eID="Ezek.45.12" />
+        <verse sID="Ezek.45.13" osisID="Ezek.45.13" />Et hae sunt primitiae, quas separabitis, sextam partem mensurae de gomor tritici, et sextam partem ephi de coro hordei.<verse eID="Ezek.45.13" />
+        <verse sID="Ezek.45.14" osisID="Ezek.45.14" />Et praeceptum olei, cotylem olei, decem cotyles, quia decem cotyles sunt gomor.<verse eID="Ezek.45.14" />
+        <verse sID="Ezek.45.17" osisID="Ezek.45.17" />Et super principe erunt holocausta, et sacrificium, et libamina in solemnitatibus, et in calendis, et in sabbatis, et in universis solemnitatibus domus Israel, ipse faciet pro peccato sacrificium, et holocaustum, et pacifica ad expiandum pro domum Israel.<verse eID="Ezek.45.17" />
+        <verse sID="Ezek.45.18" osisID="Ezek.45.18" />Haec dicit Dominus Deus, In primo mense, una mensis, sumes vitulum de armento immaculatum, et expiabis sanctuarium.<verse eID="Ezek.45.18" />
+        <verse sID="Ezek.45.19" osisID="Ezek.45.19" />Et tollet sacerdos de sanguine quod erit pro peccato, et ponet in postibus domus, et super quatuor angulos templi, et super altare, et in postibus portae atrii interioris.<verse eID="Ezek.45.19" />
+        <verse sID="Ezek.45.20" osisID="Ezek.45.20" />Et sic facies ... pro ignorante, et pro parvulo ...<verse eID="Ezek.45.20" />
+        <verse sID="Ezek.45.21" osisID="Ezek.45.21" />In primo mense, quartadecima die mensis, erit vobis Paschae solemnitas, septem diebus azyma comedent.<verse eID="Ezek.45.21" />
+        <verse sID="Ezek.45.22" osisID="Ezek.45.22" />Et faciet princeps in die illa pro se, et domo sua, et pro universo populo terrae, vitulum pro peccato.<verse eID="Ezek.45.22" />
+        <verse sID="Ezek.45.23" osisID="Ezek.45.23" />Et in septem dierum solemnitate faciet holocaustum Domino septem vitulos, et septem arietes immaculatos quotidie septem diebus, et pro peccato hircum caprarum quotidie.<verse eID="Ezek.45.23" />
+        <verse sID="Ezek.45.24" osisID="Ezek.45.24" />Et sacrificium, et coctionem vitulo, et coctionem arieti dabis, et olei hin coctionis.<verse eID="Ezek.45.24" />
+        <verse sID="Ezek.45.25" osisID="Ezek.45.25" />Septimo mense, quintadecima die mensis in solemnitate, faciet sicut supra dicta sunt per septem dies. Tam pro peccato, quam pro holocausto, et sicut in manaa, sicut in oleo.<verse eID="Ezek.45.25" />
+      </p>
+      <chapter eID="Ezek.45" />
+      <chapter sID="Ezek.46" osisID="Ezek.46" />
+      <title>Chatper 46</title>
+      <p>
+        <verse sID="Ezek.46.1" osisID="Ezek.46.1" />Haec dicit Dominus Deus, Porta atrii interioris, quae respicit ad Orientem, erit clausa sex diebus, in quibus opus fit, die autem sabbati aperietur, sed et in die calendarum aperietur.<verse eID="Ezek.46.1" />
+        <verse sID="Ezek.46.4" osisID="Ezek.46.4" />Holocaustum autem hoc offeret dux Domino, in die sabbati sex agnos immaculatos, et arietem immaculatum.<verse eID="Ezek.46.4" />
+        <verse sID="Ezek.46.5" osisID="Ezek.46.5" />Et manaa, coctionem per arietem, agnis autem sacrificium quod dederit manus eius, et olei hin coctioni.<verse eID="Ezek.46.5" />
+        <verse sID="Ezek.46.12" osisID="Ezek.46.12" />Cum autem fecerit dux confessionem, holocaustum salutaris Domino. Aperiet sibi portam quae respicit ad Orientem, et faciet holocaustum suum, et salutaria sua ...<verse eID="Ezek.46.12" />
+        <verse sID="Ezek.46.13" osisID="Ezek.46.13" />Et agnum anniculum immaculatum faciet holocaustum quotidie Domino ...<verse eID="Ezek.46.13" />
+        <verse sID="Ezek.46.14" osisID="Ezek.46.14" />Et manaa faciet super eo mane mane sextam partem mensurae, et de oleo tertiam partem hin, ut misceatur similae manaa Domino ...<verse eID="Ezek.46.14" />
+        <verse sID="Ezek.46.15" osisID="Ezek.46.15" />Facietis agnum, et manaa, et oleum mane mane, holocaustum sempiternum.<verse eID="Ezek.46.15" />
+        <verse sID="Ezek.46.16" osisID="Ezek.46.16" />Haec dicit Dominus Deus, Si dederit dux donum alicui de filiis suis ...<verse eID="Ezek.46.16" />
+        <verse sID="Ezek.46.18" osisID="Ezek.46.18" />Et non accipiet dux de haereditate populi, ut opprimat eos, sed de possessione sua haereditatem dabit filiis suis, ut non dispergatur populus meus unusquisque a possessione sua.<verse eID="Ezek.46.18" />
+        <verse sID="Ezek.46.19" osisID="Ezek.46.19" />Et introduxit me per ingressum, qui erat post tergum portae, in exedras et thalamos ... qui respiciebant ad Aquilonem, et ecce ibi erat locus separatus.<verse eID="Ezek.46.19" />
+        <verse sID="Ezek.46.20" osisID="Ezek.46.20" />Et dixit ad me, Iste est locus ubi coquent sacerdotes pro delicto, et pro ignorantia, et propterea ubi coquent manaa et donum, ut non efferant in atrium exterius, et sanctificetur populus.<verse eID="Ezek.46.20" />
+        <verse sID="Ezek.46.21" osisID="Ezek.46.21" />Et eduxit me in atrium exterius, et circumduxit me per quatuor angulos atrii ...<verse eID="Ezek.46.21" />
+        <verse sID="Ezek.46.23" osisID="Ezek.46.23" />... et culinae fabricatae erant subter porticus propter accubita.<verse eID="Ezek.46.23" />
+        <verse sID="Ezek.46.24" osisID="Ezek.46.24" />Et dixit ad me, Haec est domus culinarum, in qua coquent ministri domus Domini victimam populi.<verse eID="Ezek.46.24" />
+      </p>
+      <chapter eID="Ezek.46" />
+      <chapter sID="Ezek.47" osisID="Ezek.47" />
+      <title>Chatper 47</title>
+      <p>
+        <verse sID="Ezek.47.3" osisID="Ezek.47.3" />... et mensus est mille ... et transivit in aqua aquam remissionis.<verse eID="Ezek.47.3" />
+        <verse sID="Ezek.47.4" osisID="Ezek.47.4" />Rursumque mensus est mille, et transivit in aqua aquam usque ad femina,<verse eID="Ezek.47.4" />
+        <verse sID="Ezek.47.5" osisID="Ezek.47.5" />et mensus est mille, et transivit aquam usque ad lumbos. Et mensus est mille, et non poterat pertansire, quoniam ferebatur aqua instar praecipitis torrentis, qui transiri non potest.<verse eID="Ezek.47.5" />
+        <verse sID="Ezek.47.6" osisID="Ezek.47.6" />Et dixit ad me, Certe vidisti fili hominis. Et eduxit me, et convertit ad ripam fluminis.<verse eID="Ezek.47.6" />
+        <verse sID="Ezek.47.7" osisID="Ezek.47.7" />Cumque me convertisset, ecce in ripa fluminis arbores multae nimis ex utraque parte.<verse eID="Ezek.47.7" />
+        <verse sID="Ezek.47.8" osisID="Ezek.47.8" />Et ait ad me, Aqua ista, quae egreditur in Galilaeam, quae vergit ad Orientem, et descendit ad Arabiam ...<verse eID="Ezek.47.8" />
+        <verse sID="Ezek.47.9" osisID="Ezek.47.9" />Et omnis anima animalium serpentium, quocunque venerit fluvius, vivet ...<verse eID="Ezek.47.9" />
+        <verse sID="Ezek.47.12" osisID="Ezek.47.12" />Et super fluvium orietur ... omne lignum frugiferum, non inveterascet ex eo, et non deficiet fructus eius, in renovatione sui primitiva dabit ... et erit fructus eius in cibum, et ascensio eius ad sanitatem.<verse eID="Ezek.47.12" />
+        <verse sID="Ezek.47.13" osisID="Ezek.47.13" />Haec dicit Dominus Deus ... augmentum funiculi.<verse eID="Ezek.47.13" />
+        <verse sID="Ezek.47.18" osisID="Ezek.47.18" />... Iordanis disterminans ad mare Orientale palmeti ...<verse eID="Ezek.47.18" />
+      </p>
+      <chapter eID="Ezek.47" />
+      <chapter sID="Ezek.48" osisID="Ezek.48" />
+      <title>Chatper 48</title>
+      <p>
+        <verse sID="Ezek.48.14" osisID="Ezek.48.14" />Et non venundabunt ex eo, neque metientur, nec auferentur primitiae terrae, quia sanctificatae sunt Domino.<verse eID="Ezek.48.14" />
+        <verse sID="Ezek.48.15" osisID="Ezek.48.15" />Quinque millia autem quae supersunt in latitudine per viginti quinque millia, antemurale erit urbi in habitaculum, et in spatium, et erit civitas in medio eius.<verse eID="Ezek.48.15" />
+        <verse sID="Ezek.48.18" osisID="Ezek.48.18" />Quod autem reliquum fuerit in longitudine secundum primitias sanctuarii, decem millia in Orientem, et decem millia in Occidentem, erunt sicut primitiae sanctuarii, et erunt fruges eius in panes his qui operantur civitati.<verse eID="Ezek.48.18" />
+        <verse sID="Ezek.48.19" osisID="Ezek.48.19" />Operantes autem civitati, operabuntur ex omnibus tribubus Israel.<verse eID="Ezek.48.19" />
+        <verse sID="Ezek.48.28" osisID="Ezek.48.28" />... et erit finis de Theman, et aqua Marimoth Cades, haereditas usque ad mare magnum.<verse eID="Ezek.48.28" />
+      </p>
+      <chapter eID="Ezek.48" />
+    </div>
+  </osisText>
+</osis>

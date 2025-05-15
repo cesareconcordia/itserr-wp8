@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="corinthians-2" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="corinthians-2">
+        <title>Corinthians-2</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">corinthians-2</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Corinthians-2</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="corinthians-2">
+      <title>Corinthians-2</title>
+      <chapter sID="corinthians-2.1" osisID="corinthians-2.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="corinthians-2.1.1" osisID="corinthians-2.1.1" />PAULUS Apostolus Iesu Christi per voluntatem Dei, et Timotheus frater, Ecclesiae Dei, quae est Corinthi, cum sanctis omnibus, qui sunt in universa Achaia.<verse eID="corinthians-2.1.1" />
+        <verse sID="corinthians-2.1.2" osisID="corinthians-2.1.2" />Gratia vobis, et pax a Deo Patre nostro et Domino Iesu Christo.<verse eID="corinthians-2.1.2" />
+        <verse sID="corinthians-2.1.3" osisID="corinthians-2.1.3" />Benedictus Deus et Pater Domini nostri Iesu Christi, Pater misericordiarum, et Deus omnis consolationis,<verse eID="corinthians-2.1.3" />
+        <verse sID="corinthians-2.1.4" osisID="corinthians-2.1.4" />qui consolatur nos in omni tribulatione nostra: ut possimus et nos consolari eos, qui in omni tribulatione sunt, per exhortationem, qua exhortamur et ipsi a Deo.<verse eID="corinthians-2.1.4" />
+        <verse sID="corinthians-2.1.5" osisID="corinthians-2.1.5" />Quoniam sicut abundant passiones Christi in vobis: ita et per Christum abundat et consolatio nostra.<verse eID="corinthians-2.1.5" />
+        <verse sID="corinthians-2.1.6" osisID="corinthians-2.1.6" />Sive autem tribulamur pro vestra exhortatione et salute, quae operatur in sustentationem earumdem passionum, quas et nos patimur:<verse eID="corinthians-2.1.6" />
+        <verse sID="corinthians-2.1.7" osisID="corinthians-2.1.7" />et spes nostra firma pro vobis: sive exhortamur pro vestra exhortatione et salute: scientes quia si socii passionum estis, et consolationum eritis.<verse eID="corinthians-2.1.7" />
+        <verse sID="corinthians-2.1.8" osisID="corinthians-2.1.8" />Non enim volumus vos ignorare fratres de tribulatione nostra, quae facta est in Asia, quia supra modum gravati sumus super virtutem, ita ut taederet nos etiam vivere.<verse eID="corinthians-2.1.8" />
+        <verse sID="corinthians-2.1.9" osisID="corinthians-2.1.9" />Sed ipsi in nobisipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Domino, qui suscitat mortuos:<verse eID="corinthians-2.1.9" />
+        <verse sID="corinthians-2.1.10" osisID="corinthians-2.1.10" />qui de tantis * mortibus eripuit nos: in quem speramus quoniam et eripiet<verse eID="corinthians-2.1.10" />
+        <verse sID="corinthians-2.1.11" osisID="corinthians-2.1.11" />adiuvantibus et vobis pro nobis in oratione: ut in multi facie quae in nobis est gratia, per multos gratiae agantur pro nobis.<verse eID="corinthians-2.1.11" />
+        <verse sID="corinthians-2.1.12" osisID="corinthians-2.1.12" />Nam gloria nostra haec est testimonium conscientiae nostrae, quod in simplicitate et sinceritate Dei, non in sapientia carnali, sed in gratia Dei, conversati sumus in hoc mundo: abundantius autem ad vos.<verse eID="corinthians-2.1.12" />
+        <verse sID="corinthians-2.1.13" osisID="corinthians-2.1.13" />Non enim alia scribimus vobis, quam quae legitis, et cognoscitis. Spero autem quoniam usque in finem cognoscetis<verse eID="corinthians-2.1.13" />
+        <verse sID="corinthians-2.1.14" osisID="corinthians-2.1.14" />sicut et cognovistis nos ex parte, quia gloria vestra sumus, sicut et vos nostra, in diem Domini Iesu Christi.<verse eID="corinthians-2.1.14" />
+        <verse sID="corinthians-2.1.15" osisID="corinthians-2.1.15" />Et * hac confidentia volueram prius venire ad vos, ut secundam gratiam haberetis:<verse eID="corinthians-2.1.15" />
+        <verse sID="corinthians-2.1.16" osisID="corinthians-2.1.16" />et per vos proficisci in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis praemitti in Iudaeam.<verse eID="corinthians-2.1.16" />
+        <verse sID="corinthians-2.1.17" osisID="corinthians-2.1.17" />Cum ergo cogitassem hoc, nunquid levitatem usus sum? Aut quae cogito, secundum carnem cogito, ut sit apud me EST EST, et NON NON?<verse eID="corinthians-2.1.17" />
+        <verse sID="corinthians-2.1.18" osisID="corinthians-2.1.18" />Fidelis autem Deus, quia sermo noster, qui fit apud vos, non est EST, et NON.<verse eID="corinthians-2.1.18" />
+        <verse sID="corinthians-2.1.19" osisID="corinthians-2.1.19" />Dei enim filius Iesus Christus, qui in vobis, qui per nos praedicatus est, per me, et Silbanum, et Timotheum, non fuit EST et NON, sed EST in illo fuit.<verse eID="corinthians-2.1.19" />
+        <verse sID="corinthians-2.1.20" osisID="corinthians-2.1.20" />* Quotquot enim promissiones Dei sunt in illo EST: et per ipsum Amen Deo ad gloriam per nos.<verse eID="corinthians-2.1.20" />
+        <verse sID="corinthians-2.1.21" osisID="corinthians-2.1.21" />Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus:<verse eID="corinthians-2.1.21" />
+        <verse sID="corinthians-2.1.22" osisID="corinthians-2.1.22" />et qui signavit nos, et dedit pignus Spiritus in cordibus nostris.<verse eID="corinthians-2.1.22" />
+        <verse sID="corinthians-2.1.23" osisID="corinthians-2.1.23" />Ego autem testem Deum invoco in meam animam, quod parcens vobis, non venio Corinthum: non quia dominamur fidei vestrae, sed adiutores sumus gaudii vestri: nam fide statis.<verse eID="corinthians-2.1.23" />
+      </p>
+      <chapter eID="corinthians-2.1" />
+      <chapter sID="corinthians-2.2" osisID="corinthians-2.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="corinthians-2.2.1" osisID="corinthians-2.2.1" />Statui autem hoc ipsum apud me, ne iterum in tristitiam * venirem ad vos.<verse eID="corinthians-2.2.1" />
+        <verse sID="corinthians-2.2.2" osisID="corinthians-2.2.2" />Si enim ego contristo vos: et quis est, qui me laetificat, nisi* qui contristatur ex me?<verse eID="corinthians-2.2.2" />
+        <verse sID="corinthians-2.2.3" osisID="corinthians-2.2.3" />Et hoc ipsum scripsi vobis, ut non cum venero, tristitiam super tristitiam habeam, a quibus oportuerat me gaudere : confidens in omnibus vobis, quia meum gaudium, omnium vestrum est.<verse eID="corinthians-2.2.3" />
+        <verse sID="corinthians-2.2.4" osisID="corinthians-2.2.4" />Nam ex vestra tribulatione, et angustia cordis scripsi vobis per multas lachrymas: non ut contristemini: sed ut caritatem sciatis, quam habeo abundantius in vobis.<verse eID="corinthians-2.2.4" />
+        <verse sID="corinthians-2.2.5" osisID="corinthians-2.2.5" />Si quis autem contristavit, non me contristavit: sed ex parte, ut non gravarem omnes vos.<verse eID="corinthians-2.2.5" />
+        <verse sID="corinthians-2.2.6" osisID="corinthians-2.2.6" />Sufficit illi, qui eiusmodi est, obiurgatio haec, quae sit a pluribus:<verse eID="corinthians-2.2.6" />
+        <verse sID="corinthians-2.2.7" osisID="corinthians-2.2.7" />ita ut contrario vos magis donetis, et consolemini, ne forte maiore tristitia absorbeatur qui eiusmodi est.<verse eID="corinthians-2.2.7" />
+        <verse sID="corinthians-2.2.8" osisID="corinthians-2.2.8" />Propter quod obsecro vos, ut confirmetis illum caritatem.<verse eID="corinthians-2.2.8" />
+        <verse sID="corinthians-2.2.9" osisID="corinthians-2.2.9" />Ideo* etenim scripsi, ut cognoscam expedimentum vestrum, si in omnibus obaudientes estis.<verse eID="corinthians-2.2.9" />
+        <verse sID="corinthians-2.2.10" osisID="corinthians-2.2.10" />* Si cui autem aliquid donatis, et ego: nam et ego quod donavi, si quid donavi, propter vos in faciem Christi<verse eID="corinthians-2.2.10" />
+        <verse sID="corinthians-2.2.11" osisID="corinthians-2.2.11" />ut non circumveniamur a satana: non enim versutias eius ignoramus.<verse eID="corinthians-2.2.11" />
+        <verse sID="corinthians-2.2.12" osisID="corinthians-2.2.12" />Cum venissem autem Troadam propter Evangelium Christi, et ostium mihi apertum esset in Domino.<verse eID="corinthians-2.2.12" />
+        <verse sID="corinthians-2.2.13" osisID="corinthians-2.2.13" />non habui requiem spiritu meo, eo quod non invenirem Titum fratrem meum, sed cum vale illis dixissem, profectus sum in Macedoniam.<verse eID="corinthians-2.2.13" />
+        <verse sID="corinthians-2.2.14" osisID="corinthians-2.2.14" />Deo autem gratias, qui semper triumphat nos in Christo, et odorem notitiae suae manifestat per nos in omni loco:<verse eID="corinthians-2.2.14" />
+        <verse sID="corinthians-2.2.15" osisID="corinthians-2.2.15" />quia Christi bonus odor sumus Deo in his, qui salvi fiunt, et in his, qui pereunt:<verse eID="corinthians-2.2.15" />
+        <verse sID="corinthians-2.2.16" osisID="corinthians-2.2.16" />aliis quidem odor mortis in mortem; aliis autem odor vitae in vitam. Et ad haec quis tam idoneus est?<verse eID="corinthians-2.2.16" />
+        <verse sID="corinthians-2.2.17" osisID="corinthians-2.2.17" />Non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sicut ex Deo, coram Deo, in Christo loquimur.<verse eID="corinthians-2.2.17" />
+      </p>
+      <chapter eID="corinthians-2.2" />
+      <chapter sID="corinthians-2.3" osisID="corinthians-2.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="corinthians-2.3.1" osisID="corinthians-2.3.1" />Incipimus iterum nosmetipsos commendare? aut nunquid egemus (sicut quidam) commendatitiis epistolis ad vos, aut ex vobis commendatitiis?<verse eID="corinthians-2.3.1" />
+        <verse sID="corinthians-2.3.2" osisID="corinthians-2.3.2" />Epistola nostra vos estis, inscripta in cordibus nostris, quae scitur, et quae legitur ab omnibus hominibus:<verse eID="corinthians-2.3.2" />
+        <verse sID="corinthians-2.3.3" osisID="corinthians-2.3.3" />manifestati * quod estis epistola Christi, ministrata a nobis, inscripta non atramento, sed piritu Dei vivi: non in tabulis lapideis, sed in tabulis cordis carnalibus.<verse eID="corinthians-2.3.3" />
+        <verse sID="corinthians-2.3.4" osisID="corinthians-2.3.4" />Confidentiam autem talem habemus per Christum ad Deum:<verse eID="corinthians-2.3.4" />
+        <verse sID="corinthians-2.3.5" osisID="corinthians-2.3.5" />non quod sufficientes sumus cogitare aliquid a nobis, quasi ex nobis: sed sufficientia nostra Deo est:<verse eID="corinthians-2.3.5" />
+        <verse sID="corinthians-2.3.6" osisID="corinthians-2.3.6" />qui et sufficientes nos fecit ministros novi testamenti; non littera, sed Spiritu: nam littera occidit, Spiritu autem vivificat.<verse eID="corinthians-2.3.6" />
+        <verse sID="corinthians-2.3.7" osisID="corinthians-2.3.7" />Si autem ministerium mortis, in litteris * formata in lapidibus, fuit in gloria; ita ut non possent intendere filii Israel in faciem Moysi propter gloriam vultus eius, quae aboletur:<verse eID="corinthians-2.3.7" />
+        <verse sID="corinthians-2.3.8" osisID="corinthians-2.3.8" />quomodo non magis ministratio Spiritus erit in gloria?<verse eID="corinthians-2.3.8" />
+        <verse sID="corinthians-2.3.9" osisID="corinthians-2.3.9" />Nam si ministerio damnationis gloria est: multo magis abundavit ministerium iustitiae in gloria.<verse eID="corinthians-2.3.9" />
+        <verse sID="corinthians-2.3.10" osisID="corinthians-2.3.10" />Nam nê glorificatum est, quod gloriosum factum est in hac parte, propter eam, quae supereminet, gloriam.<verse eID="corinthians-2.3.10" />
+        <verse sID="corinthians-2.3.11" osisID="corinthians-2.3.11" />Si enim quod* aboletur, per gloriam: multo magis quod manet, in gloria.<verse eID="corinthians-2.3.11" />
+        <verse sID="corinthians-2.3.12" osisID="corinthians-2.3.12" />Habentes igitur talem spem, multa confidentia utamur:<verse eID="corinthians-2.3.12" />
+        <verse sID="corinthians-2.3.13" osisID="corinthians-2.3.13" />et non sicut Moyses ponebat velamen supra faciem suam, ut non intenderent filii Israel usque in finem eius, quod aboletur,<verse eID="corinthians-2.3.13" />
+        <verse sID="corinthians-2.3.14" osisID="corinthians-2.3.14" />sed obtunsi sunt sensus eorum. Usque in hodiernum diem idipsum velamen in lectione veteris testamenti manet, dum non revelatur (quoniam in Christo aboletur<verse eID="corinthians-2.3.14" />
+        <verse sID="corinthians-2.3.15" osisID="corinthians-2.3.15" />sed usque in hodiernum, cum legitur Moyses, velamen est positum super cor eorum.<verse eID="corinthians-2.3.15" />
+        <verse sID="corinthians-2.3.16" osisID="corinthians-2.3.16" />Cum autem conversus fuerit ad Deum auferetur velamen.<verse eID="corinthians-2.3.16" />
+        <verse sID="corinthians-2.3.17" osisID="corinthians-2.3.17" />Dominus autem Spiritus est: Ubi autem Spiritus Domini, ibi libertas.<verse eID="corinthians-2.3.17" />
+        <verse sID="corinthians-2.3.18" osisID="corinthians-2.3.18" />Nos autem omnes, revelata facie gloriam Domini speculantes, eandem imaginem reformamur de gloria in gloriam, tanquam a Domini Spiritu.<verse eID="corinthians-2.3.18" />
+      </p>
+      <chapter eID="corinthians-2.3" />
+      <chapter sID="corinthians-2.4" osisID="corinthians-2.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="corinthians-2.4.1" osisID="corinthians-2.4.1" />Ideo habentes ministrationem hanc, sicut misericordiam consecuti, non defecimus,<verse eID="corinthians-2.4.1" />
+        <verse sID="corinthians-2.4.2" osisID="corinthians-2.4.2" />sed renuntiavimus occultis pudoris, non ambulantes in astutia, neque adulterantes verbum Dei, sed * manifestatio veritatis commendante: nosmetipsos ad omnem conscientiam hominu, coram Deo.<verse eID="corinthians-2.4.2" />
+        <verse sID="corinthians-2.4.3" osisID="corinthians-2.4.3" />Quod si etiam coopertum est Evangelium nostrum; in his, qui pereunt, est coopertum:<verse eID="corinthians-2.4.3" />
+        <verse sID="corinthians-2.4.4" osisID="corinthians-2.4.4" />in quibus Deus saeculi* eius excaecavit mentes insidelium, ut non sulgeat illuminatio Evangelii gloriae Christi, qui est imago Dei.<verse eID="corinthians-2.4.4" />
+        <verse sID="corinthians-2.4.5" osisID="corinthians-2.4.5" />Non enim nosmetipsos praedicamus, sed Iesum Christum Dominum; nos autem servos *vestros per Iesum:<verse eID="corinthians-2.4.5" />
+        <verse sID="corinthians-2.4.6" osisID="corinthians-2.4.6" />quoniam Deus, qui dixit de tenebris lumen fulgere, illuxit in cordibus nostris, ad illuminationem scientiae gloriae eius, in faciem Christi Iesu.<verse eID="corinthians-2.4.6" />
+        <verse sID="corinthians-2.4.7" osisID="corinthians-2.4.7" />Habemus autem thesaurum hunc in vasis sictilibus: ut sublimitas virtutis sit Dei, et non ex nobis.<verse eID="corinthians-2.4.7" />
+        <verse sID="corinthians-2.4.8" osisID="corinthians-2.4.8" />In omnibus tribulatio, sed non angustiamur: aporiamur, sed non destituimur:<verse eID="corinthians-2.4.8" />
+        <verse sID="corinthians-2.4.9" osisID="corinthians-2.4.9" />persecutionem patimur, sed non derelinquimur: deiicimur, sed non perimus:<verse eID="corinthians-2.4.9" />
+        <verse sID="corinthians-2.4.10" osisID="corinthians-2.4.10" />semper mortem Christi in corpore nostro circumferentes, ut et vita Iesu Christi in corpore nostro manifestetur.<verse eID="corinthians-2.4.10" />
+        <verse sID="corinthians-2.4.11" osisID="corinthians-2.4.11" />Semper enim nos, qui vivimus, in mortem tradimut propter Iesum: ut et vita Iesu Christi manisestetur in mortali carne nostra.<verse eID="corinthians-2.4.11" />
+        <verse sID="corinthians-2.4.12" osisID="corinthians-2.4.12" />Itaque mors in nobis operatur, vita autem in vobis.<verse eID="corinthians-2.4.12" />
+        <verse sID="corinthians-2.4.13" osisID="corinthians-2.4.13" />Habentes autem* eundem spiritum fidei sicut scriptum est: Credidi, propter quod locutus sum: et nos* credimus, propter quod et loquimur:<verse eID="corinthians-2.4.13" />
+        <verse sID="corinthians-2.4.14" osisID="corinthians-2.4.14" />scientes quoniam qui suscitavit Dominum Iesum, et nos cum Iesu suscitavit, et constituet vobiscum.<verse eID="corinthians-2.4.14" />
+        <verse sID="corinthians-2.4.15" osisID="corinthians-2.4.15" />Omnia enim propter vos: ut gratia abundans, per multos gratiarum actionem, abundet in gloriam Dei.<verse eID="corinthians-2.4.15" />
+        <verse sID="corinthians-2.4.16" osisID="corinthians-2.4.16" />Propterea non deficimus:* sed etsi, qui foris est, homo noster, corrumpitur: sed qui intus est, renovatur de die in diem.<verse eID="corinthians-2.4.16" />
+        <verse sID="corinthians-2.4.17" osisID="corinthians-2.4.17" />Nam quod in praesenti est momentaneum et leve tribulationis nostrae, secundum excellentiam in sublimitate aeternae gloriae pondus operatur in nobis<verse eID="corinthians-2.4.17" />
+        <verse sID="corinthians-2.4.18" osisID="corinthians-2.4.18" />non respicientes* quae videntur, sed quae non videntur. Quae enim videntur, temporalia: quae aut non videntur, aeterna sunt.<verse eID="corinthians-2.4.18" />
+      </p>
+      <chapter eID="corinthians-2.4" />
+      <chapter sID="corinthians-2.5" osisID="corinthians-2.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="corinthians-2.5.1" osisID="corinthians-2.5.1" />Scimus enim, quoniam si terrestris domus nostra huius habitationis dissolvatur, quod aedificationem ex Deo habemus, domum non manufactam, aeternam in coelis.<verse eID="corinthians-2.5.1" />
+        <verse sID="corinthians-2.5.2" osisID="corinthians-2.5.2" />Nam et in hoc gemimus, habitaculum nostrum, quod de coelo est, superindui cupientes:<verse eID="corinthians-2.5.2" />
+        <verse sID="corinthians-2.5.2" osisID="corinthians-2.5.2" />
+        <verse eID="corinthians-2.5.2" />
+        <verse sID="corinthians-2.5.3" osisID="corinthians-2.5.3" />si tamen et spoliati, non nudi inveniamur.<verse eID="corinthians-2.5.3" />
+        <verse sID="corinthians-2.5.4" osisID="corinthians-2.5.4" />Nam et qui sumus in habitaculo isto, ingemiscimus onerati: in quo nolumus exspoliari ied supervestiri; ut absorbeatur mortale a vita.<verse eID="corinthians-2.5.4" />
+        <verse sID="corinthians-2.5.5" osisID="corinthians-2.5.5" />Qui autem efficit nos in hoc ipsum, Deus, qui dedit nobis pignus spiritus.<verse eID="corinthians-2.5.5" />
+        <verse sID="corinthians-2.5.6" osisID="corinthians-2.5.6" />Audientes igitur semper, et scientes quod dum sumus in corpore, peregrinamur a Deo:<verse eID="corinthians-2.5.6" />
+        <verse sID="corinthians-2.5.7" osisID="corinthians-2.5.7" />(per fidem enim ambulamus, non per speciem )<verse eID="corinthians-2.5.7" />
+        <verse sID="corinthians-2.5.8" osisID="corinthians-2.5.8" />audemus etiam voluntatem habentes magis peregrinari a corpore, et praesentes esse ad Dominum.<verse eID="corinthians-2.5.8" />
+        <verse sID="corinthians-2.5.9" osisID="corinthians-2.5.9" />Et contendimus, sive praesentes, sive absentes, placere illi.<verse eID="corinthians-2.5.9" />
+        <verse sID="corinthians-2.5.10" osisID="corinthians-2.5.10" />Nam omnes vos manifestari oportet ante Tribunal Christi, ut ferat unusquisque propria corporis, secundum quod gessit; sive bonum, sive malum.<verse eID="corinthians-2.5.10" />
+        <verse sID="corinthians-2.5.11" osisID="corinthians-2.5.11" />Scientes igitur timorem Domini, hominibus suademus, Deo autem manifesti sumus. Spero autem et in conscientiis vestris manifestos nos esse.<verse eID="corinthians-2.5.11" />
+        <verse sID="corinthians-2.5.12" osisID="corinthians-2.5.12" />Non iterum nos commendamus vobis sed occasionem dantes nobis gloriandi pro nobis: ut habeatis ad eos, qui in facie gloriantur, et non in corde.<verse eID="corinthians-2.5.12" />
+        <verse sID="corinthians-2.5.13" osisID="corinthians-2.5.13" />Sive enim excedimus mente; Deo: sive sobrii sumus, vobis.<verse eID="corinthians-2.5.13" />
+        <verse sID="corinthians-2.5.14" osisID="corinthians-2.5.14" />Caritas enim Christi urguet nos: iudicantes hoc, quoniam unus pro omnibus mortuus est, ergo omnes mortui sunt:<verse eID="corinthians-2.5.14" />
+        <verse sID="corinthians-2.5.15" osisID="corinthians-2.5.15" />et pro omnibus mortuus est: ut, qui vivunt non sibi ipsi vivant; sed ei, qui pro illis moruis est et surrexit.<verse eID="corinthians-2.5.15" />
+        <verse sID="corinthians-2.5.16" osisID="corinthians-2.5.16" />Igitur nos amodo neminem novimus secundum carnem. Et si cognovimus Christum secundum carnem: sed nunc iam non novimus secundum carnem.<verse eID="corinthians-2.5.16" />
+        <verse sID="corinthians-2.5.17" osisID="corinthians-2.5.17" />Itaque si qua in Christo nova creatura: vetera transierunt : ecce facta sunt nova.<verse eID="corinthians-2.5.17" />
+        <verse sID="corinthians-2.5.18" osisID="corinthians-2.5.18" />Omnia autem ex Deo, qui reconciliavit nos sibi per Christum: et dedit nobis ministerium reconciliationis:<verse eID="corinthians-2.5.18" />
+        <verse sID="corinthians-2.5.19" osisID="corinthians-2.5.19" />quoniam quidem Deus erat in Christo saeculum reconcilians sibi, non reputans illis delicta eorum, et posuit in nobis adnuntiationem verbum reconciliationis.<verse eID="corinthians-2.5.19" />
+        <verse sID="corinthians-2.5.20" osisID="corinthians-2.5.20" />Pro quo Christo legatione fungimur, tanquam Deo exhortante per nos, obsecrantes pro Christo reconciliari Deo. 21 Eum, qui non noverat peccatum, pro nobis peccatum fecit, ut nos efficeremur iustitia Dei in illo.<verse eID="corinthians-2.5.20" />
+      </p>
+      <chapter eID="corinthians-2.5" />
+      <chapter sID="corinthians-2.6" osisID="corinthians-2.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="corinthians-2.6.1" osisID="corinthians-2.6.1" />Adiuvantes autem, et exhortantes, ne in vacuum gratiam Dei excipiatis.<verse eID="corinthians-2.6.1" />
+        <verse sID="corinthians-2.6.2" osisID="corinthians-2.6.2" />Tempore enim, inquit, accepto exaudivi te, et in die salutis adiuvi te. Ecce nunc tempus acceptum, ecce nunc dies salutis:<verse eID="corinthians-2.6.2" />
+        <verse sID="corinthians-2.6.3" osisID="corinthians-2.6.3" />nullam in nullo dantes offensionem, ut non vituperetur ministerium nostrum:<verse eID="corinthians-2.6.3" />
+        <verse sID="corinthians-2.6.4" osisID="corinthians-2.6.4" />sed in omnibus commendantes nosmetipsos sicut Dei ministri, in patientia multa, in tribulationibus, in necessitatibus, in angustiis.<verse eID="corinthians-2.6.4" />
+        <verse sID="corinthians-2.6.5" osisID="corinthians-2.6.5" />in plagis, in carceribus, in seditionibus, in laboribus, in vigiliis, in ieiuniis<verse eID="corinthians-2.6.5" />
+        <verse sID="corinthians-2.6.6" osisID="corinthians-2.6.6" />in castitate, in scientia, in magnanimitate in benignitate, in Spiritu sancto, in caritate non ficta.<verse eID="corinthians-2.6.6" />
+        <verse sID="corinthians-2.6.7" osisID="corinthians-2.6.7" />in verbo veritatis, in virtute Dei, per arma iustitiae a dextris, et sinistris;<verse eID="corinthians-2.6.7" />
+        <verse sID="corinthians-2.6.8" osisID="corinthians-2.6.8" />per gloriam in novitatem; per infamiam et bonam famam: ut seductores, et veraces; ut qui ignoramur, et cognoscimus:<verse eID="corinthians-2.6.8" />
+        <verse sID="corinthians-2.6.9" osisID="corinthians-2.6.9" />ut morientes, et ecce vivimus: et tentati, ut non mortificati:<verse eID="corinthians-2.6.9" />
+        <verse sID="corinthians-2.6.10" osisID="corinthians-2.6.10" />ut tristes, semper autem gaudentes: sicut et egentes, multos autem locupletantes: tanquam nihil habentes, et omnia possidentes.<verse eID="corinthians-2.6.10" />
+        <verse sID="corinthians-2.6.11" osisID="corinthians-2.6.11" />Os nostrum patet ad vos, Corinthii, cor nostrum dilatatum est.<verse eID="corinthians-2.6.11" />
+        <verse sID="corinthians-2.6.12" osisID="corinthians-2.6.12" />Non angustiamini in nobis: angustiamini autem in visceribus vestris:<verse eID="corinthians-2.6.12" />
+        <verse sID="corinthians-2.6.13" osisID="corinthians-2.6.13" />eandem autem remunerationem, tanquam filiis dico, dilatamini et vos.<verse eID="corinthians-2.6.13" />
+        <verse sID="corinthians-2.6.14" osisID="corinthians-2.6.14" />Et nolite iugum ducere cum infidelibus. Quae enim participatio iustitiae cum iniquitate? Aut quae societas lucis ad tenebras! 15. Quae autem conventio Christi ad Beliab? Aut quae pars fideli cum* infideli?<verse eID="corinthians-2.6.14" />
+        <verse sID="corinthians-2.6.16" osisID="corinthians-2.6.16" />Qui autem consensus templo Dei cum idolis? Nos enim templum Dei sumus vivi. Dicit enim Deus: Quoniam inhabitabo in illis, et inter eos ambulabo, et ero illorum Deus, et ipsi erunt mihi populus.<verse eID="corinthians-2.6.16" />
+        <verse sID="corinthians-2.6.17" osisID="corinthians-2.6.17" />Propter quod exite de medio eorum, et separamini, dicit Dominus, et immundum ne tetigeritis:<verse eID="corinthians-2.6.17" />
+        <verse sID="corinthians-2.6.18" osisID="corinthians-2.6.18" />et ego recipiam vos: et ero vobis in patrem, et vos eritis mihi in filios, et filias, dicit Dominus omnipotens.<verse eID="corinthians-2.6.18" />
+      </p>
+      <chapter eID="corinthians-2.6" />
+      <chapter sID="corinthians-2.7" osisID="corinthians-2.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="corinthians-2.7.1" osisID="corinthians-2.7.1" />Has igitur habentes promissiones, carissimi, mundemus nos ab omni inquinamento carnis et spiritus, perficientes sanctificationem in timore Dei.<verse eID="corinthians-2.7.1" />
+        <verse sID="corinthians-2.7.2" osisID="corinthians-2.7.2" />Capite nos. Neminem nocuimus, neminem corrumpimus, neminem circumvenimus.<verse eID="corinthians-2.7.2" />
+        <verse sID="corinthians-2.7.3" osisID="corinthians-2.7.3" />Non ad condemnationem dico: praedixi enim quod in cordibus nostris estis, ad commoriendum, et ad convivendum.<verse eID="corinthians-2.7.3" />
+        <verse sID="corinthians-2.7.4" osisID="corinthians-2.7.4" />Multa mihi fiducia ad vos est, multa gloriatio pro vobis, repletus sum exhortatione, superabundo gaudio in multa tribulatione nostra.<verse eID="corinthians-2.7.4" />
+        <verse sID="corinthians-2.7.5" osisID="corinthians-2.7.5" />Nam et cum venissemus in Macedoniam, nullam requiem* habuit caro nostra, sed in omnibus tribulatio: foris pugnae, intus timores.<verse eID="corinthians-2.7.5" />
+        <verse sID="corinthians-2.7.6" osisID="corinthians-2.7.6" />Sed qui consolatur humiles, consolatus est nos Deus in adventum Titi.<verse eID="corinthians-2.7.6" />
+        <verse sID="corinthians-2.7.7" osisID="corinthians-2.7.7" />Non solum autem in adventum eius, sed etiam in consolationem, qua consolatus est in vobis, nuncians nobis vestrum desiderium, vestrum moerorem, vestram aemulationem pro me, ita ut magis gauderem.<verse eID="corinthians-2.7.7" />
+        <verse sID="corinthians-2.7.8" osisID="corinthians-2.7.8" />Quoniam etsi contristavi vos in epistola mea, non me poenitet: etsi poenitet, video quod epistola illa (etsi ad horam) contristavit vos;<verse eID="corinthians-2.7.8" />
+        <verse sID="corinthians-2.7.9" osisID="corinthians-2.7.9" />gaudeo: non quia contristati estis, sed quia contristati estis ad poenitentiam. Contristati enim estis secundum Deum, ut in nullo detrimentum patiamini ex nobis.<verse eID="corinthians-2.7.9" />
+        <verse sID="corinthians-2.7.10" osisID="corinthians-2.7.10" />Nam secundum Deum tristitia poenitentiam in salutem stabilem operatur: nam huius saeculi tristitia mortem operatur.<verse eID="corinthians-2.7.10" />
+        <verse sID="corinthians-2.7.11" osisID="corinthians-2.7.11" />Ecce enum hoc ipsum, secundum Deum contristari vos, quantam operatus est vobis sollicitudinem: sed excusationem; sed indignationem, sed timorem, sed desiderium, sed aemulationem; sed vindictam? in omnibus exhibuistis vos, castos esse in negotio.<verse eID="corinthians-2.7.11" />
+        <verse sID="corinthians-2.7.12" osisID="corinthians-2.7.12" />Igitur, si scripsi; non propter eum, qui iniuriam fecit, nec propter eum, qui iniuriam passus est: sed ut manifestetur sollicitudo* vestra, quae est pro nobis ad vos<verse eID="corinthians-2.7.12" />
+        <verse sID="corinthians-2.7.13" osisID="corinthians-2.7.13" />coram Deo: ideo consolati sumus. In consolatione autem nostra; abundantius magis gavisi sumus super gaudium Titi, quoniam perfectus est spiritus eius ab omnibus vobis:<verse eID="corinthians-2.7.13" />
+        <verse sID="corinthians-2.7.14" osisID="corinthians-2.7.14" />quia si quid apud illum de vobis gloriatus sum, non sum confusus: sed sicut omnia vobis in veritate locuti sumus, ita et gloriatio nostra, quae ad Titum fuit, veritas facta est.<verse eID="corinthians-2.7.14" />
+        <verse sID="corinthians-2.7.15" osisID="corinthians-2.7.15" />et viscera eius abundantius in vobis sunt: *rememorantis omnium vestrum obaudientiam quomodo cum timore; et tremore excepistis eum.<verse eID="corinthians-2.7.15" />
+        <verse sID="corinthians-2.7.16" osisID="corinthians-2.7.16" />Gaudeo quod in omnibus confido in vobis.<verse eID="corinthians-2.7.16" />
+      </p>
+      <chapter eID="corinthians-2.7" />
+      <chapter sID="corinthians-2.8" osisID="corinthians-2.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="corinthians-2.8.1" osisID="corinthians-2.8.1" />Notam autem facimus vobis, fratres, gratiam Dei, quae data est in Ecclesiis Macedoniae :<verse eID="corinthians-2.8.1" />
+        <verse sID="corinthians-2.8.2" osisID="corinthians-2.8.2" />quod in multa probatione tribulationis abundantia gaudii eorum; et profunda paupertas eorum, abundavit in divitiis simplicitatis eorum:<verse eID="corinthians-2.8.2" />
+        <verse sID="corinthians-2.8.3" osisID="corinthians-2.8.3" />quia secundum virtutem testimonium reddo, et supra virtutem sua sponte, cum multa prece obsecrantes nos gratiam, et communicationem ministerii, quod fit in Sanctos.<verse eID="corinthians-2.8.3" />
+        <verse sID="corinthians-2.8.5" osisID="corinthians-2.8.5" />Et non sicut speramus, sed semetipsi dederunt primum Domino, deinde nobis per voluntatem Dei;<verse eID="corinthians-2.8.5" />
+        <verse sID="corinthians-2.8.6" osisID="corinthians-2.8.6" />ita ut rogaremus Titum, ut quemadmodum coepit, ita et perficiat in vos etiam gratiam istam.<verse eID="corinthians-2.8.6" />
+        <verse sID="corinthians-2.8.7" osisID="corinthians-2.8.7" />Sed sicut semper in omnibus abundatis fide, et sermone, et scientia, et omni sollicitudine, et insuper vestra in nos caritate, et ut in hac gratia abundetis.<verse eID="corinthians-2.8.7" />
+        <verse sID="corinthians-2.8.8" osisID="corinthians-2.8.8" />Non quasi imperans dico: sed propter aliorum sollicitudinem, et vestrae caritatis ingenium probans.<verse eID="corinthians-2.8.8" />
+        <verse sID="corinthians-2.8.9" osisID="corinthians-2.8.9" />Scitis enim gratiam Domini nostri Iesu Christi, quia propter vos pauper factus est, cum dives esset, ut illius inopia vos divites essetis.<verse eID="corinthians-2.8.9" />
+        <verse sID="corinthians-2.8.10" osisID="corinthians-2.8.10" />Et consilium in hoc do: hoc enim vobis utile est, qui non solum facere, sed et velle coepistis laborare ab anno priore:<verse eID="corinthians-2.8.10" />
+        <verse sID="corinthians-2.8.11" osisID="corinthians-2.8.11" />nunc vero et * facto perficite: ut quemadmodum animus est voluntatis, ita sit et perficiendi ex abundantia.<verse eID="corinthians-2.8.11" />
+        <verse sID="corinthians-2.8.12" osisID="corinthians-2.8.12" />Nam si promptus animus est; secundum quod habet, acceptus est, non secundum quod non habet.<verse eID="corinthians-2.8.12" />
+        <verse sID="corinthians-2.8.13" osisID="corinthians-2.8.13" />Non enim ut aliis sit remissio, vobis tribulatio, sed ex aequitate.<verse eID="corinthians-2.8.13" />
+        <verse sID="corinthians-2.8.14" osisID="corinthians-2.8.14" />In hoc tempore vestra abundantia ad illorum* inopiam: ut et illorum abundantia sit ad vestram inopiam, ut siat aequalitas, sicut scriptum est:<verse eID="corinthians-2.8.14" />
+        <verse sID="corinthians-2.8.15" osisID="corinthians-2.8.15" />Qui multum, non abundavit: et qui modicum, non minoravit.<verse eID="corinthians-2.8.15" />
+        <verse sID="corinthians-2.8.16" osisID="corinthians-2.8.16" />Gratias autem Deo, qui dedit eandem sollicitudinem pro vobis in corde Titi<verse eID="corinthians-2.8.16" />
+        <verse sID="corinthians-2.8.17" osisID="corinthians-2.8.17" />quoniam quidem exhortationem suscepit: sollicitior autem cum esset, voluntarius profectus est ad vos.<verse eID="corinthians-2.8.17" />
+        <verse sID="corinthians-2.8.18" osisID="corinthians-2.8.18" />Misimus autem cum illo fratrem, cuius laus in Evangelio per omnes Ecclesias:<verse eID="corinthians-2.8.18" />
+        <verse sID="corinthians-2.8.19" osisID="corinthians-2.8.19" />non solum autem, sed ordinatus ab Ecclesiis comes noster, cum hac gratia, quae ministratur a nobis ad Domini gloriam, et destinatam nostram voluntatem:<verse eID="corinthians-2.8.19" />
+        <verse sID="corinthians-2.8.20" osisID="corinthians-2.8.20" />devitantes hoc, ne quis nos vituperet in plenitudine hac, quae ministratur a nobis.<verse eID="corinthians-2.8.20" />
+        <verse sID="corinthians-2.8.21" osisID="corinthians-2.8.21" />Providemus enim bona non solum coram Domino, sed coram hominibus.<verse eID="corinthians-2.8.21" />
+        <verse sID="corinthians-2.8.22" osisID="corinthians-2.8.22" />Misimus autem cum illis fratrem nostrum, quem? probavimus in multis saepe sollicitum esse: nunc vero multo sollicitiorem, confidentia multa in nobis.<verse eID="corinthians-2.8.22" />
+        <verse sID="corinthians-2.8.23" osisID="corinthians-2.8.23" />sive pro Tito, socius meus, et adiutor in vobis, sive fratres nostri, Apostoli Ecclesiarum, gloria Christi.<verse eID="corinthians-2.8.23" />
+        <verse sID="corinthians-2.8.24" osisID="corinthians-2.8.24" />Ostensionem ergo caritatis vestrae, et nostrae gloriae pro vobis, in ipsos ostendentes in faciem Ecclesiarum.<verse eID="corinthians-2.8.24" />
+      </p>
+      <chapter eID="corinthians-2.8" />
+      <chapter sID="corinthians-2.9" osisID="corinthians-2.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="corinthians-2.9.1" osisID="corinthians-2.9.1" />Nam de ministerio, quod fit in sanctos, ex abundanti est mihi scribere vobis.<verse eID="corinthians-2.9.1" />
+        <verse sID="corinthians-2.9.2" osisID="corinthians-2.9.2" />Scio enim promptum animum vestrum: de quo glorior de vobis apud Macaedonas. Quia Achaia praeparata est ab anno priore, et quae ex vobis est aemulatio, provocabit plures.<verse eID="corinthians-2.9.2" />
+        <verse sID="corinthians-2.9.3" osisID="corinthians-2.9.3" />Misi autem fratres: uti non quod gloriamus de vobis, exinaniatur in hac parte, ut (quemadmodum dixeram) parati sitis:<verse eID="corinthians-2.9.3" />
+        <verse sID="corinthians-2.9.4" osisID="corinthians-2.9.4" />et ne cum venerint mecum Macaedones, et invenerint vos imparatos, et confundamur nos ne dicam vos) in hac substantia.<verse eID="corinthians-2.9.4" />
+        <verse sID="corinthians-2.9.5" osisID="corinthians-2.9.5" />Necessarium ergo existimavi rogare fratres ut pergant ad vos, ut praeparent ante promissam benedictionem hanc paratam esse, sic quasi benedictionem, non quasi avaritiam.<verse eID="corinthians-2.9.5" />
+        <verse sID="corinthians-2.9.6" osisID="corinthians-2.9.6" />Hoc autem. Qui seminat parce, parce et metet: et qui seminat in benedictione, de benedictione et metet.<verse eID="corinthians-2.9.6" />
+        <verse sID="corinthians-2.9.7" osisID="corinthians-2.9.7" />Unusquisque sicut proposuit corde, non ex tristitia, aut necessitate: hilarem enim datorem *diligit Deus.<verse eID="corinthians-2.9.7" />
+        <verse sID="corinthians-2.9.8" osisID="corinthians-2.9.8" />Potens est autem Deus omnem gratiam abundare in vobis: ut ubique semper omnem sufficientiam habentes, abundetis in omne opus bonum<verse eID="corinthians-2.9.8" />
+        <verse sID="corinthians-2.9.9" osisID="corinthians-2.9.9" />sicut scriptum est: Sparsit, dedit pauperibus: iustitia eius manet in aeternum.<verse eID="corinthians-2.9.9" />
+        <verse sID="corinthians-2.9.10" osisID="corinthians-2.9.10" />Qui autem subministrat semen seminanti: et panem in escam subministravit, et multiplicabit semen vestrum, et augebit nascentia iustitiae vestrae:<verse eID="corinthians-2.9.10" />
+        <verse sID="corinthians-2.9.11" osisID="corinthians-2.9.11" />in omnibus locupletati in omnem simplicitatem, quae operatur per nos gratiarum actionem Deo.<verse eID="corinthians-2.9.11" />
+        <verse sID="corinthians-2.9.12" osisID="corinthians-2.9.12" />Quia ministratio officii huius non solum replens ea, quae desunt sanctis, sed et abundat per multarum gratiarum actionem Deo.<verse eID="corinthians-2.9.12" />
+        <verse sID="corinthians-2.9.13" osisID="corinthians-2.9.13" />per expedimentum ministrationis huius, magnificantes Deum in obaudientiam confessionis vestrae, in Evangelio Christi, et simplicitate communicationis in illos, et in omnes,<verse eID="corinthians-2.9.13" />
+        <verse sID="corinthians-2.9.14" osisID="corinthians-2.9.14" />et eorum obsecrationem pro vobis, defiderantium vos propter eminentem gratiam Dei in vobis. 15. Gratia Deo super enarrabili eius dono.<verse eID="corinthians-2.9.14" />
+      </p>
+      <chapter eID="corinthians-2.9" />
+      <chapter sID="corinthians-2.10" osisID="corinthians-2.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="corinthians-2.10.1" osisID="corinthians-2.10.1" />Ipse autem ego Paulus obsecro vos per mansuetudinem, et modestiam Christi, qui ad faciem quidem humilis inter vos, absens autem audeo in vobis.<verse eID="corinthians-2.10.1" />
+        <verse sID="corinthians-2.10.2" osisID="corinthians-2.10.2" />Obsecro autem ut non praesens audeam fiduciam, qua existimor, audere, in quosdam qui arbitrantur nos tanquam secundum carnem ambulemus.<verse eID="corinthians-2.10.2" />
+        <verse sID="corinthians-2.10.3" osisID="corinthians-2.10.3" />In carne enim ambulantes, non secundum carnem militamus.<verse eID="corinthians-2.10.3" />
+        <verse sID="corinthians-2.10.4" osisID="corinthians-2.10.4" />Arma enim militiae nostrae non carnalia. sed potentia Deo ad destruendam munitionem consilia destruentes<verse eID="corinthians-2.10.4" />
+        <verse sID="corinthians-2.10.5" osisID="corinthians-2.10.5" />et omnem altitudinem extollentem se adversus scientiam Dei, captivantes omnem intellectum, ad obaudiendum Christo perducentes<verse eID="corinthians-2.10.5" />
+        <verse sID="corinthians-2.10.6" osisID="corinthians-2.10.6" />et in promptu habentes vindicare omnem inobaudientiam, cum impleta fuerit obauditio nostra.<verse eID="corinthians-2.10.6" />
+        <verse sID="corinthians-2.10.7" osisID="corinthians-2.10.7" />Quae secundum faciem sunt, videte. Si quis confidet se Christi servum esse, hoc cogitet iterum apud se: quia sicut ipse Christi est, ita et nos.<verse eID="corinthians-2.10.7" />
+        <verse sID="corinthians-2.10.8" osisID="corinthians-2.10.8" />Si enim aliquid abundantius gloriatus fuero de potestate nostra, quam dedit Deus et in aedificationem, et non in destructionem vestram: non confundar.<verse eID="corinthians-2.10.8" />
+        <verse sID="corinthians-2.10.9" osisID="corinthians-2.10.9" />Ut non existimemur tanquam terrentes vos per epistolas:<verse eID="corinthians-2.10.9" />
+        <verse sID="corinthians-2.10.10" osisID="corinthians-2.10.10" />quoniam quidem epistolae, inquit, graves et fortes sunt: praesentia autem corporis infirma, et sermo contemptibilis:<verse eID="corinthians-2.10.10" />
+        <verse sID="corinthians-2.10.11" osisID="corinthians-2.10.11" />hoc cogitet qui eiusmodi est, quia quales sumus verbo per epistolas absentes, tales sumus et praesentes facto.<verse eID="corinthians-2.10.11" />
+        <verse sID="corinthians-2.10.12" osisID="corinthians-2.10.12" />Non enim* audemus coniungere nos, aut comparare quibusdam, qui semetipsos commendant: sed ipsi intra nosmetipsos* mensurantes, et comparantes nobis nosmetipsos,<verse eID="corinthians-2.10.12" />
+        <verse sID="corinthians-2.10.13" osisID="corinthians-2.10.13" />non in immensum, sed secundum mensuram regulae, quam mensus est nobis Dominus, mensuram contingendi usque et ad vos.<verse eID="corinthians-2.10.13" />
+        <verse sID="corinthians-2.10.14" osisID="corinthians-2.10.14" />Non enim quasi non pertingentes ad vos, superextendimus nos: usque et ad vos enim pervenimus in Evangelio Christi:<verse eID="corinthians-2.10.14" />
+        <verse sID="corinthians-2.10.15" osisID="corinthians-2.10.15" />non immensum gloriantes in alienis laboribus: spem autem habentes, increscente fide vestra, in nobis magnificari secundum regulam nostram in abundantiam,<verse eID="corinthians-2.10.15" />
+        <verse sID="corinthians-2.10.16" osisID="corinthians-2.10.16" />ultra vos evangelizare, non aliena regula in praeparata gloriari.<verse eID="corinthians-2.10.16" />
+        <verse sID="corinthians-2.10.17" osisID="corinthians-2.10.17" />Nam qui gloriatur, in Domino gloriatur.<verse eID="corinthians-2.10.17" />
+        <verse sID="corinthians-2.10.18" osisID="corinthians-2.10.18" />Non enim qui * semet commendat, probatus est: sed quem Dominus commendat.<verse eID="corinthians-2.10.18" />
+      </p>
+      <chapter eID="corinthians-2.10" />
+      <chapter sID="corinthians-2.11" osisID="corinthians-2.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="corinthians-2.11.1" osisID="corinthians-2.11.1" />Utinam portaretis pusillum insipientiam meam, sed et supportate me:<verse eID="corinthians-2.11.1" />
+        <verse sID="corinthians-2.11.2" osisID="corinthians-2.11.2" />Aemulans enim vos Deo aemulor. Statui enim vos uni viro virginem castam exhibere Christo.<verse eID="corinthians-2.11.2" />
+        <verse sID="corinthians-2.11.3" osisID="corinthians-2.11.3" />Timeo autem, ne sicut serpens Evam seduxit de astutia sua, corrumpantur sensus vestri a castitate, et simplicitate, quae est in Christo.<verse eID="corinthians-2.11.3" />
+        <verse sID="corinthians-2.11.4" osisID="corinthians-2.11.4" />Nam si is qui venit, alium Iesum praedicat, quem non praedicavimus; aut spiritum alium accepistis, quem non accepistis; aut Evangelium aliud, quod non suscepistis: bene pateremini.<verse eID="corinthians-2.11.4" />
+        <verse sID="corinthians-2.11.5" osisID="corinthians-2.11.5" />Existimo enim me nihil minus fecisse in vobis ab aliis Apostolis.<verse eID="corinthians-2.11.5" />
+        <verse sID="corinthians-2.11.6" osisID="corinthians-2.11.6" />Etsi imperitus sum sermone, sed non scientia: sed in omni manifestatus in omnes vos.<verse eID="corinthians-2.11.6" />
+        <verse sID="corinthians-2.11.7" osisID="corinthians-2.11.7" />An peccatum feci, meipsum humilians, ut vos exaltemini? quod gratis Dei Evangelium evangelizavi vobis?<verse eID="corinthians-2.11.7" />
+        <verse sID="corinthians-2.11.8" osisID="corinthians-2.11.8" />Alias Ecclesias gravavi, acceptis stipendiis ad vestram ministrationem.<verse eID="corinthians-2.11.8" />
+        <verse sID="corinthians-2.11.9" osisID="corinthians-2.11.9" />Et cum essem apud vos, et egens; nemini * oneri fui: nam quod deerat mihi, suppleverunt fratres, qui venerunt a Macaedonia: et omnibus sine *onere me vobis servavi, et servabo.<verse eID="corinthians-2.11.9" />
+        <verse sID="corinthians-2.11.10" osisID="corinthians-2.11.10" />Est veritas Christi in me, quod gloria haec non infringetur in me in finibus Achaiae.<verse eID="corinthians-2.11.10" />
+        <verse sID="corinthians-2.11.11" osisID="corinthians-2.11.11" />Quare? Quia non diligo vos? Deus scit.<verse eID="corinthians-2.11.11" />
+        <verse sID="corinthians-2.11.12" osisID="corinthians-2.11.12" />Quod autem facio, et faciam: ut amputem occasionem eorum, qui volunt occasionem, ut in quo gloriantur, inveniantur sicut et nos.<verse eID="corinthians-2.11.12" />
+        <verse sID="corinthians-2.11.13" osisID="corinthians-2.11.13" />Nam eiusmodi pseudoapostoli, sunt operarii dolosi, transfigurantes se in apostolos Christi.<verse eID="corinthians-2.11.13" />
+        <verse sID="corinthians-2.11.14" osisID="corinthians-2.11.14" />Nec mirandum: ipse enim satanas transfigurat se sicut* angelum lucis:<verse eID="corinthians-2.11.14" />
+        <verse sID="corinthians-2.11.15" osisID="corinthians-2.11.15" />non magnum, si ministri eius transfigurantur sicut ministri iustitiae: quorum finis est secundum opera ipsorum.<verse eID="corinthians-2.11.15" />
+        <verse sID="corinthians-2.11.16" osisID="corinthians-2.11.16" />Iterum dico, (ne quis me existimet insipientem, alioquin velut insipientem suscipite me, ut ego pusillum quid glorier)<verse eID="corinthians-2.11.16" />
+        <verse sID="corinthians-2.11.17" osisID="corinthians-2.11.17" />quod loquor, non loquor secundum Dominum, sed quasi in insipientia, in hac substantia gloriaee.<verse eID="corinthians-2.11.17" />
+        <verse sID="corinthians-2.11.18" osisID="corinthians-2.11.18" />Quia multi gloriantur secundum carnem: et ego gloriabor.<verse eID="corinthians-2.11.18" />
+        <verse sID="corinthians-2.11.19" osisID="corinthians-2.11.19" />Libenter enim suffertis insipientes: cum sapientes sitis.<verse eID="corinthians-2.11.19" />
+        <verse sID="corinthians-2.11.20" osisID="corinthians-2.11.20" />* Suffertis enim si quis vos in servitutem redigit, si quis devorat, si quis accipit, si quis extollitur, si quis in faciem vos caedit.<verse eID="corinthians-2.11.20" />
+        <verse sID="corinthians-2.11.21" osisID="corinthians-2.11.21" />Secundum ignobilitatem dico, quasi nos infirmi fuerimus in hac parte. In quo quis audet (in insipientiam dico) audeo et ego:<verse eID="corinthians-2.11.21" />
+        <verse sID="corinthians-2.11.22" osisID="corinthians-2.11.22" />Hebraei sunt, et ego: Israelitae sunt, et ego: Semen Abraham sunt, et ego:<verse eID="corinthians-2.11.22" />
+        <verse sID="corinthians-2.11.23" osisID="corinthians-2.11.23" />Ministri Christi sunt, (ut minus sapiens dico) super ego: in laboribus plurimis, in carceribus abundantius, in plagis supra modum, in mortibus frequenter.<verse eID="corinthians-2.11.23" />
+        <verse sID="corinthians-2.11.24" osisID="corinthians-2.11.24" />A Iudaeis quinquies, quadraginta, una minus, accepi.<verse eID="corinthians-2.11.24" />
+        <verse sID="corinthians-2.11.25" osisID="corinthians-2.11.25" />Ter virgis caesus sum, semel lapidatus sum ter naufragium feci, noctem et diem in profundo maris feci.<verse eID="corinthians-2.11.25" />
+        <verse sID="corinthians-2.11.26" osisID="corinthians-2.11.26" />itineribus multis, periculis fluminum, periculis latronum, periculis ex genere, periculis ex Gentibus, periculis in civitate, periculis in deserto, periculis in mari, periculis in falsis fratri bus:<verse eID="corinthians-2.11.26" />
+        <verse sID="corinthians-2.11.27" osisID="corinthians-2.11.27" />labore, et aerumna, in vigiliis multis, in fame, et siti, in ieiuniis multis, in frigore, et nuditate :<verse eID="corinthians-2.11.27" />
+        <verse sID="corinthians-2.11.28" osisID="corinthians-2.11.28" />praeter illa, qua extrinsecus sunt, concursus in me cottidianus, sollicitudo omnium Ecclesiarum.<verse eID="corinthians-2.11.28" />
+        <verse sID="corinthians-2.11.29" osisID="corinthians-2.11.29" />Quis infirmatur, et non infirmor? quis scandalisatur, et non ego uror?<verse eID="corinthians-2.11.29" />
+        <verse sID="corinthians-2.11.30" osisID="corinthians-2.11.30" />Si gloriari oportet: quae infirmitatis meae sunt, gloriabor.<verse eID="corinthians-2.11.30" />
+        <verse sID="corinthians-2.11.31" osisID="corinthians-2.11.31" />Deus Israel, et Pater Domini nostri Iesu Christi scit (benedictus in saecula) quia non mentior.<verse eID="corinthians-2.11.31" />
+        <verse sID="corinthians-2.11.32" osisID="corinthians-2.11.32" />Damasci praepositus Gentis Aretae regis, custodiebat civitatem Damascenorum, ut me caperet:<verse eID="corinthians-2.11.32" />
+        <verse sID="corinthians-2.11.33" osisID="corinthians-2.11.33" />et per fenestram in sportam missus sum per murum, et effugi manus eius.<verse eID="corinthians-2.11.33" />
+      </p>
+      <chapter eID="corinthians-2.11" />
+      <chapter sID="corinthians-2.12" osisID="corinthians-2.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="corinthians-2.12.1" osisID="corinthians-2.12.1" />Gloriari oportet (non expedit mihi :) veniam* ei ad visiones, et revelationes Domini.<verse eID="corinthians-2.12.1" />
+        <verse sID="corinthians-2.12.2" osisID="corinthians-2.12.2" />Scio hominem in Christo ante annos quatuordecim, (sive in corpore nescio, sive extra corpore nescio, Deus scit) raptum eiusmodi usque ad tertium coelum.<verse eID="corinthians-2.12.2" />
+        <verse sID="corinthians-2.12.3" osisID="corinthians-2.12.3" />Et scio eiusmodi hominem, (sive in corpore, sive extra corpus nescio, Deus scit )<verse eID="corinthians-2.12.3" />
+        <verse sID="corinthians-2.12.4" osisID="corinthians-2.12.4" />quia raptus est in Paradisum: et audivit nonne dicenda verba, quae non licet homini loqui.<verse eID="corinthians-2.12.4" />
+        <verse sID="corinthians-2.12.5" osisID="corinthians-2.12.5" />Pro eiusmodi gloriabor: pro me autem nihil gloriabor nisi in infirmitatibus.<verse eID="corinthians-2.12.5" />
+        <verse sID="corinthians-2.12.6" osisID="corinthians-2.12.6" />Si enim voluero gloriari, non ero insipiens: nam veritatem dicam: parco autem, ne quis in me existimet supra id, quod me videt, aut audit aliquid ex me.<verse eID="corinthians-2.12.6" />
+        <verse sID="corinthians-2.12.7" osisID="corinthians-2.12.7" />Et in sublimitate revelationum ne extollar, datus est mihi stimulus carnis angelus satanae, ut me colaphizet.<verse eID="corinthians-2.12.7" />
+        <verse sID="corinthians-2.12.8" osisID="corinthians-2.12.8" />Propter hoc Dominum ter rogavi ut discederet a me :<verse eID="corinthians-2.12.8" />
+        <verse sID="corinthians-2.12.9" osisID="corinthians-2.12.9" />et dixit mihi: Sufficit tibi gratia mea: nam virtus in infirmitate perficitur. Libentissime itaque magis gloriabor in infirmitatibus meis, ut inhabitet in me virtus Christi.<verse eID="corinthians-2.12.9" />
+        <verse sID="corinthians-2.12.10" osisID="corinthians-2.12.10" />Propter quod placeo in infirmitatibus, in contumeliis, in necessitatibus, in persecutionibus, in angustiis pro Christo: Cum enim infirmor, tunc potens sum.<verse eID="corinthians-2.12.10" />
+        <verse sID="corinthians-2.12.11" osisID="corinthians-2.12.11" />Factus sum insipiens, vos me coegistis. Ego enim debui a vobis * commendari : nihil enim minus feci ab aliis, qui supra modum sunt Apostoli: etsi nihil sum:<verse eID="corinthians-2.12.11" />
+        <verse sID="corinthians-2.12.12" osisID="corinthians-2.12.12" />tamen signa Apostoli facta sunt inter vos in omni patientia, signis, et prodigiis, et virtutibus.<verse eID="corinthians-2.12.12" />
+        <verse sID="corinthians-2.12.13" osisID="corinthians-2.12.13" />Quid est enim, quod minus habuistis quam caeterae Ecclesiae, nisi quod ego ipse non gravavi vos? Donate mihi iniuriam hanc.<verse eID="corinthians-2.12.13" />
+        <verse sID="corinthians-2.12.14" osisID="corinthians-2.12.14" />Ecce tertium hoc paratus sum venire ad vos: et non vos gravabo. Non enim quaero quae vestra sunt, sed vos. Nec enim debent filii parentibus thesaurizare, sed parentes filiis.<verse eID="corinthians-2.12.14" />
+        <verse sID="corinthians-2.12.15" osisID="corinthians-2.12.15" />Ego autem libentissime impendam, et superimpendam, et ipse intendar pro animis vestris: plus vos diligens, minus diligor.<verse eID="corinthians-2.12.15" />
+        <verse sID="corinthians-2.12.16" osisID="corinthians-2.12.16" />Sed esto: ego non gravavi vos : sed cum * sim astutus, dolo vos accepi.<verse eID="corinthians-2.12.16" />
+        <verse sID="corinthians-2.12.17" osisID="corinthians-2.12.17" />Nunquid per aliquem ex his, quos misi ad vos, per eum circumveni vos?<verse eID="corinthians-2.12.17" />
+        <verse sID="corinthians-2.12.18" osisID="corinthians-2.12.18" />Rogavi Titum, et misi cum illo fratrem. Nunquid circumvenit vos Titus? nonne eodem spiritu ambulavimus? non iisdem vestigiis?<verse eID="corinthians-2.12.18" />
+        <verse sID="corinthians-2.12.19" osisID="corinthians-2.12.19" />Olim speratis quoniam vobis disputamus? Coram Deo loquimur: omnia autem carissimi pro vestra aedificatione.<verse eID="corinthians-2.12.19" />
+        <verse sID="corinthians-2.12.20" osisID="corinthians-2.12.20" />Timeo enim, ne cum venero, non quales volo, inveniam vos: et ego inveniar vobis qualem non vultis: ne forte contentiones, aemulationes, animositates, dissensiones, detractiones susurrationes, inflationes, dissensiones:<verse eID="corinthians-2.12.20" />
+        <verse sID="corinthians-2.12.21" osisID="corinthians-2.12.21" />ne iterum cum venero ad vos, humiliet me Deus meus; et lugeam multos ex his, qui ante peccaverunt, et non egerunt poenitentiam in immunditiam, fornicatione, et impudicitia, quam gesserunt.<verse eID="corinthians-2.12.21" />
+      </p>
+      <chapter eID="corinthians-2.12" />
+      <chapter sID="corinthians-2.13" osisID="corinthians-2.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="corinthians-2.13.1" osisID="corinthians-2.13.1" />Tertium hoc venio ad vos: In ore duorum testium, et trium stabit omne verbum.<verse eID="corinthians-2.13.1" />
+        <verse sID="corinthians-2.13.2" osisID="corinthians-2.13.2" />Praedixi, et praedico, praesens secundum et absens nunc, qui ante peccaverunt, et ceteris omnibus, quia si venero iterum, non parcam.<verse eID="corinthians-2.13.2" />
+        <verse sID="corinthians-2.13.3" osisID="corinthians-2.13.3" />Quia experimentum quaeritis eius, qui in me loquitur Christus, qui in vos non infirmatur, sed potens in vobis.<verse eID="corinthians-2.13.3" />
+        <verse sID="corinthians-2.13.4" osisID="corinthians-2.13.4" />Nam et crucifixus est ex infirmitate: sed vivit ex virtute Dei. Nam et nos infirmi sumus in illo: sed vivemus in ipso ex virtute Dei.<verse eID="corinthians-2.13.4" />
+        <verse sID="corinthians-2.13.5" osisID="corinthians-2.13.5" />In vobisipsis tentate si estis in fide: ipsi vos probate. Aut non cognoscitis vos, quia Iesus Christus in vobis est? nisi si reprobi estis.<verse eID="corinthians-2.13.5" />
+        <verse sID="corinthians-2.13.6" osisID="corinthians-2.13.6" />Spero autem quod cognoscitis; quia nos non sumus reprobi.<verse eID="corinthians-2.13.6" />
+        <verse sID="corinthians-2.13.7" osisID="corinthians-2.13.7" />Oramus autem Deum ne faciatis vos quicquam mali, ut non nos probati pareamus, sed ut vos quod bonum est faciatis: nos autem ut reprobi sumus.<verse eID="corinthians-2.13.7" />
+        <verse sID="corinthians-2.13.8" osisID="corinthians-2.13.8" />Non enim possumus quid adversus veritatem, sed pro veritate.<verse eID="corinthians-2.13.8" />
+        <verse sID="corinthians-2.13.9" osisID="corinthians-2.13.9" />Gaudemus enim, quando nos infirmi sumus; vos autem potentes estis. Hoc et oramus vestram consummationem.<verse eID="corinthians-2.13.9" />
+        <verse sID="corinthians-2.13.10" osisID="corinthians-2.13.10" />Propterea haec absens scribo, ut non praesens durius agam secundum potestatem, quam Dominus dedit mihi in aedificationem, et non in destructionem.<verse eID="corinthians-2.13.10" />
+        <verse sID="corinthians-2.13.11" osisID="corinthians-2.13.11" />De caetero, fratres, gaudete, perfecti estote, exhortamini, idipsum sapite, pacifici estote, et Deus pacis , et caritatis erit vobiscum.<verse eID="corinthians-2.13.11" />
+        <verse sID="corinthians-2.13.12" osisID="corinthians-2.13.12" />Salutate invicem in sancto osculo. Salutant vos sancti omnes.<verse eID="corinthians-2.13.12" />
+        <verse sID="corinthians-2.13.13" osisID="corinthians-2.13.13" />Gratia Domini Iesu Christi, et caritas Dei, et communicatio sancti Spiritus cum omnibus vobis. Amen.<verse eID="corinthians-2.13.13" />
+      </p>
+    </div>
+  </osisText>
+</osis>

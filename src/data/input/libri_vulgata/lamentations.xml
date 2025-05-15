@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="lamentations" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="lamentations">
+        <title>lamentations</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">lamentations</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>lamentations</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="lamentations">
+      <title>lamentations</title>
+      <chapter sID="lamentations.1" osisID="lamentations.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="lamentations.1.1" osisID="lamentations.1.1" />ALEPH Quomodo sedit sola civitas plena populo facta est quasi vidua domina gentium princeps provinciarum facta est sub tributo<verse eID="lamentations.1.1" />
+        <verse sID="lamentations.1.2" osisID="lamentations.1.2" />BETH plorans ploravit in nocte et lacrimae eius in maxillis eius non est qui consoletur eam ex omnibus caris eius omnes amici eius spreverunt eam et facti sunt ei inimici<verse eID="lamentations.1.2" />
+        <verse sID="lamentations.1.3" osisID="lamentations.1.3" />GIMEL migravit Iuda propter adflictionem et multitudinem servitutis habitavit inter gentes nec invenit requiem omnes persecutores eius adprehenderunt eam inter angustias<verse eID="lamentations.1.3" />
+        <verse sID="lamentations.1.4" osisID="lamentations.1.4" />DELETH viae Sion lugent eo quod non sint qui veniant ad sollemnitatem omnes portae eius destructae sacerdotes eius gementes virgines eius squalidae et ipsa oppressa amaritudine<verse eID="lamentations.1.4" />
+        <verse sID="lamentations.1.5" osisID="lamentations.1.5" />HE facti sunt hostes eius in capite inimici illius locupletati sunt quia Dominus locutus est super eam propter multitudinem iniquitatum eius parvuli eius ducti sunt captivi ante faciem tribulantis<verse eID="lamentations.1.5" />
+        <verse sID="lamentations.1.6" osisID="lamentations.1.6" />VAV et egressus est a filia Sion omnis decor eius facti sunt principes eius velut arietes non invenientes pascuam et abierunt absque fortitudine ante faciem subsequentis<verse eID="lamentations.1.6" />
+        <verse sID="lamentations.1.7" osisID="lamentations.1.7" />ZAI recordata est Hierusalem dierum adflictionis suae et praevaricationis omnium desiderabilium suorum quae habuerat a diebus antiquis cum caderet populus eius in manu hostili et non esset auxiliator viderunt eam hostes et deriserunt sabbata eius<verse eID="lamentations.1.7" />
+        <verse sID="lamentations.1.8" osisID="lamentations.1.8" />HETH peccatum peccavit Hierusalem propterea instabilis facta est omnes qui glorificabant eam spreverunt illam quia viderunt ignominiam eius ipsa autem gemens et conversa retrorsum<verse eID="lamentations.1.8" />
+        <verse sID="lamentations.1.9" osisID="lamentations.1.9" />TETH sordes eius in pedibus eius nec recordata est finis sui deposita est vehementer non habens consolatorem vide Domine adflictionem meam quoniam erectus est inimicus<verse eID="lamentations.1.9" />
+        <verse sID="lamentations.1.10" osisID="lamentations.1.10" />IOTH manum suam misit hostis ad omnia desiderabilia eius quia vidit gentes ingressas sanctuarium suum de quibus praeceperas ne intrarent in ecclesiam tuam<verse eID="lamentations.1.10" />
+        <verse sID="lamentations.1.11" osisID="lamentations.1.11" />CAPH omnis populus eius gemens et quaerens panem dederunt pretiosa quaeque pro cibo ad refocilandam animam vide Domine considera quoniam facta sum vilis<verse eID="lamentations.1.11" />
+        <verse sID="lamentations.1.12" osisID="lamentations.1.12" />LAMED o vos omnes qui transitis per viam adtendite et videte si est dolor sicut dolor meus quoniam vindemiavit me ut locutus est Dominus in die irae furoris sui<verse eID="lamentations.1.12" />
+        <verse sID="lamentations.1.13" osisID="lamentations.1.13" />MEM de excelso misit ignem in ossibus meis et erudivit me expandit rete pedibus meis convertit me retrorsum posuit me desolatam tota die maerore confectam<verse eID="lamentations.1.13" />
+        <verse sID="lamentations.1.14" osisID="lamentations.1.14" />NUN vigilavit iugum iniquitatum mearum in manu eius convolutae sunt et inpositae collo meo infirmata est virtus mea dedit me Dominus in manu de qua non potero surgere<verse eID="lamentations.1.14" />
+        <verse sID="lamentations.1.15" osisID="lamentations.1.15" />SAMECH abstulit omnes magnificos meos Dominus de medio mei vocavit adversum me tempus ut contereret electos meos torcular calcavit Dominus virgini filiae Iuda<verse eID="lamentations.1.15" />
+        <verse sID="lamentations.1.16" osisID="lamentations.1.16" />AIN idcirco ego plorans et oculus meus deducens aquam quia longe factus est a me consolator convertens animam meam facti sunt filii mei perditi quoniam invaluit inimicus<verse eID="lamentations.1.16" />
+        <verse sID="lamentations.1.17" osisID="lamentations.1.17" />FE expandit Sion manus suas non est qui consoletur eam mandavit Dominus adversum Iacob in circuitu eius hostes eius facta est Hierusalem quasi polluta menstruis inter eos<verse eID="lamentations.1.17" />
+        <verse sID="lamentations.1.18" osisID="lamentations.1.18" />SADE iustus est Dominus quia os eius ad iracundiam provocavi audite obsecro universi populi et videte dolorem meum virgines meae et iuvenes mei abierunt in captivitatem<verse eID="lamentations.1.18" />
+        <verse sID="lamentations.1.19" osisID="lamentations.1.19" />COPH vocavi amicos meos et ipsi deceperunt me sacerdotes mei et senes mei in urbe consumpti sunt quia quaesierunt cibum sibi ut refocilarent animam suam<verse eID="lamentations.1.19" />
+        <verse sID="lamentations.1.20" osisID="lamentations.1.20" />RES vide Domine quoniam tribulor venter meus conturbatus est subversum est cor meum in memet ipsa quoniam amaritudine plena sum foris interfecit gladius et domi mors similis est<verse eID="lamentations.1.20" />
+        <verse sID="lamentations.1.21" osisID="lamentations.1.21" />SEN audierunt quia ingemesco ego et non est qui consoletur me omnes inimici mei audierunt malum meum laetati sunt quoniam tu fecisti adduxisti diem consolationis et fient similes mei<verse eID="lamentations.1.21" />
+        <verse sID="lamentations.1.22" osisID="lamentations.1.22" />THAV ingrediatur omne malum eorum coram te et devindemia eos sicut vindemiasti me propter omnes iniquitates meas multi enim gemitus mei et cor meum maerens<verse eID="lamentations.1.22" />
+      </p>
+      <chapter eID="lamentations.1" />
+      <chapter sID="lamentations.2" osisID="lamentations.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="lamentations.2.1" osisID="lamentations.2.1" />ALEPH Quomodo obtexit caligine in furore suo Dominus filiam Sion proiecit de caelo terram inclitam Israhel et non recordatus est scabilli pedum suorum in die furoris sui<verse eID="lamentations.2.1" />
+        <verse sID="lamentations.2.2" osisID="lamentations.2.2" />BETH praecipitavit Dominus nec pepercit omnia speciosa Iacob destruxit in furore suo munitiones virginis Iuda deiecit in terram polluit regnum et principes eius<verse eID="lamentations.2.2" />
+        <verse sID="lamentations.2.3" osisID="lamentations.2.3" />GIMEL confregit in ira furoris omne cornu Israhel avertit retrorsum dexteram suam a facie inimici et succendit in Iacob quasi ignem flammae devorantis in gyro<verse eID="lamentations.2.3" />
+        <verse sID="lamentations.2.4" osisID="lamentations.2.4" />DELETH tetendit arcum suum quasi inimicus firmavit dexteram suam quasi hostis et occidit omne quod pulchrum erat visu in tabernaculo filiae Sion effudit quasi ignem indignationem suam<verse eID="lamentations.2.4" />
+        <verse sID="lamentations.2.5" osisID="lamentations.2.5" />HE factus est Dominus velut inimicus praecipitavit Israhel praecipitavit omnia moenia eius dissipavit munitiones eius et replevit in filia Iuda humiliatum et humiliatam<verse eID="lamentations.2.5" />
+        <verse sID="lamentations.2.6" osisID="lamentations.2.6" />VAV et dissipavit quasi hortum tentorium suum demolitus est tabernaculum suum oblivioni tradidit Dominus in Sion festivitatem et sabbatum et obprobrio in indignatione furoris sui regem et sacerdotem<verse eID="lamentations.2.6" />
+        <verse sID="lamentations.2.7" osisID="lamentations.2.7" />ZAI reppulit Dominus altare suum maledixit sanctificationi suae tradidit in manu inimici muros turrium eius vocem dederunt in domo Domini sicut in die sollemni<verse eID="lamentations.2.7" />
+        <verse sID="lamentations.2.8" osisID="lamentations.2.8" />HETH cogitavit Dominus dissipare murum filiae Sion tetendit funiculum suum et non avertit manum suam a perditione luxitque antemurale et murus pariter dissipatus est<verse eID="lamentations.2.8" />
+        <verse sID="lamentations.2.9" osisID="lamentations.2.9" />TETH defixae sunt in terra portae eius perdidit et contrivit vectes eius regem eius et principes eius in gentibus non est lex et prophetae eius non invenerunt visionem a Domino<verse eID="lamentations.2.9" />
+        <verse sID="lamentations.2.10" osisID="lamentations.2.10" />IOTH sederunt in terra conticuerunt senes filiae Sion consperserunt cinere capita sua accincti sunt ciliciis abiecerunt in terra capita sua virgines Hierusalem<verse eID="lamentations.2.10" />
+        <verse sID="lamentations.2.11" osisID="lamentations.2.11" />CAPH defecerunt prae lacrimis oculi mei conturbata sunt viscera mea effusum est in terra iecur meum super contritione filiae populi mei cum deficeret parvulus et lactans in plateis oppidi<verse eID="lamentations.2.11" />
+        <verse sID="lamentations.2.12" osisID="lamentations.2.12" />LAMED matribus suis dixerunt ubi est triticum et vinum cum deficerent quasi vulnerati in plateis civitatis cum exhalarent animas suas in sinu matrum suarum<verse eID="lamentations.2.12" />
+        <verse sID="lamentations.2.13" osisID="lamentations.2.13" />MEM cui conparabo te vel cui adsimilabo te filia Hierusalem cui exaequabo te et consolabor te virgo filia Sion magna enim velut mare contritio tua quis medebitur tui<verse eID="lamentations.2.13" />
+        <verse sID="lamentations.2.14" osisID="lamentations.2.14" />NUN prophetae tui viderunt tibi falsa et stulta nec aperiebant iniquitatem tuam ut te ad paenitentiam provocarent viderunt autem tibi adsumptiones falsas et eiectiones<verse eID="lamentations.2.14" />
+        <verse sID="lamentations.2.15" osisID="lamentations.2.15" />SAMECH plauserunt super te manibus omnes transeuntes per viam sibilaverunt et moverunt caput suum super filiam Hierusalem haecine est urbs dicentes perfecti decoris gaudium universae terrae<verse eID="lamentations.2.15" />
+        <verse sID="lamentations.2.16" osisID="lamentations.2.16" />FE aperuerunt super te os suum omnes inimici tui sibilaverunt et fremuerunt dentibus dixerunt devoravimus en ista est dies quam expectabamus invenimus vidimus<verse eID="lamentations.2.16" />
+        <verse sID="lamentations.2.17" osisID="lamentations.2.17" />AIN fecit Dominus quae cogitavit conplevit sermonem suum quem praeceperat a diebus antiquis destruxit et non pepercit et laetificavit super te inimicum et exaltavit cornu hostium tuorum<verse eID="lamentations.2.17" />
+        <verse sID="lamentations.2.18" osisID="lamentations.2.18" />SADE clamavit cor eorum ad Dominum super muros filiae Sion deduc quasi torrentem lacrimas per diem et per noctem non des requiem tibi neque taceat pupilla oculi tui<verse eID="lamentations.2.18" />
+        <verse sID="lamentations.2.19" osisID="lamentations.2.19" />COPH consurge lauda in nocte in principio vigiliarum effunde sicut aqua cor tuum ante conspectum Domini leva ad eum manus tuas pro anima parvulorum tuorum qui defecerunt in fame in capite omnium conpetorum<verse eID="lamentations.2.19" />
+        <verse sID="lamentations.2.20" osisID="lamentations.2.20" />RES vide Domine et considera quem vindemiaveris ita ergone comedent mulieres fructum suum parvulos ad mensuram palmae si occidetur in sanctuario Domini sacerdos et propheta<verse eID="lamentations.2.20" />
+        <verse sID="lamentations.2.21" osisID="lamentations.2.21" />SEN iacuerunt in terra foris puer et senex virgines meae et iuvenes mei ceciderunt in gladio interfecisti in die furoris tui percussisti nec misertus es<verse eID="lamentations.2.21" />
+        <verse sID="lamentations.2.22" osisID="lamentations.2.22" />THAV vocasti quasi ad diem sollemnem qui terrerent me de circuitu et non fuit in die furoris Domini qui effugeret et relinqueretur quos educavi et enutrivi inimicus meus consumpsit eos<verse eID="lamentations.2.22" />
+      </p>
+      <chapter eID="lamentations.2" />
+      <chapter sID="lamentations.3" osisID="lamentations.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="lamentations.3.1" osisID="lamentations.3.1" />ALEPH Ego vir videns paupertatem meam in virga indignationis eius<verse eID="lamentations.3.1" />
+        <verse sID="lamentations.3.2" osisID="lamentations.3.2" />ALEPH me minavit et adduxit in tenebris et non in lucem<verse eID="lamentations.3.2" />
+        <verse sID="lamentations.3.3" osisID="lamentations.3.3" />ALEPH tantum in me vertit et convertit manum suam tota die<verse eID="lamentations.3.3" />
+        <verse sID="lamentations.3.4" osisID="lamentations.3.4" />BETH vetustam fecit pellem meam et carnem meam contrivit ossa mea<verse eID="lamentations.3.4" />
+        <verse sID="lamentations.3.5" osisID="lamentations.3.5" />BETH aedificavit in gyro meo et circumdedit me felle et labore<verse eID="lamentations.3.5" />
+        <verse sID="lamentations.3.6" osisID="lamentations.3.6" />BETH in tenebrosis conlocavit me quasi mortuos sempiternos<verse eID="lamentations.3.6" />
+        <verse sID="lamentations.3.7" osisID="lamentations.3.7" />GIMEL circumaedificavit adversum me ut non egrediar adgravavit conpedem meam<verse eID="lamentations.3.7" />
+        <verse sID="lamentations.3.8" osisID="lamentations.3.8" />GIMEL sed et cum clamavero et rogavero exclusit orationem meam<verse eID="lamentations.3.8" />
+        <verse sID="lamentations.3.9" osisID="lamentations.3.9" />GIMEL conclusit vias meas lapidibus quadris semitas meas subvertit<verse eID="lamentations.3.9" />
+        <verse sID="lamentations.3.10" osisID="lamentations.3.10" />DELETH ursus insidians factus est mihi leo in absconditis<verse eID="lamentations.3.10" />
+        <verse sID="lamentations.3.11" osisID="lamentations.3.11" />DELETH semitas meas subvertit et confregit me posuit me desolatam<verse eID="lamentations.3.11" />
+        <verse sID="lamentations.3.12" osisID="lamentations.3.12" />DELETH tetendit arcum suum et posuit me quasi signum ad sagittam<verse eID="lamentations.3.12" />
+        <verse sID="lamentations.3.13" osisID="lamentations.3.13" />HE misit in renibus meis filias faretrae suae<verse eID="lamentations.3.13" />
+        <verse sID="lamentations.3.14" osisID="lamentations.3.14" />HE factus sum in derisu omni populo meo canticum eorum tota die<verse eID="lamentations.3.14" />
+        <verse sID="lamentations.3.15" osisID="lamentations.3.15" />HE replevit me amaritudinibus inebriavit me absinthio<verse eID="lamentations.3.15" />
+        <verse sID="lamentations.3.16" osisID="lamentations.3.16" />VAV et fregit ad numerum dentes meos cibavit me cinere<verse eID="lamentations.3.16" />
+        <verse sID="lamentations.3.17" osisID="lamentations.3.17" />VAV et repulsa est a pace anima mea oblitus sum bonorum<verse eID="lamentations.3.17" />
+        <verse sID="lamentations.3.18" osisID="lamentations.3.18" />VAV et dixi periit finis meus et spes mea a Domino<verse eID="lamentations.3.18" />
+        <verse sID="lamentations.3.19" osisID="lamentations.3.19" />ZAI recordare paupertatis et transgressionis meae absinthii et fellis<verse eID="lamentations.3.19" />
+        <verse sID="lamentations.3.20" osisID="lamentations.3.20" />ZAI memoria memor ero et tabescet in me anima mea<verse eID="lamentations.3.20" />
+        <verse sID="lamentations.3.21" osisID="lamentations.3.21" />ZAI hoc recolens in corde meo ideo sperabo<verse eID="lamentations.3.21" />
+        <verse sID="lamentations.3.22" osisID="lamentations.3.22" />HETH misericordiae Domini quia non sumus consumpti quia non defecerunt miserationes eius<verse eID="lamentations.3.22" />
+        <verse sID="lamentations.3.23" osisID="lamentations.3.23" />HETH novae diluculo multa est fides tua<verse eID="lamentations.3.23" />
+        <verse sID="lamentations.3.24" osisID="lamentations.3.24" />HETH pars mea Dominus dixit anima mea propterea expectabo eum<verse eID="lamentations.3.24" />
+        <verse sID="lamentations.3.25" osisID="lamentations.3.25" />TETH bonus est Dominus sperantibus in eum animae quaerenti illum<verse eID="lamentations.3.25" />
+        <verse sID="lamentations.3.26" osisID="lamentations.3.26" />TETH bonum est praestolari cum silentio salutare Domini<verse eID="lamentations.3.26" />
+        <verse sID="lamentations.3.27" osisID="lamentations.3.27" />TETH bonum est viro cum portaverit iugum ab adulescentia sua<verse eID="lamentations.3.27" />
+        <verse sID="lamentations.3.28" osisID="lamentations.3.28" />IOTH sedebit solitarius et tacebit quia levavit super se<verse eID="lamentations.3.28" />
+        <verse sID="lamentations.3.29" osisID="lamentations.3.29" />IOTH ponet in pulvere os suum si forte sit spes<verse eID="lamentations.3.29" />
+        <verse sID="lamentations.3.30" osisID="lamentations.3.30" />IOTH dabit percutienti se maxillam saturabitur obprobriis<verse eID="lamentations.3.30" />
+        <verse sID="lamentations.3.31" osisID="lamentations.3.31" />CAPH quia non repellet in sempiternum Dominus<verse eID="lamentations.3.31" />
+        <verse sID="lamentations.3.32" osisID="lamentations.3.32" />CAPH quia si abiecit et miserebitur secundum multitudinem misericordiarum suarum<verse eID="lamentations.3.32" />
+        <verse sID="lamentations.3.33" osisID="lamentations.3.33" />CAPH non enim humiliavit ex corde suo et abiecit filios hominis<verse eID="lamentations.3.33" />
+        <verse sID="lamentations.3.34" osisID="lamentations.3.34" />LAMED ut contereret sub pedibus suis omnes vinctos terrae<verse eID="lamentations.3.34" />
+        <verse sID="lamentations.3.35" osisID="lamentations.3.35" />LAMED ut declinaret iudicium viri in conspectu vultus Altissimi<verse eID="lamentations.3.35" />
+        <verse sID="lamentations.3.36" osisID="lamentations.3.36" />LAMED ut perverteret hominem in iudicio suo Dominus ignoravit<verse eID="lamentations.3.36" />
+        <verse sID="lamentations.3.37" osisID="lamentations.3.37" />MEM quis est iste qui dixit ut fieret Domino non iubente<verse eID="lamentations.3.37" />
+        <verse sID="lamentations.3.38" osisID="lamentations.3.38" />MEM ex ore Altissimi non egredientur nec mala nec bona<verse eID="lamentations.3.38" />
+        <verse sID="lamentations.3.39" osisID="lamentations.3.39" />MEM quid murmuravit homo vivens vir pro peccatis suis<verse eID="lamentations.3.39" />
+        <verse sID="lamentations.3.40" osisID="lamentations.3.40" />NUN scrutemur vias nostras et quaeramus et revertamur ad Dominum<verse eID="lamentations.3.40" />
+        <verse sID="lamentations.3.41" osisID="lamentations.3.41" />NUN levemus corda nostra cum manibus ad Dominum in caelos<verse eID="lamentations.3.41" />
+        <verse sID="lamentations.3.42" osisID="lamentations.3.42" />NUN nos inique egimus et ad iracundiam provocavimus idcirco tu inexorabilis es<verse eID="lamentations.3.42" />
+        <verse sID="lamentations.3.43" osisID="lamentations.3.43" />SAMECH operuisti in furore et percussisti nos occidisti nec pepercisti<verse eID="lamentations.3.43" />
+        <verse sID="lamentations.3.44" osisID="lamentations.3.44" />SAMECH opposuisti nubem tibi ne transeat oratio<verse eID="lamentations.3.44" />
+        <verse sID="lamentations.3.45" osisID="lamentations.3.45" />SAMECH eradicationem et abiectionem posuisti me in medio populorum<verse eID="lamentations.3.45" />
+        <verse sID="lamentations.3.46" osisID="lamentations.3.46" />FE aperuerunt super nos os suum omnes inimici<verse eID="lamentations.3.46" />
+        <verse sID="lamentations.3.47" osisID="lamentations.3.47" />FE formido et laqueus facta est nobis vaticinatio et contritio<verse eID="lamentations.3.47" />
+        <verse sID="lamentations.3.48" osisID="lamentations.3.48" />FE divisiones aquarum deduxit oculus meus in contritione filiae populi mei<verse eID="lamentations.3.48" />
+        <verse sID="lamentations.3.49" osisID="lamentations.3.49" />AIN oculus meus adflictus est nec tacuit eo quod non esset requies<verse eID="lamentations.3.49" />
+        <verse sID="lamentations.3.50" osisID="lamentations.3.50" />AIN donec respiceret et videret Dominus de caelis<verse eID="lamentations.3.50" />
+        <verse sID="lamentations.3.51" osisID="lamentations.3.51" />AIN oculus meus depraedatus est animam meam in cunctis filiabus urbis meae<verse eID="lamentations.3.51" />
+        <verse sID="lamentations.3.52" osisID="lamentations.3.52" />SADE venatione ceperunt me quasi avem inimici mei gratis<verse eID="lamentations.3.52" />
+        <verse sID="lamentations.3.53" osisID="lamentations.3.53" />SADE lapsa est in lacu vita mea et posuerunt lapidem super me<verse eID="lamentations.3.53" />
+        <verse sID="lamentations.3.54" osisID="lamentations.3.54" />SADE inundaverunt aquae super caput meum dixi perii<verse eID="lamentations.3.54" />
+        <verse sID="lamentations.3.55" osisID="lamentations.3.55" />COPH invocavi nomen tuum Domine de lacis novissimis<verse eID="lamentations.3.55" />
+        <verse sID="lamentations.3.56" osisID="lamentations.3.56" />COPH vocem meam audisti ne avertas aurem tuam a singultu meo et clamoribus<verse eID="lamentations.3.56" />
+        <verse sID="lamentations.3.57" osisID="lamentations.3.57" />COPH adpropinquasti in die quando invocavi te dixisti ne timeas<verse eID="lamentations.3.57" />
+        <verse sID="lamentations.3.58" osisID="lamentations.3.58" />RES iudicasti Domine causam animae meae redemptor vitae meae<verse eID="lamentations.3.58" />
+        <verse sID="lamentations.3.59" osisID="lamentations.3.59" />RES vidisti Domine iniquitatem adversum me iudica iudicium meum<verse eID="lamentations.3.59" />
+        <verse sID="lamentations.3.60" osisID="lamentations.3.60" />RES vidisti omnem furorem universas cogitationes eorum adversum me<verse eID="lamentations.3.60" />
+        <verse sID="lamentations.3.61" osisID="lamentations.3.61" />SEN audisti obprobria eorum Domine omnes cogitationes eorum adversum me<verse eID="lamentations.3.61" />
+        <verse sID="lamentations.3.62" osisID="lamentations.3.62" />SEN labia insurgentium mihi et meditationes eorum adversum me tota die<verse eID="lamentations.3.62" />
+        <verse sID="lamentations.3.63" osisID="lamentations.3.63" />SEN sessionem eorum et resurrectionem eorum vide ego sum psalmus eorum<verse eID="lamentations.3.63" />
+        <verse sID="lamentations.3.64" osisID="lamentations.3.64" />THAV reddes eis vicem Domine iuxta opera manuum suarum<verse eID="lamentations.3.64" />
+        <verse sID="lamentations.3.65" osisID="lamentations.3.65" />THAV dabis eis scutum cordis laborem tuum<verse eID="lamentations.3.65" />
+        <verse sID="lamentations.3.66" osisID="lamentations.3.66" />THAV persequeris in furore et conteres eos sub caelis Domine<verse eID="lamentations.3.66" />
+      </p>
+      <chapter eID="lamentations.3" />
+      <chapter sID="lamentations.4" osisID="lamentations.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="lamentations.4.1" osisID="lamentations.4.1" />ALEPH Quomodo obscuratum est aurum mutatus est color optimus dispersi sunt lapides sanctuarii in capite omnium platearum<verse eID="lamentations.4.1" />
+        <verse sID="lamentations.4.2" osisID="lamentations.4.2" />BETH filii Sion incliti et amicti auro primo quomodo reputati sunt in vasa testea opus manuum figuli<verse eID="lamentations.4.2" />
+        <verse sID="lamentations.4.3" osisID="lamentations.4.3" />GIMEL sed et lamiae nudaverunt mammam lactaverunt catulos suos filia populi mei crudelis quasi strutio in deserto<verse eID="lamentations.4.3" />
+        <verse sID="lamentations.4.4" osisID="lamentations.4.4" />DELETH adhesit lingua lactantis ad palatum eius in siti parvuli petierunt panem et non erat qui frangeret eis<verse eID="lamentations.4.4" />
+        <verse sID="lamentations.4.5" osisID="lamentations.4.5" />HE qui vescebantur voluptuose interierunt in viis qui nutriebantur in croceis amplexati sunt stercora<verse eID="lamentations.4.5" />
+        <verse sID="lamentations.4.6" osisID="lamentations.4.6" />VAV et maior effecta est iniquitas filiae populi mei peccato Sodomorum quae subversa est in momento et non ceperunt in ea manus<verse eID="lamentations.4.6" />
+        <verse sID="lamentations.4.7" osisID="lamentations.4.7" />ZAI candidiores nazarei eius nive nitidiores lacte rubicundiores ebore antiquo sapphyro pulchriores<verse eID="lamentations.4.7" />
+        <verse sID="lamentations.4.8" osisID="lamentations.4.8" />HETH denigrata est super carbones facies eorum et non sunt cogniti in plateis adhesit cutis eorum ossibus aruit et facta est quasi lignum<verse eID="lamentations.4.8" />
+        <verse sID="lamentations.4.9" osisID="lamentations.4.9" />TETH melius fuit occisis gladio quam interfectis fame quoniam isti extabuerunt consumpti ab sterilitate terrae<verse eID="lamentations.4.9" />
+        <verse sID="lamentations.4.10" osisID="lamentations.4.10" />IOTH manus mulierum misericordium coxerunt filios suos facti sunt cibus earum in contritione filiae populi mei<verse eID="lamentations.4.10" />
+        <verse sID="lamentations.4.11" osisID="lamentations.4.11" />CAPH conplevit Dominus furorem suum effudit iram indignationis suae et succendit ignem in Sion et devoravit fundamenta eius<verse eID="lamentations.4.11" />
+        <verse sID="lamentations.4.12" osisID="lamentations.4.12" />LAMED non crediderunt reges terrae et universi habitatores orbis quoniam ingrederetur hostis et inimicus per portas Hierusalem<verse eID="lamentations.4.12" />
+        <verse sID="lamentations.4.13" osisID="lamentations.4.13" />MEM propter peccata prophetarum eius iniquitates sacerdotum eius qui effuderunt in medio eius sanguinem iustorum<verse eID="lamentations.4.13" />
+        <verse sID="lamentations.4.14" osisID="lamentations.4.14" />NUN erraverunt caeci in plateis polluti sunt sanguine cumque non possent tenuerunt lacinias suas<verse eID="lamentations.4.14" />
+        <verse sID="lamentations.4.15" osisID="lamentations.4.15" />SAMECH recedite polluti clamaverunt eis recedite abite nolite tangere iurgati quippe sunt et commoti dixerunt inter gentes non addet ultra ut habitet in eis<verse eID="lamentations.4.15" />
+        <verse sID="lamentations.4.16" osisID="lamentations.4.16" />FE facies Domini divisit eos non addet ut respiciat eos facies sacerdotum non erubuerunt neque senum miserti sunt<verse eID="lamentations.4.16" />
+        <verse sID="lamentations.4.17" osisID="lamentations.4.17" />AIN cum adhuc subsisteremus defecerunt oculi nostri ad auxilium nostrum vanum cum respiceremus adtenti ad gentem quae salvare non poterat<verse eID="lamentations.4.17" />
+        <verse sID="lamentations.4.18" osisID="lamentations.4.18" />SADE lubricaverunt vestigia nostra in itinere platearum nostrarum adpropinquavit finis noster conpleti sunt dies nostri quia venit finis noster<verse eID="lamentations.4.18" />
+        <verse sID="lamentations.4.19" osisID="lamentations.4.19" />COPH velociores fuerunt persecutores nostri aquilis caeli super montes persecuti sunt nos in deserto insidiati sunt nobis<verse eID="lamentations.4.19" />
+        <verse sID="lamentations.4.20" osisID="lamentations.4.20" />RES spiritus oris nostri christus dominus captus est in peccatis nostris cui diximus in umbra tua vivemus in gentibus<verse eID="lamentations.4.20" />
+        <verse sID="lamentations.4.21" osisID="lamentations.4.21" />SEN gaude et laetare filia Edom quae habitas in terra Hus ad te quoque perveniet calix inebriaberis atque nudaberis<verse eID="lamentations.4.21" />
+        <verse sID="lamentations.4.22" osisID="lamentations.4.22" />THAV conpleta est iniquitas tua filia Sion non addet ultra ut transmigret te visitavit iniquitatem tuam filia Edom discoperuit peccata tua<verse eID="lamentations.4.22" />
+      </p>
+      <chapter eID="lamentations.4" />
+      <chapter sID="lamentations.5" osisID="lamentations.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="lamentations.5.1" osisID="lamentations.5.1" />recordare Domine quid acciderit nobis intuere et respice obprobrium nostrum<verse eID="lamentations.5.1" />
+        <verse sID="lamentations.5.2" osisID="lamentations.5.2" />hereditas nostra versa est ad alienos domus nostrae ad extraneos<verse eID="lamentations.5.2" />
+        <verse sID="lamentations.5.3" osisID="lamentations.5.3" />pupilli facti sumus absque patre matres nostrae quasi viduae<verse eID="lamentations.5.3" />
+        <verse sID="lamentations.5.4" osisID="lamentations.5.4" />aquam nostram pecunia bibimus ligna nostra pretio conparavimus<verse eID="lamentations.5.4" />
+        <verse sID="lamentations.5.5" osisID="lamentations.5.5" />cervicibus minabamur lassis non dabatur requies<verse eID="lamentations.5.5" />
+        <verse sID="lamentations.5.6" osisID="lamentations.5.6" />Aegypto dedimus manum et Assyriis ut saturaremur pane<verse eID="lamentations.5.6" />
+        <verse sID="lamentations.5.7" osisID="lamentations.5.7" />patres nostri peccaverunt et non sunt et nos iniquitates eorum portavimus<verse eID="lamentations.5.7" />
+        <verse sID="lamentations.5.8" osisID="lamentations.5.8" />servi dominati sunt nostri non fuit qui redimeret de manu eorum<verse eID="lamentations.5.8" />
+        <verse sID="lamentations.5.9" osisID="lamentations.5.9" />in animabus nostris adferebamus panem nobis a facie gladii in deserto<verse eID="lamentations.5.9" />
+        <verse sID="lamentations.5.10" osisID="lamentations.5.10" />pellis nostra quasi clibanus exusta est a facie tempestatum famis<verse eID="lamentations.5.10" />
+        <verse sID="lamentations.5.11" osisID="lamentations.5.11" />mulieres in Sion humiliaverunt virgines in civitatibus Iuda<verse eID="lamentations.5.11" />
+        <verse sID="lamentations.5.12" osisID="lamentations.5.12" />principes manu suspensi sunt facies senum non erubuerunt<verse eID="lamentations.5.12" />
+        <verse sID="lamentations.5.13" osisID="lamentations.5.13" />adulescentibus inpudice abusi sunt et pueri in ligno corruerunt<verse eID="lamentations.5.13" />
+        <verse sID="lamentations.5.14" osisID="lamentations.5.14" />senes de portis defecerunt iuvenes de choro psallentium<verse eID="lamentations.5.14" />
+        <verse sID="lamentations.5.15" osisID="lamentations.5.15" />defecit gaudium cordis nostri versus est in luctu chorus noster<verse eID="lamentations.5.15" />
+        <verse sID="lamentations.5.16" osisID="lamentations.5.16" />cecidit corona capitis nostri vae nobis quia peccavimus<verse eID="lamentations.5.16" />
+        <verse sID="lamentations.5.17" osisID="lamentations.5.17" />propterea maestum factum est cor nostrum ideo contenebrati sunt oculi nostri<verse eID="lamentations.5.17" />
+        <verse sID="lamentations.5.18" osisID="lamentations.5.18" />propter montem Sion quia disperiit vulpes ambulaverunt in eo<verse eID="lamentations.5.18" />
+        <verse sID="lamentations.5.19" osisID="lamentations.5.19" />tu autem Domine in aeternum permanebis solium tuum in generatione et generatione<verse eID="lamentations.5.19" />
+        <verse sID="lamentations.5.20" osisID="lamentations.5.20" />quare in perpetuum oblivisceris nostri derelinques nos in longitudinem dierum<verse eID="lamentations.5.20" />
+        <verse sID="lamentations.5.21" osisID="lamentations.5.21" />converte nos Domine ad te et convertemur innova dies nostros sicut a principio<verse eID="lamentations.5.21" />
+        <verse sID="lamentations.5.22" osisID="lamentations.5.22" />sed proiciens reppulisti nos iratus es contra nos vehementer<verse eID="lamentations.5.22" />
+      </p>
+      <chapter eID="lamentations.5" />
+    </div>
+  </osisText>
+</osis>

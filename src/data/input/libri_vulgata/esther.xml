@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="esther" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="esther">
+        <title>esther</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">esther</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>esther</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="esther">
+      <title>esther</title>
+      <chapter sID="esther.1" osisID="esther.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="esther.1.1" osisID="esther.1.1" />In diebus Asueri qui regnavit ab India usque Aethiopiam super centum viginti septem provincias<verse eID="esther.1.1" />
+        <verse sID="esther.1.2" osisID="esther.1.2" />quando sedit in solio regni sui Susa civitas regni eius exordium fuit<verse eID="esther.1.2" />
+        <verse sID="esther.1.3" osisID="esther.1.3" />tertio igitur anno imperii sui fecit grande convivium cunctis principibus et pueris suis fortissimis Persarum et Medorum inclitis et praefectis provinciarum coram se<verse eID="esther.1.3" />
+        <verse sID="esther.1.4" osisID="esther.1.4" />ut ostenderet divitias gloriae regni sui ac magnitudinem atque iactantiam potentiae suae multo tempore centum videlicet et octoginta diebus<verse eID="esther.1.4" />
+        <verse sID="esther.1.5" osisID="esther.1.5" />cumque implerentur dies convivii invitavit omnem populum qui inventus est Susis a maximo usque ad minimum et septem diebus iussit convivium praeparari in vestibulo horti et nemoris quod regio cultu et manu consitum erat<verse eID="esther.1.5" />
+        <verse sID="esther.1.6" osisID="esther.1.6" />et pendebant ex omni parte tentoria aerii coloris et carpasini et hyacinthini sustentata funibus byssinis atque purpureis qui eburneis circulis inserti erant et columnis marmoreis fulciebantur lectuli quoque aurei et argentei super pavimentum zmaragdino et pario stratum lapide dispositi erant quod mira varietate pictura decorabat<verse eID="esther.1.6" />
+        <verse sID="esther.1.7" osisID="esther.1.7" />bibebant autem qui invitati erant aureis poculis et aliis atque aliis vasis cibi inferebantur vinum quoque ut magnificentia regia dignum erat abundans et praecipuum ponebatur<verse eID="esther.1.7" />
+        <verse sID="esther.1.8" osisID="esther.1.8" />nec erat qui nolentes cogeret ad bibendum sed sic rex statuerat praeponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet<verse eID="esther.1.8" />
+        <verse sID="esther.1.9" osisID="esther.1.9" />Vasthi quoque regina fecit convivium feminarum in palatio ubi rex Asuerus manere consueverat<verse eID="esther.1.9" />
+        <verse sID="esther.1.10" osisID="esther.1.10" />itaque die septimo cum rex esset hilarior et post nimiam potionem incaluisset mero praecepit Mauman et Bazatha et Arbona et Bagatha et Abgatha et Zarath et Charchas septem eunuchis qui in conspectu eius ministrabant<verse eID="esther.1.10" />
+        <verse sID="esther.1.11" osisID="esther.1.11" />ut introducerent reginam Vasthi coram rege posito super caput eius diademate et ostenderet cunctis populis et principibus illius pulchritudinem erat enim pulchra valde<verse eID="esther.1.11" />
+        <verse sID="esther.1.12" osisID="esther.1.12" />quae rennuit et ad regis imperium quod per eunuchos mandaverat venire contempsit unde iratus rex et nimio furore succensus<verse eID="esther.1.12" />
+        <verse sID="esther.1.13" osisID="esther.1.13" />interrogavit sapientes qui ex more regio semper ei aderant et illorum faciebat cuncta consilio scientium leges ac iura maiorum<verse eID="esther.1.13" />
+        <verse sID="esther.1.14" osisID="esther.1.14" />erant autem primi et proximi Charsena et Sethar et Admatha et Tharsis et Mares et Marsana et Mamucha septem duces Persarum atque Medorum qui videbant faciem regis et primi post eum residere soliti erant<verse eID="esther.1.14" />
+        <verse sID="esther.1.15" osisID="esther.1.15" />cui sententiae Vasthi regina subiaceret quae Asueri regis imperium quod per eunuchos mandaverat facere noluisset<verse eID="esther.1.15" />
+        <verse sID="esther.1.16" osisID="esther.1.16" />responditque Mamuchan audiente rege atque principibus non solum regem laesit regina Vasthi sed omnes principes et populos qui sunt in cunctis provinciis regis Asueri<verse eID="esther.1.16" />
+        <verse sID="esther.1.17" osisID="esther.1.17" />egredietur enim sermo reginae ad omnes mulieres ut contemnant viros suos et dicant rex Asuerus iussit ut regina Vasthi intraret ad eum et illa noluit<verse eID="esther.1.17" />
+        <verse sID="esther.1.18" osisID="esther.1.18" />atque hoc exemplo omnes principum coniuges Persarum atque Medorum parvipendent imperia maritorum unde regis iusta est indignatio<verse eID="esther.1.18" />
+        <verse sID="esther.1.19" osisID="esther.1.19" />et si tibi placet egrediatur edictum a facie tua et scribatur iuxta legem Persarum atque Medorum quam praeteriri inlicitum est ut nequaquam ultra Vasthi ingrediatur ad regem sed regnum illius altera quae melior illa est accipiat<verse eID="esther.1.19" />
+        <verse sID="esther.1.20" osisID="esther.1.20" />et hoc in omne quod latissimum est provinciarum tuarum divulgetur imperium et cunctae uxores tam maiorum quam minorum deferant maritis suis<verse eID="esther.1.20" />
+        <verse sID="esther.1.21" osisID="esther.1.21" />placuit consilium eius regi et principibus fecitque rex iuxta consultum Mamuchan<verse eID="esther.1.21" />
+        <verse sID="esther.1.22" osisID="esther.1.22" />et misit epistulas ad universas provincias regni sui ut quaeque gens audire et legere poterat diversis linguis et litteris esse viros principes ac maiores in domibus suis et hoc per cunctos populos divulgari<verse eID="esther.1.22" />
+      </p>
+      <chapter eID="esther.1" />
+      <chapter sID="esther.2" osisID="esther.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="esther.2.1" osisID="esther.2.1" />his itaque gestis postquam regis Asueri deferbuerat indignatio recordatus est Vasthi et quae fecisset vel quae passa esset<verse eID="esther.2.1" />
+        <verse sID="esther.2.2" osisID="esther.2.2" />dixeruntque pueri regis ac ministri eius quaerantur regi puellae virgines ac speciosae<verse eID="esther.2.2" />
+        <verse sID="esther.2.3" osisID="esther.2.3" />et mittantur qui considerent per universas provincias puellas speciosas et virgines et adducant eas ad civitatem Susan et tradant in domum feminarum sub manu Aegaei eunuchi qui est praepositus et custos mulierum regiarum et accipiant mundum muliebrem et cetera ad usus necessaria<verse eID="esther.2.3" />
+        <verse sID="esther.2.4" osisID="esther.2.4" />et quaecumque inter omnes oculis regis placuerit ipsa regnet pro Vasthi placuit sermo regi et ita ut suggesserant iussit fieri<verse eID="esther.2.4" />
+        <verse sID="esther.2.5" osisID="esther.2.5" />erat vir iudaeus in Susis civitate vocabulo Mardocheus filius Iair filii Semei filii Cis de stirpe Iemini<verse eID="esther.2.5" />
+        <verse sID="esther.2.6" osisID="esther.2.6" />qui translatus fuerat de Hierusalem eo tempore quo Iechoniam regem Iuda Nabuchodonosor rex Babylonis transtulerat<verse eID="esther.2.6" />
+        <verse sID="esther.2.7" osisID="esther.2.7" />qui fuit nutricius filiae fratris sui Edessae quae altero nomine Hester vocabatur et utrumque parentem amiserat pulchra nimis et decora facie mortuisque patre eius ac matre Mardocheus sibi eam adoptavit in filiam<verse eID="esther.2.7" />
+        <verse sID="esther.2.8" osisID="esther.2.8" />cumque percrebuisset regis imperium et iuxta mandata illius multae virgines pulchrae adducerentur Susan et Aegaeo traderentur eunucho Hester quoque inter ceteras puellas ei tradita est ut servaretur in numero feminarum<verse eID="esther.2.8" />
+        <verse sID="esther.2.9" osisID="esther.2.9" />quae placuit ei et invenit gratiam in conspectu illius ut adceleraret mundum muliebrem et traderet ei partes suas et septem puellas speciosissimas de domo regis et tam ipsam quam pedisequas eius ornaret atque excoleret<verse eID="esther.2.9" />
+        <verse sID="esther.2.10" osisID="esther.2.10" />quae noluit indicare ei populum et patriam suam Mardocheus enim praeceperat ut de hac re omnino reticeret<verse eID="esther.2.10" />
+        <verse sID="esther.2.11" osisID="esther.2.11" />qui deambulabat cotidie ante vestibulum domus in qua electae virgines servabantur curam agens salutis Hester et scire volens quid ei accideret<verse eID="esther.2.11" />
+        <verse sID="esther.2.12" osisID="esther.2.12" />cum autem venisset tempus singularum per ordinem puellarum ut intrarent ad regem expletis omnibus quae ad cultum muliebrem pertinebant mensis duodecimus vertebatur ita dumtaxat ut sex menses oleo unguerentur myrtino et aliis sex quibusdam pigmentis et aromatibus uterentur<verse eID="esther.2.12" />
+        <verse sID="esther.2.13" osisID="esther.2.13" />ingredientesque ad regem quicquid postulassent ad ornatum pertinens accipiebant et ut eis placuerat conpositae de triclinio feminarum ad regis cubiculum transiebant<verse eID="esther.2.13" />
+        <verse sID="esther.2.14" osisID="esther.2.14" />et quae intraverat vespere egrediebatur mane atque inde in secundas aedes deducebatur quae sub manu Sasagazi eunuchi erant qui concubinis regis praesidebat nec habebat potestatem ad regem ultra redeundi nisi voluisset rex et eam venire iussisset ex nomine<verse eID="esther.2.14" />
+        <verse sID="esther.2.15" osisID="esther.2.15" />evoluto autem tempore per ordinem instabat dies quo Hester filia Abiahil fratris Mardochei quam sibi adoptaverat in filiam intrare deberet ad regem quae non quaesivit muliebrem cultum sed quaecumque voluit Aegaeus eunuchus custos virginum haec ei ad ornatum dedit erat enim formonsa valde et incredibili pulchritudine omnium oculis gratiosa et amabilis videbatur<verse eID="esther.2.15" />
+        <verse sID="esther.2.16" osisID="esther.2.16" />ducta est itaque ad cubiculum regis Asueri mense decimo qui vocatur tebeth septimo anno regni eius<verse eID="esther.2.16" />
+        <verse sID="esther.2.17" osisID="esther.2.17" />et amavit eam rex plus quam omnes mulieres habuitque gratiam et misericordiam coram eo super omnes mulieres et posuit diadema regni in capite eius fecitque eam regnare in loco Vasthi<verse eID="esther.2.17" />
+        <verse sID="esther.2.18" osisID="esther.2.18" />et iussit convivium praeparari permagnificum cunctis principibus et servis suis pro coniunctione et nuptiis Hester et dedit requiem in universis provinciis ac dona largitus est iuxta magnificentiam principalem<verse eID="esther.2.18" />
+        <verse sID="esther.2.19" osisID="esther.2.19" />cumque et secundo quaererentur virgines et congregarentur Mardocheus manebat ad regis ianuam<verse eID="esther.2.19" />
+        <verse sID="esther.2.20" osisID="esther.2.20" />necdumque prodiderat Hester patriam et populum suum iuxta mandatum eius quicquid enim ille praecipiebat observabat Hester et ita cuncta faciebat ut eo tempore solita erat quo eam parvulam nutriebat<verse eID="esther.2.20" />
+        <verse sID="esther.2.21" osisID="esther.2.21" />eo igitur tempore quo Mardocheus ad regis ianuam morabatur irati sunt Bagathan et Thares duo eunuchi regis qui ianitores erant et in primo palatii limine praesidebant volueruntque insurgere in regem et occidere eum<verse eID="esther.2.21" />
+        <verse sID="esther.2.22" osisID="esther.2.22" />quod Mardocheum non latuit statimque nuntiavit reginae Hester et illa regi ex nomine Mardochei qui ad se rem detulerat<verse eID="esther.2.22" />
+        <verse sID="esther.2.23" osisID="esther.2.23" />quaesitum est et inventum et adpensus uterque eorum in patibulo mandatumque historiis et annalibus traditum coram rege<verse eID="esther.2.23" />
+      </p>
+      <chapter eID="esther.2" />
+      <chapter sID="esther.3" osisID="esther.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="esther.3.1" osisID="esther.3.1" />post haec rex Asuerus exaltavit Aman filium Amadathi qui erat de stirpe Agag et posuit solium eius super omnes principes quos habebat<verse eID="esther.3.1" />
+        <verse sID="esther.3.2" osisID="esther.3.2" />cunctique servi regis qui in foribus palatii versabantur flectebant genu et adorabant Aman sic enim eis praeceperat imperator solus Mardocheus non flectebat genu neque adorabat eum<verse eID="esther.3.2" />
+        <verse sID="esther.3.3" osisID="esther.3.3" />cui dixerunt regis pueri qui ad fores palatii praesidebant cur praeter ceteros non observas mandata regis<verse eID="esther.3.3" />
+        <verse sID="esther.3.4" osisID="esther.3.4" />cumque hoc crebrius dicerent et ille nollet audire nuntiaverunt Aman scire cupientes utrum perseveraret in sententia dixerat enim eis se esse Iudaeum<verse eID="esther.3.4" />
+        <verse sID="esther.3.5" osisID="esther.3.5" />quod cum audisset Aman et experimento probasset quod Mardocheus non sibi flecteret genu nec se adoraret iratus est valde<verse eID="esther.3.5" />
+        <verse sID="esther.3.6" osisID="esther.3.6" />et pro nihilo duxit in unum Mardocheum mittere manus suas audierat enim quod esset gentis iudaeae magisque voluit omnem Iudaeorum qui erant in regno Asueri perdere nationem<verse eID="esther.3.6" />
+        <verse sID="esther.3.7" osisID="esther.3.7" />mense primo cuius vocabulum est nisan anno duodecimo regni Asueri missa est sors in urnam quae hebraice dicitur phur coram Aman quo die et quo mense gens Iudaeorum deberet interfici et exivit mensis duodecimus qui vocatur adar<verse eID="esther.3.7" />
+        <verse sID="esther.3.8" osisID="esther.3.8" />dixitque Aman regi Asuero est populus per omnes provincias regni tui dispersus et a se mutuo separatus novis utens legibus et caerimoniis insuper et regis scita contemnens et optime nosti quod non expediat regno tuo ut insolescat per licentiam<verse eID="esther.3.8" />
+        <verse sID="esther.3.9" osisID="esther.3.9" />si tibi placet decerne ut pereat et decem milia talentorum adpendam arcariis gazae tuae<verse eID="esther.3.9" />
+        <verse sID="esther.3.10" osisID="esther.3.10" />tulit ergo rex anulum quo utebatur de manu sua et dedit eum Aman filio Amadathi de progenie Agag hosti Iudaeorum<verse eID="esther.3.10" />
+        <verse sID="esther.3.11" osisID="esther.3.11" />dixitque ad eum argentum quod polliceris tuum sit de populo age quod tibi placet<verse eID="esther.3.11" />
+        <verse sID="esther.3.12" osisID="esther.3.12" />vocatique sunt scribae regis mense primo nisan tertiadecima die eius et scriptum est ut iusserat Aman ad omnes satrapas regis et iudices provinciarum diversarumque gentium ut quaeque gens legere poterat et audire pro varietate linguarum ex nomine regis Asueri et litterae ipsius signatae anulo<verse eID="esther.3.12" />
+        <verse sID="esther.3.13" osisID="esther.3.13" />missae sunt per cursores regis ad universas provincias ut occiderent atque delerent omnes Iudaeos a puero usque ad senem parvulos et mulieres uno die hoc est tertiodecimo mensis duodecimi qui vocatur adar et bona eorum diriperent<verse eID="esther.3.13" />
+        <verse sID="esther.3.14" osisID="esther.3.14" />summa autem epistularum haec fuit ut omnes provinciae scirent et pararent se ad praedictam diem<verse eID="esther.3.14" />
+        <verse sID="esther.3.15" osisID="esther.3.15" />festinabant cursores qui missi erant explere regis imperium statimque in Susis pependit edictum rege et Aman celebrante convivium et cunctis qui in urbe erant flentibus<verse eID="esther.3.15" />
+      </p>
+      <chapter eID="esther.3" />
+      <chapter sID="esther.4" osisID="esther.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="esther.4.1" osisID="esther.4.1" />quae cum audisset Mardocheus scidit vestimenta sua et indutus est sacco spargens cinerem capiti et in platea mediae civitatis voce magna clamabat ostendens amaritudinem animi sui<verse eID="esther.4.1" />
+        <verse sID="esther.4.2" osisID="esther.4.2" />et hoc heiulatu usque ad fores palatii gradiens non enim erat licitum indutum sacco aulam regis intrare<verse eID="esther.4.2" />
+        <verse sID="esther.4.3" osisID="esther.4.3" />in omnibus quoque provinciis oppidis ac locis ad quae crudele regis dogma pervenerat planctus ingens erat apud Iudaeos ieiunium ululatus et fletus sacco et cinere multis pro strato utentibus<verse eID="esther.4.3" />
+        <verse sID="esther.4.4" osisID="esther.4.4" />ingressae sunt autem puellae Hester et eunuchi nuntiaveruntque ei quod audiens consternata est et misit vestem ut ablato sacco induerent eum quam accipere noluit<verse eID="esther.4.4" />
+        <verse sID="esther.4.5" osisID="esther.4.5" />accitoque Athac eunucho quem rex ministrum ei dederat praecepit ut iret ad Mardocheum et disceret ab eo cur hoc faceret<verse eID="esther.4.5" />
+        <verse sID="esther.4.6" osisID="esther.4.6" />egressusque Athac ivit ad Mardocheum stantem in platea civitatis ante ostium palatii<verse eID="esther.4.6" />
+        <verse sID="esther.4.7" osisID="esther.4.7" />qui indicavit ei omnia quae acciderant quomodo Aman promisisset ut in thesauros regis pro Iudaeorum nece inferret argentum<verse eID="esther.4.7" />
+        <verse sID="esther.4.8" osisID="esther.4.8" />exemplarque edicti quod pendebat in Susis dedit ei ut reginae ostenderet et moneret eam ut intraret ad regem et deprecaretur eum pro populo suo<verse eID="esther.4.8" />
+        <verse sID="esther.4.9" osisID="esther.4.9" />regressus Athac nuntiavit Hester omnia quae Mardocheus dixerat<verse eID="esther.4.9" />
+        <verse sID="esther.4.10" osisID="esther.4.10" />quae respondit ei et iussit ut diceret Mardocheo<verse eID="esther.4.10" />
+        <verse sID="esther.4.11" osisID="esther.4.11" />omnes servi regis et cunctae quae sub dicione eius sunt norunt provinciae quod sive vir sive mulier invocatus interius atrium regis intraverit absque ulla cunctatione statim interficiatur nisi forte rex auream virgam ad eum tetenderit pro signo clementiae atque ita possit vivere ego igitur quomodo ad regem intrare potero quae triginta iam diebus non sum vocata ad eum<verse eID="esther.4.11" />
+        <verse sID="esther.4.12" osisID="esther.4.12" />quod cum audisset Mardocheus<verse eID="esther.4.12" />
+        <verse sID="esther.4.13" osisID="esther.4.13" />rursum mandavit Hester dicens ne putes quod animam tuam tantum liberes quia in domo regis es prae cunctis Iudaeis<verse eID="esther.4.13" />
+        <verse sID="esther.4.14" osisID="esther.4.14" />si enim nunc silueris per aliam occasionem liberabuntur Iudaei et tu et domus patris tui peribitis et quis novit utrum idcirco ad regnum veneris ut in tali tempore parareris<verse eID="esther.4.14" />
+        <verse sID="esther.4.15" osisID="esther.4.15" />rursumque Hester haec Mardocheo verba mandavit<verse eID="esther.4.15" />
+        <verse sID="esther.4.16" osisID="esther.4.16" />vade et congrega omnes Iudaeos quos in Susis reppereris et orate pro me non comedatis et non bibatis tribus diebus ac noctibus et ego cum ancillulis meis similiter ieiunabo et tunc ingrediar ad regem contra legem faciens invocata tradensque me morti et periculo<verse eID="esther.4.16" />
+        <verse sID="esther.4.17" osisID="esther.4.17" />ivit itaque Mardocheus et fecit omnia quae ei Hester praeceperat<verse eID="esther.4.17" />
+      </p>
+      <chapter eID="esther.4" />
+      <chapter sID="esther.5" osisID="esther.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="esther.5.1" osisID="esther.5.1" />die autem tertio induta est Hester regalibus vestimentis et stetit in atrio domus regiae quod erat interius contra basilicam regis at ille sedebat super solium in consistorio palatii contra ostium domus<verse eID="esther.5.1" />
+        <verse sID="esther.5.2" osisID="esther.5.2" />cumque vidisset Hester reginam stantem placuit oculis eius et extendit contra eam virgam auream quam tenebat manu quae accedens osculata est summitatem virgae eius<verse eID="esther.5.2" />
+        <verse sID="esther.5.3" osisID="esther.5.3" />dixitque ad eam rex quid vis Hester regina quae est petitio tua etiam si dimidiam regni partem petieris dabitur tibi<verse eID="esther.5.3" />
+        <verse sID="esther.5.4" osisID="esther.5.4" />at illa respondit si regi placet obsecro ut venias ad me hodie et Aman tecum ad convivium quod paravi<verse eID="esther.5.4" />
+        <verse sID="esther.5.5" osisID="esther.5.5" />statimque rex vocate inquit cito Aman ut Hester oboediat voluntati venerunt itaque rex et Aman ad convivium quod eis regina paraverat<verse eID="esther.5.5" />
+        <verse sID="esther.5.6" osisID="esther.5.6" />dixitque ei rex postquam vinum biberat abundanter quid petis ut detur tibi et pro qua re postulas etiam si dimidiam partem regni mei petieris inpetrabis<verse eID="esther.5.6" />
+        <verse sID="esther.5.7" osisID="esther.5.7" />cui respondit Hester petitio mea et preces istae sunt<verse eID="esther.5.7" />
+        <verse sID="esther.5.8" osisID="esther.5.8" />si inveni gratiam in conspectu regis et si regi placet ut det mihi quod postulo et meam impleat petitionem veniat rex et Aman ad convivium quod paravi eis et cras regi aperiam voluntatem meam<verse eID="esther.5.8" />
+        <verse sID="esther.5.9" osisID="esther.5.9" />egressus est itaque illo die Aman laetus et alacer cumque vidisset Mardocheum sedentem ante fores palatii et non solum non adsurrexisse sibi sed nec motum quidem de loco sessionis suae indignatus est valde<verse eID="esther.5.9" />
+        <verse sID="esther.5.10" osisID="esther.5.10" />et dissimulata ira reversus in domum suam convocavit ad se amicos et Zares uxorem suam<verse eID="esther.5.10" />
+        <verse sID="esther.5.11" osisID="esther.5.11" />et exposuit illis magnitudinem divitiarum suarum filiorumque turbam et quanta eum gloria super omnes principes et servos suos rex elevasset<verse eID="esther.5.11" />
+        <verse sID="esther.5.12" osisID="esther.5.12" />et post haec ait regina quoque Hester nullum alium vocavit cum rege ad convivium praeter me apud quam etiam cras cum rege pransurus sum<verse eID="esther.5.12" />
+        <verse sID="esther.5.13" osisID="esther.5.13" />et cum haec omnia habeam nihil me habere puto quamdiu videro Mardocheum Iudaeum sedentem ante fores regias<verse eID="esther.5.13" />
+        <verse sID="esther.5.14" osisID="esther.5.14" />responderuntque ei Zares uxor eius et ceteri amici iube parari excelsam trabem habentem altitudinem quinquaginta cubitos et dic mane regi ut adpendatur super eam Mardocheus et sic ibis cum rege laetus ad convivium placuit ei consilium et iussit excelsam parari crucem<verse eID="esther.5.14" />
+      </p>
+      <chapter eID="esther.5" />
+      <chapter sID="esther.6" osisID="esther.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="esther.6.1" osisID="esther.6.1" />noctem illam rex duxit insomnem iussitque adferri sibi historias et annales priorum temporum qui cum illo praesente legerentur<verse eID="esther.6.1" />
+        <verse sID="esther.6.2" osisID="esther.6.2" />ventum est ad eum locum ubi scriptum erat quomodo nuntiasset Mardocheus insidias Bagathan et Thares eunuchorum regem Asuerum iugulare cupientium<verse eID="esther.6.2" />
+        <verse sID="esther.6.3" osisID="esther.6.3" />quod cum rex audisset ait quid pro hac fide honoris ac praemii Mardocheus consecutus est dixeruntque ei servi illius ac ministri nihil omnino mercedis accepit<verse eID="esther.6.3" />
+        <verse sID="esther.6.4" osisID="esther.6.4" />statimque rex quis est inquit in atrio Aman quippe interius atrium domus regiae intraverat ut suggereret regi et iuberet Mardocheum adfigi patibulo quod ei fuerat praeparatum<verse eID="esther.6.4" />
+        <verse sID="esther.6.5" osisID="esther.6.5" />responderunt pueri Aman stat in atrio dixitque rex ingrediatur<verse eID="esther.6.5" />
+        <verse sID="esther.6.6" osisID="esther.6.6" />cumque esset ingressus ait illi quid debet fieri viro quem rex honorare desiderat cogitans Aman in corde suo et reputans quod nullum alium rex nisi se vellet honorare<verse eID="esther.6.6" />
+        <verse sID="esther.6.7" osisID="esther.6.7" />respondit homo quem rex honorare cupit<verse eID="esther.6.7" />
+        <verse sID="esther.6.8" osisID="esther.6.8" />debet indui vestibus regiis et inponi super equum qui de sella regis est et accipere regium diadema super caput suum<verse eID="esther.6.8" />
+        <verse sID="esther.6.9" osisID="esther.6.9" />et primus de regis principibus ac tyrannis teneat equum eius et per plateam civitatis incedens clamet ac dicat sic honorabitur quemcumque rex voluerit honorare<verse eID="esther.6.9" />
+        <verse sID="esther.6.10" osisID="esther.6.10" />dixitque ei rex festina et sumpta stola et equo fac ita ut locutus es Mardocheo Iudaeo qui sedet ante fores palatii cave ne quicquam de his quae locutus es praetermittas<verse eID="esther.6.10" />
+        <verse sID="esther.6.11" osisID="esther.6.11" />tulit itaque Aman stolam et equum indutumque Mardocheum in platea civitatis et inpositum equo praecedebat atque clamabat hoc honore condignus est quemcumque rex voluerit honorare<verse eID="esther.6.11" />
+        <verse sID="esther.6.12" osisID="esther.6.12" />reversus est Mardocheus ad ianuam palatii et Aman festinavit ire in domum suam lugens et operto capite<verse eID="esther.6.12" />
+        <verse sID="esther.6.13" osisID="esther.6.13" />narravitque Zares uxori suae et amicis omnia quae evenissent sibi cui responderunt sapientes quos habebat in consilio et uxor eius si de semine Iudaeorum est Mardocheus ante quem cadere coepisti non poteris ei resistere sed cades in conspectu eius<verse eID="esther.6.13" />
+        <verse sID="esther.6.14" osisID="esther.6.14" />adhuc illis loquentibus venerunt eunuchi regis et cito eum ad convivium quod regina paraverat pergere conpulerunt<verse eID="esther.6.14" />
+      </p>
+      <chapter eID="esther.6" />
+      <chapter sID="esther.7" osisID="esther.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="esther.7.1" osisID="esther.7.1" />intravit itaque rex et Aman ut biberent cum regina<verse eID="esther.7.1" />
+        <verse sID="esther.7.2" osisID="esther.7.2" />dixitque ei rex etiam in secundo die postquam vino incaluerat quae est petitio tua Hester ut detur tibi et quid vis fieri etiam si dimidiam regni mei partem petieris inpetrabis<verse eID="esther.7.2" />
+        <verse sID="esther.7.3" osisID="esther.7.3" />ad quem illa respondit si inveni gratiam in oculis tuis o rex et si tibi placet dona mihi animam meam pro qua rogo et populum meum pro quo obsecro<verse eID="esther.7.3" />
+        <verse sID="esther.7.4" osisID="esther.7.4" />traditi enim sumus ego et populus meus ut conteramur iugulemur et pereamus atque utinam in servos et famulas venderemur esset tolerabile malum et gemens tacerem nunc autem hostis noster est cuius crudelitas redundat in regem<verse eID="esther.7.4" />
+        <verse sID="esther.7.5" osisID="esther.7.5" />respondensque rex Asuerus ait quis est iste et cuius potentiae ut haec audeat facere<verse eID="esther.7.5" />
+        <verse sID="esther.7.6" osisID="esther.7.6" />dixit Hester hostis et inimicus noster pessimus iste est Aman quod ille audiens ilico obstipuit vultum regis ac reginae ferre non sustinens<verse eID="esther.7.6" />
+        <verse sID="esther.7.7" osisID="esther.7.7" />rex autem surrexit iratus et de loco convivii intravit in hortum arboribus consitum Aman quoque surrexit ut rogaret Hester reginam pro anima sua intellexit enim a rege sibi paratum malum<verse eID="esther.7.7" />
+        <verse sID="esther.7.8" osisID="esther.7.8" />qui cum reversus esset de horto nemoribus consito et intrasset convivii locum repperit Aman super lectulum corruisse in quo iacebat Hester et ait etiam reginam vult opprimere me praesente in domo mea necdum verbum de ore regis exierat et statim operuerunt faciem eius<verse eID="esther.7.8" />
+        <verse sID="esther.7.9" osisID="esther.7.9" />dixitque Arbona unus de eunuchis qui stabant in ministerio regis en lignum quod paraverat Mardocheo qui locutus est pro rege stat in domo Aman habens altitudinis quinquaginta cubitos cui dixit rex adpendite eum in eo<verse eID="esther.7.9" />
+        <verse sID="esther.7.10" osisID="esther.7.10" />suspensus est itaque Aman in patibulo quod paraverat Mardocheo et regis ira quievit<verse eID="esther.7.10" />
+      </p>
+      <chapter eID="esther.7" />
+      <chapter sID="esther.8" osisID="esther.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="esther.8.1" osisID="esther.8.1" />die illo dedit rex Asuerus Hester reginae domum Aman adversarii Iudaeorum et Mardocheus ingressus est ante faciem regis confessa est enim ei Hester quod esset patruus suus<verse eID="esther.8.1" />
+        <verse sID="esther.8.2" osisID="esther.8.2" />tulitque rex anulum quem ab Aman recipi iusserat et tradidit Mardocheo Hester autem constituit Mardocheum super domum suam<verse eID="esther.8.2" />
+        <verse sID="esther.8.3" osisID="esther.8.3" />nec his contenta procidit ad pedes regis flevitque et locuta ad eum oravit ut malitiam Aman Agagitae et machinationes eius pessimas quas excogitaverat contra Iudaeos iuberet irritas fieri<verse eID="esther.8.3" />
+        <verse sID="esther.8.4" osisID="esther.8.4" />at ille ex more sceptrum aureum protendit manu quo signum clementiae monstrabatur illaque consurgens stetit ante eum<verse eID="esther.8.4" />
+        <verse sID="esther.8.5" osisID="esther.8.5" />et ait si placet regi et inveni gratiam coram oculis eius et deprecatio mea non ei videtur esse contraria obsecro ut novis epistulis veteres Aman litterae insidiatoris et hostis Iudaeorum quibus eos in cunctis regis provinciis perire praeceperat corrigantur<verse eID="esther.8.5" />
+        <verse sID="esther.8.6" osisID="esther.8.6" />quomodo enim potero sustinere necem et interfectionem populi mei<verse eID="esther.8.6" />
+        <verse sID="esther.8.7" osisID="esther.8.7" />responditque rex Asuerus Hester reginae et Mardocheo Iudaeo domum Aman concessi Hester et ipsum iussi adfigi cruci qui ausus est manum in Iudaeos mittere<verse eID="esther.8.7" />
+        <verse sID="esther.8.8" osisID="esther.8.8" />scribite ergo Iudaeis sicut vobis placet ex regis nomine signantes litteras anulo meo haec enim consuetudo erat ut epistulis quae ex regis nomine mittebantur et illius anulo signatae erant nemo auderet contradicere<verse eID="esther.8.8" />
+        <verse sID="esther.8.9" osisID="esther.8.9" />accitisque scribis et librariis regis erat autem tempus tertii mensis qui appellatur siban vicesima et tertia illius die scriptae sunt epistulae ut Mardocheus voluerat ad Iudaeos et ad principes procuratoresque et iudices qui centum viginti septem provinciis ab India usque Aethiopiam praesidebant provinciae atque provinciae populo et populo iuxta linguas et litteras suas et Iudaeis ut legere poterant et audire<verse eID="esther.8.9" />
+        <verse sID="esther.8.10" osisID="esther.8.10" />ipsaeque epistulae quae ex regis nomine mittebantur anulo illius obsignatae sunt et missae per veredarios qui per omnes provincias discurrentes veteres litteras novis nuntiis praevenirent<verse eID="esther.8.10" />
+        <verse sID="esther.8.11" osisID="esther.8.11" />quibus imperavit rex ut convenirent Iudaeos per singulas civitates et in unum praeciperent congregari ut starent pro animabus suis et omnes inimicos suos cum coniugibus ac liberis et universis domibus interficerent atque delerent<verse eID="esther.8.11" />
+        <verse sID="esther.8.12" osisID="esther.8.12" />et constituta est per omnes provincias una ultionis dies id est tertiadecima mensis duodecimi adar<verse eID="esther.8.12" />
+        <verse sID="esther.8.13" osisID="esther.8.13" />summaque epistulae fuit ut in omnibus terris ac populis qui regis Asueri imperio subiacebant notum fieret paratos esse Iudaeos ad capiendam vindictam de hostibus suis<verse eID="esther.8.13" />
+        <verse sID="esther.8.14" osisID="esther.8.14" />egressique sunt veredarii celeres nuntios perferentes et edictum regis pependit in Susis<verse eID="esther.8.14" />
+        <verse sID="esther.8.15" osisID="esther.8.15" />Mardocheus autem de palatio et de conspectu regis egrediens fulgebat vestibus regiis hyacinthinis videlicet et aerinis coronam auream portans capite et amictus pallio serico atque purpureo omnisque civitas exultavit atque laetata est<verse eID="esther.8.15" />
+        <verse sID="esther.8.16" osisID="esther.8.16" />Iudaeis autem nova lux oriri visa est gaudium honor et tripudium<verse eID="esther.8.16" />
+        <verse sID="esther.8.17" osisID="esther.8.17" />apud omnes populos urbes atque provincias quocumque regis iussa veniebant mira exultatio epulae atque convivia et festus dies in tantum ut plures alterius gentis et sectae eorum religioni et caerimoniis iungerentur grandis enim cunctos iudaici nominis terror invaserat<verse eID="esther.8.17" />
+      </p>
+      <chapter eID="esther.8" />
+      <chapter sID="esther.9" osisID="esther.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="esther.9.1" osisID="esther.9.1" />igitur duodecimi mensis quem adar vocari ante iam diximus tertiadecima die quando cunctis Iudaeis interfectio parabatur et hostes eorum inhiabant sanguini versa vice Iudaei superiores esse coeperunt et se de adversariis vindicare<verse eID="esther.9.1" />
+        <verse sID="esther.9.2" osisID="esther.9.2" />congregatique sunt per singulas civitates oppida et loca ut extenderent manum contra inimicos et persecutores suos nullusque ausus est resistere eo quod omnes populos magnitudinis eorum formido penetrarat<verse eID="esther.9.2" />
+        <verse sID="esther.9.3" osisID="esther.9.3" />nam et provinciarum iudices duces et procuratores omnisque dignitas quae singulis locis et operibus praeerat extollebant Iudaeos timore Mardochei<verse eID="esther.9.3" />
+        <verse sID="esther.9.4" osisID="esther.9.4" />quem principem esse palatii et plurimum posse cognoverant fama quoque nominis eius crescebat cotidie et per cunctorum ora volitabat<verse eID="esther.9.4" />
+        <verse sID="esther.9.5" osisID="esther.9.5" />itaque percusserunt Iudaei inimicos suos plaga magna et occiderunt eos reddentes eis quod sibi paraverant facere<verse eID="esther.9.5" />
+        <verse sID="esther.9.6" osisID="esther.9.6" />in tantum ut etiam in Susis quingentos viros interficerent et decem extra filios Aman Agagitae hostis Iudaeorum quorum ista sunt nomina<verse eID="esther.9.6" />
+        <verse sID="esther.9.7" osisID="esther.9.7" />Pharsandatha et Delphon et Esphata<verse eID="esther.9.7" />
+        <verse sID="esther.9.8" osisID="esther.9.8" />et Phorata et Adalia et Aridatha<verse eID="esther.9.8" />
+        <verse sID="esther.9.9" osisID="esther.9.9" />et Ephermesta et Arisai et Aridai et Vaizatha<verse eID="esther.9.9" />
+        <verse sID="esther.9.10" osisID="esther.9.10" />quos cum occidissent praedas de substantiis eorum agere noluerunt<verse eID="esther.9.10" />
+        <verse sID="esther.9.11" osisID="esther.9.11" />statimque numerus eorum qui occisi erant in Susis ad regem relatus est<verse eID="esther.9.11" />
+        <verse sID="esther.9.12" osisID="esther.9.12" />qui dixit reginae in urbe Susis interfecere Iudaei quingentos viros et alios decem filios Aman quantam putas eos exercere caedem in universis provinciis quid ultra postulas et quid vis ut fieri iubeam<verse eID="esther.9.12" />
+        <verse sID="esther.9.13" osisID="esther.9.13" />cui illa respondit si regi placet detur potestas Iudaeis ut sicut hodie fecerunt in Susis sic et cras faciant et decem filii Aman in patibulis suspendantur<verse eID="esther.9.13" />
+        <verse sID="esther.9.14" osisID="esther.9.14" />praecepitque rex ut ita fieret statimque in Susis pependit edictum et decem Aman filii suspensi sunt<verse eID="esther.9.14" />
+        <verse sID="esther.9.15" osisID="esther.9.15" />congregatis Iudaeis quartadecima adar mensis die interfecti sunt in Susis trecenti viri nec eorum ab illis direpta substantia est<verse eID="esther.9.15" />
+        <verse sID="esther.9.16" osisID="esther.9.16" />sed et per omnes provincias quae dicioni regis subiacebant pro animabus suis stetere Iudaei interfectis hostibus ac persecutoribus suis in tantum ut septuaginta quinque milia occisorum implerentur et nullus de substantiis eorum quicquam contingeret<verse eID="esther.9.16" />
+        <verse sID="esther.9.17" osisID="esther.9.17" />dies autem tertiusdecimus mensis adar unus apud omnes interfectionis fuit et quartodecimo die caedere desierunt quem constituerunt esse sollemnem ut in eo omni deinceps tempore vacarent epulis gaudio atque conviviis<verse eID="esther.9.17" />
+        <verse sID="esther.9.18" osisID="esther.9.18" />at hii qui in urbe Susis caedem exercuerant tertiodecimo et quartodecimo eiusdem mensis die in caede versati sunt quintodecimo autem die percutere desierunt et idcirco eandem diem constituere sollemnem epularum atque laetitiae<verse eID="esther.9.18" />
+        <verse sID="esther.9.19" osisID="esther.9.19" />hii vero Iudaei qui in oppidis non muratis ac villis morabantur quartumdecimum diem mensis adar conviviorum et gaudii decreverunt ita ut exultent in eo et mittant sibi mutuo partes epularum et ciborum<verse eID="esther.9.19" />
+        <verse sID="esther.9.20" osisID="esther.9.20" />scripsit itaque Mardocheus omnia haec et litteris conprehensa misit ad Iudaeos qui in omnibus regis provinciis morabantur tam in vicino positis quam procul<verse eID="esther.9.20" />
+        <verse sID="esther.9.21" osisID="esther.9.21" />ut quartamdecimam et quintamdecimam diem mensis adar pro festis susciperent et revertente semper anno sollemni honore celebrarent<verse eID="esther.9.21" />
+        <verse sID="esther.9.22" osisID="esther.9.22" />quia in ipsis diebus se ulti sunt Iudaei de inimicis suis et luctus atque tristitia in hilaritatem gaudiumque conversa sint essentque istae dies epularum atque laetitiae et mitterent sibi invicem ciborum partes et pauperibus munuscula largirentur<verse eID="esther.9.22" />
+        <verse sID="esther.9.23" osisID="esther.9.23" />susceperuntque Iudaei in sollemnem ritum cuncta quae eo tempore facere coeperant et quae Mardocheus litteris facienda mandaverat<verse eID="esther.9.23" />
+        <verse sID="esther.9.24" osisID="esther.9.24" />Aman enim filius Amadathi stirpis Agag hostis et adversarius Iudaeorum cogitavit contra eos malum ut occideret illos atque deleret et misit phur quod nostra lingua vertitur in sortem<verse eID="esther.9.24" />
+        <verse sID="esther.9.25" osisID="esther.9.25" />et postea ingressa est Hester ad regem obsecrans ut conatus eius litteris regis irriti fierent et malum quod contra Iudaeos cogitaverat reverteretur in caput eius denique et ipsum et filios eius adfixerunt cruci<verse eID="esther.9.25" />
+        <verse sID="esther.9.26" osisID="esther.9.26" />atque ex illo tempore dies isti appellati sunt Phurim id est Sortium eo quod phur id est sors in urnam missa fuerit et cuncta quae gesta sunt epistulae id est libri huius volumine continentur<verse eID="esther.9.26" />
+        <verse sID="esther.9.27" osisID="esther.9.27" />quaeque sustinuerint et quae deinceps inmutata sint suscepere Iudaei super se et semen suum et super cunctos qui religioni eorum voluerint copulari ut nulli liceat duos hos dies absque sollemnitate transigere quam scriptura testatur et certa expetunt tempora annis sibi iugiter succedentibus<verse eID="esther.9.27" />
+        <verse sID="esther.9.28" osisID="esther.9.28" />isti sunt dies quos nulla umquam delebit oblivio et per singulas generationes cunctae in toto orbe provinciae celebrabunt nec est ulla civitas in qua dies Phurim id est Sortium non observentur a Iudaeis et ab eorum progenie quae his caerimoniis obligata est<verse eID="esther.9.28" />
+        <verse sID="esther.9.29" osisID="esther.9.29" />scripseruntque Hester regina filia Abiahil et Mardocheus Iudaeus etiam secundam epistulam ut omni studio dies ista sollemnis sanciretur in posterum<verse eID="esther.9.29" />
+        <verse sID="esther.9.30" osisID="esther.9.30" />et miserunt ad omnes Iudaeos qui in centum viginti septem regis Asueri provinciis versabantur ut haberent pacem et susciperent veritatem<verse eID="esther.9.30" />
+        <verse sID="esther.9.31" osisID="esther.9.31" />observantes dies Sortium et suo tempore cum gaudio celebrarent sicut constituerat Mardocheus et Hester et illi observanda susceperant a se et a semine suo ieiunia atque clamores et Sortium dies<verse eID="esther.9.31" />
+        <verse sID="esther.9.32" osisID="esther.9.32" />et omnia quae libri huius qui vocatur Hester historia continentur<verse eID="esther.9.32" />
+      </p>
+      <chapter eID="esther.9" />
+      <chapter sID="esther.10" osisID="esther.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="esther.10.1" osisID="esther.10.1" />rex vero Asuerus omnem terram et cunctas maris insulas fecit tributarias<verse eID="esther.10.1" />
+        <verse sID="esther.10.2" osisID="esther.10.2" />cuius fortitudo et imperium et dignitas atque sublimitas qua exaltavit Mardocheum scripta sunt in libris Medorum atque Persarum<verse eID="esther.10.2" />
+        <verse sID="esther.10.3" osisID="esther.10.3" />et quomodo Mardocheus iudaici generis secundus a rege Asuero fuerit et magnus inter Iudaeos et acceptabilis plebi fratrum suorum quaerens bona populo suo et loquens ea quae ad pacem sui seminis pertinerent
+QUAE HABENTUR IN HEBRAEO PLENA FIDE EXPRESSI · HAEC AUTEM QUAE SEQUUNTUR SCRIPTA REPPERI IN EDITIONE VULGATA QUAE GRAECORUM LINGUA ET LITTERIS CONTINENTUR ET INTERIM POST FINEM LIBRI HOC CAPITULUM FEREBATUR QUOD IUXTA CONSUETUDINEM NOSTRAM OBELO ID EST VERU PRAENOTAVIMUS<verse eID="esther.10.3" />
+        <verse sID="esther.10.4" osisID="esther.10.4" />dixitque Mardocheus a Deo facta sunt ista<verse eID="esther.10.4" />
+        <verse sID="esther.10.5" osisID="esther.10.5" />recordatus sum somnii quod videram haec eadem significantis nec eorum quicquam irritum fuit<verse eID="esther.10.5" />
+        <verse sID="esther.10.6" osisID="esther.10.6" />parvus fons qui crevit in fluvium et in lucem solemque conversus est et in aquas plurimas redundavit Hester est quam rex accepit uxorem et voluit esse reginam<verse eID="esther.10.6" />
+        <verse sID="esther.10.7" osisID="esther.10.7" />duo autem dracones ego sum et Aman<verse eID="esther.10.7" />
+        <verse sID="esther.10.8" osisID="esther.10.8" />gentes quae convenerant hii sunt qui delere nomen conati sunt Iudaeorum<verse eID="esther.10.8" />
+        <verse sID="esther.10.9" osisID="esther.10.9" />gens autem mea Israhel est qui clamavit ad Deum et salvum fecit Dominus populum suum liberavitque nos de omnibus malis et fecit signa magna atque portenta inter gentes<verse eID="esther.10.9" />
+        <verse sID="esther.10.10" osisID="esther.10.10" />et duas sortes esse praecepit unam populo Dei et alteram cunctarum gentium<verse eID="esther.10.10" />
+        <verse sID="esther.10.11" osisID="esther.10.11" />venitque utraque sors in statutum ex illo iam tempore diem coram Deo universis gentibus<verse eID="esther.10.11" />
+        <verse sID="esther.10.12" osisID="esther.10.12" />et recordatus est Dominus populi sui ac misertus hereditati suae<verse eID="esther.10.12" />
+        <verse sID="esther.10.13" osisID="esther.10.13" />et observabuntur dies isti in mense adar quartadecima et quintadecima die eiusdem mensis cum omni studio et gaudio in unum coetum populi congregati in cunctas deinceps generationes populi Israhel<verse eID="esther.10.13" />
+      </p>
+      <chapter eID="esther.10" />
+      <chapter sID="esther.11" osisID="esther.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="esther.11.1" osisID="esther.11.1" />anno quarto regnantibus Ptolomeo et Cleopatra adtulerunt Dositheus qui se sacerdotem et levitici generis ferebat et Ptolomeus filius eius hanc epistulam Phurim quam dixerunt interpretatum esse Lysimachum Ptolomei filium in Hierusalem
+HOC QUOQUE PRINCIPIUM ERAT IN EDITIONE VULGATA QUOD NEC IN HEBRAEO NEC APUD ULLUM FERTUR INTERPRETUM<verse eID="esther.11.1" />
+        <verse sID="esther.11.2" osisID="esther.11.2" />anno secundo regnante Artarxerse maximo prima die mensis nisan vidit somnium Mardocheus filius Iahiri filii Semei filii Cis de tribu Beniamin<verse eID="esther.11.2" />
+        <verse sID="esther.11.3" osisID="esther.11.3" />homo iudaeus qui habitabat in urbe Susis vir magnus et inter primos aulae regiae<verse eID="esther.11.3" />
+        <verse sID="esther.11.4" osisID="esther.11.4" />erat autem de eo numero captivorum quos transtulerat Nabuchodonosor rex Babylonis de Hierusalem cum Iechonia rege Iudaeae<verse eID="esther.11.4" />
+        <verse sID="esther.11.5" osisID="esther.11.5" />et hoc eius somnium fuit apparuerunt voces et tumultus et tonitrua et terraemotus et conturbatio super terram<verse eID="esther.11.5" />
+        <verse sID="esther.11.6" osisID="esther.11.6" />et ecce duo dracones magni paratique contra se in proelium<verse eID="esther.11.6" />
+        <verse sID="esther.11.7" osisID="esther.11.7" />ad quorum clamorem cunctae concitatae sunt nationes ut pugnarent contra gentem iustorum<verse eID="esther.11.7" />
+        <verse sID="esther.11.8" osisID="esther.11.8" />fuitque dies illa tenebrarum et discriminis tribulationis et angustiae et ingens formido super terram<verse eID="esther.11.8" />
+        <verse sID="esther.11.9" osisID="esther.11.9" />conturbataque est gens iustorum timentium mala sua et praeparata ad mortem<verse eID="esther.11.9" />
+        <verse sID="esther.11.10" osisID="esther.11.10" />clamaveruntque ad Deum et illis vociferantibus fons parvus crevit in fluvium maximum et in aquas plurimas redundavit<verse eID="esther.11.10" />
+        <verse sID="esther.11.11" osisID="esther.11.11" />lux et sol ortus est et humiles exaltati sunt et devoraverunt inclitos<verse eID="esther.11.11" />
+        <verse sID="esther.11.12" osisID="esther.11.12" />quod cum vidisset Mardocheus et surrexisset de stratu cogitabat quid Deus facere vellet et fixum habebat in animo scire cupiens quid significaret somnium<verse eID="esther.11.12" />
+      </p>
+      <chapter eID="esther.11" />
+      <chapter sID="esther.12" osisID="esther.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="esther.12.1" osisID="esther.12.1" />morabatur autem eo tempore in aula regis cum Gabatha et Thara eunuchis regis qui ianitores erant palatii<verse eID="esther.12.1" />
+        <verse sID="esther.12.2" osisID="esther.12.2" />cumque intellexisset cogitationes eorum et curas diligentius pervidisset didicit quod conarentur in regem Artarxersen manus mittere et nuntiavit super eo regi<verse eID="esther.12.2" />
+        <verse sID="esther.12.3" osisID="esther.12.3" />qui de utroque habita quaestione confessos duci iussit ad mortem<verse eID="esther.12.3" />
+        <verse sID="esther.12.4" osisID="esther.12.4" />rex autem quod gestum erat scripsit in commentariis sed et Mardocheus rei memoriam litteris tradidit<verse eID="esther.12.4" />
+        <verse sID="esther.12.5" osisID="esther.12.5" />praecepitque ei rex ut in aula palatii moraretur datis ei pro delatione muneribus<verse eID="esther.12.5" />
+        <verse sID="esther.12.6" osisID="esther.12.6" />Aman vero filius Amadathi Bugeus erat gloriosissimus coram rege et voluit nocere Mardocheo et populo eius pro duobus regis eunuchis qui fuerant interfecti
+HUCUSQUE PROEMIUM
+QUAE SEQUUNTUR IN EO LOCO POSITA ERANT UBI SCRIPTUM EST IN VOLUMINE et diripuerunt bona VEL substantias eorum QUAE IN SOLA VULGATA EDITIONE REPPERIMUS
+epistulae autem hoc exemplar fuit<verse eID="esther.12.6" />
+      </p>
+      <chapter eID="esther.12" />
+      <chapter sID="esther.13" osisID="esther.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="esther.13.1" osisID="esther.13.1" />rex maximus Artarxerses ab India usque Aethiopiam centum viginti septem provinciarum principibus et ducibus qui eius imperio subiecti sunt salutem dicit<verse eID="esther.13.1" />
+        <verse sID="esther.13.2" osisID="esther.13.2" />cum plurimis gentibus imperarem et universum orbem meae dicioni subiugassem volui nequaquam abuti potentiae magnitudine sed clementia et lenitate gubernare subiectos ut absque ullo terrore vitam silentio transigentes optata cunctis mortalibus pace fruerentur<verse eID="esther.13.2" />
+        <verse sID="esther.13.3" osisID="esther.13.3" />quaerente autem me a consiliariis meis quomodo hoc posset impleri unus qui sapientia et fide ceteros praecellebat et erat post regem secundus Aman nomine<verse eID="esther.13.3" />
+        <verse sID="esther.13.4" osisID="esther.13.4" />indicavit mihi in toto orbe terrarum populum esse dispersum qui novis uteretur legibus et contra omnium gentium faciens consuetudinem regum iussa contemneret et universarum concordiam nationum sua dissensione violaret<verse eID="esther.13.4" />
+        <verse sID="esther.13.5" osisID="esther.13.5" />quod cum didicissemus videntes unam gentem rebellem adversum omne hominum genus perversis uti legibus nostrisque iussionibus contraire et turbare subiectarum nobis provinciarum pacem atque concordiam<verse eID="esther.13.5" />
+        <verse sID="esther.13.6" osisID="esther.13.6" />iussimus ut quoscumque Aman qui omnibus provinciis praepositus est et secundus a rege et quem patris loco colimus monstraverit cum coniugibus ac liberis deleantur ab inimicis suis nullusque eorum misereatur quartadecima die duodecimi mensis adar anni praesentis<verse eID="esther.13.6" />
+        <verse sID="esther.13.7" osisID="esther.13.7" />ut nefarii homines uno die ad inferos descendentes reddant imperio nostro pacem quam turbaverunt
+HUCUSQUE EXEMPLAR EPISTULAE
+QUAE SEQUUNTUR POST EUM LOCUM SCRIPTA REPPERI UBI LEGITUR pergensque Mardocheus fecit omnia quae ei mandaverat Hester NEC TAMEN HABENTUR IN HEBRAICO ET APUD NULLUM PENITUS FERUNTUR INTERPRETUM<verse eID="esther.13.7" />
+        <verse sID="esther.13.8" osisID="esther.13.8" />Mardocheus autem deprecatus est Dominum memor omnium operum eius<verse eID="esther.13.8" />
+        <verse sID="esther.13.9" osisID="esther.13.9" />et dixit Domine Domine rex omnipotens in dicione enim tua cuncta sunt posita et non est qui possit tuae resistere voluntati si decreveris salvare Israhel<verse eID="esther.13.9" />
+        <verse sID="esther.13.10" osisID="esther.13.10" />tu fecisti caelum et terram et quicquid caeli ambitu continetur<verse eID="esther.13.10" />
+        <verse sID="esther.13.11" osisID="esther.13.11" />Dominus omnium es nec est qui resistat maiestati tuae<verse eID="esther.13.11" />
+        <verse sID="esther.13.12" osisID="esther.13.12" />cuncta nosti et scis quia non pro superbia et contumelia et aliqua gloriae cupiditate fecerim hoc ut non adorarem Aman superbissimum<verse eID="esther.13.12" />
+        <verse sID="esther.13.13" osisID="esther.13.13" />libenter enim pro salute Israhel etiam vestigia pedum eius deosculari paratus essem<verse eID="esther.13.13" />
+        <verse sID="esther.13.14" osisID="esther.13.14" />sed timui ne honorem Dei mei transferrem ad hominem et ne quemquam adorarem excepto Domino meo<verse eID="esther.13.14" />
+        <verse sID="esther.13.15" osisID="esther.13.15" />et nunc Domine rex Deus Abraham miserere populi tui quia volunt nos inimici perdere et hereditatem tuam delere<verse eID="esther.13.15" />
+        <verse sID="esther.13.16" osisID="esther.13.16" />ne despicias partem tuam quam redemisti tibi de Aegypto<verse eID="esther.13.16" />
+        <verse sID="esther.13.17" osisID="esther.13.17" />exaudi deprecationem meam et propitius esto sorti et funiculo tuo et converte luctum nostrum in gaudium ut viventes laudemus nomen tuum Domine et non claudas ora te canentium<verse eID="esther.13.17" />
+        <verse sID="esther.13.18" osisID="esther.13.18" />omnis quoque Israhel pari mente et obsecratione clamavit ad Dominum eo quod eis certa mors inpenderet<verse eID="esther.13.18" />
+      </p>
+      <chapter eID="esther.13" />
+      <chapter sID="esther.14" osisID="esther.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="esther.14.1" osisID="esther.14.1" />Hester quoque regina confugit ad Dominum pavens periculum quod inminebat<verse eID="esther.14.1" />
+        <verse sID="esther.14.2" osisID="esther.14.2" />cumque deposuisset vestes regias fletibus et luctui apta indumenta suscepit et pro unguentis variis cinere et stercore implevit caput et corpus suum humiliavit ieiuniis omniaque loca in quibus laetari ante consueverat crinium laceratione conplevit<verse eID="esther.14.2" />
+        <verse sID="esther.14.3" osisID="esther.14.3" />et deprecabatur Dominum Deum Israhel dicens Domine mi qui rex noster es solus adiuva me solitariam et cuius praeter te nullus auxiliator est alius<verse eID="esther.14.3" />
+        <verse sID="esther.14.4" osisID="esther.14.4" />periculum meum in manibus meis est<verse eID="esther.14.4" />
+        <verse sID="esther.14.5" osisID="esther.14.5" />audivi a patre meo quod tu Domine tulisses Israhel de cunctis gentibus et patres nostros ex omnibus retro maioribus suis ut possideres hereditatem sempiternam fecistique eis sicut locutus es<verse eID="esther.14.5" />
+        <verse sID="esther.14.6" osisID="esther.14.6" />peccavimus in conspectu tuo et idcirco tradidisti nos in manibus inimicorum nostrorum<verse eID="esther.14.6" />
+        <verse sID="esther.14.7" osisID="esther.14.7" />coluimus enim deos eorum iustus es Domine<verse eID="esther.14.7" />
+        <verse sID="esther.14.8" osisID="esther.14.8" />et nunc non eis sufficit quod durissima nos opprimunt servitute sed robur manuum suarum idolorum potentiae deputantes<verse eID="esther.14.8" />
+        <verse sID="esther.14.9" osisID="esther.14.9" />volunt tua mutare promissa et delere hereditatem tuam et claudere ora te laudantium atque extinguere gloriam templi et altaris tui<verse eID="esther.14.9" />
+        <verse sID="esther.14.10" osisID="esther.14.10" />ut aperiant ora gentium et laudent idolorum fortitudinem et praedicent carnalem regem in sempiternum<verse eID="esther.14.10" />
+        <verse sID="esther.14.11" osisID="esther.14.11" />ne tradas Domine sceptrum tuum his qui non sunt ne rideant ad ruinam nostram sed converte consilium eorum super eos et eum qui in nos coepit saevire disperde<verse eID="esther.14.11" />
+        <verse sID="esther.14.12" osisID="esther.14.12" />memento Domine et ostende te nobis in tempore tribulationis nostrae et mihi da fiduciam rex deorum et universae Domine potestatis<verse eID="esther.14.12" />
+        <verse sID="esther.14.13" osisID="esther.14.13" />tribue sermonem conpositum in ore meo in conspectu leonis et transfer cor illius in odium hostis nostri ut et ipse pereat et ceteri qui ei consentiunt<verse eID="esther.14.13" />
+        <verse sID="esther.14.14" osisID="esther.14.14" />nos autem libera manu tua et adiuva me nullum alium habentem auxilium nisi te Domine habes omnium scientiam<verse eID="esther.14.14" />
+        <verse sID="esther.14.15" osisID="esther.14.15" />et nosti quia oderim gloriam iniquorum et detester cubile incircumcisorum et omnis alienigenae<verse eID="esther.14.15" />
+        <verse sID="esther.14.16" osisID="esther.14.16" />tu scis necessitatem meam quod abominer signum superbiae et gloriae meae quod est super caput meum in diebus ostentationis meae et detester illud quasi pannum menstruatae et non portem in diebus silentii mei<verse eID="esther.14.16" />
+        <verse sID="esther.14.17" osisID="esther.14.17" />et quod non comederim in mensa Aman nec mihi placuerit convivium regis et non biberim vinum libaminum<verse eID="esther.14.17" />
+        <verse sID="esther.14.18" osisID="esther.14.18" />et numquam laetata sit ancilla tua ex quo huc translata sum usque in praesentem diem nisi in te Domine Deus Abraham<verse eID="esther.14.18" />
+        <verse sID="esther.14.19" osisID="esther.14.19" />Deus fortis super omnes exaudi vocem eorum qui nullam aliam spem habent et libera nos de manu iniquorum et erue me a timore meo<verse eID="esther.14.19" />
+      </p>
+      <chapter eID="esther.14" />
+      <chapter sID="esther.15" osisID="esther.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="esther.15.1" osisID="esther.15.1" />HAEC QUOQUE ADDITA REPPERI IN EDITIONE VULGATA<verse eID="esther.15.1" />
+        <verse sID="esther.15.1" osisID="esther.15.1" />et mandavit ei haut dubium quin Hesteri Mardocheus ut ingrederetur ad regem et rogaret pro populo suo et pro patria sua<verse eID="esther.15.1" />
+        <verse sID="esther.15.2" osisID="esther.15.2" />memor inquit dierum humilitatis tuae quomodo nutrita sis in manu mea quia Aman secundus a rege locutus est contra nos in mortem<verse eID="esther.15.2" />
+        <verse sID="esther.15.3" osisID="esther.15.3" />et tu invoca Dominum et loquere regi pro nobis et libera nos de morte
+NEC NON ET ISTA QUAE SUBDITA SUNT<verse eID="esther.15.3" />
+        <verse sID="esther.15.4" osisID="esther.15.4" />die autem tertio deposuit vestimenta ornatus sui et circumdata est gloria sua<verse eID="esther.15.4" />
+        <verse sID="esther.15.5" osisID="esther.15.5" />cumque regio fulgeret habitu et invocasset omnium rectorem et salvatorem Deum adsumpsit duas famulas<verse eID="esther.15.5" />
+        <verse sID="esther.15.6" osisID="esther.15.6" />et super unam quidem innitebatur quasi prae deliciis et nimia teneritudine corpus suum ferre non sustinens<verse eID="esther.15.6" />
+        <verse sID="esther.15.7" osisID="esther.15.7" />altera autem famularum sequebatur dominam defluentia in humum indumenta sustentans<verse eID="esther.15.7" />
+        <verse sID="esther.15.8" osisID="esther.15.8" />ipsa autem roseo vultu colore perfusa et gratis ac nitentibus oculis tristem celabat animum et nimio timore contractum<verse eID="esther.15.8" />
+        <verse sID="esther.15.9" osisID="esther.15.9" />ingressa igitur cuncta per ordinem ostia stetit contra regem ubi ille residebat super solium regni sui indutus vestibus regiis auroque fulgens et pretiosis lapidibus eratque terribilis aspectu<verse eID="esther.15.9" />
+        <verse sID="esther.15.10" osisID="esther.15.10" />cumque elevasset faciem et ardentibus oculis furorem pectoris indicasset regina corruit et in pallorem colore mutato lassum super ancillulam reclinavit caput<verse eID="esther.15.10" />
+        <verse sID="esther.15.11" osisID="esther.15.11" />convertitque Deus spiritum regis in mansuetudinem et festinus ac metuens exilivit de solio et sustentans eam ulnis suis donec rediret ad se his verbis blandiebatur<verse eID="esther.15.11" />
+        <verse sID="esther.15.12" osisID="esther.15.12" />quid habes Hester ego sum frater tuus noli metuere<verse eID="esther.15.12" />
+        <verse sID="esther.15.13" osisID="esther.15.13" />non morieris non enim pro te sed pro omnibus haec lex constituta est<verse eID="esther.15.13" />
+        <verse sID="esther.15.14" osisID="esther.15.14" />accede igitur et tange sceptrum<verse eID="esther.15.14" />
+        <verse sID="esther.15.15" osisID="esther.15.15" />cumque illa reticeret tulit auream virgam et posuit super collum eius et osculatus est eam et ait cur mihi non loqueris<verse eID="esther.15.15" />
+        <verse sID="esther.15.16" osisID="esther.15.16" />quae respondit vidi te domine quasi angelum Dei et conturbatum est cor meum prae timore gloriae tuae<verse eID="esther.15.16" />
+        <verse sID="esther.15.17" osisID="esther.15.17" />valde enim mirabilis es domine et facies tua plena est gratiarum<verse eID="esther.15.17" />
+        <verse sID="esther.15.18" osisID="esther.15.18" />cumque loqueretur rursum corruit et paene exanimata est<verse eID="esther.15.18" />
+        <verse sID="esther.15.19" osisID="esther.15.19" />rex autem turbabatur et omnes ministri eius consolabantur eam<verse eID="esther.15.19" />
+      </p>
+      <chapter eID="esther.15" />
+      <chapter sID="esther.16" osisID="esther.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="esther.16.1" osisID="esther.16.1" />EXEMPLAR EPISTULAE REGIS ARTARXERSIS QUAM PRO IUDAEIS AD TOTAS REGNI SUI PROVINCIAS MISIT QUOD ET IPSUM IN HEBRAICO VOLUMINE NON HABETUR<verse eID="esther.16.1" />
+        <verse sID="esther.16.1" osisID="esther.16.1" />rex magnus Artarxerses ab India usque Aethiopiam centum viginti septem provinciarum ducibus ac principibus qui nostrae oboediunt iussioni salutem dicit<verse eID="esther.16.1" />
+        <verse sID="esther.16.2" osisID="esther.16.2" />multi bonitate principum et honore qui in eos conlatus est abusi sunt in superbiam<verse eID="esther.16.2" />
+        <verse sID="esther.16.3" osisID="esther.16.3" />et non solum subiectos regibus nituntur opprimere sed datam sibi gloriam non ferentes in ipsos qui dederunt moliuntur insidias<verse eID="esther.16.3" />
+        <verse sID="esther.16.4" osisID="esther.16.4" />nec contenti sunt gratias non agere beneficiis et humanitatis in se iura violare sed Dei quoque cuncta cernentis arbitrantur se fugere posse sententiam<verse eID="esther.16.4" />
+        <verse sID="esther.16.5" osisID="esther.16.5" />et in tantum vesaniae proruperunt ut eos qui credita sibi officia diligenter observant et ita cuncta agunt ut omnium laude sint digni mendaciorum cuniculis conentur subvertere<verse eID="esther.16.5" />
+        <verse sID="esther.16.6" osisID="esther.16.6" />dum aures principum simplices et ex sua natura alios aestimantes callida fraude decipiunt<verse eID="esther.16.6" />
+        <verse sID="esther.16.7" osisID="esther.16.7" />quae res et ex veteribus probatur historiis et ex his quae geruntur cotidie quomodo malis quorundam suggestionibus regum studia depraventur<verse eID="esther.16.7" />
+        <verse sID="esther.16.8" osisID="esther.16.8" />unde providendum est paci omnium provinciarum<verse eID="esther.16.8" />
+        <verse sID="esther.16.9" osisID="esther.16.9" />nec putare debetis si diversa iubeamus ex animi nostri venire levitate sed pro qualitate et necessitate temporum ut reipublicae poscit utilitas ferre sententiam<verse eID="esther.16.9" />
+        <verse sID="esther.16.10" osisID="esther.16.10" />et ut manifestius quod dicimus intellegatis Aman filius Amadathi et animo et gente Macedo alienusque a Persarum sanguine et pietatem nostram sua crudelitate commaculans peregrinus susceptus a nobis est<verse eID="esther.16.10" />
+        <verse sID="esther.16.11" osisID="esther.16.11" />et tantam in se expertus humanitatem ut pater noster vocaretur et adoraretur ab omnibus post regem secundus<verse eID="esther.16.11" />
+        <verse sID="esther.16.12" osisID="esther.16.12" />qui in tantum arrogantiae tumore sublatus est ut regno nos privare niteretur et spiritu<verse eID="esther.16.12" />
+        <verse sID="esther.16.13" osisID="esther.16.13" />nam Mardocheum cuius fide et beneficiis vivimus et consortem regni nostri Hester cum omni gente sua novis quibusdam atque inauditis machinis expetivit in mortem<verse eID="esther.16.13" />
+        <verse sID="esther.16.14" osisID="esther.16.14" />hoc cogitans ut illis interfectis insidiaretur nostrae solitudini et regnum Persarum transferret in Macedonas<verse eID="esther.16.14" />
+        <verse sID="esther.16.15" osisID="esther.16.15" />nos autem a pessimo mortalium Iudaeos neci destinatos in nulla penitus culpa repperimus sed e contrario iustis utentes legibus<verse eID="esther.16.15" />
+        <verse sID="esther.16.16" osisID="esther.16.16" />et filios altissimi et maximi semperque viventis Dei cuius beneficio et patribus nostris et nobis regnum est traditum et usque hodie custoditur<verse eID="esther.16.16" />
+        <verse sID="esther.16.17" osisID="esther.16.17" />unde eas litteras quas sub nomine nostro ille direxerat sciatis esse irritas<verse eID="esther.16.17" />
+        <verse sID="esther.16.18" osisID="esther.16.18" />pro quo scelere ante portas huius urbis id est Susis et ipse qui machinatus est et omnis cognatio eius pendet in patibulis non nobis sed Deo ei reddente quod meruit<verse eID="esther.16.18" />
+        <verse sID="esther.16.19" osisID="esther.16.19" />hoc autem edictum quod nunc mittimus in cunctis urbibus proponatur ut liceat Iudaeis uti legibus suis<verse eID="esther.16.19" />
+        <verse sID="esther.16.20" osisID="esther.16.20" />quibus debetis esse adminiculo ut eos qui se ad necem eorum paraverant possint interficere tertiadecima die mensis duodecimi qui vocatur adar<verse eID="esther.16.20" />
+        <verse sID="esther.16.21" osisID="esther.16.21" />hanc enim diem omnipotens Deus maeroris et luctus eis vertit in gaudium<verse eID="esther.16.21" />
+        <verse sID="esther.16.22" osisID="esther.16.22" />unde et vos inter ceteros festos dies hanc habetote diem et celebrate eam cum omni laetitia ut et in posterum cognoscatur<verse eID="esther.16.22" />
+        <verse sID="esther.16.23" osisID="esther.16.23" />omnes qui fideliter Persis oboediunt dignam pro fide recipere mercedem qui autem insidiantur regno eorum perire pro scelere<verse eID="esther.16.23" />
+        <verse sID="esther.16.24" osisID="esther.16.24" />omnis autem provincia et civitas quae noluerit sollemnitatis huius esse particeps gladio et igne pereat et sic deleatur ut non solum hominibus sed etiam bestiis invia sit in sempiternum pro exemplo contemptus et inoboedientiae<verse eID="esther.16.24" />
+      </p>
+      <chapter eID="esther.16" />
+    </div>
+  </osisText>
+</osis>

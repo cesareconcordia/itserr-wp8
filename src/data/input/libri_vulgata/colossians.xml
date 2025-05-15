@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="colossians" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="colossians">
+        <title>colossians</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">colossians</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>colossians</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="colossians">
+      <title>colossians</title>
+      <chapter sID="colossians.1" osisID="colossians.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="colossians.1.1" osisID="colossians.1.1" />Paulus apostolus Christi Iesu per voluntatem Dei et Timotheus frater<verse eID="colossians.1.1" />
+        <verse sID="colossians.1.2" osisID="colossians.1.2" />his qui sunt Colossis sanctis et fidelibus fratribus in Christo Iesu gratia vobis et pax a Deo Patre nostro<verse eID="colossians.1.2" />
+        <verse sID="colossians.1.3" osisID="colossians.1.3" />gratias agimus Deo et Patri Domini nostri Iesu Christi semper pro vobis orantes<verse eID="colossians.1.3" />
+        <verse sID="colossians.1.4" osisID="colossians.1.4" />audientes fidem vestram in Christo Iesu et dilectionem quam habetis in sanctos omnes<verse eID="colossians.1.4" />
+        <verse sID="colossians.1.5" osisID="colossians.1.5" />propter spem quae reposita est vobis in caelis quam audistis in verbo veritatis evangelii<verse eID="colossians.1.5" />
+        <verse sID="colossians.1.6" osisID="colossians.1.6" />quod pervenit ad vos sicut et in universo mundo est et fructificat et crescit sicut in vobis ex ea die qua audistis et cognovistis gratiam Dei in veritate<verse eID="colossians.1.6" />
+        <verse sID="colossians.1.7" osisID="colossians.1.7" />sicut didicistis ab Epaphra carissimo conservo nostro qui est fidelis pro vobis minister Christi Iesu<verse eID="colossians.1.7" />
+        <verse sID="colossians.1.8" osisID="colossians.1.8" />qui etiam manifestavit nobis dilectionem vestram in Spiritu<verse eID="colossians.1.8" />
+        <verse sID="colossians.1.9" osisID="colossians.1.9" />ideo et nos ex qua die audivimus non cessamus pro vobis orantes et postulantes ut impleamini agnitione voluntatis eius in omni sapientia et intellectu spiritali<verse eID="colossians.1.9" />
+        <verse sID="colossians.1.10" osisID="colossians.1.10" />ut ambuletis digne Deo per omnia placentes in omni opere bono fructificantes et crescentes in scientia Dei<verse eID="colossians.1.10" />
+        <verse sID="colossians.1.11" osisID="colossians.1.11" />in omni virtute confortati secundum potentiam claritatis eius in omni patientia et longanimitate cum gaudio<verse eID="colossians.1.11" />
+        <verse sID="colossians.1.12" osisID="colossians.1.12" />gratias agentes Patri qui dignos nos fecit in partem sortis sanctorum in lumine<verse eID="colossians.1.12" />
+        <verse sID="colossians.1.13" osisID="colossians.1.13" />qui eripuit nos de potestate tenebrarum et transtulit in regnum Filii dilectionis suae<verse eID="colossians.1.13" />
+        <verse sID="colossians.1.14" osisID="colossians.1.14" />in quo habemus redemptionem remissionem peccatorum<verse eID="colossians.1.14" />
+        <verse sID="colossians.1.15" osisID="colossians.1.15" />qui est imago Dei invisibilis primogenitus omnis creaturae<verse eID="colossians.1.15" />
+        <verse sID="colossians.1.16" osisID="colossians.1.16" />quia in ipso condita sunt universa in caelis et in terra visibilia et invisibilia sive throni sive dominationes sive principatus sive potestates omnia per ipsum et in ipso creata sunt<verse eID="colossians.1.16" />
+        <verse sID="colossians.1.17" osisID="colossians.1.17" />et ipse est ante omnes et omnia in ipso constant<verse eID="colossians.1.17" />
+        <verse sID="colossians.1.18" osisID="colossians.1.18" />et ipse est caput corporis ecclesiae qui est principium primogenitus ex mortuis ut sit in omnibus ipse primatum tenens<verse eID="colossians.1.18" />
+        <verse sID="colossians.1.19" osisID="colossians.1.19" />quia in ipso conplacuit omnem plenitudinem habitare<verse eID="colossians.1.19" />
+        <verse sID="colossians.1.20" osisID="colossians.1.20" />et per eum reconciliare omnia in ipsum pacificans per sanguinem crucis eius sive quae in terris sive quae in caelis sunt<verse eID="colossians.1.20" />
+        <verse sID="colossians.1.21" osisID="colossians.1.21" />et vos cum essetis aliquando alienati et inimici sensu in operibus malis<verse eID="colossians.1.21" />
+        <verse sID="colossians.1.22" osisID="colossians.1.22" />nunc autem reconciliavit in corpore carnis eius per mortem exhibere vos sanctos et inmaculatos et inreprehensibiles coram ipso<verse eID="colossians.1.22" />
+        <verse sID="colossians.1.23" osisID="colossians.1.23" />si tamen permanetis in fide fundati et stabiles et inmobiles ab spe evangelii quod audistis quod praedicatum est in universa creatura quae sub caelo est cuius factus sum ego Paulus minister<verse eID="colossians.1.23" />
+        <verse sID="colossians.1.24" osisID="colossians.1.24" />qui nunc gaudeo in passionibus pro vobis et adimpleo ea quae desunt passionum Christi in carne mea pro corpore eius quod est ecclesia<verse eID="colossians.1.24" />
+        <verse sID="colossians.1.25" osisID="colossians.1.25" />cuius factus sum ego minister secundum dispensationem Dei quae data est mihi in vos ut impleam verbum Dei<verse eID="colossians.1.25" />
+        <verse sID="colossians.1.26" osisID="colossians.1.26" />mysterium quod absconditum fuit a saeculis et generationibus nunc autem manifestatum est sanctis eius<verse eID="colossians.1.26" />
+        <verse sID="colossians.1.27" osisID="colossians.1.27" />quibus voluit Deus notas facere divitias gloriae sacramenti huius in gentibus quod est Christus in vobis spes gloriae<verse eID="colossians.1.27" />
+        <verse sID="colossians.1.28" osisID="colossians.1.28" />quem nos adnuntiamus corripientes omnem hominem et docentes omnem hominem in omni sapientia ut exhibeamus omnem hominem perfectum in Christo Iesu<verse eID="colossians.1.28" />
+        <verse sID="colossians.1.29" osisID="colossians.1.29" />in quo et laboro certando secundum operationem eius quam operatur in me in virtute<verse eID="colossians.1.29" />
+      </p>
+      <chapter eID="colossians.1" />
+      <chapter sID="colossians.2" osisID="colossians.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="colossians.2.1" osisID="colossians.2.1" />volo enim vos scire qualem sollicitudinem habeam pro vobis et pro his qui sunt Laodiciae et quicumque non viderunt faciem meam in carne<verse eID="colossians.2.1" />
+        <verse sID="colossians.2.2" osisID="colossians.2.2" />ut consolentur corda ipsorum instructi in caritate et in omnes divitias plenitudinis intellectus in agnitionem mysterii Dei Patris Christi Iesu<verse eID="colossians.2.2" />
+        <verse sID="colossians.2.3" osisID="colossians.2.3" />in quo sunt omnes thesauri sapientiae et scientiae absconditi<verse eID="colossians.2.3" />
+        <verse sID="colossians.2.4" osisID="colossians.2.4" />hoc autem dico ut nemo vos decipiat in subtilitate sermonum<verse eID="colossians.2.4" />
+        <verse sID="colossians.2.5" osisID="colossians.2.5" />nam et si corpore absens sum sed spiritu vobiscum sum gaudens et videns ordinem vestrum et firmamentum eius quae in Christo est fidei vestrae<verse eID="colossians.2.5" />
+        <verse sID="colossians.2.6" osisID="colossians.2.6" />sicut ergo accepistis Christum Iesum Dominum in ipso ambulate<verse eID="colossians.2.6" />
+        <verse sID="colossians.2.7" osisID="colossians.2.7" />radicati et superaedificati in ipso et confirmati fide sicut et didicistis abundantes in gratiarum actione<verse eID="colossians.2.7" />
+        <verse sID="colossians.2.8" osisID="colossians.2.8" />videte ne quis vos decipiat per philosophiam et inanem fallaciam secundum traditionem hominum secundum elementa mundi et non secundum Christum<verse eID="colossians.2.8" />
+        <verse sID="colossians.2.9" osisID="colossians.2.9" />quia in ipso inhabitat omnis plenitudo divinitatis corporaliter<verse eID="colossians.2.9" />
+        <verse sID="colossians.2.10" osisID="colossians.2.10" />et estis in illo repleti qui est caput omnis principatus et potestatis<verse eID="colossians.2.10" />
+        <verse sID="colossians.2.11" osisID="colossians.2.11" />in quo et circumcisi estis circumcisione non manufacta in expoliatione corporis carnis in circumcisione Christi<verse eID="colossians.2.11" />
+        <verse sID="colossians.2.12" osisID="colossians.2.12" />consepulti ei in baptismo in quo et resurrexistis per fidem operationis Dei qui suscitavit illum a mortuis<verse eID="colossians.2.12" />
+        <verse sID="colossians.2.13" osisID="colossians.2.13" />et vos cum mortui essetis in delictis et praeputio carnis vestrae convivificavit cum illo donans vobis omnia delicta<verse eID="colossians.2.13" />
+        <verse sID="colossians.2.14" osisID="colossians.2.14" />delens quod adversum nos erat chirografum decretis quod erat contrarium nobis et ipsum tulit de medio adfigens illud cruci<verse eID="colossians.2.14" />
+        <verse sID="colossians.2.15" osisID="colossians.2.15" />expolians principatus et potestates traduxit palam triumphans illos in semet ipso<verse eID="colossians.2.15" />
+        <verse sID="colossians.2.16" osisID="colossians.2.16" />nemo ergo vos iudicet in cibo aut in potu aut in parte diei festi aut neomeniae aut sabbatorum<verse eID="colossians.2.16" />
+        <verse sID="colossians.2.17" osisID="colossians.2.17" />quae sunt umbra futurorum corpus autem Christi<verse eID="colossians.2.17" />
+        <verse sID="colossians.2.18" osisID="colossians.2.18" />nemo vos seducat volens in humilitate et religione angelorum quae non vidit ambulans frustra inflatus sensu carnis suae<verse eID="colossians.2.18" />
+        <verse sID="colossians.2.19" osisID="colossians.2.19" />et non tenens caput ex quo totum corpus per nexus et coniunctiones subministratum et constructum crescit in augmentum Dei<verse eID="colossians.2.19" />
+        <verse sID="colossians.2.20" osisID="colossians.2.20" />si mortui estis cum Christo ab elementis mundi quid adhuc tamquam viventes in mundo decernitis<verse eID="colossians.2.20" />
+        <verse sID="colossians.2.21" osisID="colossians.2.21" />ne tetigeris neque gustaveris neque contrectaveris<verse eID="colossians.2.21" />
+        <verse sID="colossians.2.22" osisID="colossians.2.22" />quae sunt omnia in interitu ipso usu secundum praecepta et doctrinas hominum<verse eID="colossians.2.22" />
+        <verse sID="colossians.2.23" osisID="colossians.2.23" />quae sunt rationem quidem habentia sapientiae in superstitione et humilitate et ad non parcendum corpori non in honore aliquo ad saturitatem carnis<verse eID="colossians.2.23" />
+      </p>
+      <chapter eID="colossians.2" />
+      <chapter sID="colossians.3" osisID="colossians.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="colossians.3.1" osisID="colossians.3.1" />igitur si conresurrexistis Christo quae sursum sunt quaerite ubi Christus est in dextera Dei sedens<verse eID="colossians.3.1" />
+        <verse sID="colossians.3.2" osisID="colossians.3.2" />quae sursum sunt sapite non quae supra terram<verse eID="colossians.3.2" />
+        <verse sID="colossians.3.3" osisID="colossians.3.3" />mortui enim estis et vita vestra abscondita est cum Christo in Deo<verse eID="colossians.3.3" />
+        <verse sID="colossians.3.4" osisID="colossians.3.4" />cum Christus apparuerit vita vestra tunc et vos apparebitis cum ipso in gloria<verse eID="colossians.3.4" />
+        <verse sID="colossians.3.5" osisID="colossians.3.5" />mortificate ergo membra vestra quae sunt super terram fornicationem inmunditiam libidinem concupiscentiam malam et avaritiam quae est simulacrorum servitus<verse eID="colossians.3.5" />
+        <verse sID="colossians.3.6" osisID="colossians.3.6" />propter quae venit ira Dei super filios incredulitatis<verse eID="colossians.3.6" />
+        <verse sID="colossians.3.7" osisID="colossians.3.7" />in quibus et vos ambulastis aliquando cum viveretis in illis<verse eID="colossians.3.7" />
+        <verse sID="colossians.3.8" osisID="colossians.3.8" />nunc autem deponite et vos omnia iram indignationem malitiam blasphemiam turpem sermonem de ore vestro<verse eID="colossians.3.8" />
+        <verse sID="colossians.3.9" osisID="colossians.3.9" />nolite mentiri invicem expoliantes vos veterem hominem cum actibus eius<verse eID="colossians.3.9" />
+        <verse sID="colossians.3.10" osisID="colossians.3.10" />et induentes novum eum qui renovatur in agnitionem secundum imaginem eius qui creavit eum<verse eID="colossians.3.10" />
+        <verse sID="colossians.3.11" osisID="colossians.3.11" />ubi non est gentilis et Iudaeus circumcisio et praeputium barbarus et Scytha servus et liber sed omnia et in omnibus Christus<verse eID="colossians.3.11" />
+        <verse sID="colossians.3.12" osisID="colossians.3.12" />induite vos ergo sicut electi Dei sancti et dilecti viscera misericordiae benignitatem humilitatem modestiam patientiam<verse eID="colossians.3.12" />
+        <verse sID="colossians.3.13" osisID="colossians.3.13" />subportantes invicem et donantes vobis ipsis si quis adversus aliquem habet querellam sicut et Dominus donavit vobis ita et vos<verse eID="colossians.3.13" />
+        <verse sID="colossians.3.14" osisID="colossians.3.14" />super omnia autem haec caritatem quod est vinculum perfectionis<verse eID="colossians.3.14" />
+        <verse sID="colossians.3.15" osisID="colossians.3.15" />et pax Christi exultet in cordibus vestris in qua et vocati estis in uno corpore et grati estote<verse eID="colossians.3.15" />
+        <verse sID="colossians.3.16" osisID="colossians.3.16" />verbum Christi habitet in vobis abundanter in omni sapientia docentes et commonentes vosmet ipsos psalmis hymnis canticis spiritalibus in gratia cantantes in cordibus vestris Deo<verse eID="colossians.3.16" />
+        <verse sID="colossians.3.17" osisID="colossians.3.17" />omne quodcumque facitis in verbo aut in opere omnia in nomine Domini Iesu gratias agentes Deo et Patri per ipsum<verse eID="colossians.3.17" />
+        <verse sID="colossians.3.18" osisID="colossians.3.18" />mulieres subditae estote viris sicut oportet in Domino<verse eID="colossians.3.18" />
+        <verse sID="colossians.3.19" osisID="colossians.3.19" />viri diligite uxores et nolite amari esse ad illas<verse eID="colossians.3.19" />
+        <verse sID="colossians.3.20" osisID="colossians.3.20" />filii oboedite parentibus per omnia hoc enim placitum est in Domino<verse eID="colossians.3.20" />
+        <verse sID="colossians.3.21" osisID="colossians.3.21" />patres nolite ad indignationem provocare filios vestros ut non pusillo animo fiant<verse eID="colossians.3.21" />
+        <verse sID="colossians.3.22" osisID="colossians.3.22" />servi oboedite per omnia dominis carnalibus non ad oculum servientes quasi hominibus placentes sed in simplicitate cordis timentes Dominum<verse eID="colossians.3.22" />
+        <verse sID="colossians.3.23" osisID="colossians.3.23" />quodcumque facitis ex animo operamini sicut Domino et non hominibus<verse eID="colossians.3.23" />
+        <verse sID="colossians.3.24" osisID="colossians.3.24" />scientes quod a Domino accipietis retributionem hereditatis Domino Christo servite<verse eID="colossians.3.24" />
+        <verse sID="colossians.3.25" osisID="colossians.3.25" />qui enim iniuriam facit recipiet id quod inique gessit et non est personarum acceptio<verse eID="colossians.3.25" />
+      </p>
+      <chapter eID="colossians.3" />
+      <chapter sID="colossians.4" osisID="colossians.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="colossians.4.1" osisID="colossians.4.1" />domini quod iustum est et aequum servis praestate scientes quoniam et vos Dominum habetis in caelo<verse eID="colossians.4.1" />
+        <verse sID="colossians.4.2" osisID="colossians.4.2" />orationi instate vigilantes in ea in gratiarum actione<verse eID="colossians.4.2" />
+        <verse sID="colossians.4.3" osisID="colossians.4.3" />orantes simul et pro nobis ut Deus aperiat nobis ostium sermonis ad loquendum mysterium Christi propter quod etiam vinctus sum<verse eID="colossians.4.3" />
+        <verse sID="colossians.4.4" osisID="colossians.4.4" />ut manifestem illud ita ut oportet me loqui<verse eID="colossians.4.4" />
+        <verse sID="colossians.4.5" osisID="colossians.4.5" />in sapientia ambulate ad eos qui foris sunt tempus redimentes<verse eID="colossians.4.5" />
+        <verse sID="colossians.4.6" osisID="colossians.4.6" />sermo vester semper in gratia sale sit conditus ut sciatis quomodo oporteat vos unicuique respondere<verse eID="colossians.4.6" />
+        <verse sID="colossians.4.7" osisID="colossians.4.7" />quae circa me sunt omnia vobis nota faciet Tychicus carissimus frater et fidelis minister et conservus in Domino<verse eID="colossians.4.7" />
+        <verse sID="colossians.4.8" osisID="colossians.4.8" />quem misi ad vos ad hoc ipsum ut cognoscat quae circa vos sunt et consoletur corda vestra<verse eID="colossians.4.8" />
+        <verse sID="colossians.4.9" osisID="colossians.4.9" />cum Onesimo carissimo et fideli fratre qui est ex vobis omnia quae hic aguntur nota facient vobis<verse eID="colossians.4.9" />
+        <verse sID="colossians.4.10" osisID="colossians.4.10" />salutat vos Aristarchus concaptivus meus et Marcus consobrinus Barnabae de quo accepistis mandata si venerit ad vos excipite illum<verse eID="colossians.4.10" />
+        <verse sID="colossians.4.11" osisID="colossians.4.11" />et Iesus qui dicitur Iustus qui sunt ex circumcisione hii soli sunt adiutores in regno Dei qui mihi fuerunt solacio<verse eID="colossians.4.11" />
+        <verse sID="colossians.4.12" osisID="colossians.4.12" />salutat vos Epaphras qui ex vobis est servus Christi Iesu semper sollicitus pro vobis in orationibus ut stetis perfecti et pleni in omni voluntate Dei<verse eID="colossians.4.12" />
+        <verse sID="colossians.4.13" osisID="colossians.4.13" />testimonium enim illi perhibeo quod habet multum laborem pro vobis et pro his qui sunt Laodiciae et qui Hierapoli<verse eID="colossians.4.13" />
+        <verse sID="colossians.4.14" osisID="colossians.4.14" />salutat vos Lucas medicus carissimus et Demas<verse eID="colossians.4.14" />
+        <verse sID="colossians.4.15" osisID="colossians.4.15" />salutate fratres qui sunt Laodiciae et Nympham et quae in domo eius est ecclesiam<verse eID="colossians.4.15" />
+        <verse sID="colossians.4.16" osisID="colossians.4.16" />et cum lecta fuerit apud vos epistula facite ut et in Laodicensium ecclesia legatur et eam quae Laodicensium est vos legatis<verse eID="colossians.4.16" />
+        <verse sID="colossians.4.17" osisID="colossians.4.17" />et dicite Archippo vide ministerium quod accepisti in Domino ut illud impleas<verse eID="colossians.4.17" />
+        <verse sID="colossians.4.18" osisID="colossians.4.18" />salutatio mea manu Pauli memores estote vinculorum meorum gratia vobiscum amen<verse eID="colossians.4.18" />
+      </p>
+      <chapter eID="colossians.4" />
+    </div>
+  </osisText>
+</osis>

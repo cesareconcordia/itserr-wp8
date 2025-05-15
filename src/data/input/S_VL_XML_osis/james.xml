@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="james" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="james">
+        <title>James</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">james</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>James</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="james">
+      <title>James</title>
+      <chapter sID="james.1" osisID="james.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="james.1.1" osisID="james.1.1" />IACOBUS Dei et Domini Iesu Christi servus, xii.* tribubus, quae sunt in dispersione, salutem.<verse eID="james.1.1" />
+        <verse sID="james.1.2" osisID="james.1.2" />Omne gaudium existimate fratres mei, quando in varias tentationes incurritis:<verse eID="james.1.2" />
+        <verse sID="james.1.3" osisID="james.1.3" />scientes quod probatio vestra operatur sufferentiam.<verse eID="james.1.3" />
+        <verse sID="james.1.4" osisID="james.1.4" />Sufferentia autem opus consummatum habeat: ut sitis consummati, et integri, in nullo deficientes.<verse eID="james.1.4" />
+        <verse sID="james.1.5" osisID="james.1.5" />Et si cui vestrum deest sapientia, petat a Deo : quia dat omnibus simpliciter, et non improperat: et dabitur illi.<verse eID="james.1.5" />
+        <verse sID="james.1.6" osisID="james.1.6" />Petat autem in fide nihil dubitans: qui autem dubitat, similis est fluctui maris, qui a vento fertur, et defertur:<verse eID="james.1.6" />
+        <verse sID="james.1.7" osisID="james.1.7" />nec speret se homo ille, quoniam accipiet aliquid a Domino.<verse eID="james.1.7" />
+        <verse sID="james.1.8" osisID="james.1.8" />Homo duplici corde, inconstans in omnibus viis suis.<verse eID="james.1.8" />
+        <verse sID="james.1.9" osisID="james.1.9" />Glorietur autem frater humilis in altitudine sua;<verse eID="james.1.9" />
+        <verse sID="james.1.10" osisID="james.1.10" />locuples autem in humilitate sua, quoniam sicut flos foeni transiet:<verse eID="james.1.10" />
+        <verse sID="james.1.11" osisID="james.1.11" />orietur enim sol cum aestu suo, et siccat foenum, et flos eius cadit, et dignitas faciei ipsius perit: sic et locuples in actu suo marcessit.<verse eID="james.1.11" />
+        <verse sID="james.1.12" osisID="james.1.12" />Beatus vir, qui sustinuerit tentationem: quoniam probatus factus, accipiet coronam vitae, quam promittit eis, qui eum diligunt.<verse eID="james.1.12" />
+        <verse sID="james.1.13" osisID="james.1.13" />Nemo qui tentatur, dicat, quoniam a Deo tentatur: Deus autem malorum tentator non est: tentat ipse neminem.<verse eID="james.1.13" />
+        <verse sID="james.1.14" osisID="james.1.14" />Unusquisque autem tentatur a sua concupiscentia, abducitur , et eliditur.<verse eID="james.1.14" />
+        <verse sID="james.1.15" osisID="james.1.15" />Deinde concupiscentia concipit, et parit peccatum: peccatum autem consummatum adquirit mortem.<verse eID="james.1.15" />
+        <verse sID="james.1.16" osisID="james.1.16" />Nolite errare fratres mei dilecti.<verse eID="james.1.16" />
+        <verse sID="james.1.17" osisID="james.1.17" />Omnis datio bona, et omne donum perfectum, desursum descendit a Patre luminum, apud quem non est permutatio, vel modicum obumbrationis.<verse eID="james.1.17" />
+        <verse sID="james.1.18" osisID="james.1.18" />Volens peperit nos verbo veritatis, ut simus primitiae conditionum eius.<verse eID="james.1.18" />
+        <verse sID="james.1.19" osisID="james.1.19" />Scitote fratres mei dilecti. Sit autem omnis homo velox ad audiendum; tardus autem ad loquendum, tardus autem ad iracundiam.<verse eID="james.1.19" />
+        <verse sID="james.1.20" osisID="james.1.20" />Iracundia enim viri, iustitiam Dei non operatur.<verse eID="james.1.20" />
+        <verse sID="james.1.21" osisID="james.1.21" />Et ideo * exponentes omnes sordes, et abundantiam malitiae, per clementiam excipite genitum verbum, qui potest salvare animas vestras.<verse eID="james.1.21" />
+        <verse sID="james.1.22" osisID="james.1.22" />Estote autem factores verbi, et non auditores tantum, aliter consiliantes.<verse eID="james.1.22" />
+        <verse sID="james.1.23" osisID="james.1.23" />Quia si quis auditor verbi est, et non factor: hic est similis homini respicienti faciem natalis sui in speculo:<verse eID="james.1.23" />
+        <verse sID="james.1.24" osisID="james.1.24" />aspexit se, et recessit, et in continenti oblitus est qualis erat.<verse eID="james.1.24" />
+        <verse sID="james.1.25" osisID="james.1.25" />Qui autem respexit in legem consummatam libertatis, et perseverans, non audiens oblivionis factus, sed factor operum: hic beatus erit in operibus suis.<verse eID="james.1.25" />
+        <verse sID="james.1.26" osisID="james.1.26" />Si quis autem putat se religiosum esse, non infraenans linguam suam, sed fallens cor suum, huius vana est religio.<verse eID="james.1.26" />
+        <verse sID="james.1.27" osisID="james.1.27" />Religio autem munda, et immaculata apud Dominum, haec est: Visitare orphanos, et viduas in tribulatione eorum, servare se sine macula a saeculo.<verse eID="james.1.27" />
+      </p>
+      <chapter eID="james.1" />
+      <chapter sID="james.2" osisID="james.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="james.2.1" osisID="james.2.1" />Fratres mei, nolite in acceptione personarum habere fidem Domini nostri Iesu Christi * honoris.<verse eID="james.2.1" />
+        <verse sID="james.2.2" osisID="james.2.2" />Si autem intraverit in synagogam vestram homo annulos aureos in digitos habens in veste splendida, intret autem pauper in sordida veste<verse eID="james.2.2" />
+        <verse sID="james.2.3" osisID="james.2.3" />respiciatis autem* qui vestitus est veste candida, et dicatis: Tu hîc sede bene : et pauperi dicatis: Tu sta; aut sede illo sub scamello meo:<verse eID="james.2.3" />
+        <verse sID="james.2.4" osisID="james.2.4" />diiudicati estis inter vos, facti estis iudices cogitationum malarum.<verse eID="james.2.4" />
+        <verse sID="james.2.5" osisID="james.2.5" />Audite fratres mei dilecti, nonne Deus elegit pauperes saeculi, locupletes in fide, et haeeredes regni, quod expromisit diligentibus eum:<verse eID="james.2.5" />
+        <verse sID="james.2.6" osisID="james.2.6" />Vos autem frustratis pauperem. Nonne divites potentantur in vobis, et ipsi vos tradunt ad iudicia?<verse eID="james.2.6" />
+        <verse sID="james.2.7" osisID="james.2.7" />Nonne ipsi blasphemant in bono nomine, quod vocitum est in vobis?<verse eID="james.2.7" />
+        <verse sID="james.2.8" osisID="james.2.8" />Si tamen lege consummamini* regali secundum Scripturam: Diliges proximum tuum tanquam te: bene facitis:<verse eID="james.2.8" />
+        <verse sID="james.2.9" osisID="james.2.9" />si autem personas accipitis, peccatum operamini, a lege traducti tanquam transgressores.<verse eID="james.2.9" />
+        <verse sID="james.2.10" osisID="james.2.10" />Qui enim totam legem servaverit, peccaverit autem in uno, factus est omnium reus.<verse eID="james.2.10" />
+        <verse sID="james.2.11" osisID="james.2.11" />Nam qui dixit, Non moechaberis, dixit et , Non occides. Si autem non moechaberis occideris autem, factus es transgressor legis.<verse eID="james.2.11" />
+        <verse sID="james.2.12" osisID="james.2.12" />Sic loquimini, et sic facite, quasi a lege liberalitatis iudicium sperantes.<verse eID="james.2.12" />
+        <verse sID="james.2.13" osisID="james.2.13" />Iudicium autem non miserebitur ei, qui non fecit misericordiam: supergloriatur autem misericordia iudicium.<verse eID="james.2.13" />
+        <verse sID="james.2.14" osisID="james.2.14" />Quid prodest fratres mei, si quis dicat se fidem habere, opera autem non habeat? Nunquid potest fides eum sola salvare?<verse eID="james.2.14" />
+        <verse sID="james.2.15" osisID="james.2.15" />Sive frater, sive soror nudi sint, et desit eis victus quotidianus.<verse eID="james.2.15" />
+        <verse sID="james.2.16" osisID="james.2.16" />dicat autem illis ex vestris aliquis: Vadite in pace, calidi estote , et satulli : non dederit autem illis alimentum corporis, quid et prodest?<verse eID="james.2.16" />
+        <verse sID="james.2.17" osisID="james.2.17" />Sic et fides, si non habeat opera, mortua est sola.<verse eID="james.2.17" />
+        <verse sID="james.2.18" osisID="james.2.18" />Sed dicet aliquis: Tu opera habes, ego fidem habeo: ostende mihi fidem sine operibus: et ego tibi de operibus fidem.<verse eID="james.2.18" />
+        <verse sID="james.2.19" osisID="james.2.19" />Tu credis quia unus Deus: Bene facis: et daemonia credunt, et contremiscunt.<verse eID="james.2.19" />
+        <verse sID="james.2.20" osisID="james.2.20" />Vis autem scire ô homo vacue, quoniam fides sine operibus vacua est?<verse eID="james.2.20" />
+        <verse sID="james.2.21" osisID="james.2.21" />Abranam pater noster, nonne ex operibus iustificatus est, offerens Isaac filium suum super aram?<verse eID="james.2.21" />
+        <verse sID="james.2.22" osisID="james.2.22" />Vides quoniam fides communicat cum operibus suis: et ex operibus fides confirmatur?<verse eID="james.2.22" />
+        <verse sID="james.2.23" osisID="james.2.23" />Et impleta est Scriptura, dicens: Credidit Abraham Domino, et aestimatum est ei ad iustitiam, et amicus Dei vocatus est.<verse eID="james.2.23" />
+        <verse sID="james.2.24" osisID="james.2.24" />Videtis quoniam ex operibus iustificatur homo, et non ex fide tantum?<verse eID="james.2.24" />
+        <verse sID="james.2.25" osisID="james.2.25" />Similiter et Raab fornicaria, nonne ex operibus iustificata est, cum suscepisset exploratores ex XII. tribus filiorum Israel, et per aliam viam eos eiecisset?<verse eID="james.2.25" />
+        <verse sID="james.2.26" osisID="james.2.26" />Sicut autem corpus sine spiritu mortuum est, sic fides sine opere mortua est.<verse eID="james.2.26" />
+      </p>
+      <chapter eID="james.2" />
+      <chapter sID="james.3" osisID="james.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="james.3.1" osisID="james.3.1" />Nolite multi magistri esse, fratres mei, scientes quoniam maius iudicium accipiemus.<verse eID="james.3.1" />
+        <verse sID="james.3.2" osisID="james.3.2" />Multa autem erramus omnes. Si quis in verbo non errat: hic errat consummatus vir: potens est se infrenare, et totum corpus.<verse eID="james.3.2" />
+        <verse sID="james.3.3" osisID="james.3.3" />Si autem equorum frenos in ora mittimus ut possint consentire, et totum corpus ipsorum convertimus.<verse eID="james.3.3" />
+        <verse sID="james.3.4" osisID="james.3.4" />Ecce et naves tam magnae fiunt, et a ventis tam validis feruntur, reguntur autem parvulo gubernaculo, et ubicunque diriguntur voluntate eorum, qui eas gubernant.<verse eID="james.3.4" />
+        <verse sID="james.3.5" osisID="james.3.5" />Sic et lingua parvulum membrum est, et magna gloriatur. Ecce pusillum ignis in quam magnam silvam incendium facit!<verse eID="james.3.5" />
+        <verse sID="james.3.6" osisID="james.3.6" />Et lingua ignis* saeculi iniquitatis. Lingua posita est in membris nostris, quae maculat totum corpus, et inflammat rotam nativitatis, et incenditur a gehenna.<verse eID="james.3.6" />
+        <verse sID="james.3.7" osisID="james.3.7" />Omnis autem natura bestiarum, sive volatilium, repentium, et natantium domatur, et domita est:<verse eID="james.3.7" />
+        <verse sID="james.3.8" osisID="james.3.8" />naturae autem humanae linguam nemo hominum domare potest: inconstans malum, plena veneno mortifero.<verse eID="james.3.8" />
+        <verse sID="james.3.9" osisID="james.3.9" />In ipsa benedicimus Dominum et Patrem: et per ipsam maledicimus homines, qui ad similitudinem Dei facti sunt.<verse eID="james.3.9" />
+        <verse sID="james.3.10" osisID="james.3.10" />Ex ipso ore exit benedictio , et maledictio. Non decet, fratres mei, haec sic fieri.<verse eID="james.3.10" />
+        <verse sID="james.3.11" osisID="james.3.11" />Nunquid fons ex uno foramine bullit dulcem, et salmacidum?<verse eID="james.3.11" />
+        <verse sID="james.3.12" osisID="james.3.12" />Nunquid potest, fratres mei, ficus olivas facere, aut vitis ficus? Sic nec salmacidum dulcem facere aquam.<verse eID="james.3.12" />
+        <verse sID="james.3.13" osisID="james.3.13" />Quis sapiens, et disciplinosus in vobis demonstrat de bona conversatione opera sua in sapientiae clementiam?<verse eID="james.3.13" />
+        <verse sID="james.3.14" osisID="james.3.14" />Si autem zelum amarum habetis, et contentionem in praecordiis vestris: quid alapamini mentientes contra veritatem?<verse eID="james.3.14" />
+        <verse sID="james.3.15" osisID="james.3.15" />non est sapientia quae descendit desursum; sed terrestris, animalis, daemonetica.<verse eID="james.3.15" />
+        <verse sID="james.3.16" osisID="james.3.16" />Ubi autem zelus et contentio: inconstans ibi et omne pravum negotium.<verse eID="james.3.16" />
+        <verse sID="james.3.17" osisID="james.3.17" />Dei autem sapientia, primum sancta est, deinde pacifica, et verecundiae consentiens, plena misericordiae, et fructuum bonorum, sine diiudicatione, irreprehensibilis, sine hypocrisi.<verse eID="james.3.17" />
+        <verse sID="james.3.18" osisID="james.3.18" />Fructus autem iustitiae, in pace seminatur, qui faciunt pacem.<verse eID="james.3.18" />
+      </p>
+      <chapter eID="james.3" />
+      <chapter sID="james.4" osisID="james.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="james.4.1" osisID="james.4.1" />Unde pugnae, et unde rixae in vobis? Nonne hinc? ex voluptatibus vestris, quae militant in membris vestris?<verse eID="james.4.1" />
+        <verse sID="james.4.2" osisID="james.4.2" />Concupiscitis, et non habetis: occiditis, et zelatis: et non potestis impetrare: rixatis, et pugnatis, et non haberis, propter quod non petitis.<verse eID="james.4.2" />
+        <verse sID="james.4.3" osisID="james.4.3" />Petitis, et non accipitis: propter hoc quod male petitis : ut in libidines vestras erogetis.<verse eID="james.4.3" />
+        <verse sID="james.4.4" osisID="james.4.4" />Fornicatores, nescitis quoniam amicitia saeculi, inimica Dei est? Quicunque ergo voluerit amicus saeculi esse, inimicus Dei perseverat.<verse eID="james.4.4" />
+        <verse sID="james.4.5" osisID="james.4.5" />Aut putatis quoniam* dicit scriptura: Ad invidiam convalescit spiritus, qui habitat in vobis?<verse eID="james.4.5" />
+        <verse sID="james.4.6" osisID="james.4.6" />Maiorem autem dat gratiam. Propter quod dicit: Deus superbis resistit,* humilibus autem dat gratiam.<verse eID="james.4.6" />
+        <verse sID="james.4.7" osisID="james.4.7" />Subditi estote Deo: resistite autem zabolo, et fugiet a vobis.<verse eID="james.4.7" />
+        <verse sID="james.4.8" osisID="james.4.8" />Accedite ad Dominum , et ipse ad vos * accedet. Mundate manus, peccatores: et sanctificate corda vestra, duplices corde.<verse eID="james.4.8" />
+        <verse sID="james.4.9" osisID="james.4.9" />Lugete, miseri, et plorate : risus vester in luctum convertatur, et gaudium in tristitiam.<verse eID="james.4.9" />
+        <verse sID="james.4.10" osisID="james.4.10" />Humiliate vos ante Dominum, et exaltabit vos.<verse eID="james.4.10" />
+        <verse sID="james.4.11" osisID="james.4.11" />Nolite retractare de alterutro * fratres. Qui retractat de fratre, et iudicat fratrem suum, retractat de lege, et iudicat legem. Si autem iudicas legem: non es factor legis, sed iudex.<verse eID="james.4.11" />
+        <verse sID="james.4.12" osisID="james.4.12" />Unus est legum positor, et iudex, qui potest salvare, et perdere.<verse eID="james.4.12" />
+        <verse sID="james.4.13" osisID="james.4.13" />Tu autem quis es, qui iudicas proximum: Iam nunc qui dicunt: Hodie, aut cras ibimus in illam civitatem, et faciemus ibi annum, et * negotiabimur, et lucrum faciemus:<verse eID="james.4.13" />
+        <verse sID="james.4.14" osisID="james.4.14" />qui ignoratis crastinum.<verse eID="james.4.14" />
+        <verse sID="james.4.15" osisID="james.4.15" />Quae autem vita vestra? momentum enim est, per modica visibilis, deinde et exterminata. Propter quod dicere vos oportet : Si Dominus voluerit, et vivemus, aut faciemus hoc, et illud.<verse eID="james.4.15" />
+        <verse sID="james.4.16" osisID="james.4.16" />Nunc autem gloriamini in superbia vestra. Omnis gloria talis, mala est.<verse eID="james.4.16" />
+        <verse sID="james.4.17" osisID="james.4.17" />Scientibus autem bonum facere, et non facientibus, peccatum illis est.<verse eID="james.4.17" />
+      </p>
+      <chapter eID="james.4" />
+      <chapter sID="james.5" osisID="james.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="james.5.1" osisID="james.5.1" />Iam nunc locupletes, plorate ululantes in miseriis vestris advenientibus.<verse eID="james.5.1" />
+        <verse sID="james.5.2" osisID="james.5.2" />Divitiae vestrae putrierunt, res vestrae* tinea vero.<verse eID="james.5.2" />
+        <verse sID="james.5.3" osisID="james.5.3" />Aurum vestrum, et argentum aeruginavit: et aerugo ipsorum erit vobis in testimonium, et manducabit carnes vestras tanquam ignis. Thesaurizastis et in novissimis diebus:<verse eID="james.5.3" />
+        <verse sID="james.5.4" osisID="james.5.4" />et ecce mercedes operariorum, qui araverunt in agris vestris, quod abnegastis, clamabunt: et voces, qui messi sunt, ad aures Domini sabaoth introierunt.<verse eID="james.5.4" />
+        <verse sID="james.5.5" osisID="james.5.5" />Fruiti estis super terram, et abusi estis: cibastis corda vestra in die occisionis.<verse eID="james.5.5" />
+        <verse sID="james.5.6" osisID="james.5.6" />Damnastis, et occidistis iustum, non resistit vobis.<verse eID="james.5.6" />
+        <verse sID="james.5.7" osisID="james.5.7" />Patientes ergo estote fratres, usque ad adventum Domini. Ecce agricola exspectat honoratum fructum terrae, patiens in ipso, usquequo accipiat matutinum, et serotinum fructum.<verse eID="james.5.7" />
+        <verse sID="james.5.8" osisID="james.5.8" />Et vos patientes estote, confortate praecordia vestra: quoniam adventus Domini adpropiavit.<verse eID="james.5.8" />
+        <verse sID="james.5.9" osisID="james.5.9" />Nolite ingemiscere fratres in alterutrum, ne in iudicium incidatis. Ecce iudex ante ianuam stat.<verse eID="james.5.9" />
+        <verse sID="james.5.10" osisID="james.5.10" />Accipite experimentum, fratres, de malis passionibus, et de patientia, Prophetas : qui locuti sunt in nomine Domini.<verse eID="james.5.10" />
+        <verse sID="james.5.11" osisID="james.5.11" />Ecce beatos dicimus qui sustinuerunt. Sufferentiam Iob audistis, et finem Domini vidistis, quoniam visceraliter Dominus misericors est.<verse eID="james.5.11" />
+        <verse sID="james.5.12" osisID="james.5.12" />Ante omnia autem, fratres mei, nolite iurare, neque per coelum, neque per terram, nec alterutrum iuramentum. Sit autem apud vos: Est, est : Non est, non est: ne in iudicium incidatis.<verse eID="james.5.12" />
+        <verse sID="james.5.13" osisID="james.5.13" />Anxiat ex vobis aliquis? oret: Hilaris est? psalmum dicat.<verse eID="james.5.13" />
+        <verse sID="james.5.14" osisID="james.5.14" />Et infirmus est aliquis in vobis? vocet presbyteros, et orent super ipsum, ungentes oleo in nomine Domini:<verse eID="james.5.14" />
+        <verse sID="james.5.15" osisID="james.5.15" />et oratio in fide salvabit laborantem, et suscitabit illum Dominus: et si peccata fecit, remittuntur ei.<verse eID="james.5.15" />
+        <verse sID="james.5.16" osisID="james.5.16" />Confitemini alterutrum peccata vestra, et orate pro alterutro, ut remittatur vobis: multum potest petitio iusti frequens.<verse eID="james.5.16" />
+        <verse sID="james.5.17" osisID="james.5.17" />Helias homo erat similis nobis: et oratione oravit ut non plueret, et non pluit in terra annis tribus, et mensibus sex.<verse eID="james.5.17" />
+        <verse sID="james.5.18" osisID="james.5.18" />Sed iterum oravit: et coelum dedit pluviam, et terra germinavit fructum suum.<verse eID="james.5.18" />
+        <verse sID="james.5.19" osisID="james.5.19" />Fratres mei, si quis ex vobis erraverit a veritate, et aliquis eum revocaverit:<verse eID="james.5.19" />
+        <verse sID="james.5.20" osisID="james.5.20" />qui revocaverit peccatorem de erroris via, salvat animam de morte sua, et operiet multitudinem peccati.<verse eID="james.5.20" />
+      </p>
+    </div>
+  </osisText>
+</osis>

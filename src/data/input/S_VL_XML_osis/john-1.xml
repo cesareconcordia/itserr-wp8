@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="john-1" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="john-1">
+        <title>John-1</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">john-1</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>John-1</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="john-1">
+      <title>John-1</title>
+      <chapter sID="john-1.1" osisID="john-1.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="john-1.1.1" osisID="john-1.1.1" />Quod erat ab initio, quod audivimus, et quod vidimus oculis nostris, et manus nostrae tractaverunt de verbo vitae:<verse eID="john-1.1.1" />
+        <verse sID="john-1.1.2" osisID="john-1.1.2" />et ipsa vita manifestata est, et vidimus, et testes sumus, et annuntiamus vobis vitam aeternam, quae erat apud Patrem, et manifestata est in nobis.<verse eID="john-1.1.2" />
+        <verse sID="john-1.1.3" osisID="john-1.1.3" />Quae ergo vidimus et audivimus, nunciamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Deo Patre, et Iesu Christo Filio eius.<verse eID="john-1.1.3" />
+        <verse sID="john-1.1.4" osisID="john-1.1.4" />Et haec scribimus vobis, ut gaudium vestrum sit plenum.<verse eID="john-1.1.4" />
+        <verse sID="john-1.1.5" osisID="john-1.1.5" />Et haec est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: Quia Deus lux est, et tenebrae in eo non sunt ullae.<verse eID="john-1.1.5" />
+        <verse sID="john-1.1.6" osisID="john-1.1.6" />Quod si dixerimus quia societatem habemus cum eo, et in tenebris ambulamus, mentimur, et non facimus veritatem.<verse eID="john-1.1.6" />
+        <verse sID="john-1.1.7" osisID="john-1.1.7" />Quod si in lumine ambulamus, sicut et ipse est in lumine; societatem habemus cum invicem et sanguis Iesu Christi, Filii eius, purgabit nos ab omni delicto.<verse eID="john-1.1.7" />
+        <verse sID="john-1.1.8" osisID="john-1.1.8" />Quod si dixerimus quia peccatum non habemus; nosmetipsos seducimus, et veritas in nobis non est.<verse eID="john-1.1.8" />
+        <verse sID="john-1.1.9" osisID="john-1.1.9" />Quod si confessi fuerimus delicta nostra; fidelis est, et iustus, ut dimittat nobis delicta nostra, et purget nos ex omni iniquitate.<verse eID="john-1.1.9" />
+        <verse sID="john-1.1.10" osisID="john-1.1.10" />Quod si dixerimus quia non peccavimus; mendacem facimus eum, et verbum eius non est nobis.<verse eID="john-1.1.10" />
+      </p>
+      <chapter eID="john-1.1" />
+      <chapter sID="john-1.2" osisID="john-1.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="john-1.2.1" osisID="john-1.2.1" />Filioli mei, haec scribo vobis, ut non peccetis. Et si quis peccaverit, advocatum habemus ad Patrem, Iesum Christum iustum:<verse eID="john-1.2.1" />
+        <verse sID="john-1.2.2" osisID="john-1.2.2" />et ipse propitiatio est peccatorum nostrorum; non tancum nostrorum, sed et totius mundi.<verse eID="john-1.2.2" />
+        <verse sID="john-1.2.3" osisID="john-1.2.3" />Et in hoc cognoscimus eum, si mandata eius servaverimus.<verse eID="john-1.2.3" />
+        <verse sID="john-1.2.4" osisID="john-1.2.4" />Qui dicit quia cognovit eum, et mandata eius non servat, mendax est, et in hoc veritas non est.<verse eID="john-1.2.4" />
+        <verse sID="john-1.2.5" osisID="john-1.2.5" />Qui autem servaverit verbum eius, vere in hoc perfecta est dilectio Dei: in hoc cognoscimus quia in ipso sumus, si in ipso perfecti fuerimus.<verse eID="john-1.2.5" />
+        <verse sID="john-1.2.6" osisID="john-1.2.6" />Qui dicit se in ipso manere, debet, sicut ipse ambulavit, et ipse ambulare.<verse eID="john-1.2.6" />
+        <verse sID="john-1.2.7" osisID="john-1.2.7" />Dilectissimi, non mandatum novum scribo vobis, sed mandatum vetus, quod habebatis ab initio: Mandatum vetus, est verbum quod audistis.<verse eID="john-1.2.7" />
+        <verse sID="john-1.2.8" osisID="john-1.2.8" />Iterum mandatum novum scribo vobis. quod est verum in ipso, et in vobis: quia tenebrae transierunt, et iux vera iam lucet.<verse eID="john-1.2.8" />
+        <verse sID="john-1.2.9" osisID="john-1.2.9" />Qui dicit se esse in lumine, et fratrem suum odit, in tenebris est usque adhuc.<verse eID="john-1.2.9" />
+        <verse sID="john-1.2.10" osisID="john-1.2.10" />Qui diligit fratrem suum, in lumine manet, et scandalum in eo non est.<verse eID="john-1.2.10" />
+        <verse sID="john-1.2.11" osisID="john-1.2.11" />Nam qui odit fratrem suum, in tenebris est, et in tenebris ambulat, et nescit quo eat : quoniam tenebrae excaecaverunt oculos eius.<verse eID="john-1.2.11" />
+        <verse sID="john-1.2.12" osisID="john-1.2.12" />Scribo vobis, filioli, quia remittuntur vobis peccata per nomen eius.<verse eID="john-1.2.12" />
+        <verse sID="john-1.2.13" osisID="john-1.2.13" />Scribo vobis, patres, quia cognovistis eum qui a principio est. Scribo vobis, iuvenes, quia vicistis malignum.<verse eID="john-1.2.13" />
+        <verse sID="john-1.2.14" osisID="john-1.2.14" />Scribo vobis, pueri, quia cognotivistis patrem. Scribo vobis, patres, quia cognovistis eum, qui a principio est. Scribo vobis, iuvenes, quia fortes estis, et verbum Dei in vobis manet, et vicistis malignum.<verse eID="john-1.2.14" />
+        <verse sID="john-1.2.15" osisID="john-1.2.15" />Nolite diligere mundum, neque ea, quae sunt in mundo. Si quis dilexerit mundum, dilectio Patris non est in ipso:<verse eID="john-1.2.15" />
+        <verse sID="john-1.2.16" osisID="john-1.2.16" />quia omne, quod in mundo est , desiderium est carnis, et desiderium oculorum, et ambitio saeculi: quae non sunt ex Patre, sed ex mundo sunt.<verse eID="john-1.2.16" />
+        <verse sID="john-1.2.17" osisID="john-1.2.17" />Et mundus transit, et desideria eius. Qui autem fecerit voluntatem Dei, manet in aeternum, sicut et ipse manet in aeternum.<verse eID="john-1.2.17" />
+        <verse sID="john-1.2.18" osisID="john-1.2.18" />Pueri, novissima hora est: et sicut audistis quod Antichristus sit venturus, nunc Antichristi multi facti sunt: unde cognoscimus, quod novissima sit hora.<verse eID="john-1.2.18" />
+        <verse sID="john-1.2.19" osisID="john-1.2.19" />Ex nobis exierunt, sed non erant ex nobis: quod si fuissent ex nobis, permansissent utique nobiscum: sed ut manifestarentur quod non omnes erant ex nobis.<verse eID="john-1.2.19" />
+        <verse sID="john-1.2.20" osisID="john-1.2.20" />Et vos unctionem habetis a Sancto, ut ipsi vobis manifesti sitis.<verse eID="john-1.2.20" />
+        <verse sID="john-1.2.21" osisID="john-1.2.21" />Scribo vobis, non quod nescieritis veritatem, sed quia nostis eam: et quia omne mendacium non ess ex veritate.<verse eID="john-1.2.21" />
+        <verse sID="john-1.2.22" osisID="john-1.2.22" />Quis est mendax, nisi is, qui negat quod Iesus non est Christus?<verse eID="john-1.2.22" />
+        <verse sID="john-1.2.23" osisID="john-1.2.23" />Omnis, qui negat Filium, nec Filium, nec Patrem habet: et qui confitetur Filium, et Filium, et Patrem habet.<verse eID="john-1.2.23" />
+        <verse sID="john-1.2.24" osisID="john-1.2.24" />Ergo vos quod ab initio audistis, in vobis maneat: Quod si in vobis manserit quod ab initio audistis, et vos in Filio, et Patre manebitis.<verse eID="john-1.2.24" />
+        <verse sID="john-1.2.25" osisID="john-1.2.25" />Haec est pollicitatio, quam ipse pollicitus est nobis, vitam aeternam.<verse eID="john-1.2.25" />
+        <verse sID="john-1.2.26" osisID="john-1.2.26" />Haec scripsi vobis de his, qui vos seducunt:<verse eID="john-1.2.26" />
+        <verse sID="john-1.2.27" osisID="john-1.2.27" />ut sciatis quia unctionem habetis, et unctio quam accepimus ab eo, permaneat in nobis. Et non habetis necessitatem ut aliquis vos doceat: quia unctio ipsius docet vos de omnibus, et verax est, et non est mendax. Sicut docuit vos : permanete in ipsa.<verse eID="john-1.2.27" />
+        <verse sID="john-1.2.28" osisID="john-1.2.28" />Et nunc filioli manete in eo: ut cum manifestatus fuerit, habeamus fiduciam in conspectu eius, ut non confundamur ab eo in adventu eius.<verse eID="john-1.2.28" />
+        <verse sID="john-1.2.29" osisID="john-1.2.29" />Si scitis quia iustus est, scitote quia omnis, qui facit iustitiam, ex ipso est natus.<verse eID="john-1.2.29" />
+      </p>
+      <chapter eID="john-1.2" />
+      <chapter sID="john-1.3" osisID="john-1.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="john-1.3.1" osisID="john-1.3.1" />Ecce qualem dilectionem dedit nobis Pater, ut filii Dei vocemur et simus. Propter hoc mundus non cognoscit nos: quia non cognovit eum, et nos non cognoscit mundus.<verse eID="john-1.3.1" />
+        <verse sID="john-1.3.2" osisID="john-1.3.2" />Dilectissimi, nunc filii Dei sumus: et nondum manifestatum est quid erimus. Scimus quia cum apparuerit, similes ei erimus: quoniam videbimus eum sicuti est.<verse eID="john-1.3.2" />
+        <verse sID="john-1.3.3" osisID="john-1.3.3" />Et omnis, qui habet spem hanc in ipso, castificat semetipsum, sicut et ipse castus est.<verse eID="john-1.3.3" />
+        <verse sID="john-1.3.4" osisID="john-1.3.4" />Omnis, qui facit peccatum, et iniquitatem facit: peccatum est iniquitas.<verse eID="john-1.3.4" />
+        <verse sID="john-1.3.5" osisID="john-1.3.5" />Et scitis quia ille manifestatus est ut peccatum auferat: et peccatum in ipso non est.<verse eID="john-1.3.5" />
+        <verse sID="john-1.3.6" osisID="john-1.3.6" />Omnis, qui in ipso manet, non peccat: et omnis, qui peccat, non vidit eum, neque cognovit eum.<verse eID="john-1.3.6" />
+        <verse sID="john-1.3.7" osisID="john-1.3.7" />Filioli, nemo vos seducat. Qui facit iustitiam, iustus est: sicut et ille iustus est.<verse eID="john-1.3.7" />
+        <verse sID="john-1.3.8" osisID="john-1.3.8" />Qui facit peccatum, de diabolo est: quia ab initio diabolus peccat. In hoc manifestatus est Filius Dei, ut solvat opera diaboli.<verse eID="john-1.3.8" />
+        <verse sID="john-1.3.9" osisID="john-1.3.9" />Omnis, qui natus est ex Deo, non peccat: quia semen eius in ipso manet, et non potest peccare, quia ex Deo natus est.<verse eID="john-1.3.9" />
+        <verse sID="john-1.3.10" osisID="john-1.3.10" />In hoc manifestati sunt filii Dei, et filii diaboli. Omnis, qui non est iustus, non est a Deo, et qui non diligit fratrem suum:<verse eID="john-1.3.10" />
+        <verse sID="john-1.3.11" osisID="john-1.3.11" />quia haec est annuntiatio, quam audivimus ab initio, ut diligamus invicem.<verse eID="john-1.3.11" />
+        <verse sID="john-1.3.12" osisID="john-1.3.12" />Non sicut Cain, qui ex maligno erat, et occidit fratrem suum. Et cuius rei gratiâ occidit? Quia opera eius maligna fuerunt, fratris vero eius, iusta.<verse eID="john-1.3.12" />
+        <verse sID="john-1.3.13" osisID="john-1.3.13" />Nolite mirari fratres, si odit nos mundus.<verse eID="john-1.3.13" />
+        <verse sID="john-1.3.14" osisID="john-1.3.14" />Nos scimus quia transivimus de morte ad vitam, quia diligimus fratres. Qui non diligit manet in morte:<verse eID="john-1.3.14" />
+        <verse sID="john-1.3.15" osisID="john-1.3.15" />omnis, qui odit fratrem suum, homicida est. Et scitis quia omnis homicida non habet vitam aeternam in se manentem.<verse eID="john-1.3.15" />
+        <verse sID="john-1.3.16" osisID="john-1.3.16" />In hoc cognoscimus dilectionem, quia ille pro nobis animam suam posuit: et nos debemus animas pro fratribus ponere.<verse eID="john-1.3.16" />
+        <verse sID="john-1.3.17" osisID="john-1.3.17" />Qui antem habuerit facultates mundi, et viderit fratrem suum esurientem, et clauserit viscera sua ab eo: quomodo poterit dilectio Dei manere in eo?<verse eID="john-1.3.17" />
+        <verse sID="john-1.3.18" osisID="john-1.3.18" />Filioli, non diligamus verbo tantum, et lingua, sed opere et veritate:<verse eID="john-1.3.18" />
+        <verse sID="john-1.3.19" osisID="john-1.3.19" />et in hoc cognoscimus quia ex veritate sumus: et coram ipso persuademus cordi nostro.<verse eID="john-1.3.19" />
+        <verse sID="john-1.3.20" osisID="john-1.3.20" />Quia si male senserit cor nostrum: maior est Deus corde nostro, et novit omnia.<verse eID="john-1.3.20" />
+        <verse sID="john-1.3.21" osisID="john-1.3.21" />Dilectissimi, si cor non male senserit, fiduciam habemus ad Deum:<verse eID="john-1.3.21" />
+        <verse sID="john-1.3.22" osisID="john-1.3.22" />et quidquid postulaverimus, accipiemus ab eo: quia mandata eius servamus, et quae placent illi, in conspectu eius facimus.<verse eID="john-1.3.22" />
+        <verse sID="john-1.3.23" osisID="john-1.3.23" />Hoc est mandatum illius: Ut credamus nomini Filii eius Iesu Christi: et diligamus invicem, sicut dedit nobis mandatum.<verse eID="john-1.3.23" />
+        <verse sID="john-1.3.24" osisID="john-1.3.24" />Et qui servaverit mandatum eius, in ipso manebit, et ipse in eo: et in hoc cognoscimus quia manet in nobis, de Spiritu, quem dedit nobis.<verse eID="john-1.3.24" />
+      </p>
+      <chapter eID="john-1.3" />
+      <chapter sID="john-1.4" osisID="john-1.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="john-1.4.1" osisID="john-1.4.1" />Dilectissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sunt: quia multi pseudoprophetae exierunt in istum mundum.<verse eID="john-1.4.1" />
+        <verse sID="john-1.4.2" osisID="john-1.4.2" />In hoc cognoscitur spiritus Dei: omnis spiritus, qui confitetur Iesum Christum in carne venisse, ex Deo est:<verse eID="john-1.4.2" />
+        <verse sID="john-1.4.3" osisID="john-1.4.3" />et omnis spiritus, qui non confitetur Iesum Christum in carne venisse, non est ex Deo: et hic est Antichristus, de quo audistis quod venturus sit, et nunc in isto mundo est.<verse eID="john-1.4.3" />
+        <verse sID="john-1.4.4" osisID="john-1.4.4" />Iam vos ex Deo estis, filioli, et vicistis eum quia maior est qui est in vobis, quam qui in hoc mundo.<verse eID="john-1.4.4" />
+        <verse sID="john-1.4.5" osisID="john-1.4.5" />Hi de mundo sunt : ideo de mundo loquuntur, et mundus eos audit.<verse eID="john-1.4.5" />
+        <verse sID="john-1.4.6" osisID="john-1.4.6" />Nos ex Deo sumus. Qui novit Deum, audit nos: qui non est ex Deo, non nos audit: ex hoc cognoscimus Spiritum veritatis, et erroris.<verse eID="john-1.4.6" />
+        <verse sID="john-1.4.7" osisID="john-1.4.7" />Dilectissimi, diligamus invicem: quia dilectio ex Deo eit. Et omnis, qui diligit, ex Deo natus est, et cognovit Deum.<verse eID="john-1.4.7" />
+        <verse sID="john-1.4.8" osisID="john-1.4.8" />Qui non diligit, non novit Deum: quia Deus dilectio est.<verse eID="john-1.4.8" />
+        <verse sID="john-1.4.9" osisID="john-1.4.9" />In hoc manifestata est dilectio Dei in nobis, quia Filium suum unigenitum misit in hunc mundum, ut vivamus per ipsum.<verse eID="john-1.4.9" />
+        <verse sID="john-1.4.10" osisID="john-1.4.10" />In hoc est dilectio: non quia nos dileximus, sed quia ipse dilexit nos, et misit Filium suum litatorem pro peccatis nostris.<verse eID="john-1.4.10" />
+        <verse sID="john-1.4.11" osisID="john-1.4.11" />Dilectissimi, si ita Deus dilexit nos: debemus et nos invicem diligere.<verse eID="john-1.4.11" />
+        <verse sID="john-1.4.12" osisID="john-1.4.12" />Deum nemo vidit unquam. Si diligamus invicem, Deus in nobis manebit, et dilectio eius erit perfecta in nobis.<verse eID="john-1.4.12" />
+        <verse sID="john-1.4.13" osisID="john-1.4.13" />In hoc cognoscimus quia in ipso manemus, et ipse in nobis: quia de Spiritu suo dedit nobis.<verse eID="john-1.4.13" />
+        <verse sID="john-1.4.14" osisID="john-1.4.14" />Et nos vidimus, et testes sumus quia Pater misit Filium suum Salvatorem mundi.<verse eID="john-1.4.14" />
+        <verse sID="john-1.4.15" osisID="john-1.4.15" />Quicunque confessus fuerit quod Iesus est Filius Dei, Deus in ipso manet, et ipse in Deo.<verse eID="john-1.4.15" />
+        <verse sID="john-1.4.16" osisID="john-1.4.16" />Et nos cognovimus, et credimus quam dilectionem Deus habet in nobis. Deus Dlectio est: et qui manet in dilectione, in Deo manet, et Deus in eo manet.<verse eID="john-1.4.16" />
+        <verse sID="john-1.4.17" osisID="john-1.4.17" />In hoc perfecta est dilectio in nobis, ut fiduciam habeamus in die iudicii: quia sicut ille est, et nos sumus in hoc mundo.<verse eID="john-1.4.17" />
+        <verse sID="john-1.4.18" osisID="john-1.4.18" />Timor non est in dilectione: sed perfecta dilectio foras mittit timorem, quia timor tormentum habet: qui autem timet, non est perfectus in dilectione.<verse eID="john-1.4.18" />
+        <verse sID="john-1.4.19" osisID="john-1.4.19" />Nos diligamus, quia ipse prior nos dilexit.<verse eID="john-1.4.19" />
+        <verse sID="john-1.4.20" osisID="john-1.4.20" />Si quis dixerit, Diligo Deum, et fratrem suum odit, mendax est. Qui enim non diligit fratrem suum quem videt, Deum, quem non videt, quomodo potest diligere?<verse eID="john-1.4.20" />
+        <verse sID="john-1.4.21" osisID="john-1.4.21" />Et hoc mandatum habemus ab ipso: ut qui diligit Deum, diligat et fratrem suum.<verse eID="john-1.4.21" />
+      </p>
+      <chapter eID="john-1.4" />
+      <chapter sID="john-1.5" osisID="john-1.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="john-1.5.1" osisID="john-1.5.1" />Omnis, qui credit quod Iesus sit Christus ex Deo natus est. Et omnis, qui diligit qui genuit eum, diligit eum qui genitus est ab ipso.<verse eID="john-1.5.1" />
+        <verse sID="john-1.5.2" osisID="john-1.5.2" />In hoc cognoscimus quia diligimus filios Dei, quia Deum diligimus, et praecepta eius facimus.<verse eID="john-1.5.2" />
+        <verse sID="john-1.5.3" osisID="john-1.5.3" />Haec est enim dilectio Dei, ut praecepta eius servemus: et praecepta eius gravia non sunt.<verse eID="john-1.5.3" />
+        <verse sID="john-1.5.4" osisID="john-1.5.4" />..... omne, quod natum est ex Deo , vincit mundum: et haec est victoria, quae vincit mundum, fides nostra.<verse eID="john-1.5.4" />
+        <verse sID="john-1.5.6" osisID="john-1.5.6" />hic est, qui venit per aquam et sanguinem, Iesus Christus: non in aqua tantum, sed in aqua et sanguine. Et Spiritus est, qui testimonium perhibet, quia Spiritus est veritas.<verse eID="john-1.5.6" />
+        <verse sID="john-1.5.7" osisID="john-1.5.7" />[8] Et tres sunt, qui testimonium perhibent in coelo: Pater, Verbum, et Spiritus: et ii tres unum sunt.<verse eID="john-1.5.7" />
+        <verse sID="john-1.5.8" osisID="john-1.5.8" />[7] ....tres sunt, qui testimonium perhibent in terra: aqua, sanguis, et caro: et his tres in nobis sunt.<verse eID="john-1.5.8" />
+        <verse sID="john-1.5.9" osisID="john-1.5.9" />Si testimonium hominum accipimus, testimonium Dei maius est: quia hoc est testimonium Dei, quod maius est, quia testificatus est de Filio suo.<verse eID="john-1.5.9" />
+        <verse sID="john-1.5.10" osisID="john-1.5.10" />Qui credit in Filium Dei, habet testimonium in semetipso. Qui non crediderit Deo, mendacem facit eum: quia non credidit in testimonium quod testificatus est de Filio suo.<verse eID="john-1.5.10" />
+        <verse sID="john-1.5.11" osisID="john-1.5.11" />Et hoc est testimonium, quoniam vitam aeternam dedit nobis Deus. Et haec vita in Filio eius est.<verse eID="john-1.5.11" />
+        <verse sID="john-1.5.12" osisID="john-1.5.12" />Qui habet Filium, habet vitam: qui non habet Filium, non habet vitam.<verse eID="john-1.5.12" />
+        <verse sID="john-1.5.16" osisID="john-1.5.16" />Si quis scit peccare fratrem suum peccatum non ad mortem, postulabit, et dabit illi Dominus vitam, qui peccat non ad mortem. Est autem peccatum ad mortem: non pro illo dico ut roget.<verse eID="john-1.5.16" />
+        <verse sID="john-1.5.18" osisID="john-1.5.18" />Scimus quod omnis, qui natus est ex Deo non peccat: sed generatio Dei conservat eum, et malignus non tangit eum.<verse eID="john-1.5.18" />
+        <verse sID="john-1.5.19" osisID="john-1.5.19" />Scimus quoniam ex Deo sumus: et mundus totus in maligno positus est.<verse eID="john-1.5.19" />
+        <verse sID="john-1.5.20" osisID="john-1.5.20" />Scimus quod Filius Dei venerit, et dederit nobis intellectum ut cognoscamus verum Deum, et simus in vero Filio eius Iesu Christo. Hic est verus Deus, et vita aeterna.<verse eID="john-1.5.20" />
+        <verse sID="john-1.5.21" osisID="john-1.5.21" />Filioli, abstinete vos a simulacris.<verse eID="john-1.5.21" />
+      </p>
+    </div>
+  </osisText>
+</osis>

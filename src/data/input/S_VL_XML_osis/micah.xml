@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Mic" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Mic">
+        <title>micah</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Mic</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>micah</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Mic">
+      <title>micah</title>
+      <chapter sID="Mic.1" osisID="Mic.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Mic.1.1" osisID="Mic.1.1" />Verbum Domini, quod factum est ad Michaeam Morasthiten, in diebus Ioatham, Achaz, et Ezechiae, regum Iuda, de quibus vidit super Samariam, et Ierusalem.<verse eID="Mic.1.1" />
+        <verse sID="Mic.1.2" osisID="Mic.1.2" />Audite populi omnes, et auscultet terra, et omnes qui sunt in ea, et sit Dominus Deus vobis in testimonium, Dominus ex domo sancta sua.<verse eID="Mic.1.2" />
+        <verse sID="Mic.1.3" osisID="Mic.1.3" />Ecce enim Dominus egredietur de loco suo, et descendet, et ascendet super excelsa terrae.<verse eID="Mic.1.3" />
+        <verse sID="Mic.1.4" osisID="Mic.1.4" />Et commovebuntur montes subter eum, et valles tabescent sicut cera a facie ignis, et sicut aqua profluens in descensum.<verse eID="Mic.1.4" />
+        <verse sID="Mic.1.5" osisID="Mic.1.5" />Propter impietatem Iacob omnia haec, et propter peccatum domus Israel, quae est impietas domus Iacob? Nonne Samaria? Et quod est peccatum domus Iuda? Nonne Ierusalem?<verse eID="Mic.1.5" />
+        <verse sID="Mic.1.6" osisID="Mic.1.6" />Et ponam Samariam in pomorum custodiam in agro, et in plantationem vineae, et detraham in voraginem lapides eius, et fundamenta eius revelabo.<verse eID="Mic.1.6" />
+        <verse sID="Mic.1.7" osisID="Mic.1.7" />Et cuncta sculptilia eius concident, et universae mercedes eius comburentur igni, et cuncta idola eius ponam in perditionem, quia ex mercedibus fornicationis congregavit, et ex mercedibus fornicationis destruxit.<verse eID="Mic.1.7" />
+        <verse sID="Mic.1.8" osisID="Mic.1.8" />Propter hoc planget, atque lugebit, ibit discalciata, et nuda, faciet planctum quasi draconum, et luctum quasi filiae sirenarum.<verse eID="Mic.1.8" />
+        <verse sID="Mic.1.9" osisID="Mic.1.9" />Quia obtinuit plaga eius, quia venit usque ad Iudam, et tetigit usque ad portam populi mei usque Ierusalem.<verse eID="Mic.1.9" />
+        <verse sID="Mic.1.10" osisID="Mic.1.10" />Qui in Geth, nolite magnificari. Qui in Bachim, nolite reaedificare ex domo derisum, terra aspergite derisum vestrum,<verse eID="Mic.1.10" />
+        <verse sID="Mic.1.11" osisID="Mic.1.11" />quae habitas bene civitates eius, non est egressa habitatrix Sennan, plangite Domum iuxta eam, accipiet ex vobis plagam doloris.<verse eID="Mic.1.11" />
+        <verse sID="Mic.1.12" osisID="Mic.1.12" />Quis coepit in bonum, quae habitat in doloribus? Quia descenderunt mala a Domino super portas Ierusalem.<verse eID="Mic.1.12" />
+        <verse sID="Mic.1.13" osisID="Mic.1.13" />Sonitus curruum et equitum, habitatio Lachis, princeps peccati est filiae Sion, quia in te inventae sunt iniquitates Israel.<verse eID="Mic.1.13" />
+        <verse sID="Mic.1.14" osisID="Mic.1.14" />Ideo dabit emissarios usque ad haereditatem Geth, domos vanas, frustra fuerunt regibus Israel,<verse eID="Mic.1.14" />
+        <verse sID="Mic.1.15" osisID="Mic.1.15" />donec haeredes adducam tibi, quae habitas Lachis, haereditas usque Odollam veniet. Gloria filiae Israel,<verse eID="Mic.1.15" />
+        <verse sID="Mic.1.16" osisID="Mic.1.16" />Decalvare, et detondere super filios delicatos tuos, dilata calvitium tuum sicut aquila, quoniam captivi ducti sunt ex te.<verse eID="Mic.1.16" />
+      </p>
+      <chapter eID="Mic.1" />
+      <chapter sID="Mic.2" osisID="Mic.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Mic.2.1" osisID="Mic.2.1" />Facti sunt cogitantes labores, et operantes mala in cubilibus suis, et simul in die consummabunt ea, quia non levaverunt ad Deum manus suas.<verse eID="Mic.2.1" />
+        <verse sID="Mic.2.2" osisID="Mic.2.2" />Et desiderabant agros, et diripiebant pupillos, et domos opprimebant, et rapiebant virum, et domum eius. Virum, et haereditatem eius.<verse eID="Mic.2.2" />
+        <verse sID="Mic.2.3" osisID="Mic.2.3" />Propterea haec dicit Dominus, Ecce ego cogito super tribum istam mala, de quibus non auferetis colla vestra, ut non ambuletis recti subito, quia tempus pessimum est.<verse eID="Mic.2.3" />
+        <verse sID="Mic.2.4" osisID="Mic.2.4" />In die illa sumetur super vos parabola, et plangetur planctus in cantico, dicentium, Miseria miseri facti sumus, pars populi mei dimensa est in funiculo, et non erat qui prohiberet eum, ut averteretur. Agri nostri divisi sunt,<verse eID="Mic.2.4" />
+        <verse sID="Mic.2.5" osisID="Mic.2.5" />propter hoc non erit tibi mittens funiculum in haereditate. In Ecclesia Domini<verse eID="Mic.2.5" />
+        <verse sID="Mic.2.6" osisID="Mic.2.6" />nolite flere lacrymis, neque plorent super his, non enim abiiciet opprobria,<verse eID="Mic.2.6" />
+        <verse sID="Mic.2.7" osisID="Mic.2.7" />quae dicit, Domus Iacob provocavit spiritum Domini, si hae sunt adinventiones eius? Nonne sermones eius boni sunt cum eo, et recti ambulaverunt?<verse eID="Mic.2.7" />
+        <verse sID="Mic.2.8" osisID="Mic.2.8" />Et prius populus meus inimicitiis restitit, contra pacem suam, pellem eius excoriaverunt, ut auferrent spem, contritionem belli.<verse eID="Mic.2.8" />
+        <verse sID="Mic.2.9" osisID="Mic.2.9" />Duces populi mei proiicientur de domibus deliciarum suarum, propter malas adinventiones suas eiecti sunt. Propinquate montibus aeternis,<verse eID="Mic.2.9" />
+        <verse sID="Mic.2.10" osisID="Mic.2.10" />surge, et ambula, quia non est tibi hic requies, propter immunditiam consumpti estis corruptione.<verse eID="Mic.2.10" />
+        <verse sID="Mic.2.11" osisID="Mic.2.11" />Fugistis nemine persequente, spiritus statuit mendacium, stillavit tibi in vinum, et ebrietatem, et erit, de stilla populi huius<verse eID="Mic.2.11" />
+        <verse sID="Mic.2.12" osisID="Mic.2.12" />congregandus congregabitur Iacob, cum omnibus suscipiens suscipiam reliquias de Israel, ponam aversionem eorum sicut oves in tribulatione, quasi gregem in medio cubilis eorum, exsilient ex hominibus.<verse eID="Mic.2.12" />
+        <verse sID="Mic.2.13" osisID="Mic.2.13" />Ascende per divisionem ante faciem eorum, diviserunt, et transierunt portam, et egressi sunt per eam, et exivit rex eorum ante faciem eorum, Dominus autem princeps eorum.<verse eID="Mic.2.13" />
+      </p>
+      <chapter eID="Mic.2" />
+      <chapter sID="Mic.3" osisID="Mic.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Mic.3.1" osisID="Mic.3.1" />Et dicet, Audite haec principes domus Iacob, et reliqui domus Israel, Non vestrum est scire iudicium,<verse eID="Mic.3.1" />
+        <verse sID="Mic.3.2" osisID="Mic.3.2" />qui odio habetis bonum, et quaeritis mala, diripientes pelles eorum ab eis, et carnes eorum ab ossibus eorum?<verse eID="Mic.3.2" />
+        <verse sID="Mic.3.3" osisID="Mic.3.3" />Sicut devoraverunt carnes populi mei, et pelles ab eis excoriaverunt, et ossa eorum confregerunt, et conciderunt sicut carnes in lebete, et sicut carnes in olla,<verse eID="Mic.3.3" />
+        <verse sID="Mic.3.4" osisID="Mic.3.4" />Sic clamabunt ad Dominum, et non exuadiet eos, et avertet faciem suam ab eis in tempore illos, eo quod pessime egerunt in adinventionibus suis.<verse eID="Mic.3.4" />
+        <verse sID="Mic.3.5" osisID="Mic.3.5" />Haec dicit Dominus super prophetas, qui seducunt populum meum, et mordent dentibus suis, et praedicant super eum pacem, et non est data in ore eorum, sanctificaverunt super eum praelium.<verse eID="Mic.3.5" />
+        <verse sID="Mic.3.6" osisID="Mic.3.6" />Propterea nox vobis erit pro visione, et tenebrae erunt vobis ex divinatione, et occumbet sol super prophetas, et contenebrescet super eos dies.<verse eID="Mic.3.6" />
+        <verse sID="Mic.3.7" osisID="Mic.3.7" />Et confundentur qui vident somnia, et irridebuntur arioli, et loquentur adversum eos omnes isti, quia non est qui exaudiat eos.<verse eID="Mic.3.7" />
+        <verse sID="Mic.3.8" osisID="Mic.3.8" />Nisi ego implevero fortitudinem in spiritum Domini, et iudicium, et potentiam, ut annuntiem Iacob impietates eius, et Israel peccata sua.<verse eID="Mic.3.8" />
+        <verse sID="Mic.3.9" osisID="Mic.3.9" />Audite haec duces domus Iacob, et reliqui domus Israel, qui abominamini iudicium, et omnia recta pervertitis.<verse eID="Mic.3.9" />
+        <verse sID="Mic.3.10" osisID="Mic.3.10" />Qui aedificatis Sion in sanguinibus, et Ierusalem in iniquitatibus.<verse eID="Mic.3.10" />
+        <verse sID="Mic.3.11" osisID="Mic.3.11" />Duces eius in muneribus iudicabant, et sacerdotes eius in mercede respondebant, et prophetae eius in mercede respondebant, et prophetae eius in pecunia divinabant, et super Dominum requiescebant, dicentes, Nonne Dominus in nobis est? Non venient super nos mala.<verse eID="Mic.3.11" />
+        <verse sID="Mic.3.12" osisID="Mic.3.12" />Idcirco, propter vos, Sion quasi ager arabitur, et Ierusalem ut custodia pomarii erit, et mons Domini in lucum saltus.<verse eID="Mic.3.12" />
+      </p>
+      <chapter eID="Mic.3" />
+      <chapter sID="Mic.4" osisID="Mic.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Mic.4.1" osisID="Mic.4.1" />Et erit novissimis dierum manifestus mons Domini praeparatus super verticem montium, et elevabitur super colles, et festinabunt ad eum populi.<verse eID="Mic.4.1" />
+        <verse sID="Mic.4.2" osisID="Mic.4.2" />Et ibunt gentes multae, et dicent, Venite, ascendamus ad montem Domini, et ad domum Dei Iacob, et ostendet nobis viam suam, et ambulabimus in semitis eius, quia de Sion exiet lex, et verbum Domini de Ierusalem.<verse eID="Mic.4.2" />
+        <verse sID="Mic.4.3" osisID="Mic.4.3" />Et iudicabit inter populos multos, et arguet gentes fortes usque in longinquum, et concident gladios suos in aratra, et hastas suas in falces, et ultra non tollet gens contra gentem gladium, et nequaquam discent belligerare.<verse eID="Mic.4.3" />
+        <verse sID="Mic.4.4" osisID="Mic.4.4" />Et requiescet unusquisque sub vite sua, et unusquisque sub ficu sua, et non erit qui exterreat, quia os Domini omnipotentis locutum est haec.<verse eID="Mic.4.4" />
+        <verse sID="Mic.4.5" osisID="Mic.4.5" />Quia omnes populi ibunt unusquisque viam suam, nos autem ibimus in nomine Domini Dei nostri in aeternum et ultra.<verse eID="Mic.4.5" />
+        <verse sID="Mic.4.6" osisID="Mic.4.6" />In illa die, dicit Dominus, congregabo eam, quae contrita est, et quae eiecta fuerat, suscipiam. Et quos repuleram,<verse eID="Mic.4.6" />
+        <verse sID="Mic.4.7" osisID="Mic.4.7" />Et ponam contritam in reliquias. Et repulsam, in gentem fortem, et regnabit Dominus super eos in monte Sion, ex hoc nunc et usque in saeculum.<verse eID="Mic.4.7" />
+        <verse sID="Mic.4.8" osisID="Mic.4.8" />Et tu turris gregis caligosa filia Sion, ad te veniet, et ingredietur principatus primus, regnum de Babylone filiae Ierusalem.<verse eID="Mic.4.8" />
+        <verse sID="Mic.4.9" osisID="Mic.4.9" />Et nunc quare cognovisti mala? Nunquid rex non erat tibi, aut consilium tuum periit, quia obtinuerunt te dolores sicut perturientem?<verse eID="Mic.4.9" />
+        <verse sID="Mic.4.10" osisID="Mic.4.10" />Dole, et viriliter age filia Sion quasi pariens, quia nunc egredieris de civitate, et habitabis in campo, et venies usque ad Babylonem, inde liberabit te, et inde redimet te Dominus Deus tuus de manu inimicorum tuorum.<verse eID="Mic.4.10" />
+        <verse sID="Mic.4.11" osisID="Mic.4.11" />Et nunc congregate sunt super te gentes multae, dicentium, Insultemus, et videant in Sion oculi nostri.<verse eID="Mic.4.11" />
+        <verse sID="Mic.4.12" osisID="Mic.4.12" />Ipsi autem nescierunt cogitationes Domini, et non intellexerunt consilium eius, quia congregavit eos ut manipulos areae.<verse eID="Mic.4.12" />
+        <verse sID="Mic.4.13" osisID="Mic.4.13" />Surge, et tritura eos filia Sion, quia cornua tua ponam ferrea, et ungulas tuas ponam aereas, et comminues populos multos, et vovebis Domino multitudinem eorum, et robur eorum Domino universae terrae.<verse eID="Mic.4.13" />
+      </p>
+      <chapter eID="Mic.4" />
+      <chapter sID="Mic.5" osisID="Mic.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Mic.5.1" osisID="Mic.5.1" />Nunc obstruetur filia obstructione, angustiam posuit super nos, in virga percutient super maxillam tribus Israel.<verse eID="Mic.5.1" />
+        <verse sID="Mic.5.2" osisID="Mic.5.2" />ET TU BETHLEHEM domus Ephrata nequaquam minima es ut sis in millibus Iuda, ex te mihi egredietur ut sit in principem Israel, et egressus eius ab initio, ex diebus saeculi.<verse eID="Mic.5.2" />
+        <verse sID="Mic.5.3" osisID="Mic.5.3" />Propterea dabit eos usque ad tempus parientis, pariet, et reliquiae fratrum revertentur ad filios Israel.<verse eID="Mic.5.3" />
+        <verse sID="Mic.5.4" osisID="Mic.5.4" />Et stabit, et videbit, et pascet gregem suum in fortitudine Dominus, et in gloria nominis Domini Dei sui erunt, quia nunc magnificabuntur usque ad terminos terrae.<verse eID="Mic.5.4" />
+        <verse sID="Mic.5.5" osisID="Mic.5.5" />Et erit haec pax, Assyrius quando supervenerit in terram vestram, et cum ascenderit super regionem vestram, et consurgent super eum septem pastores, et octo morsus hominum.<verse eID="Mic.5.5" />
+        <verse sID="Mic.5.6" osisID="Mic.5.6" />Et pascent Assur in gladio, et terram Nemrod in fovea eius, et liberabit de Assur cum venerit super terram vestram, et cum ascenderit super terminos vestros.<verse eID="Mic.5.6" />
+        <verse sID="Mic.5.7" osisID="Mic.5.7" />Et erunt reliquiae Iacob in gentibus in medio populorum multorum, quasi ros a Domino cadens, et quasi agni super gramen, ut non congregetur quisquam, neque sit in filiis hominum.<verse eID="Mic.5.7" />
+        <verse sID="Mic.5.8" osisID="Mic.5.8" />Et erunt reliquiae Iacob in gentibus in medio populorum multorum, quasi leo in iumentis in saltu, et quasi catulus leonis in gregibus pecorum, quomodo si pertanseat, et dividens rapiat, et non sit qui eruat.<verse eID="Mic.5.8" />
+        <verse sID="Mic.5.9" osisID="Mic.5.9" />Elevabitur manus tua super eos qui tribulant te, et omnes inimici tui perdentur.<verse eID="Mic.5.9" />
+        <verse sID="Mic.5.10" osisID="Mic.5.10" />Et erit in die illa, dicit Dominus, Interficiam equos tuos de medio tui, et disperdam currus tuos.<verse eID="Mic.5.10" />
+        <verse sID="Mic.5.11" osisID="Mic.5.11" />Et subvertam civitates terrae tuae, et auferam omnes munitiones tuas, et auferam maleficia tua de manibus tuis, et qui loquuntur, non erunt in te.<verse eID="Mic.5.11" />
+        <verse sID="Mic.5.12" osisID="Mic.5.12" />Et disperdam sculptilia tua, et statuas tuas de medio tui, et ultra non adorabis opera manuum tuarum.<verse eID="Mic.5.12" />
+        <verse sID="Mic.5.13" osisID="Mic.5.13" />Et succidam lucos de medio tui, et demoliar civitates tuas.<verse eID="Mic.5.13" />
+        <verse sID="Mic.5.14" osisID="Mic.5.14" />Et faciam in ira et in furore ultionem in gentibus, pro eo quod non audierunt.<verse eID="Mic.5.14" />
+      </p>
+      <chapter eID="Mic.5" />
+      <chapter sID="Mic.6" osisID="Mic.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Mic.6.1" osisID="Mic.6.1" />Audite quae Dominus locutus est, Surge, iudicare apud montes, et audiant colles vocem tuam.<verse eID="Mic.6.1" />
+        <verse sID="Mic.6.2" osisID="Mic.6.2" />Audite montes iudicium Domini, et valles fundamenta terrae, quia iudicium Domini adversus populum suum, et cum Israel iudicabitur.<verse eID="Mic.6.2" />
+        <verse sID="Mic.6.3" osisID="Mic.6.3" />Populus meus quid feci tibi, aut quid contristavi te, aut in quo molestus fui tibi? Responde mihi.<verse eID="Mic.6.3" />
+        <verse sID="Mic.6.4" osisID="Mic.6.4" />Quia eduxi te de terra Aegypti, et de domo servitutis redemi te, et misi ante faciem tuam Moysen, et Aaron, et Mariam?<verse eID="Mic.6.4" />
+        <verse sID="Mic.6.5" osisID="Mic.6.5" />Populus meus recordare quid cogitaverit adversum te Balac rex Moab, et quid responderit ei Balaam filius Beor, de Schoenis usque ad Galgal, ut cognosceretur iustitia Domini.<verse eID="Mic.6.5" />
+        <verse sID="Mic.6.6" osisID="Mic.6.6" />In quo apprehendam Dominum? Si suscipiam Deum meum excelsum? Si apprehendam eum in holocaustis, in vitulis anniculis?<verse eID="Mic.6.6" />
+        <verse sID="Mic.6.7" osisID="Mic.6.7" />Suscipiat Dominus in millibus arietum, vel in decem millibus hircorum pinguium? Si dabo primogenita mea pro impietate, fructum ventris mei pro peccato animae meae?<verse eID="Mic.6.7" />
+        <verse sID="Mic.6.8" osisID="Mic.6.8" />Annuntiatum est tibi homo quid bonum, aut quid Dominus quaerat a te, Nisi ut facias iudicium, et diligas misericordiam, et paratus sis ambulare cum Deo tuo.<verse eID="Mic.6.8" />
+        <verse sID="Mic.6.9" osisID="Mic.6.9" />Vox Domini civitati clamabit, et salvabit timentes nomen eius, Audi tribus, et quis ornabit civitatem?<verse eID="Mic.6.9" />
+        <verse sID="Mic.6.10" osisID="Mic.6.10" />Nunquid ignis, et domus iniqui thesaurizans thesauros iniquos, et cum iniuria iniquitates?<verse eID="Mic.6.10" />
+        <verse sID="Mic.6.11" osisID="Mic.6.11" />Si iustificabitur in statera iniquus, et in saccello pondera fraudulenta?<verse eID="Mic.6.11" />
+        <verse sID="Mic.6.12" osisID="Mic.6.12" />De quibus divitias impietatis suae repleverunt, et qui habitant in ea locuti sunt iniqua, et lingua eorum exaltata est in ore eorum.<verse eID="Mic.6.12" />
+        <verse sID="Mic.6.13" osisID="Mic.6.13" />Et ego cruciavi te perditione propter peccata tua.<verse eID="Mic.6.13" />
+        <verse sID="Mic.6.14" osisID="Mic.6.14" />Tu comedes, et non saturaberis, et eiiciam te in temetipsam, et apprehendes, et non bibes vinum.<verse eID="Mic.6.14" />
+        <verse sID="Mic.6.15" osisID="Mic.6.15" />tu seminabis, et non metes, tu calcabis olivam, et non ungeris oleo, et mustum, et non bibes vinum.<verse eID="Mic.6.15" />
+        <verse sID="Mic.6.16" osisID="Mic.6.16" />Et dissipabuntur legitima populi mei, et omnia opera domus Achab, et ambulastis in consiliis eorum, ut traderem te in perditionem, et habitatores eius in sibilum, et opprobria populorum accipietis.<verse eID="Mic.6.16" />
+      </p>
+      <chapter eID="Mic.6" />
+      <chapter sID="Mic.7" osisID="Mic.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Mic.7.1" osisID="Mic.7.1" />Vae mihi, quia factus sum sicut qui congregat stipulam in messe, et sicut racemos in vindemia. Cum non sit botrus ad comedendum primitiva, quae passa est anima mea.<verse eID="Mic.7.1" />
+        <verse sID="Mic.7.2" osisID="Mic.7.2" />Vae mihi anima, quia periit reverens de terra, et qui corrigat in hominibus non est, omnes in sanguine iudicantur, unusquisque proximum suum tribulat tribulatione.<verse eID="Mic.7.2" />
+        <verse sID="Mic.7.3" osisID="Mic.7.3" />In malum manus suas praeparant, princeps postulat, et iudex verba pacifica locutus est, desiderium animae suae est, et auferam bona eorum<verse eID="Mic.7.3" />
+        <verse sID="Mic.7.4" osisID="Mic.7.4" />quasi tinea comedens, et ambulans super regulam in die speculationis tuae. Vae, vae, ultiones tuae venerunt, nunc erunt fletus eorum.<verse eID="Mic.7.4" />
+        <verse sID="Mic.7.5" osisID="Mic.7.5" />Nolite credere in amicis, neque speretis in ducibus, ab ea, quae tecum cubat, cave ne credas ei.<verse eID="Mic.7.5" />
+        <verse sID="Mic.7.6" osisID="Mic.7.6" />Quia filius contumeliam facit patri, et filia surgit adversum matrem suam, nurus contra socrum suam, inimici hominis viri domestici eius.<verse eID="Mic.7.6" />
+        <verse sID="Mic.7.7" osisID="Mic.7.7" />Ego autem in Domino contemplabor, exspectabo Deum salvatorem meum, exaudiet me Deus meus.<verse eID="Mic.7.7" />
+        <verse sID="Mic.7.8" osisID="Mic.7.8" />Ne insultes mihi inimica mea, quia cecidi, et resurgam, quia si ambulavero in tenebris, Dominus illuminabit me.<verse eID="Mic.7.8" />
+        <verse sID="Mic.7.9" osisID="Mic.7.9" />Iram Domini sustinebo, quia peccavi ei, donec iustificet causam meam, et faciat iudicium meum, et educat me in lucem, et videbo iustitiam eius.<verse eID="Mic.7.9" />
+        <verse sID="Mic.7.10" osisID="Mic.7.10" />Et videbit me inimica mea, et operiet eam confusio, quae dicit ad me, Ubi est Dominus Deus tuus? Oculi mei videbunt eam, nunc erit in conculcationem sicut lutum in viis.<verse eID="Mic.7.10" />
+        <verse sID="Mic.7.11" osisID="Mic.7.11" />Dies liturae lateris, deletio tua, et repellet legitima tua dies illa.<verse eID="Mic.7.11" />
+        <verse sID="Mic.7.12" osisID="Mic.7.12" />Et urbes tuae venient in conclusionem, et in divisionem Assyriorum. Et civitates tuae munitae in divisionem, a Tyro usque ad flumen, et a mari usque ad mare, et de monte usque ad montem.<verse eID="Mic.7.12" />
+        <verse sID="Mic.7.13" osisID="Mic.7.13" />Et erit terra in dissipationem cum habitatoribus suis, propter fructus adinventionum eorum.<verse eID="Mic.7.13" />
+        <verse sID="Mic.7.14" osisID="Mic.7.14" />Pasce populum tuum in virga tua, oves haereditatis tuae, habitantes solas in saltu, in medio Carmeli, pascentur Basanitin et Galaaditin iuxti dies pristinos.<verse eID="Mic.7.14" />
+        <verse sID="Mic.7.15" osisID="Mic.7.15" />Et iuxta dies egressionis tuae de terra Aegypti ostendam eis mirabilia.<verse eID="Mic.7.15" />
+        <verse sID="Mic.7.16" osisID="Mic.7.16" />Videbunt gentes, et confundentur in omni fortitudine sua, ponent manus super os suum, aures eorum surdae erunt.<verse eID="Mic.7.16" />
+        <verse sID="Mic.7.17" osisID="Mic.7.17" />Lingent humum sicut serpentes, quae trahunt terram, turbabuntur in conclusionibus suis, super Domino Deo nostro formidabunt, et timebunt a te.<verse eID="Mic.7.17" />
+        <verse sID="Mic.7.18" osisID="Mic.7.18" />Quis Deus sicut tu, auferens iniquitates et transcendens iniustitias his qui reliqui sunt de haereditate tua? Non tenuit in testimonium iram suam, quia volens misericordias est.<verse eID="Mic.7.18" />
+        <verse sID="Mic.7.19" osisID="Mic.7.19" />Revertetur, et miserebitur nostri, demerget peccata nostra, et proiicientur in profundum maris omnia peccata nostra.<verse eID="Mic.7.19" />
+        <verse sID="Mic.7.20" osisID="Mic.7.20" />Dabit veritatem Iacob, misericordiam Abraham, sicut iurasti patribus nostris iuxta dies priores.<verse eID="Mic.7.20" />
+      </p>
+      <chapter eID="Mic.7" />
+    </div>
+  </osisText>
+</osis>

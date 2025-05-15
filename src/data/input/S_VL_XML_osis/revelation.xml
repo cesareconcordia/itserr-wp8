@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="revelation" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="revelation">
+        <title>Revelation</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">revelation</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Revelation</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="revelation">
+      <title>Revelation</title>
+      <chapter sID="revelation.1" osisID="revelation.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="revelation.1.1" osisID="revelation.1.1" />APOCALYPSIS Iesu Christi, quam dedit illi Deus palam facere servis suis, quae oportet fieri in brevi: et significavit nuncianda per Angelum suum servo suo Ioanni,<verse eID="revelation.1.1" />
+        <verse sID="revelation.1.2" osisID="revelation.1.2" />qui praedicavit verbum Dei, et testimonium Iesu Christi, ea quae vidit.<verse eID="revelation.1.2" />
+        <verse sID="revelation.1.3" osisID="revelation.1.3" />Foelix, qui legit, et qui audiunt verba prophetiae huius: et custodiunt ea, quae in ea scripta sunt: quia tempus iam in proximo est.<verse eID="revelation.1.3" />
+        <verse sID="revelation.1.4" osisID="revelation.1.4" />Ioannes septem Ecclesiis, quae sunt in Asia. Gratia vobis, et pax a Deo, qui est, et qui erat, et qui venturus est, omnipotens; et a septem spiritibus, qui in conspectu throni Dei sunt;<verse eID="revelation.1.4" />
+        <verse sID="revelation.1.5" osisID="revelation.1.5" />et ab Iesu Christo, qui est testis fidelis, primogenitus mortuorum..... passus etiam suo nos sanguine solvit a peccato,<verse eID="revelation.1.5" />
+        <verse sID="revelation.1.6" osisID="revelation.1.6" />et fecit nos in regnum, et sacerdotes Deo et Patri suo.......<verse eID="revelation.1.6" />
+        <verse sID="revelation.1.7" osisID="revelation.1.7" />Ecce venit cum nubibus, et videbit cum omnis oculus, et qui eum confixerunt. Et videbit illum omnis terra, et plangent se adveniente eo: Ita : Amen.<verse eID="revelation.1.7" />
+        <verse sID="revelation.1.8" osisID="revelation.1.8" />Ego sum α, et ω, dicit Dominus Deus, qui est, et qui erat, et qui venturus, omnipotens.<verse eID="revelation.1.8" />
+        <verse sID="revelation.1.9" osisID="revelation.1.9" />Ego Ioannes frater vester, et particeps in tribulatione, et regno, et patientia in Christo Iesu; fui in insula, quae appellatur Pathmos, propter verbum Dei, et testimonium Iesu Christi:<verse eID="revelation.1.9" />
+        <verse sID="revelation.1.10" osisID="revelation.1.10" />Fui in spiritu die Dominico, et audivi post me vocem magnam sicut tubam,<verse eID="revelation.1.10" />
+        <verse sID="revelation.1.11" osisID="revelation.1.11" />dicentem mihi: Quae vides, scribe in libro: et mitte septem Ecclesiis, Epheso, Smyrnae, Pergamo, et Thyatyrae, Sardis, Philadelphiae, et Laodiceae.<verse eID="revelation.1.11" />
+        <verse sID="revelation.1.12" osisID="revelation.1.12" />Et conversus respexi, ut viderem vocem quae mecum loquebatur: Et vidi septem candelabra aurea:<verse eID="revelation.1.12" />
+        <verse sID="revelation.1.13" osisID="revelation.1.13" />et in medio candelabrorum similem filio hominis, vestitum podêre: et erat praecinctus supra mamillas zona aurea:<verse eID="revelation.1.13" />
+        <verse sID="revelation.1.14" osisID="revelation.1.14" />caput autem, et capilli eius erant albi velut lana, aut nix; oculi eius ut flamma ignis,<verse eID="revelation.1.14" />
+        <verse sID="revelation.1.15" osisID="revelation.1.15" />pedes eius similes aurichalco Libani, sicut de fornace ignea, et vox eius sicut vox aquarum multarum.<verse eID="revelation.1.15" />
+        <verse sID="revelation.1.16" osisID="revelation.1.16" />et habebat in dextera sua septem stellas: et ex ore eius gladius: utrinque acutus exierat. et facies eius splendebat ut sol in virtute sua.<verse eID="revelation.1.16" />
+        <verse sID="revelation.1.17" osisID="revelation.1.17" />Et cum vidissem eum, cecidi ad pedes eius tanquam mortuus. Et posuit super me dexteram suam, dicens : Noli timere, Ioannes : ego sum primus, et novissimus;<verse eID="revelation.1.17" />
+        <verse sID="revelation.1.18" osisID="revelation.1.18" />et vivus, quia fui mortuus; et ecce sum vivens in saecula saeculorum, et habeo claves mortis, et inferorum.<verse eID="revelation.1.18" />
+        <verse sID="revelation.1.19" osisID="revelation.1.19" />Scribe ergo quae vidisti, et quae sunt, et quae oportet fieri post haec.<verse eID="revelation.1.19" />
+        <verse sID="revelation.1.20" osisID="revelation.1.20" />Sacramentum septem stellarum, quas vidisti in dextera mea, et septem candelabrorum aureorum: septem stellae, Angeli sunt septem Ecclesiarum: sed et candelabra, septem Ecclesiae sunt.<verse eID="revelation.1.20" />
+      </p>
+      <chapter eID="revelation.1" />
+      <chapter sID="revelation.2" osisID="revelation.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="revelation.2.1" osisID="revelation.2.1" />Et Angelo Ecclesiae Ephesi scribe: Haec dicit qui tenet septem stellas in dextera sua, qui ambulat in medio septem candelabrorum aureorum:<verse eID="revelation.2.1" />
+        <verse sID="revelation.2.2" osisID="revelation.2.2" />Scio opera tua , et laborem , et tolerantiam, et quia ferre non potes malos: et tentasti eos qui se dicunt Apostolos esse, et non sunt: et invenisti eos mendaces:<verse eID="revelation.2.2" />
+        <verse sID="revelation.2.3" osisID="revelation.2.3" />et habuisti patientiam, et tolerasti propter nomen meum, nec defecisti.<verse eID="revelation.2.3" />
+        <verse sID="revelation.2.4" osisID="revelation.2.4" />Sed habeo adversus te, quoniam charitatem tuam primam reliquisti.<verse eID="revelation.2.4" />
+        <verse sID="revelation.2.5" osisID="revelation.2.5" />Memento unde cecideris: et age poenitentiam, et fac priora opera: sin autem, veniam tibi cito, et movebo candelabrum tuum de loco suo, nisi poenitentiam egeris.<verse eID="revelation.2.5" />
+        <verse sID="revelation.2.6" osisID="revelation.2.6" />Sed noc habes bonum, quoniam odisti facta Nicolaitarum, sicut et ego odi.<verse eID="revelation.2.6" />
+        <verse sID="revelation.2.7" osisID="revelation.2.7" />Qui habet aures, audiat quid Spiritus dicat Ecclesiis: Qui vincet, dabo ei edere de ligno vitae, quod est in Paradiso Dei mei.<verse eID="revelation.2.7" />
+        <verse sID="revelation.2.8" osisID="revelation.2.8" />Et Angelo Ecclesiae Smyrnae scribe: Haec dicit primus, et novissimus; qui fuerat mortuus, et vivit:<verse eID="revelation.2.8" />
+        <verse sID="revelation.2.9" osisID="revelation.2.9" />Scio tribulationes tuas, et paupertatem, sed dives es : et blasphemaris ab his, qui se dicunt Iudaeos esse, et non sunt, sed sunt synagoga sathanae.<verse eID="revelation.2.9" />
+        <verse sID="revelation.2.10" osisID="revelation.2.10" />Nihil eorum timeas quae passurus es. Ecce missurus est diabolus quosdam ex vobis in carcerem, ut tentemini, et tribulationem habeatis dierum decem. Esto fidelis usque ad mortem, et dabo tibi coronam vitae.<verse eID="revelation.2.10" />
+        <verse sID="revelation.2.11" osisID="revelation.2.11" />Qui habet aures, audiat quid Spiritus dicat Ecclesiis: Qui vicerit, non laedetur a morte secunda.<verse eID="revelation.2.11" />
+        <verse sID="revelation.2.12" osisID="revelation.2.12" />Et Angelo Ecclesiae Pergami scribe: Haec dicit qui habet rhomphaeam ex utraque parte acutam:<verse eID="revelation.2.12" />
+        <verse sID="revelation.2.13" osisID="revelation.2.13" />Scio ubi habitas, ubi thronus sathanae est: et tenes nomen meum, et non denegasti fidem meam. In diebus illis Antiphas testis meus, et fidelis, qui occisus est apud vos, ubi sathanas inhabitat.<verse eID="revelation.2.13" />
+        <verse sID="revelation.2.14" osisID="revelation.2.14" />Sed habeo pauca adversus te dicere: habes ibi tenentes doctrinam Balaam, qui docebat Balac mittere scandalum sub oculis filiorum Israel, edere de sacrificiis, et fornicari :<verse eID="revelation.2.14" />
+        <verse sID="revelation.2.15" osisID="revelation.2.15" />similiter habes et tu tenentes doctrinam Nicolaitarum.<verse eID="revelation.2.15" />
+        <verse sID="revelation.2.16" osisID="revelation.2.16" />Similiter age poenitentiam: sin autem, veniam tibi cito, et pugnabo tecum in romphaea oris mei.<verse eID="revelation.2.16" />
+        <verse sID="revelation.2.17" osisID="revelation.2.17" />Qui habet aures, audiat quid Spiritus dicat Ecclesiis: Qui vincet, dabo ei de manna illo absconso, et dabo ei calculum candidum: et super calculum nomen novum, quod nemo novit, nisi qui accepit.<verse eID="revelation.2.17" />
+        <verse sID="revelation.2.18" osisID="revelation.2.18" />Et Angelo Ecclesiae, qui est Thyatirae, scribe : Haec dicit Dei Filius, qui habet oculos ut flamma ignis, et pedes eius similes aurichalco:<verse eID="revelation.2.18" />
+        <verse sID="revelation.2.19" osisID="revelation.2.19" />Scio opera tua , et charitatem , et fidem, et ministerium, et patientiam, et novissima opera tua plura quam priora.<verse eID="revelation.2.19" />
+        <verse sID="revelation.2.20" osisID="revelation.2.20" />Sed habeo adversus te multa: quod sinis uxorem tuam Iezabel, quae se dicit prophetam, et sinis eam docere, et seducere servos meos, fornicari, et manducare de sacrificiis.<verse eID="revelation.2.20" />
+        <verse sID="revelation.2.21" osisID="revelation.2.21" />Dedi ei tempus ut poenitentiam ageret: et poenitere noluit a fornicatione sua.<verse eID="revelation.2.21" />
+        <verse sID="revelation.2.22" osisID="revelation.2.22" />Ecce mitto illam in lectum; et eos, qui cum ea moechati sunt, in maximam tribulationem, nisi poenitentiam egerint ab operibus suis:<verse eID="revelation.2.22" />
+        <verse sID="revelation.2.23" osisID="revelation.2.23" />et filios eius interficiam in mortem, et scient omnes Ecclesiae, quia ego sum scrutator renis, et cordis: et dabo unicuique vestrum secundum opera vestra. Vobis autem dico,<verse eID="revelation.2.23" />
+        <verse sID="revelation.2.24" osisID="revelation.2.24" />reliqui, qui estis Thyatirae: Quotquot non habent doctrinam hanc, qui non scierunt altitudinem sathanae, quemadmodum dicunt, non mittam super vos aliud pondus:<verse eID="revelation.2.24" />
+        <verse sID="revelation.2.25" osisID="revelation.2.25" />sed quod habetis, tenete usque dum * venio.<verse eID="revelation.2.25" />
+        <verse sID="revelation.2.26" osisID="revelation.2.26" />Et qui vicerit, et custodierit usque in finem opera mea, dabo ei potestatem super Gentes,<verse eID="revelation.2.26" />
+        <verse sID="revelation.2.27" osisID="revelation.2.27" />et reget eas in virga ferrea, sicut vas figuli confringentur,<verse eID="revelation.2.27" />
+        <verse sID="revelation.2.28" osisID="revelation.2.28" />sicut et ego accepi a Patre meo, et dabo illi stellam matutinam.<verse eID="revelation.2.28" />
+        <verse sID="revelation.2.29" osisID="revelation.2.29" />....Vide Not.<verse eID="revelation.2.29" />
+      </p>
+      <chapter eID="revelation.2" />
+      <chapter sID="revelation.3" osisID="revelation.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="revelation.3.1" osisID="revelation.3.1" />Angelo Ecclesiae, qui est Sardis, scribe: Haec dicit qui habet septem Spiritus Dei, et septem stellas: Scio opera tua, quia nomen habes quoniam vivis, et mortuus es.<verse eID="revelation.3.1" />
+        <verse sID="revelation.3.2" osisID="revelation.3.2" />Esto vigilans, et stabilis, et confirma reliqua, quae moritura erant. Non enim inveni opera tua repleta coram Deo meo.<verse eID="revelation.3.2" />
+        <verse sID="revelation.3.3" osisID="revelation.3.3" />Memento quemadmodum acceperis, et audita custodi, et age poenitentiam. Si autem non geris poenitentiam, Veniam, et suscitabo adventum meum ad te, quasi fur veniam, et non scies qua hora veniam ad te.<verse eID="revelation.3.3" />
+        <verse sID="revelation.3.4" osisID="revelation.3.4" />Verum habes pauca nomina in Sardis, qui non inquinaverunt vestem suam: et mecum ambulaverunt in albis, quoniam digni sunt.<verse eID="revelation.3.4" />
+        <verse sID="revelation.3.5" osisID="revelation.3.5" />Qui vicerit, sic vestietur albam vestem, et non delebo nomen eius de Libro vitae, et confitebor nomen eius coram Patre meo, et coram angelis eius.<verse eID="revelation.3.5" />
+        <verse sID="revelation.3.6" osisID="revelation.3.6" />..... Vide Not.<verse eID="revelation.3.6" />
+        <verse sID="revelation.3.7" osisID="revelation.3.7" />Angelo Ecclesiae, qui est Philadelphiae, scribe: Haec dicit Sanctus et Verus, qui habet clavem David: qui aperit, et nemo claudit : et qui claudit quod nemo aperit:<verse eID="revelation.3.7" />
+        <verse sID="revelation.3.8" osisID="revelation.3.8" />....Ecce dedi in conspectu tuo apertum ostium, quod nemo claudere potest: quoniam pusillas habes vires, et servasti verbum meum, et non negasti nomen meum.<verse eID="revelation.3.8" />
+        <verse sID="revelation.3.9" osisID="revelation.3.9" />Ecce dabo de synagoga sathanae ex his, qui se Iudaeos dicunt esse, nec sunt, sed mentiuntur: Ecce facturus sum illos venire ante pedes tuos adorare: et scies quia dilexi te :<verse eID="revelation.3.9" />
+        <verse sID="revelation.3.10" osisID="revelation.3.10" />quoniam servasti verbum tolerantiae meae et ego te tuebor ab hora tentationis, quae ventura est universo orbi terrarum tentari eos, qui inhabitant terram.<verse eID="revelation.3.10" />
+        <verse sID="revelation.3.11" osisID="revelation.3.11" />Venio cito : tene quod habes, ne quis alius accipiat coronam tuam.<verse eID="revelation.3.11" />
+        <verse sID="revelation.3.12" osisID="revelation.3.12" />Qui vicerit, faciam eum columnam in templo Dei mei, et foris non exiet amplius : et scribam super illum nomen Dei mei, et nomen civitatis Dei mei novae Ierusalem, quae descendit de coelo a Deo meo, et nomen meum novum.<verse eID="revelation.3.12" />
+        <verse sID="revelation.3.13" osisID="revelation.3.13" />..... Vide Not.<verse eID="revelation.3.13" />
+        <verse sID="revelation.3.14" osisID="revelation.3.14" />Angelo Ecclesiae Laodiceae scribe: Haec dicit, quia est, Amen, testis fidelis, et verus, qui est initium creaturae Dei.<verse eID="revelation.3.14" />
+        <verse sID="revelation.3.15" osisID="revelation.3.15" />Scio opera tua, quia neque frigidus es, neque fervens: utinam frigidus esses, aut fervens:<verse eID="revelation.3.15" />
+        <verse sID="revelation.3.16" osisID="revelation.3.16" />sed quia tepidus es, incipiam te ex ore meo vomere.<verse eID="revelation.3.16" />
+        <verse sID="revelation.3.17" osisID="revelation.3.17" />Dicis: Dives sum, et ditatus sum, et nullius rei egeo: et nescis quoniam tu es miser, et miserabilis, et pauper, et caecus, et nudus.<verse eID="revelation.3.17" />
+        <verse sID="revelation.3.18" osisID="revelation.3.18" />Suadeo tibi emere a me aurum ignitum de igni, ut sis dives, et veste alba vestiaris, et non appareat in te foeditas nuditatis tuae, et collyrio unge oculos tuos ut videas.<verse eID="revelation.3.18" />
+        <verse sID="revelation.3.19" osisID="revelation.3.19" />Ego quos amo , redarguo , et castigo. Crede ergo, et age poenitentiam.<verse eID="revelation.3.19" />
+        <verse sID="revelation.3.20" osisID="revelation.3.20" />Ecce ego sto ante ostium , et pulso : si forte quis audierit vocem meam, et aperuerit mihi ianuam, introibo ad eum, et coenabo cum eo, et ille mecum in throno meo.<verse eID="revelation.3.20" />
+        <verse sID="revelation.3.21" osisID="revelation.3.21" />Vincenti dabo sedere mecum in throno meo : sicut et ego vici, et sedeo cum patre meo in throno eius.<verse eID="revelation.3.21" />
+        <verse sID="revelation.3.22" osisID="revelation.3.22" />Qui habet aures, audiat quid Spiritus dicat Ecclesiis.<verse eID="revelation.3.22" />
+      </p>
+      <chapter eID="revelation.3" />
+      <chapter sID="revelation.4" osisID="revelation.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="revelation.4.1" osisID="revelation.4.1" />Postea vidi: ecce ostium apertum in coelo: ecce vox illa prima, quam audivi, ut tuba loquentem mecum: Ascende huc, inquit, et ostendam tibi quae fieri post haec oportet.<verse eID="revelation.4.1" />
+        <verse sID="revelation.4.2" osisID="revelation.4.2" />Statim fui in spiritu: et ecce vidi thronum positum in coelo, et super thronum sedentem:<verse eID="revelation.4.2" />
+        <verse sID="revelation.4.3" osisID="revelation.4.3" />et is, qui sedebat, similis visui erat iaspidis, et sardinis: et arcus erat in circuitu throni, similis visui smaragdino.<verse eID="revelation.4.3" />
+        <verse sID="revelation.4.4" osisID="revelation.4.4" />Et in circuitu throni sedilia viginti quatuor: in quibus seniores sedentes erant viginti quatuor, circumamicti veste alba, et super capita eorum coronae aureae.<verse eID="revelation.4.4" />
+        <verse sID="revelation.4.5" osisID="revelation.4.5" />Et ex illorum throno exeunt coruscationes. et voces, et tonitrua: et septem phialae ignis ardentes erant in conspectu throni, qui sunt septem spiritus Dei.<verse eID="revelation.4.5" />
+        <verse sID="revelation.4.6" osisID="revelation.4.6" />Et in conspectu throni mare vitreum simile crystallo: medio autem throno, et in circuitu throni, quatuor animalia plena oculis ante et retro.<verse eID="revelation.4.6" />
+        <verse sID="revelation.4.7" osisID="revelation.4.7" />Animal primum simile leoni, et secundum animal simile vitulo, tertium animal habens faciem quasi humanam, quartum animal simile aquilae volanti.<verse eID="revelation.4.7" />
+        <verse sID="revelation.4.8" osisID="revelation.4.8" />Et quatuor animalia habebant singula alas senas per circuitum: erant plena oculis ante se et retro: quae non habebant requiem nocte ac die, dicentes: Sanctus, Sanctus, Sanctus, Dominus Deus omnipotens, qui fuit, et est, et venturus est.<verse eID="revelation.4.8" />
+        <verse sID="revelation.4.9" osisID="revelation.4.9" />Et cum dederant illa animalia claritatem. et honorem, et gratiam sedenti in throno, viventi in saecula saeculorum,<verse eID="revelation.4.9" />
+        <verse sID="revelation.4.10" osisID="revelation.4.10" />statim cadebant in faciem viginti quatuor seniores in conspectu throni, et adorabant viventem in saecula saeculorum, mittentes coronas suas ante thronum, dicentes:<verse eID="revelation.4.10" />
+        <verse sID="revelation.4.11" osisID="revelation.4.11" />Dignus es Domine Deus noster accipere claritatem, et honorem, et potestatem: quoniam tu creasti omnia, et ex tua potestate haec sunt constituta.<verse eID="revelation.4.11" />
+      </p>
+      <chapter eID="revelation.4" />
+      <chapter sID="revelation.5" osisID="revelation.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="revelation.5.1" osisID="revelation.5.1" />Et vidi librum in dextera Dei sedentis super thronum, scriptum intus et foris, signatum signis septem.<verse eID="revelation.5.1" />
+        <verse sID="revelation.5.2" osisID="revelation.5.2" />Et vidi Angelum fortem, praedicantem voce magna: Quis est dignus aperire librum, et solvere septem signacula eius?<verse eID="revelation.5.2" />
+        <verse sID="revelation.5.3" osisID="revelation.5.3" />Nec quisquam poterat, neque in coelo, neque super terram, neque sub terra, librum aperire, sed neque perspicere illum.<verse eID="revelation.5.3" />
+        <verse sID="revelation.5.4" osisID="revelation.5.4" />Et ego flebam multum, quod nemo dignus inventus esset qui aperiret librum, aut solveret signacula eius.<verse eID="revelation.5.4" />
+        <verse sID="revelation.5.5" osisID="revelation.5.5" />Et unus ex senioribus dicit mihi: Ne fleveris : ecce vicit leo de tribu Iuda, radix David, aperire librum, et septem signacula eius.<verse eID="revelation.5.5" />
+        <verse sID="revelation.5.6" osisID="revelation.5.6" />Et vidi in medio throni, et in medio quatuor animalium, et seniorum, agnum stantem quasi occisum, habentem cornua septem, et oculos septem: qui sunt septem spiritus Dei, missi per orbem terrarum.<verse eID="revelation.5.6" />
+        <verse sID="revelation.5.7" osisID="revelation.5.7" />Et venit, et accepit librum de dextera Dei sedentis in throno.<verse eID="revelation.5.7" />
+        <verse sID="revelation.5.8" osisID="revelation.5.8" />Et cum accepisset librum, quatuor animalia, et viginti quatuor seniores prostraverunt se ante agnum, habentes singuli aureas citharas, et phialas aureas plenas odoramentis supplicationum, quae sunt orationes sanctorum:<verse eID="revelation.5.8" />
+        <verse sID="revelation.5.9" osisID="revelation.5.9" />et cantantes novum canticum, dicentes: Dignus es accipere librum, et aperire signacula eius: quoniam occisus es, et redemisti nos Deo in sanguine tuo ex omni tribu , et lingua , et populo et natione:<verse eID="revelation.5.9" />
+        <verse sID="revelation.5.10" osisID="revelation.5.10" />et fecisti nos regnum Deo nostro, et sacerdotes: et regnavimus super terram.<verse eID="revelation.5.10" />
+        <verse sID="revelation.5.11" osisID="revelation.5.11" />Et vidi, et audivi vocem multorum angelorum in circuitu throni, et in circuitu animalium, et seniorum: et erat numerus eorum millia millium<verse eID="revelation.5.11" />
+        <verse sID="revelation.5.12" osisID="revelation.5.12" />dicentium voce magna: Dignus est Agnus, qui occisus est, accipere potestatem, et divitias. et sapientiam, et fortitudinem, et honorem, et claritatem, et benedictionem.<verse eID="revelation.5.12" />
+        <verse sID="revelation.5.13" osisID="revelation.5.13" />Et omnem creaturam, quae est in coelis. et in terra, et subtus terram, et in mari, et quaecunque sunt in eis: omnes audivi dicentes : Sedenti in throno , et Agno, benedictio , et honor, et dignitas, et potestas in saecula saeculorum.<verse eID="revelation.5.13" />
+        <verse sID="revelation.5.14" osisID="revelation.5.14" />Et quatuor animalia dicebant : Amen. Et viginti quatuor seniores ceciderunt, et adoraverunt viventem in saecula saeculorum.<verse eID="revelation.5.14" />
+      </p>
+      <chapter eID="revelation.5" />
+      <chapter sID="revelation.6" osisID="revelation.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="revelation.6.1" osisID="revelation.6.1" />Et cum aperuisset Agnus unum ex septem signis, audivi unum ex quatuor animalibus, dicens: Veni, et vide.<verse eID="revelation.6.1" />
+        <verse sID="revelation.6.2" osisID="revelation.6.2" />Et ecce equus albus, et qui sedebat super eum tenebat sagittam, et data est ei corona, et exiit ut vinceret, et victor exiit.<verse eID="revelation.6.2" />
+        <verse sID="revelation.6.3" osisID="revelation.6.3" />Et cum aperuisset signum secundum, audivi secundum animal, dicens: Veni, et vide.<verse eID="revelation.6.3" />
+        <verse sID="revelation.6.4" osisID="revelation.6.4" />Exivit alius equus rufus: et sedenti super eum datum est ut tolleret pacem de terra, et ut invicem se occiderent, et datus est ei gladius magnus.<verse eID="revelation.6.4" />
+        <verse sID="revelation.6.5" osisID="revelation.6.5" />Et cum aperuisset signum tertium, audivi tertium animal, dicens : Veni, et vide. Et vidi equum nigrum: et qui sedebat super eum, habebat stateram in manu sua.<verse eID="revelation.6.5" />
+        <verse sID="revelation.6.6" osisID="revelation.6.6" />Et audivi vocem in medio quatuor animalium, dicentem: Bilibris tritici denario uno, et tres bilibres hordei denario uno, vinum, et oleum ne laeseris.<verse eID="revelation.6.6" />
+        <verse sID="revelation.6.7" osisID="revelation.6.7" />Et cum aperuisset signum quartum, audivi quartum animal dicens: Veni, et vide.<verse eID="revelation.6.7" />
+        <verse sID="revelation.6.8" osisID="revelation.6.8" />Et vidi equum pallidum: et qui sedebat super eum, nomen ei erat Mors, et infernus sequebatur eum, et data est ei potestas super quartam partem terrae, ut interficeret gladio, fame, et morte, et bestiis eos, qui sunt in terra.<verse eID="revelation.6.8" />
+        <verse sID="revelation.6.9" osisID="revelation.6.9" />Et cum aperuisset quintum signum, vidi sub ara Dei animas occisorum propter verbum Dei, et martyrium suum,<verse eID="revelation.6.9" />
+        <verse sID="revelation.6.10" osisID="revelation.6.10" />et clamaverunt voce magna , dicentes : Quousque Domine, (sanctus, et verus) non iudicas, et vindicas sanguinem nostrum de his, qui in terris habitant?<verse eID="revelation.6.10" />
+        <verse sID="revelation.6.11" osisID="revelation.6.11" />Et datae sunt eis singulis stolae albae: et dictum est eis ut requiescerent brevi adhuc tempore donec impleatur numerus conservorum, et fratrum eorum, quique postea occidentur exemplo ipsorum.<verse eID="revelation.6.11" />
+        <verse sID="revelation.6.12" osisID="revelation.6.12" />Et vidi: et cum aperuisset sextum signum et terrae motus magnus factus est, et ecce sol factus est niger ut saccus cilicinus: et luna tota facta est sicut sanguis:<verse eID="revelation.6.12" />
+        <verse sID="revelation.6.13" osisID="revelation.6.13" />stellae de coelo ceciderunt in terram eo modo, quo ficus vento magno agitata amittit acerbos fructus suos:<verse eID="revelation.6.13" />
+        <verse sID="revelation.6.14" osisID="revelation.6.14" />et coelum recessit ut liber cum evolvitur: et omnis mons, et insulae de locis suis motae sunt:<verse eID="revelation.6.14" />
+        <verse sID="revelation.6.15" osisID="revelation.6.15" />et reges terrae, et magistratus, et tribuni, et divites, et fortes, et omnis servus, et liber absconderunt se in speluncis, et in petris montium<verse eID="revelation.6.15" />
+        <verse sID="revelation.6.16" osisID="revelation.6.16" />dicentes montibus, et petris: Cadite super nos, et abscondite nos a facie sedentis super thronum, et ab ira Agni:<verse eID="revelation.6.16" />
+        <verse sID="revelation.6.17" osisID="revelation.6.17" />quoniam venit dies magnus irae eius: et quis poterit stare ante illum?<verse eID="revelation.6.17" />
+      </p>
+      <chapter eID="revelation.6" />
+      <chapter sID="revelation.7" osisID="revelation.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="revelation.7.1" osisID="revelation.7.1" />Post haec vidi quatuor Angelos stantes super quatuor angulos terrae, tenentes quatuor ventos terrae, in terris ne flarent, neque in mari neque in ulla arbore.<verse eID="revelation.7.1" />
+        <verse sID="revelation.7.2" osisID="revelation.7.2" />Et vidi Angelum ascendentem ab oriente sole, habentem signum Dei vivi: et exclamavit voce magna ad quatuor Angelos, eo quod datum esset illis laedere terram, et mare,<verse eID="revelation.7.2" />
+        <verse sID="revelation.7.3" osisID="revelation.7.3" />dicens eis: Non laeseritis terram, neque mare, neque ullam arborem, donec signemus servos Dei nostri in frontibus eorum.<verse eID="revelation.7.3" />
+        <verse sID="revelation.7.4" osisID="revelation.7.4" />Et audivi numerum signatorum, centum quadraginta quatuor millia signati, ex omni tribu filiorum Israel.<verse eID="revelation.7.4" />
+        <verse sID="revelation.7.5" osisID="revelation.7.5" />Ex tribu Iuda duodecim millia signati: Ex tribu Ruben duodecim millia: Ex tribu Gad duodecim millia.<verse eID="revelation.7.5" />
+        <verse sID="revelation.7.6" osisID="revelation.7.6" />Ex tribu Aser duodecim millia: Ex tribu Nephtali duodecim millia: Ex tribu Manasse duodecim millia:<verse eID="revelation.7.6" />
+        <verse sID="revelation.7.7" osisID="revelation.7.7" />Ex tribu Simeon duodecim millia: Ex tribu Levi duodecim millia: Ex tribu Isachar duodecim millia:<verse eID="revelation.7.7" />
+        <verse sID="revelation.7.8" osisID="revelation.7.8" />Ex tribu Zabulon duodecim millia: Ex tribu Ioseph duodecim millia: Ex tribu Beniamin duodecim millia.<verse eID="revelation.7.8" />
+        <verse sID="revelation.7.9" osisID="revelation.7.9" />Post haec vidi turbam multam, quam dinumerare nemo poterat, ex omni gente, et ex omni tribu, et populo, et lingua : stantes ante thronum, et in conspectu Agni: et erant amicti stolis albis, et palmae fuerunt in manibus eorum:<verse eID="revelation.7.9" />
+        <verse sID="revelation.7.10" osisID="revelation.7.10" />et magno clamore dicebant : Salus Deo nostro, sedenti super thronum, et Agno.<verse eID="revelation.7.10" />
+        <verse sID="revelation.7.11" osisID="revelation.7.11" />Et omnes Angeli stabant in circuitu throni, et circa seniores, et circa quatuor animalia: et mox ceciderunt in facies suas ante conspectum throni, et adoraverunt Deum,<verse eID="revelation.7.11" />
+        <verse sID="revelation.7.12" osisID="revelation.7.12" />dicentes, Amen. Benedictio, et claritas, et sapientia, et gratia, et honor, et potestas, et virtus Deo nostro in saecula saeculorum.<verse eID="revelation.7.12" />
+        <verse sID="revelation.7.13" osisID="revelation.7.13" />Et respondit unus ex senioribus, dicens mihi: Hi, qui amicti sunt stolis albis, qui sunt? et unde venerunt?<verse eID="revelation.7.13" />
+        <verse sID="revelation.7.14" osisID="revelation.7.14" />Et dixi ei : Tu scis, Domine. Et dixit mihi : Hi sunt, qui venerunt ex tribulatione magna, et laverunt stolas suas, et candidas eas fecerunt in sanguine Agni :<verse eID="revelation.7.14" />
+        <verse sID="revelation.7.15" osisID="revelation.7.15" />propter hoc sunt in conspectu throni Dei et deserviunt ei die ac nocte in templo eius, et in conspectu throni Dei: et is, qui sedit in throno, inhabitavit in eis:<verse eID="revelation.7.15" />
+        <verse sID="revelation.7.16" osisID="revelation.7.16" />non esurient, neque sitient unquam, neque sol super eos cadet, nec ullum aestum patientur:<verse eID="revelation.7.16" />
+        <verse sID="revelation.7.17" osisID="revelation.7.17" />quoniam Agnus, qui in medio throni est; reget eos, et deducet eos ad vitaee fontem aquarum, et absterget Deus omnem lachrymam ex oculis eorum.<verse eID="revelation.7.17" />
+      </p>
+      <chapter eID="revelation.7" />
+      <chapter sID="revelation.8" osisID="revelation.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="revelation.8.1" osisID="revelation.8.1" />Et cum aperuisset signum septimum, factum est silentium in coelo, fere semi hora.<verse eID="revelation.8.1" />
+        <verse sID="revelation.8.2" osisID="revelation.8.2" />Et vidi septem Angelos n conspectu Dei stantes: et datae sunt eis septem tubae.<verse eID="revelation.8.2" />
+        <verse sID="revelation.8.3" osisID="revelation.8.3" />Et alius Angelus venit, et stetit super altarium Dei tenens thuribulum aureum: et data sunt ei supplicamenta multa, ut daret orationes sanctorum omnium ad aram Dei auream, quae est in conspectu throni.<verse eID="revelation.8.3" />
+        <verse sID="revelation.8.4" osisID="revelation.8.4" />Et ascendit fumus supplicationum oratio num sanctorum de manu Angeli ante conspectu Dei.<verse eID="revelation.8.4" />
+        <verse sID="revelation.8.5" osisID="revelation.8.5" />Et accepit Angelus thuribulum, et implevit illud de igne irae Dei, et misit in terram, et facta sunt tonitrua, et voces, et fulgura, et terrae motus.<verse eID="revelation.8.5" />
+        <verse sID="revelation.8.6" osisID="revelation.8.6" />Et septem Angeli habentes septem tubas, praeparaverunt se ut tuba canerent.<verse eID="revelation.8.6" />
+        <verse sID="revelation.8.7" osisID="revelation.8.7" />Et primus Angelus tuba cecinit, et facta est grando, et flamma, commixta in sanguinem. et in terra iactata est, et tertia pars terrae dearsit et tertia pars arborum dearsit, omne foenum viride dearsit.<verse eID="revelation.8.7" />
+        <verse sID="revelation.8.8" osisID="revelation.8.8" />Et secundus Angelus tuba cecinit: et ut mons magnus igne ardens missus est in mare, et facta est tertia pars maris in sanguine<verse eID="revelation.8.8" />
+        <verse sID="revelation.8.9" osisID="revelation.8.9" />et mortua est tertia pars piscium, et tertia pars* navium periit.<verse eID="revelation.8.9" />
+        <verse sID="revelation.8.10" osisID="revelation.8.10" />Et tertius Angelus tuba cecinit: et cecidit de coelo stella magna, ardens ut facula, super tertiam partem fluminum, et super fontes aquarum:<verse eID="revelation.8.10" />
+        <verse sID="revelation.8.11" osisID="revelation.8.11" />et nomen stellae dicitur Absentius; et facta est tertia pars aquarum sicut absentium: et multi homines mortui sunt ab amaritudine aquarum.<verse eID="revelation.8.11" />
+        <verse sID="revelation.8.12" osisID="revelation.8.12" />Et quartus Angelus tuba cecinit: et percussa est tertia pars solis, et tertia pars lunae, et tertia pars stellarum, ut minus lucerent, et dies eandem partem amitteret, et nox similiter.<verse eID="revelation.8.12" />
+        <verse sID="revelation.8.13" osisID="revelation.8.13" />Et vidi, et audivi vocem unius aquilae volantis in medio coeli, et dicentem: Vae, vae, vae habitantibus terram......<verse eID="revelation.8.13" />
+      </p>
+      <chapter eID="revelation.8" />
+      <chapter sID="revelation.9" osisID="revelation.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="revelation.9.1" osisID="revelation.9.1" />...... et data est ei clavis putei abyssi.<verse eID="revelation.9.1" />
+        <verse sID="revelation.9.2" osisID="revelation.9.2" />Et accepit putei abyssi clavem, et aperuit puteum abyssi: et adscendit fumus de puteo, sicut fumus fornacis magnae: et obscuratus est sol et aer de fumo putei:<verse eID="revelation.9.2" />
+        <verse sID="revelation.9.3" osisID="revelation.9.3" />Et ex fumo putei exierunt locustae in terram, et data est eis potestas, sicut habent potestatem scorpii terrae:<verse eID="revelation.9.3" />
+        <verse sID="revelation.9.4" osisID="revelation.9.4" />et praeceptum est illis ne laederent foenum terrae, neque omnem arborem: nisi homines.....<verse eID="revelation.9.4" />
+        <verse sID="revelation.9.5" osisID="revelation.9.5" />et datum est eis ne occiderent eos; sed ut cruciarent: et cruciatus eorum, sicut cruciatus scorpii cum percutit hominem.<verse eID="revelation.9.5" />
+        <verse sID="revelation.9.6" osisID="revelation.9.6" />Et quaerent homines mortem.......<verse eID="revelation.9.6" />
+        <verse sID="revelation.9.7" osisID="revelation.9.7" />....... et super capita earum tanquam coronae similes auro.......<verse eID="revelation.9.7" />
+        <verse sID="revelation.9.8" osisID="revelation.9.8" />Et habebant capillos sicut capillos mulierum.....<verse eID="revelation.9.8" />
+        <verse sID="revelation.9.9" osisID="revelation.9.9" />....Vide Not.<verse eID="revelation.9.9" />
+        <verse sID="revelation.9.10" osisID="revelation.9.10" />et habebant caudas similes scorpiis, et aculei in caudis earum: potestas in caudis earum erat laedendi homines mensibus quinque: et habebant super se<verse eID="revelation.9.10" />
+        <verse sID="revelation.9.11" osisID="revelation.9.11" />regem angelum abyssi, cui nomen Hebraice Armageddom, Graecâ autem linguâ Apollyon et Latina linguâ nomen habens Exterminans.<verse eID="revelation.9.11" />
+        <verse sID="revelation.9.12" osisID="revelation.9.12" />Vae unum abiit, et ecce alia duo vae sequuntur.<verse eID="revelation.9.12" />
+        <verse sID="revelation.9.13" osisID="revelation.9.13" />Et sextus Angelus tuba cecinit: et audivi unum ex quatuor cornibus arae Dei, arae, quae sub oculis Dei est<verse eID="revelation.9.13" />
+        <verse sID="revelation.9.14" osisID="revelation.9.14" />dicentem sexto Angelo, qui tubam portabat: Solve quatuor Angelos, qui sunt vincti super flumen illud magnum Euphraten.<verse eID="revelation.9.14" />
+        <verse sID="revelation.9.15" osisID="revelation.9.15" />Et soluti sunt quatuor illi Angeli, qui erant parati in horam, et diem, et mensem, et annum: ut occiderent tertiam partem hominum.<verse eID="revelation.9.15" />
+        <verse sID="revelation.9.16" osisID="revelation.9.16" />Et numerus militantium equitum illius octoginta millia. Audivi numerum illorum.<verse eID="revelation.9.16" />
+        <verse sID="revelation.9.17" osisID="revelation.9.17" />Et vidi equos in visione, et sedentes super eos, habentes loricas igneas, et spineas, et sulphureas, et erant eis capita ut leonum: et de ore eorum exiebat ignis, et fumus, et sulphur.<verse eID="revelation.9.17" />
+        <verse sID="revelation.9.18" osisID="revelation.9.18" />A tribus plagis istis occisa est tertia pars hominum ex igne, et fumo, et sulphure, quod exiit de ore eorum.<verse eID="revelation.9.18" />
+        <verse sID="revelation.9.19" osisID="revelation.9.19" />Nam potestas equorum in ore, et caudis eorum erat: nam caudae eorum erant similes serpentibus, habentes capita draconum, de quibus nocebant.<verse eID="revelation.9.19" />
+        <verse sID="revelation.9.20" osisID="revelation.9.20" />Et caeteri homines, qui his plagis non sunt interempti, neque egerunt poenitentiam factorum suorum malorum, ne adorarent daemonia, et simulacra aurea, et argentea , et aerea, et lapidea, et lignea, quae neque videre possunt, neque audire, neque ambulare :<verse eID="revelation.9.20" />
+        <verse sID="revelation.9.21" osisID="revelation.9.21" />et poenitentiam non egerunt ab homicidiis, neque a veneficiis suis.......<verse eID="revelation.9.21" />
+      </p>
+      <chapter eID="revelation.9" />
+      <chapter sID="revelation.10" osisID="revelation.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="revelation.10.1" osisID="revelation.10.1" />Et vidi Angelum alium fortem descendentem de coelo nube amictum, et arcus super caput eius, et vultus eius erat ut sol, et pedes eius ut columnae ignis:<verse eID="revelation.10.1" />
+        <verse sID="revelation.10.2" osisID="revelation.10.2" />et habebat in manu sua librum apertum: et posuit pedem suum dextrum super mare, et sinistrum super terram:<verse eID="revelation.10.2" />
+        <verse sID="revelation.10.3" osisID="revelation.10.3" />et exclamavit voce magna, tanquam leo rugiens. Et cum clamasset, locuta sunt septem tonitrua.<verse eID="revelation.10.3" />
+        <verse sID="revelation.10.4" osisID="revelation.10.4" />Et quae locuta sunt septem tonitrua scripturus eram: et audivi vocem de coelo dicentem: Signa quae locuta sunt septem tonitrua, ne scripseris ea.<verse eID="revelation.10.4" />
+        <verse sID="revelation.10.5" osisID="revelation.10.5" />Et Angelus, quem vidi stantem super mare et super terram, sustulit manum suam dexteram in coelum:<verse eID="revelation.10.5" />
+        <verse sID="revelation.10.6" osisID="revelation.10.6" />et iuravit per viventem in saecula saeculorum, qui coelum constituit, et quae in eo; et terram, et quae in ea: Quoniam tempus iam non erit:<verse eID="revelation.10.6" />
+        <verse sID="revelation.10.7" osisID="revelation.10.7" />sed in diebus vocis septimi Angeli, cum coeperit tuba canere, finietur sacramentum Dei quemadmodum evangelizavit per Prophetas servos suos.<verse eID="revelation.10.7" />
+        <verse sID="revelation.10.8" osisID="revelation.10.8" />Et audivi vocem de coelo iterum loquentem mecum: Vade, et accipe librum apertum de manu Angeli stantis super mare, et super terram.<verse eID="revelation.10.8" />
+        <verse sID="revelation.10.9" osisID="revelation.10.9" />Et abii ad Angelum, dicens ut daret mihi librum. Et dicit mihi: Sume, et comede eum: et amarum faciet ventrem tuum, sed in ore tuo dulcis erit quasi mel.<verse eID="revelation.10.9" />
+        <verse sID="revelation.10.10" osisID="revelation.10.10" />Et cum accepissem libellum de manu Angeli, et cum comedissem eum, statim repletus est venter meus:<verse eID="revelation.10.10" />
+        <verse sID="revelation.10.11" osisID="revelation.10.11" />et ait: Oportet te iterum prophetare in populo, et in nationes, et linguas, et reges multos.<verse eID="revelation.10.11" />
+      </p>
+      <chapter eID="revelation.10" />
+      <chapter sID="revelation.11" osisID="revelation.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="revelation.11.1" osisID="revelation.11.1" />Dedit mihi arundinem auream similem virgae, dicens : Surge, et metire templum Dei, et aram Dei, et adorantes in eo :<verse eID="revelation.11.1" />
+        <verse sID="revelation.11.2" osisID="revelation.11.2" />aram autem, quae est a foris templi, ne metiaris: quoniam data est Gentibus, et civitatem sanctam calcabunt mensibus quadraginta duobus:<verse eID="revelation.11.2" />
+        <verse sID="revelation.11.3" osisID="revelation.11.3" />et dabo duobus martyribus meis, ut prophetent diebus mille ducentis sexaginta, saccis amicti.<verse eID="revelation.11.3" />
+        <verse sID="revelation.11.4" osisID="revelation.11.4" />Hi sunt duae olivae, et duo candelabra consistentia sub conspectu Domini terrae.<verse eID="revelation.11.4" />
+        <verse sID="revelation.11.5" osisID="revelation.11.5" />Et si quis eos vellet nocere, ignis exiet de ore eorum, comburens inimicos eorum: et si quis eos vult laedere, sic oportet et illum occidi.<verse eID="revelation.11.5" />
+        <verse sID="revelation.11.6" osisID="revelation.11.6" />Hi habent potestatem claudere coelum, ne imbrem pluat in diebus prophetiae ipsorum: et potestatem habent omnium aquarum, convertendi eas in sanguinem, et ferire terram in omni plaga quotiescunque * voluerint.<verse eID="revelation.11.6" />
+        <verse sID="revelation.11.7" osisID="revelation.11.7" />Et cum finierint martyrium suum, bestia quae ascendit de abysso, faciet cum eis bellum et vincet eos, et occidet eos.<verse eID="revelation.11.7" />
+        <verse sID="revelation.11.8" osisID="revelation.11.8" />Et corpora eorum ponet in medio civitatis illius magnae, quae vocatur spiritualiter Sodoma, et Aegyptus, ubi et Dominus eorum crucifixus est.<verse eID="revelation.11.8" />
+        <verse sID="revelation.11.9" osisID="revelation.11.9" />Et videbunt de populis, et tribubus, linguis, et Gentibus: et corpora eorum non sinent poni in sepulcris:<verse eID="revelation.11.9" />
+        <verse sID="revelation.11.10" osisID="revelation.11.10" />et inhabitantes terram gaudebunt super eos, et iucundabuntur: et munera invicem mittent, quoniam hi duo cruciaverunt eos, qui inhabitant terram.<verse eID="revelation.11.10" />
+        <verse sID="revelation.11.11" osisID="revelation.11.11" />Et post tres dies, et dimidium, spiritus vitae a Deo intravit in illos. Et steterunt super pedes suos, et quicunque eos viderunt, pertimuerunt.<verse eID="revelation.11.11" />
+        <verse sID="revelation.11.12" osisID="revelation.11.12" />Et audivi vocem magnam de coelo, dicentem: Adscendite huc. Et adscenderunt in coelum in nube........<verse eID="revelation.11.12" />
+        <verse sID="revelation.11.13" osisID="revelation.11.13" />Et in illa hora factus est magnus terraemotus, et decima pars civitatis cecidit: et occisa sunt a terraemotu numero septem millia hominum: et reliqui in timorem sunt missi, et dederunt claritatem Deo coeli et terrae.<verse eID="revelation.11.13" />
+        <verse sID="revelation.11.14" osisID="revelation.11.14" />Vae secundum abiit: et ecce vae tertium * venit cito.<verse eID="revelation.11.14" />
+        <verse sID="revelation.11.15" osisID="revelation.11.15" />Et septimus Angelus tuba cecinit: et factae sunt in coelo voces magnae dicentes: Factum est regnum Dei nostri et Christi eius, et regnabit in saecula saeculorum.<verse eID="revelation.11.15" />
+        <verse sID="revelation.11.16" osisID="revelation.11.16" />Et viginti quatuor seniores, qui in conspectu Dei sedent in sedibus suis, ceciderunt in facies suas, et adoraverunt Deum, dicentes:<verse eID="revelation.11.16" />
+        <verse sID="revelation.11.17" osisID="revelation.11.17" />Gratias agimus tibi Domine Deus omnipotens, qui es, et fuisti: quod potestatem tuam magnam accepisti, et regnasti.<verse eID="revelation.11.17" />
+        <verse sID="revelation.11.18" osisID="revelation.11.18" />Et Gentes iratae sunt, et advenit ira tua, et tempus mortuorum iudicare, et reddere mercedem servis Prophetis, et timentibus nomen tuum pusillis, et magnis, atque exterminandi eos, qui terram corruperunt.<verse eID="revelation.11.18" />
+        <verse sID="revelation.11.19" osisID="revelation.11.19" />Et apertum est templum Dei in coelo: et visa est arca testamenti eius in templo eius, et facta sunt fulgura, et voces, et tonitrua, et terraemotus, et grando magna.<verse eID="revelation.11.19" />
+      </p>
+      <chapter eID="revelation.11" />
+      <chapter sID="revelation.12" osisID="revelation.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="revelation.12.1" osisID="revelation.12.1" />Signum magnum visum in coelo: Mulier amicta sole, et luna sub pedibus eius, et in capite eius corona stellarum duodecim:<verse eID="revelation.12.1" />
+        <verse sID="revelation.12.2" osisID="revelation.12.2" />et erat praegnans, et clamabat.......<verse eID="revelation.12.2" />
+        <verse sID="revelation.12.3" osisID="revelation.12.3" />Et visum est aliud signum in coelo: et ecce draco rufus magnus habens capita septem, et cornua decem: et super capita eius diademata septem<verse eID="revelation.12.3" />
+        <verse sID="revelation.12.4" osisID="revelation.12.4" />et cauda eius trahebat tertiam partem stellarum coeli, et deiecit eas in terram: et draco stetit in conspectu mulieris, quae paritura erat; ut cum peperisset, natum eius comedisset.<verse eID="revelation.12.4" />
+        <verse sID="revelation.12.5" osisID="revelation.12.5" />Et peperit masculum, qui recturus erat omnes Gentes in virga ferrea: et raptus est filius eius ad Deum, et ad thronum eius,<verse eID="revelation.12.5" />
+        <verse sID="revelation.12.6" osisID="revelation.12.6" />et mulier fugit in solitudinem, ubi habet locum praeparatum a Deo, ut eam illic alat diebus mille ducentis sexaginta.<verse eID="revelation.12.6" />
+        <verse sID="revelation.12.7" osisID="revelation.12.7" />Et accidit praelium in coelo Michael, et angelis eius, ut pugnarent cum dracone: et draco pugnabat, et angeli eius:<verse eID="revelation.12.7" />
+        <verse sID="revelation.12.8" osisID="revelation.12.8" />neque valuerunt, neque locus eorum amplius in coelo inventus est.<verse eID="revelation.12.8" />
+        <verse sID="revelation.12.9" osisID="revelation.12.9" />Et missus est ille draco, serpens magnus, et antiquus, qui dicitur diabolus, et sathanas, qui ducit universu orbem terrarum: missus est in terram, et angeli eius cum eo missi sunt in terram.<verse eID="revelation.12.9" />
+        <verse sID="revelation.12.10" osisID="revelation.12.10" />Et audivi vocem magnam in coelo dicentem: Nunc facta est salus, et virtus, et regnum Dei nostri , et potestas Christi eius: quoniam praecipitatus est accusator fratrum nostrorum, qui accusabat eos in conspectu Dei nostri diebus ac noctibus.<verse eID="revelation.12.10" />
+        <verse sID="revelation.12.11" osisID="revelation.12.11" />Exsuperatus est ab ipsis propter sanguinem Agni, et propter verbum testimonii eorum, nec amaverunt animas suas usque ad mortem.<verse eID="revelation.12.11" />
+        <verse sID="revelation.12.12" osisID="revelation.12.12" />Propter hoc exsultate coeli, et qui habitatis in eis. Vae vobis terra, et mare, quoniam descendit ad vos diabolus cum ira ingenti, sciens modicum sibi tempus superesse.<verse eID="revelation.12.12" />
+        <verse sID="revelation.12.13" osisID="revelation.12.13" />Et cum vidisset draco quod esset deiectus in terram, persecutus est mulierem, quae illum masculum pepererat:<verse eID="revelation.12.13" />
+        <verse sID="revelation.12.14" osisID="revelation.12.14" />et datae sunt mulieri duae alae quasi aquilae magnae, ut volaret in solitudinem in locum suum ubi alitur per tempus et tempora, et dimidium temporis ab Antichristi facie.<verse eID="revelation.12.14" />
+        <verse sID="revelation.12.15" osisID="revelation.12.15" />Et misit ille serpens ex ore suo post mulierem, aquam in modum fluminis, ut eam perderet.<verse eID="revelation.12.15" />
+        <verse sID="revelation.12.16" osisID="revelation.12.16" />Sed adiuvit terra mulietem, et aperuit terra os suum, et absorbuit flumen, quod draco ex ore suo emiserat.<verse eID="revelation.12.16" />
+        <verse sID="revelation.12.17" osisID="revelation.12.17" />Et iratus draco mulieri, abiit facere bellum cum reliquis de semine eius, qui observant praeceptum Dei, et habent testimonium Iesu Christi.<verse eID="revelation.12.17" />
+        <verse sID="revelation.12.18" osisID="revelation.12.18" />Et stetit super arenam maris.<verse eID="revelation.12.18" />
+      </p>
+      <chapter eID="revelation.12" />
+      <chapter sID="revelation.13" osisID="revelation.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="revelation.13.1" osisID="revelation.13.1" />Et vidi bestiam ascendentem de mari, habentem cornua decem, et capita septem, et super cornua eius diademata, et super capita eius nomen blasphemiae.<verse eID="revelation.13.1" />
+        <verse sID="revelation.13.2" osisID="revelation.13.2" />Et bestia, quam vidi, similis erat pardo, et pedes eius tanquam ursi, et os eius ut os leonis. Et dedit ei draco virtutem suam, et thronum suum, et potestatem magnam.<verse eID="revelation.13.2" />
+        <verse sID="revelation.13.3" osisID="revelation.13.3" />Et unum caput ex septem capitibus quasi occisum fuerit ad mortem: et plaga mortis eius curata est. Mirata terra secuta est bestiam.<verse eID="revelation.13.3" />
+        <verse sID="revelation.13.4" osisID="revelation.13.4" />Et adoraverunt draconem, eo quod tradidisset omnem potestatem suam bestiae. Iterum adoraverunt bestiam, dicentes: Quis similis illi bestiae? et quis poterit belligerare cum ea?<verse eID="revelation.13.4" />
+        <verse sID="revelation.13.5" osisID="revelation.13.5" />..... et data est ei potestas faciendi mensibus quadraginta duobus.<verse eID="revelation.13.5" />
+        <verse sID="revelation.13.6" osisID="revelation.13.6" />Aperuit autem in blasphemia os suum adversus Deum, in blasphemandum nomen eius et tabernaculum eius, et eos, qui in coelo habitant.<verse eID="revelation.13.6" />
+        <verse sID="revelation.13.7" osisID="revelation.13.7" />Et data est ei potestas faciendi bellum cum sanctis, et vicit eos. Et data est ei potestas in omnem tribum, et populum, et linguam, et gentem:<verse eID="revelation.13.7" />
+        <verse sID="revelation.13.8" osisID="revelation.13.8" />et adoraverunt eum omnes inhabitantes terram : quorum nomina non sunt scripta in Libro vitae Agni occisi, qui est ab origine mundi.<verse eID="revelation.13.8" />
+        <verse sID="revelation.13.9" osisID="revelation.13.9" />Si quis habet aures, audiat.<verse eID="revelation.13.9" />
+        <verse sID="revelation.13.10" osisID="revelation.13.10" />Qui captivum duxerit, et ipse capietur: et qui gladio occiderit, et ipsum oportet gladio occidi. Hîc est patientia, et fides Sanctorum.<verse eID="revelation.13.10" />
+        <verse sID="revelation.13.11" osisID="revelation.13.11" />Et vidi aliam bestiam ascendentem de terra, habentem cornua duo similia Agni, et loquebatur ut draco.<verse eID="revelation.13.11" />
+        <verse sID="revelation.13.12" osisID="revelation.13.12" />Et potestatem prioris bestiae omnem faciebat in terra: ut inhabitantes terram adorarent bestiam illam priorem, cuius curata erat plaga mortis.<verse eID="revelation.13.12" />
+        <verse sID="revelation.13.13" osisID="revelation.13.13" />Et fecit signa, ita ut etiam ignem faceret de coelo descendere sub oculis hominum.<verse eID="revelation.13.13" />
+        <verse sID="revelation.13.14" osisID="revelation.13.14" />Et seduxit eos, qui inhabitant terram, propter signa, quae data sunt illi facere coram bestia: et dicit incolis terrae, ut imaginem bestiae faciant, quae habet plagam factam de gladio, et vixit.<verse eID="revelation.13.14" />
+        <verse sID="revelation.13.15" osisID="revelation.13.15" />Et datum est illi dare spiritum imagini illius bestiae, et ut imago bestiae loqueretur: et faceret ut * qui non adorarent imaginem bestiae, occiderentur.<verse eID="revelation.13.15" />
+        <verse sID="revelation.13.16" osisID="revelation.13.16" />Et fecit omnes magnos, et pusillos, et divites, et servos habere notam in dextera manu, aut in frontibus:<verse eID="revelation.13.16" />
+        <verse sID="revelation.13.17" osisID="revelation.13.17" />ne quis posset quicquam mercari, aut vendere, nisi habens notam nominis bestiae, aut numerum nominis eius.<verse eID="revelation.13.17" />
+        <verse sID="revelation.13.18" osisID="revelation.13.18" />Hîc est sapientia. Qui habet intellectum, computet numerum bestiae. Hominis enim numerus est: et numerus sexcenti sexaginta sex.<verse eID="revelation.13.18" />
+      </p>
+      <chapter eID="revelation.13" />
+      <chapter sID="revelation.14" osisID="revelation.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="revelation.14.1" osisID="revelation.14.1" />Et ecce vidi Agnum astantem in monte Sion , et cum eo centum quadraginta quatuor millia, et habent nomen eius, et nomen Patris eius scriptum in frontibus suis.<verse eID="revelation.14.1" />
+        <verse sID="revelation.14.2" osisID="revelation.14.2" />Et audivi vocem de coelo, quasi sonum aquarum multarum, aut magni tonitrui: et vox. quam audivi, quasi citharoedorum citharizantium.<verse eID="revelation.14.2" />
+        <verse sID="revelation.14.3" osisID="revelation.14.3" />Et cantabant novum canticum in conspectu throni , et in conspectu quatuor animalium, et seniorum: nec quisquam poterat dicere canticum, nisi illa centum quadraginta quatuor millia, qui empti erant de terris.<verse eID="revelation.14.3" />
+        <verse sID="revelation.14.4" osisID="revelation.14.4" />Hi sunt, qui se cum mulieribus non coinquinaverunt: Virgines enim permanserunt. Hi sunt, qui sequuntur Agnum quocunque vadit.....<verse eID="revelation.14.4" />
+        <verse sID="revelation.14.5" osisID="revelation.14.5" />et non est inventum in ore eorum mendacium: quia irreprehensibiles sunt.<verse eID="revelation.14.5" />
+        <verse sID="revelation.14.6" osisID="revelation.14.6" />Et vidi alium Angelum volantem in medio coelo, habentem Evangelium aeternum, ut annuntiaret super terram, et super omnes nationes, et tribus, et linguas, et populos:<verse eID="revelation.14.6" />
+        <verse sID="revelation.14.7" osisID="revelation.14.7" />dicentem voce magna : Metuite potius Deum, et date ei claritatem, quoniam venit hora iudicii eius: et adorate eum, qui fecit coelum, et terram, mare, et fontes aquarum.<verse eID="revelation.14.7" />
+        <verse sID="revelation.14.8" osisID="revelation.14.8" />Et alius secundus Angelus secutus est eum, dicens: Cecidit, cecidit Babylon illa magna a vino irae fornicationis suae.<verse eID="revelation.14.8" />
+        <verse sID="revelation.14.9" osisID="revelation.14.9" />Et tertius Angelus secutus est eum, dicens voce magna : Si quis adoraverit bestiam, et imaginem eius, et acceperit nomen eius in fronte, aut in manu sua:<verse eID="revelation.14.9" />
+        <verse sID="revelation.14.10" osisID="revelation.14.10" />et bibet ipse de vino irae Dei, mixto in poculo irae ipsius, et punictur igne, et sulphure sub oculis sanctorum Angelorum, et sub oculis Agni:<verse eID="revelation.14.10" />
+        <verse sID="revelation.14.11" osisID="revelation.14.11" />et fumus de tormentis eorum ascendet in saecula saeculorum: nec habebunt requiem die ac nocte, quicunque adorant bestiam, et simulacrum eius, et quicunque notam sumit nominis eius.<verse eID="revelation.14.11" />
+        <verse sID="revelation.14.12" osisID="revelation.14.12" />Haec est patientia sanctorum, qui servant praecepta Dei, et fidem Iesu.<verse eID="revelation.14.12" />
+        <verse sID="revelation.14.13" osisID="revelation.14.13" />Et audivi vocem de coelo, dicentem mihi : Scribe: Felices illi mortui, qui in Domino mortui sunt. Abhinc etiam dicit Spiritus, ut requiescant a laboribus suis: nam opera eorum comitantur eos.<verse eID="revelation.14.13" />
+        <verse sID="revelation.14.14" osisID="revelation.14.14" />Et vidi, et ecce nubem albam: et super eam sedentem similem Filio hominis, habentem super caput suum coronam auream, et in manu sua falcem acutam.<verse eID="revelation.14.14" />
+        <verse sID="revelation.14.15" osisID="revelation.14.15" />Et alius Angelus venit proclamans ad illum sedentem super nubem: Mitte falcem tuam, et mete, quoniam venit hora metendi, quia iam seges arida est.<verse eID="revelation.14.15" />
+        <verse sID="revelation.14.16" osisID="revelation.14.16" />Tunc ille sedens super nubem misit falcem suam super terram, et demessa est terra.<verse eID="revelation.14.16" />
+        <verse sID="revelation.14.17" osisID="revelation.14.17" />Et alius Angelus processit de templo, quod est in coelo, et ipse habens falcem acutam.<verse eID="revelation.14.17" />
+        <verse sID="revelation.14.18" osisID="revelation.14.18" />Item et alius Angelus habens potestatem super ignem... Mitte falcem acutam, et vindemia botriones vineae....<verse eID="revelation.14.18" />
+        <verse sID="revelation.14.19" osisID="revelation.14.19" />..... et misit in torculari irae Dei magnum:<verse eID="revelation.14.19" />
+        <verse sID="revelation.14.20" osisID="revelation.14.20" />et calcatum est in torculari extra civitatem, et manavit inde sanguis usque ad frenos: equorum per stadia mille sexcenta.<verse eID="revelation.14.20" />
+      </p>
+      <chapter eID="revelation.14" />
+      <chapter sID="revelation.15" osisID="revelation.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="revelation.15.1" osisID="revelation.15.1" />Et vidi aliud signum in coelo magnum, et mirabile, Angelos septem, habentes plagas septem novissimas: Quoniam in illis indignatio Dei consummata est.<verse eID="revelation.15.1" />
+        <verse sID="revelation.15.2" osisID="revelation.15.2" />Et vidi velut mare vitreum igni permixtum, et superinstantes vidi eos, qui de bestia, et imagine eius victoriam ferrent..... habentes citharas Dei:<verse eID="revelation.15.2" />
+        <verse sID="revelation.15.3" osisID="revelation.15.3" />et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna, et mirabilia sunt opera tua, Domine Deus omnipotens: iustae et verae viae tuae sunt, Rex omnium gentium.<verse eID="revelation.15.3" />
+        <verse sID="revelation.15.4" osisID="revelation.15.4" />Quis non timebit, et dabit claritatem nomini tuo? quoniam tu solus pius es: quoniam omnes gentes venient, et adorabunt coram te, quoniam iusta iudicia tua manifesta sunt.<verse eID="revelation.15.4" />
+        <verse sID="revelation.15.5" osisID="revelation.15.5" />Post haec vidi, et ecce apertum est templum tabernaculi martyrii in coelo:<verse eID="revelation.15.5" />
+        <verse sID="revelation.15.6" osisID="revelation.15.6" />et processerunt septem Angeli cum septem plagis de templo, vestiti lintea munda, et candida, et cincti circa pectora zonas aureas.<verse eID="revelation.15.6" />
+        <verse sID="revelation.15.7" osisID="revelation.15.7" />Et unum ex quatuor animalibus dedit septem Angelis septem phialas, plenas irae Dei viventis in saecula saeculorum.<verse eID="revelation.15.7" />
+        <verse sID="revelation.15.8" osisID="revelation.15.8" />Et repletum est templum fumo de claritate, et virtute Dei: nec quisquam poterat intrare in templum, donec finirentur septem plagae septem Angelorum.<verse eID="revelation.15.8" />
+      </p>
+      <chapter eID="revelation.15" />
+      <chapter sID="revelation.16" osisID="revelation.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="revelation.16.1" osisID="revelation.16.1" />Et audivi vocem magnam de templo, dicentem septem Angelis: Ite, et septem phialas irae Dei effundite in terram.<verse eID="revelation.16.1" />
+        <verse sID="revelation.16.2" osisID="revelation.16.2" />Et abiit primus, et effudit phialam suam in terram, et factum est vulnus saevum, ac pessimum super omnes, qui habent inscriptionem nominis bestiae, et qui adorant simulacrum eius.<verse eID="revelation.16.2" />
+        <verse sID="revelation.16.3" osisID="revelation.16.3" />Et secundus effudit phialam suam in mare et factum est sanguis: et omnis anima mortua est in mari.<verse eID="revelation.16.3" />
+        <verse sID="revelation.16.4" osisID="revelation.16.4" />Et tertius effudit phialam suam super flumina, et fontes aquarum, et facta sunt sanguis.<verse eID="revelation.16.4" />
+        <verse sID="revelation.16.5" osisID="revelation.16.5" />Et audivi Angelum aquarum dicentem: Iustus es, qui es, et qui fuisti , et qui es pius, quoniam sic iudicasti:<verse eID="revelation.16.5" />
+        <verse sID="revelation.16.6" osisID="revelation.16.6" />qui sanguinem Sanctorum, et Prophetarum effuderunt, ideoque dedisti eis sanguinem bibere, quoniam digni sunt.<verse eID="revelation.16.6" />
+        <verse sID="revelation.16.7" osisID="revelation.16.7" />Et audivi aliam vocem dicentem: Etiam Domine Deus omnipotens, vera et iusta sunt iudicia tua.<verse eID="revelation.16.7" />
+        <verse sID="revelation.16.8" osisID="revelation.16.8" />Et quartus Angelus effudit phialam suam super solem, et datum est ei aestum, et ignem iniicere hominibus:<verse eID="revelation.16.8" />
+        <verse sID="revelation.16.9" osisID="revelation.16.9" />et aestuaverunt homines aestu magno, et blasphemaverunt nomen Dei habentis potestatem super plagas istas, neque egerunt poenitentiam ut darent ei claritatem.<verse eID="revelation.16.9" />
+        <verse sID="revelation.16.10" osisID="revelation.16.10" />Et quintus Angelus effudit phialam suam super sedem bestiae: et obscuratum est regnum eius, et comederunt linguas suas prae dolore :<verse eID="revelation.16.10" />
+        <verse sID="revelation.16.11" osisID="revelation.16.11" />.... Vide Not.<verse eID="revelation.16.11" />
+        <verse sID="revelation.16.12" osisID="revelation.16.12" />Et sextus Angelus effudit phialam suam super flumen illud magnum Euphraten: et siccata est aqua eius, ut praepararetur via venienti regi ab oriente sole.<verse eID="revelation.16.12" />
+        <verse sID="revelation.16.13" osisID="revelation.16.13" />Et vidi de ore draconis, et de ore bestiae, et ex ore pseudoprophetae spiritus tres immundos exeuntes in modum ranarum.<verse eID="revelation.16.13" />
+        <verse sID="revelation.16.14" osisID="revelation.16.14" />Sunt enim daemoniorum spiritus signa facientes, et exeunt ad reges totius terrae contrahere illos in pugnam in diem illum magnum omnipotentis Dei<verse eID="revelation.16.14" />
+        <verse sID="revelation.16.15" osisID="revelation.16.15" />qui venit subito sicut fur. Beatus qui vigilat, et custodit vestimenta sua, ne nudus ambulet, et videat turpitudinem suam.<verse eID="revelation.16.15" />
+        <verse sID="revelation.16.16" osisID="revelation.16.16" />Et congregavit illos in locum, qui vocatur Hebraice Armageddon.<verse eID="revelation.16.16" />
+        <verse sID="revelation.16.17" osisID="revelation.16.17" />Et septimus Angelus effudit phialam suam in aere, et exivit vox magna de templo a throno, dicens : Factum est.<verse eID="revelation.16.17" />
+        <verse sID="revelation.16.18" osisID="revelation.16.18" />Et facta sunt fulgura, et voces, et tonitrua, et terrena, et terraemotus, et signa magna.<verse eID="revelation.16.18" />
+        <verse sID="revelation.16.19" osisID="revelation.16.19" />Et civitas illa magna in tres partes divisa est : et civitates Gentium ceciderunt : et Babylon illa magna recordata sub conspectu Dei venit, ut daret ei de vino irae suae indignationis<verse eID="revelation.16.19" />
+        <verse sID="revelation.16.20" osisID="revelation.16.20" />Et omnes insulae fugerunt, et omnes montes non sunt inventi.<verse eID="revelation.16.20" />
+        <verse sID="revelation.16.21" osisID="revelation.16.21" />Et grando ingens talenti ponderis de coelo super homines; et blasphemaverunt homines Deum propter plagam grandinis: quoniam magna plaga a grandine facta est.<verse eID="revelation.16.21" />
+      </p>
+      <chapter eID="revelation.16" />
+      <chapter sID="revelation.17" osisID="revelation.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="revelation.17.1" osisID="revelation.17.1" />Et venit unus de septem Angelis habentibus septem phialas, et locutus est mecum dicens : Veni, ostendam tibi damnationem meretricis magnae, sedentis super aquas multas,<verse eID="revelation.17.1" />
+        <verse sID="revelation.17.2" osisID="revelation.17.2" />cum qua fornicati sunt reges terrae, a et inebriati sunt omnes inhabitantes terram a vino fornicationis eius.<verse eID="revelation.17.2" />
+        <verse sID="revelation.17.3" osisID="revelation.17.3" />Et duxit me in desertum in spiritu. Et vidi mulierem sedentem super bestiam coccineam. plenam nominibus blasphemiae, habentem capita septem, et cornua decem.<verse eID="revelation.17.3" />
+        <verse sID="revelation.17.4" osisID="revelation.17.4" />Et mulier erat circumdata purpura, et coccino , et curata auro , et lapide pretioso , et margaritis: et habebat poculum aureum in manu sua plenum abominationum, et immunditiae fornicationis totius terrae:<verse eID="revelation.17.4" />
+        <verse sID="revelation.17.5" osisID="revelation.17.5" />Et in fronte eius nomen scriptum sacramenti: Babylon, mater fornicationum, et exsecrationum totius terrae.<verse eID="revelation.17.5" />
+        <verse sID="revelation.17.6" osisID="revelation.17.6" />Et vidi mulierem illam ebriam factam de sanguine sanctorum, et de sanguine testium Iesu Christi. Et miratus sum cum vidissem eam miraculo magno.<verse eID="revelation.17.6" />
+        <verse sID="revelation.17.7" osisID="revelation.17.7" />Et dixit mihi Angelus: Propter quid admiratus es? Ego tibi ostendam sacramentum huius mulieris, et bestiae, quae portat eam, quae habet capita septem, et cornua decem.<verse eID="revelation.17.7" />
+        <verse sID="revelation.17.8" osisID="revelation.17.8" />Bestia, quam vidisti, fuit, et non est, sed ascensura est ex abysso, et in perditionem vadit: et admirabuntur omnes inhabitantes terram (quorum non sunt scripta nomina in Libro vitae Agni qui occisus est, ab origine mundi) videntes bestiam, quae erat, et non est, et ventura est.<verse eID="revelation.17.8" />
+        <verse sID="revelation.17.9" osisID="revelation.17.9" />Et hic est sensus, qui habet sapientiam. Illa septem capita, septem montes sunt, super quos mulier sedet, et reges septem sunt.<verse eID="revelation.17.9" />
+        <verse sID="revelation.17.10" osisID="revelation.17.10" />Quinque ceciderunt, unus autem superest. alius autem nondum venit: et cum venerit, oportet illum brevi tempore manere.<verse eID="revelation.17.10" />
+        <verse sID="revelation.17.11" osisID="revelation.17.11" />Et bestia, quae fuit, et non est: et ipsa octavo loco est, cum sit ex septem, et in perditionem ibit.<verse eID="revelation.17.11" />
+        <verse sID="revelation.17.12" osisID="revelation.17.12" />Et decem cornua, quae vidisti, decem reges sunt: hi regnum nondum acceperunt, sed potestatem regni una hora accipiunt cum bestia.<verse eID="revelation.17.12" />
+        <verse sID="revelation.17.13" osisID="revelation.17.13" />Hi omnes unam sententiam habebunt, et vim, et potestatem suam bestiae tradent.<verse eID="revelation.17.13" />
+        <verse sID="revelation.17.14" osisID="revelation.17.14" />Hi adversus Agnum pugnabunt, et Agnus vincet eos: quoniam Dominus dominorum est et Rex regum, et qui cum eo erant, electi, et fideles, et vocati.<verse eID="revelation.17.14" />
+        <verse sID="revelation.17.15" osisID="revelation.17.15" />Et dixit mihi: Aquas, quas vidisti, super quas sedet meretrix illa, populi, et turbae iniquorum, et linguae sunt.<verse eID="revelation.17.15" />
+        <verse sID="revelation.17.16" osisID="revelation.17.16" />Decem vero cornua, quae vidisti, et bestiam: odio insectabunt meretricem, et desertam, et nudam facient illam, et carnes eius devorabunt et ipsam igne cremabunt.<verse eID="revelation.17.16" />
+        <verse sID="revelation.17.17" osisID="revelation.17.17" />Deus enim in cordibs eorum iniecit, ut perficiant quod illi placitum est: et esse illos in consensu, et metu, et tradere bestiam regnum donec consummentur verba Dei.<verse eID="revelation.17.17" />
+        <verse sID="revelation.17.18" osisID="revelation.17.18" />Et mulier, quam vidisti, civitas magna est, quae habet regnum super reges terrarum.<verse eID="revelation.17.18" />
+      </p>
+      <chapter eID="revelation.17" />
+      <chapter sID="revelation.18" osisID="revelation.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="revelation.18.1" osisID="revelation.18.1" />Et post haec vidi alium Angelum descendentem de coelo, habentem potestatem magnam: et terra illuminata est a claritate eius.<verse eID="revelation.18.1" />
+        <verse sID="revelation.18.2" osisID="revelation.18.2" />Et exclamavit voce magna et forti, dicens : Cecidit Babylon illa magna : et facta est habitatio, et refugium daemoniorum, et omnis spiritus immundi, et omnis avis immundae, et odibilis:<verse eID="revelation.18.2" />
+        <verse sID="revelation.18.3" osisID="revelation.18.3" />quia de vino fornicationis eius et reges terrae fornicati sunt: et mercatores terrae de potestate deliciarum eius locupletati sunt.<verse eID="revelation.18.3" />
+        <verse sID="revelation.18.4" osisID="revelation.18.4" />Et audivi aliam vocem de coelo, dicentem: Exi de ea populus meus: ne particeps sis delictorum, et ne perstringaris plagis eius.<verse eID="revelation.18.4" />
+        <verse sID="revelation.18.5" osisID="revelation.18.5" />Quoniam delicta eius usque ad coelum pervenerunt, et meminit Dominus Deus iniquitatum eius.<verse eID="revelation.18.5" />
+        <verse sID="revelation.18.6" osisID="revelation.18.6" />Et ideo reddit ei duplicia : et in quo poculo miscuit, duplum remixtum est ei.<verse eID="revelation.18.6" />
+        <verse sID="revelation.18.7" osisID="revelation.18.7" />Et in quantum se clarificavit, et deliciarum habuit; in tantum datur ei cruciatus et luctus: quoniam dicit in corde suo: Quia regina sum: et vidua non possum esse: nec luctum visura sum.<verse eID="revelation.18.7" />
+        <verse sID="revelation.18.8" osisID="revelation.18.8" />Propterea una hora venient plagae eius mors, et luctus, et fames, et igne cremabitur: quia fortis est Dominus, qui eam iudicabit.<verse eID="revelation.18.8" />
+        <verse sID="revelation.18.9" osisID="revelation.18.9" />Et flebunt, et plangent se reges terrae, qui cum ea fornicati sunt, et in delicus conversati, cum viderint fumum incendii eius:<verse eID="revelation.18.9" />
+        <verse sID="revelation.18.10" osisID="revelation.18.10" />et de longinquo stantes propter metum poenae eius, dicentes : Vae, vae civitas illa Babyion, civitas illa fortis: quia una hora advenit iudicium tuum.<verse eID="revelation.18.10" />
+        <verse sID="revelation.18.11" osisID="revelation.18.11" />Et mercatores terrarum flebunt, plangentes eam: quoniam merces eorum nullus mercabitur:<verse eID="revelation.18.11" />
+        <verse sID="revelation.18.12" osisID="revelation.18.12" />merces auri, et argenti, et lapidum pretiosorum, et margaritarum, et serici, et purpurae coccineae, et vestis, et omnis ligni cedrini; et omne vas eburneum, de pretioso ligno, et aere, et ferro, et marmore;<verse eID="revelation.18.12" />
+        <verse sID="revelation.18.13" osisID="revelation.18.13" />et cinnamomi; et incensum, et unguentum, et thus, et vinum, et oleum, et triticum, iumenta, et pecora, et equorum, et rhedarum vehicula, atque mancipia, et diversi generis animalia.<verse eID="revelation.18.13" />
+        <verse sID="revelation.18.14" osisID="revelation.18.14" />Pomorum quoque tuorum concupiscentia animae abiit abs te, et omnia illa pinguia, et clara perierunt abs te, nec iam ea ultra invenies.<verse eID="revelation.18.14" />
+        <verse sID="revelation.18.15" osisID="revelation.18.15" />Mercatores tui quoque, qui divites facti sunt, ab ea longe stabunt propter timorem poenae eius, flentes, et plangentes<verse eID="revelation.18.15" />
+        <verse sID="revelation.18.16" osisID="revelation.18.16" />et dicentes: Vae, vae illa civitas magna, velata purpura, et byssino, et coccino , et culta auro, et lapide pretioso, et margarita :<verse eID="revelation.18.16" />
+        <verse sID="revelation.18.17" osisID="revelation.18.17" />et una hora exterminatae sunt tantae divitiae. Et omnis gubernator, et omnis per mare navigans, et nautae, et qui morantur in mari, longe stabunt,<verse eID="revelation.18.17" />
+        <verse sID="revelation.18.18" osisID="revelation.18.18" />videntes fumum incendii eius, dicentes: Quae similis civitati huic magnae?<verse eID="revelation.18.18" />
+        <verse sID="revelation.18.19" osisID="revelation.18.19" />Et super capita sua mittentes pulverem clamabunt flentes, et lugentes, et dicentes voce magna: Vae, vae civitas illa magna, in qua divites facti sunt omnes, qui habent naves in mari, de claritate eius: quia una hora exterminata est.<verse eID="revelation.18.19" />
+        <verse sID="revelation.18.20" osisID="revelation.18.20" />Exsultate super eam coeli, et sancti, et Apostoli, et Prophetae: quoniam iudicavit Deus de ea iudicium vestrum.<verse eID="revelation.18.20" />
+        <verse sID="revelation.18.21" osisID="revelation.18.21" />Et sustulit Angelus fortis lapidem ad magnitudinem molae magnae, et misit in mare, dicens : Hoc impetu demolietur Babylon illa magna, et amplius non invenietur.<verse eID="revelation.18.21" />
+        <verse sID="revelation.18.22" osisID="revelation.18.22" />Et vox citharoedorum, et musicorum, et symphoniacorum, et tubicinum iam non audietur in te: neque ullus artifex ullius artis invenietur in te amplius: et vox molae non audietur in te iam:<verse eID="revelation.18.22" />
+        <verse sID="revelation.18.23" osisID="revelation.18.23" />neque lumen lucernae lucebit tibi: et vox sponsi, et sponsae non audietur in te amplius: quia negociantes tui fuerunt magistratus terrae quia maleficiis in tuis exerraverunt omnes gentes.<verse eID="revelation.18.23" />
+        <verse sID="revelation.18.24" osisID="revelation.18.24" />Et in te sanguis prophetarum et sanctorum inventus est, et omnium occisorum super terram.<verse eID="revelation.18.24" />
+      </p>
+      <chapter eID="revelation.18" />
+      <chapter sID="revelation.19" osisID="revelation.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="revelation.19.1" osisID="revelation.19.1" />Post haec audivi vocem turbarum ingentium, clamantium voce magna in coelo, dicentium: Alleluia: Salus, et claritas Deo nostro:<verse eID="revelation.19.1" />
+        <verse sID="revelation.19.2" osisID="revelation.19.2" />quoniam vera, et iusta sunt iudicia eius, quia sic iudicavit de meretrice magna, quae corrupit terram per fornicationem suam, et vindicavit sanguinem servorum suorum de manibus eius.<verse eID="revelation.19.2" />
+        <verse sID="revelation.19.3" osisID="revelation.19.3" />Et iterum dixerunt: Alleluia. Et fumus de illa ascendit in saecula saeculorum.<verse eID="revelation.19.3" />
+        <verse sID="revelation.19.4" osisID="revelation.19.4" />Et prostraverunt se viginti quatuor seniores, et quatuor animalia, et adoraverunt Deum sedentem in throno, dicentes : Amen.<verse eID="revelation.19.4" />
+        <verse sID="revelation.19.5" osisID="revelation.19.5" />Et vox exivit de coelo, dicens : Laudate Deum vestrum omnes servi eius: et qui timetis Deum pusilli, et magni.<verse eID="revelation.19.5" />
+        <verse sID="revelation.19.6" osisID="revelation.19.6" />Et audivi vocem tubarum magnarum, et quasi vocem tonitruum fortium, et quasi sonum aquarum multarum, dicentium: Alleluia: quoniam regnavit Dominus omnipotens.<verse eID="revelation.19.6" />
+        <verse sID="revelation.19.7" osisID="revelation.19.7" />Gaudeamus, et exsultemus, et demus ei claritatem: quoniam venerunt nuptiae Agni, et uxor eius praeparavit se.<verse eID="revelation.19.7" />
+        <verse sID="revelation.19.8" osisID="revelation.19.8" />Et datum est ei ut vestiretur byssinum candidum mundum. Byssinum enim mundum iustitiae Sanctorum sunt.<verse eID="revelation.19.8" />
+        <verse sID="revelation.19.9" osisID="revelation.19.9" />Et ait mihi: Scribe: Beati, qui ad coenam nuptiarum Agni vocati sunt: et iterum dixit mihi: Haec verba vera, et iusta Dei sunt.<verse eID="revelation.19.9" />
+        <verse sID="revelation.19.10" osisID="revelation.19.10" />Et prostravi me ad pedes eius, ut adorarem eum. Et ait mihi: Vide ne feceris: quoniam conservus tuus sum, et fratrum tuorum habentium testimonium Iesu Christi. Deum adora. Sanctificatio enim testificationis est spiritus prophetarum.<verse eID="revelation.19.10" />
+        <verse sID="revelation.19.11" osisID="revelation.19.11" />Vidi coelum apertum, et ecce equus albus, et qui sedebat super eum, vocabatur Fidelis, et Verus, aequum et iustum qui iudicat, et praeliatur.<verse eID="revelation.19.11" />
+        <verse sID="revelation.19.12" osisID="revelation.19.12" />Oculi autem eius erant ut flamma ignis, et super caput eius diademata multa, et habens nomen magnum scriptum, quod nemo novit nisi ipse.<verse eID="revelation.19.12" />
+        <verse sID="revelation.19.13" osisID="revelation.19.13" />Et erat coopertus vestem aspersam sanguine : et dicitur nomen eius, VERBUM DEI.<verse eID="revelation.19.13" />
+        <verse sID="revelation.19.14" osisID="revelation.19.14" />Et exercitus qui sunt in coelo, sequebantur eum in equis albis, induti byssinum album mundum.<verse eID="revelation.19.14" />
+        <verse sID="revelation.19.15" osisID="revelation.19.15" />Et de ore eius exiebat gladius utraque parte acutus: ut ex eo percuteret Nationes. Et ipse reget eas in virga ferrea : et ipse calcavit torcular vini irae Dei magni omnipotentis.<verse eID="revelation.19.15" />
+        <verse sID="revelation.19.16" osisID="revelation.19.16" />Habet etiam in veste, et in femore suo nomen scriptum: Rex regum, et Dominus dominorum.<verse eID="revelation.19.16" />
+        <verse sID="revelation.19.17" osisID="revelation.19.17" />Et vidi unum Angelum stantem in sole, et clamavit voce magna, dicens omnibus avibus coeli: Venite ad coenam magnam Dei:<verse eID="revelation.19.17" />
+        <verse sID="revelation.19.18" osisID="revelation.19.18" />ut edatis carnes regum, et carnes tribunorum, et carnes fortium, et carnes equorum, et sedentium super eos, et carnes omnium liberorum, et servorum, et pusillorum, et magnorum.<verse eID="revelation.19.18" />
+        <verse sID="revelation.19.19" osisID="revelation.19.19" />Et vidi bestiam, et reges terrae, et exercitus eorum collectos, ad faciendum bellum cum sedente super equum album, et cum exercitu eius.<verse eID="revelation.19.19" />
+        <verse sID="revelation.19.20" osisID="revelation.19.20" />Et apprehensa est bestia, et cum illa pseudopropheta: qui fecerat signa sub oculis eius, quibus signis seducti erant adorare imaginem bestiae. et qui acceperant caragma illius. Vivi missi sunt hi duo in stagnum ignis ardentis igne, et sulphure.<verse eID="revelation.19.20" />
+        <verse sID="revelation.19.21" osisID="revelation.19.21" />Et caeteri occisi sunt gladio sedentis super equum album, qui exierat de ore eius: et omnes aves satiatae sunt ex carnibus eorum.<verse eID="revelation.19.21" />
+      </p>
+      <chapter eID="revelation.19" />
+      <chapter sID="revelation.20" osisID="revelation.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="revelation.20.1" osisID="revelation.20.1" />Et vidi Angelum fortem, descendentem de coelo, habentem clavem abyssi, et catenam magnam in manu sua.<verse eID="revelation.20.1" />
+        <verse sID="revelation.20.2" osisID="revelation.20.2" />Et tenuit draconem, illum serpentem antiquum, qui cognominatus est diabolus, et satanas, et alligavit eum mille annis :<verse eID="revelation.20.2" />
+        <verse sID="revelation.20.3" osisID="revelation.20.3" />et misit illum in abyssum, et clausit, et signavit super eum, ut non seduceret iam gentes donec finiantur mille anni: post haec oportet eum solvi brevi tempore.<verse eID="revelation.20.3" />
+        <verse sID="revelation.20.4" osisID="revelation.20.4" />Et vidi sedes in visione, et sedentes super eas, et iudicium datum est eis: et animae occisorum propter testimonium Iesu, et propter verbum Dei, et si qui non adoraverunt bestiam, nec imaginem eius, neque acceperunt scriptionem in fronte, aut in manu sua, et vixerunt, et regnaverunt cum Christo mille annis.<verse eID="revelation.20.4" />
+        <verse sID="revelation.20.5" osisID="revelation.20.5" />Reliqui eorum non vixerunt, donec finiantur mille anni. Haec resurrectio prima est.<verse eID="revelation.20.5" />
+        <verse sID="revelation.20.6" osisID="revelation.20.6" />Beatus, et sanctus, qui habet partem in hac prima resurrectione: in istis secunda mors non habet potestatem: sed erunt sacerdotes Dei et Christi, et regnabunt cum eo mille annis.<verse eID="revelation.20.6" />
+        <verse sID="revelation.20.7" osisID="revelation.20.7" />Et cum finiti fuerint mille anni, solvetur satanas de custodia sua, et exibit ad seducendas Nationes, quae sunt in quatuor angulis terrae, Gog, et Magog, et trahet eas in bellum, quorum numerus est ut arena maris.<verse eID="revelation.20.7" />
+        <verse sID="revelation.20.8" osisID="revelation.20.8" />Et ascenderunt super latitudinem terrae, et cinxerunt castra sanctorum, et dilectam civitatem.<verse eID="revelation.20.8" />
+        <verse sID="revelation.20.9" osisID="revelation.20.9" />Et descendit ignis de coelo , et comedit eos : et Diabolus, qui seducebat eos; missus est in stagnum ignis, et sulphuris, quo et bestia,<verse eID="revelation.20.9" />
+        <verse sID="revelation.20.10" osisID="revelation.20.10" />et pseudoprophetae cruciabuntur die et nocte in saecula saeculorum.<verse eID="revelation.20.10" />
+        <verse sID="revelation.20.11" osisID="revelation.20.11" />Et vidi thronum magnum, et candidum, et sedentem super eum, cuius a facie fugit coelum, et terra, et locus eorum inventus non est.<verse eID="revelation.20.11" />
+        <verse sID="revelation.20.12" osisID="revelation.20.12" />Et vidi mortuos magnos, et pusillos, et aperti sunt libri: et alius Liber apertus est, qui est vitae uniuscuiusque: et iudicati sunt mortui ex ipsis scripturis librorum, secundum facta sua:<verse eID="revelation.20.12" />
+        <verse sID="revelation.20.13" osisID="revelation.20.13" />et exhibuit mortuos mare, qui in eo erant: et mors, et infernus reddiderunt mortuos, quos in se habebant: et iudicati sunt singuli secundum facta sua.<verse eID="revelation.20.13" />
+        <verse sID="revelation.20.14" osisID="revelation.20.14" />Mors, et infernus missi sunt in stagnum ignis.<verse eID="revelation.20.14" />
+        <verse sID="revelation.20.15" osisID="revelation.20.15" />Et qui non sunt inventi in Libro vitae scripti, missi sunt in stagnum ignis.<verse eID="revelation.20.15" />
+      </p>
+      <chapter eID="revelation.20" />
+      <chapter sID="revelation.21" osisID="revelation.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="revelation.21.1" osisID="revelation.21.1" />Et vidi coelum novum, et terram novam. Nam primum coelum, et terra recesserunt, et mare iam non est.<verse eID="revelation.21.1" />
+        <verse sID="revelation.21.2" osisID="revelation.21.2" />Et civitatem magnam Ierusalem novam vidi descendentem de coelo a Deo, aptatam, quasi novam nuptam ornatam marito suo.<verse eID="revelation.21.2" />
+        <verse sID="revelation.21.3" osisID="revelation.21.3" />Et audivi vocem magnam de coelo dicentem: Ecce tabernaculum Dei cum hominibus, et habitabit cum eis. Et erunt ipsi populus eius, et ipse Deus erit cum eis:<verse eID="revelation.21.3" />
+        <verse sID="revelation.21.4" osisID="revelation.21.4" />et absterget Deus omnem lacrymam ab oculis eorum: et mors iam non erit, neque luctus, neque clamor, sed nec ullus dolor, quia priora transierunt.<verse eID="revelation.21.4" />
+        <verse sID="revelation.21.5" osisID="revelation.21.5" />Et dixit sedens in throno: Ecce nova facio omnia. Et dixit mihi: Haec verba fidelissima sunt, et vera.<verse eID="revelation.21.5" />
+        <verse sID="revelation.21.6" osisID="revelation.21.6" />Et dixit mihi: Factum est: ego sum α, et ω: primus, et novissimus. Ego sitienti dabo de fonte aquae vivae, gratis.<verse eID="revelation.21.6" />
+        <verse sID="revelation.21.7" osisID="revelation.21.7" />Qui vicerit, possidebit haec, et ero ei Deus, et ipse erit mihi filius.<verse eID="revelation.21.7" />
+        <verse sID="revelation.21.8" osisID="revelation.21.8" />Dubiis autem, et infidelibus, et abominatis, et homicidis, et fornicariis, et veneficiis, et his, quae idolis serviunt, et omnibus mendacibus. pars erit in stagno ignis, quod ardet, et sulfure: quod est mors secunda.<verse eID="revelation.21.8" />
+        <verse sID="revelation.21.9" osisID="revelation.21.9" />Et venit unus ex septem Angelis habentibus phialas septem plenas septem plagis ultimis, et locutus est mecum, dicens: Veni, ostendam tibi novam nuptam, uxorem Agni.<verse eID="revelation.21.9" />
+        <verse sID="revelation.21.10" osisID="revelation.21.10" />Et duxit me in montem magnum, et altum, et ostendit mihi civitatem sanctam Ierusalem descendentem de coelo a Deo<verse eID="revelation.21.10" />
+        <verse sID="revelation.21.11" osisID="revelation.21.11" />habentem lumen claritatis Dei: et quod illuminat eam, simile est pretiosissimo lapidi quasi lapidi iaspidis, refulgenti in modum crystalli.<verse eID="revelation.21.11" />
+        <verse sID="revelation.21.12" osisID="revelation.21.12" />Et habet murum magnum, et latum, qui habet portas duodecim: et in portis angulos duodecim, et nomina scripta duodecim tribuum filiorum Israel.<verse eID="revelation.21.12" />
+        <verse sID="revelation.21.13" osisID="revelation.21.13" />Ab Oriente portae tres, ab Aquilone portae tres, ab Austro portae tres, ab Occidente portae tres.<verse eID="revelation.21.13" />
+        <verse sID="revelation.21.14" osisID="revelation.21.14" />Et muri civitatis habent fundamenta duodecim, et super ea nomina duodecim Apostolorum, et Agni.<verse eID="revelation.21.14" />
+        <verse sID="revelation.21.15" osisID="revelation.21.15" />Et qui mecum loquebatur, habebat arundinem auream ad mensuram, ut metiretur civitatem, et portas eius, et muros eius:<verse eID="revelation.21.15" />
+        <verse sID="revelation.21.16" osisID="revelation.21.16" />et civitas in quadrato posita est, et longitudo eius tanta est quanta et latitudo: et mensus est civitatem arundine stadiorum duodecim millia, longitudine, et latitudine, et altitudine aequali.<verse eID="revelation.21.16" />
+        <verse sID="revelation.21.17" osisID="revelation.21.17" />Murus autem dimensus est centum quadraginta quatuor, mensura hominis, quae est Angeli.<verse eID="revelation.21.17" />
+        <verse sID="revelation.21.18" osisID="revelation.21.18" />Et fuit aedificatio muri eius ex lapide iaspide: ipsa vero civitas ex auro mundo, similis vitro mundo.<verse eID="revelation.21.18" />
+        <verse sID="revelation.21.19" osisID="revelation.21.19" />Fundamenta autem ex omni lapide pretioso. Primum fundamentum, iaspis: secundum. saphirus: tertium, calcedon: quartum, smaragdus:<verse eID="revelation.21.19" />
+        <verse sID="revelation.21.20" osisID="revelation.21.20" />quintum, sardonyx: sextum, sardius: septimum, chrysolitus: octavum, beryllus: nonum, topasius: decimum, chrysoprasus: undecimum, hyacinthus: duodecimum, amethystus.<verse eID="revelation.21.20" />
+        <verse sID="revelation.21.21" osisID="revelation.21.21" />Et duodecim portas, singulae ex singulis margaritis: et plateas eius ex auro limpido, sicut vitrum limpidum.<verse eID="revelation.21.21" />
+        <verse sID="revelation.21.22" osisID="revelation.21.22" />Templum autem in ea non vidi. Dominus enim Deus omnipotens, et Agnus templum illius est.<verse eID="revelation.21.22" />
+        <verse sID="revelation.21.23" osisID="revelation.21.23" />Et civitas non eget sole, et luna, ut luceant ei: nam claritas Dei illuminat eam, et lucerna eius Agnus est.<verse eID="revelation.21.23" />
+        <verse sID="revelation.21.24" osisID="revelation.21.24" />Et ambulabunt gentes in lumine eius: et reges terrae afferent claritatem suam in eam.<verse eID="revelation.21.24" />
+        <verse sID="revelation.21.25" osisID="revelation.21.25" />Et portae eius non claudentur die : nox enim ibi non erit.<verse eID="revelation.21.25" />
+        <verse sID="revelation.21.26" osisID="revelation.21.26" />Et ponent honorem, et maiestatem gentium in ea.<verse eID="revelation.21.26" />
+        <verse sID="revelation.21.27" osisID="revelation.21.27" />Et non intrabit in ea omne immundum, et faciens abominationem vitae, nisi qui scripti sunt in libro vitae Agni.<verse eID="revelation.21.27" />
+      </p>
+      <chapter eID="revelation.21" />
+      <chapter sID="revelation.22" osisID="revelation.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="revelation.22.1" osisID="revelation.22.1" />Et ostendit mihi flumen aquae vitae, candidum quasi crystallum, exiens de sede Dei et Agni<verse eID="revelation.22.1" />
+        <verse sID="revelation.22.2" osisID="revelation.22.2" />per mediam plateam eius. Et ex utraque parte fluminis lignum vitae, afferens fructus duodecim, per singulos menses reddentes fructum suum, et folia ligni in curationem Gentium.<verse eID="revelation.22.2" />
+        <verse sID="revelation.22.3" osisID="revelation.22.3" />Neque ullum maledictum iam erit: sed thronus Dei et Agni erit in ea........<verse eID="revelation.22.3" />
+        <verse sID="revelation.22.4" osisID="revelation.22.4" />Et videbunt faciem eius: et nomen eius scriptum in frontibus eorum.<verse eID="revelation.22.4" />
+        <verse sID="revelation.22.5" osisID="revelation.22.5" />Et nox iam non erit: neque opus erit lumen lucernae, neque lumen solis, quoniam Dominus Deus lucebit super eos, et regnabunt in saecula saeculorum.<verse eID="revelation.22.5" />
+        <verse sID="revelation.22.6" osisID="revelation.22.6" />Et dixit mihi: Hi sermones fidelissimi, et veri sunt. Et Dominus Deus spirituum prophetarum misit Angelum suum ostendere servis suis quae oportet fieri in brevi.<verse eID="revelation.22.6" />
+        <verse sID="revelation.22.7" osisID="revelation.22.7" />Ecce venio cito. Felix, qui observat verba prophetiae libri huius.<verse eID="revelation.22.7" />
+        <verse sID="revelation.22.8" osisID="revelation.22.8" />Et ego Iohannes, qui audivi, et vidi haec. Et cum audissem, et vidissem, prostravi me ante pedes Angeli, ut adorarem eum, qui mihi ista ostendit:<verse eID="revelation.22.8" />
+        <verse sID="revelation.22.9" osisID="revelation.22.9" />et ait mihi: Vide ne feceris: quia conservus tuus sum, et fratrum tuorum Prophetarum, servantium verba prophetiae libri huius: magis Deum adora.<verse eID="revelation.22.9" />
+        <verse sID="revelation.22.10" osisID="revelation.22.10" />Et ait mihi : Ne signaveris verba prophetiae libri huius: quia tempus iam in proximo est.<verse eID="revelation.22.10" />
+        <verse sID="revelation.22.11" osisID="revelation.22.11" />Et qui perseverant nocere, noceant : et qui in sordibus est, sordescat adhuc: iustus autem, iustiora faciat: similiter et sanctus, sanctiora.<verse eID="revelation.22.11" />
+        <verse sID="revelation.22.12" osisID="revelation.22.12" />Ecce venio cito, et merces mea mecum est, reddere unicuique secundum facta sua.<verse eID="revelation.22.12" />
+        <verse sID="revelation.22.13" osisID="revelation.22.13" />Ego sum α, et ω, primus, et novissimus, initium, et finis.<verse eID="revelation.22.13" />
+        <verse sID="revelation.22.14" osisID="revelation.22.14" />Beati, qui laverunt stolas suas: ut sit potestas eorum super lignum vitae, et per portas intrent in civitatem sanctam.<verse eID="revelation.22.14" />
+        <verse sID="revelation.22.15" osisID="revelation.22.15" />Foris autem remanebunt canes, et malefici, et fornicarii, et homicidae, et servientes idolis, et venefici, et omnes, qui amant, et faciunt mendacium.<verse eID="revelation.22.15" />
+        <verse sID="revelation.22.16" osisID="revelation.22.16" />Ego Iesus misi Angelum meum, testificari vobis septem Ecclesiis. Ego sum radix, et genus David, stella splendida, et matutina.<verse eID="revelation.22.16" />
+        <verse sID="revelation.22.17" osisID="revelation.22.17" />Et spiritus, et nova nupta dicunt : Age. Et is, qui audit, dicat : Veni. Et qui sitit, veniat, et bibat: et qui vult, accipiat aquam vitae, gratis.<verse eID="revelation.22.17" />
+        <verse sID="revelation.22.18" osisID="revelation.22.18" />Testor ego Iohannes omnes, qui audiunt verba prophetiae libri huius: Si quis addiderit ad haec, adiiciet Deus super eum plagas scriptas in libro hoc.<verse eID="revelation.22.18" />
+        <verse sID="revelation.22.19" osisID="revelation.22.19" />Et si quis demserit, adimet Dominus partem eius de libro vitae, et de civitate sancta, scripta in libro hoc:<verse eID="revelation.22.19" />
+        <verse sID="revelation.22.20" osisID="revelation.22.20" />dicit qui testimonium perhibet de his. Venio cito. Etiam veni ô Domine Iesu.<verse eID="revelation.22.20" />
+        <verse sID="revelation.22.21" osisID="revelation.22.21" />..... Vide Not.<verse eID="revelation.22.21" />
+      </p>
+    </div>
+  </osisText>
+</osis>

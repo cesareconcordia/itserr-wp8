@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="2Chr" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="2Chr">
+        <title>chronicles-2</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">2Chr</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>chronicles-2</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="2Chr">
+      <title>chronicles-2</title>
+      <chapter sID="2Chr.6" osisID="2Chr.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="2Chr.6.13" osisID="2Chr.6.13" />... et inclinavit Salomon genua sua in conspectu totius ecclesiae Israel, et aperuit manus suas ad coelum,<verse eID="2Chr.6.13" />
+        <verse sID="2Chr.6.14" osisID="2Chr.6.14" />et dixit, Domine Deus Israel, non est tibi similis Deus in coelo sursum, neque in terra deorsum, qui custodis testamentum tuum et misericordiam pueris tuis, euntibus in conspectu tuo in toto corde,<verse eID="2Chr.6.14" />
+        <verse sID="2Chr.6.15" osisID="2Chr.6.15" />Servans puero tuo David quae locutus es illi, et locutus es in ore tuo, et in manu tua implesti, quasi dies iste.<verse eID="2Chr.6.15" />
+        <verse sID="2Chr.6.16" osisID="2Chr.6.16" />Et nunc Domine Deus Israel, custodi puero tuo David patri meo quae locutus es illi, dicens, Non deerit tibi vir a facie mea, sedens in throno Israel, veruntamen si custodierint filii tui legem meam, ut in praeceptis meis ambulent, sicut ambulaverunt in conspectu meo fideles.<verse eID="2Chr.6.16" />
+        <verse sID="2Chr.6.17" osisID="2Chr.6.17" />Et nunc Domine Deus Israel, creditum est verbum, quod locutus es puero tuo David.<verse eID="2Chr.6.17" />
+        <verse sID="2Chr.6.18" osisID="2Chr.6.18" />Quoniam si vere habitabit Deus cum hominibus in terra? Si coelum coeli non sufficiunt tibi, quanto magis domus haec, quam aedificavi?<verse eID="2Chr.6.18" />
+        <verse sID="2Chr.6.19" osisID="2Chr.6.19" />Sed respicias ad orationem pueri tui, et precationem Deus, ut exaudias Domine, placationem orationis, quam puer tuus orat coram te hodie,<verse eID="2Chr.6.19" />
+        <verse sID="2Chr.6.20" osisID="2Chr.6.20" />ut sint oculi tui aperti super domum hanc die ac nocte, in locum, quem dixisti invocari nomen tuum,<verse eID="2Chr.6.20" />
+        <verse sID="2Chr.6.21" osisID="2Chr.6.21" />et exaudias orationem, quam puer tuus orat in hoc loco, et exaudias deprecationem pueri tui, et populi tui Israel, si oraverit in loco isto, et exaudias in loco habitationis iuxta te de coelo, et exaudias, et propitius sis.<verse eID="2Chr.6.21" />
+        <verse sID="2Chr.6.22" osisID="2Chr.6.22" />Si peccaverit vir in te ...<verse eID="2Chr.6.22" />
+      </p>
+      <chapter eID="2Chr.6" />
+      <chapter sID="2Chr.11" osisID="2Chr.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="2Chr.11.5" osisID="2Chr.11.5" />... aedificavit civitates munitas ...<verse eID="2Chr.11.5" />
+        <verse sID="2Chr.11.6" osisID="2Chr.11.6" />... Ethan, et Thecue,<verse eID="2Chr.11.6" />
+        <verse sID="2Chr.11.12" osisID="2Chr.11.12" />... Iuda et Beniamin.<verse eID="2Chr.11.12" />
+        <verse sID="2Chr.11.13" osisID="2Chr.11.13" />Et Levitae, et sacerdotes, qui erant in omni Israel, convenerunt ex omnibus finibus,<verse eID="2Chr.11.13" />
+        <verse sID="2Chr.11.14" osisID="2Chr.11.14" />quoniam dereliquerunt Levitae, et tabernacula sua, et possessiones suas, et abierunt ad Ieroboam, qoniam repellit eos Ieroboam, et filii eius, ut non servirent Domino.<verse eID="2Chr.11.14" />
+        <verse sID="2Chr.11.15" osisID="2Chr.11.15" />Et constituit ibi sacerdotes excelsorum, et simulacris, et daemoniis, et vitulis, quae fecit Ieroboam.<verse eID="2Chr.11.15" />
+        <verse sID="2Chr.11.16" osisID="2Chr.11.16" />Et proiecit eos a filiis Israel, et a tribubus Israel, qui dederant cor suum quaerere Dominum Deum Israel ...<verse eID="2Chr.11.16" />
+      </p>
+      <chapter eID="2Chr.11" />
+      <chapter sID="2Chr.15" osisID="2Chr.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="2Chr.15.2" osisID="2Chr.15.2" />... Dominus vobiscum, cum vos estis cum eo. Et si quaesieritis eum, invenietis, si autem reliqueritis eum, derelinquet vos.<verse eID="2Chr.15.2" />
+      </p>
+      <chapter eID="2Chr.15" />
+      <chapter sID="2Chr.16" osisID="2Chr.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="2Chr.16.7" osisID="2Chr.16.7" />... In quo confidis te regem, et non confidis in Dominum Deum tuum, propterea labefactata est virtus Syriae de manu tua.<verse eID="2Chr.16.7" />
+        <verse sID="2Chr.16.8" osisID="2Chr.16.8" />Nonne Aethiopes, et Lybies erant in virtute magna, et in currus, et equites, et multitudinem copiosam, et cum confideres in Dominum, tradidit illos in manus tuas?<verse eID="2Chr.16.8" />
+        <verse sID="2Chr.16.9" osisID="2Chr.16.9" />Quoniam oculi Domini respiciunt in omnem terram, ad conservandum illum, qui est perfecto corde ad eum. Et evanuisti de isto ...<verse eID="2Chr.16.9" />
+        <verse sID="2Chr.16.12" osisID="2Chr.16.12" />Et infirmatus est Asa in anno trigesimo et nono regni sui, dolore pedum vehementi, verum neque in aegrotatione sua quaesivit Dominum, sed medicos.<verse eID="2Chr.16.12" />
+      </p>
+      <chapter eID="2Chr.16" />
+      <chapter sID="2Chr.17" osisID="2Chr.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="2Chr.17.3" osisID="2Chr.17.3" />Et factus est Dominus cum Iosaphat, quoniam ambulavit in viis patris sui primis, et non quaesivit simulacra,<verse eID="2Chr.17.3" />
+        <verse sID="2Chr.17.4" osisID="2Chr.17.4" />sed Dominum Deum patris sui, et in mandatis eius ambulavit, et non sic opera Israel.<verse eID="2Chr.17.4" />
+        <verse sID="2Chr.17.5" osisID="2Chr.17.5" />Et direxit Dominus regnum eius, et dedit omnis Iuda munera Iosaphat, et factae sunt illi divitiae, et gloria multa.<verse eID="2Chr.17.5" />
+        <verse sID="2Chr.17.6" osisID="2Chr.17.6" />Et exaltatum est cor eius in viis Domini, et adhuc amputavit lucos de Iuda.<verse eID="2Chr.17.6" />
+        <verse sID="2Chr.17.7" osisID="2Chr.17.7" />Et tertio anno regni sui, misit duces suos, et filios virtutum ...<verse eID="2Chr.17.7" />
+        <verse sID="2Chr.17.8" osisID="2Chr.17.8" />... et cum illis Elimasat et Ioram sacerdotes,<verse eID="2Chr.17.8" />
+        <verse sID="2Chr.17.9" osisID="2Chr.17.9" />et docebant Iudam, et cum illis erat liber legis Domini, et pertransierunt in civitates Iuda, et docebant populum.<verse eID="2Chr.17.9" />
+        <verse sID="2Chr.17.10" osisID="2Chr.17.10" />Et factus est pavor Domini in regnis terrae, et in circuitu Iuda, et non bellaverunt Iosaphat.<verse eID="2Chr.17.10" />
+        <verse sID="2Chr.17.11" osisID="2Chr.17.11" />Et ab alienigenis adferebant Iosaphat munera, et argentum, et dona, et Arabes adferebant illi arietes ovium septem millia septingentos.<verse eID="2Chr.17.11" />
+        <verse sID="2Chr.17.12" osisID="2Chr.17.12" />Et erat Iosaphat ambulans, magnificatus usque in altum ...<verse eID="2Chr.17.12" />
+      </p>
+      <chapter eID="2Chr.17" />
+      <chapter sID="2Chr.19" osisID="2Chr.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="2Chr.19.2" osisID="2Chr.19.2" />... Si peccatorem illum adiuvas, et eorum qui oderunt Dominum amicus es, in hoc super te irae a facie Domini,<verse eID="2Chr.19.2" />
+        <verse sID="2Chr.19.3" osisID="2Chr.19.3" />sed sermones boni inventi sunt tecum, quoniam abstulisti lucos de terra, et parasti cor tuum ad requirendum Dominum.<verse eID="2Chr.19.3" />
+        <verse sID="2Chr.19.4" osisID="2Chr.19.4" />Et habitavit Iosaphat in Ierusalem, et conversus est, et exiit in populo a Bersabee usque ad montem Ephrem, et convertit eos ad Dominum Deum patrum suorum.<verse eID="2Chr.19.4" />
+        <verse sID="2Chr.19.5" osisID="2Chr.19.5" />Et statuit iudices in omnibus civitatibus Iuda munitis, et per singulas civitates,<verse eID="2Chr.19.5" />
+        <verse sID="2Chr.19.6" osisID="2Chr.19.6" />dixit iudicibus, Videte quid vobis facietis, non enim homini iudicabitis, sed Domino, et vobiscum est in verbo.<verse eID="2Chr.19.6" />
+        <verse sID="2Chr.19.7" osisID="2Chr.19.7" />Et nunc sit timor Domini super vos, ut servetis et faciatis, neque enim est cum Domino Deo nostro iniquitas, neque personae acceptio, neque munerum acceptio.<verse eID="2Chr.19.7" />
+        <verse sID="2Chr.19.8" osisID="2Chr.19.8" />Et quidem in Hierusalem statuit Iosaphat de Levitis, et sacerdotibus, et principibus Israel in iudicium Domini, et iudicare habitantes in Hierusalem.<verse eID="2Chr.19.8" />
+        <verse sID="2Chr.19.9" osisID="2Chr.19.9" />Et mandavit super eos, dicens, Ita facietis in timore Domini in corde perfecto.<verse eID="2Chr.19.9" />
+        <verse sID="2Chr.19.10" osisID="2Chr.19.10" />Et omne iudicium, quod acceptum fuerit super vos a fratribus vestris, qui habitant in civitatibus suis, inter medium sanguinis et sanguinis, inter medium legis, in mandatis ac iustificationibus, et ad iudicia, et distinguetis eos, et non peccabunt Domino, et non erit ira super vos et fratres vestros, sic facite, et non peccabitis.<verse eID="2Chr.19.10" />
+        <verse sID="2Chr.19.11" osisID="2Chr.19.11" />Ecce Amarias sacerdos princeps super vos, in omne verbum Domini, et Iabadias filius Zmabel, qui princeps est domui Iuda, in omne verbum regis, et scribae et Levitae in conspectu vestro, confortamini, et facite, et erit Dominus vobiscum cum bono.<verse eID="2Chr.19.11" />
+      </p>
+      <chapter eID="2Chr.19" />
+      <chapter sID="2Chr.20" osisID="2Chr.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="2Chr.20.15" osisID="2Chr.20.15" />... Haec dicit Dominus, Ne timeatis, neque expavescatis a facie multitudinis huius, quia non vobis est haec pugna, sed Domino.<verse eID="2Chr.20.15" />
+        <verse sID="2Chr.20.32" osisID="2Chr.20.32" />Et ingressus est Iosaphat in via Asa patris sui, et non declinavit ab ea, faciendo quod rectum est in conspectum Domini.<verse eID="2Chr.20.32" />
+        <verse sID="2Chr.20.35" osisID="2Chr.20.35" />Et iunxit amicitiam Iosaphat rex Iuda cum Ochozia rege Israel, ipse inique coepit facere.<verse eID="2Chr.20.35" />
+        <verse sID="2Chr.20.36" osisID="2Chr.20.36" />Et communicavit secum ut faceret naves, quibus iret in Tharsis, et fecit naves in Asion Gabar<verse eID="2Chr.20.36" />
+        <verse sID="2Chr.20.37" osisID="2Chr.20.37" />Et prophetavit Eliezer filius Oziae ex Marea super Iosaphat, dicens, In eo quod communicasti Ochoziae, confregit Dominus operam tuam, et contritae sunt naves tuae, et non poterunt ire in Tharsis.<verse eID="2Chr.20.37" />
+      </p>
+      <chapter eID="2Chr.20" />
+      <chapter sID="2Chr.21" osisID="2Chr.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="2Chr.21.16" osisID="2Chr.21.16" />Et suscitavit Dominus super Ioram spiritum Philisthiim, et Arabum, qui finitimi erant Aethiopibus,<verse eID="2Chr.21.16" />
+        <verse sID="2Chr.21.17" osisID="2Chr.21.17" />et ascenderunt in terram Iuda, et dissipaverunt eam, et ceperunt omnem substantiam, quae in domo regis inventa est ...<verse eID="2Chr.21.17" />
+      </p>
+      <chapter eID="2Chr.21" />
+      <chapter sID="2Chr.24" osisID="2Chr.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="2Chr.24.20" osisID="2Chr.24.20" />... Haec dicit Dominus, Quare praeteristi mandatum Domini? Non erit vobis in prosperum. Quoniam dereliquisti Dominum, et ille derelinquet vos.<verse eID="2Chr.24.20" />
+      </p>
+      <chapter eID="2Chr.24" />
+      <chapter sID="2Chr.25" osisID="2Chr.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="2Chr.25.7" osisID="2Chr.25.7" />... Non ibit tecum exercitus Israel, quia non Deus cum Israel, omnes filii Ephrem,<verse eID="2Chr.25.7" />
+        <verse sID="2Chr.25.8" osisID="2Chr.25.8" />quia si te existimaveris praevalere in istis, in fugam convertet te Dominus ante inimicos, quia est virtus a Domino ...<verse eID="2Chr.25.8" />
+        <verse sID="2Chr.25.14" osisID="2Chr.25.14" />Et factum est, posteaquam venit Amasias percutere Idumaeam, et attulit inde deos montis Seir, et statuit eos sibi in deos, et in conspectu eorum adorabat, et ipse eis immolabat.<verse eID="2Chr.25.14" />
+        <verse sID="2Chr.25.15" osisID="2Chr.25.15" />Et facta est super eum ira Domini in Amasiam, et misit ad eum prophetam Baneam, dixitque ei Baneas, Quid quaesisti deos populi, qui non liberaverunt populum suum de manu tua?<verse eID="2Chr.25.15" />
+        <verse sID="2Chr.25.16" osisID="2Chr.25.16" />Et factum est ut loqueretur ei, dixit ad eum, Nunquid consiliarium regis dedi te? Tace ne flagelleris. Scio ego quoniam Dominus Deus disperdet te, qui fecisti istud, et non obaudisti consilium meum.<verse eID="2Chr.25.16" />
+        <verse sID="2Chr.25.20" osisID="2Chr.25.20" />Et non audivit Amasias, quoniam a Deo erat ut traderetur in manus, quoniam quaesierunt deum Edom.<verse eID="2Chr.25.20" />
+        <verse sID="2Chr.25.27" osisID="2Chr.25.27" />Et in tempore quo discessit Amasias a Domino, insurrexerunt ad eum insurrectione. Et fugit ab Ierusalem in Lachis, et interfecerunt eum in Lachis.<verse eID="2Chr.25.27" />
+      </p>
+      <chapter eID="2Chr.25" />
+      <chapter sID="2Chr.26" osisID="2Chr.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="2Chr.26.16" osisID="2Chr.26.16" />... et intravit in templum Domini, incensum ponere super altare.<verse eID="2Chr.26.16" />
+        <verse sID="2Chr.26.17" osisID="2Chr.26.17" />Et intravit post eum Ozias sacerdos, et cum ipso sacerdotes Domini triginta, filii virtutis,<verse eID="2Chr.26.17" />
+        <verse sID="2Chr.26.18" osisID="2Chr.26.18" />et surrexerunt super Odiam regem, et dixerunt ei, Non licet tibi Odia, incendere Domino, sed sacerdotibus, filiis Aaron, qui sanctificati sunt ut incendant, exi de Sanctis, quoniam recessisti a Domino, et non erit tibi istud in honore a Domino Deo.<verse eID="2Chr.26.18" />
+        <verse sID="2Chr.26.19" osisID="2Chr.26.19" />Et iratus est Odias, et in manu eius erat altare, ut incenderet in ara. Et lepra apparuit in fronte eius in conspectu sacerdotum, in domo Domini ...<verse eID="2Chr.26.19" />
+      </p>
+      <chapter eID="2Chr.26" />
+      <chapter sID="2Chr.29" osisID="2Chr.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="2Chr.29.2" osisID="2Chr.29.2" />Fecit quod rectum est in conspectu Domini, secundum omnia quae fecit David pater suus.<verse eID="2Chr.29.2" />
+      </p>
+      <chapter eID="2Chr.29" />
+      <chapter sID="2Chr.32" osisID="2Chr.32" />
+      <title>Chatper 32</title>
+      <p>
+        <verse sID="2Chr.32.24" osisID="2Chr.32.24" />In diebus illis infirmatus est Ezechias usque ad mortem ...<verse eID="2Chr.32.24" />
+        <verse sID="2Chr.32.26" osisID="2Chr.32.26" />Et cecidit Ezechias ab altitudine cordis sui ...<verse eID="2Chr.32.26" />
+      </p>
+      <chapter eID="2Chr.32" />
+      <chapter sID="2Chr.33" osisID="2Chr.33" />
+      <title>Chatper 33</title>
+      <p>
+        <verse sID="2Chr.33.11" osisID="2Chr.33.11" />... adduxit super eum Deus principes virtutis regis Assur, et comprehenderunt Manassen in vinculis, et ligaverunt eum in compedibus, et perduxerunt eum in Babyloniam.<verse eID="2Chr.33.11" />
+      </p>
+      <chapter eID="2Chr.33" />
+    </div>
+  </osisText>
+</osis>

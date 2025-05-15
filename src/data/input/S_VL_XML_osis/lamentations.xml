@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Ier" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Ier">
+        <title>lamentations</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Ier</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>lamentations</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Ier">
+      <title>lamentations</title>
+      <chapter sID="Ier.51" osisID="Ier.51" />
+      <title>Chatper 51</title>
+      <p>
+        <verse sID="Ier.51.25" osisID="Ier.51.25" />Ecce ego ad te mons corrupte, qui corrumpis omnem terram ...<verse eID="Ier.51.25" />
+      </p>
+      <chapter eID="Ier.51" />
+      <chapter sID="Ier.1" osisID="Ier.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Ier.1.1" osisID="Ier.1.1" />Et factum est, postquam in captivitatem redactus est Israel, et Ierusalem deserta est, sedit Ieremias propheta flens, et planxit lamentatione hac in Ierusalem, et amaro animo suspirans, et eiulans dixit, (Aleph) Quomodo sedet sola civitas, quae abundabat populis, facta est ut vidua, quae multiplicata erat in nationibus, princeps in regionibus facta est in tributo.<verse eID="Ier.1.1" />
+        <verse sID="Ier.1.2" osisID="Ier.1.2" />(Beth) Plorans ploravit in nocte, et lacrymae illius in maxillis eius, non est qui eam consoletur ab omnibus qui diligunt eam, omnes qui amant illam, despexerunt eam ...<verse eID="Ier.1.2" />
+        <verse sID="Ier.1.4" osisID="Ier.1.4" />(Daleth) Viae Sion lugent ... sacerdotes eius ingemiscunt, virgines eius abductae, et ipsa indignatur intra se.<verse eID="Ier.1.4" />
+        <verse sID="Ier.1.9" osisID="Ier.1.9" />(Teth) Immunditia eius ante pedes eius, non fuit memor novissimorum suorum, et cecidit invalide, non est qui consoletur eam, vide Domine humilitatem eius, quia magnificatus est inimicus.<verse eID="Ier.1.9" />
+        <verse sID="Ier.1.10" osisID="Ier.1.10" />(Iod) Manus suas extendit, qui tribulatur in omnia desideria eius, vidit enim gentes introeuntes in sanctificationem suam, quibus mandasti ne introirent in ecclesiam eius.<verse eID="Ier.1.10" />
+        <verse sID="Ier.1.11" osisID="Ier.1.11" />(Caph) Omnis populus eius ingemiscentes, quaerentes panem, dederunt desideria sua in escam, ut reficiant animam, vide Domine et aspice, quia facta est sine honore.<verse eID="Ier.1.11" />
+        <verse sID="Ier.1.13" osisID="Ier.1.13" />(Mem) Ex alto suo misit ignem in ossibus meis ...<verse eID="Ier.1.13" />
+        <verse sID="Ier.1.15" osisID="Ier.1.15" />(Samech) Abstulit omnes fortes meos Dominus de medio mei, vocavit in me tempus, ut contereret in me electos meos, lacum calcavit Dominus virgini filiae Iudae.<verse eID="Ier.1.15" />
+        <verse sID="Ier.1.16" osisID="Ier.1.16" />(Ain) In his ego fleo, oculi mei caligaverunt a fletu, quia elongavit a me qui me consolabatur ...<verse eID="Ier.1.16" />
+        <verse sID="Ier.1.17" osisID="Ier.1.17" />(Phe) Expandit Sion manus suas, non est qui consoletur eam ...<verse eID="Ier.1.17" />
+        <verse sID="Ier.1.18" osisID="Ier.1.18" />(Tsade) Iustus est Dominus, quia os eius irritavit, audite omnes populi, et videte dolorem meum, virgines meae, et iuvenes mei abierunt in captivitatem.<verse eID="Ier.1.18" />
+        <verse sID="Ier.1.20" osisID="Ier.1.20" />(Res) Vide Domine quia tribulor, venter meus turbatus est a fletu meo, conversum est cor meum in me ... a foris sine filiis fecit, et ab intus mors.<verse eID="Ier.1.20" />
+      </p>
+      <chapter eID="Ier.1" />
+      <chapter sID="Ier.2" osisID="Ier.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Ier.2.10" osisID="Ier.2.10" />(Iod) Sederunt in terra, tacuerunt seniores filiae Sion, et imposuerunt terram super caput suum, praecinxerunt se cilicio, deduxerunt in terram principes, virgines Ierusalem,<verse eID="Ier.2.10" />
+        <verse sID="Ier.2.11" osisID="Ier.2.11" />(Caph) Defecerunt in lacrymis oculi mei, caligaverunt, turbatus est venter meus, effusa est in terra gloria mea ...<verse eID="Ier.2.11" />
+        <verse sID="Ier.2.13" osisID="Ier.2.13" />(Mem) Quid testabor tibi? Aut quid adsimilabo tibi, filia Ierusalem? Quis salvam te faciet, et quis consolabitur te, virgo filia Sion? Quia magna facta est super te contritio tua, quis sanabit te?<verse eID="Ier.2.13" />
+        <verse sID="Ier.2.15" osisID="Ier.2.15" />Tenuerunt super te manus omnes transeuntes per viam, sibilaverunt, et moverunt caput suum super filiam Ierusalem, Haec est civitas, dicentes, corona gloriae, et iucunditas universae terrae?<verse eID="Ier.2.15" />
+        <verse sID="Ier.2.16" osisID="Ier.2.16" />(Ain) Aperuerunt in te os suum omnes inimici tui, sibilaverunt, fremuerunt dentibus, et dixerunt, Deglutivimus eam, tamen haec est dies, quam sperabamus, invenimus eam, vidimus eam.<verse eID="Ier.2.16" />
+        <verse sID="Ier.2.17" osisID="Ier.2.17" />(Phe) Dominus quae cogitavit, consummavit. Verbum suum, quod mandavit a diebus antiquis, destruxit, et non pepercit, et laetificavit super te inimicum, et exaltavit cornu tribulantis te.<verse eID="Ier.2.17" />
+        <verse sID="Ier.2.18" osisID="Ier.2.18" />(Tsade) Exclamavit cor eorum ad Dominum, Muri filiae Sion deducant torrentes, fluant lacrymas, die ac nocte, noli dare tibi requiem, non sileat pupilla oculi tui.<verse eID="Ier.2.18" />
+        <verse sID="Ier.2.19" osisID="Ier.2.19" />Surge, et expergiscere in nocte, in principio vigiliae tuae, effunde sicut aquam cor tuum ante faciem Domini, extolle ad Dominum manus tuas pro animabus parvulorum tuorum, qui deficiunt fame in plateis omnium itinerum.<verse eID="Ier.2.19" />
+        <verse sID="Ier.2.20" osisID="Ier.2.20" />(Rechs) Vide Domine, et considera, quia vindemiasti nos ... sacerdos et propheta de sanctuario tuo defecerunt.<verse eID="Ier.2.20" />
+      </p>
+      <chapter eID="Ier.2" />
+      <chapter sID="Ier.3" osisID="Ier.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Ier.3.10" osisID="Ier.3.10" />(Daleth) Ursa insidians ...<verse eID="Ier.3.10" />
+        <verse sID="Ier.3.14" osisID="Ier.3.14" />(He) ... derisui, et contemptui his, qui in circuitu nostro ...<verse eID="Ier.3.14" />
+        <verse sID="Ier.3.22" osisID="Ier.3.22" />(Heth) Misericordia Domini est, quod non defecimus, quia non sunt consummatae miserationes eius.<verse eID="Ier.3.22" />
+        <verse sID="Ier.3.23" osisID="Ier.3.23" />Renovabit illas sicut lux matutina, multi sunt gemitus mei, et cor meum defecit.<verse eID="Ier.3.23" />
+        <verse sID="Ier.3.24" osisID="Ier.3.24" />Sors mea Dominus, dixi, ideo sustinebo eum.<verse eID="Ier.3.24" />
+        <verse sID="Ier.3.25" osisID="Ier.3.25" />(Teth) Bonus est Dominus sustinentibus eum, animae quae quaerit eum.<verse eID="Ier.3.25" />
+        <verse sID="Ier.3.26" osisID="Ier.3.26" />Bonum est sustinere et sperare in salutare Dei.<verse eID="Ier.3.26" />
+        <verse sID="Ier.3.27" osisID="Ier.3.27" />Bonum est viro, cum portaverit iugum grave a iuventute sua.<verse eID="Ier.3.27" />
+        <verse sID="Ier.3.28" osisID="Ier.3.28" />(Iod) Sedebit singulariter, et silebit, quia tulit iugum grave.<verse eID="Ier.3.28" />
+        <verse sID="Ier.3.29" osisID="Ier.3.29" />Dabit in sepultura os suum, si tamen est spes patientiae.<verse eID="Ier.3.29" />
+        <verse sID="Ier.3.30" osisID="Ier.3.30" />Dabit percutienti maxillam suam, et satiabitur in opprobriis.<verse eID="Ier.3.30" />
+        <verse sID="Ier.3.31" osisID="Ier.3.31" />(Caph) Quia non repellet in aeternum Dominus.<verse eID="Ier.3.31" />
+        <verse sID="Ier.3.32" osisID="Ier.3.32" />Quia cum humiliaverit, miserebitur secundum multitudinem misericordiae suae.<verse eID="Ier.3.32" />
+        <verse sID="Ier.3.33" osisID="Ier.3.33" />Quia non humiliavit toto corde suo, neque repulit filios hominum,<verse eID="Ier.3.33" />
+        <verse sID="Ier.3.34" osisID="Ier.3.34" />(Lamed) Ut humiliaret sub pedibus omnes vinctos terrae,<verse eID="Ier.3.34" />
+        <verse sID="Ier.3.35" osisID="Ier.3.35" />Et declinaret iudicium viri contra faciem Altissimi.<verse eID="Ier.3.35" />
+        <verse sID="Ier.3.36" osisID="Ier.3.36" />Ad condemnandum hominem cum iudicatur, Dominus non dixit.<verse eID="Ier.3.36" />
+        <verse sID="Ier.3.38" osisID="Ier.3.38" />(Mem) De ore Altissimi non exibunt mala ...<verse eID="Ier.3.38" />
+        <verse sID="Ier.3.44" osisID="Ier.3.44" />(Samech) Opposuisti nubem, ne transeat oratio nostra.<verse eID="Ier.3.44" />
+        <verse sID="Ier.3.48" osisID="Ier.3.48" />(Phe) Ut flumina aquarum transierunt oculi mei, super contritionem plebis meae.<verse eID="Ier.3.48" />
+        <verse sID="Ier.3.49" osisID="Ier.3.49" />(Ain) Oculus meus absorptus est ...<verse eID="Ier.3.49" />
+        <verse sID="Ier.3.53" osisID="Ier.3.53" />(Sade) Mortificaverunt in lacum vitam meam, et posuerunt lapidem super me.<verse eID="Ier.3.53" />
+        <verse sID="Ier.3.61" osisID="Ier.3.61" />Audisti opprobrium eorum Domine, omnia consilia eorum adversum me.<verse eID="Ier.3.61" />
+        <verse sID="Ier.3.62" osisID="Ier.3.62" />Labia insurgentium mihi, et meditationes eorum adversum me tota die.<verse eID="Ier.3.62" />
+        <verse sID="Ier.3.63" osisID="Ier.3.63" />Sessionem eorum, et resurrectionem eorum. Aspice in oculos eorum.<verse eID="Ier.3.63" />
+        <verse sID="Ier.3.64" osisID="Ier.3.64" />(Thau) Redde illis retributionem Domine secundum opera manuum ipsorum.<verse eID="Ier.3.64" />
+      </p>
+      <chapter eID="Ier.3" />
+      <chapter sID="Ier.4" osisID="Ier.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Ier.4.4" osisID="Ier.4.4" />(Daleth) Adhaesit lingua lactentis ad faucem ipsius in siti, parvuli postulaverunt panem, et qui frangeret eis, non erat.<verse eID="Ier.4.4" />
+        <verse sID="Ier.4.9" osisID="Ier.4.9" />(Teth) Boni erant vulnerati gladio, quam vulnerati fame, abierunt compuncti a nativitate agrorum.<verse eID="Ier.4.9" />
+        <verse sID="Ier.4.16" osisID="Ier.4.16" />(Phe) ... faciem sanctorum non receperunt, et nobilibus misericordiam non dederunt.<verse eID="Ier.4.16" />
+        <verse sID="Ier.4.18" osisID="Ier.4.18" />(Sade) ... appropinquavit enim tempus nostrum, repleti sunt dies nostri, advenit finis noster.<verse eID="Ier.4.18" />
+        <verse sID="Ier.4.19" osisID="Ier.4.19" />(Coph) Leves facti sunt qui persecuti sunt nos, super aquilas coeli, in montibus accensi sunt, in deserto insidiatus est nobis.<verse eID="Ier.4.19" />
+        <verse sID="Ier.4.20" osisID="Ier.4.20" />(Res) Spiritus ante faciem nostram Christus Dominus comprehensus est in interitu nostro, sub cuius umbra diximus, Vivemus inter gentes.<verse eID="Ier.4.20" />
+        <verse sID="Ier.4.21" osisID="Ier.4.21" />(Sin) Gaude, et laetare filia Idumaeae, quae habitas in Geth, et quidem ad te pertransibit calix, bibes, et inebriaberis adhuc.<verse eID="Ier.4.21" />
+        <verse sID="Ier.4.22" osisID="Ier.4.22" />(Thau) Defecit iniquitas tua filia Sion, non adiiciet te expellere adhuc, visitavit iniquitates tuas filia Edom, revelavit super peccata tua.<verse eID="Ier.4.22" />
+      </p>
+      <chapter eID="Ier.4" />
+      <chapter sID="Ier.5" osisID="Ier.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Ier.5.1" osisID="Ier.5.1" />Memento Domine quid factum sit nobis, aspice, et vide opprobrium nostrum.<verse eID="Ier.5.1" />
+        <verse sID="Ier.5.2" osisID="Ier.5.2" />Haereditas nostra conversa est alienis, domus nostrae peregrinis.<verse eID="Ier.5.2" />
+        <verse sID="Ier.5.3" osisID="Ier.5.3" />Orphani facti sumus, velut non habentes patres. Matres nostrae sicut viduae.<verse eID="Ier.5.3" />
+        <verse sID="Ier.5.4" osisID="Ier.5.4" />Aquas nostras in pecunia bibimus, et ligna nostra in commutatione accepimus.<verse eID="Ier.5.4" />
+        <verse sID="Ier.5.5" osisID="Ier.5.5" />In cervices nostras curvati sumus, laboravimus, requiem non accepimus.<verse eID="Ier.5.5" />
+        <verse sID="Ier.5.6" osisID="Ier.5.6" />Aegyptus dedit manus Assyriis in satietate ipsis.<verse eID="Ier.5.6" />
+        <verse sID="Ier.5.7" osisID="Ier.5.7" />Patres nostri peccaverunt, et non sunt, nos autem iniquitates eorum exsolvimus.<verse eID="Ier.5.7" />
+        <verse sID="Ier.5.8" osisID="Ier.5.8" />Servi dominati sunt nobis, et non est qui redimat de manibus eorum.<verse eID="Ier.5.8" />
+        <verse sID="Ier.5.9" osisID="Ier.5.9" />In animabus nostris acquisivimus panem nostrum, a facie gladii et solitudinis.<verse eID="Ier.5.9" />
+        <verse sID="Ier.5.10" osisID="Ier.5.10" />Pellis nostra, ut clibanus livida facta est a facie plagarum famis.<verse eID="Ier.5.10" />
+        <verse sID="Ier.5.11" osisID="Ier.5.11" />Mulieres in Sion humiliatae sunt, et virgines civitatibus Iuda.<verse eID="Ier.5.11" />
+        <verse sID="Ier.5.12" osisID="Ier.5.12" />Principes in manibus eorum suspendi sunt, et faciem seniorum non glorificaverunt.<verse eID="Ier.5.12" />
+        <verse sID="Ier.5.13" osisID="Ier.5.13" />Potentes molis molebant, et iuvenes ligno confixi sunt.<verse eID="Ier.5.13" />
+        <verse sID="Ier.5.14" osisID="Ier.5.14" />Senes ad portas defecerunt, et electi a psalmis suis cessaverunt.<verse eID="Ier.5.14" />
+        <verse sID="Ier.5.15" osisID="Ier.5.15" />Dissolutum est gaudium cordis nostri, conversus est in luctum chorus noster.<verse eID="Ier.5.15" />
+        <verse sID="Ier.5.16" osisID="Ier.5.16" />Cecidit corona capitis nostri, vae nunc nobis, quoniam peccavimus.<verse eID="Ier.5.16" />
+        <verse sID="Ier.5.17" osisID="Ier.5.17" />Propter hoc factum est in dolore cor nostrum, propter hoc excaecati sunt oculi nostri.<verse eID="Ier.5.17" />
+        <verse sID="Ier.5.18" osisID="Ier.5.18" />Super montem Sion quia exterminatus est, vulpes transierunt per eum.<verse eID="Ier.5.18" />
+        <verse sID="Ier.5.19" osisID="Ier.5.19" />Tu autem Domine in aeternum habitas, sedes tua in saeculum saeculi.<verse eID="Ier.5.19" />
+        <verse sID="Ier.5.20" osisID="Ier.5.20" />Utquid in contemptu oblivisceris nostri? Derelinques nos in longitudine dierum?<verse eID="Ier.5.20" />
+        <verse sID="Ier.5.21" osisID="Ier.5.21" />Converte nos Deus ad te, et convertemur, innova dies nostros, sicut antea.<verse eID="Ier.5.21" />
+        <verse sID="Ier.5.22" osisID="Ier.5.22" />Quia repellens repulisti nos a te, et iratus es nobis nimis valde.<verse eID="Ier.5.22" />
+      </p>
+      <chapter eID="Ier.5" />
+    </div>
+  </osisText>
+</osis>

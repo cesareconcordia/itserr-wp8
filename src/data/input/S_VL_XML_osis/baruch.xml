@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Bar" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Bar">
+        <title>baruch</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Bar</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>baruch</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Bar">
+      <title>baruch</title>
+      <chapter sID="Bar.1" osisID="Bar.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Bar.1.1" osisID="Bar.1.1" />Et haec verba libri quae scripsit Baruch filius Neriae, filii Maasiae, filii Sedeciae, filii Sedei, filii Helciae, in Babylonia,<verse eID="Bar.1.1" />
+        <verse sID="Bar.1.2" osisID="Bar.1.2" />in anno quinto, in septimo die mensis, in tempore quo ceperunt Chaldaei Ierusalem, et succenderunt eam igni.<verse eID="Bar.1.2" />
+        <verse sID="Bar.1.3" osisID="Bar.1.3" />Et legit Baruch verba libri huius ad aures Iechoniae filii Ioakim regis Iuda, et ad aures universi populi venientis ad librum,<verse eID="Bar.1.3" />
+        <verse sID="Bar.1.4" osisID="Bar.1.4" />et ad aures potentium, filiorum regum, et ad aures presbyterorum, et ad aures populi, a minimo usque ad maximum eorum, omnium habitantium in Babylonia, ad flumen Sodi.<verse eID="Bar.1.4" />
+        <verse sID="Bar.1.5" osisID="Bar.1.5" />Qui audientes plorabant, et ieiunabant, et orabant in conspectu Domini.<verse eID="Bar.1.5" />
+        <verse sID="Bar.1.6" osisID="Bar.1.6" />Et collegerunt pecuniam, secundum quod potuit uniuscuiusque manus,<verse eID="Bar.1.6" />
+        <verse sID="Bar.1.7" osisID="Bar.1.7" />et miserunt in Ierusalem ad Ioakim filium Helciae filii Salom sacerdotem, et ad sacerdotes, et ad omnem populum qui inventi sunt cum eo in Ierusalem:<verse eID="Bar.1.7" />
+        <verse sID="Bar.1.8" osisID="Bar.1.8" />cum acciperet vasa templi Domini, quae ablata fuerant de templo, revocare in terram Iuda, decima die mensis Sivan, vasa argentea quae fecit Sedecias filius Iosiae rex Iuda,<verse eID="Bar.1.8" />
+        <verse sID="Bar.1.9" osisID="Bar.1.9" />posteaquam cepisset Nabuchodonosor rex Babylonis Iechoniam, et principes, et cunctos potentes, et populum terrae, ab Ierusalem, et duxit eos vinctos in Babylonem.<verse eID="Bar.1.9" />
+        <verse sID="Bar.1.10" osisID="Bar.1.10" />Et dixerunt: Ecce misimus ad vos pecunias, de quibus emite holocautomata et thus: et facite manna, et offerte pro peccato, ad aram Domini Dei nostri:<verse eID="Bar.1.10" />
+        <verse sID="Bar.1.11" osisID="Bar.1.11" />et orate pro vita Nabuchodonosor regis Babylonis, et pro vita Baltassar filii eius, ut sint dies eorum sicut dies caeli super terram:<verse eID="Bar.1.11" />
+        <verse sID="Bar.1.12" osisID="Bar.1.12" />et ut det Dominus virtutem nobis, et illuminet oculos nostros, ut vivamus sub umbra Nabuchodonosor regis Babylonis, et sub umbra Baltassar filii eius, et serviamus eis multis diebus, et inveniamus gratiam in conspectu eorum.<verse eID="Bar.1.12" />
+        <verse sID="Bar.1.13" osisID="Bar.1.13" />Et pro nobis ipsis orate ad Dominum Deum nostrum, quia peccavimus Domino Deo nostro, et non est aversus furor eius a nobis usque in hunc diem.<verse eID="Bar.1.13" />
+        <verse sID="Bar.1.14" osisID="Bar.1.14" />Et legite librum istum quem misimus ad vos recitari in templo Domini, in die solemni et in die opportuno:<verse eID="Bar.1.14" />
+        <verse sID="Bar.1.15" osisID="Bar.1.15" />et dicetis: Domino Deo nostro iustitia, nobis autem confusio faciei nostrae, sicut est dies haec omni Iuda, et habitantibus in Ierusalem:<verse eID="Bar.1.15" />
+        <verse sID="Bar.1.16" osisID="Bar.1.16" />regibus nostris, et principibus nostris, et sacerdotibus nostris, et prophetis nostris, et patribus nostris.<verse eID="Bar.1.16" />
+        <verse sID="Bar.1.17" osisID="Bar.1.17" />Peccavimus ante Dominum Deum nostrum, et non credidimus, diffidentes in eum:<verse eID="Bar.1.17" />
+        <verse sID="Bar.1.18" osisID="Bar.1.18" />et non fuimus subiectibiles illi, et non audivimus vocem Domini Dei nostri, ut ambularemus in mandatis eius, quae dedit nobis.<verse eID="Bar.1.18" />
+        <verse sID="Bar.1.19" osisID="Bar.1.19" />A die qua eduxit patres nostros de terra Aegypti, usque ad diem hanc, eramus incredibiles ad Dominum Deum nostrum: et dissipati recessimus, ne audiremus vocem ipsius:<verse eID="Bar.1.19" />
+        <verse sID="Bar.1.20" osisID="Bar.1.20" />et adhaeserunt nobis multa mala et maledictiones quae constituit Dominus Moysi servo suo, qui eduxit patres nostros de terra Aegypti, dare nobis terram fluentem lac et mel, sicut hodierna die.<verse eID="Bar.1.20" />
+        <verse sID="Bar.1.21" osisID="Bar.1.21" />Et non audivimus vocem Domini Dei nostri, secundum omnia verba prophetarum quos misit ad nos:<verse eID="Bar.1.21" />
+        <verse sID="Bar.1.22" osisID="Bar.1.22" />et abivimus unusquisque in sensum cordis nostri maligni, operari diis alienis, facientes mala ante oculos Domini Dei nostri.<verse eID="Bar.1.22" />
+      </p>
+      <chapter eID="Bar.1" />
+      <chapter sID="Bar.2" osisID="Bar.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Bar.2.1" osisID="Bar.2.1" />Propter quod statuit Dominus Deus noster verbum suum, quod locutus est ad nos, et ad iudices nostros qui iudicaverunt Israël, et ad reges nostros, et ad principes nostros, et ad omnem Israël et Iuda:<verse eID="Bar.2.1" />
+        <verse sID="Bar.2.2" osisID="Bar.2.2" />ut adduceret Dominus super nos mala magna, quae non sunt facta sub caelo quemadmodum facta sunt in Ierusalem, secundum quae scripta sunt in lege Moysi,<verse eID="Bar.2.2" />
+        <verse sID="Bar.2.3" osisID="Bar.2.3" />et manducaret homo carnes filii sui et carnes filiae suae.<verse eID="Bar.2.3" />
+        <verse sID="Bar.2.4" osisID="Bar.2.4" />Et dedit eos sub manu regum omnium qui sunt in circuitu nostro, in improperium et in desolationem in omnibus populis in quibus nos dispersit Dominus:<verse eID="Bar.2.4" />
+        <verse sID="Bar.2.5" osisID="Bar.2.5" />et facti sumus subtus, et non supra, quia peccavimus Domino Deo nostro, non obaudiendo voci ipsius.<verse eID="Bar.2.5" />
+        <verse sID="Bar.2.6" osisID="Bar.2.6" />Domino Deo nostro iustitia, nobis autem et patribus nostris confusio faciei, sicut est dies haec:<verse eID="Bar.2.6" />
+        <verse sID="Bar.2.7" osisID="Bar.2.7" />quia locutus est Dominus super nos omnia mala haec quae venerunt super nos:<verse eID="Bar.2.7" />
+        <verse sID="Bar.2.8" osisID="Bar.2.8" />et non sumus deprecati faciem Domini Dei nostri, ut reverteremur unusquisque nostrum a viis nostris pessimis.<verse eID="Bar.2.8" />
+        <verse sID="Bar.2.9" osisID="Bar.2.9" />Et vigilavit Dominus in malis, et adduxit ea super nos: quia iustus est Dominus in omnibus operibus suis quae mandavit nobis,<verse eID="Bar.2.9" />
+        <verse sID="Bar.2.10" osisID="Bar.2.10" />et non audivimus vocem ipsius ut iremus in praeceptis Domini, quae dedit ante faciem nostram.<verse eID="Bar.2.10" />
+        <verse sID="Bar.2.11" osisID="Bar.2.11" />Et nunc, Domine Deus Israël, qui eduxisti populum tuum de terra Aegypti in manu valida, et in signis, et in prodigiis, et in virtute tua magna, et in brachio excelso, et fecisti tibi nomen sicut est dies iste:<verse eID="Bar.2.11" />
+        <verse sID="Bar.2.12" osisID="Bar.2.12" />peccavimus, impie egimus, inique gessimus, Domine Deus noster, in omnibus iustitiis tuis.<verse eID="Bar.2.12" />
+        <verse sID="Bar.2.13" osisID="Bar.2.13" />Avertatur ira tua a nobis, quia derelicti sumus pauci inter gentes ubi dispersisti nos.<verse eID="Bar.2.13" />
+        <verse sID="Bar.2.14" osisID="Bar.2.14" />Exaudi, Domine, preces nostras et orationes nostras, et educ nos propter te, et da nobis invenire gratiam ante faciem eorum qui nos abduxerunt:<verse eID="Bar.2.14" />
+        <verse sID="Bar.2.15" osisID="Bar.2.15" />ut sciat omnis terra quia tu es Dominus Deus noster, et quia nomen tuum invocatum est super Israël, et super genus ipsius.<verse eID="Bar.2.15" />
+        <verse sID="Bar.2.16" osisID="Bar.2.16" />Respice, Domine, de domo sancta tua in nos, et inclina aurem tuam, et exaudi nos.<verse eID="Bar.2.16" />
+        <verse sID="Bar.2.17" osisID="Bar.2.17" />Aperi oculos tuos et vide: quia non mortui qui sunt in inferno, quorum spiritus acceptus est a visceribus suis, dabunt honorem et iustificationem Domino:<verse eID="Bar.2.17" />
+        <verse sID="Bar.2.18" osisID="Bar.2.18" />sed anima quae tristis est super magnitudine mali, et incedit curva et infirma, et oculi deficientes, et anima esuriens, dat tibi gloriam et iustitiam Domino.<verse eID="Bar.2.18" />
+        <verse sID="Bar.2.19" osisID="Bar.2.19" />Quia non secundum iustitias patrum nostrorum nos fundimus preces et petimus misericordiam ante conspectum tuum, Domine Deus noster:<verse eID="Bar.2.19" />
+        <verse sID="Bar.2.20" osisID="Bar.2.20" />sed quia misisti iram tuam et furorem tuum super nos, sicut locutus es in manu puerorum tuorum prophetarum, dicens:<verse eID="Bar.2.20" />
+        <verse sID="Bar.2.21" osisID="Bar.2.21" />Sic dicit Dominus: Inclinate humerum vestrum et cervicem vestram, et opera facite regi Babylonis, et sedebitis in terra quam dedi patribus vestris.<verse eID="Bar.2.21" />
+        <verse sID="Bar.2.22" osisID="Bar.2.22" />Quod si non audieritis vocem Domini Dei vestri, operari regi Babyloniae, defectionem vestram faciam de civitatibus Iuda, et a foris Ierusalem,<verse eID="Bar.2.22" />
+        <verse sID="Bar.2.23" osisID="Bar.2.23" />et auferam a vobis vocem iucunditatis et vocem gaudii, et vocem sponsi et vocem sponsae, et erit omnis terra sine vestigio ab inhabitantibus eam.<verse eID="Bar.2.23" />
+        <verse sID="Bar.2.24" osisID="Bar.2.24" />Et non audierunt vocem tuam, ut operarentur regi Babylonis: et statuisti verba tua, quae locutus es in manibus puerorum tuorum prophetarum, ut transferrentur ossa regum nostrorum et ossa patrum nostrorum de loco suo:<verse eID="Bar.2.24" />
+        <verse sID="Bar.2.25" osisID="Bar.2.25" />et ecce proiecta sunt in calore solis et in gelu noctis, et mortui sunt in doloribus pessimis, in fame et in gladio, et in emissione.<verse eID="Bar.2.25" />
+        <verse sID="Bar.2.26" osisID="Bar.2.26" />Et posuisti templum in quo invocatum est nomen tuum in ipso sicut haec dies, propter iniquitatem domus Israël et domus Iuda.<verse eID="Bar.2.26" />
+        <verse sID="Bar.2.27" osisID="Bar.2.27" />Et fecisti in nobis, Domine Deus noster, secundum omnem bonitatem tuam et secundum omnem miserationem tuam illam magnam:<verse eID="Bar.2.27" />
+        <verse sID="Bar.2.28" osisID="Bar.2.28" />sicut locutus es in manu pueri tui Moysi, in die qua praecepisti ei scribere legem tuam coram filiis Israël,<verse eID="Bar.2.28" />
+        <verse sID="Bar.2.29" osisID="Bar.2.29" />dicens: Si non audieritis vocem meam, multitudo haec magna convertetur in minimam inter gentes, quo ego eos dispergam:<verse eID="Bar.2.29" />
+        <verse sID="Bar.2.30" osisID="Bar.2.30" />quia scio quod me non audiet populus: populus est enim dura cervice. Et convertetur ad cor suum in terra captivitatis suae,<verse eID="Bar.2.30" />
+        <verse sID="Bar.2.31" osisID="Bar.2.31" />et scient quia ego sum Dominus Deus eorum: et dabo eis cor, et intelligent; aures, et audient:<verse eID="Bar.2.31" />
+        <verse sID="Bar.2.32" osisID="Bar.2.32" />et laudabunt me in terra captivitatis suae, et memores erunt nominis mei,<verse eID="Bar.2.32" />
+        <verse sID="Bar.2.33" osisID="Bar.2.33" />et avertent se a dorso suo duro, et a malignitatibus suis: quia reminiscentur viam patrum suorum, qui peccaverunt in me.<verse eID="Bar.2.33" />
+        <verse sID="Bar.2.34" osisID="Bar.2.34" />Et revocabo illos in terram quam iuravi patribus eorum, Abraham, Isaac, et Iacob: et dominabuntur eius, et multiplicabo eos, et non minorabuntur:<verse eID="Bar.2.34" />
+        <verse sID="Bar.2.35" osisID="Bar.2.35" />et statuam illis testamentum alterum sempiternum, ut sim illis in Deum, et ipsi erunt mihi in populum: et non movebo amplius populum meum, filios Israël, a terra quam dedi illis.<verse eID="Bar.2.35" />
+      </p>
+      <chapter eID="Bar.2" />
+      <chapter sID="Bar.3" osisID="Bar.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Bar.3.1" osisID="Bar.3.1" />Et nunc, Domine omnipotens, Deus Israël, anima in angustiis, et spiritus anxius clamat ad te.<verse eID="Bar.3.1" />
+        <verse sID="Bar.3.2" osisID="Bar.3.2" />Audi, Domine, et miserere, quia Deus es misericors: et miserere nostri, quia peccavimus ante te:<verse eID="Bar.3.2" />
+        <verse sID="Bar.3.3" osisID="Bar.3.3" />quia tu sedes in sempiternum, et nos, peribimus in aevum?<verse eID="Bar.3.3" />
+        <verse sID="Bar.3.4" osisID="Bar.3.4" />Domine omnipotens, Deus Israël, audi nunc orationem mortuorum Israël, et filiorum ipsorum qui peccaverunt ante te, et non audierunt vocem Domini Dei sui, et agglutinata sunt nobis mala.<verse eID="Bar.3.4" />
+        <verse sID="Bar.3.5" osisID="Bar.3.5" />Noli meminisse iniquitatum patrum nostrorum, sed memento manus tuae et nominis tui in tempore isto:<verse eID="Bar.3.5" />
+        <verse sID="Bar.3.6" osisID="Bar.3.6" />quia tu es Dominus Deus noster, et laudabimus te, Domine:<verse eID="Bar.3.6" />
+        <verse sID="Bar.3.7" osisID="Bar.3.7" />quia propter hoc dedisti timorem tuum in cordibus nostris, et ut invocemus nomen tuum, et laudemus te in captivitate nostra, quia convertimur ab iniquitate patrum nostrorum, qui peccaverunt ante te.<verse eID="Bar.3.7" />
+        <verse sID="Bar.3.8" osisID="Bar.3.8" />Et ecce nos in captivitate nostra sumus hodie, qua nos dispersisiti in improperium, et in maledictum, et in peccatum, secundum omnes iniquitates patrum nostrorum, qui recesserunt a te, Domine Deus noster.<verse eID="Bar.3.8" />
+        <verse sID="Bar.3.9" osisID="Bar.3.9" />Audi, Israël, mandata vitae: auribus percipe, ut scias prudentiam.<verse eID="Bar.3.9" />
+        <verse sID="Bar.3.10" osisID="Bar.3.10" />Quid est, Israël, quod in terra inimicorum es,<verse eID="Bar.3.10" />
+        <verse sID="Bar.3.11" osisID="Bar.3.11" />inveterasti in terra aliena, coinquinatus es cum mortuis, deputatus es cum descendentibus in infernum?<verse eID="Bar.3.11" />
+        <verse sID="Bar.3.12" osisID="Bar.3.12" />Dereliquisti fontem sapientiae:<verse eID="Bar.3.12" />
+        <verse sID="Bar.3.13" osisID="Bar.3.13" />nam si in via Dei ambulasses, habitasses utique in pace sempiterna.<verse eID="Bar.3.13" />
+        <verse sID="Bar.3.14" osisID="Bar.3.14" />Disce ubi sit prudentia, ubi sit virtus, ubi sit intellectus, ut scias simul ubi sit longiturnitas vitae et victus, ubi sit lumen oculorum, et pax.<verse eID="Bar.3.14" />
+        <verse sID="Bar.3.15" osisID="Bar.3.15" />Quis invenit locum eius? et quis intravit in thesauros eius?<verse eID="Bar.3.15" />
+        <verse sID="Bar.3.16" osisID="Bar.3.16" />Ubi sunt principes gentium, et qui dominantur super bestias quae sunt super terram?<verse eID="Bar.3.16" />
+        <verse sID="Bar.3.17" osisID="Bar.3.17" />qui in avibus caeli ludunt,<verse eID="Bar.3.17" />
+        <verse sID="Bar.3.18" osisID="Bar.3.18" />qui argentum thesaurizant, et aurum, in quo confidunt homines, et non est finis acquisitionis eorum? qui argentum fabricant, et solliciti sunt, nec est inventio operum illorum?<verse eID="Bar.3.18" />
+        <verse sID="Bar.3.19" osisID="Bar.3.19" />Exterminati sunt, et ad inferos descenderunt, et alii loco eorum surrexerunt.<verse eID="Bar.3.19" />
+        <verse sID="Bar.3.20" osisID="Bar.3.20" />Iuvenes viderunt lumen, et habitaverunt super terram, viam autem disciplinae ignoraverunt,<verse eID="Bar.3.20" />
+        <verse sID="Bar.3.21" osisID="Bar.3.21" />neque intellexerunt semitas eius, neque filii eorum susceperunt eam: a facie ipsorum longe facta est;<verse eID="Bar.3.21" />
+        <verse sID="Bar.3.22" osisID="Bar.3.22" />non est audita in terra Chanaan, neque visa est in Theman.<verse eID="Bar.3.22" />
+        <verse sID="Bar.3.23" osisID="Bar.3.23" />Filii quoque Agar, qui exquirunt prudentiam quae de terra est, negotiatores Merrhae et Theman, et fabulatores, et exquisitores prudentiae et intelligentiae: viam autem sapientiae nescierunt, neque commemorati sunt semitas eius.<verse eID="Bar.3.23" />
+        <verse sID="Bar.3.24" osisID="Bar.3.24" />O Israël, quam magna est domus Dei, et ingens locus possessionis eius!<verse eID="Bar.3.24" />
+        <verse sID="Bar.3.25" osisID="Bar.3.25" />magnus est, et non habet finem: excelsus, et immensus.<verse eID="Bar.3.25" />
+        <verse sID="Bar.3.26" osisID="Bar.3.26" />Ibi fuerunt gigantes nominati illi, qui ab initio fuerunt, statura magna, scientes bellum.<verse eID="Bar.3.26" />
+        <verse sID="Bar.3.27" osisID="Bar.3.27" />Non hos elegit Dominus, neque viam disciplinae invenerunt: propterea perierunt,<verse eID="Bar.3.27" />
+        <verse sID="Bar.3.28" osisID="Bar.3.28" />et quoniam non habuerunt sapientiam, interierunt propter suam insipientiam.<verse eID="Bar.3.28" />
+        <verse sID="Bar.3.29" osisID="Bar.3.29" />Quis ascendit in caelum, et accepit eam, et eduxit eam de nubibus?<verse eID="Bar.3.29" />
+        <verse sID="Bar.3.30" osisID="Bar.3.30" />Quis transfretavit mare, et invenit illam, et attulit illam super aurum electum?<verse eID="Bar.3.30" />
+        <verse sID="Bar.3.31" osisID="Bar.3.31" />Non est qui possit scire vias eius, neque qui exquirat semitas eius:<verse eID="Bar.3.31" />
+        <verse sID="Bar.3.32" osisID="Bar.3.32" />sed qui scit universa novit eam, et adinvenit eam prudentia sua qui praeparavit terram in aeterno tempore: et replevit eam pecudibus et quadrupedibus<verse eID="Bar.3.32" />
+        <verse sID="Bar.3.33" osisID="Bar.3.33" />qui emittit lumen, et vadit, et vocavit illud, et obedit illi in tremore.<verse eID="Bar.3.33" />
+        <verse sID="Bar.3.34" osisID="Bar.3.34" />Stellae autem dederunt lumen in custodiis suis, et laetatae sunt:<verse eID="Bar.3.34" />
+        <verse sID="Bar.3.35" osisID="Bar.3.35" />vocatae sunt, et dixerunt: Adsumus, et luxerunt ei cum iucunditate, qui fecit illas.<verse eID="Bar.3.35" />
+        <verse sID="Bar.3.36" osisID="Bar.3.36" />Hic est Deus noster, et non aestimabitur alius adversus eum.<verse eID="Bar.3.36" />
+        <verse sID="Bar.3.37" osisID="Bar.3.37" />Hic adinvenit omnem viam disciplinae, et tradidit illam Iacob puero suo, et Israël dilecto suo.<verse eID="Bar.3.37" />
+        <verse sID="Bar.3.38" osisID="Bar.3.38" />Post haec in terris visus est, et cum hominibus conversatus est.<verse eID="Bar.3.38" />
+      </p>
+      <chapter eID="Bar.3" />
+      <chapter sID="Bar.4" osisID="Bar.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Bar.4.1" osisID="Bar.4.1" />Hic liber mandatorum Dei, et lex quae est in aeternum: omnes qui tenent eam pervenient ad vitam: qui autem dereliquerunt eam, in mortem.<verse eID="Bar.4.1" />
+        <verse sID="Bar.4.2" osisID="Bar.4.2" />Convertere, Iacob, et apprehende eam: ambula per viam ad splendorem eius contra lumen eius.<verse eID="Bar.4.2" />
+        <verse sID="Bar.4.3" osisID="Bar.4.3" />Ne tradas alteri gloriam tuam, et dignitatem tuam genti alienae.<verse eID="Bar.4.3" />
+        <verse sID="Bar.4.4" osisID="Bar.4.4" />Beati sumus, Israël, quia quae Deo placent manifesta sunt nobis.<verse eID="Bar.4.4" />
+        <verse sID="Bar.4.5" osisID="Bar.4.5" />Animaequior esto, populus Dei, memorabilis Israël:<verse eID="Bar.4.5" />
+        <verse sID="Bar.4.6" osisID="Bar.4.6" />venundati estis gentibus non in perditionem: sed propter quod in ira ad iracundiam provocastis Deum, traditi estis adversariis.<verse eID="Bar.4.6" />
+        <verse sID="Bar.4.7" osisID="Bar.4.7" />Exacerbastis enim eum qui fecit vos, Deum aeternum, immolantes daemoniis, et non Deo.<verse eID="Bar.4.7" />
+        <verse sID="Bar.4.8" osisID="Bar.4.8" />Obliti enim estis Deum qui nutrivit vos, et contristastis nutricem vestram Ierusalem.<verse eID="Bar.4.8" />
+        <verse sID="Bar.4.9" osisID="Bar.4.9" />Vidit enim iracundiam a Deo venientem vobis, et dixit: Audite, confines Sion: adduxit enim mihi Deus luctum magnum.<verse eID="Bar.4.9" />
+        <verse sID="Bar.4.10" osisID="Bar.4.10" />Vidi enim captivitatem populi mei, filiorum meorum et filiarum, quam superduxit illis Aeternus.<verse eID="Bar.4.10" />
+        <verse sID="Bar.4.11" osisID="Bar.4.11" />Nutrivi enim illos cum iucunditate; dimisi autem illos cum fletu et luctu.<verse eID="Bar.4.11" />
+        <verse sID="Bar.4.12" osisID="Bar.4.12" />Nemo gaudeat super me viduam et desolatam: a multis derelicta sum propter peccata filiorum meorum, quia declinaverunt a lege Dei.<verse eID="Bar.4.12" />
+        <verse sID="Bar.4.13" osisID="Bar.4.13" />Iustitias autem ipsius nescierunt, nec ambulaverunt per vias mandatorum Dei, neque per semitas veritatis eius cum iustitia ingressi sunt.<verse eID="Bar.4.13" />
+        <verse sID="Bar.4.14" osisID="Bar.4.14" />Veniant confines Sion, et memorentur captivitatem filiorum et filiarum mearum, quam superduxit illis Aeternus.<verse eID="Bar.4.14" />
+        <verse sID="Bar.4.15" osisID="Bar.4.15" />Adduxit enim super illos gentem de longinquo, gentem improbam, et alterius linguae,<verse eID="Bar.4.15" />
+        <verse sID="Bar.4.16" osisID="Bar.4.16" />qui non sunt reveriti senem, neque puerorum miserti sunt, et abduxerunt dilectos viduae, et a filiis unicam desolaverunt.<verse eID="Bar.4.16" />
+        <verse sID="Bar.4.17" osisID="Bar.4.17" />Ego autem, quid possum adiuvare vos?<verse eID="Bar.4.17" />
+        <verse sID="Bar.4.18" osisID="Bar.4.18" />qui enim adduxit super vos mala, ipse vos eripiet de manibus inimicorum vestrorum.<verse eID="Bar.4.18" />
+        <verse sID="Bar.4.19" osisID="Bar.4.19" />Ambulate, filii, ambulate: ego enim derelicta sum sola.<verse eID="Bar.4.19" />
+        <verse sID="Bar.4.20" osisID="Bar.4.20" />Exui me stola pacis, indui autem me sacco obsecrationis, et clamabo ad Altissimum in diebus meis.<verse eID="Bar.4.20" />
+        <verse sID="Bar.4.21" osisID="Bar.4.21" />Animaequiores estote, filii; clamate ad Dominum, et eripiet vos de manu principum inimicorum.<verse eID="Bar.4.21" />
+        <verse sID="Bar.4.22" osisID="Bar.4.22" />Ego enim speravi in aeternum salutem vestram, et venit mihi gaudium a Sancto, super misericordia quae veniet vobis ab aeterno salutari nostro.<verse eID="Bar.4.22" />
+        <verse sID="Bar.4.23" osisID="Bar.4.23" />Emisi enim vos cum luctu et ploratu: reducet autem vos mihi Dominus cum gaudio et iucunditate in sempiternum.<verse eID="Bar.4.23" />
+        <verse sID="Bar.4.24" osisID="Bar.4.24" />Sicut enim viderunt vicinae Sion captivitatem vestram a Deo, sic videbunt et in celeritate salutem vestram a Deo, quae superveniet vobis cum honore magno et splendore aeterno.<verse eID="Bar.4.24" />
+        <verse sID="Bar.4.25" osisID="Bar.4.25" />Filii, patienter sustinete iram quae supervenit vobis: persecutus est enim te inimicus tuus: sed cito videbis perditionem ipsius, et super cervices ipsius ascendes.<verse eID="Bar.4.25" />
+        <verse sID="Bar.4.26" osisID="Bar.4.26" />Delicati mei ambulaverunt vias asperas: ducti sunt enim ut grex direptus ab inimicis.<verse eID="Bar.4.26" />
+        <verse sID="Bar.4.27" osisID="Bar.4.27" />Animaequiores estote, filii, et proclamate ad Dominum: erit enim memoria vestra ab eo qui duxit vos.<verse eID="Bar.4.27" />
+        <verse sID="Bar.4.28" osisID="Bar.4.28" />Sicut enim fuit sensus vester ut erraretis a Deo, decies tantum iterum convertentes requiretis eum:<verse eID="Bar.4.28" />
+        <verse sID="Bar.4.29" osisID="Bar.4.29" />qui enim induxit vobis mala, ipse rursum adducet vobis sempiternam iucunditatem cum salute vestra.<verse eID="Bar.4.29" />
+        <verse sID="Bar.4.30" osisID="Bar.4.30" />Animaequior esto, Ierusalem: exhortatur enim te, qui te nominavit.<verse eID="Bar.4.30" />
+        <verse sID="Bar.4.31" osisID="Bar.4.31" />Nocentes peribunt, qui te vexaverunt: et qui gratulati sunt in tua ruina, punientur.<verse eID="Bar.4.31" />
+        <verse sID="Bar.4.32" osisID="Bar.4.32" />Civitates quibus servierunt filii tui, punientur, et quae accepit filios tuos.<verse eID="Bar.4.32" />
+        <verse sID="Bar.4.33" osisID="Bar.4.33" />Sicut enim gavisa est in tua ruina, et laetata est in casu tuo, sic contristabitur in sua desolatione,<verse eID="Bar.4.33" />
+        <verse sID="Bar.4.34" osisID="Bar.4.34" />et amputabitur exsultatio multitudinis eius, et gaudimonium eius erit in luctum.<verse eID="Bar.4.34" />
+        <verse sID="Bar.4.35" osisID="Bar.4.35" />Ignis enim superveniet ei ab Aeterno in longiturnis diebus, et habitabitur a daemoniis in multitudine temporis.<verse eID="Bar.4.35" />
+        <verse sID="Bar.4.36" osisID="Bar.4.36" />Circumspice, Ierusalem, ad orientem, et vide iucunditatem a Deo tibi venientem.<verse eID="Bar.4.36" />
+        <verse sID="Bar.4.37" osisID="Bar.4.37" />Ecce enim veniunt filii tui, quos dimisisti dispersos: veniunt collecti ab oriente usque ad occidentem, in verbo Sancti, gaudentes in honorem Dei.<verse eID="Bar.4.37" />
+      </p>
+      <chapter eID="Bar.4" />
+      <chapter sID="Bar.5" osisID="Bar.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Bar.5.1" osisID="Bar.5.1" />Exue te, Ierusalem, stola luctus et vexationis tuae, et indue te decore, et honore eius, quae a Deo tibi est, sempiternae gloriae.<verse eID="Bar.5.1" />
+        <verse sID="Bar.5.2" osisID="Bar.5.2" />Circumdabit te Deus diploide iustitiae, et imponet mitram capiti honoris aeterni.<verse eID="Bar.5.2" />
+        <verse sID="Bar.5.3" osisID="Bar.5.3" />Deus enim ostendet splendorem suum in te, omni qui sub caelo est.<verse eID="Bar.5.3" />
+        <verse sID="Bar.5.4" osisID="Bar.5.4" />Nominabitur enim tibi nomen tuum a Deo in sempiternum: pax iustitiae, et honor pietatis.<verse eID="Bar.5.4" />
+        <verse sID="Bar.5.5" osisID="Bar.5.5" />Exsurge, Ierusalem, et sta in excelso: et circumspice ad orientem, et vide collectos filios tuos ab oriente sole usque ad occidentem, in verbo Sancti, gaudentes Dei memoria.<verse eID="Bar.5.5" />
+        <verse sID="Bar.5.6" osisID="Bar.5.6" />Exierunt enim abs te pedibus ducti ab inimicis: adducet autem illos Dominus ad te portatos in honore sicut filios regni:<verse eID="Bar.5.6" />
+        <verse sID="Bar.5.7" osisID="Bar.5.7" />constituit enim Deus humiliare omnem montem excelsum et rupes perennes, et convalles replere in aequalitatem terrae, ut ambulet Israël diligenter in honorem Dei.<verse eID="Bar.5.7" />
+        <verse sID="Bar.5.8" osisID="Bar.5.8" />Obumbraverunt autem et silvae, et omne lignum suavitatis Israël ex mandato Dei.<verse eID="Bar.5.8" />
+        <verse sID="Bar.5.9" osisID="Bar.5.9" />Adducet enim Deus Israël cum iucunditate in lumine maiestatis suae, cum misericordia et iustitia quae est ex ipso.<verse eID="Bar.5.9" />
+      </p>
+      <chapter eID="Bar.5" />
+    </div>
+  </osisText>
+</osis>

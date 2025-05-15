@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="zephaniah" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="zephaniah">
+        <title>zephaniah</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">zephaniah</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>zephaniah</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="zephaniah">
+      <title>zephaniah</title>
+      <chapter sID="zephaniah.1" osisID="zephaniah.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="zephaniah.1.1" osisID="zephaniah.1.1" />Verbum Domini quod factum est ad Sofoniam filium Chusi filium Godoliae filii Amariae filii Ezechiae in diebus Iosiae filii Amon regis Iuda<verse eID="zephaniah.1.1" />
+        <verse sID="zephaniah.1.2" osisID="zephaniah.1.2" />congregans congregabo omnia a facie terrae dicit Dominus<verse eID="zephaniah.1.2" />
+        <verse sID="zephaniah.1.3" osisID="zephaniah.1.3" />congregans hominem et pecus congregans volatile caeli et pisces maris et ruinae impiorum erunt et disperdam homines a facie terrae dicit Dominus<verse eID="zephaniah.1.3" />
+        <verse sID="zephaniah.1.4" osisID="zephaniah.1.4" />et extendam manum meam super Iudam et super omnes habitantes Hierusalem et disperdam de loco hoc reliquias Baal et nomina aedituorum cum sacerdotibus<verse eID="zephaniah.1.4" />
+        <verse sID="zephaniah.1.5" osisID="zephaniah.1.5" />et eos qui adorant super tecta militiam caeli et adorant et iurant in Domino et iurant in Melchom<verse eID="zephaniah.1.5" />
+        <verse sID="zephaniah.1.6" osisID="zephaniah.1.6" />et qui avertuntur de post tergum Domini et qui non quaesierunt Dominum nec investigaverunt eum<verse eID="zephaniah.1.6" />
+        <verse sID="zephaniah.1.7" osisID="zephaniah.1.7" />silete a facie Domini Dei quia iuxta est dies Domini quia praeparavit Dominus hostiam sanctificavit vocatos suos<verse eID="zephaniah.1.7" />
+        <verse sID="zephaniah.1.8" osisID="zephaniah.1.8" />et erit in die hostiae Domini visitabo super principes et super filios regis et super omnes qui induti sunt veste peregrina<verse eID="zephaniah.1.8" />
+        <verse sID="zephaniah.1.9" osisID="zephaniah.1.9" />et visitabo omnem qui arroganter ingreditur super limen in die illa qui conplent domum Domini Dei sui iniquitate et dolo<verse eID="zephaniah.1.9" />
+        <verse sID="zephaniah.1.10" osisID="zephaniah.1.10" />et erit in die illa dicit Dominus vox clamoris a porta Piscium et ululatus a secunda et contritio magna a collibus<verse eID="zephaniah.1.10" />
+        <verse sID="zephaniah.1.11" osisID="zephaniah.1.11" />ululate habitatores pilae conticuit omnis populus Chanaan disperierunt omnes involuti argento<verse eID="zephaniah.1.11" />
+        <verse sID="zephaniah.1.12" osisID="zephaniah.1.12" />et erit in tempore illo scrutabor Hierusalem in lucernis et visitabo super viros defixos in fecibus suis qui dicunt in cordibus suis non faciet bene Dominus et non faciet male<verse eID="zephaniah.1.12" />
+        <verse sID="zephaniah.1.13" osisID="zephaniah.1.13" />et erit fortitudo eorum in direptionem et domus eorum in desertum et aedificabunt domos et non habitabunt et plantabunt vineas et non bibent vinum earum<verse eID="zephaniah.1.13" />
+        <verse sID="zephaniah.1.14" osisID="zephaniah.1.14" />iuxta est dies Domini magnus iuxta et velox nimis vox diei Domini amara tribulabitur ibi fortis<verse eID="zephaniah.1.14" />
+        <verse sID="zephaniah.1.15" osisID="zephaniah.1.15" />dies irae dies illa dies tribulationis et angustiae dies calamitatis et miseriae dies tenebrarum et caliginis dies nebulae et turbinis<verse eID="zephaniah.1.15" />
+        <verse sID="zephaniah.1.16" osisID="zephaniah.1.16" />dies tubae et clangoris super civitates munitas et super angulos excelsos<verse eID="zephaniah.1.16" />
+        <verse sID="zephaniah.1.17" osisID="zephaniah.1.17" />et tribulabo homines et ambulabunt ut caeci quia Domino peccaverunt et effundetur sanguis eorum sicut humus et corpus eorum sicut stercora<verse eID="zephaniah.1.17" />
+        <verse sID="zephaniah.1.18" osisID="zephaniah.1.18" />sed et argentum eorum et aurum eorum non poterit liberare eos in die irae Domini in igne zeli eius devorabitur omnis terra quia consummationem cum festinatione faciet cunctis habitantibus terram<verse eID="zephaniah.1.18" />
+      </p>
+      <chapter eID="zephaniah.1" />
+      <chapter sID="zephaniah.2" osisID="zephaniah.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="zephaniah.2.1" osisID="zephaniah.2.1" />convenite congregamini gens non amabilis<verse eID="zephaniah.2.1" />
+        <verse sID="zephaniah.2.2" osisID="zephaniah.2.2" />priusquam pariat iussio quasi pulverem transeuntem diem antequam veniat super vos ira furoris Domini antequam veniat super vos dies furoris Domini<verse eID="zephaniah.2.2" />
+        <verse sID="zephaniah.2.3" osisID="zephaniah.2.3" />quaerite Dominum omnes mansueti terrae qui iudicium eius estis operati quaerite iustum quaerite mansuetum si quo modo abscondamini in die furoris Domini<verse eID="zephaniah.2.3" />
+        <verse sID="zephaniah.2.4" osisID="zephaniah.2.4" />quia Gaza destructa erit et Ascalon in desertum Azotum in meridie eicient et Accaron eradicabitur<verse eID="zephaniah.2.4" />
+        <verse sID="zephaniah.2.5" osisID="zephaniah.2.5" />vae qui habitatis funiculum maris gens perditorum verbum Domini super vos Chanaan terra Philisthinorum et disperdam te ita ut non sit inhabitator<verse eID="zephaniah.2.5" />
+        <verse sID="zephaniah.2.6" osisID="zephaniah.2.6" />et erit funiculus maris requies pastorum et caulae pecorum<verse eID="zephaniah.2.6" />
+        <verse sID="zephaniah.2.7" osisID="zephaniah.2.7" />et erit funiculus eius qui remanserit de domo Iuda ibi pascentur in domibus Ascalonis ad vesperam requiescent quia visitabit eos Dominus Deus eorum et avertet captivitatem eorum<verse eID="zephaniah.2.7" />
+        <verse sID="zephaniah.2.8" osisID="zephaniah.2.8" />audivi obprobrium Moab et blasphemias filiorum Ammon quae exprobraverunt populo meo et magnificati sunt super terminos eorum<verse eID="zephaniah.2.8" />
+        <verse sID="zephaniah.2.9" osisID="zephaniah.2.9" />propterea vivo ego dicit Dominus exercituum Deus Israhel quia Moab ut Sodoma erit et filii Ammon quasi Gomorra siccitas spinarum et acervi salis et desertum usque in aeternum reliquiae populi mei diripient illos residui gentis meae possidebunt eos<verse eID="zephaniah.2.9" />
+        <verse sID="zephaniah.2.10" osisID="zephaniah.2.10" />hoc eis eveniet pro superbia sua quia blasphemaverunt et magnificati sunt super populum Domini exercituum<verse eID="zephaniah.2.10" />
+        <verse sID="zephaniah.2.11" osisID="zephaniah.2.11" />horribilis Dominus super eos et adtenuabit omnes deos terrae et adorabunt eum vir de loco suo omnes insulae gentium<verse eID="zephaniah.2.11" />
+        <verse sID="zephaniah.2.12" osisID="zephaniah.2.12" />sed et vos Aethiopes interfecti gladio meo eritis<verse eID="zephaniah.2.12" />
+        <verse sID="zephaniah.2.13" osisID="zephaniah.2.13" />et extendet manum suam super aquilonem et perdet Assur et ponet speciosam in solitudinem et in invium et quasi desertum<verse eID="zephaniah.2.13" />
+        <verse sID="zephaniah.2.14" osisID="zephaniah.2.14" />et accubabunt in medio eius greges omnes bestiae gentium et onocrotalus et ericius in liminibus eius morabuntur vox cantantis in fenestra corvus in superliminari quoniam adtenuabo robur eius<verse eID="zephaniah.2.14" />
+        <verse sID="zephaniah.2.15" osisID="zephaniah.2.15" />haec est civitas gloriosa habitans in confidentia quae dicebat in corde suo ego sum et extra me non est alia amplius quomodo facta est in desertum cubile bestiae omnis qui transit per eam sibilabit et movebit manum suam<verse eID="zephaniah.2.15" />
+      </p>
+      <chapter eID="zephaniah.2" />
+      <chapter sID="zephaniah.3" osisID="zephaniah.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="zephaniah.3.1" osisID="zephaniah.3.1" />vae provocatrix et redempta civitas columba<verse eID="zephaniah.3.1" />
+        <verse sID="zephaniah.3.2" osisID="zephaniah.3.2" />non audivit vocem et non suscepit disciplinam in Domino non est confisa ad Deum suum non adpropiavit<verse eID="zephaniah.3.2" />
+        <verse sID="zephaniah.3.3" osisID="zephaniah.3.3" />principes eius in medio eius quasi leones rugientes iudices eius lupi vespere non relinquebant in mane<verse eID="zephaniah.3.3" />
+        <verse sID="zephaniah.3.4" osisID="zephaniah.3.4" />prophetae eius vesani viri infideles sacerdotes eius polluerunt sanctum iniuste egerunt contra legem<verse eID="zephaniah.3.4" />
+        <verse sID="zephaniah.3.5" osisID="zephaniah.3.5" />Dominus iustus in medio eius non faciet iniquitatem mane mane iudicium suum dabit in luce et non abscondetur nescivit autem iniquus confusionem<verse eID="zephaniah.3.5" />
+        <verse sID="zephaniah.3.6" osisID="zephaniah.3.6" />disperdi gentes et dissipati sunt anguli earum desertas feci vias eorum dum non est qui transeat desolatae sunt civitates eorum non remanente viro nec ullo habitatore<verse eID="zephaniah.3.6" />
+        <verse sID="zephaniah.3.7" osisID="zephaniah.3.7" />dixi attamen timebis me suscipies disciplinam et non peribit habitaculum eius propter omnia in quibus visitavi eam verumtamen diluculo surgentes corruperunt omnes cogitationes suas<verse eID="zephaniah.3.7" />
+        <verse sID="zephaniah.3.8" osisID="zephaniah.3.8" />quapropter expecta me dicit Dominus in die resurrectionis meae in futurum quia iudicium meum ut congregem gentes et colligam regna ut effundam super eas indignationem meam omnem iram furoris mei in igne enim zeli mei devorabitur omnis terra<verse eID="zephaniah.3.8" />
+        <verse sID="zephaniah.3.9" osisID="zephaniah.3.9" />quia tunc reddam populis labium electum ut vocent omnes in nomine Domini et serviant ei umero uno<verse eID="zephaniah.3.9" />
+        <verse sID="zephaniah.3.10" osisID="zephaniah.3.10" />ultra flumina Aethiopiae inde supplices mei filii dispersorum meorum deferent munus mihi<verse eID="zephaniah.3.10" />
+        <verse sID="zephaniah.3.11" osisID="zephaniah.3.11" />in die illa non confunderis super cunctis adinventionibus tuis quibus praevaricata es in me quia tunc auferam de medio tui magniloquos superbiae tuae et non adicies exaltari amplius in monte sancto meo<verse eID="zephaniah.3.11" />
+        <verse sID="zephaniah.3.12" osisID="zephaniah.3.12" />et derelinquam in medio tui populum pauperem et egenum et sperabunt in nomine Domini<verse eID="zephaniah.3.12" />
+        <verse sID="zephaniah.3.13" osisID="zephaniah.3.13" />reliquiae Israhel non facient iniquitatem nec loquentur mendacium et non invenietur in ore eorum lingua dolosa quoniam ipsi pascentur et accubabunt et non erit qui exterreat<verse eID="zephaniah.3.13" />
+        <verse sID="zephaniah.3.14" osisID="zephaniah.3.14" />lauda filia Sion iubilate Israhel laetare et exulta in omni corde filia Hierusalem<verse eID="zephaniah.3.14" />
+        <verse sID="zephaniah.3.15" osisID="zephaniah.3.15" />abstulit Dominus iudicium tuum avertit inimicos tuos rex Israhel Dominus in medio tui non timebis malum ultra<verse eID="zephaniah.3.15" />
+        <verse sID="zephaniah.3.16" osisID="zephaniah.3.16" />in die illa dicetur Hierusalem noli timere Sion non dissolvantur manus tuae<verse eID="zephaniah.3.16" />
+        <verse sID="zephaniah.3.17" osisID="zephaniah.3.17" />Dominus Deus tuus in medio tui Fortis ipse salvabit gaudebit super te in laetitia silebit in dilectione tua exultabit super te in laude<verse eID="zephaniah.3.17" />
+        <verse sID="zephaniah.3.18" osisID="zephaniah.3.18" />nugas qui a lege recesserant congregabo quia ex te erant ut non ultra habeas super eis obprobrium<verse eID="zephaniah.3.18" />
+        <verse sID="zephaniah.3.19" osisID="zephaniah.3.19" />ecce ego interficiam omnes qui adflixerunt te in tempore illo et salvabo claudicantem et eam quae eiecta fuerat congregabo et ponam eos in laudem et in nomen in omni terra confusionis eorum<verse eID="zephaniah.3.19" />
+        <verse sID="zephaniah.3.20" osisID="zephaniah.3.20" />in tempore illo quo adducam vos et in tempore quo congregabo vos dabo enim vos in nomen et in laudem omnibus populis terrae cum convertero captivitatem vestram coram oculis vestris dicit Dominus<verse eID="zephaniah.3.20" />
+      </p>
+      <chapter eID="zephaniah.3" />
+    </div>
+  </osisText>
+</osis>

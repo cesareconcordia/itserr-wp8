@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="titus" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="titus">
+        <title>Titus</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">titus</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Titus</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="titus">
+      <title>Titus</title>
+      <chapter sID="titus.1" osisID="titus.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="titus.1.1" osisID="titus.1.1" />PAULUS servus Dei, Apostolus autem Iesu Christi secundum fidem electorum Dei, et cognitionem veritatis, quae secundum pietatem est<verse eID="titus.1.1" />
+        <verse sID="titus.1.2" osisID="titus.1.2" />in spem vitae aeternae quam promisit non mendax Deus ante tempora aeterna:<verse eID="titus.1.2" />
+        <verse sID="titus.1.3" osisID="titus.1.3" />manifestavit* enim temporibus suis verbum suum* in praedicatione, quod creditum est mihi secundum imperium Salvatoris nostri Dei:<verse eID="titus.1.3" />
+        <verse sID="titus.1.4" osisID="titus.1.4" />Tito carissimo filio secundum communem fidem, gratia et pax a Deo Patre, et * Christo Iesu Salutari nostro.<verse eID="titus.1.4" />
+        <verse sID="titus.1.5" osisID="titus.1.5" />Huius rei gratia reliqui te* Cretae, ut ea, quae deerant corrigas, et constituas per civitate: presbyterium, sicut* ego tibi disposui.<verse eID="titus.1.5" />
+        <verse sID="titus.1.6" osisID="titus.1.6" />Si quis est sine crimine, unius uxoris vir filios habens fideles, non in accusationem luxuriae, aut non subiectos.<verse eID="titus.1.6" />
+        <verse sID="titus.1.7" osisID="titus.1.7" />Oportet enim episcopum sine crimine esse sicut Dei dispensatorem: non protervum, non iracundum, non vinolentum, non percussorem, non turpilucrum:<verse eID="titus.1.7" />
+        <verse sID="titus.1.8" osisID="titus.1.8" />sed hospitalem, benignum, sobrium,* iustum, sanctum, continentem.<verse eID="titus.1.8" />
+        <verse sID="titus.1.9" osisID="titus.1.9" />*adplectentem id, quod secundum doctrinam est fidelis verbi: ut potens sit et exhortari in doctrinam sanam, et contradicentes revincere.<verse eID="titus.1.9" />
+        <verse sID="titus.1.10" osisID="titus.1.10" />Sunt enim multi* ei non subditi, vaniloqui, et seductores; maxime qui * ex circumcisione sunt:<verse eID="titus.1.10" />
+        <verse sID="titus.1.11" osisID="titus.1.11" />quos oportet redargui: qui universas domos *evertunt, docentes quae non oportet, turpis lucri gratiâ.<verse eID="titus.1.11" />
+        <verse sID="titus.1.12" osisID="titus.1.12" />Dixit quidam ex illis, proprius eorum propheta : Cretenses semper mendaces, malae bestiae, ventres pigri.<verse eID="titus.1.12" />
+        <verse sID="titus.1.13" osisID="titus.1.13" />Testimonium hoc verum est. Propter? quam causam increpa illos acriter, ut sani sint in fide<verse eID="titus.1.13" />
+        <verse sID="titus.1.14" osisID="titus.1.14" />non intendentes Iudaicis fabulis, et mandatis hominum, avertentium se a veritate.<verse eID="titus.1.14" />
+        <verse sID="titus.1.15" osisID="titus.1.15" />Omnia munda mundis: inquinatis autem, et infidelibus nihil mundum, sed inquinata sunt eorum * et mens, et conscientia.<verse eID="titus.1.15" />
+        <verse sID="titus.1.16" osisID="titus.1.16" />Deum confitentur se nosse, factis autem negant: cum sint exsecrabiles, et incredibiles, et ad omne opus bonum reprobi.<verse eID="titus.1.16" />
+      </p>
+      <chapter eID="titus.1" />
+      <chapter sID="titus.2" osisID="titus.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="titus.2.1" osisID="titus.2.1" />Tu autem loquere quae decet sanam doctrinam:<verse eID="titus.2.1" />
+        <verse sID="titus.2.2" osisID="titus.2.2" />Senes sobrios esse, pudicos, prudentes, sanos in fide, caritate, patientia:<verse eID="titus.2.2" />
+        <verse sID="titus.2.3" osisID="titus.2.3" />Anus similiter in habitu sancto, non detrahentes, non vino multo servientes, bene docentes:<verse eID="titus.2.3" />
+        <verse sID="titus.2.4" osisID="titus.2.4" />ut prudentiam doceant adulescentulas, ut ament viros suos, filios diligant,<verse eID="titus.2.4" />
+        <verse sID="titus.2.5" osisID="titus.2.5" />prudentes, castae, domum custodientes, benignae sint, et subditae viris suis, ut verbum Dei non blasphemetur.<verse eID="titus.2.5" />
+        <verse sID="titus.2.6" osisID="titus.2.6" />Iuvenes similiter hortare ut sobrii sint,<verse eID="titus.2.6" />
+        <verse sID="titus.2.7" osisID="titus.2.7" />in omnibus teipsum praebens formam bonorum operum, in doctrinam, in integritatem, gravitatem,<verse eID="titus.2.7" />
+        <verse sID="titus.2.8" osisID="titus.2.8" />sermonem sanum, inreprehensibilem: ut adversarius revereatur, nihil habens quod dicere de nobis malum.<verse eID="titus.2.8" />
+        <verse sID="titus.2.9" osisID="titus.2.9" />Servi dominis suis subditi sint, in omnibus placentes, non contradicentes,<verse eID="titus.2.9" />
+        <verse sID="titus.2.10" osisID="titus.2.10" />non * fraudantes, sed omnem fidem ostendentes bonam: ut doctrinam Salvatoris nostri Dei ornent in omnibus.<verse eID="titus.2.10" />
+        <verse sID="titus.2.11" osisID="titus.2.11" />Inluxit enim gratia Dei salutaris omnibus hominibus,<verse eID="titus.2.11" />
+        <verse sID="titus.2.12" osisID="titus.2.12" />corripiens nos, ut abnegantes impietatem, et saecularia desideria, sobrie , et iuste , et pie vivamus in hoc saeculo.<verse eID="titus.2.12" />
+        <verse sID="titus.2.13" osisID="titus.2.13" />exspectantes beatam spem, et adventum gloriae magni Dei, et Salvatoris nostri Iesu Chriti:<verse eID="titus.2.13" />
+        <verse sID="titus.2.14" osisID="titus.2.14" />qui dedit pro nobis seipsum, ut liberaret nos ab omni iniquitate, et mundet sibi populum abundantem, aemulatorem bonorum operum.<verse eID="titus.2.14" />
+        <verse sID="titus.2.15" osisID="titus.2.15" />Haec loquere, et hortare, et argue cum omni imperio. Nemo te contemnat.<verse eID="titus.2.15" />
+      </p>
+      <chapter eID="titus.2" />
+      <chapter sID="titus.3" osisID="titus.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="titus.3.1" osisID="titus.3.1" />Admone illos principibus, et potestatibus subditos esse, obaudientes, ad omne opus bonum paratos esse:<verse eID="titus.3.1" />
+        <verse sID="titus.3.2" osisID="titus.3.2" />neminem blasphemare, non litigeos esse; modestos, omnem ostendentes mansuetudinem ad omnes homines.<verse eID="titus.3.2" />
+        <verse sID="titus.3.3" osisID="titus.3.3" />Fuimus enim aliquando et nos stulti,* et incredibiles, errantes, servientes desideriis, et voluptatibus variis, in malitia et invidia agentes, odibiles, odientes invicem.<verse eID="titus.3.3" />
+        <verse sID="titus.3.4" osisID="titus.3.4" />Sed cum benignitas, et humanitas illuxit Salvatoris nostri Dei;<verse eID="titus.3.4" />
+        <verse sID="titus.3.5" osisID="titus.3.5" />non ex operibus iustitiae, quae* fecimus nos, sed secundum suam misericordiam salvos nos fecit per lavacrum regenerationis, et renovationis per Spiritum sanctum<verse eID="titus.3.5" />
+        <verse sID="titus.3.6" osisID="titus.3.6" />quem effudit in nos honeste per Iesum Christum Salvatorem nostrum:<verse eID="titus.3.6" />
+        <verse sID="titus.3.7" osisID="titus.3.7" />ut* iustificaturi ipsius gratia, haeredes efficiamur secundum spem vitae aeternae.<verse eID="titus.3.7" />
+        <verse sID="titus.3.8" osisID="titus.3.8" />Fidelis sermo : et de his volo te affirmare : ut curam habeant bonis operibus praeesse qui crediderunt Deo. Haec sunt bona, et utilia hominibus.<verse eID="titus.3.8" />
+        <verse sID="titus.3.9" osisID="titus.3.9" />Stultas autem quaestiones, et genealogias, et contentiones, et lites legis devita: sunt enim inutiles, et vanae.<verse eID="titus.3.9" />
+        <verse sID="titus.3.10" osisID="titus.3.10" />Haereticum hominem post unam correptionem, et duo, devita:<verse eID="titus.3.10" />
+        <verse sID="titus.3.11" osisID="titus.3.11" />sciens quoniam perversus est huiusmodi, et peccat, cum sit a semetipso damnatus.<verse eID="titus.3.11" />
+        <verse sID="titus.3.12" osisID="titus.3.12" />Cum misero Arteman ad te, vel Tychicum, festina venire ad me * Nicopolim : ibi enim statui hiemare.<verse eID="titus.3.12" />
+        <verse sID="titus.3.13" osisID="titus.3.13" />Zenan legisperitum, et Apollo sollicite praemitte, ut nihil illis desit.<verse eID="titus.3.13" />
+        <verse sID="titus.3.14" osisID="titus.3.14" />Discant autem et nostri bonis operibus praeesse ad necessarias causas, ut non sint infructuosi.<verse eID="titus.3.14" />
+        <verse sID="titus.3.15" osisID="titus.3.15" />Salutant te qui mecum sunt omnes: saluta eos, qui amant nos in fide. Gratia Domini cum omnibus vobis. Amen.<verse eID="titus.3.15" />
+      </p>
+    </div>
+  </osisText>
+</osis>

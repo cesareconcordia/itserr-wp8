@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="2Sam" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="2Sam">
+        <title>samuel-2</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">2Sam</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>samuel-2</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="2Sam">
+      <title>samuel-2</title>
+      <chapter sID="2Sam.1" osisID="2Sam.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="2Sam.1.18" osisID="2Sam.1.18" />... Et ait, Considera Israel pro his, qui mortui sunt super excelsa tua vulnerati.<verse eID="2Sam.1.18" />
+        <verse sID="2Sam.1.21" osisID="2Sam.1.21" />Montes qui estis in Gelbeal, neque ros, neque pluvia cadat super vos, montes mortis, quoniam ibi sublata est protectio potentium, protectio Saul, non est unctus in oleo,<verse eID="2Sam.1.21" />
+        <verse sID="2Sam.1.22" osisID="2Sam.1.22" />et sanguine vulneratorum, et ex adipe belligerantium, sagitta Ionathae non est reversa retro, et gladius Saul non est reversus vacuus.<verse eID="2Sam.1.22" />
+        <verse sID="2Sam.1.23" osisID="2Sam.1.23" />Saul et Ionathas speciosi, et carissimi inseparabiles in vita sua, et in morte non sunt separati, super aquilas leviores, super leones potentiores.<verse eID="2Sam.1.23" />
+        <verse sID="2Sam.1.24" osisID="2Sam.1.24" />Filiae Israel plorate super Saul, qui vestiebat vos vestimenta coccinea cum ornamento vestro, qui imponebat aurum super vestimenta vestra.<verse eID="2Sam.1.24" />
+        <verse sID="2Sam.1.25" osisID="2Sam.1.25" />Quomodo ceciderunt potentes in media pugna? Ionathas in morte vulneratus est?<verse eID="2Sam.1.25" />
+        <verse sID="2Sam.1.26" osisID="2Sam.1.26" />Doleo in te frater meus Ionatha, speciosus mihi valde. Ceciderat amor tuus in me, sicut amor mulierum.<verse eID="2Sam.1.26" />
+        <verse sID="2Sam.1.27" osisID="2Sam.1.27" />Quomodo ceciderunt potentes, et perierunt arma concupiscenda?<verse eID="2Sam.1.27" />
+      </p>
+      <chapter eID="2Sam.1" />
+      <chapter sID="2Sam.3" osisID="2Sam.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="2Sam.3.28" osisID="2Sam.3.28" />... Innocens sum ego, et regnum meum, amodo et usque in aeternum, a sanguine Abner filii Ner.<verse eID="2Sam.3.28" />
+      </p>
+      <chapter eID="2Sam.3" />
+      <chapter sID="2Sam.4" osisID="2Sam.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="2Sam.4.5" osisID="2Sam.4.5" />... Et ostiaria domus purgans triticum, obdormivit.<verse eID="2Sam.4.5" />
+      </p>
+      <chapter eID="2Sam.4" />
+      <chapter sID="2Sam.5" osisID="2Sam.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="2Sam.5.1" osisID="2Sam.5.1" />... Ecce nos, ossa tua, et caro tua sumus.<verse eID="2Sam.5.1" />
+        <verse sID="2Sam.5.2" osisID="2Sam.5.2" />Heri et nudiustertius, cum esset Saul et regnaret super nos, tu eras qui producebas et inducebas Israel, et dixit tibi Dominus, Tu pasces populum meum ...<verse eID="2Sam.5.2" />
+        <verse sID="2Sam.5.6" osisID="2Sam.5.6" />... Tanta est, inquiunt, civitas, ut a debilibus arcearis, ad quos David respondit, Facite, inquiens, et ego iubeam ut parva sublimia tangant, et exeat inde proverbium ...<verse eID="2Sam.5.6" />
+        <verse sID="2Sam.5.20" osisID="2Sam.5.20" />... et percussit eos ibi.<verse eID="2Sam.5.20" />
+        <verse sID="2Sam.5.23" osisID="2Sam.5.23" />... Si ascendam contra Philistaeos, et si tradas eos in manus meas?<verse eID="2Sam.5.23" />
+        <verse sID="2Sam.5.24" osisID="2Sam.5.24" />... locum planctus illorum, sublatum de silvis ululatum ...<verse eID="2Sam.5.24" />
+      </p>
+      <chapter eID="2Sam.5" />
+      <chapter sID="2Sam.6" osisID="2Sam.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="2Sam.6.6" osisID="2Sam.6.6" />...et declinaverunt eam.<verse eID="2Sam.6.6" />
+        <verse sID="2Sam.6.7" osisID="2Sam.6.7" />... Iratus est furor Domini in Ozam, et percussit eum Deus ibi pro ignorantia, et mortuus est iuxta arcam Dei.<verse eID="2Sam.6.7" />
+        <verse sID="2Sam.6.8" osisID="2Sam.6.8" />Contristatus David, quod percusserat Dominus Ozam ...<verse eID="2Sam.6.8" />
+        <verse sID="2Sam.6.9" osisID="2Sam.6.9" />... timuit Dominum in illa die, et ait, Quomodo ingredietur ad me arca Domini?<verse eID="2Sam.6.9" />
+        <verse sID="2Sam.6.12" osisID="2Sam.6.12" />... Dixitque David, Ibo, et reducam arcam cum benedictione in domum meam ... et erant cum David septem chori, et victima vituli.<verse eID="2Sam.6.12" />
+        <verse sID="2Sam.6.14" osisID="2Sam.6.14" />... percutiebat in organis et armigatis.<verse eID="2Sam.6.14" />
+        <verse sID="2Sam.6.20" osisID="2Sam.6.20" />... Quid utique honorificatus est rex Israel, quia denudatus est hodie in oculis puellarum suarum ancillarum, sicut unus ex saltatoribus?<verse eID="2Sam.6.20" />
+        <verse sID="2Sam.6.21" osisID="2Sam.6.21" />Et dixit David ad Michol, In conspectu Domini, benedictus Dominus, qui elegit me super patrem tuum, et super omnem domum illius, constituere in principem super plebem suam Israel,<verse eID="2Sam.6.21" />
+        <verse sID="2Sam.6.22" osisID="2Sam.6.22" />et ludam, saltabo in conspectu Domini, et denudabor adhuc sic, et ero nugax in conspectu tuo, et cum puellis, cum quibus dixisti me nudatum, glorificabor.<verse eID="2Sam.6.22" />
+        <verse sID="2Sam.6.23" osisID="2Sam.6.23" />Et Michol filiae Saul non erat filius usque in diem mortis eius.<verse eID="2Sam.6.23" />
+      </p>
+      <chapter eID="2Sam.6" />
+      <chapter sID="2Sam.7" osisID="2Sam.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="2Sam.7.4" osisID="2Sam.7.4" />... et fuit verbum Domini ad Nathan, dicens,<verse eID="2Sam.7.4" />
+        <verse sID="2Sam.7.5" osisID="2Sam.7.5" />Vade, et dic servo meo David, Haec dicit Dominus, Non tu aedificabis mihi domum ad inhabitandum.<verse eID="2Sam.7.5" />
+        <verse sID="2Sam.7.8" osisID="2Sam.7.8" />Et nunc haec dices servo meo David, Haec dicit Dominus omnipotens, Accepi te de ovili ovium, ut esses in ducem super populum meum in Israel,<verse eID="2Sam.7.8" />
+        <verse sID="2Sam.7.9" osisID="2Sam.7.9" />et eram tecum in omnibus quibus ingrediebaris, et exterminavi omnes inimicos tuos a facie tua, et feci te nominatum, secundum nomen magnorum qui sunt super terram.<verse eID="2Sam.7.9" />
+        <verse sID="2Sam.7.10" osisID="2Sam.7.10" />Et ponam locum populo meo Israel, et plantabo illum, et inhabitabit seorsum, et non follicitus erit ultra, et non apponet filius iniquitatis humiliare eum sicut ab initio,<verse eID="2Sam.7.10" />
+        <verse sID="2Sam.7.11" osisID="2Sam.7.11" />a diebus quibus constitui iudices super populum meum Israel, et requiem tibi dabo ab omnibus inimicis tuis, et nunciabit tibi Dominus, quoniam domum aedificabis ipsi.<verse eID="2Sam.7.11" />
+        <verse sID="2Sam.7.12" osisID="2Sam.7.12" />Et erit, cum repleti fuerint dies tui, et dormies cum patribus tuis, et suscitabo semen tuum post te, qui erit de ventre tuo, et praeparabo regnum eius,<verse eID="2Sam.7.12" />
+        <verse sID="2Sam.7.13" osisID="2Sam.7.13" />hic aedificabit mihi domum nomini meo, et dirigam thronum illius usque in aeternum.<verse eID="2Sam.7.13" />
+        <verse sID="2Sam.7.14" osisID="2Sam.7.14" />Ego ero illi in patrem, et ille erit mihi in filium, et si venerit iniquitas eius, redarguam illum in virga virorum, et in tactibus filiorum hominum.<verse eID="2Sam.7.14" />
+        <verse sID="2Sam.7.15" osisID="2Sam.7.15" />Misericordiam autem meam non amoveam ab eo, sicut amovi a quibus amovi a facie mea.<verse eID="2Sam.7.15" />
+        <verse sID="2Sam.7.16" osisID="2Sam.7.16" />Et fidelis erit domus eius, et regnum eius usque in aeternum coram me, et thronus eius erit erectus usque in aeternum.<verse eID="2Sam.7.16" />
+        <verse sID="2Sam.7.18" osisID="2Sam.7.18" />... intravit rex David, et sedit ante Dominum ... Quid sum ego Domine Deus meus, et quae domus mea, quoniam dilexisti me in his?<verse eID="2Sam.7.18" />
+        <verse sID="2Sam.7.19" osisID="2Sam.7.19" />Et memorata sunt minima in conspectu tuo Domine, et locutus es pro domo servi tui in longinquo, et haec est lex hominis, Domine Deus.<verse eID="2Sam.7.19" />
+        <verse sID="2Sam.7.27" osisID="2Sam.7.27" />quoniam tu Dominus omnipotens, Deus Israel revelasti aurem servi tui, dicens, Domum aedificabo tibi ...<verse eID="2Sam.7.27" />
+        <verse sID="2Sam.7.28" osisID="2Sam.7.28" />Et nunc Domine meus Domine, tu es Deus, et verba tua sunt vera, et locutus es pro servo tuo bona haec.<verse eID="2Sam.7.28" />
+        <verse sID="2Sam.7.29" osisID="2Sam.7.29" />Et nunc incipe benedicere domum servi tui, ut sim in aeternum in conspectu tuo, quoniam tu Domine meus Domine locutus es, a benedictione tua benedicetur domus servi tui in aeternum.<verse eID="2Sam.7.29" />
+      </p>
+      <chapter eID="2Sam.7" />
+      <chapter sID="2Sam.8" osisID="2Sam.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="2Sam.8.7" osisID="2Sam.8.7" />... Et haec accepit postea Susac rex Aegypti in diebus Roboam filii Salomonis, cum ascendisset in Ierusalem de terra machinas ex electis civitatibus Adadezer regis.<verse eID="2Sam.8.7" />
+        <verse sID="2Sam.8.8" osisID="2Sam.8.8" />... de quo fecit Salomon omnia vasa aerea in templo, et mare aeneum, et columnas, et altare.<verse eID="2Sam.8.8" />
+        <verse sID="2Sam.8.13" osisID="2Sam.8.13" />... et in Gebelem ad viginti tria millia.<verse eID="2Sam.8.13" />
+        <verse sID="2Sam.8.15" osisID="2Sam.8.15" />Et David regnavit in Israel, et erat faciens iudicium et iustitiam in toto populo suo.<verse eID="2Sam.8.15" />
+      </p>
+      <chapter eID="2Sam.8" />
+      <chapter sID="2Sam.10" osisID="2Sam.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="2Sam.10.15" osisID="2Sam.10.15" />... filii Amon quia Syrus expavit, et ...<verse eID="2Sam.10.15" />
+        <verse sID="2Sam.10.19" osisID="2Sam.10.19" />... expaverunt et fugerunt quinquaginta et octo millia coram Israel ...<verse eID="2Sam.10.19" />
+      </p>
+      <chapter eID="2Sam.10" />
+      <chapter sID="2Sam.11" osisID="2Sam.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="2Sam.11.27" osisID="2Sam.11.27" />... nequam autem visus est sermo, quem fecit David, in oculis Domini.<verse eID="2Sam.11.27" />
+      </p>
+      <chapter eID="2Sam.11" />
+      <chapter sID="2Sam.12" osisID="2Sam.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="2Sam.12.1" osisID="2Sam.12.1" />... et dixit ei, Duo viri fuerunt in civitate una, unus dives, et unus pauper.<verse eID="2Sam.12.1" />
+        <verse sID="2Sam.12.2" osisID="2Sam.12.2" />Diviti erant greges ovium, et boum multi valde.<verse eID="2Sam.12.2" />
+        <verse sID="2Sam.12.3" osisID="2Sam.12.3" />Et pauperi nihil aliud nisi, ovicula una, quam habebat et nutriebat, et fuerat cum eo et cum filiis eius pariter, de pane suo manducabat, et de calice bibebat, et erat ei quasi filia.<verse eID="2Sam.12.3" />
+        <verse sID="2Sam.12.4" osisID="2Sam.12.4" />Et venit hospes homini diviti, et pepercit accipere de grege ovicularum suarum, et de gregibus boum suorum, et facere hospiti, et accepit oviculam viri pauperis, et apposuit viro qui venerat ad eum.<verse eID="2Sam.12.4" />
+        <verse sID="2Sam.12.5" osisID="2Sam.12.5" />Iratus est David super hominem illum valde, et dixit ad Nathan, Vivit Dominus, quoniam filius mortis est homo ille qui fecit hoc.<verse eID="2Sam.12.5" />
+        <verse sID="2Sam.12.6" osisID="2Sam.12.6" />Et oviculam reddet quadruplum, pro eo quod fecit factum hoc, et pro eo quod non pepercit pauperi.<verse eID="2Sam.12.6" />
+        <verse sID="2Sam.12.7" osisID="2Sam.12.7" />Et ait ad eum Nathan, Tu es vir qui fecisti hoc. Haec dicit Dominus Deus Israel, Ego unxi te in regem super Israel, et ego liberavi te de manu Saul,<verse eID="2Sam.12.7" />
+        <verse sID="2Sam.12.8" osisID="2Sam.12.8" />et dedi tibi omnia quae erant domini tui, et uxores illius in sinum tuum dedi, et dedi tibi dominum ipsius Israel, et si pauca sunt, adiiciam tibi.<verse eID="2Sam.12.8" />
+        <verse sID="2Sam.12.9" osisID="2Sam.12.9" />Et quare pro nihilo duxisti Dominum, ut faceres nequiter in conspectu eius? ...<verse eID="2Sam.12.9" />
+        <verse sID="2Sam.12.12" osisID="2Sam.12.12" />Quoniam tu hoc fecisti in occulto, et ego faciam hoc verbum coram omni Israel, et in conspectu solis huius.<verse eID="2Sam.12.12" />
+        <verse sID="2Sam.12.13" osisID="2Sam.12.13" />... Peccavi Domino ... Quoniam poenituit te, abstulit Dominus peccatum tuum. Non morte morieris.<verse eID="2Sam.12.13" />
+        <verse sID="2Sam.12.14" osisID="2Sam.12.14" />... sed filius tuus, qui natus est ... morietur.<verse eID="2Sam.12.14" />
+        <verse sID="2Sam.12.23" osisID="2Sam.12.23" />... ego ibo ad eum, ipse autem non revertetur ad me.<verse eID="2Sam.12.23" />
+      </p>
+      <chapter eID="2Sam.12" />
+      <chapter sID="2Sam.13" osisID="2Sam.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="2Sam.13.21" osisID="2Sam.13.21" />... et noluit contristare spiritum Amnon filii sui, quoniam diligebat eum, quia primogenitus erat ei.<verse eID="2Sam.13.21" />
+        <verse sID="2Sam.13.27" osisID="2Sam.13.27" />... Feceratque Absalom convivium quasi convivium regis.<verse eID="2Sam.13.27" />
+      </p>
+      <chapter eID="2Sam.13" />
+      <chapter sID="2Sam.14" osisID="2Sam.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="2Sam.14.26" osisID="2Sam.14.26" />... tondebat caput suum, quia gravaretur, cum autem detonsus esset, ponderabat capillos capitis sui, et erant centum siclorum, pondere regali.<verse eID="2Sam.14.26" />
+        <verse sID="2Sam.14.27" osisID="2Sam.14.27" />... Haec fuit in matrimonio Roboam filii Salomonis, et peperit ei Abiam.<verse eID="2Sam.14.27" />
+        <verse sID="2Sam.14.30" osisID="2Sam.14.30" />... Et venientes servi Ioab, scissis vestimentis suis, dixerunt, Succenderunt servi Absalom partem agri igni.<verse eID="2Sam.14.30" />
+      </p>
+      <chapter eID="2Sam.14" />
+      <chapter sID="2Sam.15" osisID="2Sam.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="2Sam.15.1" osisID="2Sam.15.1" />... Abessalon fecit sibi currus, et equos, et viros quinquaginta, qui praecurrerent ante eum.<verse eID="2Sam.15.1" />
+        <verse sID="2Sam.15.2" osisID="2Sam.15.2" />... Surgebat diluculo, et stabat ante portam in via, (et si quem advertisset regis iudicia quaerentem, accedebat ad eum, dicens,) Ex qua civitate es tu? Respondebat ille, Ex una tribu sum de tribubus Israel servus tuus.<verse eID="2Sam.15.2" />
+        <verse sID="2Sam.15.3" osisID="2Sam.15.3" />(Referebat) Abessalon, Verba tua bona sunt et directa. Et qui te audiat, non est tibi datus a rege ...<verse eID="2Sam.15.3" />
+        <verse sID="2Sam.15.4" osisID="2Sam.15.4" />... Quis constituet me iudicem, et quisquis ad me veniet, cuicunque fuerit iudicium (necessarium,) iustificabo illum?<verse eID="2Sam.15.4" />
+        <verse sID="2Sam.15.5" osisID="2Sam.15.5" />Et cum accederent adorare eum, extendens manus suas, apprehendebat, atque osculabatur eos.<verse eID="2Sam.15.5" />
+        <verse sID="2Sam.15.20" osisID="2Sam.15.20" />... et Dominus faciat tecum misericordiam et veritatem.<verse eID="2Sam.15.20" />
+        <verse sID="2Sam.15.21" osisID="2Sam.15.21" />... et vivit anima tua, domine mi rex ...<verse eID="2Sam.15.21" />
+        <verse sID="2Sam.15.25" osisID="2Sam.15.25" />Et dixit rex David ad Sadoc sacerdotem, Circumage arcam Domini in civitatem, si inveni gratiam ante Dominum, reducet me, et videbo eam, et decorem eius.<verse eID="2Sam.15.25" />
+      </p>
+      <chapter eID="2Sam.15" />
+      <chapter sID="2Sam.16" osisID="2Sam.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="2Sam.16.7" osisID="2Sam.16.7" />... Exi vir sanguinum ...<verse eID="2Sam.16.7" />
+        <verse sID="2Sam.16.10" osisID="2Sam.16.10" />... Quid mihi et vobis filii Sarviae? Dimittite eum, et maledicat, quia Dominus dixit illi maledicere David, et quis dicet ei, Quare fecisti sic?<verse eID="2Sam.16.10" />
+        <verse sID="2Sam.16.11" osisID="2Sam.16.11" />Et dixit David ad Abessa, et ad omnes pueros eius, Ecce filius meus, qui exiit de utero meo, quaerit animam meam, et adhuc modo filius Iemini, sinite illum, maledicat, quoniam dixit illi Dominus,<verse eID="2Sam.16.11" />
+        <verse sID="2Sam.16.12" osisID="2Sam.16.12" />ut videat Dominus humilitatem meam. Et retribuat mihi bona pro maledicto eius in die isto.<verse eID="2Sam.16.12" />
+      </p>
+      <chapter eID="2Sam.16" />
+      <chapter sID="2Sam.17" osisID="2Sam.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="2Sam.17.6" osisID="2Sam.17.6" />... tu quid dicis?<verse eID="2Sam.17.6" />
+        <verse sID="2Sam.17.14" osisID="2Sam.17.14" />... et Dominus mandavit dissipare consilium Architophel bonum, ut inducat Dominus super Abessalon omnia mala.<verse eID="2Sam.17.14" />
+        <verse sID="2Sam.17.22" osisID="2Sam.17.22" />... et antequam denudaretur verbum ...<verse eID="2Sam.17.22" />
+      </p>
+      <chapter eID="2Sam.17" />
+      <chapter sID="2Sam.18" osisID="2Sam.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="2Sam.18.5" osisID="2Sam.18.5" />... Parcite puero Abessalon ...<verse eID="2Sam.18.5" />
+        <verse sID="2Sam.18.29" osisID="2Sam.18.29" />... Puerne vivit? ...<verse eID="2Sam.18.29" />
+        <verse sID="2Sam.18.33" osisID="2Sam.18.33" />... Filius meus Abessalon, filius meus Abessalon, quis dabit mihi mortem pro te ...<verse eID="2Sam.18.33" />
+      </p>
+      <chapter eID="2Sam.18" />
+      <chapter sID="2Sam.19" osisID="2Sam.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="2Sam.19.10" osisID="2Sam.19.10" />... Et consilium totius Israel venit ad regem.<verse eID="2Sam.19.10" />
+        <verse sID="2Sam.19.11" osisID="2Sam.19.11" />... pervenerat ad regem, ut reducerent eum in domum suam, quia dixerat rex, Haec diceris ad populum,<verse eID="2Sam.19.11" />
+        <verse sID="2Sam.19.43" osisID="2Sam.19.43" />... et primogenitus ego sum ...<verse eID="2Sam.19.43" />
+      </p>
+      <chapter eID="2Sam.19" />
+      <chapter sID="2Sam.20" osisID="2Sam.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="2Sam.20.1" osisID="2Sam.20.1" />... Non est pars nobis in David, neque haereditas in filio Iesse ...<verse eID="2Sam.20.1" />
+        <verse sID="2Sam.20.18" osisID="2Sam.20.18" />... Rogantes rogant qui sunt in Abela et in Dan, dicentes ...<verse eID="2Sam.20.18" />
+      </p>
+      <chapter eID="2Sam.20" />
+      <chapter sID="2Sam.23" osisID="2Sam.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="2Sam.23.15" osisID="2Sam.23.15" />... Quis mihi potum dabit de lacu, qui est in Bethleem ad portas? ...<verse eID="2Sam.23.15" />
+        <verse sID="2Sam.23.16" osisID="2Sam.23.16" />Praeciderunt tres viri multitudinem adversariorum, et impleverunt aquam de lacu, qui erat in Bethleem, et obtulerunt regi bibendam, sed rex noluit bibere, et profudit illam Domino,<verse eID="2Sam.23.16" />
+        <verse sID="2Sam.23.17" osisID="2Sam.23.17" />... Non contingat mihi hoc facere, ne sanguinem virorum qui abierunt, ex animis illorum bibam ...<verse eID="2Sam.23.17" />
+      </p>
+      <chapter eID="2Sam.23" />
+      <chapter sID="2Sam.24" osisID="2Sam.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="2Sam.24.1" osisID="2Sam.24.1" />Et apposita est ira Dei succendi in Israel, et incitavit David, dicens ...<verse eID="2Sam.24.1" />
+        <verse sID="2Sam.24.10" osisID="2Sam.24.10" />... et dixit ad Dominum, Peccavi vehementer, quod fecerim hoc verbum, et nunc Domine, aufer iniquitatem servi tui, quod deliqui vehementer.<verse eID="2Sam.24.10" />
+        <verse sID="2Sam.24.11" osisID="2Sam.24.11" />... et factum est verbum Domini ad Gad prophetam, dicens,<verse eID="2Sam.24.11" />
+        <verse sID="2Sam.24.12" osisID="2Sam.24.12" />Vade ad David, et loquere, Haec dicit Dominus, Tria ego tollo in te, elige tibi unum ex ipsis, et faciam tibi.<verse eID="2Sam.24.12" />
+        <verse sID="2Sam.24.13" osisID="2Sam.24.13" />Et venit Gad ad David, et nunciavit ei, dicens, Elige tibi quid fieri velis et tribus, sive famem triennio super terram, aut tribus mensibus fugere te a facie inimicorum tuorum, ut ipsi persequantur te, aut tribus diebus fieri mortem in terra. Et nunc scito, et vide quid respondeam ei, qui misit ad te, verbum.<verse eID="2Sam.24.13" />
+        <verse sID="2Sam.24.14" osisID="2Sam.24.14" />Et dixit David ad Gad, Angustiae mihi valde in iis tribus, sed melius mihi incidere in manus Domini (quia magna est misericordia eius valde) quam in manus hominum incidam.<verse eID="2Sam.24.14" />
+        <verse sID="2Sam.24.17" osisID="2Sam.24.17" />... Ecce sum ego, ego pastor peccavi, et ego male feci, grex autem hic, quid fecit? In me manum tuam converte, et in domum patris mei?<verse eID="2Sam.24.17" />
+      </p>
+      <chapter eID="2Sam.24" />
+    </div>
+  </osisText>
+</osis>

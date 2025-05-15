@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="1Sam" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="1Sam">
+        <title>samuel-1</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">1Sam</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>samuel-1</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="1Sam">
+      <title>samuel-1</title>
+      <chapter sID="1Sam.1" osisID="1Sam.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="1Sam.1.1" osisID="1Sam.1.1" />Fuit homo ex Arath, et nomen eius Elcana, filius Hieremiel, filius Heli, filius Ozi, de monte Ephraim.<verse eID="1Sam.1.1" />
+        <verse sID="1Sam.1.3" osisID="1Sam.1.3" />Ascendebat ex diebus in dies de civitate sua Ramathaim, adorare et sacrificare Deo omnipotenti sabaoth. Et ibi erat Heli, et duo filii eius, Ophni et Phinees, sacerdotes Domini.<verse eID="1Sam.1.3" />
+        <verse sID="1Sam.1.11" osisID="1Sam.1.11" />... et vinum, et ebriamen non bibet ...<verse eID="1Sam.1.11" />
+        <verse sID="1Sam.1.13" osisID="1Sam.1.13" />... loquebatur in corde suo, et labia eius movebantur, et vox eius non audiebatur, et exaudivit eam Deus ...<verse eID="1Sam.1.13" />
+      </p>
+      <chapter eID="1Sam.1" />
+      <chapter sID="1Sam.2" osisID="1Sam.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="1Sam.2.1" osisID="1Sam.2.1" />Confirmatum est cor meum in Domino, exaltatum est cornu meum in Deo meo, dilatatum est os meum super inimicos meos, laetata sum in salutari tuo.<verse eID="1Sam.2.1" />
+        <verse sID="1Sam.2.2" osisID="1Sam.2.2" />Quoniam non est sanctus, sicut Dominus, et non est iustus sicut Deus noster, non est sanctus praeter te.<verse eID="1Sam.2.2" />
+        <verse sID="1Sam.2.3" osisID="1Sam.2.3" />Nolite gloriari, et nolite loqui excelsa, neque exeat magniloquium ex ore vestro, quoniam Deus scientiae, Dominus, et Deus praeparans adinventiones eius.<verse eID="1Sam.2.3" />
+        <verse sID="1Sam.2.4" osisID="1Sam.2.4" />Arcum potentium infirmum fecit, et infirmes praecincti sunt virtutem.<verse eID="1Sam.2.4" />
+        <verse sID="1Sam.2.5" osisID="1Sam.2.5" />Pleni panibus defecerunt, et esurientes praebuerunt terram, quoniam sterilis peperit septem, et quae multa erat in filiis, infirmata est.<verse eID="1Sam.2.5" />
+        <verse sID="1Sam.2.6" osisID="1Sam.2.6" />Dominus mortificat et vivificat, deducet in inferno et adducet.<verse eID="1Sam.2.6" />
+        <verse sID="1Sam.2.7" osisID="1Sam.2.7" />Dominus pauperat et locupletat, humiliat et exaltat.<verse eID="1Sam.2.7" />
+        <verse sID="1Sam.2.8" osisID="1Sam.2.8" />Qui elevat a terra pauperem, et de stercore exaltat inopem, ut sedeat cum potentibus populi, et sedem gloriae haereditabit eis.<verse eID="1Sam.2.8" />
+        <verse sID="1Sam.2.9" osisID="1Sam.2.9" />Qui dat orationem oranti, et benedixit annos iustorum, quoniam non in fortitudine potens vir.<verse eID="1Sam.2.9" />
+        <verse sID="1Sam.2.10" osisID="1Sam.2.10" />Dominus infirmum facit adversarium eius. Dominus sanctus. Non glorietur prudens in sua prudentia, et non glorietur potens in virtute sua, et non glorietur dives in divitiis suis, sed in hoc glorietur qui gloriatur, intelligere et cognoscere Dominum, et facere iudicium et iustitiam in medio terrae. Dominus ascendit in coelos, et intonuit. Ipse iudicat summa terrae, et dabit fortitudinem regibus nostris, et exaltabit cornu Christi sui ...<verse eID="1Sam.2.10" />
+        <verse sID="1Sam.2.18" osisID="1Sam.2.18" />Et Samuel puer serviebat ante conspectum Domini, cinctus ephod bad.<verse eID="1Sam.2.18" />
+        <verse sID="1Sam.2.19" osisID="1Sam.2.19" />Et diploidem habebat pusillam, quam fecerat ei mater sua, et afferebat ei de diebus in dies, cum ascenderet cum viro suo, sacrificare sacrificium dierum.<verse eID="1Sam.2.19" />
+        <verse sID="1Sam.2.23" osisID="1Sam.2.23" />... Quare facitis verba haec, quae ego audio de vobis, mala, ab omni populo?<verse eID="1Sam.2.23" />
+        <verse sID="1Sam.2.24" osisID="1Sam.2.24" />Nolite filii mei, quoniam non est bona fama, quam ego audio de vobis ...<verse eID="1Sam.2.24" />
+        <verse sID="1Sam.2.25" osisID="1Sam.2.25" />Si delinquendo peccet vir adversus virum, orabunt pro eo Dominum, si autem in Deum peccet homo, quis orabit pro eo? ...<verse eID="1Sam.2.25" />
+        <verse sID="1Sam.2.27" osisID="1Sam.2.27" />Et venit homo Dei ad Heli, et dixit, Haec dicit Dominus, Revelans revelatus sum ad domum patris tui, cum essent in terra Aegypti servi in domo Pharaonis.<verse eID="1Sam.2.27" />
+        <verse sID="1Sam.2.28" osisID="1Sam.2.28" />Et elegi domum patris tui ex omnibus sceptris Israel mihi sacerdotio fungi, ut ascenderent ad altare meum, et incenderent incensum, et portarent ephod, et dedi domui patris tui omnia quae sunt ignis filiorum Israel, in escam.<verse eID="1Sam.2.28" />
+        <verse sID="1Sam.2.29" osisID="1Sam.2.29" />Et ut quid respexisti in incensum meum, et in sacrificium meum impudenti oculo, et glorificasti filios tuos super me, benedicere primitias omnis sacrificii in Israel in conspectu meo?<verse eID="1Sam.2.29" />
+        <verse sID="1Sam.2.30" osisID="1Sam.2.30" />Propter hoc haec dicit Dominus Deus Israel, Dixi, domus tua, et domus patris tui, transibunt coram me usque in aeternum. Et nunc dicit Dominus, Nequaquam, sed glorificantes me, glorificabo, et qui spernit me, spernetur.<verse eID="1Sam.2.30" />
+        <verse sID="1Sam.2.31" osisID="1Sam.2.31" />Ecce dies veniunt, et exterminabo semen tuum, et semen domus patris tui,<verse eID="1Sam.2.31" />
+        <verse sID="1Sam.2.32" osisID="1Sam.2.32" />et non erit tibi senior in domo mea omnibus diebus.<verse eID="1Sam.2.32" />
+        <verse sID="1Sam.2.33" osisID="1Sam.2.33" />Et virum exterminabo tibi ab altari meo, ut deficiant oculi eius, et defluat anima eius, et omnis qui superaverit domus tuae, decidet in gladio virorum.<verse eID="1Sam.2.33" />
+        <verse sID="1Sam.2.34" osisID="1Sam.2.34" />Et hoc tibi signum, quod veniet super duos filios tuos hos, Ophni et Phinees, Una die morientur ambo.<verse eID="1Sam.2.34" />
+        <verse sID="1Sam.2.35" osisID="1Sam.2.35" />Et suscitabo mihi sacerdotem fidelem, qui omnia quae in corde meo et quae in anima mea, faciat, et aedificabo ei domum fidelem, et transibit coram Christo meo omnibus diebus.<verse eID="1Sam.2.35" />
+        <verse sID="1Sam.2.36" osisID="1Sam.2.36" />Et erit, qui superaverit in domo tua, veniet adorare ei, obolo argenti, dicens, Iacta me in unam partem sacerdotii tui, manducare panem.<verse eID="1Sam.2.36" />
+      </p>
+      <chapter eID="1Sam.2" />
+      <chapter sID="1Sam.3" osisID="1Sam.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="1Sam.3.1" osisID="1Sam.3.1" />... sermo Domini erat pretiosus in diebus illis ...<verse eID="1Sam.3.1" />
+        <verse sID="1Sam.3.11" osisID="1Sam.3.11" />Et dixit Dominus ad Samuel, Ecce ego facio verba mea in Israel, et omnis qui audierit ea, tinnient utraeque aures eius.<verse eID="1Sam.3.11" />
+        <verse sID="1Sam.3.12" osisID="1Sam.3.12" />In illo die, quo suscitabo super Heli omnia quae locutus sum in domo eius, et consummabo<verse eID="1Sam.3.12" />
+        <verse sID="1Sam.3.13" osisID="1Sam.3.13" />quae praedixi ei, quoniam ego ulciscor in domo eius usque in aeternum, propter iniquitatem filiorum eius, quam ego scio, quoniam contemnentes Dominum mala locuti sunt filii eius, et non monuit eos, neque castigavit.<verse eID="1Sam.3.13" />
+        <verse sID="1Sam.3.14" osisID="1Sam.3.14" />Et nunc sic iuravi domui Heli, si propitiabitur iniquitas in domo Heli in incenso aut in sacrificiis in sempiternum.<verse eID="1Sam.3.14" />
+        <verse sID="1Sam.3.20" osisID="1Sam.3.20" />Et innotuit omni populo, quoniam fidelis est Samuel propheta Domino.<verse eID="1Sam.3.20" />
+        <verse sID="1Sam.3.21" osisID="1Sam.3.21" />... Heli senex erat valde, et filii eius euntes abierant, et erat maligna via eorum coram Domino.<verse eID="1Sam.3.21" />
+      </p>
+      <chapter eID="1Sam.3" />
+      <chapter sID="1Sam.4" osisID="1Sam.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="1Sam.4.1" osisID="1Sam.4.1" />Et factum est in diebus illis, et convenerunt alienigenae in pugnam ad Israel ...<verse eID="1Sam.4.1" />
+        <verse sID="1Sam.4.2" osisID="1Sam.4.2" />... Et inclinavit pugna, et cecidit vir Israel coram alienigenis, et vulnerati sunt in acie in campo, quatuor millia hominum.<verse eID="1Sam.4.2" />
+        <verse sID="1Sam.4.3" osisID="1Sam.4.3" />Et venit populus in castra, et dixerunt maiores natu Israel, Propter quid deficere fecit nos hodie Dominus coram alienigenis? Tollamus igitur arcam Domini Dei nostri ex Selon, et exeat in medio nostrum, et liberabit nos de manibus inimicorum nostrorum.<verse eID="1Sam.4.3" />
+        <verse sID="1Sam.4.4" osisID="1Sam.4.4" />Et misit populus ad Selon, et sustulerunt inde arcam Domini ubi sedebat Cherubin, et ambo filii Heli cum arca Dei ibant, Ophne et Phinees.<verse eID="1Sam.4.4" />
+        <verse sID="1Sam.4.10" osisID="1Sam.4.10" />... expugnaverunt illos, et defecit vir Israel a conspectu alienigenarum, et fugit unusquisque in tabernaculum suum, et facta est plaga magna valde, et ceciderunt ex Israel triginta millia virorum.<verse eID="1Sam.4.10" />
+        <verse sID="1Sam.4.11" osisID="1Sam.4.11" />Et arca Dei capta est, et ambo filii Heli mortui sunt ...<verse eID="1Sam.4.11" />
+        <verse sID="1Sam.4.16" osisID="1Sam.4.16" />... Et vir properans accessit ad Heli, dixitque ei, Ego sum qui veni de castris, fugiens de praelio hodie. Et dixit Heli, Qui sermo factus est filiole?<verse eID="1Sam.4.16" />
+        <verse sID="1Sam.4.17" osisID="1Sam.4.17" />Et respondit, et dixit, Fugit vir Israel a facie alienigenarum, et facta est plaga magna in populo, et ambo filii tui mortui sunt, et arca Dei capta est.<verse eID="1Sam.4.17" />
+        <verse sID="1Sam.4.18" osisID="1Sam.4.18" />Et factum est cum audisset, Arca Dei capta est, cecidit supinus de sella iuxta portam, et contribulatum est dorsum eius, et mortuus est. Quoniam senex erat et gravis homo, et ipse iudicabat in Israel viginti annis.<verse eID="1Sam.4.18" />
+      </p>
+      <chapter eID="1Sam.4" />
+      <chapter sID="1Sam.5" osisID="1Sam.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="1Sam.5.1" osisID="1Sam.5.1" />Et alienigenae abstulerunt arcam Dei ex Abenezer, et intulerunt illam in Azotum.<verse eID="1Sam.5.1" />
+        <verse sID="1Sam.5.2" osisID="1Sam.5.2" />Et sustulerunt alienigenae arcam, et intulerunt illam in domum Dagon, et collocaverunt illam iuxta Dagon.<verse eID="1Sam.5.2" />
+        <verse sID="1Sam.5.3" osisID="1Sam.5.3" />Et mane vigilaverunt Azoti, et intraverunt in domum Dagon, et viderunt, et ecce Dagon cecidit in faciem suam ante arcam Dei, et sustulerunt Dagon, et statuerunt in locum suum. Et gravata est manus Domini super Azotos, et cruciabat illos, et percussit illos in domibus eorum, in Azotum et regiones eius.<verse eID="1Sam.5.3" />
+        <verse sID="1Sam.5.4" osisID="1Sam.5.4" />Et factum est cum ante lucem vigilassent, et Dagon ceciderat in faciem ante arcam testamenti Domini, et caput Dagon, et ambo vestigia manus eius ablata erant per partes centum, et ambo articuli manus illius ceciderunt in limen.<verse eID="1Sam.5.4" />
+        <verse sID="1Sam.5.6" osisID="1Sam.5.6" />Et gravata est manus Domini super Azotum, et induxit illis mures, et facta est confusio mortis magna in civitate.<verse eID="1Sam.5.6" />
+        <verse sID="1Sam.5.7" osisID="1Sam.5.7" />Et viderunt viri Azoti, quoniam sic est, et dixerunt, Quoniam non sedebit arca Domini Dei Israel nobiscum, quoniam dura est manus illius super nos, et super Dagon deum nostrum.<verse eID="1Sam.5.7" />
+        <verse sID="1Sam.5.8" osisID="1Sam.5.8" />Et mittunt, et convocant regulos alienigenarum ad se, et dicunt, Quid faciemus de arca Dei Israel? Et dixerunt Gethaei, Transeat arca Dei Israel in Geth.<verse eID="1Sam.5.8" />
+        <verse sID="1Sam.5.9" osisID="1Sam.5.9" />Et factum est postquam translata est arca Dei, facta manus Domini in civitate, et est facta turbatio magna valde, et percussit viros civitatis, a minimo usque ad maximum, et ebullivit illis mures in sedibus, et fecerunt sibi Gethaei sedes pelliceas.<verse eID="1Sam.5.9" />
+        <verse sID="1Sam.5.10" osisID="1Sam.5.10" />Et miserunt arcam Dei in Ascalonem. Et factum est ut intravit arca Dei Israel in Ascalonem, exclamaverunt Ascalonenses, dicentes, Ut quid misistis arcam Dei Israel ad nos, ut morti tradat nos et populum nostrum?<verse eID="1Sam.5.10" />
+        <verse sID="1Sam.5.11" osisID="1Sam.5.11" />Et mittunt et convocant regulos alienigenarum, et dixerunt, Remitte arcam Dei Israel, et reducatur in locum suum, et non morti dabit nos et populum nostrum.<verse eID="1Sam.5.11" />
+        <verse sID="1Sam.5.12" osisID="1Sam.5.12" />Quia acta est confusio gravis in civitate tota, gravis valde, ut intravit arca Dei, et qui vivebant, et non sunt mortui, percussi sunt sedibus suis, et ascendit clamor civitatum usque ad coelum.<verse eID="1Sam.5.12" />
+      </p>
+      <chapter eID="1Sam.5" />
+      <chapter sID="1Sam.7" osisID="1Sam.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="1Sam.7.10" osisID="1Sam.7.10" />... et Allophyli praelio admovebant, ibidem Dominus intonuit voce magna super Allophylos, et confusi sunt, et corruerunt in conspectu Israelis.<verse eID="1Sam.7.10" />
+        <verse sID="1Sam.7.11" osisID="1Sam.7.11" />Et processerunt viri Israel ex Maspha, et persecuti sunt Allophylos, et usque Betchor ceciderunt.<verse eID="1Sam.7.11" />
+        <verse sID="1Sam.7.12" osisID="1Sam.7.12" />Assumpsit ... lapidem unum, et statuit illum inter Massephat novam et veterem, et vocavit nomen eius, Abennezer, quod est, Lapis adiutoris. Et dixit, Usque huc adiuvit nos Dominus.<verse eID="1Sam.7.12" />
+        <verse sID="1Sam.7.16" osisID="1Sam.7.16" />... Et Samuel iudicabat populum Israel in omnibus sanctificationibus.<verse eID="1Sam.7.16" />
+      </p>
+      <chapter eID="1Sam.7" />
+      <chapter sID="1Sam.8" osisID="1Sam.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="1Sam.8.7" osisID="1Sam.8.7" />... non te spreverunt, sed me spreverunt ...<verse eID="1Sam.8.7" />
+        <verse sID="1Sam.8.18" osisID="1Sam.8.18" />... quia petistis vobis regem.<verse eID="1Sam.8.18" />
+      </p>
+      <chapter eID="1Sam.8" />
+      <chapter sID="1Sam.9" osisID="1Sam.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="1Sam.9.2" osisID="1Sam.9.2" />... erat vir bonus, et non erat illo melior in filiis Israel ...<verse eID="1Sam.9.2" />
+        <verse sID="1Sam.9.5" osisID="1Sam.9.5" />Cum autem venissent in terram Suph, et non invenissent ...<verse eID="1Sam.9.5" />
+        <verse sID="1Sam.9.24" osisID="1Sam.9.24" />... comede, quia in testimonium a populo positum est tibi ...<verse eID="1Sam.9.24" />
+        <verse sID="1Sam.9.25" osisID="1Sam.9.25" />... stravitque Saul, et dormivit in solario.<verse eID="1Sam.9.25" />
+      </p>
+      <chapter eID="1Sam.9" />
+      <chapter sID="1Sam.10" osisID="1Sam.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="1Sam.10.9" osisID="1Sam.10.9" />Et factum est cum converteret humerum suum ut iret a Samuel, convertit Deus in Saul cor aliud, et venerunt omnia signa illa die.<verse eID="1Sam.10.9" />
+        <verse sID="1Sam.10.10" osisID="1Sam.10.10" />Et venit inde in collem, et ecce chorus prophetarum in obviam illi, et insiluit in illum Spiritus Dei, et prophetavit in medio eorum.<verse eID="1Sam.10.10" />
+        <verse sID="1Sam.10.11" osisID="1Sam.10.11" />... Quid hoc filio Cis? An et Saul in prophetis?<verse eID="1Sam.10.11" />
+        <verse sID="1Sam.10.12" osisID="1Sam.10.12" />... Si et Saul inter prophetas?<verse eID="1Sam.10.12" />
+        <verse sID="1Sam.10.25" osisID="1Sam.10.25" />... et dimisit Samuel populum, et abiit unusquisque in locum suum.<verse eID="1Sam.10.25" />
+        <verse sID="1Sam.10.26" osisID="1Sam.10.26" />Et Saul abiit in domum suam in Gabaa, et abierunt potentes, quorum tetigit Dominus corda, cum Saule.<verse eID="1Sam.10.26" />
+        <verse sID="1Sam.10.27" osisID="1Sam.10.27" />Et filii pestilentes dixerunt, Quis salvabit nos? Hic? Et inhonoraverunt eum, et non adtulerunt ei munera.<verse eID="1Sam.10.27" />
+      </p>
+      <chapter eID="1Sam.10" />
+      <chapter sID="1Sam.11" osisID="1Sam.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="1Sam.11.1" osisID="1Sam.11.1" />Et factum est quasi post mensem ...<verse eID="1Sam.11.1" />
+      </p>
+      <chapter eID="1Sam.11" />
+      <chapter sID="1Sam.12" osisID="1Sam.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="1Sam.12.2" osisID="1Sam.12.2" />... ego conversatus sum in conspectu vestro a prima aetate mea usque nunc.<verse eID="1Sam.12.2" />
+        <verse sID="1Sam.12.3" osisID="1Sam.12.3" />... Respondete mihi in conspectu Dei, et in conspectu Christi eius, Cuius vestrum vitulum accepi, aut asinum? Aut super quem potentatus sum, aut quem oppressi? Aut si de alicuius manu accepi propitiationem vel calceamentum, dicite adversus me, et reddam vobis.<verse eID="1Sam.12.3" />
+        <verse sID="1Sam.12.4" osisID="1Sam.12.4" />... Neque potentatus es, neque oppressisti nos, neque accepisti de manu cuiusquam aliquid.<verse eID="1Sam.12.4" />
+        <verse sID="1Sam.12.5" osisID="1Sam.12.5" />... Testis Dominus, et testis Christus eius in die hac, quoniam non invenistis in manu mea nihil. Et dixerunt ei, Testis.<verse eID="1Sam.12.5" />
+      </p>
+      <chapter eID="1Sam.12" />
+      <chapter sID="1Sam.13" osisID="1Sam.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="1Sam.13.13" osisID="1Sam.13.13" />Ait Sauli Samuel ... quoniam non servasti mandatum meum, quod mandavit tibi Dominus. Quemadmodum nunc paraverat Dominus regnum tuum usque in aeternum super Israel,<verse eID="1Sam.13.13" />
+        <verse sID="1Sam.13.14" osisID="1Sam.13.14" />et nunc regnum tuum non stabit tibi. Et quaeret Dominus sibi hominem secundum cor suum, et mandabit ei Dominus esse in principem super populum suum, quia non custodisti quae mandavit tibi Dominus.<verse eID="1Sam.13.14" />
+        <verse sID="1Sam.13.15" osisID="1Sam.13.15" />... Et reliqui populi ascenderunt post Saul obviam populo, qui expugnabant eos venientes ex Galgala in Gabaa, in colle Beniamin ...<verse eID="1Sam.13.15" />
+        <verse sID="1Sam.13.21" osisID="1Sam.13.21" />Eratque vindemia parata, vasa autem erant tribus siclis in bidentem et securem, et falx in substantiam erat eis.<verse eID="1Sam.13.21" />
+      </p>
+      <chapter eID="1Sam.13" />
+      <chapter sID="1Sam.14" osisID="1Sam.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="1Sam.14.13" osisID="1Sam.14.13" />... et cum vidissent faciem Ionathae ...<verse eID="1Sam.14.13" />
+        <verse sID="1Sam.14.22" osisID="1Sam.14.22" />... Et erant cum Saule, quasi decem millia virorum.<verse eID="1Sam.14.22" />
+        <verse sID="1Sam.14.24" osisID="1Sam.14.24" />... Maledictus homo, qui ederit panem ad vesperam, usque dum ulciscar de inimico meo. Et non gustavit totus populus eius.<verse eID="1Sam.14.24" />
+        <verse sID="1Sam.14.25" osisID="1Sam.14.25" />Et tota terra non prandebat ...<verse eID="1Sam.14.25" />
+        <verse sID="1Sam.14.41" osisID="1Sam.14.41" />... quid est quod non responderis servo tuo hodie? Si in me, aut in Ionatha filio meo, haec iniquitas est, da ostensionem, aut si ita est in populo tuo haec iniquitas, da sanctitatem.<verse eID="1Sam.14.41" />
+        <verse sID="1Sam.14.43" osisID="1Sam.14.43" />... Gustavi in fummitate sceptri, quod est in manu mea, parum mellis, et ecce ego morior.<verse eID="1Sam.14.43" />
+        <verse sID="1Sam.14.45" osisID="1Sam.14.45" />... Num Ionathas morietur, qui fecit salutem hanc magnam in Israel? Absit, vivit Dominus, si ceciderit de capillis capitis eius in terram, quia cum Domino fecit diem hanc. Et liberavit Dominus Ionatham, et non est mortuus.<verse eID="1Sam.14.45" />
+      </p>
+      <chapter eID="1Sam.14" />
+      <chapter sID="1Sam.15" osisID="1Sam.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="1Sam.15.1" osisID="1Sam.15.1" />Dixit Samuel ad Saul, Misit me Dominus ut ungerem te super Israel in regem, et nunc audi vocem verbi Domini,<verse eID="1Sam.15.1" />
+        <verse sID="1Sam.15.2" osisID="1Sam.15.2" />Haec dicit Dominus omnipotens, Nunc defendam quae fecit Amalec tibi Israel, quemadmodum obviavit tibi in via qua ascendisti de Aegypto.<verse eID="1Sam.15.2" />
+        <verse sID="1Sam.15.3" osisID="1Sam.15.3" />Et nunc vade, et percuties Amalec, et omnia ipsius, et non concupisces ex illis aliquid, sed exterminabis illum, et anathematizabis illum, et omnia illius, et non parces illi, et occides omnia illius a viro usque ad mulierem, et ab infante usque ad nutrientem ...<verse eID="1Sam.15.3" />
+        <verse sID="1Sam.15.5" osisID="1Sam.15.5" />Et venit Saul usque ad civitatem Amalec, et accessit, et obsedit Amalec in torrente.<verse eID="1Sam.15.5" />
+        <verse sID="1Sam.15.6" osisID="1Sam.15.6" />Et dixit Saul ad Cinaeum, Vade, et declina e medio, et declina ab Amalec, et noli apponere te cum illo, quoniam tu fecisti misericordiam cum filiis Israel, cum ascenderent ex Aegypto. Et declinavit Cinaeus de medio Amalec.<verse eID="1Sam.15.6" />
+        <verse sID="1Sam.15.7" osisID="1Sam.15.7" />Et percussit Saul Amalec, ab Evilat, usque Sur, quae est contra faciem Aegypti.<verse eID="1Sam.15.7" />
+        <verse sID="1Sam.15.8" osisID="1Sam.15.8" />Et comprehendit Saul Agag regem Amalec vivum, et omnem populum eius occidit in ore gladii.<verse eID="1Sam.15.8" />
+        <verse sID="1Sam.15.9" osisID="1Sam.15.9" />Et accepit Saul, et omnis populus eius, Agag regem, et bona gregum et armentorum, et escarum et vinearum, et omnium bonorum, et noluerunt disperdere omnia bona, sed et omne opus pretiosum reservaverunt, et supervacua disperdiderunt.<verse eID="1Sam.15.9" />
+        <verse sID="1Sam.15.10" osisID="1Sam.15.10" />Et factum est verbum Domini ad Samuelem, dicens,<verse eID="1Sam.15.10" />
+        <verse sID="1Sam.15.11" osisID="1Sam.15.11" />Poenitet me quod constituerim regem Saul, quoniam aversus est a me, et verba mea non statuit. Et contristatus est Samuel, et clamavit ad Deum tota nocte.<verse eID="1Sam.15.11" />
+        <verse sID="1Sam.15.12" osisID="1Sam.15.12" />Et ante lucem, et Samuel abiit in obviam Israel ... Et venit Samuel ad Saul, et ecce Saul offerebat holocaustum Domino, et initia praedarum quae attulit ex Amalec.<verse eID="1Sam.15.12" />
+        <verse sID="1Sam.15.13" osisID="1Sam.15.13" />Et pervenit Samuel ad Saul, et dixit illi Saul, Benedictus es tu Domino, statui omnia quae locutus est Dominus.<verse eID="1Sam.15.13" />
+        <verse sID="1Sam.15.14" osisID="1Sam.15.14" />Et dixit Samuel, Et quae est vox huius gregis in auribus meis, et vox boum, quam ego audio?<verse eID="1Sam.15.14" />
+        <verse sID="1Sam.15.15" osisID="1Sam.15.15" />Et dixit Saul, De Amalec attuli ea, quae praedavit populus, optima gregis et boum, ut immolentur Domino tuo regi. Reliqua autem disperdidi et exterminavi.<verse eID="1Sam.15.15" />
+        <verse sID="1Sam.15.17" osisID="1Sam.15.17" />Et dixit Samuel ad Saul, Nonne minimus eras dux in conspectu sceptrorum de tribu Israel? Et unxit te Dominus in regem super Israel,<verse eID="1Sam.15.17" />
+        <verse sID="1Sam.15.18" osisID="1Sam.15.18" />et immisit te Dominus in viam, et dixit tibi, Vade, et disperde illos qui peccant in me, Amalec, et expugnabis illos usque dum consumes illos.<verse eID="1Sam.15.18" />
+        <verse sID="1Sam.15.19" osisID="1Sam.15.19" />Et quare non audisti vocem Domini, sed impetivisti ad praedam, et fecisti quod malignum est coram Domino?<verse eID="1Sam.15.19" />
+        <verse sID="1Sam.15.20" osisID="1Sam.15.20" />Et dixit Saul, Quoniam audivi populum, abii in viam in quam misit me Deus, et adduxi Agag regem Amalec, et Amalec disperdidi.<verse eID="1Sam.15.20" />
+        <verse sID="1Sam.15.21" osisID="1Sam.15.21" />Et accepit populus praedam gregis, et armenta primaria illorum quae disperdidi, ut sacrificent coram Domino Deo nostro in Galgala.<verse eID="1Sam.15.21" />
+        <verse sID="1Sam.15.22" osisID="1Sam.15.22" />Et dixit Samuel, Nunquid vult Dominus holocausta et sacrificia, magis quam exaudire vocem Domini? Et ecce dico, AUDIENTIA melior est quam sacrificium, et obedientia quam adipes arietum,<verse eID="1Sam.15.22" />
+        <verse sID="1Sam.15.23" osisID="1Sam.15.23" />quoniam peccatum abominatio est, dolores et gemitus ad te adduxisti. Pro quibus nullius momenti fecisti verbum Domini, nullius momenti te faciet Dominus ne regnes.<verse eID="1Sam.15.23" />
+        <verse sID="1Sam.15.24" osisID="1Sam.15.24" />Et dixit Saul ad Samuel, Peccavi, quoniam praeterivi verbum Domini, et verbum tuum, quoniam timui populum, et audivi vocem illorum.<verse eID="1Sam.15.24" />
+        <verse sID="1Sam.15.25" osisID="1Sam.15.25" />Et nunc aufer peccatum meum, revertere mecum, adorabo Dominum Deum tuum.<verse eID="1Sam.15.25" />
+        <verse sID="1Sam.15.26" osisID="1Sam.15.26" />Et dixit Samuel ad illum, Non revertar tecum, quia sprevisti verbum Domini, et spernet te Dominus, ne sis rex super Israel.<verse eID="1Sam.15.26" />
+        <verse sID="1Sam.15.27" osisID="1Sam.15.27" />Et convertit Samuel faciem suam ut abiret, et tenuit Saul pinnulam diploidis eius, et disrupit eam.<verse eID="1Sam.15.27" />
+        <verse sID="1Sam.15.28" osisID="1Sam.15.28" />Et dixit ad eum Samuel, Disrupit Dominus regnum ab Israel de manu tua hodie, et dabit illud proximo tuo bono super te.<verse eID="1Sam.15.28" />
+        <verse sID="1Sam.15.29" osisID="1Sam.15.29" />Et dividetur Israel in duo, et non convertetur, neque poenitebit eum, quoniam non est sicut homo ut poeniteat eum, ipse minatur, et non permanet.<verse eID="1Sam.15.29" />
+        <verse sID="1Sam.15.35" osisID="1Sam.15.35" />Et non adiecit Samuel amplius videre Saul usque ad diem mortis suae, quoniam lugebat Samuel in Saul, et Dominum poenituit quoniam regem fecit Saul super Israel.<verse eID="1Sam.15.35" />
+      </p>
+      <chapter eID="1Sam.15" />
+      <chapter sID="1Sam.16" osisID="1Sam.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="1Sam.16.1" osisID="1Sam.16.1" />Et dixit Dominus ad Samuel, Usquequo luges tu in Saul? Ecce ego expello illum ne regnet super Israel. Imple cornu tuum oleo, et veni, mittam te in domo Iesse usque in Bethleem, quoniam vidi in fillis Iesse mihi in regem.<verse eID="1Sam.16.1" />
+        <verse sID="1Sam.16.2" osisID="1Sam.16.2" />Et dixit Samuel, Quomodo ibo? Ne audiat Saul, et occidat me ...<verse eID="1Sam.16.2" />
+        <verse sID="1Sam.16.6" osisID="1Sam.16.6" />... Ecce in conspectu Domini Christus eius?<verse eID="1Sam.16.6" />
+        <verse sID="1Sam.16.7" osisID="1Sam.16.7" />Et ait Dominus ad eum, Ne respicias ad vultum eius, et ad staturam corporis illius, quoniam abieci eum. Aliter enim videt homo, aliter Deus, homo enim videt in facie, Deus in corde.<verse eID="1Sam.16.7" />
+        <verse sID="1Sam.16.11" osisID="1Sam.16.11" />... Iesse ait, Nunquid est tibi adhuc filius? Qui respondit, Est mihi modicus, quem dereliqui in pastorali ...<verse eID="1Sam.16.11" />
+        <verse sID="1Sam.16.13" osisID="1Sam.16.13" />... et perrexit Samuel, et abiit in Ramatha.<verse eID="1Sam.16.13" />
+        <verse sID="1Sam.16.14" osisID="1Sam.16.14" />Et Spiritus Domini recessit a Saul, et comprehendit eum spiritus malignus, a Domino, et suffocabat eum.<verse eID="1Sam.16.14" />
+        <verse sID="1Sam.16.15" osisID="1Sam.16.15" />Et dixerunt pueri Saul ad eum, Ecce spiritus Domini malignus suffocat te.<verse eID="1Sam.16.15" />
+      </p>
+      <chapter eID="1Sam.16" />
+      <chapter sID="1Sam.17" osisID="1Sam.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="1Sam.17.32" osisID="1Sam.17.32" />... Non corruat cor domini mei, ego ibo, et pugnabo huic Allophylo.<verse eID="1Sam.17.32" />
+        <verse sID="1Sam.17.33" osisID="1Sam.17.33" />... Non potes ire ad Allophylum, et pugnare cum eo, quoniam tu puer es, et ille vir bellator est a iuventute sua.<verse eID="1Sam.17.33" />
+        <verse sID="1Sam.17.36" osisID="1Sam.17.36" />Et leonem et ursum occidit servus tuus, sic erit iste unus ex illis. Nunc vadam, et auferam opprobrium populi, quoniam quis est iste Philistaeus incircumcisus ...<verse eID="1Sam.17.36" />
+        <verse sID="1Sam.17.47" osisID="1Sam.17.47" />... non in gladio, neque in hasta salvat Dominus, ipsius est bellum ...<verse eID="1Sam.17.47" />
+      </p>
+      <chapter eID="1Sam.17" />
+      <chapter sID="1Sam.18" osisID="1Sam.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="1Sam.18.1" osisID="1Sam.18.1" />Factum est post verba haec, colligata est anima Ionathae cum anima David ...<verse eID="1Sam.18.1" />
+        <verse sID="1Sam.18.6" osisID="1Sam.18.6" />... et ferret caput eius in Ierusalem ...<verse eID="1Sam.18.6" />
+        <verse sID="1Sam.18.7" osisID="1Sam.18.7" />... Percussit Saul in millibus, David in decem millibus.<verse eID="1Sam.18.7" />
+        <verse sID="1Sam.18.14" osisID="1Sam.18.14" />Et erat David in omnibus viis suis sapiens, et Dominus erat cum illo.<verse eID="1Sam.18.14" />
+        <verse sID="1Sam.18.16" osisID="1Sam.18.16" />Et omnis Israel et Iuda diligebant David ...<verse eID="1Sam.18.16" />
+        <verse sID="1Sam.18.28" osisID="1Sam.18.28" />Et vidit Saul quoniam Dominus cum David est. Et omnis Israel diligebat eum.<verse eID="1Sam.18.28" />
+        <verse sID="1Sam.18.29" osisID="1Sam.18.29" />Et magis adiecit Saul timere a facie David.<verse eID="1Sam.18.29" />
+      </p>
+      <chapter eID="1Sam.18" />
+      <chapter sID="1Sam.19" osisID="1Sam.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="1Sam.19.1" osisID="1Sam.19.1" />Et locutus est Saul ad Ionatham filium suum, et ad omnes pueros suos, occidere David. Et Ionathan filius Saul diligebat David valde.<verse eID="1Sam.19.1" />
+        <verse sID="1Sam.19.2" osisID="1Sam.19.2" />Et indicavit Ionatha David, dicens, Saul quaerit occidere te ...<verse eID="1Sam.19.2" />
+        <verse sID="1Sam.19.4" osisID="1Sam.19.4" />Et locutus est Ionatha ad patrem suum, dicens, Noli peccare rex in servum tuum David, quoniam non peccavit in te, et facta eius bona sunt valde.<verse eID="1Sam.19.4" />
+        <verse sID="1Sam.19.5" osisID="1Sam.19.5" />Et posuit animam suam in manibus suis, et occidit alienigenam, et fecit Dominus salutem in Israel, et omnis Israel viderunt, et gavisi sunt. Et ut quid peccas in sanguinem, et occidere vis David sine causa?<verse eID="1Sam.19.5" />
+        <verse sID="1Sam.19.6" osisID="1Sam.19.6" />Et audivit Saul vocem Ionathae filii sui, et iuravit Saul, dicens, Vivit Dominus, si mortuus fuerit David.<verse eID="1Sam.19.6" />
+        <verse sID="1Sam.19.8" osisID="1Sam.19.8" />Et adiectum est bellum fieri, et invaluit David, et expugnavit alienigenas, et percussit illos plaga magna, et fugerunt a facie David.<verse eID="1Sam.19.8" />
+        <verse sID="1Sam.19.9" osisID="1Sam.19.9" />Et factus est in Saul spiritus malus, et ipse in domo sua dormiebat, et erat in manu eius lancea, et ecce psallebat in manibus suis.<verse eID="1Sam.19.9" />
+        <verse sID="1Sam.19.10" osisID="1Sam.19.10" />Et quaerebat Saul percutere lancea David, et percussit, et declinavit David a facie Saul, et percussit lancea in parietem, et David fugit, et salvus factus est.<verse eID="1Sam.19.10" />
+        <verse sID="1Sam.19.11" osisID="1Sam.19.11" />Et factum est in illa nocte, et misit Saul nuncios ad domum David, ut custodirent illum, quo mane occideret illum ...<verse eID="1Sam.19.11" />
+        <verse sID="1Sam.19.14" osisID="1Sam.19.14" />Saul misit nuncios, ut acciperent David, et responderunt vexari illum graviter.<verse eID="1Sam.19.14" />
+        <verse sID="1Sam.19.15" osisID="1Sam.19.15" />... Afferte illum in lecto ad me, ut occidam illum.<verse eID="1Sam.19.15" />
+        <verse sID="1Sam.19.16" osisID="1Sam.19.16" />Et venerunt nuncii. Et ecce cenotaphia in lecto, et iecur caprarum ...<verse eID="1Sam.19.16" />
+        <verse sID="1Sam.19.18" osisID="1Sam.19.18" />Et David fugit, et salvus factus est, et venit ad Samuel in Armathen, et renuntiavit ei omnia quae fecit Saul ...<verse eID="1Sam.19.18" />
+        <verse sID="1Sam.19.21" osisID="1Sam.19.21" />... Et iratus iracundia Saul,<verse eID="1Sam.19.21" />
+        <verse sID="1Sam.19.23" osisID="1Sam.19.23" />... factus est super eum Spiritus Dei, et ambulabat ingrediens, et prophetabat ...<verse eID="1Sam.19.23" />
+        <verse sID="1Sam.19.24" osisID="1Sam.19.24" />... Et Saul inter prophetas?<verse eID="1Sam.19.24" />
+      </p>
+      <chapter eID="1Sam.19" />
+      <chapter sID="1Sam.20" osisID="1Sam.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="1Sam.20.15" osisID="1Sam.20.15" />... aut si non fecero, quando ... auferat Ionathan de domo sua, et requirat Dominus de manu inimicorum David.<verse eID="1Sam.20.15" />
+        <verse sID="1Sam.20.30" osisID="1Sam.20.30" />Et factus est iratus in Ionathan Saul valde ...<verse eID="1Sam.20.30" />
+        <verse sID="1Sam.20.31" osisID="1Sam.20.31" />... Et dixit, Mitte haec, accipe iuvenem, quoniam filius mortis est.<verse eID="1Sam.20.31" />
+        <verse sID="1Sam.20.32" osisID="1Sam.20.32" />Et respondit Ionathas patri suo, Quare morietur? Quid fecit?<verse eID="1Sam.20.32" />
+        <verse sID="1Sam.20.33" osisID="1Sam.20.33" />Et sustulit Saul lanceam in Ionathan ut occideret eum ...<verse eID="1Sam.20.33" />
+      </p>
+      <chapter eID="1Sam.20" />
+      <chapter sID="1Sam.21" osisID="1Sam.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="1Sam.21.4" osisID="1Sam.21.4" />Et respondit sacerdos ad David, et dixit, Non sunt panes profani in manu mea, nisi panis sanctus unus, si observati sunt pueri a muliere, manducabunt.<verse eID="1Sam.21.4" />
+        <verse sID="1Sam.21.7" osisID="1Sam.21.7" />... hic pascebat mulas Saul.<verse eID="1Sam.21.7" />
+        <verse sID="1Sam.21.8" osisID="1Sam.21.8" />... Vide si est ad manum tuam lancea, et gladius. Quoniam gladium meum, et vasa mea non sustuli in manu mea ...<verse eID="1Sam.21.8" />
+        <verse sID="1Sam.21.9" osisID="1Sam.21.9" />Respondensque sacerdos, dixit, Ecce gladius Goliath alienigenae, quem percussisti in Valle terebinthi, et hic involutus est vestimento post ephod ...<verse eID="1Sam.21.9" />
+        <verse sID="1Sam.21.11" osisID="1Sam.21.11" />... Nonne iste est David, cui chorum fecerunt mulieres Israelitae, dicentes, Saul percussit in millibus, et David in denis millibus?<verse eID="1Sam.21.11" />
+        <verse sID="1Sam.21.13" osisID="1Sam.21.13" />Et mutavit vultum suum coram ipsis, et affectabat, et tympanizabat ad ostia civitatis, et ferebatur in manibus suis, et procidebat ad ostia portae, et salivae decurrebant super barbam eius.<verse eID="1Sam.21.13" />
+        <verse sID="1Sam.21.14" osisID="1Sam.21.14" />Et dixit Achis ... quid huc mihi adduxistis istum?<verse eID="1Sam.21.14" />
+        <verse sID="1Sam.21.15" osisID="1Sam.21.15" />Nunquid arreptitium ego opus habeo? ... Nunquidnam intraturus est in domum meam?<verse eID="1Sam.21.15" />
+      </p>
+      <chapter eID="1Sam.21" />
+      <chapter sID="1Sam.22" osisID="1Sam.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="1Sam.22.9" osisID="1Sam.22.9" />... Vidi filium Iesse venientem in Noba, ad Abimelech filium Achitob ...<verse eID="1Sam.22.9" />
+        <verse sID="1Sam.22.10" osisID="1Sam.22.10" />Et interrogavit eum in Domino, et manducare dedit illi, et gladium Goliae alienigenae dedit ei.<verse eID="1Sam.22.10" />
+        <verse sID="1Sam.22.16" osisID="1Sam.22.16" />Et dixit rex, Morte morieris Abimelech, et tu, et omnis domus patris tui.<verse eID="1Sam.22.16" />
+        <verse sID="1Sam.22.17" osisID="1Sam.22.17" />Et dixit rex cursoribus, et stantibus sibi, Adducite, et occidite sacerdotes Domini, quoniam manus eorum cum David est, quoniam cognoverant quod David fugeret, et decooperuerunt aurem meam. Et noluerunt pueri tegis ingere manus suas adversus sacerdotes Domini.<verse eID="1Sam.22.17" />
+        <verse sID="1Sam.22.18" osisID="1Sam.22.18" />Et dixit Saul ad Doeg, Converte te in obviam sacerdotibus Domini. Et conversus est Doeg Syrus, et mortificavit ipse sacerdotes Domini, et occidit illa die trecentos quinque viros, et omnes portantes ephod.<verse eID="1Sam.22.18" />
+        <verse sID="1Sam.22.19" osisID="1Sam.22.19" />Et Oben civitatem sacerdotum occidit in ore gladii, a viro usque ad mulierem, et ab infante usque ad nutrientem, et vitulum et asinum, et ovem in ore gladii.<verse eID="1Sam.22.19" />
+        <verse sID="1Sam.22.20" osisID="1Sam.22.20" />Et salvatus est unus filius Abimelech, filii Achitob, et nomen ei Abiathar, et fugit post David,<verse eID="1Sam.22.20" />
+      </p>
+      <chapter eID="1Sam.22" />
+      <chapter sID="1Sam.23" osisID="1Sam.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="1Sam.23.6" osisID="1Sam.23.6" />Et factum est, cum fugeret Abiathar filius Achimelech ad David, et ipse cum David descendit in Ceila, habens ephod in manu sua.<verse eID="1Sam.23.6" />
+        <verse sID="1Sam.23.7" osisID="1Sam.23.7" />Et renuntiatum est Saul quia venit David in Ceila ...<verse eID="1Sam.23.7" />
+        <verse sID="1Sam.23.9" osisID="1Sam.23.9" />... dixit David ad Abiathar, Defer ephod Domini.<verse eID="1Sam.23.9" />
+        <verse sID="1Sam.23.26" osisID="1Sam.23.26" />Et ibat Saul et viri eius ...<verse eID="1Sam.23.26" />
+      </p>
+      <chapter eID="1Sam.23" />
+      <chapter sID="1Sam.24" osisID="1Sam.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="1Sam.24.2" osisID="1Sam.24.2" />Et factum cum reversus esset Saul post alienigenas, et renuntiaverunt ei, dicentes, Ecce, David in deserto Gaddi est.<verse eID="1Sam.24.2" />
+        <verse sID="1Sam.24.3" osisID="1Sam.24.3" />Et sumpsit secum tria millia virorum electorum ex omni Israel, et abiit quaerere David et viros eius, ante faciem venationis cervorum.<verse eID="1Sam.24.3" />
+        <verse sID="1Sam.24.4" osisID="1Sam.24.4" />Et venit ad greges ovium, quae erant ad viam, et erat ibi spelunca, et introivit Saul ad sellam, et David et pueri eius interius speluncae sedebant.<verse eID="1Sam.24.4" />
+        <verse sID="1Sam.24.5" osisID="1Sam.24.5" />Et dixerunt viri David ad eum, Ecce dies hic, quem dixit Dominus tibi, Dabo inimicum tuum in manibus tuis, et facies ei quae placita sunt ante oculos tuos. Et exsurrexit David, et demsit pinnam chlamydis Saul occulte.<verse eID="1Sam.24.5" />
+        <verse sID="1Sam.24.6" osisID="1Sam.24.6" />Et factum est post haec, et percussit cor David, eo quod demsisset pinnam chlamydis.<verse eID="1Sam.24.6" />
+        <verse sID="1Sam.24.7" osisID="1Sam.24.7" />Et dixit David ad pueros suos, Non mihi contingat a Domino, si fecero hoc verbum domino meo, christo Domini, inferre manum meam in eum, quia christus Domini hic est.<verse eID="1Sam.24.7" />
+        <verse sID="1Sam.24.8" osisID="1Sam.24.8" />Et suasit David viros suos verbis, et non permisit illis ut surgentes occiderent Saul, et surrexit Saul, et descendit in viam.<verse eID="1Sam.24.8" />
+        <verse sID="1Sam.24.9" osisID="1Sam.24.9" />Et exiit David post Saul, dicens, Domine rex. Et respexit Saul post se, et inclinavit se David in faciem suam super terram, et adoravit eum,<verse eID="1Sam.24.9" />
+        <verse sID="1Sam.24.10" osisID="1Sam.24.10" />et dixit David ad Saul, Quare audis verba populi, dicentium, Ecce David quarit animam tuam?<verse eID="1Sam.24.10" />
+        <verse sID="1Sam.24.11" osisID="1Sam.24.11" />Et ecce in hac die viderunt oculi tui, quomodo tradidit te Dominus hodie in manibus meis in spelaeo, et nolui te occidere, et peperci tibi, et dixi, Non iniiciam manum meam in dominum meum, quoniam christus Domini est.<verse eID="1Sam.24.11" />
+        <verse sID="1Sam.24.12" osisID="1Sam.24.12" />Qui accepi pinnam chlamydis tuae in manu mea, et ego abscidi laciniam chlamydis tuae, et non occidi te, cognosce, et vide hodie, quoniam non est in manu mea malitia, neque iniustitia, et non peccavi in te, et tu quaeris animam meam accipere.<verse eID="1Sam.24.12" />
+        <verse sID="1Sam.24.13" osisID="1Sam.24.13" />Iudicet Dominus inter me et te, et vindicabit me de te, manus autem mea non erit in te.<verse eID="1Sam.24.13" />
+        <verse sID="1Sam.24.14" osisID="1Sam.24.14" />Sicut dicitur parabola antiqua, EX INIQUIS exiet nequitia, manus autem mea non erit in te.<verse eID="1Sam.24.14" />
+        <verse sID="1Sam.24.15" osisID="1Sam.24.15" />Retro quem tu persequeris? Canem mortuum, et retro pulicem unum.<verse eID="1Sam.24.15" />
+        <verse sID="1Sam.24.16" osisID="1Sam.24.16" />Fiat Dominus in iudicem, et in vindicem inter me et inter te, videat Dominus, et iudicet iudicium meum, et iustificet me ex manu tua.<verse eID="1Sam.24.16" />
+        <verse sID="1Sam.24.17" osisID="1Sam.24.17" />Et factum est, cum consummasset David verba haec loquens ad Saul, dixit Saul, Vox tua haec fili David? Et exclamavit Saul, et ploravit,<verse eID="1Sam.24.17" />
+        <verse sID="1Sam.24.18" osisID="1Sam.24.18" />et dixit ad David, Iustior es tu quam ego, quoniam tu reddidisti mihi bona, ego autem tribui mala tibi.<verse eID="1Sam.24.18" />
+        <verse sID="1Sam.24.19" osisID="1Sam.24.19" />Et renuntiasti mihi hodie quae fecisti mihi bona, sicut conclusit me Dominus in manibus tuis, et non occidisti me.<verse eID="1Sam.24.19" />
+        <verse sID="1Sam.24.20" osisID="1Sam.24.20" />Et sicut inveniat quis amicum suum, et praemittat eum in viam bonam. Et Dominus retribuat tibi bona, pro quibus fecisti mihi hodie.<verse eID="1Sam.24.20" />
+        <verse sID="1Sam.24.21" osisID="1Sam.24.21" />Et nunc ecce ego scio quoniam regnabis, et constituetur in manu tua regnum Israel,<verse eID="1Sam.24.21" />
+        <verse sID="1Sam.24.22" osisID="1Sam.24.22" />et nunc iura tu mihi in Domino, si non eradicabis semen meum post me, et si non exterminabis nomen de domo patris mei.<verse eID="1Sam.24.22" />
+        <verse sID="1Sam.24.23" osisID="1Sam.24.23" />Et iuravit David Saul ...<verse eID="1Sam.24.23" />
+      </p>
+      <chapter eID="1Sam.24" />
+      <chapter sID="1Sam.25" osisID="1Sam.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="1Sam.25.6" osisID="1Sam.25.6" />... Ex multis annis salvos facies tuos, et omnia tua.<verse eID="1Sam.25.6" />
+        <verse sID="1Sam.25.31" osisID="1Sam.25.31" />... et tu benefacies ei.<verse eID="1Sam.25.31" />
+        <verse sID="1Sam.25.32" osisID="1Sam.25.32" />... Benedictus Dominus Deus Israel, qui misit te hodie huc obviam mihi, et benedicti mores tui,<verse eID="1Sam.25.32" />
+        <verse sID="1Sam.25.35" osisID="1Sam.25.35" />... Ascende in pace in domum tuam, vide, iam audivi vocem tuam, et reveritus sum faciem tuam.<verse eID="1Sam.25.35" />
+      </p>
+      <chapter eID="1Sam.25" />
+      <chapter sID="1Sam.26" osisID="1Sam.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="1Sam.26.2" osisID="1Sam.26.2" />Et surrexit Saul, et descendit in desertum opacum, et cum eo tria millia virorum electorum ex Israel, quaerere David ...<verse eID="1Sam.26.2" />
+        <verse sID="1Sam.26.4" osisID="1Sam.26.4" />Et misit David exploratores, et cognovit quoniam venit Saul in Sicelet.<verse eID="1Sam.26.4" />
+        <verse sID="1Sam.26.5" osisID="1Sam.26.5" />Et surrexit David occulte, et abiit in locum ubi dormiebat Saul, et Abner filius Ner, princeps militiae eius, et Saul dormiebat in stragulis praeclaris, et plebs erat circa eum,<verse eID="1Sam.26.5" />
+        <verse sID="1Sam.26.6" osisID="1Sam.26.6" />et David dixit ad Amalech Cethaeum, et Abessa filium Sarviae, fratrem Ioab, dicens, Quis introibit mecum in castris ad Saul? Et dixit Abessa ad David, Ego ibo tecum.<verse eID="1Sam.26.6" />
+        <verse sID="1Sam.26.7" osisID="1Sam.26.7" />Et intraverunt David et Abessa ad populum nocte, et ecce Saul dormiebat in stragulis pretiosis, et lancea fixa ad caput eius praeclara, et Abner dormiebat circa eum.<verse eID="1Sam.26.7" />
+        <verse sID="1Sam.26.8" osisID="1Sam.26.8" />Et dixit Abessa ad David, Conclusit Dominus hodie inimicum tuum in manibus tuis, et nunc hodie occidam de lancea, semel in terram figens, et non repetam illam.<verse eID="1Sam.26.8" />
+        <verse sID="1Sam.26.9" osisID="1Sam.26.9" />Et dixit David ad Abessa, Non continges illum, quoniam quis iniiciet manum suam in christum Domini, et purus erit?<verse eID="1Sam.26.9" />
+        <verse sID="1Sam.26.10" osisID="1Sam.26.10" />Et dixit David, Vivit Dominus, quoniam nisi Dominus percusserit illum, aut nisi hora illius venerit et moriatur, vel in pugnam descenderit et apponatur,<verse eID="1Sam.26.10" />
+        <verse sID="1Sam.26.11" osisID="1Sam.26.11" />mihi autem non sit a Domino iniicere manum in christum Domini, et nunc accipe lanceam, quae est ad caput illius, et lentem aquae, et recedamus nos?<verse eID="1Sam.26.11" />
+        <verse sID="1Sam.26.12" osisID="1Sam.26.12" />Et accepit David lanceam, et lentem aquae a capite eius, et abierunt ipsi, et non erat qui videret, neque qui sciret, et non erat qui vigilaret, omnes enim dormiebant, quoniam timor Domini irruerat in illos.<verse eID="1Sam.26.12" />
+        <verse sID="1Sam.26.13" osisID="1Sam.26.13" />Et transivit David contra, et stetit in cacumine montis longe, et erat magnum iter inter eos,<verse eID="1Sam.26.13" />
+        <verse sID="1Sam.26.14" osisID="1Sam.26.14" />et deprecatus est David populum, et Abner, et locutus est, dicens, Non respondis Abner? Et respondit Abner, et dixit, Quis es tu, qui vocas me? Quid est?<verse eID="1Sam.26.14" />
+        <verse sID="1Sam.26.15" osisID="1Sam.26.15" />Et dixit David ad Abner, Vir tu es, et quis sicut tu in Israel? Quare non custodis dominum tuum regem? Quoniam intravit unus de populo, disperdere dominum tuum regem.<verse eID="1Sam.26.15" />
+        <verse sID="1Sam.26.16" osisID="1Sam.26.16" />Non est bonum hoc, quod fecisti, vivit Dominus, quoniam filii mortificationis vos estis, qui non custodiistis dominum regem vestrum, christum Domini, et nunc vide ubi est lancea regis, et lentis aquae, quae erat ad caput eius.<verse eID="1Sam.26.16" />
+        <verse sID="1Sam.26.17" osisID="1Sam.26.17" />Et cognovit rex Saul vocem David, et dixit, Vox tua haec, fili David? Servus tuus, domine rex.<verse eID="1Sam.26.17" />
+        <verse sID="1Sam.26.18" osisID="1Sam.26.18" />Et adiecit David, Ut quid hoc persequitur dominus meus retro servum suum? Quoniam quid deliqui? Et quae est a me malitia?<verse eID="1Sam.26.18" />
+        <verse sID="1Sam.26.19" osisID="1Sam.26.19" />Et nunc audiat dominus meus rex verba servi, Si Dominus Deus tuus incutit te in meum dolorem, et victimam immolationis, quod si filii hominem, maledicti in conspectu Domini, quoniam eiecerunt me hodie, non confirmatum esse in testamentum Domini, dicentes, Vade, servi diis alienis.<verse eID="1Sam.26.19" />
+        <verse sID="1Sam.26.20" osisID="1Sam.26.20" />Et nunc non cadet sanguis meus in terram ante conspectum Domini, quoniam exiit rex Israel quaerere pulicem unum, sicut persequitur noctua in montibus.<verse eID="1Sam.26.20" />
+        <verse sID="1Sam.26.21" osisID="1Sam.26.21" />Et dixit Saul, Peccavi, converte fili David, quoniam non malignabor in te iam, ideo quoniam anima accepta est ante oculos tuos in diem hunc, in quo stultus factus sum, et ignoravi multa vehementer.<verse eID="1Sam.26.21" />
+        <verse sID="1Sam.26.22" osisID="1Sam.26.22" />Et respondit David, dicens, Ecce lancea regis, accedat unus ex pueris, et accipiat eam.<verse eID="1Sam.26.22" />
+        <verse sID="1Sam.26.23" osisID="1Sam.26.23" />Et Dominus restituat unicuique iustitias et fidem suam, sicut tradidit te hodie in manibus meis, et nolu iniicere manum meam in christum Domini.<verse eID="1Sam.26.23" />
+        <verse sID="1Sam.26.24" osisID="1Sam.26.24" />Ecce sicut exaltavit se anima tua in diem hunc ante oculos meos, sic significetur anima mea in conspectu Domini, et abripiat me, et eruat me ex omnibus tribulationibus.<verse eID="1Sam.26.24" />
+        <verse sID="1Sam.26.25" osisID="1Sam.26.25" />Et dixit Saul ad David, Benedictus tu fili, et faciens, et potens poteris ...<verse eID="1Sam.26.25" />
+      </p>
+      <chapter eID="1Sam.26" />
+    </div>
+  </osisText>
+</osis>

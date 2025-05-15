@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="esdrae-2" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="esdrae-2">
+        <title>esdrae-2</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">esdrae-2</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>esdrae-2</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="esdrae-2">
+      <title>esdrae-2</title>
+      <chapter sID="esdrae-2.2" osisID="esdrae-2.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="esdrae-2.2.20" osisID="esdrae-2.2.20" />... Deus coeli ipse prosperavit nobis, et nos servi eius surgemus, et aedificabimus, vobis autem non est portio, fas, neque mentio in Ierusalem.<verse eID="esdrae-2.2.20" />
+      </p>
+      <chapter eID="esdrae-2.2" />
+      <chapter sID="esdrae-2.3" osisID="esdrae-2.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="esdrae-2.3.3" osisID="esdrae-2.3.3" />Portam vero piscium aedificaverunt filii Asnaa, ipsi texerunt eam, et statuerunt valvas, et seras, et vectes ...<verse eID="esdrae-2.3.3" />
+      </p>
+      <chapter eID="esdrae-2.3" />
+      <chapter sID="esdrae-2.4" osisID="esdrae-2.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="esdrae-2.4.3" osisID="esdrae-2.4.3" />... Nunquid sacrificabunt? An manducabunt in loco suo? Nonne ascendet vulpes, et demoliet muros lapidum eorum?<verse eID="esdrae-2.4.3" />
+        <verse sID="esdrae-2.4.4" osisID="esdrae-2.4.4" />Exaudi nos Deus noster, quia facti sumus contemptibiles, et converte convitia ipsorum in capita ipsorum, et da illos, ut sint in derisu, et in terra captivitatis.<verse eID="esdrae-2.4.4" />
+        <verse sID="esdrae-2.4.5" osisID="esdrae-2.4.5" />Et ne operias iniquitatem ipsorum, et peccata eorum a facie tua non deleantur.<verse eID="esdrae-2.4.5" />
+        <verse sID="esdrae-2.4.16" osisID="esdrae-2.4.16" />Et factum est ex die illa, medii excussorum faciebant opus, et medii eorum habebant hastas, et scuta, et arcus, et thoraces, et principes post omnem domum Iuda,<verse eID="esdrae-2.4.16" />
+        <verse sID="esdrae-2.4.17" osisID="esdrae-2.4.17" />aedificantium in muro ...<verse eID="esdrae-2.4.17" />
+      </p>
+      <chapter eID="esdrae-2.4" />
+      <chapter sID="esdrae-2.5" osisID="esdrae-2.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="esdrae-2.5.12" osisID="esdrae-2.5.12" />Dixerunt, Reddimus, et ab ipsis nihil quaerimus ...<verse eID="esdrae-2.5.12" />
+      </p>
+      <chapter eID="esdrae-2.5" />
+      <chapter sID="esdrae-2.8" osisID="esdrae-2.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="esdrae-2.8.10" osisID="esdrae-2.8.10" />... comedite pinguia, et bibite mustum, et mittite partes eis, qui non praeparaverunt sibi, sanctus enim dies Domini est, nolite contristari, gaudium etenim Domini est fortitudo nostra.<verse eID="esdrae-2.8.10" />
+      </p>
+      <chapter eID="esdrae-2.8" />
+      <chapter sID="esdrae-2.9" osisID="esdrae-2.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="esdrae-2.9.6" osisID="esdrae-2.9.6" />... Tu Dominus, Deus solus, qui fecisti coelum coelorum, et omnes virtutes eorum, terram, et quae in ea, et mare, et quae in eo sunt, et vivificasti omnia, et virtutes coeli te adorant.<verse eID="esdrae-2.9.6" />
+        <verse sID="esdrae-2.9.26" osisID="esdrae-2.9.26" />... desciverunt a te, et abiecerunt legem tuam post dorsum suum, et prophetas tuos interfecerunt, qui obtestabantur eos ut reverterentur ad te ...<verse eID="esdrae-2.9.26" />
+        <verse sID="esdrae-2.9.32" osisID="esdrae-2.9.32" />... tu es Deus fortis, magnus, valens, et metuendus, qui custodis testamentum et misericordiam ...<verse eID="esdrae-2.9.32" />
+      </p>
+      <chapter eID="esdrae-2.9" />
+    </div>
+  </osisText>
+</osis>

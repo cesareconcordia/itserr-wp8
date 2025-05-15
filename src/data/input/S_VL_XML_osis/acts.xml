@@ -1,0 +1,1102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="acts" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="acts">
+        <title>Acts</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">acts</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Acts</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="acts">
+      <title>Acts</title>
+      <chapter sID="acts.1" osisID="acts.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="acts.1.1" osisID="acts.1.1" />Primum quidem sermonem feci de omnibus, ô Theophile, quae coepit Iesus facere, et docere.<verse eID="acts.1.1" />
+        <verse sID="acts.1.2" osisID="acts.1.2" />usque in diem, quo prae cipiens Apostolis per Spiritum sanctum, quos elegit adsumptus est:<verse eID="acts.1.2" />
+        <verse sID="acts.1.3" osisID="acts.1.3" />quibus et praebuit seipsum vivum post passionem suam in multis argumentis, per dies quadraginta apparens eis, et dicens de regno Dei.<verse eID="acts.1.3" />
+        <verse sID="acts.1.4" osisID="acts.1.4" />Et cum conversaretur cum illis, praecepit ab Hierosolymis ne discederent, sed exspectarent promissum Patris, quod audistis a me:<verse eID="acts.1.4" />
+        <verse sID="acts.1.5" osisID="acts.1.5" />quod Iohannes quidem baptizavit aqua, vos autem tinguemini in Spiritu sancto non post multos hos dies.<verse eID="acts.1.5" />
+        <verse sID="acts.1.6" osisID="acts.1.6" />At illi convenientes, interrogabant eum dicentes: Domine, si in tempore hoc restitues regnum * Israel?<verse eID="acts.1.6" />
+        <verse sID="acts.1.7" osisID="acts.1.7" />At ille respondens, dixit eis: Non vestrum est nosse tempora vel momenta, quae Pater posuit in sua potestate;<verse eID="acts.1.7" />
+        <verse sID="acts.1.8" osisID="acts.1.8" />sed * accipietis virtutem, superveniente sancto Spiritu in vos, et eritis mihi testes in Hierusalem, et in omni Iudaca, et Samaria, et usque ad ultimum terrae.<verse eID="acts.1.8" />
+        <verse sID="acts.1.9" osisID="acts.1.9" />Et cum haec dixisset, videntibus ipsis, elevatus est: et nubs suscepit eum ab oculis ipsorum.<verse eID="acts.1.9" />
+        <verse sID="acts.1.10" osisID="acts.1.10" />Et cum tenderent in coelum, eunte illo, et ecce viri duo adstiterunt eis in veste alba,<verse eID="acts.1.10" />
+        <verse sID="acts.1.11" osisID="acts.1.11" />qui et dixerunt: Viri Galilaei, quid statis aspicentes in coelum? hic Iesus, qui receptus est a vobis in coelum, sic veniet, quemadmodum vidistis illum euntem in coelum.<verse eID="acts.1.11" />
+        <verse sID="acts.1.12" osisID="acts.1.12" />Tunc regressi sunt in Hierosolyma, a monte, qui dicitur Oliveti, qui est iuxta Hierusalem, sabbati habens iter.<verse eID="acts.1.12" />
+        <verse sID="acts.1.13" osisID="acts.1.13" />Et cum introissent, ascenderunt in superiora, ubi erant habitantes Petrus etiam et Andreas, et Iacobus, et Iohannes, Philippus et Thomas, Bartholomaeus et Mattheus, Iacobus Alphei, et Simon Zelotes, et Iudas Iacobi:<verse eID="acts.1.13" />
+        <verse sID="acts.1.14" osisID="acts.1.14" />hi omnes erant perseverantes unanimes orationi cum mulieribus, et Maria, quae fuit mater Iesu, et cum fratribus ipsius.<verse eID="acts.1.14" />
+        <verse sID="acts.1.15" osisID="acts.1.15" />In diebus autem illis surgens Petrus in medio discipulorum, dixit (erant autem turba virorum simul, quasi centum viginti.<verse eID="acts.1.15" />
+        <verse sID="acts.1.16" osisID="acts.1.16" />Viri fratres, oportebat impleri Scripturam hanc, quam praedixit Spiritus sanctus per os David de Iuda, qui fuit dux eorum, qui comprehenderunt Iesum:<verse eID="acts.1.16" />
+        <verse sID="acts.1.17" osisID="acts.1.17" />quia connumeratus erat inter nos, et sortitus est sortem ministerii huius.<verse eID="acts.1.17" />
+        <verse sID="acts.1.18" osisID="acts.1.18" />Hic igitur adquisivit agrum de mercede iniquitatis, et pronus factus crepuit medius: et diffusa sunt omnia viscera eius.<verse eID="acts.1.18" />
+        <verse sID="acts.1.19" osisID="acts.1.19" />Et notum factum est omnibus habitantibus Hierusalem, ita ut vocaretur ager ille, ipsorum lingua, Aceldamas, hoc est, ager sanguinis.<verse eID="acts.1.19" />
+        <verse sID="acts.1.20" osisID="acts.1.20" />Scriptum est enim in libro Psalmorum: Fiat ager illius desertus, et non sit qui * inhabitet in eo: et episcopatum illius accipiat alter.<verse eID="acts.1.20" />
+        <verse sID="acts.1.21" osisID="acts.1.21" />Oportet ergo ex his, qui convenerunt nobis * cum, viris, in omni tempore in quo * intravit et exiit inter nos Dominus Iesus.<verse eID="acts.1.21" />
+        <verse sID="acts.1.22" osisID="acts.1.22" />incipiens a baptismo Iohannis usque in diem, quo adsumptus a nobis, testem resurrectionis eius fieri nobiscum unum ex his.<verse eID="acts.1.22" />
+        <verse sID="acts.1.23" osisID="acts.1.23" />Et his dictis, statuerunt duos, Ioseph, qui vocabatur Barsabban, qui cognominatus est Iustus, et Matthiam.<verse eID="acts.1.23" />
+        <verse sID="acts.1.24" osisID="acts.1.24" />Et orantes dixerunt: Tu Domine, qui corda nosti omnium, ostende, quem elegeris ex his duobus unum,<verse eID="acts.1.24" />
+        <verse sID="acts.1.25" osisID="acts.1.25" />accipere sortem ministeri huius, et apostolatus, de quo praevaricatus est Iudas are in locum suum.<verse eID="acts.1.25" />
+        <verse sID="acts.1.26" osisID="acts.1.26" />Et dederunt fortes eorum, et cecidit sors super Matthiam, et connumeratus est cum unde cim Apostolis.<verse eID="acts.1.26" />
+      </p>
+      <chapter eID="acts.1" />
+      <chapter sID="acts.2" osisID="acts.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="acts.2.1" osisID="acts.2.1" />Et cum compleretur dies Pentecostes, erant id in ipsum simul:<verse eID="acts.2.1" />
+        <verse sID="acts.2.2" osisID="acts.2.2" />Et factus est repente de caelo sonus, velut advenientis spiritus violentis, et implevit omnem domum ubi erant sedentes.<verse eID="acts.2.2" />
+        <verse sID="acts.2.3" osisID="acts.2.3" />Et apparuerunt eis divisae linguae sicut ignis: sedit autem super unumquemque eorum:<verse eID="acts.2.3" />
+        <verse sID="acts.2.4" osisID="acts.2.4" />et repleti sunt omnes Spiritu sancto, et coeperunt loqui aliis linguis, sicut Spiritus sanctus dabat eis nunciare.<verse eID="acts.2.4" />
+        <verse sID="acts.2.5" osisID="acts.2.5" />Erant autem in Hierusalem Iudaei habitantes, viri timorati ex omni natione, quae sunt sub coelo.<verse eID="acts.2.5" />
+        <verse sID="acts.2.6" osisID="acts.2.6" />Cum autem facta esset vox haec, congregata est multitudo, et confusa est, quia audiebant unusquisque sua lingua loquentes illos.<verse eID="acts.2.6" />
+        <verse sID="acts.2.7" osisID="acts.2.7" />Stupebant autem omnes, et mirabantur, dicentes ad invicem: Nonne ecce omnes hi sunt, qui loquuntur, Galilaei,<verse eID="acts.2.7" />
+        <verse sID="acts.2.8" osisID="acts.2.8" />et quomodo nos unusquisque audimus propriâ nostrâ linguâ, in qua nati sumus?<verse eID="acts.2.8" />
+        <verse sID="acts.2.9" osisID="acts.2.9" />Parthi, et Medi, et Haelamitae, et qui inhabitant Mesopotamiam, Iudaeam quoque, et Cappadociam, Pontum, et Asiam,<verse eID="acts.2.9" />
+        <verse sID="acts.2.10" osisID="acts.2.10" />Phrygiam quoque, et Pamphyliam, Aegyptum, et partes* Libyae, quae secus Cyrenen, et peregrinantes Romani,<verse eID="acts.2.10" />
+        <verse sID="acts.2.11" osisID="acts.2.11" />Iudaei quoque, et Advenae, Cretes, et Arabes: audivimus loquentes eos nostris linguis magnalia Dei.<verse eID="acts.2.11" />
+        <verse sID="acts.2.12" osisID="acts.2.12" />Stupebant autem omnes, et confundebantur alius ad alium dicentes: Quidnam vult hoc esse?<verse eID="acts.2.12" />
+        <verse sID="acts.2.13" osisID="acts.2.13" />Alii vero incidentes dicebant: Quia musto repleti sunt.<verse eID="acts.2.13" />
+        <verse sID="acts.2.14" osisID="acts.2.14" />Stans autem Petrus cum undecim, levavit vocem suam prior, et locutus est eis: Viri Iudaei, et qui habitatis Hierusalem omnes, hoc vobis notum sit, et auribus percipite verba mea.<verse eID="acts.2.14" />
+        <verse sID="acts.2.15" osisID="acts.2.15" />Non enim, sicut vos aestimatis, hi ebrii sunt, cum sit hora tertia diei:<verse eID="acts.2.15" />
+        <verse sID="acts.2.16" osisID="acts.2.16" />sed hoc est, quod dictum est per prophetam Iohel:<verse eID="acts.2.16" />
+        <verse sID="acts.2.17" osisID="acts.2.17" />Et erit in novissimis diebus (dicit Dominus) effundam de Spiritu meo super omnem carnem: et prophetabunt filii vestri, et filiae vestrae: et iuvenes vestri visiones videbunt, et seniores somnia somniabuntur.<verse eID="acts.2.17" />
+        <verse sID="acts.2.18" osisID="acts.2.18" />Et quidem super servos meos, et super ancillas meas, in diebus illis effundam de Spiritu meo, et prophetabunt:<verse eID="acts.2.18" />
+        <verse sID="acts.2.19" osisID="acts.2.19" />et dabo prodigia in coelo sursum, et signa super terram deorsum, sanguinem, et ignem, et vaporem fumi.<verse eID="acts.2.19" />
+        <verse sID="acts.2.20" osisID="acts.2.20" />Sol convertetur in tenebras, et luna in sanguinem, priusquam venit dies Domini magnus et praeclarus.<verse eID="acts.2.20" />
+        <verse sID="acts.2.21" osisID="acts.2.21" />Et erit: omnis quicunque invocaverit nomen Domini, salvus erit.<verse eID="acts.2.21" />
+        <verse sID="acts.2.22" osisID="acts.2.22" />Viri Israelitae, audite verba haec: Iesum Nazorenum, virum a Deo designatum in vobis virtutibus, et prodigiis, et signis, quae fecit Deus per eum in medio vestrum, sicut vos omnes scitis:<verse eID="acts.2.22" />
+        <verse sID="acts.2.23" osisID="acts.2.23" />hunc constituto consilio, et providentia Dei * editum accipientes, per manus iniquorum adfigentes occidistis:<verse eID="acts.2.23" />
+        <verse sID="acts.2.24" osisID="acts.2.24" />quem Deus suscitavit, solvens per ipsum dolores inferni, propter quod non erat possibile detineri illum ab eo.<verse eID="acts.2.24" />
+        <verse sID="acts.2.25" osisID="acts.2.25" />David enim dicit in illum: Providebam Dominum ante me semper: quia in dextris meis est ut non commovear:<verse eID="acts.2.25" />
+        <verse sID="acts.2.26" osisID="acts.2.26" />Propterea laetatum est cor meum, et exsultavit lingua mea, insuper et caro mea inhabitavit in spe:<verse eID="acts.2.26" />
+        <verse sID="acts.2.27" osisID="acts.2.27" />Quia non derelinques animam meam in inferno, neque dabis Sanctum tuum videre corruptionem.<verse eID="acts.2.27" />
+        <verse sID="acts.2.28" osisID="acts.2.28" />Demonstrasti mihi vias vitae : replebis me laetitia cum facie tua.<verse eID="acts.2.28" />
+        <verse sID="acts.2.29" osisID="acts.2.29" />Viri fratres, liceat mihi dicere cum fiducia ad vos de patriarcha David, quia et defunctus est, et sepultus est: et monumentum eius est apud nos usque in diem hunc.<verse eID="acts.2.29" />
+        <verse sID="acts.2.30" osisID="acts.2.30" />Propheta ergo cum esset, et sciens quia iureiurando iuravit ei Deus ex fructu lumbi eius suscitare Christum, et sedere super thronum eius:<verse eID="acts.2.30" />
+        <verse sID="acts.2.31" osisID="acts.2.31" />providens locutus est de resurrectione Christi, quia neque derelicta est anima eius in inferno, neque caro eius vidit corruptionem.<verse eID="acts.2.31" />
+        <verse sID="acts.2.32" osisID="acts.2.32" />Hunc ergo Iesum suscitavit Deus, cuius omnes nos sumus testes.<verse eID="acts.2.32" />
+        <verse sID="acts.2.33" osisID="acts.2.33" />Dextera igitur Dei exaltatus, et repromissionem Spiritus sancti accipiens a Patre, effundit hoc donum, quod nunc vos videtis, et auditis.<verse eID="acts.2.33" />
+        <verse sID="acts.2.34" osisID="acts.2.34" />Non enim David ascendit in coelos: dicit autem ipse: Dixit Dominus Domino meo, sede a dextris meis<verse eID="acts.2.34" />
+        <verse sID="acts.2.35" osisID="acts.2.35" />donec ponam inimicos tuos scabellum pedum tuorum.<verse eID="acts.2.35" />
+        <verse sID="acts.2.36" osisID="acts.2.36" />Diligenter igitur sciat omnis domus Israel, quia et Dominum, et Christum eum Deus fecit, hunc Iesum, quem vos crucifixistis.<verse eID="acts.2.36" />
+        <verse sID="acts.2.37" osisID="acts.2.37" />Audientes autem, compuncti sunt corde. et dixerunt ad Petrum, et ad caeteros Apostolos: quid faciemus, viri fratres? monstrate nobis.<verse eID="acts.2.37" />
+        <verse sID="acts.2.38" osisID="acts.2.38" />Petrus autem ait ad illos: Poenitemini, et baptizetur unusquisque vestrum in nomine Domini Iesu Christi, in remissionem peccatorum: et accipietis donum sancti Spiritus.<verse eID="acts.2.38" />
+        <verse sID="acts.2.39" osisID="acts.2.39" />Vobis enim est repromissio, et filiis vestris et omnibus, qui longe sunt, quoscunque advocaverit Dominus Deus noster.<verse eID="acts.2.39" />
+        <verse sID="acts.2.40" osisID="acts.2.40" />Aliis etiam verbis plurimis testificatus est. et exhortabatur, dicens: Salvamini a generatione prava ista.<verse eID="acts.2.40" />
+        <verse sID="acts.2.41" osisID="acts.2.41" />Illi quidem libenter recipientes verbum eius, baptizati sunt: et obiectae sunt die illa animae quasi tria millia.<verse eID="acts.2.41" />
+        <verse sID="acts.2.42" osisID="acts.2.42" />Erant autem adstantes doctrinae Apostolorum, et communicationi et fractioni panis, et orationibus.<verse eID="acts.2.42" />
+        <verse sID="acts.2.43" osisID="acts.2.43" />Facta est autem omni animae timor: multa quoque prodigia, et signa non minima per manus Apostolorum fiebant in Hierusalem.<verse eID="acts.2.43" />
+        <verse sID="acts.2.44" osisID="acts.2.44" />Omnes autem, qui credebant, erant in unum, et habebant omnia communia.<verse eID="acts.2.44" />
+        <verse sID="acts.2.45" osisID="acts.2.45" />Et possessiones, et substantias vendebant, et dividebant illa omnibus, prout cui opus erat.<verse eID="acts.2.45" />
+        <verse sID="acts.2.46" osisID="acts.2.46" />Quotidie quoque perseverabant unanimes in templo: frangentes quoque circa domos panem, percibiebant cibum cum laetitia et simplicitate cordis,<verse eID="acts.2.46" />
+        <verse sID="acts.2.47" osisID="acts.2.47" />laudantes Deum, et habentes gratiam ad universum populum. Dominus autem adiiciebat, qui salvi fierent quotidie Ecclesiae.<verse eID="acts.2.47" />
+      </p>
+      <chapter eID="acts.2" />
+      <chapter sID="acts.3" osisID="acts.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="acts.3.1" osisID="acts.3.1" />Id in ipsum autem Petrus, et Iohannes ascendebant in templum ad horam orationis nonam.<verse eID="acts.3.1" />
+        <verse sID="acts.3.2" osisID="acts.3.2" />Et quidam vir, claudus ex utero matris suae constitutus, portabatur: quem ponebant quotidie ad ianuam templi, quae dicitur Speciosa, ut peteret eleemosynam ab introeuntibus in templum.<verse eID="acts.3.2" />
+        <verse sID="acts.3.3" osisID="acts.3.3" />Qui cum vidisset Petrum, et Iohannem incipientes introire in templum, rogabat eleemosynam accipere ab eis.<verse eID="acts.3.3" />
+        <verse sID="acts.3.4" osisID="acts.3.4" />Intuens autem Petrus in eum cum Iohanne, dixit: Respice in nobis.<verse eID="acts.3.4" />
+        <verse sID="acts.3.5" osisID="acts.3.5" />Qui respexit eos, sperans se accepturum aliquid ab eis.<verse eID="acts.3.5" />
+        <verse sID="acts.3.6" osisID="acts.3.6" />Dixit autem Petrus: Argentum et aurum non est mihi: quod autem habeo, hoc tibi do: In nomine Iesu Christi Nazoraei surge, et ambula.<verse eID="acts.3.6" />
+        <verse sID="acts.3.7" osisID="acts.3.7" />Et adprehendentes eum dextera manu, elevavit: confestim autem confirmati sunt eius gressi, et plantae.<verse eID="acts.3.7" />
+        <verse sID="acts.3.8" osisID="acts.3.8" />Et exsiliens stetit, et ambulabat gaudens: et introiit una cum illis in templum ambulans, et exsiliens, et collaudans Deum.<verse eID="acts.3.8" />
+        <verse sID="acts.3.9" osisID="acts.3.9" />Et vidit eum omnis populus ambulantem, et laudantem Deum.<verse eID="acts.3.9" />
+        <verse sID="acts.3.10" osisID="acts.3.10" />Cognoscebant autem eum, quoniam hic erat, qui ad eleemosynam sedebat ad Speciosam portam templi: et repleti sunt stupore et admiratione in eo, quod attigit ei.<verse eID="acts.3.10" />
+        <verse sID="acts.3.11" osisID="acts.3.11" />* Tenente autem eo Petrum, et Iohannem, concurrit ad eos omnis populus in porticum, qui vocatur Salomonis, cum admiratione.<verse eID="acts.3.11" />
+        <verse sID="acts.3.12" osisID="acts.3.12" />Videns autem Petrus, respondit ad populum: Viri Israelitae, quid admiramini super isto aut nobis quid intenditis, quasi nostra virtute aut pietate fecerimus ambulare hunc?<verse eID="acts.3.12" />
+        <verse sID="acts.3.13" osisID="acts.3.13" />Deus Abraham, et Isaac, et Iacob, Deus patrum nostrorum, glorificavit puerum suum Iesum, quem vos quidem tradidistis in iudicium, et abnegastis eum ante faciem Pilati, cum iudicaret ille dimittere.<verse eID="acts.3.13" />
+        <verse sID="acts.3.14" osisID="acts.3.14" />Vos vero sanctum, et iustum negastis, et magis petistis virum homicidam vivere, et donari vobis:<verse eID="acts.3.14" />
+        <verse sID="acts.3.15" osisID="acts.3.15" />principem autem vitae interfecistis, quem Deus suscitavit a mortuis, cuius nos testes sumus.<verse eID="acts.3.15" />
+        <verse sID="acts.3.16" osisID="acts.3.16" />Et in fide nominis eius, hunc, quem videtis, et nostis, confirmavit nomen eius: et fides, quae per eum, dedit ei integritatem hanc in conspectu omnium vestrum.<verse eID="acts.3.16" />
+        <verse sID="acts.3.17" osisID="acts.3.17" />Et nunc, viri fratres, scio quia per ignorantiam egistis, sicut et principes vestri.<verse eID="acts.3.17" />
+        <verse sID="acts.3.18" osisID="acts.3.18" />Deus autem, quae praenuntiavit per os omnium prophetarum, pati Christum suum, implevit sic.<verse eID="acts.3.18" />
+        <verse sID="acts.3.19" osisID="acts.3.19" />Poenitemini ergo, et revertimini, ut deleantur vestra peccata:<verse eID="acts.3.19" />
+        <verse sID="acts.3.20" osisID="acts.3.20" />ut cum venerint tempora refrigerii vobis a conspectu Domini, et miserit, qui praedestinatus est vobis, Christum Iesum,<verse eID="acts.3.20" />
+        <verse sID="acts.3.21" osisID="acts.3.21" />quem oportet coelum quidem recipere usque ad temporum restitutionem omnium, quae locutus est Deus per os omnium sanctorum a saeculo suorum prophetarum.<verse eID="acts.3.21" />
+        <verse sID="acts.3.22" osisID="acts.3.22" />Moses quidem dixit ad patres vestros: Quia Prophetam vobis * suscitabit Dominus Deus noster de fratribus vestris, tanquam me, ipsum audietis secundum omnia quaecunque locutus fuerit ad vos.<verse eID="acts.3.22" />
+        <verse sID="acts.3.23" osisID="acts.3.23" />Erik autem: omnis anima, quaecunque non audierit Prophetam illum, exterminabitur de populo.<verse eID="acts.3.23" />
+        <verse sID="acts.3.24" osisID="acts.3.24" />Et omnes autem prophetae a Samuel, et per ordinem, quicunque locuti sunt, et adnuntiaverunt dies istos.<verse eID="acts.3.24" />
+        <verse sID="acts.3.25" osisID="acts.3.25" />Vos estis filii prophetarum, et testamenti, quod disposuit Deus ad patres vestros, dicens ad Abraham: Et semine tuo benedicentur omnes patriae terrae.<verse eID="acts.3.25" />
+        <verse sID="acts.3.26" osisID="acts.3.26" />Vobis primum Deus resuscitans Filium suum, misit eum benedicentem vos, in avertendo unumquemque a nequitiis vestris.<verse eID="acts.3.26" />
+      </p>
+      <chapter eID="acts.3" />
+      <chapter sID="acts.4" osisID="acts.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="acts.4.1" osisID="acts.4.1" />Loquentibus autem illis ad populum haec verba, adstiterunt eis sacerdotes, et praepositus templi, et Sadducaei<verse eID="acts.4.1" />
+        <verse sID="acts.4.2" osisID="acts.4.2" />indignantes propter quod docerent* ei populum, et praedicarent in Iesum resurrectionem mortuorum:<verse eID="acts.4.2" />
+        <verse sID="acts.4.3" osisID="acts.4.3" />et iniiciebant eis manus, et posuerunt eos in custodiam in crastinum: erat enim vespera iam.<verse eID="acts.4.3" />
+        <verse sID="acts.4.4" osisID="acts.4.4" />Multi autem, qui audierunt verbum, crediderunt: et factus est numerus virorum quasi quinque millia.<verse eID="acts.4.4" />
+        <verse sID="acts.4.5" osisID="acts.4.5" />Factum est autem in crastinum, convenire eorum principes, et seniores, et * scribas in Hierusalem;<verse eID="acts.4.5" />
+        <verse sID="acts.4.6" osisID="acts.4.6" />et Annam * principem sacerdotum, et Caiafam, et Iohannem, et Alexandrum, et quot erant ex genere sacerdotali.<verse eID="acts.4.6" />
+        <verse sID="acts.4.7" osisID="acts.4.7" />Et statuentes eos in medio, interrogabant: In qua virtute, aut in quo nomine hoc fecistis vos?<verse eID="acts.4.7" />
+        <verse sID="acts.4.8" osisID="acts.4.8" />Tunc Petrus repletus Spiritu sancto, dixit ad eos: Principes populi, et seniores Israel, audite:<verse eID="acts.4.8" />
+        <verse sID="acts.4.9" osisID="acts.4.9" />Si nos hodie iudicamur a vobis in benefacto hominis languidi, in quo hic sanatus sit<verse eID="acts.4.9" />
+        <verse sID="acts.4.10" osisID="acts.4.10" />notum sit omnibus vobis, et omni populo Israel: quia in nomine Domini Iesu Christi Nazoraei, quem vos Amcifixistis quem Deus suscitavit a mortuis, in hoc iste adstat coram vos hodie sanus, et in alio nullo.<verse eID="acts.4.10" />
+        <verse sID="acts.4.11" osisID="acts.4.11" />Hic est lapis, qui reprobatus est a vobis aedificantibus, qui factus est in caput anguli:<verse eID="acts.4.11" />
+        <verse sID="acts.4.12" osisID="acts.4.12" />et non est in alio * ullo salus. Nec enim nomen aliud est sub coelum datum in hominibus, in quo oportet salvos fieri nos.<verse eID="acts.4.12" />
+        <verse sID="acts.4.13" osisID="acts.4.13" />Videntes autem Petri fiduciam, et Iohannis, et comperti quoniam homines inlitterati essent, et privati, mirabantur: cognoscebant autem eos quia cum Iesu erant:<verse eID="acts.4.13" />
+        <verse sID="acts.4.14" osisID="acts.4.14" />hominem quoque videntes cum eis stantem, qui sanatus fuerat, nihil habebant contra dicere.<verse eID="acts.4.14" />
+        <verse sID="acts.4.15" osisID="acts.4.15" />Iubentes autem eos foras consilii abire, conferebant invicem,<verse eID="acts.4.15" />
+        <verse sID="acts.4.16" osisID="acts.4.16" />dicentes : Quid faciemus hominibus istis? quoniam quidem notum signum factum est * per eos, omnibus habitantibus Hierusalem: manifestum, et non possumus negare.<verse eID="acts.4.16" />
+        <verse sID="acts.4.17" osisID="acts.4.17" />Sed ut ne amplius * serpant in plebem verba ista, minis minemur eis, ne ultra loquantur in nomine isto ulli hominum.<verse eID="acts.4.17" />
+        <verse sID="acts.4.18" osisID="acts.4.18" />Et arcessientes eos, praeceperunt omnino ut non loquerentur, neque docerent in nomine Iesu.<verse eID="acts.4.18" />
+        <verse sID="acts.4.19" osisID="acts.4.19" />Petrus autem, et Iohannes respondentes, dixerunt ad eos: Si hoc vobis iustum videtur ante conspectum Dei, vobis magis obaudire quam Deum, iudicate:<verse eID="acts.4.19" />
+        <verse sID="acts.4.20" osisID="acts.4.20" />non possumus enim nos ea, quae vidimus et audivimus, non loqui.<verse eID="acts.4.20" />
+        <verse sID="acts.4.21" osisID="acts.4.21" />At illi autem administantes dimiserunt eos: nihil invenientes quomodo punirent eos, timentes populum: omnes enim gloriabant Deum in facto isto.<verse eID="acts.4.21" />
+        <verse sID="acts.4.22" osisID="acts.4.22" />Annorum enim erat homo amplius quadraginta, in quo factum est signum hoc sanitatis.<verse eID="acts.4.22" />
+        <verse sID="acts.4.23" osisID="acts.4.23" />Illi autem dimissi venerunt ad suos: et annuntiaverunt quanta ad eos seniores, et principes sacerdotum dixerunt.<verse eID="acts.4.23" />
+        <verse sID="acts.4.24" osisID="acts.4.24" />Qui cum audissent, unanimiter sustulerunt vocem suam ad Deum, et dixerunt: Domine, tu Deus fecisti coelum, et terram, et mare, et omnia, quae in illis sunt:<verse eID="acts.4.24" />
+        <verse sID="acts.4.25" osisID="acts.4.25" />* qui patris nostri per Spiritum sanctum os David, pueri tui, dicens : Ut quid fremuerunt Gentes, et populi meditati sunt inania?<verse eID="acts.4.25" />
+        <verse sID="acts.4.26" osisID="acts.4.26" />Adstiterunt reges terrae, et principes convenerunt in unum, adversus Dominum, et adversus Christum eius?<verse eID="acts.4.26" />
+        <verse sID="acts.4.27" osisID="acts.4.27" />convenerunt enim vere in civitate hac super sanctum filium tuum Iesum, quem unxisti, Herodes quoque, et Pontius Pilatus, cum Gentibus, et populo Israel<verse eID="acts.4.27" />
+        <verse sID="acts.4.28" osisID="acts.4.28" />facere quanta manus tua, et consilium * tuum praefinivit fieri.<verse eID="acts.4.28" />
+        <verse sID="acts.4.29" osisID="acts.4.29" />Et nunc Domine respice super minas eorum, et da servis tuis cum omni fiducia loqui verbum tuum<verse eID="acts.4.29" />
+        <verse sID="acts.4.30" osisID="acts.4.30" />in eo quod manum tuam extendes in sanitatem, et signa, et prodigia fieri per nomen sancti pueri tui Iesu.<verse eID="acts.4.30" />
+        <verse sID="acts.4.31" osisID="acts.4.31" />Et precatis eis, motus est locus, in quo erant congregati: et repleti sunt omnes Spiritu sancto, et loquebantur verbum Dei cum fiducia omni volenti credere.<verse eID="acts.4.31" />
+        <verse sID="acts.4.32" osisID="acts.4.32" />Multitudinis autem credentium erat cor et anima una, et non erat separatio in eis ulla: nec quisquam aliquid ex* bonis suis dicebat suum esse, sed erant eis omnia communia.<verse eID="acts.4.32" />
+        <verse sID="acts.4.33" osisID="acts.4.33" />Et magna virtute reddebant Apostoli testimonium de resurrectione Domini Iesu Christi: gratia quoque magna erat super omnes eos.<verse eID="acts.4.33" />
+        <verse sID="acts.4.34" osisID="acts.4.34" />Nec enim indigens aliquis erat in eis. Quotquot enim possessores praediorum aut domorum erant, vendentes adferebant pretia venalium,<verse eID="acts.4.34" />
+        <verse sID="acts.4.35" osisID="acts.4.35" />et ponebant ante pedes Apostolorum. Dividebatur autem unicuique prout quique opus habebat.<verse eID="acts.4.35" />
+        <verse sID="acts.4.36" osisID="acts.4.36" />Ioseph autem, qui cognominatus est Barnabas ab Apostolis (quod est interpretatum Filius obsecrationis) Levites, Cyprius natione<verse eID="acts.4.36" />
+        <verse sID="acts.4.37" osisID="acts.4.37" />constituto ei praedio, vendens attulit pecuniam, et posuit ad pedes Apostolorum.<verse eID="acts.4.37" />
+      </p>
+      <chapter eID="acts.4" />
+      <chapter sID="acts.5" osisID="acts.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="acts.5.1" osisID="acts.5.1" />In eodem autem tempore, vir quidam Ananias nomine, cum Sapphira uxore sua, vendidit possessionem,<verse eID="acts.5.1" />
+        <verse sID="acts.5.2" osisID="acts.5.2" />et fraudavit de pretio, consciente et uxore sua: et adferens partem aliquam, ante pedes apostolorum posuit.<verse eID="acts.5.2" />
+        <verse sID="acts.5.3" osisID="acts.5.3" />Dixit autem ad illum Petrus: Anania, quare implevit satanas cor tuum, mentiri te in Spiritum sanctum, et usurpare de pretio possessionis?<verse eID="acts.5.3" />
+        <verse sID="acts.5.4" osisID="acts.5.4" />Nonne manens tibi manebat, et venditum in tua potestate erat? Quid utique posuisti in corde tuo rem hanc? Non es mentitus hominibus sed Deo.<verse eID="acts.5.4" />
+        <verse sID="acts.5.5" osisID="acts.5.5" />Statimque audiens Ananias verba haec, cecidit, et exspiravit. Et factus est timor magnus super omnes audientes haec.<verse eID="acts.5.5" />
+        <verse sID="acts.5.6" osisID="acts.5.6" />Surgentes autem protinus adolescentes, collexerunt eum, et traducentes sepelierunt.<verse eID="acts.5.6" />
+        <verse sID="acts.5.7" osisID="acts.5.7" />Factum est autem quasi horarum trium intervallum, et uxor ipsius, ignorans quod factum esset, introivit.<verse eID="acts.5.7" />
+        <verse sID="acts.5.8" osisID="acts.5.8" />Ad quam Petrus ait: Dic mihi, si tanti agrum vendidistis? Illa autem dixit: Etiam tanti.<verse eID="acts.5.8" />
+        <verse sID="acts.5.9" osisID="acts.5.9" />Dixit autem Petrus ad eam: Quid utique convenit vobis tentare Spiritum Domini? Ecce pedes eorum, qui sepelierunt maritum tuum, stant ad ostium; et efferent te.<verse eID="acts.5.9" />
+        <verse sID="acts.5.10" osisID="acts.5.10" />Cecidit autem confestim ante pedes eius, et exspiravit. Ingressi autem adolescentes, invenerunt eam mortuam, et efferentes sepelierunt ad maritum suum.<verse eID="acts.5.10" />
+        <verse sID="acts.5.11" osisID="acts.5.11" />Et factus est timor magnus in omnem ecclesiam, et in omnes, qui audiebant haec.<verse eID="acts.5.11" />
+        <verse sID="acts.5.12" osisID="acts.5.12" />Per manus autem Apostolorum fiebant signa, et prodigia multa in populo. Et erant unanimiter omnes in templo congregati, in portico Solomonis.<verse eID="acts.5.12" />
+        <verse sID="acts.5.13" osisID="acts.5.13" />Caeterorum vero nemo audebat coniugere eis: sed magnificabat eos plebs.<verse eID="acts.5.13" />
+        <verse sID="acts.5.14" osisID="acts.5.14" />Magis autem adiiciebantur credentes Domino, multitudo virorum quoque, et mulierum<verse eID="acts.5.14" />
+        <verse sID="acts.5.15" osisID="acts.5.15" />ita ut in plateis eiicerent aegrotos, et ponerent ante eos in lectulis et * grabatis, ut, veniente petro, vel umbra eius obumbraret alicui eorum, et liberarentur ab omni valetudine, quam habebant.<verse eID="acts.5.15" />
+        <verse sID="acts.5.16" osisID="acts.5.16" />Quamobrem concurrebat et multitudo coniunctarum civitatum in Ierusalem, adferentes secum infirmos, et vexatos a spiritibus immundis: qui curabantur universi.<verse eID="acts.5.16" />
+        <verse sID="acts.5.17" osisID="acts.5.17" />Et haec videns, exsurgens princeps sacerdotum, et omnes, qui cum eo (constituta haeresis Sadducaeorum) repleti sunt zelo:<verse eID="acts.5.17" />
+        <verse sID="acts.5.18" osisID="acts.5.18" />et iniecerunt manus suas in Apostolos, et posuerunt eos in custodia publica.<verse eID="acts.5.18" />
+        <verse sID="acts.5.19" osisID="acts.5.19" />Angelus autem Domini per noctem aperuit ostia carceris, cumque eduxisset eos, dixit:<verse eID="acts.5.19" />
+        <verse sID="acts.5.20" osisID="acts.5.20" />Item, et stantes loquimini in templo plebi omnia verba vitae huius.<verse eID="acts.5.20" />
+        <verse sID="acts.5.21" osisID="acts.5.21" />Exeuntes autem de carcere, introierunt diluculo in templo, et docebant. Adveniens autem princeps sacerdotum, et qui cum eo erant, * convocaverunt concilium, et omnes seniores filiorum Israel: et miserunt in carcerem, adducere eos.<verse eID="acts.5.21" />
+        <verse sID="acts.5.22" osisID="acts.5.22" />Ministri autem advenientes, non invenerunt eos in carcerem: reversi autem pronunciaverunt,<verse eID="acts.5.22" />
+        <verse sID="acts.5.23" osisID="acts.5.23" />dicentes: Quoniam carcerem invenimus clausum cum omni diligentia, et custodes stantes ad ostium: aperientes autem intus neminem invenimus.<verse eID="acts.5.23" />
+        <verse sID="acts.5.24" osisID="acts.5.24" />Ut autem audierunt verba haec sacerdotes et magistratus templi, et principes sacerdotum. mirari coeperunt, et confundebantur mente de his, quidnam vult esse hoc.<verse eID="acts.5.24" />
+        <verse sID="acts.5.25" osisID="acts.5.25" />Adveniens autem quidam nunciavit eis: Quia ecce viri, quos posuistis in carcere, sunt in templo stantes, et docentes plebem.<verse eID="acts.5.25" />
+        <verse sID="acts.5.26" osisID="acts.5.26" />Tunc abiit magistratus in templo cum ministris, * et adduxit eos non cum vi: timebant enim populum ne lapidarentur.<verse eID="acts.5.26" />
+        <verse sID="acts.5.27" osisID="acts.5.27" />Cum autem adduxissent eos, statuerunt in concilio: Et interrogavit eos princeps sacerdotum,<verse eID="acts.5.27" />
+        <verse sID="acts.5.28" osisID="acts.5.28" />dicens : Nonne praecipiendo praecepimus vobis ne doceatis in nomine hoc? et ecce replestis Ierusalem doctrinae vestrae: et vultis inducere super nos sanguinem hominis huius.<verse eID="acts.5.28" />
+        <verse sID="acts.5.29" osisID="acts.5.29" />Respondens autem Petrus, et Apostoli dixerunt: Obedire oportet Deo magis, an hominibus?<verse eID="acts.5.29" />
+        <verse sID="acts.5.30" osisID="acts.5.30" />Deus patrum nostrum suscitavit puerum suum Iesum, quem vos interemistis, suspendentes in ligno.<verse eID="acts.5.30" />
+        <verse sID="acts.5.31" osisID="acts.5.31" />Hunc Deus principem, et salvatorem exaltavit dextera sua, dare poenitentiam Israel, et remissionem peccatorum:<verse eID="acts.5.31" />
+        <verse sID="acts.5.32" osisID="acts.5.32" />Et nos sumus eius testes horum verborum, et Spiritum autem Sanctum, quem dedit Deus oboedientibus sibi.<verse eID="acts.5.32" />
+        <verse sID="acts.5.33" osisID="acts.5.33" />At illi audientes haec, dissecabantur, et cogitabant interficere eos.<verse eID="acts.5.33" />
+        <verse sID="acts.5.34" osisID="acts.5.34" />Surgens autem quidam de concilio eorum Pharisaeus, nomine Gamalihel, legisdoctor honorabilis universae plebi, iussit foras modicum Apostolos fieri:<verse eID="acts.5.34" />
+        <verse sID="acts.5.35" osisID="acts.5.35" />dixit autem ad eos: Viri Israelitae, attendite * vobis ipsis de hominibus istis quid estis acturi.<verse eID="acts.5.35" />
+        <verse sID="acts.5.36" osisID="acts.5.36" />Ante * hos enim dies surrexit Theudas. dicens esse aliquem se magnum, cui consensit virorum numerus quasi quadringentorum: qui interfectus est: et omnes, qui consenserunt ei, dissoluti sunt, et facti sunt in nihilum.<verse eID="acts.5.36" />
+        <verse sID="acts.5.37" osisID="acts.5.37" />Post hunc surrexit Iudas Galilaeus in diebus * proscriptionis, et seduxit multam plebem, post se, et ille periit: et omnes, qui obaudierant ei, dispensi sunt.<verse eID="acts.5.37" />
+        <verse sID="acts.5.38" osisID="acts.5.38" />Et nunc dico vobis, discedite ab hominibus his, et sinite eos, non coinquinantes manus vestras: quoniam si est ex hominibus consilium istud, aut opus hoc, dissolvetur:<verse eID="acts.5.38" />
+        <verse sID="acts.5.39" osisID="acts.5.39" />si autem ex Deo est, non poteritis dissolvere eos, neque vos neque magistratus vestri: nequando et Deo repugnantes inveniamini. Qui consentientes ei<verse eID="acts.5.39" />
+        <verse sID="acts.5.40" osisID="acts.5.40" />et vocaverunt Apostolos, et caesos eos praecipiebant ne loquerentur ulli in nomine Iesu, et dimiserunt eos.<verse eID="acts.5.40" />
+        <verse sID="acts.5.41" osisID="acts.5.41" />Illi igitur ibant gaudentes a conspectu concilii, quoniam pro nomine Domini Iesu dignati essent contumeliam pati.<verse eID="acts.5.41" />
+        <verse sID="acts.5.42" osisID="acts.5.42" />Omnem autem diem in templo et circa domos, non cessabant docentes, et bene nunciantes Iesum Christum.<verse eID="acts.5.42" />
+      </p>
+      <chapter eID="acts.5" />
+      <chapter sID="acts.6" osisID="acts.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="acts.6.1" osisID="acts.6.1" />In diebus autem istis multiplicantium discipulorum,* facta est murmuratio Graecorum ad Hebraeos, eo quod despicerentur in ministerio quotidiano viduae eorum.<verse eID="acts.6.1" />
+        <verse sID="acts.6.2" osisID="acts.6.2" />Vocantes autem duodecim multitudinem discipulorum, dixerunt: Non placitum est relinquentes nos verbum Dei, ministrare mensis.<verse eID="acts.6.2" />
+        <verse sID="acts.6.3" osisID="acts.6.3" />Considerate igitur fratres, viros ex vobis testificationem habentes septem, plenos Spiritu sancto, et sapientiae, quos constituamus in usum hunc.<verse eID="acts.6.3" />
+        <verse sID="acts.6.4" osisID="acts.6.4" />Nos autem orationi, et ministerio verbi instantes erimus.<verse eID="acts.6.4" />
+        <verse sID="acts.6.5" osisID="acts.6.5" />Et placuit verbum coram universa multitudine. Et elegerunt Stephanum, virum plenum fidei, et Spiritu sancto, et Philippum, et Prochorum, et Nicanorem, et Timonem, et Parmenam, et Nicolaum advenam Antiochensem,<verse eID="acts.6.5" />
+        <verse sID="acts.6.6" osisID="acts.6.6" />quos statuerunt in conspectu Apostolorum. Et orantes imposuerunt eis manus.<verse eID="acts.6.6" />
+        <verse sID="acts.6.7" osisID="acts.6.7" />Et verbum Domini crescebat, et multiplicabatur numerus discentium in Hierusalem venementer: multa vero turba sacerdotum obaudiebat fidei.<verse eID="acts.6.7" />
+        <verse sID="acts.6.8" osisID="acts.6.8" />Stephanus autem plenus gratia, et fidei, ac virtute, faciebat signa, et prodigia magna in populo, in nomine Domini Iesu Christi.<verse eID="acts.6.8" />
+        <verse sID="acts.6.9" osisID="acts.6.9" />Adversus quem surnexerunt quidam de conventione, quae appellabatur Libertinorum, et Cyrinensium, et Alexandrinorum, et a Cilicia, et Asia, disputantes cum Stephano:<verse eID="acts.6.9" />
+        <verse sID="acts.6.10" osisID="acts.6.10" />et non* poterant resistere sapientiae, quae erat in eo; et Spiritui sancto, quo loquebatur: * propter quod redarguerentur ab eo cum omni siducia. Cum ergo non possent contradicere veritati.<verse eID="acts.6.10" />
+        <verse sID="acts.6.11" osisID="acts.6.11" />tunc summiserunt viros, dicentes: Quia audivimus, eo loquente, verba blasphema in Moysem, et in Deum.<verse eID="acts.6.11" />
+        <verse sID="acts.6.12" osisID="acts.6.12" />Et haec dicentes, commoverunt quoque plebem, et seniores, et scribas: et concurrentes rapuerunt eum, et duxerunt in concilio.<verse eID="acts.6.12" />
+        <verse sID="acts.6.13" osisID="acts.6.13" />Statuerunt autem testes falsos, dicentes: Homo hic non cessat verba blasphema loquens adversus locum sanctum, et legem:<verse eID="acts.6.13" />
+        <verse sID="acts.6.14" osisID="acts.6.14" />audivimus enim, eo dicente: Quia Iesus Nazoraeus hic, dissolvet locum hunc, et * mutabit consuetudines, quas tradidit nobis Moyses.<verse eID="acts.6.14" />
+        <verse sID="acts.6.15" osisID="acts.6.15" />Et intendentes in eum omnes, qui sede bant in concilio, viderunt vultum eius velut vultum Angeli.<verse eID="acts.6.15" />
+      </p>
+      <chapter eID="acts.6" />
+      <chapter sID="acts.7" osisID="acts.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="acts.7.1" osisID="acts.7.1" />Dixit autem princeps sacerdotum Stephano : Si enim haec ita * habent?<verse eID="acts.7.1" />
+        <verse sID="acts.7.2" osisID="acts.7.2" />At ille ait: Viri fratres, et patres, audite Deus gloriae visus est patri nostro Abraham cum esset in Mesopotamia, priusquam habitare eum in Charra<verse eID="acts.7.2" />
+        <verse sID="acts.7.3" osisID="acts.7.3" />et dixit ad eum: Exi de terra tua, et de cognatione, et de domo patris tui, et veni in terram, quam tibi demonstrabo.<verse eID="acts.7.3" />
+        <verse sID="acts.7.4" osisID="acts.7.4" />Tunc exiens de terra Chaldaeorum, habitavit in Charra. Et inde, postquam mortuus est pater eius, transtulit eum Deus in terram hanc in quam vos nunc habitatis, et patres vestri.<verse eID="acts.7.4" />
+        <verse sID="acts.7.5" osisID="acts.7.5" />Et non dedit ei in ea haereditatem, nec spatium pedis: et promisit dare eam in possessionem ei, et semini eius post eum, non constituto e filio.<verse eID="acts.7.5" />
+        <verse sID="acts.7.6" osisID="acts.7.6" />Locutus est autem sic Deus: Quia erit semen eius advena in terra aliena, et adfligent illud, et in servitute* redigent per annos quadringentos:<verse eID="acts.7.6" />
+        <verse sID="acts.7.7" osisID="acts.7.7" />et gentem cuicunque servierint, iudicabo ego, dixit Deus: et post haec exient inde, et deservient mihi in loco hoc.<verse eID="acts.7.7" />
+        <verse sID="acts.7.8" osisID="acts.7.8" />Et dedit ei testamentum circumcisionis: et sic genuit Isaac, et circumcidit eum die octava et Isaac genuit Iacob: et Iacob, duodecim Patriarchas.<verse eID="acts.7.8" />
+        <verse sID="acts.7.9" osisID="acts.7.9" />Et Patriarchae aemulantes, Ioseph vendiderunt in Aegyptum: et erat Deus cum eo:<verse eID="acts.7.9" />
+        <verse sID="acts.7.10" osisID="acts.7.10" />et liberavit eum de omnibus tribulationibus eius: et dedit ei gratiam, et sapientiam in conspectu Pharaonis regis Aegypti, et constituis eum principem super Aegyptum, et totam domum suam.<verse eID="acts.7.10" />
+        <verse sID="acts.7.11" osisID="acts.7.11" />Venit autem fames super omnem terram Aegypti, et Chanaan, et tribulatio magna: et non inveniebant frumentum patres nostri.<verse eID="acts.7.11" />
+        <verse sID="acts.7.12" osisID="acts.7.12" />Cum audisset autem Iacob esse frumenta in Aegyptum: misit patres nostros primum :<verse eID="acts.7.12" />
+        <verse sID="acts.7.13" osisID="acts.7.13" />et in secundo agnitus est Ioseph fratribus suis, et manifestum factum est Pharaoni genus eius.<verse eID="acts.7.13" />
+        <verse sID="acts.7.14" osisID="acts.7.14" />Mittens autem Ioseph vocavit Iacob patrem suum, et omnem * cognationem suam in animis septuaginta quinque.<verse eID="acts.7.14" />
+        <verse sID="acts.7.15" osisID="acts.7.15" />Et descendit Iacob in Aegyptum, et defunctus est ibi ipse, et patres nostri.<verse eID="acts.7.15" />
+        <verse sID="acts.7.16" osisID="acts.7.16" />Et translati sunt in Sychem, et positi sunt in monumentum, quod emit Abraham pater noster pretio argenti a filiis Emmor, qui fuit in Sychem.<verse eID="acts.7.16" />
+        <verse sID="acts.7.17" osisID="acts.7.17" />Cum autem appropinquaret tempus repromissionis, quod pollicitus erat Deus Abrahae crescit plebs, et multiplicata est in Aegypto,<verse eID="acts.7.17" />
+        <verse sID="acts.7.18" osisID="acts.7.18" />donec surrexit rex alius, qui non fuit memoratus Ioseph.<verse eID="acts.7.18" />
+        <verse sID="acts.7.19" osisID="acts.7.19" />Hic circumveniens genus nostrum, adflixit patres nostros, ut facerent expositos infantes suos, ut ne vivificarentur masculi.<verse eID="acts.7.19" />
+        <verse sID="acts.7.20" osisID="acts.7.20" />In quo tempore natus est Moyses, et erat acceptus Deo: qui nutritus est mensibus tribus in domo patris sui.<verse eID="acts.7.20" />
+        <verse sID="acts.7.21" osisID="acts.7.21" />Expositum autem eum in flumen, sustulit eum filia Pharaonis, et enutrivit eum sibi in filium.<verse eID="acts.7.21" />
+        <verse sID="acts.7.22" osisID="acts.7.22" />Et eruditus est Moyses in omni sapientia Aegyptiorum: erat autem potens in verbis, et operibus suis.<verse eID="acts.7.22" />
+        <verse sID="acts.7.23" osisID="acts.7.23" />Cum autem impletur ei quadraginta annorum tempus, ascendit in cor eius visitare fratres suos filios Israel.<verse eID="acts.7.23" />
+        <verse sID="acts.7.24" osisID="acts.7.24" />Et cum vidisset quemdam contumeliam pati de natione sua, vindicavit: et fecit defensionem  qui adfligebatur, percutiens Aegyptium.<verse eID="acts.7.24" />
+        <verse sID="acts.7.25" osisID="acts.7.25" />Aestimabat autem intelligere fratres suos quoniam Deus per manum eius dat eis salutem: at illi non intellexerunt.<verse eID="acts.7.25" />
+        <verse sID="acts.7.26" osisID="acts.7.26" />sequenti vero die apparuit eis litigantibus: et reconciliabat eos in pacem, dicens: Viri, fratres estis, utquid nocetis alterutrum?<verse eID="acts.7.26" />
+        <verse sID="acts.7.27" osisID="acts.7.27" />At is, qui nocet proximo, repulit eum, dicens: Quis te constituit principem, aut iudicem super nos?<verse eID="acts.7.27" />
+        <verse sID="acts.7.28" osisID="acts.7.28" />nunquid interficere me tu vis, quemadmodum interfecisti heri Aegyptium?<verse eID="acts.7.28" />
+        <verse sID="acts.7.29" osisID="acts.7.29" />Effugavit autem Moysen in verbo hoc: et fuit inquilinus in terra Madiam, ubi genuit filios duos.<verse eID="acts.7.29" />
+        <verse sID="acts.7.30" osisID="acts.7.30" />Et expletis annis quadraginta, apparuit ei in deserto montis Sina Angelus Domini in igni flammae rubi.<verse eID="acts.7.30" />
+        <verse sID="acts.7.31" osisID="acts.7.31" />Moyses autem videns, admirabatur visum: cum accederet autem considerare, facta est vox ex coelo, dicens ad eum:<verse eID="acts.7.31" />
+        <verse sID="acts.7.32" osisID="acts.7.32" />Ego sum Deus patrum tuorum, Deus Abraham, et Deus Isaac, et Deus Iacob. Tremefactus autem Moyses, non audebat considerare.<verse eID="acts.7.32" />
+        <verse sID="acts.7.33" osisID="acts.7.33" />Dixit autem ei Deus : Solve calciamentum de pedibus tuis: locus enim in quo stas, terra sancta est.<verse eID="acts.7.33" />
+        <verse sID="acts.7.34" osisID="acts.7.34" />Videns vidi adflictionem populi mei, qui est in Aegypto, et gemitum ipsorum audivi, et descendi liberare eos. Et nunc veni, mittam te in Aegyptum.<verse eID="acts.7.34" />
+        <verse sID="acts.7.35" osisID="acts.7.35" />Hunc Moysem, quem negaverunt, dicentes: Quis te constituit principem et iudicem super nos? hunc Deus et principem, et liberatorem misit cum manu Angeli, qui apparuit ei in rubo.<verse eID="acts.7.35" />
+        <verse sID="acts.7.36" osisID="acts.7.36" />Hic eduxit eos, faciens prodigia, et signa in terra Aegypto, et in rubro mari,et in deserto annis quadraginta.<verse eID="acts.7.36" />
+        <verse sID="acts.7.37" osisID="acts.7.37" />Hic est Moyses, qui dixit filiis Israel: Prophetam vobis * suscitabit Dominus Deus noster de fratribus vestris, sicut me,* quem audistis.<verse eID="acts.7.37" />
+        <verse sID="acts.7.38" osisID="acts.7.38" />Hic est, qui fuit in Ecclesia in deserto cum Angelo, qui loquebatur ei in monte Sina, et patrum nostrorum: qui accepit eloquia viva dare nobis.<verse eID="acts.7.38" />
+        <verse sID="acts.7.39" osisID="acts.7.39" />Cui noluerunt obaudientes esse patres nostri: sed repulerunt, et conversi sunt cordibus suis in Aegyptum,<verse eID="acts.7.39" />
+        <verse sID="acts.7.40" osisID="acts.7.40" />dicentes ad Aaron : Fac nobis deos, qui praecedant nos: Moyses enim iste, qui eduxit nos de terra Aegypti, nescimus quid factum sit ei.<verse eID="acts.7.40" />
+        <verse sID="acts.7.41" osisID="acts.7.41" />Et vitulum fecerunt in diebus illis, et obtulerunt hostiam simulacro, et epulabantur in operibus manuum suarum.<verse eID="acts.7.41" />
+        <verse sID="acts.7.42" osisID="acts.7.42" />Avertit autem Deus, et tradidit eos deservire * exercitui coeli, sicut scriptum est in Libro Prophetarum: Nunquid victimas, et hostias obtulistis mihi annis quadraginta in deserto, domus Israel?<verse eID="acts.7.42" />
+        <verse sID="acts.7.43" osisID="acts.7.43" />Et suscepistis tabernaculum Moloch, et sidus Dei vestri Repham, figuras, quas fecistis, adorare eis, (Et transmigrabo vos in partem Babylonis.<verse eID="acts.7.43" />
+        <verse sID="acts.7.44" osisID="acts.7.44" />in tabernaculum testimonii, quod patribus nostris in deserto, sicut disposuit loquens Moysi, facere illud secundum formam, quam viderat.<verse eID="acts.7.44" />
+        <verse sID="acts.7.45" osisID="acts.7.45" />Quem etiam et induxerunt suscipientes patres nostri cum Iesu in possessiones generationum, quas repulit Deus a facie patrum nostrum, usque in diebus David<verse eID="acts.7.45" />
+        <verse sID="acts.7.46" osisID="acts.7.46" />qui invenit gratiam coram Deo, et petiit invenire tabernaculum Deo Iacob.<verse eID="acts.7.46" />
+        <verse sID="acts.7.47" osisID="acts.7.47" />Solomon autem aedificavit ei domum.<verse eID="acts.7.47" />
+        <verse sID="acts.7.48" osisID="acts.7.48" />Sed non Altissimus in manufactis habitat, sicut et Propheta dicit:<verse eID="acts.7.48" />
+        <verse sID="acts.7.49" osisID="acts.7.49" />Coelum mihi est sedes: terra autem scabillum pedum meorum. Qualem domum aedificabitis mihi, dicit Dominus? aut quis locus est requietionis meae?<verse eID="acts.7.49" />
+        <verse sID="acts.7.50" osisID="acts.7.50" />Nonne manus mea fecit omnia haec?<verse eID="acts.7.50" />
+        <verse sID="acts.7.51" osisID="acts.7.51" />Dura cervice, et incircumcisi corde et auribus, vos semper Spiritui sancto resistitis, sicut et patres vestri, et vos.<verse eID="acts.7.51" />
+        <verse sID="acts.7.52" osisID="acts.7.52" />Quem Prophetarum non persecuti sunt patres vestri? Et occiderunt eos, qui annuntiabant de adventu Iusti, cuius vos traditores, et homicidae estis:<verse eID="acts.7.52" />
+        <verse sID="acts.7.53" osisID="acts.7.53" />qui accepistis legem in praeceptis Angelorum, et non custodistis.<verse eID="acts.7.53" />
+        <verse sID="acts.7.54" osisID="acts.7.54" />Audientes autem haec fremebant cordibus suis, et fremebant dentibus suis super eum.<verse eID="acts.7.54" />
+        <verse sID="acts.7.55" osisID="acts.7.55" />Cum esset autem plenus Spiritu sancto intendens in coelum, vidit gloriam Dei, et Iesum stantem ad dexteram Dei. Et dixit : Ecce video coelos apertos, et filium hominis stantem ad dexteram Dei.<verse eID="acts.7.55" />
+        <verse sID="acts.7.56" osisID="acts.7.56" />Clamantes autem voce magna continuerunt aures suas, et impetum* fecerunt unanimes in eum.<verse eID="acts.7.56" />
+        <verse sID="acts.7.57" osisID="acts.7.57" />Et expulerunt extra civitatem, lapidabant: et testes deposuerunt vestimenta sua ante pedes adolescentis * vocati Sauli.<verse eID="acts.7.57" />
+        <verse sID="acts.7.58" osisID="acts.7.58" />Et lapidabant Stephanum invocantem, et dicentem: Domine Iesu accipe * spiritum meum.<verse eID="acts.7.58" />
+        <verse sID="acts.7.59" osisID="acts.7.59" />Ponens autem genua, clamavit voce magna: Domine ne statuas illis peccatum hoc. Et hoc cum dixisset, dormivit. Saulus autem erat consentiens neci eius.<verse eID="acts.7.59" />
+      </p>
+      <chapter eID="acts.7" />
+      <chapter sID="acts.8" osisID="acts.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="acts.8.1" osisID="acts.8.1" />Facta est autem in illa die persecutio magna super Ecclesiam, quae erat in Hierosolemis: omnes autem dispersi sunt per regiones Iudaeae, et Samariae, praeter Apostolos.<verse eID="acts.8.1" />
+        <verse sID="acts.8.2" osisID="acts.8.2" />Comportaverunt autem Stephanum viri timorati, et fecerunt planetum magnum super eum.<verse eID="acts.8.2" />
+        <verse sID="acts.8.3" osisID="acts.8.3" />Saulus autem devastabat Ecclesiam, per domos intrans: extrahens autem viros ac mulieres, tradebat in custodiam.<verse eID="acts.8.3" />
+        <verse sID="acts.8.4" osisID="acts.8.4" />Hi igitur * dispensi erant, ibant evangelizantes verbum Dei.<verse eID="acts.8.4" />
+        <verse sID="acts.8.5" osisID="acts.8.5" />Philippus autem descendens in civitatem Samariae, praedicabat eis Christum.<verse eID="acts.8.5" />
+        <verse sID="acts.8.6" osisID="acts.8.6" />Adtendebant autem turbae his, quae dicebantur a Philippo, unanimes in audiendo ipsos, et videntes signa, quae faciebat.<verse eID="acts.8.6" />
+        <verse sID="acts.8.7" osisID="acts.8.7" />Multi enim habentes spiritus immundos, clamantes voce magna exiebant.<verse eID="acts.8.7" />
+        <verse sID="acts.8.8" osisID="acts.8.8" />Multi autem et paralytici, et claudi curati sunt.<verse eID="acts.8.8" />
+        <verse sID="acts.8.9" osisID="acts.8.9" />Et factum est gaudium magnum in civitate illa. Vir autem quidam nomine Simon, ante fuerat in civitate magiam faciens, et suadens genti Samariae, dicens esse quemdam se magnum:<verse eID="acts.8.9" />
+        <verse sID="acts.8.10" osisID="acts.8.10" />cui adtendebant omnes a minimo usque ad maiorem, dicentes: Hic est virtus Dei, quae vocatur magna.<verse eID="acts.8.10" />
+        <verse sID="acts.8.11" osisID="acts.8.11" />Intendebant autem ei, propter quod multo tempore magiis suis dementasset eos.<verse eID="acts.8.11" />
+        <verse sID="acts.8.12" osisID="acts.8.12" />Cum vero crediderunt Philippo praedicanti evangelium de regno Dei, et de nomine Iesu Christi, baptizabantur viri, et mulieres.<verse eID="acts.8.12" />
+        <verse sID="acts.8.13" osisID="acts.8.13" />Simon autem et ipse credidit: et baptizatus adhaerebat Philippo. Videns autem virtutes, et signa magna fieri, stupebat.<verse eID="acts.8.13" />
+        <verse sID="acts.8.14" osisID="acts.8.14" />Cum audissent autem qui in Hierosolymis Apostoli, quia percepit Samaria verbum Dei, miserunt ad * illam Petrum, et Iohannem.<verse eID="acts.8.14" />
+        <verse sID="acts.8.15" osisID="acts.8.15" />Qui cum descendissent, oraverunt pro eis ut acciperent Spiritum sanctum:<verse eID="acts.8.15" />
+        <verse sID="acts.8.16" osisID="acts.8.16" />Nondum enim' in quemquam eorum de ciderat: solum autem baptizati erant in nomine Domini Iesu.<verse eID="acts.8.16" />
+        <verse sID="acts.8.17" osisID="acts.8.17" />Tunc imponebant manus super illos, et accipiebant Spiritum sanctum.<verse eID="acts.8.17" />
+        <verse sID="acts.8.18" osisID="acts.8.18" />* Cum vidisset autem Simon, quia per impositionem manuum Apostolorum datur Spiritus sanctus, obtulit eis pecuniam<verse eID="acts.8.18" />
+        <verse sID="acts.8.19" osisID="acts.8.19" />dicens: Date et mihi potestatem hanc, ut cuicunque imposuero manus, accipiat Spiritum sanctum. Petrus autem dixit ad eum:<verse eID="acts.8.19" />
+        <verse sID="acts.8.20" osisID="acts.8.20" />Pecunia tua tecum sit in interitum: quoniam donum Dei existimasti per pecuriam possidere.<verse eID="acts.8.20" />
+        <verse sID="acts.8.21" osisID="acts.8.21" />Non est tibi portio, neque sors in verbo hoc: cor enim tuum non est rectum coram Deo.<verse eID="acts.8.21" />
+        <verse sID="acts.8.22" osisID="acts.8.22" />Poenitentiam ergo habe a malitia tua hac: et obsecra Dominum, si forte remittitur tibi cogitatio cordis tui.<verse eID="acts.8.22" />
+        <verse sID="acts.8.23" osisID="acts.8.23" />In felle enim amaritudinis, et obligatione iniustitiae video te esse.<verse eID="acts.8.23" />
+        <verse sID="acts.8.24" osisID="acts.8.24" />Respondens autem Simon, dixit: Obsecrate vos pro me ad Dominum, ut nihil superveniat in me horum, quae dixistis, malorum.<verse eID="acts.8.24" />
+        <verse sID="acts.8.25" osisID="acts.8.25" />Illi igitur testificati, et locuti verbum Domini, reversi sunt in Hierosolyma: multa quoque castella Samaritanorum praedicati sunt evangelium.<verse eID="acts.8.25" />
+        <verse sID="acts.8.26" osisID="acts.8.26" />Angelus autem Domini locutus est ad Philippum, dicens: Surge, et ambula contra meridianum, ad viam, quae descendit * ab Hierusalem in Gazam : haec est deserta.<verse eID="acts.8.26" />
+        <verse sID="acts.8.27" osisID="acts.8.27" />Et exsurgens abiit. Et ecce vir Aethiops, eunuchus, potens Cadacis reginae Aethiopum, qui erat super omnes gazas eius, qui venerat adorare in Hierusalem:<verse eID="acts.8.27" />
+        <verse sID="acts.8.28" osisID="acts.8.28" />erat autem revertens, et sedens super currum suum, et legebat prophetam Esaiam.<verse eID="acts.8.28" />
+        <verse sID="acts.8.29" osisID="acts.8.29" />Dixit autem Spiritus Philippo : Accede, et coniunge te ad currum eius.<verse eID="acts.8.29" />
+        <verse sID="acts.8.30" osisID="acts.8.30" />Adcurrens autem Philippus, audivit eum legentem prophetam Esaiam, et dixit: Itane intelligis quae legis?<verse eID="acts.8.30" />
+        <verse sID="acts.8.31" osisID="acts.8.31" />At ille dixit: Quomodo potero, nisi quis instruat me? Rogavit autem Philippum ut ascenderet sedere cum ipso.<verse eID="acts.8.31" />
+        <verse sID="acts.8.32" osisID="acts.8.32" />Ordo autem Scripturae, quam legebat, erat * hic: Sicut ovis ad occasionem adductus est, et sicut agnus coram tondentem eum, sine voce, sic non aperuit os suum.<verse eID="acts.8.32" />
+        <verse sID="acts.8.33" osisID="acts.8.33" />In humilitate sua iudicium eius ablatum, est. Generationem autem eius quis enarrabit, quoniam tolletur a terra vita eius?<verse eID="acts.8.33" />
+        <verse sID="acts.8.34" osisID="acts.8.34" />Respondens autem eunuchus Philippo, dixit: Obsecro te, de quo Propheta dicit hoc? de semetipso, an de aliquo alio?<verse eID="acts.8.34" />
+        <verse sID="acts.8.35" osisID="acts.8.35" />Aperiens autem Philippus os suum, et incipiens a Scriptura hac, evangelizavit ei Iesum.<verse eID="acts.8.35" />
+        <verse sID="acts.8.36" osisID="acts.8.36" />Cum autem ieent secunduum viam, venerunt ad quamdam aquam: et ait Eunuchus: Ecce aqua, quid prohibet me baptizari?<verse eID="acts.8.36" />
+        <verse sID="acts.8.37" osisID="acts.8.37" />Dixit autem ei Philippus: Si credis ex toto corde, * suscepis. Respondens autem dixit: Credo in Christum Filium Dei.<verse eID="acts.8.37" />
+        <verse sID="acts.8.38" osisID="acts.8.38" />Et iussit stare currum: et descenderunt in aquam uterque, Philippus quoque, et Eunuchus, et baptizavit eum.<verse eID="acts.8.38" />
+        <verse sID="acts.8.39" osisID="acts.8.39" />Cum autem ascendissent de aqua, Spiritus Domini rapuit Philippum, et non vidit eum amplius Eunuchus. Ibat enim iter suum gaudens.<verse eID="acts.8.39" />
+        <verse sID="acts.8.40" osisID="acts.8.40" />Philippus autem inventus est in Azoto et pertransiens evangelizabat civitates omnes, donec venit in Caesaream.<verse eID="acts.8.40" />
+      </p>
+      <chapter eID="acts.8" />
+      <chapter sID="acts.9" osisID="acts.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="acts.9.1" osisID="acts.9.1" />Saulus autem adhuc spirans minas, et caedes in discipulos Domini, accedens ad Principem sacerdotum<verse eID="acts.9.1" />
+        <verse sID="acts.9.2" osisID="acts.9.2" />petivit ab eo epistolas in Damasco ad synagogas: ut quoscunque inveniret viae huius, viros quoque ac mulieres, vinctos adduceret in Hierusalem.<verse eID="acts.9.2" />
+        <verse sID="acts.9.3" osisID="acts.9.3" />Cum autem iter faceret, contigit eum adpropinquare Damasco : et repente circumfulsit eum lux de coelo.<verse eID="acts.9.3" />
+        <verse sID="acts.9.4" osisID="acts.9.4" />Et * procidens in terram audivit vocem dicentem sibi: Saule, Saulle, quid me persequeris? durum tibi est contra stimulum calcitrare. Dixit autem: Quis es Domine? Dominus autem ad eum: Ego sum Iesus Nazoraeus, quem tu persequeris.<verse eID="acts.9.4" />
+        <verse sID="acts.9.6" osisID="acts.9.6" />Vide Not.<verse eID="acts.9.6" />
+        <verse sID="acts.9.7" osisID="acts.9.7" />Sed surge, et intra in civitatem, et dicetur tibi quid te oportet facere. Viri autem qui comitabantur cum eo, stabant stupidi, audientes quidem vocem, neminem autem videntes.<verse eID="acts.9.7" />
+        <verse sID="acts.9.8" osisID="acts.9.8" />Surrexit autem Saulus de terra: apertis autem oculis suis, nihil videbat. Manumque ei dantes,* eum induxerunt in Damascum.<verse eID="acts.9.8" />
+        <verse sID="acts.9.9" osisID="acts.9.9" />Et dies tres non videns, non manducavit, neque bibit.<verse eID="acts.9.9" />
+        <verse sID="acts.9.10" osisID="acts.9.10" />Erat autem quidam discipulus in Damasco. nomine Ananias: et dixit ad eum in visu Dominus: Anania. Et ille dixit: Ecce ego, Domine.<verse eID="acts.9.10" />
+        <verse sID="acts.9.11" osisID="acts.9.11" />Dominus autem ad eum: Surgens vade in vicum, qui vocatur rectus: et quaere in domum Iudae Saalum nomine Tarsensem : ecce enim adorat.<verse eID="acts.9.11" />
+        <verse sID="acts.9.12" osisID="acts.9.12" />(Et vidit in visu virum Ananiam nomine, introeuntem, et imponentem sibi manus ut videat.<verse eID="acts.9.12" />
+        <verse sID="acts.9.13" osisID="acts.9.13" />Respondit autem Ananias, et dixit: Domine, audivi de multis de viro hoc, quanta mala sanctis tuis fecit in Hierusalem:<verse eID="acts.9.13" />
+        <verse sID="acts.9.14" osisID="acts.9.14" />et hic habet potestatem a* principibus sacerdotum ligare omnes, qui invocant nomen tuum.<verse eID="acts.9.14" />
+        <verse sID="acts.9.15" osisID="acts.9.15" />Dixit autem ad eum Dominus: Vade, quoniam vas electionis mihi est hic, ut portet nomen meum coram gentibus quoque et regibus, filiis quoque Israel.<verse eID="acts.9.15" />
+        <verse sID="acts.9.16" osisID="acts.9.16" />Ego enim ostendam ei, quanta oportet illum propter nomen meum pati.<verse eID="acts.9.16" />
+        <verse sID="acts.9.17" osisID="acts.9.17" />Abiit autem Ananias, et intravit in domum: et imponens super eum manus, dixit: Saule frater, Dominus misit me Iesus, qui apparuit tibi in via, qua * veniebas, ut videas, et implearis Spiritu sancto.<verse eID="acts.9.17" />
+        <verse sID="acts.9.18" osisID="acts.9.18" />Et confestim ceciderunt ab oculis eius tanquam aquamae, vidit quoque statim: et surgens baptizatus est.<verse eID="acts.9.18" />
+        <verse sID="acts.9.19" osisID="acts.9.19" />Et accipiens cibum, confortatus est. Fuit autem cum, qui erant in Damasco, discipulis, diebus aliquot.<verse eID="acts.9.19" />
+        <verse sID="acts.9.20" osisID="acts.9.20" />Et continuo in synagogis praedicavit eis Iesum, quia hic est Filius Dei.<verse eID="acts.9.20" />
+        <verse sID="acts.9.21" osisID="acts.9.21" />Stupebant autem omnes qui audiebant, et dicebant: Non hic est, qui expugnabat in Hierusalem eos, qui invocabant nomen hoc : et hic ideo venerat, ut vinctos eos perduceret ad principes sacerdotum?<verse eID="acts.9.21" />
+        <verse sID="acts.9.22" osisID="acts.9.22" />Saulus autem magis invalescebat in verbo et confundebat Iudaeos, qui habitabant in Damasco, instruens, et dicens quoniam hic est Christus.<verse eID="acts.9.22" />
+        <verse sID="acts.9.23" osisID="acts.9.23" />Cum autem replerentur dies multi, consilium fecerunt Iudaei interficere eum.<verse eID="acts.9.23" />
+        <verse sID="acts.9.24" osisID="acts.9.24" />Innotuerunt autem Saulo insidiae eorum. Observabant autem et portas die quoque ac nocte, ut eum occiderent.<verse eID="acts.9.24" />
+        <verse sID="acts.9.25" osisID="acts.9.25" />Acceptum autem eum discipuli nocte, per murum dimiserunt, laxantes in sporta.<verse eID="acts.9.25" />
+        <verse sID="acts.9.26" osisID="acts.9.26" />Cum venisset autem Paulus in Hierosolymis, tentabat adhaerere discipulis, et omnes timebant eum, non credentes quod est discipulus.<verse eID="acts.9.26" />
+        <verse sID="acts.9.27" osisID="acts.9.27" />Barnabas autem adsumens eum, adduxit ad Apostolos: et enarravit eis quomodo in via vidisset Dominum, et quoniam locutus est ei, et quomodo in Damasco fiducialiter egit in nomine Iesu.<verse eID="acts.9.27" />
+        <verse sID="acts.9.28" osisID="acts.9.28" />Et erat cum eis intrans, et exiens in Hierusalem, et constanter agens in nomine Domini.<verse eID="acts.9.28" />
+        <verse sID="acts.9.29" osisID="acts.9.29" />Loquebatur quoque, et conferebat ad Graecos: illi autem quaerebant occidere eum.<verse eID="acts.9.29" />
+        <verse sID="acts.9.30" osisID="acts.9.30" />Cum cognovissent autem fratres, deduxerunt eum in Caesaream per noctem, et dimiserunt in Tarsum.<verse eID="acts.9.30" />
+        <verse sID="acts.9.31" osisID="acts.9.31" />Ecclesiae quidem universae per omnem Iudaeam, et Galilaeam, et Samariam, habebant pacem, cum aedificabantur et ingrediebantur in timore Domini, et obsecratione sancti * Spiritus multiplicabantur.<verse eID="acts.9.31" />
+        <verse sID="acts.9.32" osisID="acts.9.32" />Factum est autem Petrum transeuntem per omnes, descendere * ad sanctos, qui habitabant Luddae.<verse eID="acts.9.32" />
+        <verse sID="acts.9.33" osisID="acts.9.33" />Invenit autem ibi hominem quemdam nomine Aeneam, ab annis octo iacentem super crabattum, qui erat paraluticous.<verse eID="acts.9.33" />
+        <verse sID="acts.9.34" osisID="acts.9.34" />Et dixit ei Petrus: Aenea, sanat te Iesus Christus: surge, et sterne tibi. Et confestim surrexit.<verse eID="acts.9.34" />
+        <verse sID="acts.9.35" osisID="acts.9.35" />Et viderunt eum omnes, qui habitabant Luddae, et Saronam: qui conversi sunt ad Dominum.<verse eID="acts.9.35" />
+        <verse sID="acts.9.36" osisID="acts.9.36" />In Ioppe autem quaedam erat discipula, nomine Tabithas, quae interpretata dicitur Dorcas. Haec erat plena operibus bonis, et eleemosynis, quas faciebat.<verse eID="acts.9.36" />
+        <verse sID="acts.9.37" osisID="acts.9.37" />Factum est autem in diebus illis, infirmatam eam mori. Cum lavissent autem eam, posuerunt in coenaculo.<verse eID="acts.9.37" />
+        <verse sID="acts.9.38" osisID="acts.9.38" />Cum autem prope esset Ludda ab Ioppe, discipuli audientes quia Petrus est in ea, miserunt duos viros ad eum, rogantes ne pingeret pervenire usque ad nos.<verse eID="acts.9.38" />
+        <verse sID="acts.9.39" osisID="acts.9.39" />Surgens autem Petrus, convenit eis. Quem advenientem ascenderunt in superioribus: et circumsteterunt ei universae viduae flentes, et ostendentes tunicas, et vestimenta quanta faciebat, cum esset cum eis Dorcas.<verse eID="acts.9.39" />
+        <verse sID="acts.9.40" osisID="acts.9.40" />Eiiciens autem foris omnes Petrus, et ponens genua, oravit: et reversus ad corpus, ait: Tabitha, surge. At illa continuo aperuit oculos suos: et videns Petrum, consedit.<verse eID="acts.9.40" />
+        <verse sID="acts.9.41" osisID="acts.9.41" />Dans autem ei manum, erexit eam. Vocans autem sanctos, et viduas, adsignavit eam viventem.<verse eID="acts.9.41" />
+        <verse sID="acts.9.42" osisID="acts.9.42" />Notum autem factum est per totam Ioppem: et crediderunt multi in Dominum.<verse eID="acts.9.42" />
+        <verse sID="acts.9.43" osisID="acts.9.43" />Factum est autem, eum dies multos manere in Ioppe apud quemdam Simonem coriarium.<verse eID="acts.9.43" />
+      </p>
+      <chapter eID="acts.9" />
+      <chapter sID="acts.10" osisID="acts.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="acts.10.1" osisID="acts.10.1" />Vir autem quidam in Caesarea, nomine Cornelius, Centurio de cohorte, quae dicitur Italica,<verse eID="acts.10.1" />
+        <verse sID="acts.10.2" osisID="acts.10.2" />pius, et timens Deum cum omni domo sua, faciens eleemosynas multas plebi, et obsecrans Deum semper:<verse eID="acts.10.2" />
+        <verse sID="acts.10.3" osisID="acts.10.3" />vidit visum manifeste, quasi horâ nonâ diei, Angelum Dei intoeuntem ad se, et dicentem sibi, Corneli.<verse eID="acts.10.3" />
+        <verse sID="acts.10.4" osisID="acts.10.4" />At ille intendens ei, et timore repletus, dixit: Quid est, Domine? Dixit autem ei: Orationes tuae, et eleemosynae tuae ascenderunt in memoriam in conspectum Dei.<verse eID="acts.10.4" />
+        <verse sID="acts.10.5" osisID="acts.10.5" />Et nunc mitte viros in Ioppem, et accersi Simonem, qui cognominatur Petrus:<verse eID="acts.10.5" />
+        <verse sID="acts.10.6" osisID="acts.10.6" />hic hospitatur apud * quemdam Simonem coriarium, cuius est domus secus mare.<verse eID="acts.10.6" />
+        <verse sID="acts.10.7" osisID="acts.10.7" />Cum autem discessisset Angelus, qui loquebatur cum eo, vocavit duos ex domesticis, et militem pium, qui adhaerebat sibi.<verse eID="acts.10.7" />
+        <verse sID="acts.10.8" osisID="acts.10.8" />Et cum exposuisset omnia eis, dimisit eos in Ioppem.<verse eID="acts.10.8" />
+        <verse sID="acts.10.9" osisID="acts.10.9" />Postera autem die iter agentibus illis, et civitati propinquantibus, ascendit Petrus in superiora adorare circa horam sextam.<verse eID="acts.10.9" />
+        <verse sID="acts.10.10" osisID="acts.10.10" />Factum est autem ut esuriret, et voluit gustare. Parantibus autem eis, cecidit super eum pavor:<verse eID="acts.10.10" />
+        <verse sID="acts.10.11" osisID="acts.10.11" />et vidit coelum apertum, et descendens vas quoddam, tanquam linteum magnum, quatuor initiis summissum in terram,<verse eID="acts.10.11" />
+        <verse sID="acts.10.12" osisID="acts.10.12" />in quo erant omnia quadripedia, et repentia terrae, et bestiae, et volatilia coeli.<verse eID="acts.10.12" />
+        <verse sID="acts.10.13" osisID="acts.10.13" />Et facta est vox ad eum: Surgens, Petre, occide, et manduca.<verse eID="acts.10.13" />
+        <verse sID="acts.10.14" osisID="acts.10.14" />Petrus autem dixit: Nequaquam Domine quia nunquam edi omne commune, aut immundum.<verse eID="acts.10.14" />
+        <verse sID="acts.10.15" osisID="acts.10.15" />Et vox iterum secundo ad eum: Quae Deus mundavit, tu commune ne feceris.<verse eID="acts.10.15" />
+        <verse sID="acts.10.16" osisID="acts.10.16" />Hoc autem factum est per ter: et denuo receptum est vas in coelum.<verse eID="acts.10.16" />
+        <verse sID="acts.10.17" osisID="acts.10.17" />Dum autem intra se haesitabat Petrus quidnam esset visum, quem vidit: et ecce viri, qui missi erant a Cornelio, inquirentes domum Simonis, adstiterunt ad ianuam.<verse eID="acts.10.17" />
+        <verse sID="acts.10.18" osisID="acts.10.18" />Et vocantes, interrogabant, si Simon, qui cognominatur Petrus, hîc hospitatur.<verse eID="acts.10.18" />
+        <verse sID="acts.10.19" osisID="acts.10.19" />petro autem haesitante de viso, dixit ei Spiritus : Ecce viri tres quaerunt te.<verse eID="acts.10.19" />
+        <verse sID="acts.10.20" osisID="acts.10.20" />Sed furgens destende cum eis nihil dubitans: quoniam ego misi eos.<verse eID="acts.10.20" />
+        <verse sID="acts.10.21" osisID="acts.10.21" />Tunc descendens Petrus ad viros, dixit: Ecce ego sum, quem quaeritis: quae causa est, propter quam venistis?<verse eID="acts.10.21" />
+        <verse sID="acts.10.22" osisID="acts.10.22" />Qui dixerunt: Cornelius Centurio, vir iustus, et timens Deum, testimonium autem habens ab omni gente Iudaeorum, monitus est ab Angelo sancto, arcessire te in domum suam, et audire verba abs te.<verse eID="acts.10.22" />
+        <verse sID="acts.10.23" osisID="acts.10.23" />Tunc introducens eos, hospitio suscepit. Sequenti autem die surgens Petrus, abiit cum eis: et quidam de fratribus, qui erant ab Ioppe, venerunt cum eo.<verse eID="acts.10.23" />
+        <verse sID="acts.10.24" osisID="acts.10.24" />In crastinum autem intraverunt in Caesaream. Cornelius autem erat exspectans eos, convocatis cognatis suis, et necessariis amicis.<verse eID="acts.10.24" />
+        <verse sID="acts.10.25" osisID="acts.10.25" />Cum autem factum esset ut introiret Petrus, obvians ei Cornelius, cadens ante pedes eius adoravit.<verse eID="acts.10.25" />
+        <verse sID="acts.10.26" osisID="acts.10.26" />Petrus autem elevavit eum, dicens: Surge, etenim ego homo sum, sicut tu.<verse eID="acts.10.26" />
+        <verse sID="acts.10.27" osisID="acts.10.27" />Et cum loqueretur cum eo, intravit, et invenit convenientes multos.<verse eID="acts.10.27" />
+        <verse sID="acts.10.28" osisID="acts.10.28" />Dixit autem ad eos: Vos scitis quam inlicitum est viro Iudaeo iungere, aut accedere alienigenae: et mihi ostendit Deus, neminem communem aut immundum dicere hominem.<verse eID="acts.10.28" />
+        <verse sID="acts.10.29" osisID="acts.10.29" />Propter quod et sine contradictione veni vocatus a vobis. Interrogo igitur, qua ratione arcessistis me?<verse eID="acts.10.29" />
+        <verse sID="acts.10.30" osisID="acts.10.30" />Et Cornelius respondit: A quarta die usque in hanc horam, eram ieiunans, et adorans a sexta hora usque ad nonam in domo mea, et ecce vir stetit in conspectu meo in veste splendida, et ait:<verse eID="acts.10.30" />
+        <verse sID="acts.10.31" osisID="acts.10.31" />Corneli, exaudita est oratio tua, et eleemosynae tuae commemoratae sunt in conspectu Dei.<verse eID="acts.10.31" />
+        <verse sID="acts.10.32" osisID="acts.10.32" />Mitte igitur in Ioppem viros, et accersi Simonem, qui cognominatur Petrus: hic hospitatur in domo Simonis coriarii iuxta mare, qui cum advenerit, loquetur tibi.<verse eID="acts.10.32" />
+        <verse sID="acts.10.33" osisID="acts.10.33" />Protinus igitur misi ad te: tu autem bene fecisti adveniens. Nunc igitur omnes nos in conspectu Dei adsumus, audire omnia quae praecepta sunt a Domino.<verse eID="acts.10.33" />
+        <verse sID="acts.10.34" osisID="acts.10.34" />Aperiens autem Petrus os suum, dixit: In veritate comprehendo, quoniam non est personarum acceptator Deus:<verse eID="acts.10.34" />
+        <verse sID="acts.10.35" osisID="acts.10.35" />sed in omni gente, qui timet eum, et operatur iustitiam, acceptus ei est.<verse eID="acts.10.35" />
+        <verse sID="acts.10.36" osisID="acts.10.36" />Verbum, quod destinavit filiis Israel, adnuntians pacem per Iesum Christum: (hic est omnium Dominus.)<verse eID="acts.10.36" />
+        <verse sID="acts.10.37" osisID="acts.10.37" />Vos scitis quod factum est verbum per totam Iudaeam: incipiens enim a Galilaca, post baptismum, quod praedicavit Iohannes<verse eID="acts.10.37" />
+        <verse sID="acts.10.38" osisID="acts.10.38" />Iesum a Nazoreth: sicut unxit eum Deus in Spiritu sancto, et virtute, qui perambulavit benefaciens, et sanans omnes oppressos a diabolo, quoniam Deus erat cum eo.<verse eID="acts.10.38" />
+        <verse sID="acts.10.39" osisID="acts.10.39" />Et nos testes omnium, quae fecit in regione Iudaeorum, et in Hierusalem, quem et interfecerunt suspendentes in ligno.<verse eID="acts.10.39" />
+        <verse sID="acts.10.40" osisID="acts.10.40" />Hunc Deus suscitavit tertia die, et dedit eum manifestum fieri,<verse eID="acts.10.40" />
+        <verse sID="acts.10.41" osisID="acts.10.41" />non omni populo, sed testibus praedestinatis a Deo: nobis, qui cum manducavimus et cum bibimus eo, postquam surrexit a mortuis, per dies quadraginta.<verse eID="acts.10.41" />
+        <verse sID="acts.10.42" osisID="acts.10.42" />Et praecepit nobis praedicare plebi, et testificari, quia ipse est, qui praedesinitus erat a Deo iudex viventium et mortuorum.<verse eID="acts.10.42" />
+        <verse sID="acts.10.43" osisID="acts.10.43" />Huic omnes Prophetae testimonium perhibent, remissionem peccatorum accipere per nomen eius omnem credentem in eum.<verse eID="acts.10.43" />
+        <verse sID="acts.10.44" osisID="acts.10.44" />Adhuc loquente petro verba haec, cecidit Spiritus sanctus super omnes qui audierunt verbum.<verse eID="acts.10.44" />
+        <verse sID="acts.10.45" osisID="acts.10.45" />Et obstupuerunt qui ex circumcisione fideles, quanti convenerunt petro: quia et in Gentibus donum sancti Spiritus effusum est.<verse eID="acts.10.45" />
+        <verse sID="acts.10.46" osisID="acts.10.46" />Audiebant enim eos loquentes linguis, et magnificantes Deum.<verse eID="acts.10.46" />
+        <verse sID="acts.10.47" osisID="acts.10.47" />Tunc respondit Petrus: Nunquid aquam potest aliquis prohibere, ne baptizentur * hi, qui Spiritum sanctum acceperunt sicut et nos?<verse eID="acts.10.47" />
+        <verse sID="acts.10.48" osisID="acts.10.48" />Praecepit autem eos baptizari in nomine Iesu Christi. Tunc rogaverunt eum remanere dies aliquos.<verse eID="acts.10.48" />
+      </p>
+      <chapter eID="acts.10" />
+      <chapter sID="acts.11" osisID="acts.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="acts.11.1" osisID="acts.11.1" />Audierunt autem Apostoli, et fratres, qui erant in Iudaea: quoniam et Gentes receperunt verbum Dei.<verse eID="acts.11.1" />
+        <verse sID="acts.11.2" osisID="acts.11.2" />Cum autem ascendisset Petrus in Hierosolyma, disceptabant ad eum, qui ex circumcisione,<verse eID="acts.11.2" />
+        <verse sID="acts.11.3" osisID="acts.11.3" />dicentes: Quia ad viros praeputium habentes intrasti, et cummanducasti eis.<verse eID="acts.11.3" />
+        <verse sID="acts.11.4" osisID="acts.11.4" />Incipiens autem Petrus exponebat eis per ordinem, dicens:<verse eID="acts.11.4" />
+        <verse sID="acts.11.5" osisID="acts.11.5" />Ego eram in civitate Ioppem adorans, et vidi in stupore mentis visum, descendens vas quoddam tanquam linteum magnum quatuor initiis summissum de coelo, et venit usque ad me.<verse eID="acts.11.5" />
+        <verse sID="acts.11.6" osisID="acts.11.6" />In quod intuens considerabam, et vidi quadrupedia terrae, et bestias, et regtilia, et volatilia coeli.<verse eID="acts.11.6" />
+        <verse sID="acts.11.7" osisID="acts.11.7" />Audivi autem et vocem dicentem mihi: Exsurgens Petre, occide, et manduca.<verse eID="acts.11.7" />
+        <verse sID="acts.11.8" osisID="acts.11.8" />* Dixi autem : Nequaquam Domine, quia commune aut immundum nunquam introivit in os meum.<verse eID="acts.11.8" />
+        <verse sID="acts.11.9" osisID="acts.11.9" />Respondit autem mihi secundo vox de coelo: Quae Deus mundavit, tu non communicabis.<verse eID="acts.11.9" />
+        <verse sID="acts.11.10" osisID="acts.11.10" />Hoc autem factum est per ter: et iterum recepta omnia in coelum.<verse eID="acts.11.10" />
+        <verse sID="acts.11.11" osisID="acts.11.11" />Et ecce confestim tres viri adstiterunt ad domum, in qua eram, missi a Caesarea ad me.<verse eID="acts.11.11" />
+        <verse sID="acts.11.12" osisID="acts.11.12" />Dixit autem mihi Spiritus, ut item cum eis, nihil * dubitans. Venerunt autem mecum et sex fratres isti, et ingressi sumus in domum viri.<verse eID="acts.11.12" />
+        <verse sID="acts.11.13" osisID="acts.11.13" />Retulitque nobis, quomodo vidisset Angelum in domum suam stetisse, et dixisse ei: Mitte in Ioppem viros, et accersi Simonem, qui cognominatur Petrus<verse eID="acts.11.13" />
+        <verse sID="acts.11.14" osisID="acts.11.14" />qui loquetur verba ad te, in quibus salvus eris tu, et omnis domus tua.<verse eID="acts.11.14" />
+        <verse sID="acts.11.15" osisID="acts.11.15" />Cum autem coepissem loqui, cecidit Spiritus sanctus super eos, sicut et super nos in principio.<verse eID="acts.11.15" />
+        <verse sID="acts.11.16" osisID="acts.11.16" />Memoratus sum autem verbi Domini, sicut dicebat: Iohannes quidem baptizavit aqua, vos autem baptizamini in Spiritu sancto.<verse eID="acts.11.16" />
+        <verse sID="acts.11.17" osisID="acts.11.17" />Si igitur aequale donum dedit illis Deus sicut et nobis credentibus in Dominum Iesum Christum : ego autem quis eram potens prohibere Deum?<verse eID="acts.11.17" />
+        <verse sID="acts.11.18" osisID="acts.11.18" />Audientes autem haec, tacuerunt: et glorificaverunt Deum, dicentes: Utique et Gentibus Deus poenitentiam dedit ad vitam.<verse eID="acts.11.18" />
+        <verse sID="acts.11.19" osisID="acts.11.19" />Illi igitur dispensi a tribulatione, quae facta fuerat sub Stephano, pertransierunt usque Phoenicem, et Cyprum, et Antiochiam, nemini loquentes verbum, nisi tantum Iudaeis.<verse eID="acts.11.19" />
+        <verse sID="acts.11.20" osisID="acts.11.20" />Erant autem quidam ex eis viri Cyprii, et Cyrenenses, qui cum venissent in Antiochiam loquebantur ad Graecos, annuntiantes Dominum Iesum.<verse eID="acts.11.20" />
+        <verse sID="acts.11.21" osisID="acts.11.21" />Et erat manus Domini cum eis: multusque numerus credens conversus est in Dominum Iesum.<verse eID="acts.11.21" />
+        <verse sID="acts.11.22" osisID="acts.11.22" />Auditus est autem sermo in aures Ecclesiae. quae erat in Hierosolymis, de his : et dimiserunt Barnabam pervenire usque Antiochiam.<verse eID="acts.11.22" />
+        <verse sID="acts.11.23" osisID="acts.11.23" />Qui cum pervenisset, et vidisset gratiam Dei, gavisus est: et hortabatur omnes proposito cordis permanent in Domino:<verse eID="acts.11.23" />
+        <verse sID="acts.11.24" osisID="acts.11.24" />quia erat vir bonus, et plenus Spiritu sancto, et fide. Et adposita est turba multa Domino.<verse eID="acts.11.24" />
+        <verse sID="acts.11.25" osisID="acts.11.25" />Exivit autem in Tarsum Barnabas, requirere Saulum: et inveniens, duxit illum in Antiochiam.<verse eID="acts.11.25" />
+        <verse sID="acts.11.26" osisID="acts.11.26" />Factum est autem eis annum convenire in Ecclesia, et docere turbam multam, nominarique primum in Antiochia discipulos, Christianos.<verse eID="acts.11.26" />
+        <verse sID="acts.11.27" osisID="acts.11.27" />In his autem diebus descenderunt ab Hierosolymis prophetae in Antiochiam:<verse eID="acts.11.27" />
+        <verse sID="acts.11.28" osisID="acts.11.28" />surgens autem unus ex eis nomine Agabus, significavit per spiritum famem magnam futuram esse in omnem orbem terrarum, quae et facta est sub Claudio Caesare.<verse eID="acts.11.28" />
+        <verse sID="acts.11.29" osisID="acts.11.29" />Discipuli autem, prout habebat aliquis. posuerunt unusquisque eorum in ministerium mittere, qui habitabant in Iudaea, fratribus:<verse eID="acts.11.29" />
+        <verse sID="acts.11.30" osisID="acts.11.30" />quod et fecerunt, mittentes ad seniores per manus Barnabae, et Sauli.<verse eID="acts.11.30" />
+      </p>
+      <chapter eID="acts.11" />
+      <chapter sID="acts.12" osisID="acts.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="acts.12.1" osisID="acts.12.1" />Eodem tempore immisit Herodes rex manus, ut adfligeret quosdam de Ecclesia.<verse eID="acts.12.1" />
+        <verse sID="acts.12.2" osisID="acts.12.2" />Interfecit autem Iacobum fratrem Iohannis gladio.<verse eID="acts.12.2" />
+        <verse sID="acts.12.3" osisID="acts.12.3" />Videns autem quia placitum est Iudaeis, adposuit adprehendere et Petrum. Erant autem dies Azymorum.<verse eID="acts.12.3" />
+        <verse sID="acts.12.4" osisID="acts.12.4" />Quem et adprehensum misit in carcerem tradens quatuor quaternionibus militum custodire eum, volens post Pascha perducere eum plebi.<verse eID="acts.12.4" />
+        <verse sID="acts.12.5" osisID="acts.12.5" />Petrus quidem servabatur in carcere. Oratio autem * erat, incessanter fiebat ab Ecclesia ad Deum pro eo.<verse eID="acts.12.5" />
+        <verse sID="acts.12.6" osisID="acts.12.6" />Cum autem vellet producere eum Herodes. nocte illa erat Petrus dormiens inter duos milites, ligatus catenis duabus: custodes autem ante ostium custodiebant carcerem.<verse eID="acts.12.6" />
+        <verse sID="acts.12.7" osisID="acts.12.7" />Et ecce Angelus Domini adstitit: et lux fulsit in habitaculo: percussit autem latus Petri, suscitavit eum, dicens: Surge velociter. Et ceciderunt eius catenae de manibus.<verse eID="acts.12.7" />
+        <verse sID="acts.12.8" osisID="acts.12.8" />Dixit autem Angelus ad eum: Praecinge te. et calcia te caligas tuas. Fecit autem sic. Et dixit ei: Circumda te vestimentum tuum, et sequere me.<verse eID="acts.12.8" />
+        <verse sID="acts.12.9" osisID="acts.12.9" />Et exiens sequebatur eum, et nesciebat quia verum erat, quod fiebat per Angelum: aestimabat autem visum videre.<verse eID="acts.12.9" />
+        <verse sID="acts.12.10" osisID="acts.12.10" />Transeuntes autem primam custodiam et secundam, venerunt ad portam ferream, quae ducit in civitatem: quae ultro aperta est eis. Et execuntes transierunt vicum unum : et continuo discessit Angelus ab eo.<verse eID="acts.12.10" />
+        <verse sID="acts.12.11" osisID="acts.12.11" />Et Petrus reversus in se, dixit: Nunc scio quia vere misit Dominus Angelum suum, et eripuit me de manu Herodis, et de omni * exspectatione plebis Iudaeorum.<verse eID="acts.12.11" />
+        <verse sID="acts.12.12" osisID="acts.12.12" />Considerans autem venit ad domum Mariae matris Iohannis, qui cognominatur Marcus, ubi erant multi congregati, et orantes.<verse eID="acts.12.12" />
+        <verse sID="acts.12.13" osisID="acts.12.13" />Pulsante autem petro ostium ianuae, accessit puella ad audiendum, nomine Rode.<verse eID="acts.12.13" />
+        <verse sID="acts.12.14" osisID="acts.12.14" />Et ut cognovit vocem Petri, de gaudio non aperuit ei ianuam: intro currens autem nunciavit stare Petrum ante ianuam.<verse eID="acts.12.14" />
+        <verse sID="acts.12.15" osisID="acts.12.15" />Illi autem ad eam dixerunt: Insanis. Illa vero affirmabat ita esse. Illi autem dicebant: Angelus illius est.<verse eID="acts.12.15" />
+        <verse sID="acts.12.16" osisID="acts.12.16" />Petrus autem perseverabat pulsans. Aperientes autem, viderunt eum, et obstipuerunt.<verse eID="acts.12.16" />
+        <verse sID="acts.12.17" osisID="acts.12.17" />Adnuens autem eis manu ut tacerent enarravit eis quomodo Dominus eum eduxerit de carcere: dixit autem: Renuntiate Iacobo, et fratribus haec. Et egressus abiit in alium locum.<verse eID="acts.12.17" />
+        <verse sID="acts.12.18" osisID="acts.12.18" />Facta autem die, erat tribulatio non Minima inter milites, quidnam Petrus factus est.<verse eID="acts.12.18" />
+        <verse sID="acts.12.19" osisID="acts.12.19" />Herodes autem requirens eum, et non inveniens, disquirens custodes iussit duci: et descendens ab Iudaea in Caesaream, morabatur.<verse eID="acts.12.19" />
+        <verse sID="acts.12.20" osisID="acts.12.20" />Erat autem Herodes animis infestus Tyriis, et Sidoniis. Unanimes autem venerunt ad eum, et persuaso Blasto, qui erat super cubiculum regis, postulabant pacem, eo quod alerentur eorum civitates de regia.<verse eID="acts.12.20" />
+        <verse sID="acts.12.21" osisID="acts.12.21" />Statuto autem die, Herodes indutus vestem regalem, et sedens pro tribunali, concionabatur ad eos.<verse eID="acts.12.21" />
+        <verse sID="acts.12.22" osisID="acts.12.22" />Populus autem succlamabat: Dei vox, et non hominis.<verse eID="acts.12.22" />
+        <verse sID="acts.12.23" osisID="acts.12.23" />Confestim autem percussit eum Angelus Domini, eo quod non dedisset gloriam Deo: et consumptus vermibus, exspiritavit.<verse eID="acts.12.23" />
+        <verse sID="acts.12.24" osisID="acts.12.24" />Verbum autem Dei crescebat, et multiplicabatur.<verse eID="acts.12.24" />
+        <verse sID="acts.12.25" osisID="acts.12.25" />Barnabas autem et Saulus reversi sunt ab Hierusalem in Antiochiam expleto ministerio assumpto etiam Iohanne, qui cognominatur Marcus.<verse eID="acts.12.25" />
+      </p>
+      <chapter eID="acts.12" />
+      <chapter sID="acts.13" osisID="acts.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="acts.13.1" osisID="acts.13.1" />Erant autem quidam in, Antiochiae quae erat, et Ecclesia, prophetae, et doctores, Barnabas quoque, et Symeon, qui cognomina tur Niger, et Lucius Cyrenensis, et Manen, Herodis Tetrarchae conlactaneus, et Saulus.<verse eID="acts.13.1" />
+        <verse sID="acts.13.2" osisID="acts.13.2" />Ministrantibus autem illis Domino, et ieiunantibus, dixit eis Spiritus sanctus: Separate vero mihi Barnabam, et Saulum in opus, quod advocavi eos.<verse eID="acts.13.2" />
+        <verse sID="acts.13.3" osisID="acts.13.3" />Tunc ieiunantes, et orantes,et imponentes eis manus, dimiserunt eos.<verse eID="acts.13.3" />
+        <verse sID="acts.13.4" osisID="acts.13.4" />Ipsi quidem emissi a Spiritu sancto, descenderunt in Seleuciam; et inde navigaverunt in Cyprum.<verse eID="acts.13.4" />
+        <verse sID="acts.13.5" osisID="acts.13.5" />Et cum venissent in Salamina, praedicabant verbum Dei in synagogis Iudaeorum, habentes secum et Iohannem in ministerium.<verse eID="acts.13.5" />
+        <verse sID="acts.13.6" osisID="acts.13.6" />Cum pertransissent autem totam insulam usque Paphum, invenerunt quemdam virum magum psudoprophetam, Iudaeum, cui nomen Barihesus, quod interpretatur Elymas<verse eID="acts.13.6" />
+        <verse sID="acts.13.7" osisID="acts.13.7" />qui erat cum Proconsule Sergio Paulo viro prudenti. Hic, cum accersisset Barnabam, et Saulum, requirebat audire verbum Dei.<verse eID="acts.13.7" />
+        <verse sID="acts.13.8" osisID="acts.13.8" />Resistebat autem eis Elymas magus, (sic enim interpretatur nomen eius) quaerens avertere Proconsulem de fide, quoniam libenter * eos audiebat.<verse eID="acts.13.8" />
+        <verse sID="acts.13.9" osisID="acts.13.9" />Saulus autem, qui et Paulus, repletus Spiritu sancto, et intuens in eum<verse eID="acts.13.9" />
+        <verse sID="acts.13.10" osisID="acts.13.10" />dixit: O plene omni dolo, et omni fallacia, fili diaboli, inimice omnis iustitiae, non desinis subvertens vias Domini rectas.<verse eID="acts.13.10" />
+        <verse sID="acts.13.11" osisID="acts.13.11" />Et nunc ecce manus Domini super te, et eris caecus, non videns solem usque ad tempus. Confestim autem cecidit super eum caligo, et tenebrae, et circumiens quaerebat manus ductores.<verse eID="acts.13.11" />
+        <verse sID="acts.13.12" osisID="acts.13.12" />Tunc videns Proconsul quod factum est miratus est, et credidit stupefactus super doctrina Domini.<verse eID="acts.13.12" />
+        <verse sID="acts.13.13" osisID="acts.13.13" />Navigantes autem a Papho qui cum Paulo erant, venerunt in Pergem Pamphyliae. Iohannes autem discedens ab eis, reversus est in Hierosolyma.<verse eID="acts.13.13" />
+        <verse sID="acts.13.14" osisID="acts.13.14" />Paulus autem, et Barnabas pertranseuntes a Perge, devenerunt in Antiochiam Pisidiae: et ingressi in synagogam die sabbatorum, sederunt.<verse eID="acts.13.14" />
+        <verse sID="acts.13.15" osisID="acts.13.15" />Post autem lectionem legis, et Prophetarum, miserunt principes synagogae ad illos, dicentes: Viri fratres, si est sermo in vobis exhortationis ad plebem, dicite.<verse eID="acts.13.15" />
+        <verse sID="acts.13.16" osisID="acts.13.16" />Surgens autem Paulus, et adnuens manu, dixit: Viri Israelitae, et qui timetis Deum, audite:<verse eID="acts.13.16" />
+        <verse sID="acts.13.17" osisID="acts.13.17" />Deus plebis huius elegii patres nostros, et plebem exaltavit in peregrinatione in terra Aegypti, et cum brachio excelso eduxit eos de ea,<verse eID="acts.13.17" />
+        <verse sID="acts.13.18" osisID="acts.13.18" />et per quadraginta annorum tempus nutrivit eos in deserto.<verse eID="acts.13.18" />
+        <verse sID="acts.13.19" osisID="acts.13.19" />Et destruens gentes in terra Chanaan septem, sorte distribuit eis terram eorum:<verse eID="acts.13.19" />
+        <verse sID="acts.13.20" osisID="acts.13.20" />et post haec quasi annis quadringentis et quinquaginta, dedit eis iudices usque Samuel Prophetam.<verse eID="acts.13.20" />
+        <verse sID="acts.13.21" osisID="acts.13.21" />Exinde postulaverunt regem: et dedit illis Deus Saul filium Cis, virum de tribu Beniamin, annis quadraginta:<verse eID="acts.13.21" />
+        <verse sID="acts.13.22" osisID="acts.13.22" />et amoto illo, suscitavit eis David in regem: cui et dixit, testimonium perhibens: Inveni David filium Iesse: faciet omnes voluntates meas.<verse eID="acts.13.22" />
+        <verse sID="acts.13.23" osisID="acts.13.23" />Huius Deus ex semine secundum promissionem adduxit Israel salvatorem Iesum,<verse eID="acts.13.23" />
+        <verse sID="acts.13.24" osisID="acts.13.24" />pro praedicante Iohanne ante faciem adventus eius baptismum poenitentiae omni plebi Israel.<verse eID="acts.13.24" />
+        <verse sID="acts.13.25" osisID="acts.13.25" />Cum autem impleret Iohannes cursum, dicebat: Quem me suspicamini esse, non sum ego Christus, sed ecce* venit post me, cuius non sum dignus calciamentum pedum solvere.<verse eID="acts.13.25" />
+        <verse sID="acts.13.26" osisID="acts.13.26" />Viri fratres, filii generis Abrahae, et qui in vobis sunt timentes Deum, audite: Vobis verbum salutis huius missum est.<verse eID="acts.13.26" />
+        <verse sID="acts.13.27" osisID="acts.13.27" />Qui enim habitabant Hierusalem, et principes eorum, hunc ignorantes, et scripturas prophetarum, quae per omne sabbatum leguntur, iudicantes impleverunt:<verse eID="acts.13.27" />
+        <verse sID="acts.13.28" osisID="acts.13.28" />et nullam causam mortis invenientes, petierunt Pilatum interficere eum.<verse eID="acts.13.28" />
+        <verse sID="acts.13.29" osisID="acts.13.29" />Cum autem consummassent omnia, quae de eo scripta erant, deponentes de cruce, posuerunt in monumento.<verse eID="acts.13.29" />
+        <verse sID="acts.13.30" osisID="acts.13.30" />Deus autem illum suscitavit a mortuis: hic apparuit per dies plures his,<verse eID="acts.13.30" />
+        <verse sID="acts.13.31" osisID="acts.13.31" />qui ascenderant cum eo a Galilaca in Hierusalem: qui sunt testes eius ad plebem.<verse eID="acts.13.31" />
+        <verse sID="acts.13.32" osisID="acts.13.32" />Et nos vobis annuntiamus eam, quae ad patres nostros repromissionem facta est:<verse eID="acts.13.32" />
+        <verse sID="acts.13.33" osisID="acts.13.33" />quoniam hanc Deus replevit filiis eorum nobis resuscitans Iesum, sicut et in Psalmo secundo scriptum est: Filius meus es tu, ego hodie genui te.<verse eID="acts.13.33" />
+        <verse sID="acts.13.34" osisID="acts.13.34" />Quoniam autem resuscitavit eum Deus a mortuis, non amplius iam postea eum reversurum inolluptionem, ita dixit: Quia dabo vobis sancta David fidelia.<verse eID="acts.13.34" />
+        <verse sID="acts.13.35" osisID="acts.13.35" />Propter nos et in alio dicit: Non dabis Sanctum tuum videre corruptionem.<verse eID="acts.13.35" />
+        <verse sID="acts.13.36" osisID="acts.13.36" />David quidem enim sua generatione cum ministrasset, Dei voluntati dormivit: et adpositus est ad patres suos, et vidit corruptionem.<verse eID="acts.13.36" />
+        <verse sID="acts.13.37" osisID="acts.13.37" />Quem autem Deus suscitavit, non vidit corruptionem.<verse eID="acts.13.37" />
+        <verse sID="acts.13.38" osisID="acts.13.38" />Notum ergo sit vobis viri fratres, quia per hunc vobis remissio peccatorum adnuntiatur, et ab omnibus, quibus non potuistis in lege Moysi iustificari.<verse eID="acts.13.38" />
+        <verse sID="acts.13.39" osisID="acts.13.39" />in hoc omnis, qui credit, iustificatur.<verse eID="acts.13.39" />
+        <verse sID="acts.13.40" osisID="acts.13.40" />Videte ergo ne superveniat in vos quod dictum est in Prophetis:<verse eID="acts.13.40" />
+        <verse sID="acts.13.41" osisID="acts.13.41" />Audire contemptores, et admiramini; respicite, et disperdimini: quia opus ego operor in diebus vestris, quod non creditis, si quis enarraverit vobis.<verse eID="acts.13.41" />
+        <verse sID="acts.13.42" osisID="acts.13.42" />Exeuntibus autem eis, * in sequenti sabbato loqui sibi verba ista.<verse eID="acts.13.42" />
+        <verse sID="acts.13.43" osisID="acts.13.43" />Dimissa autem synagoga, secuti sunt multi Iudaeorum, et colentium Deum advenarum Paulum, et Barnabam: qui adloquentes suadebant eos ut permanent* gratiâ Dei. Factum est autem per universam civitatem diffamari verbum.<verse eID="acts.13.43" />
+        <verse sID="acts.13.44" osisID="acts.13.44" />sequenti vero sabbato fere universa civitas convenit audire verbum Dei.<verse eID="acts.13.44" />
+        <verse sID="acts.13.45" osisID="acts.13.45" />Videntes autem Iudaei turbas, repleti sunt aemulatione, et contradicebant verbis his, quae a Paulo dicebantur, resistentes, ac blasphemantes.<verse eID="acts.13.45" />
+        <verse sID="acts.13.46" osisID="acts.13.46" />Tunc constanter Paulus, et Barnabas dixerunt: Vobis erat necessarium primum loqui verbum Dei: sed quoniam repellitis illud, et indignos vos ipsos iudicatis aeternae vitae, ecce convertimur nos ad Gentes :<verse eID="acts.13.46" />
+        <verse sID="acts.13.47" osisID="acts.13.47" />sic enim praecepit nobis Dominus: Ecce posui te in lumen Gentibus, ut sis in salutem usque in extremum terrae.<verse eID="acts.13.47" />
+        <verse sID="acts.13.48" osisID="acts.13.48" />Audientes autem Gentes gavisae sunt, et glorificabant verbum Domini: et crediderunt quotquot erant praeordinati in vitam aeternam.<verse eID="acts.13.48" />
+        <verse sID="acts.13.49" osisID="acts.13.49" />Divulgabatur autem verbum Domini per universam regionem.<verse eID="acts.13.49" />
+        <verse sID="acts.13.50" osisID="acts.13.50" />Iudaei autem concitaverunt colentes mulieres, et honestas, et primos civitatis, et suscitaverunt tribulationem et perfectionem in Paulum, et Barnabam: et eiecerunt eos de finibus suis.<verse eID="acts.13.50" />
+        <verse sID="acts.13.51" osisID="acts.13.51" />At illi, excusso pulvere de pedibus suis in eos, venerunt in lconium.<verse eID="acts.13.51" />
+        <verse sID="acts.13.52" osisID="acts.13.52" />Discipuli autem implebantur gaudio, et Spiritu sancto.<verse eID="acts.13.52" />
+      </p>
+      <chapter eID="acts.13" />
+      <chapter sID="acts.14" osisID="acts.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="acts.14.1" osisID="acts.14.1" />Factum est autem Iconio, simul introire eos in synagogam Iudaeorum et loqui ad eos, ita ut miraretur Iudaeorum, et Graecorum copiosa multitudo, et crederet.<verse eID="acts.14.1" />
+        <verse sID="acts.14.2" osisID="acts.14.2" />Qui autem increduli erant Iudaei, suscitaverunt perfectionem, et ad iracundiam concitaverunt animas Gentium adversus fratres. Deus autem pacem fecit.<verse eID="acts.14.2" />
+        <verse sID="acts.14.3" osisID="acts.14.3" />Multo igitur tempore demorati sunt ibi, siducialiter agentes in Domino, testimonium perhibente verbo gratiae suae, dante signa, et prodigia fieri per manus eorum.<verse eID="acts.14.3" />
+        <verse sID="acts.14.4" osisID="acts.14.4" />Divisa est autem multitudo civitatis: et quidam erant cum Iudaeis, quidam vero cum Apostolis.<verse eID="acts.14.4" />
+        <verse sID="acts.14.5" osisID="acts.14.5" />Cum autem factus esset imperus, Gentium autem, et Iudaeorum cum principibus suis, et contumeliis* adficerent eos, et lapidarent,<verse eID="acts.14.5" />
+        <verse sID="acts.14.6" osisID="acts.14.6" />intelligentes confugerunt in civitates Lycaoniae Lystran, et Derben, et circatoria tota, et ibi erant adnuntiantes verbum Dei. * Et commota est omnis multitudo in doctrina eorum. Paulus autem, et Barnabas morabantur in Lystris.<verse eID="acts.14.6" />
+        <verse sID="acts.14.7" osisID="acts.14.7" />Et quidam vir infirmus pedibus sedebat, claudus ex utero matris suae, qui nunquam ambulaverat.<verse eID="acts.14.7" />
+        <verse sID="acts.14.8" osisID="acts.14.8" />Et hic audivit Paulum loquentem. Ad quem intuitus Paulus, et videns quoniam fidem habet ut salvus fieret<verse eID="acts.14.8" />
+        <verse sID="acts.14.9" osisID="acts.14.9" />ait magna voce: Tibi dico, in nomine Domini nostri Iesu Christi surge super pedes tuos rectus. Et protinus exsilivit, et ambulabat.<verse eID="acts.14.9" />
+        <verse sID="acts.14.10" osisID="acts.14.10" />Turbae autem videntes quod fecit Paulus, elevaverunt vocem suam, Lycaonice dicentes: Dei similes facti hominibus, descenderunt ad nos.<verse eID="acts.14.10" />
+        <verse sID="acts.14.11" osisID="acts.14.11" />Vocabant autem Barnaban quidem Iovem Paulum autem Mercurium: quia ipse erat dux verbi.<verse eID="acts.14.11" />
+        <verse sID="acts.14.12" osisID="acts.14.12" />Sacerdos autem Iovis, qui erat ante civitatem illorum, tauros, et coronas eis ad ianuas ad ferens, cum populis volebat sacrificare.<verse eID="acts.14.12" />
+        <verse sID="acts.14.13" osisID="acts.14.13" />Audientes vero Apostoli, Barnabas et Paulus, considertes vestimenta sua, exsilierunt in turbam, clamantes<verse eID="acts.14.13" />
+        <verse sID="acts.14.14" osisID="acts.14.14" />et dicentes: Viri, quid haec facitis? et nos mortales similes sumus vobis homines, annuntiantes vobis* ab his vanis converti ad Deum vivum, qui fecit coelum, et terram, et mare, et omnia quae in eis sunt:<verse eID="acts.14.14" />
+        <verse sID="acts.14.15" osisID="acts.14.15" />qui in praeteritis generationibus dimisit omnes gentes ingredi per vias suas.<verse eID="acts.14.15" />
+        <verse sID="acts.14.16" osisID="acts.14.16" />Et quidem non sine testimonio semetipsum reliquit, benefaciens de coelo, vobis pluvias dans, et tempora fructifera, implens ciko, et laetitia corda vestra.<verse eID="acts.14.16" />
+        <verse sID="acts.14.17" osisID="acts.14.17" />Et haec dicentes, vix sedaverunt turbas ne immolarent sibi.<verse eID="acts.14.17" />
+        <verse sID="acts.14.18" osisID="acts.14.18" />Demorantibus autem eis, et docentibus, supervenerunt quidam ab Antiochia, et lconio Iudaei: et commoventes turbas, et lapidantes Paulum, traxerunt extra civitatem, aestimantes eum mortuum esse.<verse eID="acts.14.18" />
+        <verse sID="acts.14.19" osisID="acts.14.19" />Circumdantibus eum discipulis eius, surgens intravit in civitatem, et postera die profectus est cum Barnaba in Derbem.<verse eID="acts.14.19" />
+        <verse sID="acts.14.20" osisID="acts.14.20" />Evangelizantes autem civitatem illam, et docentes multos, reversi sunt in Lystram, et Iconium, et Antiochiam.<verse eID="acts.14.20" />
+        <verse sID="acts.14.21" osisID="acts.14.21" />confirmantes animas discipulorum, exhortantes permanent in fide: et quia per multas tribulationes oportet nos introire in regnum Dei.<verse eID="acts.14.21" />
+        <verse sID="acts.14.22" osisID="acts.14.22" />Cum ordinassent autem illis maiores natu per ecclesiam, orantes cum ieiunationibus, commendaverunt eos Domino, in quem crediderunt.<verse eID="acts.14.22" />
+        <verse sID="acts.14.23" osisID="acts.14.23" />Et transeunte Pisidiam, venerunt in Pamphyliam<verse eID="acts.14.23" />
+        <verse sID="acts.14.24" osisID="acts.14.24" />et loquentes in Perge verbum Dei, descenderunt in Attaliam:<verse eID="acts.14.24" />
+        <verse sID="acts.14.25" osisID="acts.14.25" />et inde navigaverunt in Antiochiam, unde erant traditi gratiae Dei in opus, quod compleverunt.<verse eID="acts.14.25" />
+        <verse sID="acts.14.26" osisID="acts.14.26" />Venientes autem, et congregantes Ecclesiam, retulerunt quanta fecisset Deus cum ipsis, et quia aperuisset Gentibus ostium fidei.<verse eID="acts.14.26" />
+        <verse sID="acts.14.27" osisID="acts.14.27" />Morati sunt autem ibi tempus non modicum cum discipulis.<verse eID="acts.14.27" />
+      </p>
+      <chapter eID="acts.14" />
+      <chapter sID="acts.15" osisID="acts.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="acts.15.1" osisID="acts.15.1" />Et quidam descendentes a Iudaea, docebant fratres: Quia nisi circumcidamini secundum morem Moysi, non potestis salvi fieri.<verse eID="acts.15.1" />
+        <verse sID="acts.15.2" osisID="acts.15.2" />Facta ergo seditione non minima Paulo et Barnabae adversum illos, statuerunt ascendere Paulum, et Barnaban, et quosdam alios ex eis Aposto los, et maiores natu in Hierusalem, de quaestione hac.<verse eID="acts.15.2" />
+        <verse sID="acts.15.3" osisID="acts.15.3" />Illi itaque dimissi ab Ecclesia, transibant Foenicem, et Samariam, narrantes conversationem Gentium: et faciebant gaudium magnum omnibus fratribus.<verse eID="acts.15.3" />
+        <verse sID="acts.15.4" osisID="acts.15.4" />Cum venissent autem in Hierusalem, excepti sunt ab Ecclesia, et Apostolis, et senioribus: annuntiaverunt autem quanta Deus fecisset cum eis.<verse eID="acts.15.4" />
+        <verse sID="acts.15.5" osisID="acts.15.5" />Surnexerunt autem quidam de haeresi Pharisaeorum, qui crediderunt, dicentes: Quia oportet circumcidi eos, praecipere quoque servare legem Moysi.<verse eID="acts.15.5" />
+        <verse sID="acts.15.6" osisID="acts.15.6" />Convenerunt autem Apostoli, et seniores * videre pro hac quaestione.<verse eID="acts.15.6" />
+        <verse sID="acts.15.7" osisID="acts.15.7" />Magna autem conquisitione facta, surgens Petrus dixit ad eos: Viri fratres, vos scitis quia a diebus antiquis Deus in nobis elegit, per os meum audire Gentes verbum Evangelii, et credere.<verse eID="acts.15.7" />
+        <verse sID="acts.15.8" osisID="acts.15.8" />Qui cordis cognitor est Deus, testimonium. perhibuit, dans eis Spiritum sanctum, sicut et nobis<verse eID="acts.15.8" />
+        <verse sID="acts.15.9" osisID="acts.15.9" />et nil discrevit inter nos et illos, * fide purificans corda eorum.<verse eID="acts.15.9" />
+        <verse sID="acts.15.10" osisID="acts.15.10" />Et nunc ergo quid tentatis Deum, imponere iugum super cervicem discipulorum, quod neque patres nostri, neque nos potuimus portare?<verse eID="acts.15.10" />
+        <verse sID="acts.15.11" osisID="acts.15.11" />Sed per gratiam Domini Iesu credimus salvari, sicut et illi.<verse eID="acts.15.11" />
+        <verse sID="acts.15.12" osisID="acts.15.12" />Facuit autem omnis multitudo: et audiebant Barnaban, et Paulum enarrantes quanta fecisset Deus signa, et prodigia in Gentibus per eos.<verse eID="acts.15.12" />
+        <verse sID="acts.15.13" osisID="acts.15.13" />Postquam autem tacuerunt * ii, respondit Iacobus, dicens: Viri fratres, audite me.<verse eID="acts.15.13" />
+        <verse sID="acts.15.14" osisID="acts.15.14" />Symeon enarravit quomodo primum Deus prospexit sumere ex Gentibus populum nomine suo.<verse eID="acts.15.14" />
+        <verse sID="acts.15.15" osisID="acts.15.15" />Et huic confonant verba Prophetarum, sicut scriptum est:<verse eID="acts.15.15" />
+        <verse sID="acts.15.16" osisID="acts.15.16" />Post haec revertar, et aedificabo tabernaculum David,* quod cecidit: et diruta eius reaedificabo, et erigam illud:<verse eID="acts.15.16" />
+        <verse sID="acts.15.17" osisID="acts.15.17" />ut requirant caeteri hominum Dominum et omnes gentes, super quas invocatum est nomen meum super eos, dicit Dominus faciens omnia haec.<verse eID="acts.15.17" />
+        <verse sID="acts.15.18" osisID="acts.15.18" />Nota a saeculo* sunt Deo omnia opera eius.<verse eID="acts.15.18" />
+        <verse sID="acts.15.19" osisID="acts.15.19" />Propter quod ego iudico non inquietari his, qui ex Gentibus convertuntur ad Deum.<verse eID="acts.15.19" />
+        <verse sID="acts.15.20" osisID="acts.15.20" />sed innotuere eis ut abstinerent contaminationibus simulachrorum, et fornicatione, et suffocato, et sanguine.<verse eID="acts.15.20" />
+        <verse sID="acts.15.21" osisID="acts.15.21" />Moyses enim a generationibus antiquis per civitatem qui praedicant eum habet in synagogis, per omne sabbatum cum legitur.<verse eID="acts.15.21" />
+        <verse sID="acts.15.22" osisID="acts.15.22" />Tunc placuit Apostolis, et senioribus cum omni Ecclesia, eligentes viros ex eis, mittere in Antiochiam cum Paulo, et Barnaba, Iudam, qui cognominatur Barsabbas, et Silam, viros primos in fratribus<verse eID="acts.15.22" />
+        <verse sID="acts.15.23" osisID="acts.15.23" />scribentes per manum eorum haec. Apostoli, et seniores, et fratres, his, qui sunt Antiochiae, et Syriae, et Ciliciae, fratribus qui sunt ex Gentibus, salutem.<verse eID="acts.15.23" />
+        <verse sID="acts.15.24" osisID="acts.15.24" />Quoniam audivimus quia quidam ex nobis execuntes, turbaverunt vos verbis, evertentes animas vestras, dicentes: Circumcidi oportet, et observare legem: quibus non mandavimus:<verse eID="acts.15.24" />
+        <verse sID="acts.15.25" osisID="acts.15.25" />placuit nobis* coactis in unum, eligentes viros, mittere ad vos, cum carissimis nostris Barnaba quoque, et Paulo.<verse eID="acts.15.25" />
+        <verse sID="acts.15.26" osisID="acts.15.26" />hominibus, qui tradiderunt animas suas pro nomine Domini nostri Iesu Christi, in omnem tentationem.<verse eID="acts.15.26" />
+        <verse sID="acts.15.27" osisID="acts.15.27" />Misimus ergo Iudam, et Silam,et ipsos per verbum multum annuntiantes eadem.<verse eID="acts.15.27" />
+        <verse sID="acts.15.28" osisID="acts.15.28" />Placuit enim sancto* Spiritui, et nobis. nihil amplius imponi vobis oneris, quam haec quae necessaria horum:<verse eID="acts.15.28" />
+        <verse sID="acts.15.29" osisID="acts.15.29" />Abstinere ab immolatis simulachrorum, et sanguine, et suffocato, et fornicatione; a quibus observantes vos ipsos, bene agetis. Valete.<verse eID="acts.15.29" />
+        <verse sID="acts.15.30" osisID="acts.15.30" />Illi quidem dimissi, venerunt in Antiochiam: et congregata multitudine, tradiderunt epistolam.<verse eID="acts.15.30" />
+        <verse sID="acts.15.31" osisID="acts.15.31" />Cum legissent, gavisi sunt super consolatione.<verse eID="acts.15.31" />
+        <verse sID="acts.15.32" osisID="acts.15.32" />Iudas autem, et Silas, et ipsi Prophetae cum essent, per * verbum multum consolati sunt fratres, et confirmaverunt.<verse eID="acts.15.32" />
+        <verse sID="acts.15.33" osisID="acts.15.33" />Cum autem fecissent tempus, dimissi sunt cum pace a fratribus ad Apostolos.<verse eID="acts.15.33" />
+        <verse sID="acts.15.35" osisID="acts.15.35" />Paulus autem, et Barnabas commorabantur in Antiochia, docentes, et evangelizantes cum et * aliis pluribus verbum Domini.<verse eID="acts.15.35" />
+        <verse sID="acts.15.36" osisID="acts.15.36" />Post aliquot autem dies, dixit Paulus ad Barnaban: Revertentes quidem visitemus fratres per universas civitates, in quibus praedicavimus verbum Domini, quomodo se habent.<verse eID="acts.15.36" />
+        <verse sID="acts.15.37" osisID="acts.15.37" />Barnabas autem volebat secum adsumere et Iohannem, qui cognominatur Marcus.<verse eID="acts.15.37" />
+        <verse sID="acts.15.38" osisID="acts.15.38" />Paulus autem volebat eum (qui discessisset ab eis a Pamphylia, et non isset cum eis in opus) non debere recipi eum.<verse eID="acts.15.38" />
+        <verse sID="acts.15.39" osisID="acts.15.39" />Facta est ergo dissensio, ita ut discedere eos ab invicem, et Barnaban adsumpto Marco navigare Cyprum.<verse eID="acts.15.39" />
+        <verse sID="acts.15.40" osisID="acts.15.40" />Paulus autem electo * Sila profectus est, traditus gratiae Dei a fratribus.<verse eID="acts.15.40" />
+        <verse sID="acts.15.41" osisID="acts.15.41" />Perambulabat autem Syriam, et Ciliciam, confirmans Ecclesias.<verse eID="acts.15.41" />
+      </p>
+      <chapter eID="acts.15" />
+      <chapter sID="acts.16" osisID="acts.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="acts.16.1" osisID="acts.16.1" />Pervenit autem in Derben, et Lystram. Et ecce discipulus quis erat ibi nomine Timotheus, filius mulieris fidelis, patre autem Gentilis.<verse eID="acts.16.1" />
+        <verse sID="acts.16.2" osisID="acts.16.2" />Qui testificabatur ab his, qui in Lystris, et Iconio fratres.<verse eID="acts.16.2" />
+        <verse sID="acts.16.3" osisID="acts.16.3" />Hunc voluit Paulus secum proficisci: et adsumens circumcidit eum, propter Iudaeos, qui erant in locis illis. Sciebant enim omnes patrem eius, quod Gentilis esset.<verse eID="acts.16.3" />
+        <verse sID="acts.16.4" osisID="acts.16.4" />Cum autem pertransirent civitates, trade bant eis custodire dogmata iudicata ab Apostolis, et senioribus, qui erant in Hierosolymis.<verse eID="acts.16.4" />
+        <verse sID="acts.16.5" osisID="acts.16.5" />Ecclesiae quidem confirmabantur * fide, et abundabant numero quotidie.<verse eID="acts.16.5" />
+        <verse sID="acts.16.6" osisID="acts.16.6" />Pertransierunt autem Phrygiam, et Galaticam regionem, prohibiti a sancto Spiritu loqui verbum in Asia.<verse eID="acts.16.6" />
+        <verse sID="acts.16.7" osisID="acts.16.7" />Venientes autem in Mysiam, tentabant in Bithyniam ire: et non permisit eos* Spiritus Iesu.<verse eID="acts.16.7" />
+        <verse sID="acts.16.8" osisID="acts.16.8" />Transeuntes autem Mysiam, descenderunt in Troadem:<verse eID="acts.16.8" />
+        <verse sID="acts.16.9" osisID="acts.16.9" />et in somnis per noctem Paulo * ostensus vir Macedo quidam stans, et deprecans eum, et dicens: Transiens in Macedoniam, adiuva nos.<verse eID="acts.16.9" />
+        <verse sID="acts.16.10" osisID="acts.16.10" />Ut autem visum vidit, statim quaesivimus proficisci in Macedoniam, certificati quod vocasset nos Deus annuntiare eis.<verse eID="acts.16.10" />
+        <verse sID="acts.16.11" osisID="acts.16.11" />Navigantes autem a Troade, recto cursu venimus in Samothraciam, sequente die autem in Neapolim:<verse eID="acts.16.11" />
+        <verse sID="acts.16.12" osisID="acts.16.12" />et inde in Philippos, quae est prima partis Macedoniae civitas, colonia. Eramus autem in ea civitate demorantes dies aliquot.<verse eID="acts.16.12" />
+        <verse sID="acts.16.13" osisID="acts.16.13" />Die autem sabbatorum egressi sumus foris extra civitatem iuxta flumen, ubi videbatur oratio esse: et sedentes loquebamur his, quae convenerant nobis, mulieribus.<verse eID="acts.16.13" />
+        <verse sID="acts.16.14" osisID="acts.16.14" />Et quaedam mulier nomine Lydia, purpurae venditor civitatis Thyatirenorum, colens Deum, quae audiebat: cuius Dominus adaperuit cor adtendere his, quae dicebantur a Paulo.<verse eID="acts.16.14" />
+        <verse sID="acts.16.15" osisID="acts.16.15" />Cum autem baptizata est ipsa, et domus eius, deprecata est dicens: Si iudicatis me fidelem Domino esse, introeuntes in domum meam, manete. Et coegit nos.<verse eID="acts.16.15" />
+        <verse sID="acts.16.16" osisID="acts.16.16" />Factum est autem euntibus nobis in orationem, puellam quandam habentem spiritum phytonis, obviare nobis, quae quaestum multum praestabat dominis suis divinando.<verse eID="acts.16.16" />
+        <verse sID="acts.16.17" osisID="acts.16.17" />Haec sub secuta Paulo, et nobis, clamabat dicens: Hi homines servi Dei amelsi sunt, qui adnuntiant nobis viam salutis.<verse eID="acts.16.17" />
+        <verse sID="acts.16.18" osisID="acts.16.18" />Hoc autem faciebat per multos dies. Dolens autem Paulus, et conversus, spiritui dixit: Praecipio tibi in nomine Iesu Christi, ut exeas ab ea. Et exiit eâdem horâ.<verse eID="acts.16.18" />
+        <verse sID="acts.16.19" osisID="acts.16.19" />Videntes autem domini eius quia exiit spes operationis eorum, adprehendentes Paulum et Silam duxerunt in forum ad principes:<verse eID="acts.16.19" />
+        <verse sID="acts.16.20" osisID="acts.16.20" />et obtulentes eos magistratibus, dixerunt: Hi homines conturbant nostram civitatem, Iudaei cum sint:<verse eID="acts.16.20" />
+        <verse sID="acts.16.21" osisID="acts.16.21" />et praedicant mores, quos non licet nobis recipere, neque facere Romanis constitutis.<verse eID="acts.16.21" />
+        <verse sID="acts.16.22" osisID="acts.16.22" />Et * constituit turba adversus eos: et magistratus, discissis eorum tunicis, iusserunt virgis caedi.<verse eID="acts.16.22" />
+        <verse sID="acts.16.23" osisID="acts.16.23" />Multas autem imponentes illis plagas, miserunt in carcerem, praecipientes custodi carceris diligenter custodire eos.<verse eID="acts.16.23" />
+        <verse sID="acts.16.24" osisID="acts.16.24" />Qui praeceptum tale accipiens, misit eos in interiorem carcerem, et pedes eorum diligenter conclusit in lignum.<verse eID="acts.16.24" />
+        <verse sID="acts.16.25" osisID="acts.16.25" />Media autem nocte, Paulus, et Silas adorantes, hymnum canebant * Deo: audiebant autem eos vincti.<verse eID="acts.16.25" />
+        <verse sID="acts.16.26" osisID="acts.16.26" />Repente autem terrae motus factus est magnus, ut moveri fundamenta carceris. Aperta sunt autem protinus* ostia omnia: et universorum vincula soluta sunt.<verse eID="acts.16.26" />
+        <verse sID="acts.16.27" osisID="acts.16.27" />Experge autem factus custos carceris, et videns apertas ianuas carceris, stringens gladium incipiebat se interficere, aestimans effugisse vinctos.<verse eID="acts.16.27" />
+        <verse sID="acts.16.28" osisID="acts.16.28" />Exclamavit autem voce magna Paulus, dicens: Nihil feceris tibi mali, omnes enim sumus in praesenti.<verse eID="acts.16.28" />
+        <verse sID="acts.16.29" osisID="acts.16.29" />Petens autem lumen, introgressus est: et tremefactus procidit Paulo et Silae:<verse eID="acts.16.29" />
+        <verse sID="acts.16.30" osisID="acts.16.30" />et producens eos foris, ait: Domini, quid me oportet facere, ut salvus siam?<verse eID="acts.16.30" />
+        <verse sID="acts.16.31" osisID="acts.16.31" />Illi autem dixerunt: Crede in Dominum Iesum Christum: et salvus eris tu, et universa domus tua.<verse eID="acts.16.31" />
+        <verse sID="acts.16.32" osisID="acts.16.32" />Et locuti sunt ei verbum Domini, et omnibus qui erant in domo eius<verse eID="acts.16.32" />
+        <verse sID="acts.16.33" osisID="acts.16.33" />Et adsumens eos in ea hora noctis, lavit a plagis: et baptizatus est ipse, et qui illius erant omnes continuo.<verse eID="acts.16.33" />
+        <verse sID="acts.16.34" osisID="acts.16.34" />Cumque perduxisset eos in domum suam adposuit eis mensam, et exsultabat credens Deo.<verse eID="acts.16.34" />
+        <verse sID="acts.16.35" osisID="acts.16.35" />Die autem facta, miserunt magistratus lictores, dicentes : Dimitte homines * hos.<verse eID="acts.16.35" />
+        <verse sID="acts.16.36" osisID="acts.16.36" />Nunciavit autem custos carceris verba haec ad Paulum: Quia miserunt praetores ut dimittamini: nunc ergo exeuntes, ite in pace.<verse eID="acts.16.36" />
+        <verse sID="acts.16.37" osisID="acts.16.37" />Paulus autem ait: Caesos nos publice, incondemnatos, homines Romanos constitutos miserunt in carcerem, et nunc occulte nos eiiciunt? Non: sed ipsi nos venientes eiiciant.<verse eID="acts.16.37" />
+        <verse sID="acts.16.38" osisID="acts.16.38" />Renuntiaverunt autem lictores magistratibus verba haec. Et timuerunt audientes quod Romani essent:<verse eID="acts.16.38" />
+        <verse sID="acts.16.39" osisID="acts.16.39" />et venientes rogaverunt eos, et educentes petierunt exire de civitate.<verse eID="acts.16.39" />
+        <verse sID="acts.16.40" osisID="acts.16.40" />Exeuntes autem de carcere, venerunt ad Lydiam: et cum vidissent fratres, exhortati sunt illos, et profecti sunt.<verse eID="acts.16.40" />
+      </p>
+      <chapter eID="acts.16" />
+      <chapter sID="acts.17" osisID="acts.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="acts.17.1" osisID="acts.17.1" />Transeuntes autem Apolloniam, et Amphipolim, venerunt in Thessalonicam, ubi erat synagoga Iudaeorum.<verse eID="acts.17.1" />
+        <verse sID="acts.17.2" osisID="acts.17.2" />Secundum consuetudinem autem Paulus introivit ad eos, et per sabbata tria disputabat eis de Scripturis<verse eID="acts.17.2" />
+        <verse sID="acts.17.3" osisID="acts.17.3" />adaperiens, et commendans quia Christum oportuit pari, et resurgere a mortuis: et quia hic est Iesus Christus, quem ego praedico vobis.<verse eID="acts.17.3" />
+        <verse sID="acts.17.4" osisID="acts.17.4" />Et quidam ex eis crediderunt, et adiuncti sunt Paulo, et Silae: de colentibus quoque Graecis multitudo magna, mulieres quoque principales non paucae.<verse eID="acts.17.4" />
+        <verse sID="acts.17.5" osisID="acts.17.5" />Aemulantes autem Iudaei, et adsumpti forensium viros* quosdam nequissimos non obedientes, et turba facta, conturbabant civitatem: et ad sistentes domui lesonis, quaerebant eos producere in populum.<verse eID="acts.17.5" />
+        <verse sID="acts.17.6" osisID="acts.17.6" />Non invenientes autem eos, traxerunt Iasonem, et quosdam alios fratres ad principes civitatis, clamantes: Quia qui orbem terrarum concitant, hi et hic venerunt.<verse eID="acts.17.6" />
+        <verse sID="acts.17.7" osisID="acts.17.7" />quos suscepit Iason, et hi omnes contra consulta Caesaris agunt, regem dicentes esse alium, Iesum.<verse eID="acts.17.7" />
+        <verse sID="acts.17.8" osisID="acts.17.8" />Conturbaverunt autem civitatem, et principes civitatis audientes haec.<verse eID="acts.17.8" />
+        <verse sID="acts.17.9" osisID="acts.17.9" />Et accipientes satis ab Iasone, et a caeteris, dimiserunt eos.<verse eID="acts.17.9" />
+        <verse sID="acts.17.10" osisID="acts.17.10" />Fratres autem confestim per noctem dimiserunt Paulum, et Silam in Beroeam. Qui cum venissent, in synagogam abierunt Iudaeorum.<verse eID="acts.17.10" />
+        <verse sID="acts.17.11" osisID="acts.17.11" />Hi autem erant nobiliores eorum, qui sunt in Thessalonica, qui exceperunt verbum Dei cum omni voluntate, quotidie inquaerentes Scripturas, si haberent haec ita.<verse eID="acts.17.11" />
+        <verse sID="acts.17.12" osisID="acts.17.12" />Multi quidem ex his crediderunt, et Gentilium mulierum honestarum, et virorum non pauci.<verse eID="acts.17.12" />
+        <verse sID="acts.17.13" osisID="acts.17.13" />Cum autem cognovissent qui a Thessalonica Iudaei, quia et Beroea praedicatum est a Paulo verbum Dei, venerunt et illuc concitantes populos.<verse eID="acts.17.13" />
+        <verse sID="acts.17.14" osisID="acts.17.14" />Statim autem tunc Paulum dimiserunt fratres, ut iret usque ad mare: remanserunt vero Silas, et Timotheus ibi<verse eID="acts.17.14" />
+        <verse sID="acts.17.15" osisID="acts.17.15" />Qui autem deducebant Paulum, duxerunt eum usque Athenas, et accepto mandato ab eo ad Silam, et Timotheum, ut quam velocissime veni rent ad illum, exierunt.<verse eID="acts.17.15" />
+        <verse sID="acts.17.16" osisID="acts.17.16" />Cum autem Athenis exspectaret eos Paulus. irritabatur spiritus eius in ipso, aspicentis circa simulachrum esse civitatem.<verse eID="acts.17.16" />
+        <verse sID="acts.17.17" osisID="acts.17.17" />Disputabat igitur in synagoga Iudaeis, et colentibus, et in foro, per omnem diem * his, qui praesentes erant.<verse eID="acts.17.17" />
+        <verse sID="acts.17.18" osisID="acts.17.18" />Quidam autem Epicuriorum, et Istoicorum philosophorum,* disserebant cum eo, et quidam dicebant: Quid vult seminator hic, dicere? Illi autem: Novorum daemoniorum videtur annuntiator esse: quia Iesum, et resurrectionem adnuntiabat eis.<verse eID="acts.17.18" />
+        <verse sID="acts.17.19" osisID="acts.17.19" />Adprehensum eum ad Arium pagum trahebant, dicentes: Possumus cognoscere quae est nova haec, quae a te loquitur, doctrina?<verse eID="acts.17.19" />
+        <verse sID="acts.17.20" osisID="acts.17.20" />nova enim quaedam verba infers in sinuas nostras: Volumus ergo scire quid velint esse.<verse eID="acts.17.20" />
+        <verse sID="acts.17.21" osisID="acts.17.21" />(Atheni autem omnes, et peregrini hospites, in nihil aliud vacabant, quam dicere aliquid, et audire novum.)<verse eID="acts.17.21" />
+        <verse sID="acts.17.22" osisID="acts.17.22" />Stans autem Paulus in medio Ario pago dixit: Viri Athenienses, per omnia quasi superstitiosos vos video.<verse eID="acts.17.22" />
+        <verse sID="acts.17.23" osisID="acts.17.23" />Perambulans enim, et circumspiciens culturas vestras, inveni et aram, super quam scriptum: IGNOTO DEO. Quem ergo ignorantes colitis, hunc ego adnuntio vobis.<verse eID="acts.17.23" />
+        <verse sID="acts.17.24" osisID="acts.17.24" />Deus, qui fecit mundum, et omnia quae sunt in eo, hic coeli et terrae cum sit Dominus, non in manufactis templis habitat,<verse eID="acts.17.24" />
+        <verse sID="acts.17.25" osisID="acts.17.25" />nec a manibus humanis curatur, tanquam geat cuiusdam, ipse dans omnibus vitam, et spiritum, et omnia:<verse eID="acts.17.25" />
+        <verse sID="acts.17.26" osisID="acts.17.26" />fecit ex uno sanguine omne genus hominum inhabitare super universam faciem terrae, praefiniens imperata tempora, et terminos habitationis eorum.<verse eID="acts.17.26" />
+        <verse sID="acts.17.27" osisID="acts.17.27" />quaerere Dominum, si forte tractarent eum, et invenirent, et quidem non longe ab unoquoque nostrum constituto.<verse eID="acts.17.27" />
+        <verse sID="acts.17.28" osisID="acts.17.28" />In ipso enim vivimus, et movemur, et sumus: sicut et quidam vestrum Poetarum dixerunt: Ipsius enim et genus sumus.<verse eID="acts.17.28" />
+        <verse sID="acts.17.29" osisID="acts.17.29" />Genus ergo constituti Dei, non debemus aestimare, auro, aut argento, aut lapideae culpturae artis et cogitationis hominis, Divinum esse simile.<verse eID="acts.17.29" />
+        <verse sID="acts.17.30" osisID="acts.17.30" />Et tempora quidem ignorantiae despiciens Deus, nunc annuntiat hominibus omnes ubique poenitentiam agere.<verse eID="acts.17.30" />
+        <verse sID="acts.17.31" osisID="acts.17.31" />eo quod statuit diem, in qua futurus est iudicare orbem in aequitate, in viro, cui statuit, fidem praestans omnibus, suscitans eum a mortuis.<verse eID="acts.17.31" />
+        <verse sID="acts.17.32" osisID="acts.17.32" />* Cum audissent autem resurrectionem mortuorum, quidam quidem irridebant, quidam vero dixerunt: Audiemus te de hoc iterum.<verse eID="acts.17.32" />
+        <verse sID="acts.17.33" osisID="acts.17.33" />Et sic Paulus exiit de medio eorum.<verse eID="acts.17.33" />
+        <verse sID="acts.17.34" osisID="acts.17.34" />Quidam vero viri adhaerentes ei, crediderunt: in quibus et Dionysius Ariopagita, et mulier honesta nomine Damaris, et alii cum eis.<verse eID="acts.17.34" />
+      </p>
+      <chapter eID="acts.17" />
+      <chapter sID="acts.18" osisID="acts.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="acts.18.1" osisID="acts.18.1" />Post haec autem egressus Paulus ab Athenis,venit in Corinthum:<verse eID="acts.18.1" />
+        <verse sID="acts.18.2" osisID="acts.18.2" />et inveniens quemdam Iudaeum, nomine Aculam, Ponticum genere, qui nuper venerat ab Italia, et Priscillam uxorem eius, (eo quod autem praecepisset Claudius discedere omnes Iudaeos a Roma) accessit eos.<verse eID="acts.18.2" />
+        <verse sID="acts.18.3" osisID="acts.18.3" />Et quoniam eiusdem artis erat, manebat apud eos, et operabatur: (erant autem scenofactoriae artis.<verse eID="acts.18.3" />
+        <verse sID="acts.18.4" osisID="acts.18.4" />Disputabat autem in synagoga per omne sabbatum, suadebat autem Iudaeos, et Graecos.<verse eID="acts.18.4" />
+        <verse sID="acts.18.5" osisID="acts.18.5" />Cum autem venissent a Macedonia Silas quoque et Timotheus, urguebatur verbo Paulus, testificans Iudaeis Christum Iesum.<verse eID="acts.18.5" />
+        <verse sID="acts.18.6" osisID="acts.18.6" />Resistentibus autem illis, et blasphemantibus, excutiens vestimenta, dixit ad illos: Sanguis vester super caput vestrum: mundus ego, ex hoc iam ad Gentes vadam.<verse eID="acts.18.6" />
+        <verse sID="acts.18.7" osisID="acts.18.7" />Et * migrans inde, venit in domum cuiusdam, nomine Titi Iusti, colentis Deum, cuius domus erat coniuncta synagogae.<verse eID="acts.18.7" />
+        <verse sID="acts.18.8" osisID="acts.18.8" />Crispus autem princeps synagogae credidit Domino cum omni domo sua: et multi Corinthiorum audientes crediderunt, et baptizabantur.<verse eID="acts.18.8" />
+        <verse sID="acts.18.9" osisID="acts.18.9" />Dixit autem Dominus per visum nocte Paulo: Noli timere, sed loquere, et ne taceas:<verse eID="acts.18.9" />
+        <verse sID="acts.18.10" osisID="acts.18.10" />* propter quod ego sum tecum: et nemo apponetur ut noceat te: quia? populus est mihi multus in civitate hac.<verse eID="acts.18.10" />
+        <verse sID="acts.18.11" osisID="acts.18.11" />Sedit autem annum et menses sex, docens in eis verbum Dei.<verse eID="acts.18.11" />
+        <verse sID="acts.18.12" osisID="acts.18.12" />Gallione autem proconsule Achaiae, insurrexerunt unanimes Iudaei Paulo, et adduxerunt eum ad tribunal,<verse eID="acts.18.12" />
+        <verse sID="acts.18.13" osisID="acts.18.13" />dicentes: Quia extra legem hic suadet homines colere Deum.<verse eID="acts.18.13" />
+        <verse sID="acts.18.14" osisID="acts.18.14" />Incipiente autem Paulo aperire os, dixit Gallio ad Iudaeos: Si quidem esset iniquitas aliqua, aut fallacia pessima, ô Iudaei, rationaliter sustinerem vos.<verse eID="acts.18.14" />
+        <verse sID="acts.18.15" osisID="acts.18.15" />Si vero quaestio est de verbo, et nominibus, et legis vestrae, videritis ipsi: Iudex enim ego horum nolo esse.<verse eID="acts.18.15" />
+        <verse sID="acts.18.16" osisID="acts.18.16" />Et abegit eos a tribunali.<verse eID="acts.18.16" />
+        <verse sID="acts.18.17" osisID="acts.18.17" />Adprehendentes autem omnes Graeci Sosthenem* principem synagogae, percutiebant ante tribunal: et nihil eorum Gallioni curae erat.<verse eID="acts.18.17" />
+        <verse sID="acts.18.18" osisID="acts.18.18" />Paulus autem cum adhuc perdurasset dies multos, fratribus valefacieus, enavigavit in Syriam, (et cum eo Priscilla, et Aculas)* qui sibi tonso capite in Cenchris: habebat enim votum.<verse eID="acts.18.18" />
+        <verse sID="acts.18.19" osisID="acts.18.19" />Venerunt autem in Ephesum, et illos reliquit ibi. Ipse vero ingressus in synagogam, disputabat Iudaeis.<verse eID="acts.18.19" />
+        <verse sID="acts.18.20" osisID="acts.18.20" />Rogantibus autem eis ampliore tempore remanere apud eos, non adnuit,<verse eID="acts.18.20" />
+        <verse sID="acts.18.21" osisID="acts.18.21" />sed valefaciens eis, et dicens, iterum revertar ad vos Deo volente, et profectus est ab Epheso.<verse eID="acts.18.21" />
+        <verse sID="acts.18.22" osisID="acts.18.22" />Et descendens in Caesarea, cum ascendit, et salutavit Ecclesiam, descendit in Antiochiam.<verse eID="acts.18.22" />
+        <verse sID="acts.18.23" osisID="acts.18.23" />Et faciens tempus aliquod, profectus est perambulans ex ordine Galaticam regionem, et Phrygiam, confirmans omnes discipulos.<verse eID="acts.18.23" />
+        <verse sID="acts.18.24" osisID="acts.18.24" />Iudaeus autem quidam, Apollo nomine Alexandrinus genere, vir eloquens, venit in Ephesum, potens in Scripturis.<verse eID="acts.18.24" />
+        <verse sID="acts.18.25" osisID="acts.18.25" />Hic erat edoctus viam Domini: et servens spiritu loquebatur, et docebat diligenter quae circa Iesu, sciens tantum baptismum Iohannis.<verse eID="acts.18.25" />
+        <verse sID="acts.18.26" osisID="acts.18.26" />Hic ergo coepit fiducialiter agere in synagoga. Audientes autem * ipsius Priscilla et Aculas, adsumpserunt eum, et diligentius ei exposuerunt viam Domini.<verse eID="acts.18.26" />
+        <verse sID="acts.18.27" osisID="acts.18.27" />Volente autem eo in Achaiam pervenire exhortati fratres, scripserunt discipulis excipere eum. Qui cum venisset, profuit multum credentibus per gratiam.<verse eID="acts.18.27" />
+        <verse sID="acts.18.28" osisID="acts.18.28" />Vehementer enim cum Iudaeis convincebat publice, et in Domino, ostendens per Scripturas, esse Christum Iesum.<verse eID="acts.18.28" />
+      </p>
+      <chapter eID="acts.18" />
+      <chapter sID="acts.19" osisID="acts.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="acts.19.1" osisID="acts.19.1" />Factum est autem, dum Apollo esset Corinthi, Paulum transeuntem superiores partes, descendere in Ephesum: et inveniens quosdam discipulos,<verse eID="acts.19.1" />
+        <verse sID="acts.19.2" osisID="acts.19.2" />dixit ad eos: Spiritum sanctum accepistis credentes? At illi ad eum: Sed nec si Spiritus sanctus est, audivimus.<verse eID="acts.19.2" />
+        <verse sID="acts.19.3" osisID="acts.19.3" />At ille dixit: In quem ergo baptizati estis? Qui responderunt: In baptisma Iohannis.<verse eID="acts.19.3" />
+        <verse sID="acts.19.4" osisID="acts.19.4" />Dixit autem Paulus: Iohannes quidem baptizavit baptismum poenitentiae, plebi dicens: In advenientem post ipsum ut crederent, hoc est, in Iesum.<verse eID="acts.19.4" />
+        <verse sID="acts.19.5" osisID="acts.19.5" />Audientes autem, baptizati sunt in nomine Domini Iesu.<verse eID="acts.19.5" />
+        <verse sID="acts.19.6" osisID="acts.19.6" />Et cum imposuisset illis Paulus manus, venit Spiritus sanctus super eos: loquebantur vero linguis, et completabant.<verse eID="acts.19.6" />
+        <verse sID="acts.19.7" osisID="acts.19.7" />Erant autem omnes viri fere duodecim.<verse eID="acts.19.7" />
+        <verse sID="acts.19.8" osisID="acts.19.8" />Introgressus autem in synagogam, cum fiducia loquebatur per menses tres, disputans, et suadens de regno Dei.<verse eID="acts.19.8" />
+        <verse sID="acts.19.9" osisID="acts.19.9" />Cum autem quidam indurarentur, et non obedirent, maledicentes viam Domini coram multitudine Gentium, descendens ab eis, segregavit discipulos, quotidie disputans in schola tyranni cuiusdam.<verse eID="acts.19.9" />
+        <verse sID="acts.19.10" osisID="acts.19.10" />Hoc autem factum est per biennium, usquequo omnes, qui habitabant Asiam, audirent verbum Domini, * Iudaei quoque, atque Gentiles.<verse eID="acts.19.10" />
+        <verse sID="acts.19.11" osisID="acts.19.11" />Virtutesque non quaslibet Deus faciebat per manus Pauli:<verse eID="acts.19.11" />
+        <verse sID="acts.19.12" osisID="acts.19.12" />ita ut etiam super longuidos deferrentur a corpore eius sudaria, et simicinthia, et recedebant ab eis languores, spiritus quoque nequissimi egrediebantur.<verse eID="acts.19.12" />
+        <verse sID="acts.19.13" osisID="acts.19.13" />Tentaverunt autem quidam * ex circumeuntibus Iudaeis exorcistis, nominare super eos qui habebant spiritus malignos, nomen Domini Iesu, dicentes: Adiuro vos per Iesum, quem Paulus praedicat.<verse eID="acts.19.13" />
+        <verse sID="acts.19.14" osisID="acts.19.14" />Erant autem quidam Scevae Iudaei* principis sacerdotum septem filii, qui hoc faciebant.<verse eID="acts.19.14" />
+        <verse sID="acts.19.15" osisID="acts.19.15" />Respondens autem spiritus malignus dixit: Iesum scio, et Paulum novi: vos autem qui estis?<verse eID="acts.19.15" />
+        <verse sID="acts.19.16" osisID="acts.19.16" />Et siliens homo, in quo erat spiritus iniquus, in eis, et * cum dominatus esset, praevaluit adversus eos, ita ut nudi, et vulnerati effugerent de domo illa.<verse eID="acts.19.16" />
+        <verse sID="acts.19.17" osisID="acts.19.17" />Hoc autem factum est notum omnibus Iudaeis, atque Gentilibus, qui habitabant Ephesum: et cubuit timor super omnes illos, et magnificabant nomen Domini Iesu.<verse eID="acts.19.17" />
+        <verse sID="acts.19.18" osisID="acts.19.18" />Multi quoque credentium veniebant confitentes, et annuntiantes actus suos.<verse eID="acts.19.18" />
+        <verse sID="acts.19.19" osisID="acts.19.19" />Multi autem ex eis, qui curiositates gesserunt, contulerunt libros, combusserunt coram omnibus: et computatis pretiis illorum, invenerunt pecuniae quinquaginta millia.<verse eID="acts.19.19" />
+        <verse sID="acts.19.20" osisID="acts.19.20" />Ita potens fortiter verbum Dei crescebat, et confortabatur.<verse eID="acts.19.20" />
+        <verse sID="acts.19.21" osisID="acts.19.21" />Cum autem complerentur haec, Paulus statuit in Spiritu transire Macedoniam et Achaiam ire in Hierosolyma, dicens: Quoniam postquam fuero ibi, oportet me et Romam videre.<verse eID="acts.19.21" />
+        <verse sID="acts.19.22" osisID="acts.19.22" />Mittens autem in Macedoniam duos ex ministrantibus sibi, Timotheum, et Erastum, ipse remansit tempus in Asia.<verse eID="acts.19.22" />
+        <verse sID="acts.19.23" osisID="acts.19.23" />Facta est autem secundum tempus illud tur batio non minima de via.<verse eID="acts.19.23" />
+        <verse sID="acts.19.24" osisID="acts.19.24" />Demetrius enim quidam nomine, faber argentarius, faciens templa argentea Dianae, praestabat artificibus quaestum non modicum:<verse eID="acts.19.24" />
+        <verse sID="acts.19.25" osisID="acts.19.25" />quos congregans, et eos, qui huiusmodi erant artifices, dixit: Viri, nostis quia de hoc artificio adquisitio nobis est:<verse eID="acts.19.25" />
+        <verse sID="acts.19.26" osisID="acts.19.26" />et videtis, et auditis, quoniam non solum Ephesi, sed pene totius Asiae, Paulus hic suadens amovit multam turbam, dicens: Quia non sunt dii, qui per manus fiunt.<verse eID="acts.19.26" />
+        <verse sID="acts.19.27" osisID="acts.19.27" />Non solum autem haec periclitatur nobis pars in redargutionem venire, sed etiam magnae deae templum Dianae pro nihilo * deputabitur, incipietque destrui* maiestas eius, quam tota Asia, et orbis terrarum colit.<verse eID="acts.19.27" />
+        <verse sID="acts.19.28" osisID="acts.19.28" />Audientes autem, et facti pleni furore, exclamaverunt dicentes: Magna est Diana Ephesiorum.<verse eID="acts.19.28" />
+        <verse sID="acts.19.29" osisID="acts.19.29" />Et impleta est civitas tota confusione, impetumque fecerunt uno animo inlieatrum, rapto Gaio, et Aristarcho Macedonibus, cum comitibus Pauli.<verse eID="acts.19.29" />
+        <verse sID="acts.19.30" osisID="acts.19.30" />Paulo autem volente introire in populum, non permiserunt eum discipuli.<verse eID="acts.19.30" />
+        <verse sID="acts.19.31" osisID="acts.19.31" />Quidam autem et principes Asiae, constituti* ei amici, miserunt ad eum rogantes ne daret seipsum inlieatrum:<verse eID="acts.19.31" />
+        <verse sID="acts.19.32" osisID="acts.19.32" />alii ergo aliud quid Iamabant. Erat enim Ecclesia confusa: et plures nesciebant quapropter convenissent.<verse eID="acts.19.32" />
+        <verse sID="acts.19.33" osisID="acts.19.33" />De turba autem detraxerunt Alexandrum proponentibus eum Iudaeis. Alexander autem quoniam Iudaeus est, (volebat) satisfacere populo.<verse eID="acts.19.33" />
+        <verse sID="acts.19.34" osisID="acts.19.34" />Ut cognoverunt autem quohiam Iudaeus est, vox facta est una ex omnium, quasi per horas duas Iamantium: Magna est Diana Ephesiorum.<verse eID="acts.19.34" />
+        <verse sID="acts.19.35" osisID="acts.19.35" />Cum sedasset autem Scriba turbas, dixit: Viri Ephesii, quis enim est hominum, qui nesciat civitatem Ephesiorum cultricem esse magnae Dianae, et Iovis prolis?<verse eID="acts.19.35" />
+        <verse sID="acts.19.36" osisID="acts.19.36" />*...... oportet vos sedatos esse, et nihil propterque agere.<verse eID="acts.19.36" />
+        <verse sID="acts.19.37" osisID="acts.19.37" />Adduxistis enim homines hos, neque sacrilegos, neque blasphemantes deam nostram.<verse eID="acts.19.37" />
+        <verse sID="acts.19.38" osisID="acts.19.38" />Quod si Demetrius, et qui cum eo sunt artifices, habent adversus aliquem causam, forenses aguntur, et proconsules sunt, accusent invicem.<verse eID="acts.19.38" />
+        <verse sID="acts.19.39" osisID="acts.19.39" />Si quid autem alterius rei inquiritis: in legitima Ecclesia* absolvi.<verse eID="acts.19.39" />
+        <verse sID="acts.19.40" osisID="acts.19.40" />Nam et periclitamur accusari seditionis hodiernae* diei: cum nulla causa sit (de qua possimus reddere rationem) et congregationis istius. Et haec cum dixisset, dimisit Ecclesiam.<verse eID="acts.19.40" />
+      </p>
+      <chapter eID="acts.19" />
+      <chapter sID="acts.20" osisID="acts.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="acts.20.1" osisID="acts.20.1" />Postquam autem cessavit tumultus, convocatis Paulus discipulis, et exhortatus est, et valedicens, exiit in Macedoniam ut iret.<verse eID="acts.20.1" />
+        <verse sID="acts.20.2" osisID="acts.20.2" />Cum autem perambulasset partes illas, et exhortatus fuisset eos sermone multo, venit ad Graeciam.<verse eID="acts.20.2" />
+        <verse sID="acts.20.3" osisID="acts.20.3" />Cum fecisset autem menses tres, facta insidia illi ab Iudaeis* incipienti navigare in Syriam: fuit in consilium ut reverteret per Macedoniam.<verse eID="acts.20.3" />
+        <verse sID="acts.20.4" osisID="acts.20.4" />Comitabatur autem * eum usque Asiam Sopater Pyrri Beroensis, Thessalonicensium autem Aristarchus, et Secundus, et Gaius Derbaeus, et Timotheus: Asiani vero Tychicus, et Trophimus.<verse eID="acts.20.4" />
+        <verse sID="acts.20.5" osisID="acts.20.5" />Hi autem * cum praecessissent, exspectabant nos in Troade:<verse eID="acts.20.5" />
+        <verse sID="acts.20.6" osisID="acts.20.6" />nos autem navigavimus post dies azymorum a Philippis, et venimus ad eos in Troade infra diebus quinque, ubi demorati sumus dies septem.<verse eID="acts.20.6" />
+        <verse sID="acts.20.7" osisID="acts.20.7" />In una autem Sabbatorum, * congregatis nobis frangere panem, Paulus enarrabat eis, incipiens proficisci in crastinum, protraxit vero sermonem usque in mediam noctem.<verse eID="acts.20.7" />
+        <verse sID="acts.20.8" osisID="acts.20.8" />Erant autem lanternae copiosae in coenaculo, ubi eramus.<verse eID="acts.20.8" />
+        <verse sID="acts.20.9" osisID="acts.20.9" />Sedens autem quidam nomine Eutychus super fenestram, cum mergeretur somno gravi, enarrante Paulo diutius, deductus a somno cecidit de * tertio tecto deorsum: sublatus est mortuus.<verse eID="acts.20.9" />
+        <verse sID="acts.20.10" osisID="acts.20.10" />Descendens autem Paulus, incubuit eum: et complexus dixit: Nolite turbari, anima enim ipsius in eo est.<verse eID="acts.20.10" />
+        <verse sID="acts.20.11" osisID="acts.20.11" />Ascendens autem, et frangens panem, et gustans, satisque adlocutus usque in lucem, ita exiit.<verse eID="acts.20.11" />
+        <verse sID="acts.20.12" osisID="acts.20.12" />Adduxerunt autem puerum vivum, et consolati sunt non minime.<verse eID="acts.20.12" />
+        <verse sID="acts.20.13" osisID="acts.20.13" />Nos autem provecti in navem, navigavimus in Asson, inde volentes suscipere Paulum: sic enim disposuerat ipse terram iter facturus.<verse eID="acts.20.13" />
+        <verse sID="acts.20.14" osisID="acts.20.14" />Cum autem convenisset nos in Asson, adsumentes eum, venimus in Mytilenem.<verse eID="acts.20.14" />
+        <verse sID="acts.20.15" osisID="acts.20.15" />Et inde navigantes, sequenti die pervenimus contra Chium, et altera die accessimus Samon, sequenti die venimus Mileto:<verse eID="acts.20.15" />
+        <verse sID="acts.20.16" osisID="acts.20.16" />decreverat enim Paulus transnavigare Ephesum, ut ne fieret ei tempus detrahere in Asia. Testinabat enim, si possibile esset ei, diem Pentecosten fieri in Hierosolymis.<verse eID="acts.20.16" />
+        <verse sID="acts.20.17" osisID="acts.20.17" />A Mileto autem mittens in Ephesum, convocavit Maiores natu Ecclesiae.<verse eID="acts.20.17" />
+        <verse sID="acts.20.18" osisID="acts.20.18" />Qui cum venissent ad eum unanimes *, dixit illis: Vos scitis, a prima die, ex quo accessi inAsiam, qualiter vobiscum per omne tempus sui,<verse eID="acts.20.18" />
+        <verse sID="acts.20.19" osisID="acts.20.19" />serviens Domino cum omni humilitate, et lacrymis, et tentationibus, quae acciderunt mihi in insidiis Iudaeorum:<verse eID="acts.20.19" />
+        <verse sID="acts.20.20" osisID="acts.20.20" />quomodo nihil subtraxerim quod profuit quod non adnuntiarem vobis, et docerem vos publice, et per domos<verse eID="acts.20.20" />
+        <verse sID="acts.20.21" osisID="acts.20.21" />testificans Iudaeis quoque, atque Gentilibus quae in Deum poenitentiam, et fidem * quam in Dominum Iesum Christum.<verse eID="acts.20.21" />
+        <verse sID="acts.20.22" osisID="acts.20.22" />Et nunc ecce vinctus ego spiritu, vado in Hierusalem; quae in ea ventura sunt mihi, ignorans :<verse eID="acts.20.22" />
+        <verse sID="acts.20.23" osisID="acts.20.23" />verum tamen quod Spiritus sanctus protestatur mihi, dicens: quoniam vincula, et tribulationes me manent.<verse eID="acts.20.23" />
+        <verse sID="acts.20.24" osisID="acts.20.24" />Sed neminum rationem facio: nec habeo animam pretiosiorem me, in ipso ut consummem cursum meum cum gaudio, et ministerium. quod accepi a Domino Iesu, testificari Evangelium gratiae Dei.<verse eID="acts.20.24" />
+        <verse sID="acts.20.25" osisID="acts.20.25" />Et nunc ego scio, quia non amplius videbitis faciem meam vos omnes, per quos pertransivi praeditans regnum Dei.<verse eID="acts.20.25" />
+        <verse sID="acts.20.26" osisID="acts.20.26" />Quapropter contestor vobis in hodierno die, quia mundus sum a sanguine omnium vestrum.<verse eID="acts.20.26" />
+        <verse sID="acts.20.27" osisID="acts.20.27" />Non enim subterfugi, ut non adnuntiarem vobis omne consilium Dei.<verse eID="acts.20.27" />
+        <verse sID="acts.20.28" osisID="acts.20.28" />Adtendite ergo scipsis, et universo gregi in quo vos Spiritus sanctus posuit episcopos, regere Ecclesiam Domini, quam adquisivit per sanguinem suum.<verse eID="acts.20.28" />
+        <verse sID="acts.20.29" osisID="acts.20.29" />Ego enim scio hoc, quia * venient post discessionem meam lupi graves in vos, non parcentes gregi.<verse eID="acts.20.29" />
+        <verse sID="acts.20.30" osisID="acts.20.30" />Et ex vobis ipsis exsurgent viri loquentes perversa, ut adducant discipulos post seipsos.<verse eID="acts.20.30" />
+        <verse sID="acts.20.31" osisID="acts.20.31" />Propter quod vigilate, memoria retinentes, quia per triennium nocte ac die non cessavi, cum lacrymis monens unumquemque vestrum.<verse eID="acts.20.31" />
+        <verse sID="acts.20.32" osisID="acts.20.32" />Et nunc commendo vos, fratres, Deo, et verbo gratiae eius, qui potest aedificare vos, et dare haereditatem in sanctinciis omnibus.<verse eID="acts.20.32" />
+        <verse sID="acts.20.33" osisID="acts.20.33" />Argentum, et aurum, aut vestimentum nullius vestrum concupivi:<verse eID="acts.20.33" />
+        <verse sID="acts.20.34" osisID="acts.20.34" />ipsi scitis, quia necessitatibus meis, et his, qui sunt mecum, ministraverunt manus istae.<verse eID="acts.20.34" />
+        <verse sID="acts.20.35" osisID="acts.20.35" />Omnia ostendi* vobis, quia sic laborantes, oportet adsumere infirmos, meminisse quo que verborum Domini Iesu, quoniam ipse dixit: Beatum est magis dare, quam accipere.<verse eID="acts.20.35" />
+        <verse sID="acts.20.36" osisID="acts.20.36" />Et haec dicens, positis genibus suis, cum omnibus illis oravit.<verse eID="acts.20.36" />
+        <verse sID="acts.20.37" osisID="acts.20.37" />Magnus autem luctus factus est omnium: et incumbentes super collum Pauli, osculabantur eum,<verse eID="acts.20.37" />
+        <verse sID="acts.20.38" osisID="acts.20.38" />dolentes maxime in verbo, quod dixerat, quoniam non amplius faciem eius videbunt. Deducebant autem eum ad navem.<verse eID="acts.20.38" />
+      </p>
+      <chapter eID="acts.20" />
+      <chapter sID="acts.21" osisID="acts.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="acts.21.1" osisID="acts.21.1" />Cum autem factum esset ut navigaremus abstracti ab ipsis, recto cursu venimus in Co, sequenti autem die Rodum, et inde in Patara.<verse eID="acts.21.1" />
+        <verse sID="acts.21.2" osisID="acts.21.2" />Et invenientes navem, (* quae) transfretaret in Phoenicem, ascendentes navigavimus.<verse eID="acts.21.2" />
+        <verse sID="acts.21.3" osisID="acts.21.3" />Cum apparuissemus autem Cyprum, et relinquentes eam in sinistram, navigavimus in Syriam, et depositi sumus in Tyrum: ibi enim navis erat expositura pondus.<verse eID="acts.21.3" />
+        <verse sID="acts.21.4" osisID="acts.21.4" />Inventis autem discipulis, mansimus apud eos diebus septem : qui Paulo dicebant per Spiritum ne ascenderet Hierosolyma.<verse eID="acts.21.4" />
+        <verse sID="acts.21.5" osisID="acts.21.5" />Cum autem factum explere nos dies, profecti ibamus, deducentibus nos omnibus cum uxoribus, et filiis usque foris civitatem: et positis genibus in littore, oravimus.<verse eID="acts.21.5" />
+        <verse sID="acts.21.6" osisID="acts.21.6" />Valefacientes invicem et ascendimus in navem: illi autem redierunt in sua.<verse eID="acts.21.6" />
+        <verse sID="acts.21.7" osisID="acts.21.7" />Nos autem aavigatione praetendentes a Tyro descendimus in Ptolemaide : et salutantes fratres, mansimus diem unam apud eos.<verse eID="acts.21.7" />
+        <verse sID="acts.21.8" osisID="acts.21.8" />Sequenti autem die profecti, venimus in Caesaream. Et intrantes in domum Philippi evangelistae, qui erat de septem, mansimus apud eum.<verse eID="acts.21.8" />
+        <verse sID="acts.21.9" osisID="acts.21.9" />Huic autem erant filiae virgines quatuor prophetantes.<verse eID="acts.21.9" />
+        <verse sID="acts.21.10" osisID="acts.21.10" />Spectantibus autem nobis dies plurimos descendit quidam ab Iudaea propheta, nomine Agibus.<verse eID="acts.21.10" />
+        <verse sID="acts.21.11" osisID="acts.21.11" />Et cum venisset ad nos, et tulisset zonam, Pauli, alligans sibi pedes, et manus, dixit: Haec dicit Spiritus sanctus: Virum, cuius est zona haec. sic alligabunt in Hierusalem Iudaei, et tradent in manus Gentium.<verse eID="acts.21.11" />
+        <verse sID="acts.21.12" osisID="acts.21.12" />Cum autem audissemus haec, rogabamus nos quoque, et qui loci illius erant, ne ascenderet in Hierosolyma.<verse eID="acts.21.12" />
+        <verse sID="acts.21.13" osisID="acts.21.13" />Tunc respondit Paulus, et dixit: Quid facitis flentes, et adfligentes meum cor? Ego enim non solum alligari, sed et mori in Hierusalem parate habeo, pro nomine Domini Iesu.<verse eID="acts.21.13" />
+        <verse sID="acts.21.14" osisID="acts.21.14" />Non placante autem eo, quievimus, dicentes: Domini voluntas fiat.<verse eID="acts.21.14" />
+        <verse sID="acts.21.15" osisID="acts.21.15" />Post autem dies istos praeparantes, ascendebamus in Hierosolyma.<verse eID="acts.21.15" />
+        <verse sID="acts.21.16" osisID="acts.21.16" />Convenerunt autem et ex discipulis a Caesarea una nobiscum, adducentes nos, apud quem hospitaremur, Minasoni cuidam Cyprio, antiquo discipulo.<verse eID="acts.21.16" />
+        <verse sID="acts.21.17" osisID="acts.21.17" />Cum venissemus autem in Hierosolyma libenter susceperunt nos fratres.<verse eID="acts.21.17" />
+        <verse sID="acts.21.18" osisID="acts.21.18" />Sequenti autem die introibat Paulus nobiscum ad Iacobum, omnesque collecti sunt seniores.<verse eID="acts.21.18" />
+        <verse sID="acts.21.19" osisID="acts.21.19" />Et cum salutasset eos, exponebat per singulos, quae fecit Deus in Gentibus per ministerium ipsius.<verse eID="acts.21.19" />
+        <verse sID="acts.21.20" osisID="acts.21.20" />At illi audientes, glorificabant Deum, dixeruntque ei: Vides frater, quot millia sunt in Iudaeis, qui crediderunt, et omnes aemulatores legis existent.<verse eID="acts.21.20" />
+        <verse sID="acts.21.21" osisID="acts.21.21" />Audierunt autem de te, quoniam discessionem doces a Moyse eorum, qui per Gentes sunt Iudaeorum: dicens ne debere * suos filios, neque secundum consuetudinem ambulare.<verse eID="acts.21.21" />
+        <verse sID="acts.21.22" osisID="acts.21.22" />Quid ergo est? utique oportet convenire multitudinem: cognoscent enim quia venisti.<verse eID="acts.21.22" />
+        <verse sID="acts.21.23" osisID="acts.21.23" />Hoc ergo fac quod tibi dicimus: Sunt nobis viri quatuor, votum habentes super se.<verse eID="acts.21.23" />
+        <verse sID="acts.21.24" osisID="acts.21.24" />His adsumptis, purifica te cum illis: et impende in illis ut radant capita: et scient omnes quia quae audierunt de te, nihil est, sed inmanebis et ipse custodiens legem.<verse eID="acts.21.24" />
+        <verse sID="acts.21.25" osisID="acts.21.25" />De his autem, qui crediderunt homines nos destivavimus, iudicantes nihil tale custodire eos, nisi ut observent se ab idolothytis, et sanguine, et suffocato, et fornicatione.<verse eID="acts.21.25" />
+        <verse sID="acts.21.26" osisID="acts.21.26" />Tunc Paulus adsumens viros, veniente die cum eis purificatus intravit in templum, annuntians repletionem dierum purificationis, donec offerretur pro quoquoque eorum oblatio.<verse eID="acts.21.26" />
+        <verse sID="acts.21.27" osisID="acts.21.27" />Cum autem incipiebant septem dies consummari, hi, qui de Asia erant, Iudaei videntes eum in templo, concitaverunt populum, et iniecerunt in eum manus, clamantes :<verse eID="acts.21.27" />
+        <verse sID="acts.21.28" osisID="acts.21.28" />Viri Israelitae, adiuvate: hic est homo, qui adversus plebem, et legem, et locum hunc, omnes ubique docens, insuper et Gentiles induxit in templum, et conquinavit sanctum locum istum.<verse eID="acts.21.28" />
+        <verse sID="acts.21.29" osisID="acts.21.29" />Erant enim providentes Trophimum Ephesum in civitateum eo, quem aestimaverunt quoniam in templum induxisset Paulus.<verse eID="acts.21.29" />
+        <verse sID="acts.21.30" osisID="acts.21.30" />Commotaque est civitas tota, et facta est concursio populi. Et adprehendentes Paulum, trahebant eum foris templum: et statim clausa sunt ianuae.<verse eID="acts.21.30" />
+        <verse sID="acts.21.31" osisID="acts.21.31" />Quaerentibus autem eum occidere, ascendit nuncius tribuno legionis cohortis: Quia tota confusa est Hierusalem.<verse eID="acts.21.31" />
+        <verse sID="acts.21.32" osisID="acts.21.32" />Qui statim assumptis militibus, et centurionibus, decucurrit ad eos. Qui cum vidissent tribunum, et milites, cessaverunt percutientes Paulum.<verse eID="acts.21.32" />
+        <verse sID="acts.21.33" osisID="acts.21.33" />Tunc accedens tribunus comprehendit eum, et iussit alligare catenis duabus: et interrogabat quis vel effet, et quid est quod fecisset<verse eID="acts.21.33" />
+        <verse sID="acts.21.34" osisID="acts.21.34" />Alii autem aliud quid clamabant in turba. Cum autem non posset cognoscere certius propter tumultum, iussit reduci eum in castra.<verse eID="acts.21.34" />
+        <verse sID="acts.21.35" osisID="acts.21.35" />Cum autem factus ad gradus, contigit ut portaretur ipse a militibus propter vim populi.<verse eID="acts.21.35" />
+        <verse sID="acts.21.36" osisID="acts.21.36" />Sequebatur enim multitudo populi, clamans : Tolle eum.<verse eID="acts.21.36" />
+        <verse sID="acts.21.37" osisID="acts.21.37" />Incipiensque induci in castra Paulus, dicit, tribuno: Si licet mihi loqui aliquid ad te? Qui dixit: Graece nosti?<verse eID="acts.21.37" />
+        <verse sID="acts.21.38" osisID="acts.21.38" />Nonne tu es Aegyptius, qui ante hos dies concitasti, et eduxisti in desertum quatuor millia virorum sicariorum?<verse eID="acts.21.38" />
+        <verse sID="acts.21.39" osisID="acts.21.39" />Dixit autem Paulus : Ego homo quidem sum Iudaeus a Tarso Ciliciae, non ignobilis civitatis civis. Deprecor autem te, permitte mihi loqui ad populum.<verse eID="acts.21.39" />
+        <verse sID="acts.21.40" osisID="acts.21.40" />Permisso autem eo, Paulus stans in gradibus, adnuit manu ad plebem: magno autem silentio facto, adlocutus est Hebraica lingua, dicens:<verse eID="acts.21.40" />
+      </p>
+      <chapter eID="acts.21" />
+      <chapter sID="acts.22" osisID="acts.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="acts.22.1" osisID="acts.22.1" />Viri fratres, et patres, audite me, quam ad vos nunc reddo rationem.<verse eID="acts.22.1" />
+        <verse sID="acts.22.2" osisID="acts.22.2" />Audientes autem quia Hebraicâ linguâ ad locutus est eis, magis praestiterunt silentium.<verse eID="acts.22.2" />
+        <verse sID="acts.22.3" osisID="acts.22.3" />Et ait: Ego sum vir Iudaeus, natus in Tarso Ciliciae, enutritus autem in civitate ista, ante pedes Gamalihel eruditus certissime paternae legis * aemulator existens Dei, sicut omnes vos estis hodie:<verse eID="acts.22.3" />
+        <verse sID="acts.22.4" osisID="acts.22.4" />qui hanc viam persecutus sum usque ad mortem, alligans, et tradens in custodias viros, ac mulieres.<verse eID="acts.22.4" />
+        <verse sID="acts.22.5" osisID="acts.22.5" />sicut et princeps sacerdotum testimonium mihi reddit, et tota seniorum, a quibus et epistolas accipiens, ad fratres in Damascum pergebam, adducere constitutis vinctos in Hierusalem uti punirentur.<verse eID="acts.22.5" />
+        <verse sID="acts.22.6" osisID="acts.22.6" />Factum est autem, eunti, et adpropinquante Damasco circa mediam diem, repente de coelo circumfulsit lux copiosa circum me:<verse eID="acts.22.6" />
+        <verse sID="acts.22.7" osisID="acts.22.7" />cadensque in terram, audivi vocem dicentem mihi: Saulen, Saule, quid me persequeris? durum tibi contra* stimulum calcitrare.<verse eID="acts.22.7" />
+        <verse sID="acts.22.8" osisID="acts.22.8" />Ego autem respondi: Quis es Domine? Dixitque ad me: Ego sum Hiesus Nazoraeus, quem tu persequeris.<verse eID="acts.22.8" />
+        <verse sID="acts.22.9" osisID="acts.22.9" />Qui autem mecum erant, lumen quidem viderunt, et intimorati facti sunt: vocem autem non audierunt eius, qui loquebatur mihi.<verse eID="acts.22.9" />
+        <verse sID="acts.22.10" osisID="acts.22.10" />Dixi autem: Quid faciam, Domine? Dominus autem dixit ad me: Surgens vade in Damascum: et ibi dicetur tibi de omnibus, quae oporteat facere.<verse eID="acts.22.10" />
+        <verse sID="acts.22.11" osisID="acts.22.11" />Cum autem non videbam prae claritate luminis illius, manu deductus ab eis, qui mecum erant, ingressus sum in Damascum.<verse eID="acts.22.11" />
+        <verse sID="acts.22.12" osisID="acts.22.12" />Ananias autem quidam, vir pius, secundum legem testimonium habens ab omnibus habitantibus Iudaeis<verse eID="acts.22.12" />
+        <verse sID="acts.22.13" osisID="acts.22.13" />veniens ad me, et adstans dixit mihi: Saule frater respice. Et ego eâdem horâ respexi in eum.<verse eID="acts.22.13" />
+        <verse sID="acts.22.14" osisID="acts.22.14" />Ille autem dixit: Deus patrum nostrorum praeordinarit te, cognoscere voluntatem eius, et videre iustum, et audire vocem ex ore eius:<verse eID="acts.22.14" />
+        <verse sID="acts.22.15" osisID="acts.22.15" />quia eris testis ei ad omnes homines, horum quae vidisti, et audisti.<verse eID="acts.22.15" />
+        <verse sID="acts.22.16" osisID="acts.22.16" />Et nunc quid moraris? Exsurgens baptizare, et ablue peccata tua, invocans nomen ipsius.<verse eID="acts.22.16" />
+        <verse sID="acts.22.17" osisID="acts.22.17" />Factum est autem revertenti in Hierusalem, et oranti in templo, fieri me in stupore,<verse eID="acts.22.17" />
+        <verse sID="acts.22.18" osisID="acts.22.18" />et videre eum dicentem mihi: Festina, et exi velociter ex Hierusalem : quia non recipiunt tuum testimonium de me.<verse eID="acts.22.18" />
+        <verse sID="acts.22.19" osisID="acts.22.19" />Et ego dixi: Domine ipsi sciunt quia ego eram concludens carcerem, et caedens per synagogas eos, qui credebant in te:<verse eID="acts.22.19" />
+        <verse sID="acts.22.20" osisID="acts.22.20" />et cum effunderetur sanguis Stephani testis tui, et ego eram adstans, et consentiens, et custodiens vestimenta interficientium eum.<verse eID="acts.22.20" />
+        <verse sID="acts.22.21" osisID="acts.22.21" />Et dixit ad me: Vade: quia ego in nationes longe mittam te.<verse eID="acts.22.21" />
+        <verse sID="acts.22.22" osisID="acts.22.22" />Audiebant autem eum usque in hoc verbo et elevaverunt vocem suam dicentes: Tolle de terra talem: nec enim fas eum vivere.<verse eID="acts.22.22" />
+        <verse sID="acts.22.23" osisID="acts.22.23" />Vociferantium autem eorum, et proiicientium vestimenta sua, et pulverem mittentium in aera,<verse eID="acts.22.23" />
+        <verse sID="acts.22.24" osisID="acts.22.24" />iussit tribunus induci eum in castra, dicens * flagellis torqueri eum, ut sciret propter quam causam sic exclamarent ei.<verse eID="acts.22.24" />
+        <verse sID="acts.22.25" osisID="acts.22.25" />Cum autem extendissent eum loris: dixit ad stantem Centursionem Paulus : Si hominem Romanum, et incondemnatum licet vobis* flagellare?<verse eID="acts.22.25" />
+        <verse sID="acts.22.26" osisID="acts.22.26" />Audiens autem Centurio, cum accessit tribuno nunciavit, dicens: Qui acturus es facere? hic enim homo Romanus est.<verse eID="acts.22.26" />
+        <verse sID="acts.22.27" osisID="acts.22.27" />Accedens autem tribunus, dixit ei: Dic mihi, tu Romanus es? At ille ait: Etiam.<verse eID="acts.22.27" />
+        <verse sID="acts.22.28" osisID="acts.22.28" />Respondit autem tribunus: Ego multa summa pecuniae civitatem hanc consecutus sum. Paulus autem ait: Ego autem et natus sum.<verse eID="acts.22.28" />
+        <verse sID="acts.22.29" osisID="acts.22.29" />Protinus ergo discesserunt ab ipso, qui incipiebat eum torquere. Et tribunus autem timuit, comperto quia Romanus est, et quoniam eum alligasset.<verse eID="acts.22.29" />
+        <verse sID="acts.22.30" osisID="acts.22.30" />Postera autem die, volens scire certius quidnam accusaretur ab Iudaeis, solvit eum, et iussit convenire principes sacerdotum, et omne concilium, et producens Paulum, statuit inter eos.<verse eID="acts.22.30" />
+      </p>
+      <chapter eID="acts.22" />
+      <chapter sID="acts.23" osisID="acts.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="acts.23.1" osisID="acts.23.1" />Adtendens autem concilio Paulus dixit: Viri fratres, ego omni conscientia bona conversatus ium Deo usque hanc diem.<verse eID="acts.23.1" />
+        <verse sID="acts.23.2" osisID="acts.23.2" />Pontifex autem Ananias praecepit adstantibus ei percutere eius os.<verse eID="acts.23.2" />
+        <verse sID="acts.23.3" osisID="acts.23.3" />Tunc Paulus ad eum dixit: Percutere te incipiet Deus, paries dealbate. Et tu sedes* iudicans me secundum legem, et extra legem iubes me percuti?<verse eID="acts.23.3" />
+        <verse sID="acts.23.4" osisID="acts.23.4" />Qui autem circum, dixerunt: Principem sacerdotum Dei maledicis?<verse eID="acts.23.4" />
+        <verse sID="acts.23.5" osisID="acts.23.5" />Ait autem Paulus: Nesciebam fratres quia est princeps sacerdotum. Scriptum est enim: Principem populi tui non dixeris male.<verse eID="acts.23.5" />
+        <verse sID="acts.23.6" osisID="acts.23.6" />Sciens autem Paulus, quia una pars est Sadducaeorum, et altera pars Pharisaeorum, clamavit in concilio: Viri fratres, ego Pharisaeus sum, filius Pharisaei, de spe et de resurrectione mortuorum ego iudicor.<verse eID="acts.23.6" />
+        <verse sID="acts.23.7" osisID="acts.23.7" />Hoc autem eo dicente, facta est seditio inter Sadducaeos et Pharisaeos, et soluta est multitudo.<verse eID="acts.23.7" />
+        <verse sID="acts.23.8" osisID="acts.23.8" />Sadducaei enim dicunt, non esse resurrectionem, neque Angelum neque Spiritum: Pharisaei autem confitentur utraque.<verse eID="acts.23.8" />
+        <verse sID="acts.23.9" osisID="acts.23.9" />Factus est autem clamor magnus. Et surgentes quidam Pharisaeorum, litigabant, dicentes: Nihil malum invenimus in homine isto: si autem Spiritus locutus est ei, ut Angelus?<verse eID="acts.23.9" />
+        <verse sID="acts.23.10" osisID="acts.23.10" />Magna autem facta seditione, timens tribunus ne discerperetur Paulus ab ipsis, iussit exercitum descendens rapere eum de medio eorum, et reducere in castra.<verse eID="acts.23.10" />
+        <verse sID="acts.23.11" osisID="acts.23.11" />sequenti autem nocte adsistens ei Dominus, ait: Confide: sicut enim testificatus es de me in Hierosolyma, sic te oportet et Romae testificari.<verse eID="acts.23.11" />
+        <verse sID="acts.23.12" osisID="acts.23.12" />Facta autem die, facta * collectione Iudaei devoverunt semetipsos dicentes, * neque manducare, neque bibere, donec occiderent Paulum.<verse eID="acts.23.12" />
+        <verse sID="acts.23.13" osisID="acts.23.13" />Erant autem plus quam quadraginta, qui hanc coniurationem fecissent:<verse eID="acts.23.13" />
+        <verse sID="acts.23.14" osisID="acts.23.14" />qui cum accesierunt ad principes sacerdotum, et seniores, dixcrunt: Devotione devovimus nos ipsos nihil gustare, donec occidamus Paulum.<verse eID="acts.23.14" />
+        <verse sID="acts.23.15" osisID="acts.23.15" />Nunc ergo vos notum facite tribuno cum concilio, ut deducat eum ad vos, tanquam aliquid cognituros certius de eo. Nos autem prius quam adpropiet,* eum, parati sumus interficere illum.<verse eID="acts.23.15" />
+        <verse sID="acts.23.16" osisID="acts.23.16" />Audiens autem filius sororis Pauli de insidiis, adveniens, et ingressus in castra, nunciavit Paulo.<verse eID="acts.23.16" />
+        <verse sID="acts.23.17" osisID="acts.23.17" />Advocans autem Paulus unum ex Centurionibus, ait adolescentem nunc perduci ad tribunum, habet enim indicare aliquid illi.<verse eID="acts.23.17" />
+        <verse sID="acts.23.18" osisID="acts.23.18" />Ille quidem adsumens eum eduxit ad tribunum, et ait: Vinctus Paulus advocans me rogavit hunc adolescentem perducere ad te, habentem aliquid loqui tibi.<verse eID="acts.23.18" />
+        <verse sID="acts.23.19" osisID="acts.23.19" />Adprehendens autem manum eius tribunus, et secedens in parte, interrogabat: Quod est, quod habes indicare mihi?<verse eID="acts.23.19" />
+        <verse sID="acts.23.20" osisID="acts.23.20" />Dixit autem: Quia Iudaei constituerunt rogare te, ut crastina die Paulum deducas in concilium, quasi volens certius inquirere de eo:<verse eID="acts.23.20" />
+        <verse sID="acts.23.21" osisID="acts.23.21" />tu vero ne credideris illis, insidiantur enim illum ex eis viri plus quadraginta, qui devoverunt seipsos non manducare, neque bibere, donec interficiant eum: et nunc sunt parati, exspectantes quae a te repromissionem.<verse eID="acts.23.21" />
+        <verse sID="acts.23.22" osisID="acts.23.22" />Igitur tribunus dimisit adolescentem, praecipiens nemini loqueretur quia haec nota fecisti ad me.<verse eID="acts.23.22" />
+        <verse sID="acts.23.23" osisID="acts.23.23" />Et advocans * duos quosdam de Centurionibus, dixit: Parate milites ducentos, ut eant usque ad Caesaream, et equites septuaginta, et lancearios ducentos, a tertia hora noctis:<verse eID="acts.23.23" />
+        <verse sID="acts.23.24" osisID="acts.23.24" />iumenta quoque praeparate, ut imponentes Paulum, salvum perducerent ad Felicem praesidem :<verse eID="acts.23.24" />
+        <verse sID="acts.23.26" osisID="acts.23.26" />scribens epistolam habentem formam hanc: CLAUDIUS Lysias optimo praesidi, Felici, salutem.<verse eID="acts.23.26" />
+        <verse sID="acts.23.27" osisID="acts.23.27" />Virum istum comprehendum ab Iudaeis, et * incipientem occidi ab eis, superveniens cum exercitu eripui, cognito quia Romanus est.<verse eID="acts.23.27" />
+        <verse sID="acts.23.28" osisID="acts.23.28" />Volentes autem scire causam, de qua obiiciebant ei, deduxi eum in concilium eorum.<verse eID="acts.23.28" />
+        <verse sID="acts.23.29" osisID="acts.23.29" />Quem inveni accusari de quaestionibus legis ipsorum, nihil vero dignum morte aut vinculis crimen habentem.<verse eID="acts.23.29" />
+        <verse sID="acts.23.30" osisID="acts.23.30" />Indicatis autem mihi de insidiis in virum esse ex ipsis, misi ad te, demandans et accusatoribus eius dicere ad eum apud te. Vale.<verse eID="acts.23.30" />
+        <verse sID="acts.23.31" osisID="acts.23.31" />Milites ergo secundum praeceptum illis susceptum Paulum duxerunt per nociem in Antipatridem.<verse eID="acts.23.31" />
+        <verse sID="acts.23.32" osisID="acts.23.32" />Et postera die relictis equitibus irre cum eo. reversi sunt in castra.<verse eID="acts.23.32" />
+        <verse sID="acts.23.33" osisID="acts.23.33" />Qui cum venissent in Caesaream, et reddentes epistolam praesidi, statuerunt ei.<verse eID="acts.23.33" />
+        <verse sID="acts.23.34" osisID="acts.23.34" />Cum * legisset autem, et interrogavit de qua provincia esset: et cognoscens quoniam ex Cilicia<verse eID="acts.23.34" />
+        <verse sID="acts.23.35" osisID="acts.23.35" />Audiam te, ait, cum et accusatores tui advenerint: iubens in praetorio Herodis custodiri eum.<verse eID="acts.23.35" />
+      </p>
+      <chapter eID="acts.23" />
+      <chapter sID="acts.24" osisID="acts.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="acts.24.1" osisID="acts.24.1" />Post autem quinque dies descendit princeps sacerdotum, Ananias, cum senioribus quibusdam, et oratore Tertullo quodam, qui insinuaverunt praesidem adversus Paulum.<verse eID="acts.24.1" />
+        <verse sID="acts.24.2" osisID="acts.24.2" />Vocato autem eo, coepit accusare Tertullus, dicens: Cum multa pace habitantes per te, et correctionum fientium genti huic per tuam providentiam;<verse eID="acts.24.2" />
+        <verse sID="acts.24.3" osisID="acts.24.3" />semperque et ubique excipimus, optime Felix, cum omni gratiarum actione.<verse eID="acts.24.3" />
+        <verse sID="acts.24.4" osisID="acts.24.4" />Ut autem ne diutius te protraham, rogo te audire nos breviter tuae clementiae.<verse eID="acts.24.4" />
+        <verse sID="acts.24.5" osisID="acts.24.5" />Invenientes enim virum hunc pestem, et concitantem seditiones omnibus Iudais, qui per orbem sunt, auctorem autem Nazorenorum sectae:<verse eID="acts.24.5" />
+        <verse sID="acts.24.6" osisID="acts.24.6" />qui et templum conatus est inquinare, quem et comprehendimus, et secundum nostram legem voluimus iudicare.<verse eID="acts.24.6" />
+        <verse sID="acts.24.7" osisID="acts.24.7" />Transiens autem Lysias tribunus, cum multa vi de manibus nostris eduxit,<verse eID="acts.24.7" />
+        <verse sID="acts.24.8" osisID="acts.24.8" />iubens accusatores eius venire ante te: quo possis ipse iudicans, de omnibus istis cognoscere, quibus nos accusamus* eum.<verse eID="acts.24.8" />
+        <verse sID="acts.24.9" osisID="acts.24.9" />Adiecerunt autem et Iudaei, dicentes haec ita habere.<verse eID="acts.24.9" />
+        <verse sID="acts.24.10" osisID="acts.24.10" />Respondit autem Paulus, (adnuente sibi Praeside dicere:) Ex multis annis esse te iudicem iustum genti huic sciens, longanimiter pro meipso satisfaciam:<verse eID="acts.24.10" />
+        <verse sID="acts.24.11" osisID="acts.24.11" />potente te cognoscere, quia non plus sunt mihi dies duodecim, ex quo ascendi adorare in Hierusalem:<verse eID="acts.24.11" />
+        <verse sID="acts.24.12" osisID="acts.24.12" />et neque in templo invenerunt me ad aliquem disputantem, aut concursum facientem turbae, neque in synagogis<verse eID="acts.24.12" />
+        <verse sID="acts.24.13" osisID="acts.24.13" />neque circa civitatem: neque probare possunt tibi de quibus nunc accusant me.<verse eID="acts.24.13" />
+        <verse sID="acts.24.14" osisID="acts.24.14" />Confiteor autem hoc tibi, quod secundum viam, quam dicunt* haeresim, sic deservio patrio Deo, credens omnibus, quae in Lege, et Prophetis scripta sunt:<verse eID="acts.24.14" />
+        <verse sID="acts.24.15" osisID="acts.24.15" />spem habens in Deum, quam et ipsi hi exspectant, resurrectionem futuram esse mortuorum iustorumque, et iniquorum.<verse eID="acts.24.15" />
+        <verse sID="acts.24.16" osisID="acts.24.16" />In hoc et ipse studeo sine offendiculo conscientiam habere semper apud Deum, et apud homines.<verse eID="acts.24.16" />
+        <verse sID="acts.24.17" osisID="acts.24.17" />Post annos autem plures, eleemosynas facturus in gente mea, et oblationes, adveni.<verse eID="acts.24.17" />
+        <verse sID="acts.24.18" osisID="acts.24.18" />In quibus invenerunt me purificatum in templo; non cum turba, neque cum tumultu.<verse eID="acts.24.18" />
+        <verse sID="acts.24.19" osisID="acts.24.19" />Quidam autem ex Asia Iudaei, quos oportebat apud te adesse, et accusare si quid haberent ad me:<verse eID="acts.24.19" />
+        <verse sID="acts.24.20" osisID="acts.24.20" />aut hi ipsi dicant quid invenerunt in me iniquum, stantem me in concilio,<verse eID="acts.24.20" />
+        <verse sID="acts.24.21" osisID="acts.24.21" />nisi de una voce hac, quam clamavi inter eos stans: Quia de resurrectione mortuorum ego iudicor hodie a vobis.<verse eID="acts.24.21" />
+        <verse sID="acts.24.22" osisID="acts.24.22" />Distulit autem illos Felix, certissime sciens de via, dicens: Quia cum Lysias tribunus descenderit, audiam quae ad vos.<verse eID="acts.24.22" />
+        <verse sID="acts.24.23" osisID="acts.24.23" />Iussitque Centurioni custodire eum, habere tamen requiem, et neminem prohibere de suis ministrare illi.<verse eID="acts.24.23" />
+        <verse sID="acts.24.24" osisID="acts.24.24" />Post autem aliquot dies adveniens Felix cum Drusilla uxore sua, quae erat Iudaca, vocavit Paulum, et audivit eum quae est in Christum Iesum fides.<verse eID="acts.24.24" />
+        <verse sID="acts.24.25" osisID="acts.24.25" />Disputante autem illo de iustitia, et castitate, et iudicio futuro, exterritus factus Felix respondit: Quod nunc attinet, vade: tempore autem opportuno accersiam te:<verse eID="acts.24.25" />
+        <verse sID="acts.24.26" osisID="acts.24.26" />simul et sperans, quia pecunia detur ei a Paulo; propter quod et frequenter eum accersiens, loquebatur cum eo.<verse eID="acts.24.26" />
+        <verse sID="acts.24.27" osisID="acts.24.27" />Biennio autem expleto, accepit successorem Felix Porcium Festum. Volens autem gratiam praestare Iudaeis Felix, reliquit Paulum vinctum.<verse eID="acts.24.27" />
+      </p>
+      <chapter eID="acts.24" />
+      <chapter sID="acts.25" osisID="acts.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="acts.25.1" osisID="acts.25.1" />Estus ergo cum venisset in provincia, post triduum ascendit in Hierosolyma a Caesarea.<verse eID="acts.25.1" />
+        <verse sID="acts.25.2" osisID="acts.25.2" />manifestaverant autem ei principes sacerdotum, et priores Iudaeorum, adversus Paulum: et rogabant eum,<verse eID="acts.25.2" />
+        <verse sID="acts.25.3" osisID="acts.25.3" />postulantes gratiam adversus eum, ut accerseret eum in Hierusalem, insidias facientes ut interficerent eum in via.<verse eID="acts.25.3" />
+        <verse sID="acts.25.4" osisID="acts.25.4" />Festus igitur respondit, servari Paulum in Caesarea: se autem maturius profecturum.<verse eID="acts.25.4" />
+        <verse sID="acts.25.5" osisID="acts.25.5" />Qui ergo in vobis (ait) potentes sunt, descendentes, si quod est in viro inlicitum, accusent eum.<verse eID="acts.25.5" />
+        <verse sID="acts.25.6" osisID="acts.25.6" />Demoratus est autem inter eos dies non amplius octo, aut decem: descendens in Caesaream, in crastinum sedens pro tribunali, iussit Paulum adduci.<verse eID="acts.25.6" />
+        <verse sID="acts.25.7" osisID="acts.25.7" />Adveniente autem eo, circumsteterunt eum, qui ab Hierosolyma descenderant Iudaei, multas et graves causas obiectes Paulo, quas non* vincebant probare;<verse eID="acts.25.7" />
+        <verse sID="acts.25.8" osisID="acts.25.8" />Caulo autem rationem reddente: Quoniam neque in legem Iudaeorum, neque in templum, neque in Caesarem quidquam peccavi.<verse eID="acts.25.8" />
+        <verse sID="acts.25.9" osisID="acts.25.9" />Festus autem volens Iudaeis gratiam praestare, respondens Paulo, dixit: Vis in Hierosolyma ascendens, ibi de his iudicari apud me?<verse eID="acts.25.9" />
+        <verse sID="acts.25.10" osisID="acts.25.10" />Dixit autem Paulus: Ad tribunal Caesaris stans sum, ubi me oportet iudicari: Iudaeos non nocui, sicut et tu melius cognoscis.<verse eID="acts.25.10" />
+        <verse sID="acts.25.11" osisID="acts.25.11" />Si quidem nociu, aut dignum morte feci aliquid, non recuso mori: si vero nihil est eorum. quae isti accusant me, nemo me potest illis donare. Caesarem invoco.<verse eID="acts.25.11" />
+        <verse sID="acts.25.12" osisID="acts.25.12" />Tunc Festus conlocutus cum concilio, respondit: Caesarem invocasti? ad Caesarem ibis.<verse eID="acts.25.12" />
+        <verse sID="acts.25.13" osisID="acts.25.13" />Diebus autem transactis aliquot, Agrippa rex, et Beronice demorati sunt in Caesaream salutandum Festum.<verse eID="acts.25.13" />
+        <verse sID="acts.25.14" osisID="acts.25.14" />Cum autem plures dies demorarentur ibi Festus regi indicavit de Paulo, dicens: Vir quidam est derelictus a Felice vinctus.<verse eID="acts.25.14" />
+        <verse sID="acts.25.15" osisID="acts.25.15" />de quo cum fuissem in Hierosolyma, adierunt principes sacerdotum, et seniores Iudaeorum, postulantes adversus eum iudicium.<verse eID="acts.25.15" />
+        <verse sID="acts.25.16" osisID="acts.25.16" />Ad quos respondi: Quia non est consuetudo Romanis donare aliquem hominem, prius quam qui accusatur, praesentes habeat accusatores, et locum excusationis accipiat de crimine.<verse eID="acts.25.16" />
+        <verse sID="acts.25.17" osisID="acts.25.17" />Convenientium enim eorum in praesente sine ulla dilatione faciens, sequenti die sedens pro tribunali, iussi adduci virum.<verse eID="acts.25.17" />
+        <verse sID="acts.25.18" osisID="acts.25.18" />De quo stantes accusatores nullam culpam deferebant, de quibus suspicabar ego malis:<verse eID="acts.25.18" />
+        <verse sID="acts.25.19" osisID="acts.25.19" />Quaestiones vero quasdam de sua superstitio ne habebant adversus eum, et de quodam Iesu defuncto, quem affirmabat Paulus vivere.<verse eID="acts.25.19" />
+        <verse sID="acts.25.20" osisID="acts.25.20" />Haesitans autem ego de huiusmodi quaestione, dicebam si vellet ise Hierosolyma, et ibi iudicari de istis.<verse eID="acts.25.20" />
+        <verse sID="acts.25.21" osisID="acts.25.21" />l’aulo autem appellante servari eum in Sebasti cognitionem, iussi servari eum, donec remittam eum ad Caesarem.<verse eID="acts.25.21" />
+        <verse sID="acts.25.22" osisID="acts.25.22" />Agrippa autem ad Festum dixit: Volebam et ipse hominem audire. At ille : Cras, inquit audies eum.<verse eID="acts.25.22" />
+        <verse sID="acts.25.23" osisID="acts.25.23" />Crastina vero, veniente Agrippa, et Beronice cum multa ambitione, et introissent in auditorium cum tribunis, et viris principalibus constitutis civitatis, et iubente Festo, adductus est Paulus.<verse eID="acts.25.23" />
+        <verse sID="acts.25.24" osisID="acts.25.24" />Et ait Festus: Agrippa rex, et omnes, qui simul adestis nobiscum viri, videtis hunc, de quo omnis multitudo Iudaeorum interpellaverunt mihi Hierosolymis, exclamantes non oportere eum vivere amplius.<verse eID="acts.25.24" />
+        <verse sID="acts.25.25" osisID="acts.25.25" />Ego autem compertus nihil dignum eum morte egisse. Ipso autem hoc invocante Augustum, iudicavi mittere eum.<verse eID="acts.25.25" />
+        <verse sID="acts.25.26" osisID="acts.25.26" />De quo scribam domino quid non habeo. * Propter quod produxi eum coram vos, et maxime ante te, rex Agrippa, ut interrogatione facta habeam quid scribam.<verse eID="acts.25.26" />
+        <verse sID="acts.25.27" osisID="acts.25.27" />Sine ratione enim mihi videtur mittere vinctum, et eas, quae adversus eum sunt, culpas non significare.<verse eID="acts.25.27" />
+      </p>
+      <chapter eID="acts.25" />
+      <chapter sID="acts.26" osisID="acts.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="acts.26.1" osisID="acts.26.1" />Agrippa autem ad Paulum ait: Permittitur de teipso loqui. Tunc Paulus extensa manu rationem reddebat.<verse eID="acts.26.1" />
+        <verse sID="acts.26.2" osisID="acts.26.2" />De omnibus, de quibus accusor a Iudaeis rex Agrippa, aestimo meipsum beatum, apud te incipiens rationem reddere hodie<verse eID="acts.26.2" />
+        <verse sID="acts.26.3" osisID="acts.26.3" />maxime scientiam habenti omnium, quae apud Iudaeos sunt, consuetudinesque, et quaestiones: propter quod obsecro patienter audire me.<verse eID="acts.26.3" />
+        <verse sID="acts.26.4" osisID="acts.26.4" />Et quidem vitam meam ab initio iuventutis factam in gente mea in Hierosolymis, noverunt omnes Iudaei:<verse eID="acts.26.4" />
+        <verse sID="acts.26.5" osisID="acts.26.5" />praescientes me ab initio (si velint testimonium perhibere) quia secundum certissimam sectam nostrae religionis vixi Pharisaeus.<verse eID="acts.26.5" />
+        <verse sID="acts.26.6" osisID="acts.26.6" />Et nunc in spe, quae ad patres nostros repromissio facta est a Deo, sto iudicandus:<verse eID="acts.26.6" />
+        <verse sID="acts.26.7" osisID="acts.26.7" />in quam duodecim tribus nostrae, ex tenacitate nocte ac die* deservientes, sperant devenire. De qua spe accusor ab Iudaeis, rex.<verse eID="acts.26.7" />
+        <verse sID="acts.26.8" osisID="acts.26.8" />Quid incredibile iudicatur apud vos, si Deus mortuos suscitat?<verse eID="acts.26.8" />
+        <verse sID="acts.26.9" osisID="acts.26.9" />Ego quidem existimavi, meipsum adversus nomen Iesu Nazoraei * debere multa contraria agere:<verse eID="acts.26.9" />
+        <verse sID="acts.26.10" osisID="acts.26.10" />quod et feci in Hierosolymis, et multos sanctorum ego in carceribus conclusi, a principibus sacerdotum potestate accepta: cum occiderent autem, detuli sententiam.<verse eID="acts.26.10" />
+        <verse sID="acts.26.11" osisID="acts.26.11" />Et super omnes synagogas frequenter puniens eos, compellebam blasphemare : amplius etiam insaniens, eos persequebar usque et in exteras civitates.<verse eID="acts.26.11" />
+        <verse sID="acts.26.12" osisID="acts.26.12" />In quibus introiens in Damascum cum potestate, et permissione principum sacerdotum<verse eID="acts.26.12" />
+        <verse sID="acts.26.13" osisID="acts.26.13" />die media per viam, vidi, rex, de coelo super splendorem solis circumfulsiise me lumen, et eos, qui mecum ambulabant.<verse eID="acts.26.13" />
+        <verse sID="acts.26.14" osisID="acts.26.14" />Omnibusque procidentibus nobis in terram, audivi vocem loquentem ad me Hebraicâ linguâ: Saulen, Saule, quid me persequeris? durum tibi est contra stimulum calcitrare.<verse eID="acts.26.14" />
+        <verse sID="acts.26.15" osisID="acts.26.15" />Ego autem dixi: Quis es Domine? Dominus autem dixit ad me: Ego sum Iesus, quem tu persequeris.<verse eID="acts.26.15" />
+        <verse sID="acts.26.16" osisID="acts.26.16" />Sed exsurge, et sta super pedes tuos: ad hoc enim apparui tibi, constituere te ministrum et testem eorum, quae vidisti, et eorum quibus apparebo tibi<verse eID="acts.26.16" />
+        <verse sID="acts.26.17" osisID="acts.26.17" />eripiens te de populo, et gentibus, ad quos ego mitto te,<verse eID="acts.26.17" />
+        <verse sID="acts.26.18" osisID="acts.26.18" />aperire oculos caecorum, ut convertantur de tenebris in lucem, et de potestate satanae ad Deum, et accipiant eis remissionem peccatorum, et sortem inter sanctos omnes, fide, quae est in me.<verse eID="acts.26.18" />
+        <verse sID="acts.26.19" osisID="acts.26.19" />Unde rex Agrippa, non fui incredulus coelesti visioni:<verse eID="acts.26.19" />
+        <verse sID="acts.26.20" osisID="acts.26.20" />sed esi, qui sunt in Damasco primum, et his, qui in Hieroselymis, in omnem quidem regionem Iudaeae, et Gentibus annuntiabam poenitentiam agere, et reverti ad Deum, digna quoque poenitentiae opera facientes.<verse eID="acts.26.20" />
+        <verse sID="acts.26.21" osisID="acts.26.21" />Propter haec Iudaei me comprehendentes, cum essem in templo, tentabant interficere.<verse eID="acts.26.21" />
+        <verse sID="acts.26.22" osisID="acts.26.22" />* Auxilium quoque n:actus quod a Deo usque in hunc diem sto, testificans minori, ac maiori, nihil extra dicens ea, quae Prophetae locuti sunt futura esse, et Moses,<verse eID="acts.26.22" />
+        <verse sID="acts.26.23" osisID="acts.26.23" />si passibilis Christus, si primus ex resurrectione mortuorum, lumen incipiet adnuntiare populo, et Gentibus.<verse eID="acts.26.23" />
+        <verse sID="acts.26.24" osisID="acts.26.24" />Haec autem loquente eo, et respondente, Festus magna voce ait: Insanis Paule: multae te litterae ad insaniam convertunt.<verse eID="acts.26.24" />
+        <verse sID="acts.26.25" osisID="acts.26.25" />Paulus autem: Non insanio (inquit) optime Feste, sed veritatis, et sobrietatis verba mitto.<verse eID="acts.26.25" />
+        <verse sID="acts.26.26" osisID="acts.26.26" />Scit enim de istis rex, apud quem etiam fiducialiter loquor : latere enim eum aliquid horum non coniicior. Nihil enim est in angulo gestum.<verse eID="acts.26.26" />
+        <verse sID="acts.26.27" osisID="acts.26.27" />Hoc credis, rex Agrippa, Prophetis? Scio quia credis.<verse eID="acts.26.27" />
+        <verse sID="acts.26.28" osisID="acts.26.28" />Agrippa autem ad Paulum ait : In modico me suades Christianum fieri.<verse eID="acts.26.28" />
+        <verse sID="acts.26.29" osisID="acts.26.29" />Paulus autem.....<verse eID="acts.26.29" />
+      </p>
+      <chapter eID="acts.26" />
+      <chapter sID="acts.27" osisID="acts.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="acts.27.1" osisID="acts.27.1" />Ut autem iudicatum est navigare nos in Italiam, tradiderunt Paulum, et quosdam alios vinctos centurioni....<verse eID="acts.27.1" />
+        <verse sID="acts.27.15" osisID="acts.27.15" />Et arrepta navi, cum non possent occurrere vento, commodata navi flatibus, colligere vela coeperunt.<verse eID="acts.27.15" />
+        <verse sID="acts.27.16" osisID="acts.27.16" />Tunc transcurrimus insulam, quae dicitur, Claude, quam occupare non potuerunt: sed scaphae missae<verse eID="acts.27.16" />
+        <verse sID="acts.27.17" osisID="acts.27.17" />adiuvare coeperunt navem, praecingentes eam: trahebant autem et archoras, timentes ne occurrerent in Syrtes (al. transl. timentesque ne in Syrtim exciderent) laxantes antennas, ita ferebantur.<verse eID="acts.27.17" />
+        <verse sID="acts.27.24" osisID="acts.27.24" />Ne timeas, Paule: ecce enim donavit tibi Deus omnes, qui tecum navigant.<verse eID="acts.27.24" />
+      </p>
+      <chapter eID="acts.27" />
+      <chapter sID="acts.28" osisID="acts.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="acts.28.1" osisID="acts.28.1" />
+        <verse eID="acts.28.1" />
+        <verse sID="acts.28.4" osisID="acts.28.4" />Hic homo debet homicida esse, quem salvum factum de mari, fata vivere non sinunt.<verse eID="acts.28.4" />
+        <verse sID="acts.28.21" osisID="acts.28.21" />..... Nos enim nec litteras a te accepimus de Iudaea, nec veniens quis de fratribus annuntiavit nobis, aut locutus est aliquis de te in malum.<verse eID="acts.28.21" />
+        <verse sID="acts.28.22" osisID="acts.28.22" />Petimus autem ut audiamus a te quid sentias: de haeresi enim ista notum est nobis quia ubique ei contradicitur.<verse eID="acts.28.22" />
+        <verse sID="acts.28.23" osisID="acts.28.23" />..... venerunt ergo ad eum Iudaei in hospitium multi, quibus exponebat contestans eis regnum Dei, suadensque eis de Iesu ex Lege Moysi. et Prophetis, usque ad vesperum.<verse eID="acts.28.23" />
+        <verse sID="acts.28.25" osisID="acts.28.25" />Convenientes autem ad alterutrum Iudaei, dismittebantur, dicente Paulo unum verbum: Quia bene Spiritus sanctus locutus est ad patres nostros per prophetam Esaiam,<verse eID="acts.28.25" />
+        <verse sID="acts.28.26" osisID="acts.28.26" />dicens: Vade ad populum istum, et dic: Aure audietis, et non intelligetis: et videntes videbitis, et non respicietis.<verse eID="acts.28.26" />
+        <verse sID="acts.28.27" osisID="acts.28.27" />Induratum est enim cor populi huius, et auribus graviter audierunt, et oculos suos concluderunt: nequando videant oculis, et auribus audiant, et corde intelligant, et convertant se, et sanem illos.<verse eID="acts.28.27" />
+        <verse sID="acts.28.28" osisID="acts.28.28" />Notum ergo sit vobis, quoniam Gentibus missum est hoc salutare Dei, ipsi et audient.<verse eID="acts.28.28" />
+        <verse sID="acts.28.29" osisID="acts.28.29" />.... Vide Not.<verse eID="acts.28.29" />
+        <verse sID="acts.28.30" osisID="acts.28.30" />Mansit autem biennio toto in suo conducto: et suscipiebat omnes, qui introibant ad eum,<verse eID="acts.28.30" />
+        <verse sID="acts.28.31" osisID="acts.28.31" />praedicans regnum Dei, et docens quae sunt de Domino Iesu Christo, cum omni fiducia, sine intermissione.<verse eID="acts.28.31" />
+      </p>
+    </div>
+  </osisText>
+</osis>

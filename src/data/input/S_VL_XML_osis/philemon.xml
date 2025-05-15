@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="philemon" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="philemon">
+        <title>Philemon</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">philemon</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Philemon</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="philemon">
+      <title>Philemon</title>
+      <chapter sID="philemon.1" osisID="philemon.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="philemon.1.1" osisID="philemon.1.1" />PAULUS Apostolus Iesu Christi, et Timotheus frater; Filemoni carissimo fratri, et adiutori nostro,<verse eID="philemon.1.1" />
+        <verse sID="philemon.1.2" osisID="philemon.1.2" />et Apphiadi sorori, et Archippo commilitoni nostro, et quae in domo tua est Ecclesia.<verse eID="philemon.1.2" />
+        <verse sID="philemon.1.3" osisID="philemon.1.3" />Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo.<verse eID="philemon.1.3" />
+        <verse sID="philemon.1.4" osisID="philemon.1.4" />Gratias ago Deo meo, semper commemorationem vestri faciens in orationibus meis,<verse eID="philemon.1.4" />
+        <verse sID="philemon.1.5" osisID="philemon.1.5" />audiens tuam fidem, et caritatem, quam habes in Domino Iesu Christo, et in omnes sanctos:<verse eID="philemon.1.5" />
+        <verse sID="philemon.1.6" osisID="philemon.1.6" />ut communicatio fidei tuae manifesta fiat in cognitione omnis boni, quae in nobis est in Chrito Iesu.<verse eID="philemon.1.6" />
+        <verse sID="philemon.1.7" osisID="philemon.1.7" />Gaudium enim magnum habuimus, et consolationem in caritate: quia viscera sanctorum refecta sunt per te, frater.<verse eID="philemon.1.7" />
+        <verse sID="philemon.1.8" osisID="philemon.1.8" />Propter quod multam fiduciam habens in Christo Iesu imperandi tibi quod ad rem pertinet:<verse eID="philemon.1.8" />
+        <verse sID="philemon.1.9" osisID="philemon.1.9" />propter caritatem magis obsecro, cum sis talis, sicut Paulus senex, nunc autem et vinctus Iesu Christi:<verse eID="philemon.1.9" />
+        <verse sID="philemon.1.10" osisID="philemon.1.10" />Obsecro te pro meo filio, quem genui in vinculis, * Onesimo,<verse eID="philemon.1.10" />
+        <verse sID="philemon.1.11" osisID="philemon.1.11" />qui aliquando tibi inutilis fuit, nunc autem tibi, et mihi utilis<verse eID="philemon.1.11" />
+        <verse sID="philemon.1.12" osisID="philemon.1.12" />quem misi tibi. Tu autem illum, hoc est, mea viscera, excipe:<verse eID="philemon.1.12" />
+        <verse sID="philemon.1.13" osisID="philemon.1.13" />quem ego volui apud me retinere, ut pro te mihi ministraret in vinculis Evangelii:<verse eID="philemon.1.13" />
+        <verse sID="philemon.1.14" osisID="philemon.1.14" />sed sine tuo consilio nihil volui facere, ut non quasi ex necessitate bonum tuum* esset, sed voluntarium.<verse eID="philemon.1.14" />
+        <verse sID="philemon.1.15" osisID="philemon.1.15" />Forsitan enim propterea discessit ad horam, ut in aeternum illum reciperes:<verse eID="philemon.1.15" />
+        <verse sID="philemon.1.16" osisID="philemon.1.16" />iam non quasi servum, sed pro servo fratrem carissimum, maxime mihi; quanto autem magis tibi et in carne, et in Domino?<verse eID="philemon.1.16" />
+        <verse sID="philemon.1.17" osisID="philemon.1.17" />Si ergo* habens me socium, adsume illum sicut et me:<verse eID="philemon.1.17" />
+        <verse sID="philemon.1.18" osisID="philemon.1.18" />Si quid autem laesit te, aut debet; hoc mihi imputa.<verse eID="philemon.1.18" />
+        <verse sID="philemon.1.19" osisID="philemon.1.19" />Ego Paulus scripsi mea manu: ego reddam ut non dicam tibi, quod etiam et teipsum mihi debes in Domino:<verse eID="philemon.1.19" />
+        <verse sID="philemon.1.20" osisID="philemon.1.20" />ita frater. Ego te fruar in Domino: Refice * mea viscera in Christo.<verse eID="philemon.1.20" />
+        <verse sID="philemon.1.21" osisID="philemon.1.21" />Fiduciam habens obauditionis tuae scripsi tibi: sciens quia super id, quod dico , facies.<verse eID="philemon.1.21" />
+        <verse sID="philemon.1.22" osisID="philemon.1.22" />Simul autem et praepara mihi hospitium: spero enim quod per orationes vestras donabor vobis.<verse eID="philemon.1.22" />
+        <verse sID="philemon.1.23" osisID="philemon.1.23" />Salutat te Epaphras concaptivus meus in Christo Iesu,<verse eID="philemon.1.23" />
+        <verse sID="philemon.1.24" osisID="philemon.1.24" />Marcus, Aristarcus, Demas, Lucas, adiutores mei.<verse eID="philemon.1.24" />
+        <verse sID="philemon.1.25" osisID="philemon.1.25" />Gratia Domini nostri Iesu Christi cum spiritu vestro. Amen.<verse eID="philemon.1.25" />
+      </p>
+    </div>
+  </osisText>
+</osis>

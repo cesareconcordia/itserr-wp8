@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Nah" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Nah">
+        <title>nahum</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Nah</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>nahum</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Nah">
+      <title>nahum</title>
+      <chapter sID="Nah.1" osisID="Nah.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Nah.1.1" osisID="Nah.1.1" />Assumptio Ninive, Liber visionis Naum Elcesaei,<verse eID="Nah.1.1" />
+        <verse sID="Nah.1.2" osisID="Nah.1.2" />Deus aemulator, et ulciscens Dominus, ulciscens Dominus cum furore, ulciscens Dominus in adversarios suos, et tollens ipse inimicos suos.<verse eID="Nah.1.2" />
+        <verse sID="Nah.1.3" osisID="Nah.1.3" />Dominus patiens, et longa fortitudo eius, et mundans non faciet innocentem. Dominus in consummatione viae eius, et nebulae pulvis pedum eius.<verse eID="Nah.1.3" />
+        <verse sID="Nah.1.4" osisID="Nah.1.4" />Increpans mare, et exsiccans illud, et omnia flumina ad desertum perducens. Imminuta est Basanitis, et Carmelus, et quae florebant Libani, defecerunt.<verse eID="Nah.1.4" />
+        <verse sID="Nah.1.5" osisID="Nah.1.5" />Montes commoti sunt ab eo, et colles concussi sunt, et contracta est terra a facie eius, universitas, et omnes qui habitant in ea.<verse eID="Nah.1.5" />
+        <verse sID="Nah.1.6" osisID="Nah.1.6" />A facie irae eius quis sustinebit? Et quis resistet in ira furoris eius? Furor eius consumit principatus, et petrae contritae sunt ab eo.<verse eID="Nah.1.6" />
+        <verse sID="Nah.1.7" osisID="Nah.1.7" />Suavis Dominus exspectantibus eum in die tribulationis, et cognoscens timentes se,<verse eID="Nah.1.7" />
+        <verse sID="Nah.1.8" osisID="Nah.1.8" />et in diluvio transeunte consummationem faciet, consurgentes, et inimicos eius persequentur tenebrae.<verse eID="Nah.1.8" />
+        <verse sID="Nah.1.9" osisID="Nah.1.9" />Quid cogitatis contra Dominum? Consummationem ipse faciet, non vindicabit bis in idipsum in tribulatione.<verse eID="Nah.1.9" />
+        <verse sID="Nah.1.10" osisID="Nah.1.10" />Quia usque ad fundamenta sua redigentur in vepres, et quasi volvola circumdata comedetur, et quasi stipula ariditate plena.<verse eID="Nah.1.10" />
+        <verse sID="Nah.1.11" osisID="Nah.1.11" />Ex te exibit cogitatio contra Dominum pessima, cogitans contraria.<verse eID="Nah.1.11" />
+        <verse sID="Nah.1.12" osisID="Nah.1.12" />Haec dicit Dominus regnans aquis multis, Et sic dividentur, et auditus tuus non audietur amplius.<verse eID="Nah.1.12" />
+        <verse sID="Nah.1.13" osisID="Nah.1.13" />Et nunc conteram virgam eius a te, et vincula eius disrumpam.<verse eID="Nah.1.13" />
+        <verse sID="Nah.1.14" osisID="Nah.1.14" />Et praecipiet de te Dominus, non seminabitur ex nomine tuo amplius, de domo Dei tui disperdam sculptilia, et conflatilia, ponam sepulcrum tuum, quia veloces<verse eID="Nah.1.14" />
+        <verse sID="Nah.1.15" osisID="Nah.1.15" />ecce super montes pedes evangelizantis, et annuntiantis pacem, celebra Iuda festivitates tuas, redde vota tua, quia nequaquam apponent ultra ut pertranseant in vetustatem, completum est, consummatum est.<verse eID="Nah.1.15" />
+      </p>
+      <chapter eID="Nah.1" />
+      <chapter sID="Nah.2" osisID="Nah.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Nah.2.1" osisID="Nah.2.1" />Ascendit insufflans in faciem tuam, eruens de tribulatione, contemplare viam, tene lumbum, confortare robore vehementer.<verse eID="Nah.2.1" />
+        <verse sID="Nah.2.2" osisID="Nah.2.2" />Quoniam avertit Dominus contumeliam Iacob, sicut contumeliam Israel, quia excutientes excusserunt eos, et propagines eorum demoliti sunt.<verse eID="Nah.2.2" />
+        <verse sID="Nah.2.3" osisID="Nah.2.3" />Arma potentiae eius ex hominibus, viros fortes illudentes in igne, habenae curruum in die praeparationis eius, et equites timebunt<verse eID="Nah.2.3" />
+        <verse sID="Nah.2.4" osisID="Nah.2.4" />in exitibus, et confundentur currus, et collidentur in plateis, aspectus eorum quasi lampades ignis, et quasi fulgura discurrentia.<verse eID="Nah.2.4" />
+        <verse sID="Nah.2.5" osisID="Nah.2.5" />Et commemorabuntur optimates eorum, et fugient in diebus, et infirmabuntur in itinere suo, et festinabunt ad muros, et praeparabunt propugnacula sua.<verse eID="Nah.2.5" />
+        <verse sID="Nah.2.6" osisID="Nah.2.6" />Portae civitatum apertae sunt, et regalia conciderunt, et substantia revelata est.<verse eID="Nah.2.6" />
+        <verse sID="Nah.2.7" osisID="Nah.2.7" />Et ipsa ascendebat, et ancillae eius ducebantur sicut columbae, loquentes in cordibus suis.<verse eID="Nah.2.7" />
+        <verse sID="Nah.2.8" osisID="Nah.2.8" />Et Ninive sicut piscina aquarum aquae eius, et ipsi fugientes non steterunt, et non erat qui respiceret.<verse eID="Nah.2.8" />
+        <verse sID="Nah.2.9" osisID="Nah.2.9" />Diripiebant argentum, diripiebant aurum, et non erat finis ornamenti eius, aggravata est super omnia vasa concupiscentiae suae.<verse eID="Nah.2.9" />
+        <verse sID="Nah.2.10" osisID="Nah.2.10" />Excussio, rediscussio, et ebullitio, et cordis confractio, et dissolutio genuum, et dolores super omnem lumbum, et facies omnium sicut adustio ollae.<verse eID="Nah.2.10" />
+        <verse sID="Nah.2.11" osisID="Nah.2.11" />Ubi est habitaculum leonum, et pascua catulorum leonum, ad quam ivit leo, ut ingrederetur illuc catulus leonis, et non est qui exterreatur?<verse eID="Nah.2.11" />
+        <verse sID="Nah.2.12" osisID="Nah.2.12" />Leo cepit sufficienter catulis suis, et necavit catulis suis, et implevit praeda nidos suos, et cubile suum rapina.<verse eID="Nah.2.12" />
+        <verse sID="Nah.2.13" osisID="Nah.2.13" />Ecce ego ad te, dicit Dominus omnipotens, et succendam in fumo multitudinem tuam, et leones tuos comedet gladius, et auferam de terra praedam tuam, et non audientur ultra opera tua.<verse eID="Nah.2.13" />
+      </p>
+      <chapter eID="Nah.2" />
+      <chapter sID="Nah.3" osisID="Nah.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Nah.3.1" osisID="Nah.3.1" />O civitas sanguinum, tota mendax, iniquitate plena! Non contrectabitur venatio.<verse eID="Nah.3.1" />
+        <verse sID="Nah.3.2" osisID="Nah.3.2" />Vox flagellorum, et vox commotionis rotarum, et equi persequentis, et currus serventis, equitis ascendentis,<verse eID="Nah.3.2" />
+        <verse sID="Nah.3.3" osisID="Nah.3.3" />et splendentis gladii, et fulgentium armorum, et multitudinis vulneratorum, et gravis ruinae, et non erit finis gentibus eius, et infirmabuntur in corporibus eorum<verse eID="Nah.3.3" />
+        <verse sID="Nah.3.4" osisID="Nah.3.4" />a multitudine fornicationis. Meretrix speciosa, et grata, dux maleficiorum, quae vendit gentes in fornicatione sua, et tribus in maleficiis suis.<verse eID="Nah.3.4" />
+        <verse sID="Nah.3.5" osisID="Nah.3.5" />Ecce ego ad te, dicit Dominus omnipotens, et discooperiam posteriora tua super faciem tuam, et ostendam gentibus confusionem tuam, et regnis ignominiam tuam.<verse eID="Nah.3.5" />
+        <verse sID="Nah.3.6" osisID="Nah.3.6" />Et proiiciam super te abominationem secundum immunditias tuas, et ponam te in exemplum.<verse eID="Nah.3.6" />
+        <verse sID="Nah.3.7" osisID="Nah.3.7" />Et erit, omnis, qui viderit te, descendet a te, et dicet, Misera Ninive, quis gemet eam? Unde quaeram consolationem illi, aptantem chordam?<verse eID="Nah.3.7" />
+        <verse sID="Nah.3.8" osisID="Nah.3.8" />Apta chordam pars Ammon, quae habitas in fluminibus, aquae in circuitu eius, cuius principium, mare est, et aqua, muri eius.<verse eID="Nah.3.8" />
+        <verse sID="Nah.3.9" osisID="Nah.3.9" />Aethiopa fortitudo eius, et Aegyptus, et non est finis fugae tuae, Phut et Libyes facti sunt auxiliatores illius.<verse eID="Nah.3.9" />
+        <verse sID="Nah.3.10" osisID="Nah.3.10" />Et ipsa in transmigrationem ibit captiva, et parvulos illius allident in principio viarum eius, et super omnia inclyta eius mittent sortem, et universi optimates eius alligabuntur compedibus.<verse eID="Nah.3.10" />
+        <verse sID="Nah.3.11" osisID="Nah.3.11" />Et tu inebriaberis, et eris despecta, et tu quaeres tibi ut stes ab inimicis tuis.<verse eID="Nah.3.11" />
+        <verse sID="Nah.3.12" osisID="Nah.3.12" />Omnes munitiones tuae ut ficus, quae grossos habent, si commotae fuerint, cadent in os comedentis.<verse eID="Nah.3.12" />
+        <verse sID="Nah.3.13" osisID="Nah.3.13" />Ecce populus tuus quasi mulieres in te, inimicis tuis aperiendo aperientur portae terrae tuae, comedit ignis vectes tuos.<verse eID="Nah.3.13" />
+        <verse sID="Nah.3.14" osisID="Nah.3.14" />Aquam obsidionis hauri tibi, obtine munitiones tuas, ingredere lutum, et conculcare in paleis, obtine super laterem.<verse eID="Nah.3.14" />
+        <verse sID="Nah.3.15" osisID="Nah.3.15" />Ibi comedet te ignis, disperdet te gladius, et comedet te quasi locusta, aggravaberis quasi bruchus, multiplicare ut bruchus.<verse eID="Nah.3.15" />
+        <verse sID="Nah.3.16" osisID="Nah.3.16" />Multiplicasti negotiationes tuas sicut stellas coeli, bruchus irruit, et evolavit.<verse eID="Nah.3.16" />
+        <verse sID="Nah.3.17" osisID="Nah.3.17" />Exsilivit quasi attelabus commistitius tuus, sicut locusta, quae ascendit super sepem in die gelu, sol ortus est, et exsilivit, et non cognovit locum suum, vae illis.<verse eID="Nah.3.17" />
+        <verse sID="Nah.3.18" osisID="Nah.3.18" />Dormitaverunt pastores tui, rex Assur consopivit fortes tuos, abiit populus tuus super montes, et non erat qui susciperet.<verse eID="Nah.3.18" />
+        <verse sID="Nah.3.19" osisID="Nah.3.19" />Et non est sanitas contritioni tuae, tumet plaga tua, omnes qui audierunt nuncium tuum, plaudent manibus super te, quia super quem non irruit malitia tua semper?<verse eID="Nah.3.19" />
+      </p>
+      <chapter eID="Nah.3" />
+    </div>
+  </osisText>
+</osis>

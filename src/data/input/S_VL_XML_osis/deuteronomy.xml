@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Deut" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Deut">
+        <title>deuteronomy</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Deut</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>deuteronomy</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Deut">
+      <title>deuteronomy</title>
+      <chapter sID="Deut.1" osisID="Deut.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Deut.1.1" osisID="Deut.1.1" />Haec verba, quae locutus est Moyses omni Israel trans Iordanem in deserto, ad occidentem ...<verse eID="Deut.1.1" />
+        <verse sID="Deut.1.7" osisID="Deut.1.7" />... usque ad flumen magnum, flumen Euphratem.<verse eID="Deut.1.7" />
+        <verse sID="Deut.1.10" osisID="Deut.1.10" />Non potero solus sufferre vos ...<verse eID="Deut.1.10" />
+        <verse sID="Deut.1.15" osisID="Deut.1.15" />Et ordinavi vobis viros sapientes ... qui praeessent vobis.<verse eID="Deut.1.15" />
+        <verse sID="Deut.1.16" osisID="Deut.1.16" />... Audite inter fratres vestros, et iudicate iuste inter medium viri, et inter medium fratris, et in medio proselyti eius.<verse eID="Deut.1.16" />
+        <verse sID="Deut.1.17" osisID="Deut.1.17" />Non accipietis personam in iudicio, adversus minorem aut adversus maiorem iudicabitis. Non personam hominis, quoniam iudicium est Dei. Et iudicium quod durum fuerit a vobis, afferetis illud ad me ...<verse eID="Deut.1.17" />
+        <verse sID="Deut.1.21" osisID="Deut.1.21" />Videte, tradidit vobis Dominus Deus vester, ante faciem vestram, terram. Ascendentes possidete, quemadmodum dixit Dominus patrum nostrum nobis. Nolite timere, neque formidetis.<verse eID="Deut.1.21" />
+        <verse sID="Deut.1.22" osisID="Deut.1.22" />... accessistis ad me, et dixistis. Mittamus viros ante nos ...<verse eID="Deut.1.22" />
+        <verse sID="Deut.1.26" osisID="Deut.1.26" />Et noluistis ascendere, neque credidistis verbo Domini ...<verse eID="Deut.1.26" />
+        <verse sID="Deut.1.27" osisID="Deut.1.27" />... Propter quod odiit nos Dominus, eduxit nos de terra Aegypti, tradere nos in manus Amorrhaeorum, et disperdere nos.<verse eID="Deut.1.27" />
+        <verse sID="Deut.1.28" osisID="Deut.1.28" />... fratres vestri averterunt cor vestrum, dicentes, Gens magna est, et dura multa, et potentior vobis, et civitates magnae, et muratae usque ad coelum, sed et filios gigantum vidimus illic.<verse eID="Deut.1.28" />
+        <verse sID="Deut.1.29" osisID="Deut.1.29" />... Ne loquamini, neque formidetis ab eis.<verse eID="Deut.1.29" />
+        <verse sID="Deut.1.30" osisID="Deut.1.30" />Dominus Deus noster, qui antecedit ante faciem vestram, ipse simul expugnabit eos vobiscum, secundum omnia quaecunque fecit vobis in terra Aegypti.<verse eID="Deut.1.30" />
+        <verse sID="Deut.1.31" osisID="Deut.1.31" />Et in deserto hoc, quod videtis, quomodo fovit te Dominus Deus tuus, sicut quis foveat homo filium suum, in omnem viam quam ambulastis, quoadusque venistis ad hunc locum.<verse eID="Deut.1.31" />
+        <verse sID="Deut.1.32" osisID="Deut.1.32" />Et non credidistis ...<verse eID="Deut.1.32" />
+        <verse sID="Deut.1.33" osisID="Deut.1.33" />... deducens vos in igni nocte ostendens vobis iter, ut ambularetis in eo, et in nube diei.<verse eID="Deut.1.33" />
+        <verse sID="Deut.1.34" osisID="Deut.1.34" />... et exacerbatus est Dominus, et iuravit ...<verse eID="Deut.1.34" />
+        <verse sID="Deut.1.35" osisID="Deut.1.35" />Si videbit aliquis virorum istorum terram optimam hanc, quam iuravi patribus eorum.<verse eID="Deut.1.35" />
+        <verse sID="Deut.1.36" osisID="Deut.1.36" />Praeter Chaleb filius Iephone. Hic videbit eam ...<verse eID="Deut.1.36" />
+        <verse sID="Deut.1.37" osisID="Deut.1.37" />Et mihi iratus est Dominus causa vestri, dicens, Nec tu intrabis ibi.<verse eID="Deut.1.37" />
+        <verse sID="Deut.1.38" osisID="Deut.1.38" />Sed Iesus filius Nave intrabit ibi ...<verse eID="Deut.1.38" />
+      </p>
+      <chapter eID="Deut.1" />
+      <chapter sID="Deut.2" osisID="Deut.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Deut.2.7" osisID="Deut.2.7" />Dominus enim Deus vester benedixit te in omni opere manuum tuarum ...<verse eID="Deut.2.7" />
+        <verse sID="Deut.2.24" osisID="Deut.2.24" />Nunc ergo surgite, et promovete, et pertransite vos vallem Arnon. Ecce tradidi in manus tuas Seon regem Esebon ...<verse eID="Deut.2.24" />
+        <verse sID="Deut.2.30" osisID="Deut.2.30" />Et noluit Seon rex Esebon transire nos per ipsum, quoniam induraverat Dominus Deus noster spiritum eius, et confortavit cor eius, ut traderetur in manus tuas, sicut in hac die.<verse eID="Deut.2.30" />
+      </p>
+      <chapter eID="Deut.2" />
+      <chapter sID="Deut.3" osisID="Deut.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Deut.3.11" osisID="Deut.3.11" />Veruntamen Og rex Basan reliquus factus est a Raphain ...<verse eID="Deut.3.11" />
+        <verse sID="Deut.3.23" osisID="Deut.3.23" />Et precatus sum Dominum in tempore illo ...<verse eID="Deut.3.23" />
+        <verse sID="Deut.3.26" osisID="Deut.3.26" />Et despexit me vestri causa ...<verse eID="Deut.3.26" />
+      </p>
+      <chapter eID="Deut.3" />
+      <chapter sID="Deut.4" osisID="Deut.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Deut.4.6" osisID="Deut.4.6" />... Ecce populus sapiens et disciplinae tenax, gens magna.<verse eID="Deut.4.6" />
+        <verse sID="Deut.4.7" osisID="Deut.4.7" />Quoniam quae est gens magna, cui est ei Deus appropians illis ...<verse eID="Deut.4.7" />
+        <verse sID="Deut.4.9" osisID="Deut.4.9" />Attende tibi soli ...<verse eID="Deut.4.9" />
+        <verse sID="Deut.4.10" osisID="Deut.4.10" />... Convoca ad me populum, et audiant verba mea, ut discant timere me omnibus diebus quos ipsi vivent super terram ...<verse eID="Deut.4.10" />
+        <verse sID="Deut.4.12" osisID="Deut.4.12" />... et similitudinem non vidistis, sed vocem.<verse eID="Deut.4.12" />
+        <verse sID="Deut.4.14" osisID="Deut.4.14" />Et mihi praecepit Dominus in tempore illo dicere vobis iustificationes et iudicia ... in quam vos ingredimini illo, haereditare eam.<verse eID="Deut.4.14" />
+        <verse sID="Deut.4.16" osisID="Deut.4.16" />ne feceritis iniquitatem, et faciatis vobis ipsis sculptilem similitudinem, omnem imaginem ...<verse eID="Deut.4.16" />
+        <verse sID="Deut.4.17" osisID="Deut.4.17" />similitudinem omnis pecoris, aut alicuius rei, quae sunt super terram ...<verse eID="Deut.4.17" />
+        <verse sID="Deut.4.18" osisID="Deut.4.18" />... similitudinem omnis piscis, quaecunque sunt in aquis sub terra.<verse eID="Deut.4.18" />
+        <verse sID="Deut.4.19" osisID="Deut.4.19" />Et ne suspiciens in coelum, et videns solem et lunam, et stellas, et omnem ornatum coeli, errans adores ea et servias illis quae distribuit Dominus Deus tuus ex omnibus gentibus, quae sunt sub coelo.<verse eID="Deut.4.19" />
+        <verse sID="Deut.4.20" osisID="Deut.4.20" />... et eduxit vos de fornace ferrea ex Aegypto ...<verse eID="Deut.4.20" />
+        <verse sID="Deut.4.21" osisID="Deut.4.21" />Dominus iratus est mihi propter vos ... et non intrabo ...<verse eID="Deut.4.21" />
+        <verse sID="Deut.4.22" osisID="Deut.4.22" />Sed morior in hac terra, et non transeo Iordanem hunc ...<verse eID="Deut.4.22" />
+        <verse sID="Deut.4.23" osisID="Deut.4.23" />... ne obliviscamini testamentum Domini Dei vestri, quod disposuit ad vos. Et faciatis vobismetipsis sculptilem similitudinem omnium, quaecunque constituit tibi Dominus Deus tuus,<verse eID="Deut.4.23" />
+        <verse sID="Deut.4.24" osisID="Deut.4.24" />quoniam Dominus tuus ignis consumens est, Dominus zelans est.<verse eID="Deut.4.24" />
+        <verse sID="Deut.4.25" osisID="Deut.4.25" />Si autem genueris filios et filios filiorum tuorum ... Si exacerbaveritis Deum,<verse eID="Deut.4.25" />
+        <verse sID="Deut.4.26" osisID="Deut.4.26" />testor vobis hodie coelum et terram, quia perietis de terra illa ...<verse eID="Deut.4.26" />
+        <verse sID="Deut.4.29" osisID="Deut.4.29" />Et quaeretis ibi Dominum Deum vestrum, et invenietis eum, quando exquiretis eum ex toto corde tuo, et ex tota anima tua, in tribulatione tua.<verse eID="Deut.4.29" />
+        <verse sID="Deut.4.32" osisID="Deut.4.32" />Interrogate dies priores, qui fuerunt priores te ex die qua creavit Deus hominem super terram, et a summo coeli usque ad summum coeli, si factum est secundum verbum magnum hoc, si auditum est tale quid,<verse eID="Deut.4.32" />
+        <verse sID="Deut.4.33" osisID="Deut.4.33" />si audivit gens vocem Dei viventis loquentis e medio ignis, quemadmodum audisti tu et vixisti.<verse eID="Deut.4.33" />
+        <verse sID="Deut.4.34" osisID="Deut.4.34" />Si et tentavit Deus ingressus accipere sibi gentem de media gente ... secundum omnia quae fecit Dominus Deus vester in Aegypto, coram te vidente.<verse eID="Deut.4.34" />
+        <verse sID="Deut.4.39" osisID="Deut.4.39" />... Deus in coelo sursum, et super terram deorsum, et non est alius praeter eum Deus.<verse eID="Deut.4.39" />
+      </p>
+      <chapter eID="Deut.4" />
+      <chapter sID="Deut.5" osisID="Deut.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Deut.5.2" osisID="Deut.5.2" />Dominus Deus vester disposuit ad vos testamentum in Choreb.<verse eID="Deut.5.2" />
+        <verse sID="Deut.5.3" osisID="Deut.5.3" />Non patribus vestris disposuit Dominus testamentum hoc, sed ad vos, vos hic omnes viventes hodie.<verse eID="Deut.5.3" />
+        <verse sID="Deut.5.4" osisID="Deut.5.4" />Facie ad faciem locutus est Dominus ad vos in monte e medio ignis.<verse eID="Deut.5.4" />
+        <verse sID="Deut.5.5" osisID="Deut.5.5" />Et ego stabam inter Dominum et vos in tempore illo, annuntiare vobis verba Domini, quoniam timuistis a facie ignis, et non ascendistis in montem, dicens,<verse eID="Deut.5.5" />
+        <verse sID="Deut.5.6" osisID="Deut.5.6" />Ego sum Dominus Deus tuus ...<verse eID="Deut.5.6" />
+        <verse sID="Deut.5.7" osisID="Deut.5.7" />Non erunt tibi dii alii praeter me.<verse eID="Deut.5.7" />
+        <verse sID="Deut.5.8" osisID="Deut.5.8" />Non facies tibi sculptile, neque omnium similitudinem eorum, quaecunque sunt in coelo sursum, et eorum quae sunt in terra deorsum, et quaecunque sunt in aquis subtus terram.<verse eID="Deut.5.8" />
+        <verse sID="Deut.5.9" osisID="Deut.5.9" />Non adorabis illa, neque servies eis. Quoniam ego sum Dominus Deus tuus, Deus zelans, reddens peccata patrum in filiis in tertiam et quartam progeniem eis qui oderunt me,<verse eID="Deut.5.9" />
+        <verse sID="Deut.5.10" osisID="Deut.5.10" />et faciens misericordiam in millibus his qui diligunt me, et his qui custodiunt praecepta mea.<verse eID="Deut.5.10" />
+        <verse sID="Deut.5.12" osisID="Deut.5.12" />Observa et sanctifica diem, quem praecepit tibi Dominus.<verse eID="Deut.5.12" />
+        <verse sID="Deut.5.13" osisID="Deut.5.13" />Sex diebus laborabis, et facies omne opus tuum.<verse eID="Deut.5.13" />
+        <verse sID="Deut.5.14" osisID="Deut.5.14" />Septima vero die sabbati epulare Domino Deo tuo, nullum faciens opus ipse tu, aut filius tuus, aut filia tua, aut puer tuus, aut puella tua, bos tuus, et asinus tuus, omnia iumenta tua, et colonus tuus. Sic autem quiescet servus tuus, et ancilla tua, quemadmodum et tu.<verse eID="Deut.5.14" />
+        <verse sID="Deut.5.15" osisID="Deut.5.15" />Memento quoniam servus fuisti in Aegypto, et eruit te Dominus Deus tuus in manu potenti, et brachio excelso. Propter hoc constituit tibi Dominus Deus tuus ut observes diem sabbati, et sanctificare eum.<verse eID="Deut.5.15" />
+        <verse sID="Deut.5.16" osisID="Deut.5.16" />Honora patrem tuum et matrem ...<verse eID="Deut.5.16" />
+        <verse sID="Deut.5.17" osisID="Deut.5.17" />Non occides.<verse eID="Deut.5.17" />
+        <verse sID="Deut.5.18" osisID="Deut.5.18" />Non adulterabis.<verse eID="Deut.5.18" />
+        <verse sID="Deut.5.22" osisID="Deut.5.22" />Hi sermones omnes, quos locutus est Dominus ad omnem synagogam filiorum Israel in monte, et nihil adiecit. Et scripsit ea in duabus tabulis lapides, et dedit mhi.<verse eID="Deut.5.22" />
+        <verse sID="Deut.5.24" osisID="Deut.5.24" />Ecce ostendit Dominus Deus noster nobis gloriam suam, et vocem eius audivimus e medio ignis. In die ista videbimus, quoniam loquetur Deus ad hominem, et vivet.<verse eID="Deut.5.24" />
+        <verse sID="Deut.5.29" osisID="Deut.5.29" />Quis dabit esse sic cor eorum in eis, ut timeant me, et custodiant mandata mea ...<verse eID="Deut.5.29" />
+        <verse sID="Deut.5.31" osisID="Deut.5.31" />Tu autem hic sta mecum ...<verse eID="Deut.5.31" />
+      </p>
+      <chapter eID="Deut.5" />
+      <chapter sID="Deut.6" osisID="Deut.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Deut.6.4" osisID="Deut.6.4" />Audi Israel, Dominus Deus tuus, Deus unus est.<verse eID="Deut.6.4" />
+        <verse sID="Deut.6.5" osisID="Deut.6.5" />Diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota virtute tua.<verse eID="Deut.6.5" />
+        <verse sID="Deut.6.6" osisID="Deut.6.6" />Et erunt verba haec, quae ego praecipio tibi hodie, in corde tuo, et in anima tua.<verse eID="Deut.6.6" />
+        <verse sID="Deut.6.7" osisID="Deut.6.7" />Et demonstrabis ea filiis tuis, et loqueris eis sedens in domo, et ambulans in itinere, et in quiete, et in vigilia.<verse eID="Deut.6.7" />
+        <verse sID="Deut.6.8" osisID="Deut.6.8" />Et alligabis ea in signum in manu tua, et erunt monilia ante oculus tuos,<verse eID="Deut.6.8" />
+        <verse sID="Deut.6.9" osisID="Deut.6.9" />et scribes ea super limina in domiciliis tuis et in ianuis tuis.<verse eID="Deut.6.9" />
+        <verse sID="Deut.6.10" osisID="Deut.6.10" />Cum autem induxerit te Dominus Deus tuus in terram fluentem lacte et melle ...<verse eID="Deut.6.10" />
+        <verse sID="Deut.6.12" osisID="Deut.6.12" />cave tibi, cum manducaveris, et saturatus fueris,<verse eID="Deut.6.12" />
+        <verse sID="Deut.6.13" osisID="Deut.6.13" />ne obliviscaris Domini Dei tui, qui te eduxit de terra Aegypti, et domo servitutis. Dominum Deum tuum timebis, et illi famulaberis soli, et illi adglutinaberis, et in nomine eius deierabis.<verse eID="Deut.6.13" />
+        <verse sID="Deut.6.14" osisID="Deut.6.14" />Non ibitis post deos aliorum, et deos nationum, quae circum vos,<verse eID="Deut.6.14" />
+        <verse sID="Deut.6.15" osisID="Deut.6.15" />quia Deus aemulator, Dominus Deus tuus in te. Et ne iratus indignetur, et exterminet te a facie terrae.<verse eID="Deut.6.15" />
+        <verse sID="Deut.6.16" osisID="Deut.6.16" />Non tentabis Dominum Deum tuum ...<verse eID="Deut.6.16" />
+        <verse sID="Deut.6.17" osisID="Deut.6.17" />Custodite mandata Domini Dei tui, et testimonia et iustificationes, quascunque mandavit tibi,<verse eID="Deut.6.17" />
+        <verse sID="Deut.6.18" osisID="Deut.6.18" />et facies quod placitum est et quod bonum ante Dominum Deum tuum, ut bene fiat tibi, et intrabis, et haereditate possidebis terram bonam, quam iuravit Dominus patribus vestris,<verse eID="Deut.6.18" />
+        <verse sID="Deut.6.20" osisID="Deut.6.20" />Et erit cum interrogaverit te filius tuus cras, dicens ...<verse eID="Deut.6.20" />
+      </p>
+      <chapter eID="Deut.6" />
+      <chapter sID="Deut.7" osisID="Deut.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Deut.7.1" osisID="Deut.7.1" />Et erit cum induxerit te Dominus Deus tuus in terram, in quam intras ibi haereditare eam, et abstulerit gentes magnas et multas a conspectu tuo, Cetthaeum, et Gergesaeum, et Amorrhaeum, et Pheresaeum, et Chananaeum, et Evaeum, et Iebusaeum, septem gentes magnas et multas, et fortiores vobis,<verse eID="Deut.7.1" />
+        <verse sID="Deut.7.2" osisID="Deut.7.2" />et tradet eos Dominus Deus tuus in manus tuas, et percuties eos, exterminio exterminabis eos. Non dispones ad eos testamentum, neque miserearis eorum,<verse eID="Deut.7.2" />
+        <verse sID="Deut.7.3" osisID="Deut.7.3" />neque matrimoniis iungamini cum eis. Filiam tuam non dabis filio eius, et filiam eius non sumes filio tuo.<verse eID="Deut.7.3" />
+        <verse sID="Deut.7.4" osisID="Deut.7.4" />Discedere enim faciet filium tuum a me, et serviet diis aliis. Et irascetur indignatione Dominus in vos, et exterminabit te cito.<verse eID="Deut.7.4" />
+        <verse sID="Deut.7.5" osisID="Deut.7.5" />... Aras eorum subvertetis ... et lucos eorum succidetis, et sculptilia eorum igni concremabitis.<verse eID="Deut.7.5" />
+        <verse sID="Deut.7.22" osisID="Deut.7.22" />... ne fiat terra deserta, et multiplicentur in te bestiae ferae.<verse eID="Deut.7.22" />
+        <verse sID="Deut.7.25" osisID="Deut.7.25" />... non concupisces argentum vel aurum illorum, nec accipies inde tibi, ne excedas, propter illud quoniam abominatio est Domino Deo tuo.<verse eID="Deut.7.25" />
+        <verse sID="Deut.7.26" osisID="Deut.7.26" />Et non conferes exsecramentum in domum tuam, et eris anathema, sicut et illud est. Et offensione offendes, et coinquinatione inquinaberis abominatione illa, quia anathema est.<verse eID="Deut.7.26" />
+      </p>
+      <chapter eID="Deut.7" />
+      <chapter sID="Deut.8" osisID="Deut.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Deut.8.1" osisID="Deut.8.1" />Omnia mandata, quae trado vobis hodie, observabitis, ut vivatis ...<verse eID="Deut.8.1" />
+        <verse sID="Deut.8.2" osisID="Deut.8.2" />Et recordaberis omnem viam, quam duxit te Dominus Deus tuus in deserto, ut affligeret te, et tentaret te, et cognita faceret quae in corde tuo sunt, si observabis mandata eius, an non.<verse eID="Deut.8.2" />
+        <verse sID="Deut.8.3" osisID="Deut.8.3" />... et cibavit te manna, quod non sciebant patres tui, uti cognoscas quoniam non in pane solo vivit homo, sed in omni verbo Dei, quod procedit de ore eius, vivit homo.<verse eID="Deut.8.3" />
+        <verse sID="Deut.8.11" osisID="Deut.8.11" />Attende tibi, ne obliviscaris beneficia Domini Dei tui, et non custodias mandata et iudicia et iustitias illius, quae ego praecipio tibi hodie.<verse eID="Deut.8.11" />
+        <verse sID="Deut.8.12" osisID="Deut.8.12" />Ne cum manducaveris et repletus fueris, et cum domos bonas aedificaveris, et habitare coeperis in eis,<verse eID="Deut.8.12" />
+        <verse sID="Deut.8.13" osisID="Deut.8.13" />et oves tuae, et boves tui cum repleti fuerint, et cum aere, argento, et auro completus fueris, et omnia possidere coeperis, et plena fuerint horrea tua,<verse eID="Deut.8.13" />
+        <verse sID="Deut.8.14" osisID="Deut.8.14" />exaltes cor tuum, et obliviscaris Dominum Deum tuum ...<verse eID="Deut.8.14" />
+        <verse sID="Deut.8.17" osisID="Deut.8.17" />ne dicas in corde tuo. Virtus mea, et potentia mea fecit mihi virtutem hanc magnam.<verse eID="Deut.8.17" />
+        <verse sID="Deut.8.18" osisID="Deut.8.18" />Sed in mente tua habebis Dominum Deum tuum, quoniam ipse dat vires, ut facias virtutes ...<verse eID="Deut.8.18" />
+      </p>
+      <chapter eID="Deut.8" />
+      <chapter sID="Deut.9" osisID="Deut.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Deut.9.1" osisID="Deut.9.1" />Audi Israel, Tu transies hodie Iordanem, et possidebis gentes magnas ... civitates magnas et muratas usque in coelum,<verse eID="Deut.9.1" />
+        <verse sID="Deut.9.3" osisID="Deut.9.3" />Et scies quia Dominus Deus tuus praecedet te ...<verse eID="Deut.9.3" />
+        <verse sID="Deut.9.4" osisID="Deut.9.4" />Ne dicas in corde tuo, cum consumere coeperit Dominus Deus tuus gentes illas a conspectu tuo, dicens, Propter iustitiam meam induxit me Dominus possidere terram istam, sed propter iniquitates gentium istarum extirpavit illos Dominus a facie tua.<verse eID="Deut.9.4" />
+        <verse sID="Deut.9.5" osisID="Deut.9.5" />Non in iustitita tua, et directione cordis tui, intrabis ut possideas terram eorum. Sed in impietate eorum Dominus Deus tuus consumet eos a facie tua, ut suscitet verbum, quod locutus est patribus tuis, Abraham, Isaac, et Iacob.<verse eID="Deut.9.5" />
+        <verse sID="Deut.9.6" osisID="Deut.9.6" />Et scias hodie quia non propter iustitias tuas Dominus Deus tuus dat tibi terram bonam istam haereditare, quoniam populus dura cervice es.<verse eID="Deut.9.6" />
+        <verse sID="Deut.9.7" osisID="Deut.9.7" />Memor esto, ne obliviscaris, quanta exacerbasti Dominum Deum tuum in deserto. Ex qua die existis de terra Aegypti, donec venistis in locum hunc, increduli perseverastis quae ad Dominum.<verse eID="Deut.9.7" />
+        <verse sID="Deut.9.8" osisID="Deut.9.8" />Et in Choreb exacerbastis Dominum ...<verse eID="Deut.9.8" />
+        <verse sID="Deut.9.13" osisID="Deut.9.13" />Et dixit Dominus ad me ...<verse eID="Deut.9.13" />
+        <verse sID="Deut.9.14" osisID="Deut.9.14" />... sine me, et deleam illos ...<verse eID="Deut.9.14" />
+        <verse sID="Deut.9.15" osisID="Deut.9.15" />... descendi de monte ...<verse eID="Deut.9.15" />
+        <verse sID="Deut.9.16" osisID="Deut.9.16" />et vidi quia peccastis ...<verse eID="Deut.9.16" />
+        <verse sID="Deut.9.17" osisID="Deut.9.17" />... et proieci tabulas de manibus meis, et confregi illas.<verse eID="Deut.9.17" />
+        <verse sID="Deut.9.18" osisID="Deut.9.18" />Et deprecatus sum Dominum iterum sicut prius, quadraginta diebus et quadraginta noctibus panem non edi, et aquam non bibi ...<verse eID="Deut.9.18" />
+        <verse sID="Deut.9.19" osisID="Deut.9.19" />tremens sum, et meticulosus ...<verse eID="Deut.9.19" />
+        <verse sID="Deut.9.20" osisID="Deut.9.20" />Et in Aaron iratus est valde ...<verse eID="Deut.9.20" />
+        <verse sID="Deut.9.21" osisID="Deut.9.21" />... et sumpsi, et combussi illum ...<verse eID="Deut.9.21" />
+        <verse sID="Deut.9.22" osisID="Deut.9.22" />... et in tentatione ... exacerbastis Dominum.<verse eID="Deut.9.22" />
+        <verse sID="Deut.9.23" osisID="Deut.9.23" />Et quando dimisit vos Dominus a Cades Barnae ...<verse eID="Deut.9.23" />
+        <verse sID="Deut.9.25" osisID="Deut.9.25" />Et precatus sum ante Dominum quadraginta diebus et quadraginta noctibus ...<verse eID="Deut.9.25" />
+        <verse sID="Deut.9.26" osisID="Deut.9.26" />... Domine, Domine rex deorum coelorum, ne extermines populum tuum, et haereditatem tuam, quam liberasti de terra Aegypti in virtute tua magna, et brachio tu excelso.<verse eID="Deut.9.26" />
+        <verse sID="Deut.9.27" osisID="Deut.9.27" />Commemorare Abraham, Isaac, et Iacob famulorum tuorum, quibus iurasti per temetipsum, ne respicias duritiam populi huius, et impietates et peccata eorum,<verse eID="Deut.9.27" />
+        <verse sID="Deut.9.28" osisID="Deut.9.28" />ne dicant in cordibus suis inhabitantes terram, unde nos eduxisti, dicentes, Eo quod non potuit introducere illos Deus in terram, quam dixerat eis, et cum odisset, necare eiecit eos in eremo,<verse eID="Deut.9.28" />
+        <verse sID="Deut.9.29" osisID="Deut.9.29" />et hic populus tuus et operatio tua, quos eduxisti de terra Aegypti in virtute tua magna, et brachio tuo extento.<verse eID="Deut.9.29" />
+      </p>
+      <chapter eID="Deut.9" />
+      <chapter sID="Deut.10" osisID="Deut.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Deut.10.1" osisID="Deut.10.1" />In illo tempore dixit Dominus ad me, Excide tibi duas tabulas lapideas, quemadmodum priores, et ascende ad me in montem, et facies tibi arcam ligneam,<verse eID="Deut.10.1" />
+        <verse sID="Deut.10.2" osisID="Deut.10.2" />et scribam in tabulis verba quae erant in tabulis prioribus quas contrivisti, et immittes eas in arcam.<verse eID="Deut.10.2" />
+        <verse sID="Deut.10.3" osisID="Deut.10.3" />Et feci arcam ex lignis imputribilibus. Et excidi duas tabulas lapideas sicut priores, et ascendi in montem, et duae tabulae in duabus manibus meis.<verse eID="Deut.10.3" />
+        <verse sID="Deut.10.4" osisID="Deut.10.4" />Et scripsit in tabulis, secundum scripturam priorem, decem verba, quae locutus est Dominus ad vos in monte e medio ignis, et dedit eas Dominus mihi.<verse eID="Deut.10.4" />
+        <verse sID="Deut.10.5" osisID="Deut.10.5" />... et descendi ... et misi tabulas in arcam ...<verse eID="Deut.10.5" />
+        <verse sID="Deut.10.8" osisID="Deut.10.8" />In illo tempore distinxit Dominus tribum Levi, portare arcam testamenti Domini, assistere coram Domino, ministrare, et orare in nomine eius usque in hunc diem.<verse eID="Deut.10.8" />
+        <verse sID="Deut.10.9" osisID="Deut.10.9" />Propter hoc non est Levitis pars, et fors cum fratribus suis. Dominus ipse pars eius est, sicut dixit ei.<verse eID="Deut.10.9" />
+        <verse sID="Deut.10.12" osisID="Deut.10.12" />Et nunc Israel, quid Dominus Deus tuus poscit a te, nisi ut timeas Dominum Deum tuum, et ambules in omnibus viis eius, et diligas eum, et servias Domino Deo tuo ex toto corde tuo, et ex tota anima tua,<verse eID="Deut.10.12" />
+        <verse sID="Deut.10.13" osisID="Deut.10.13" />et custodias praecepta Domini Dei tui, et iustificationes eius, quae ego praecipio tibi hodie, ut bene sit tibi?<verse eID="Deut.10.13" />
+        <verse sID="Deut.10.16" osisID="Deut.10.16" />Circumcidite duritiam cordis vestri ...<verse eID="Deut.10.16" />
+        <verse sID="Deut.10.17" osisID="Deut.10.17" />... Deus magnus ... qui non accipit personam, sed nec accipit munera,<verse eID="Deut.10.17" />
+        <verse sID="Deut.10.18" osisID="Deut.10.18" />faciens iudicium proselyto, orphano et viduae. Dare panem et vestimentum dilige,<verse eID="Deut.10.18" />
+        <verse sID="Deut.10.19" osisID="Deut.10.19" />... quia et ipse fuisti in terra Aegypti.<verse eID="Deut.10.19" />
+        <verse sID="Deut.10.20" osisID="Deut.10.20" />Dominum Deum tuum timebis, et illi soli servies ...<verse eID="Deut.10.20" />
+        <verse sID="Deut.10.22" osisID="Deut.10.22" />In septuaginta animabus descenderunt patres vestri in Aegyptum. Nunc autem facti estis ut stellae coeli in multitudine.<verse eID="Deut.10.22" />
+      </p>
+      <chapter eID="Deut.10" />
+      <chapter sID="Deut.11" osisID="Deut.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Deut.11.4" osisID="Deut.11.4" />... quae fecit virtutem Aegyptiorum ...<verse eID="Deut.11.4" />
+        <verse sID="Deut.11.6" osisID="Deut.11.6" />Et quae fecerit Dathan et Abiron filiis Eliab ... quos aperiens terra os suum deglutivit eos, et domos eorum, et tabernacula eorum ...<verse eID="Deut.11.6" />
+        <verse sID="Deut.11.7" osisID="Deut.11.7" />Quoniam oculi vestri viderunt omnia opera Domini magna quae fecit in vobis hodie,<verse eID="Deut.11.7" />
+        <verse sID="Deut.11.9" osisID="Deut.11.9" />... terram, quam iuravit Dominus patribus vestris dare eis, seminique eorum post eos ...<verse eID="Deut.11.9" />
+        <verse sID="Deut.11.13" osisID="Deut.11.13" />Si autem auditu audieritis omnia mandata eius, quae ego mando tibi hodie ...<verse eID="Deut.11.13" />
+        <verse sID="Deut.11.14" osisID="Deut.11.14" />Et dabit pluviam terrae tuae in tempore suo, matutinum et serotinum ...<verse eID="Deut.11.14" />
+        <verse sID="Deut.11.15" osisID="Deut.11.15" />... et cum comederis et satiatus fueris,<verse eID="Deut.11.15" />
+        <verse sID="Deut.11.16" osisID="Deut.11.16" />attende tibi ipsi, ne dilatetur cor tuum, et praevaricemini, et serviatis diis aliis ...<verse eID="Deut.11.16" />
+        <verse sID="Deut.11.20" osisID="Deut.11.20" />Scribetis ea super limina domorum vestrarum et ianuarum vestrarum.<verse eID="Deut.11.20" />
+        <verse sID="Deut.11.22" osisID="Deut.11.22" />Et si obaudieritis omne praeceptum istud ...<verse eID="Deut.11.22" />
+        <verse sID="Deut.11.23" osisID="Deut.11.23" />eiiciet Dominus omnes gentes a facie vestra ...<verse eID="Deut.11.23" />
+        <verse sID="Deut.11.24" osisID="Deut.11.24" />... et flumen magnum, flumen Euphratem ...<verse eID="Deut.11.24" />
+        <verse sID="Deut.11.25" osisID="Deut.11.25" />... timorem vestrum et tremorem vestrum imponet Dominus Deus vester super faciem universae terrae ...<verse eID="Deut.11.25" />
+        <verse sID="Deut.11.26" osisID="Deut.11.26" />Ecce ego dedi ante conspectum vestrum hodie benedictionem et maledictionem:<verse eID="Deut.11.26" />
+        <verse sID="Deut.11.27" osisID="Deut.11.27" />benedictionem, si audieritis mandata Domini Dei vestri, quaecunque ego mando vobis hodie,<verse eID="Deut.11.27" />
+        <verse sID="Deut.11.28" osisID="Deut.11.28" />... maledictionem ... si erraveritis de via, quam mandavi vobis, ut abeuntes serviatis deis aliis, quos non scitis.<verse eID="Deut.11.28" />
+      </p>
+      <chapter eID="Deut.11" />
+      <chapter sID="Deut.12" osisID="Deut.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Deut.12.1" osisID="Deut.12.1" />Ista sunt praecepta et iudicia, quae observabitis ...<verse eID="Deut.12.1" />
+        <verse sID="Deut.12.2" osisID="Deut.12.2" />Perditione perdetis omnia loca, in quibus servierunt nationes deis, quas vos possidebitis haereditare, super montes, et colles, et arbores densas quasque.<verse eID="Deut.12.2" />
+        <verse sID="Deut.12.3" osisID="Deut.12.3" />Effodietis aras earum, evertetis et comminuetis staticula earum, et excidetis lucos earum, et sculptilia deorum ipsarum concremabitis igni, et disperdetis nomen eorum de loco illo.<verse eID="Deut.12.3" />
+        <verse sID="Deut.12.11" osisID="Deut.12.11" />Et erit locus quem elegerit Dominus Deus vester, invocari nomen suum ibi, afferetis omnia, quae praecipio vobis hodie, holocausta vestra, et sacrificia, et decimas vestras, et primitias, et dona vestra, et omnia quae elegit de manibus vestris, quaecunque voveritis Domino Deo vestro.<verse eID="Deut.12.11" />
+        <verse sID="Deut.12.15" osisID="Deut.12.15" />... secundum desiderium animae tuae occide, et manduca omnem carnem, iuxta voluptatem, quam dedit tibi Dominus ...<verse eID="Deut.12.15" />
+        <verse sID="Deut.12.16" osisID="Deut.12.16" />cave autem ne sanguinem manduces, sed effunde tanquam aquam super terram.<verse eID="Deut.12.16" />
+        <verse sID="Deut.12.17" osisID="Deut.12.17" />Non poteris manducare in civitatibus tuis decimationem frumenti tui ...<verse eID="Deut.12.17" />
+        <verse sID="Deut.12.19" osisID="Deut.12.19" />Attende tibi ne derelinquas Levitem per omne tempus quo vixeris super terram.<verse eID="Deut.12.19" />
+        <verse sID="Deut.12.28" osisID="Deut.12.28" />Custodi et fac omnia verba quae ego mando tibi ...<verse eID="Deut.12.28" />
+        <verse sID="Deut.12.29" osisID="Deut.12.29" />Si autem exterminaverit Dominus Deus tuus gentes, in quas tu intras haereditare terram eorum, a conspectu tuo, et haereditabis eos, et habitabis in terra eorum,<verse eID="Deut.12.29" />
+        <verse sID="Deut.12.30" osisID="Deut.12.30" />attende tibi ipsi, ne exquiras sequi eos, postquam exterminati fuerint a facie tua, ne exquiras deos eorum, dicens, Quemadmodum faciunt gentes diis suis, faciam et ego.<verse eID="Deut.12.30" />
+        <verse sID="Deut.12.31" osisID="Deut.12.31" />Non facies ita Domino Deo tuo. Abominamenta enim, quae Dominus odit, fecerunt diis suis, quoniam et filios suos et filias suas comburunt igni diis suis.<verse eID="Deut.12.31" />
+        <verse sID="Deut.12.32" osisID="Deut.12.32" />Omne verbum quod ego mando tibi, custodi, et fac ...<verse eID="Deut.12.32" />
+      </p>
+      <chapter eID="Deut.12" />
+      <chapter sID="Deut.13" osisID="Deut.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Deut.13.1" osisID="Deut.13.1" />Si ipse prophetes exsurrexerit in te, aut somnium somnians, et dederit tibi signum vel ostentum,<verse eID="Deut.13.1" />
+        <verse sID="Deut.13.2" osisID="Deut.13.2" />et evenerit, et dixerit, Eamus, et serviamus diis aliis quos non scitis,<verse eID="Deut.13.2" />
+        <verse sID="Deut.13.3" osisID="Deut.13.3" />ne audiatis sermonem prophetae aut somniatoris illius, quia tenrat vos Dominus Deus vester, ut sciat si ex toto corde vestro, et ex tota anima vestra timeatis Deum.<verse eID="Deut.13.3" />
+        <verse sID="Deut.13.4" osisID="Deut.13.4" />Post Deum vestrum abibitis, et hunc timebitis, et praecepta eius custodietis, et vocem eius audietis, et illi servietis, et illi adiiciemini.<verse eID="Deut.13.4" />
+        <verse sID="Deut.13.5" osisID="Deut.13.5" />Prophetes autem et somniator ille morietur. Locutus est enim a seducendum te a Domino Deo tuo ...<verse eID="Deut.13.5" />
+        <verse sID="Deut.13.6" osisID="Deut.13.6" />Si autem rogaverit te frater tuus ex patre vel matre, aut filius tuus aut filia tua, aut mulier quae in gremio tuo est, aut amicus, qui animae tuae par est, clam dicens, Eamus, et serviamus deis aliis, quos non scis, nec patres tui,<verse eID="Deut.13.6" />
+        <verse sID="Deut.13.7" osisID="Deut.13.7" />ex deis nationum, quae circum te proxime sunt aut longe,<verse eID="Deut.13.7" />
+        <verse sID="Deut.13.8" osisID="Deut.13.8" />ne velis ire cum illo, et ne audieris eum. Non parcet oculus tuus super eum, nec miseraberis, nec celabis eum.<verse eID="Deut.13.8" />
+        <verse sID="Deut.13.9" osisID="Deut.13.9" />Annuntians annuntiabis de eo, manus tuae erunt in eum in primis ad occidendum, et manus omnis populi in novissimis.<verse eID="Deut.13.9" />
+        <verse sID="Deut.13.10" osisID="Deut.13.10" />Et lapidabitis illum, et morietur, quoniam quaesivit avertere te a Domino Deo tuo.<verse eID="Deut.13.10" />
+        <verse sID="Deut.13.12" osisID="Deut.13.12" />Aut si audieris in una ex civitatibus, quas Dominus Deus tuus dabit tibi inhabitare te illic, dicentes,<verse eID="Deut.13.12" />
+        <verse sID="Deut.13.13" osisID="Deut.13.13" />... Eamus, et serviamus diis aliis quos non nosti,<verse eID="Deut.13.13" />
+        <verse sID="Deut.13.15" osisID="Deut.13.15" />interficiens necabis omnes qui sunt in civitate carde gladii,<verse eID="Deut.13.15" />
+        <verse sID="Deut.13.16" osisID="Deut.13.16" />et incendes civitatem igni, et erit sine habitaculo in aeternum, non reaedificabitur etiam nunc,<verse eID="Deut.13.16" />
+        <verse sID="Deut.13.17" osisID="Deut.13.17" />nec adhaerebit quidquam manibus tuis ex devotamento eius, ut avertatur Dominus ab indignatione irae suae, et dabit tibi misericordiam, et miserebitur tui, et multiplicabit te,<verse eID="Deut.13.17" />
+        <verse sID="Deut.13.18" osisID="Deut.13.18" />si exaudieris vocem Domini Dei tui, et observaveris praecepta eius ...<verse eID="Deut.13.18" />
+      </p>
+      <chapter eID="Deut.13" />
+      <chapter sID="Deut.14" osisID="Deut.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Deut.14.4" osisID="Deut.14.4" />Haec pecora quae manducabitis ...<verse eID="Deut.14.4" />
+        <verse sID="Deut.14.9" osisID="Deut.14.9" />Haec manducabitis ab his quae sunt in aquis ...<verse eID="Deut.14.9" />
+        <verse sID="Deut.14.11" osisID="Deut.14.11" />Omnem avem mundam manducabitis.<verse eID="Deut.14.11" />
+        <verse sID="Deut.14.21" osisID="Deut.14.21" />Decimas decimabis omnis seminis tui, id quod natum est in agro tuo ab anno in annum,<verse eID="Deut.14.21" />
+        <verse sID="Deut.14.23" osisID="Deut.14.23" />... offeres decimas tritici tui, et vini tui, et olei tui, et primitiva boum tuorum et ovium tuarum, ut discas timere Dominum Deum tuum omnibus diebus vitae tuae.<verse eID="Deut.14.23" />
+        <verse sID="Deut.14.24" osisID="Deut.14.24" />Si autem longe fuerit via a te ...<verse eID="Deut.14.24" />
+        <verse sID="Deut.14.25" osisID="Deut.14.25" />vendes ea ...<verse eID="Deut.14.25" />
+        <verse sID="Deut.14.28" osisID="Deut.14.28" />Post tres annos produces omnem decimam fructuum tuorum, in illo anno pones illud in civitatibus tuis.<verse eID="Deut.14.28" />
+        <verse sID="Deut.14.29" osisID="Deut.14.29" />Et veniet Levita, quia non est ei pars neque sors tecum, et advena et pupillus et vidua quae in civitatibus tuis, et manducabunt et saturabuntur, ut benedicat te Dominus Deus tuus in omnibus operibus tuis quaecunque feceris.<verse eID="Deut.14.29" />
+      </p>
+      <chapter eID="Deut.14" />
+      <chapter sID="Deut.15" osisID="Deut.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Deut.15.1" osisID="Deut.15.1" />Post septem annos facies remissionem,<verse eID="Deut.15.1" />
+        <verse sID="Deut.15.2" osisID="Deut.15.2" />... Dimittes omne debitum quod tibi proximus debet, et fratrem tuum non reposces, quoniam remissio Domini Dei tui invocata est.<verse eID="Deut.15.2" />
+        <verse sID="Deut.15.4" osisID="Deut.15.4" />Non erit in te indigens, uti benedicens benedicat te Dominus Deus tuus ...<verse eID="Deut.15.4" />
+        <verse sID="Deut.15.5" osisID="Deut.15.5" />Si audieris vocem Domini Dei tui ...<verse eID="Deut.15.5" />
+        <verse sID="Deut.15.6" osisID="Deut.15.6" />Foenerabis gentibus multis, tu autem mutuum non accipies. Princeps eris gentium multarum, tibi autem principes ex ipsis non erunt.<verse eID="Deut.15.6" />
+        <verse sID="Deut.15.7" osisID="Deut.15.7" />Si autem fuerit in te egenus in fratribus tuis, in una civitatum tuarum, in terra quam Dominus Deus tuus dat tibi, non avertes cor tuum, neque constringes manum tuam a fratre tuo egente,<verse eID="Deut.15.7" />
+        <verse sID="Deut.15.8" osisID="Deut.15.8" />aperiens aperies manus tuas ei, foenus foenerabis ei, quantumcunque postulat, et quantum eget.<verse eID="Deut.15.8" />
+        <verse sID="Deut.15.9" osisID="Deut.15.9" />Attende tibi ipsi ne fiat verbum occultum in corde tuo iniquitas, dicens, Appropiat annus septimus, annus remissionis, et malignetur oculus tuus in fratrem tuum egenum, et non tribuas ei, et exclamabit adversum te ad Dominum, et erit in te peccatum magnum.<verse eID="Deut.15.9" />
+        <verse sID="Deut.15.12" osisID="Deut.15.12" />Si autem venundatus fuerit tibi frater tuus Hebraeus, aut Hebraea, serviet tibi sex annis, et septimo dimittes eum liberum a te.<verse eID="Deut.15.12" />
+        <verse sID="Deut.15.17" osisID="Deut.15.17" />... et ancillam tuam facies similiter.<verse eID="Deut.15.17" />
+        <verse sID="Deut.15.19" osisID="Deut.15.19" />Omne primogenitum, quod natum fuerit in bobus tuis, et in ovibus tuis, masculina, sanctificabis Domino Deo tuo ...<verse eID="Deut.15.19" />
+        <verse sID="Deut.15.21" osisID="Deut.15.21" />Si autem fuerit in eo vitium, claudum, aut caecum, vel omne vitium malum ...<verse eID="Deut.15.21" />
+      </p>
+      <chapter eID="Deut.15" />
+      <chapter sID="Deut.16" osisID="Deut.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Deut.16.1" osisID="Deut.16.1" />Custodi mensem novorum, et facies pascha Domino Deo tuo ...<verse eID="Deut.16.1" />
+        <verse sID="Deut.16.2" osisID="Deut.16.2" />Et immolabis pascha Domino Deo tuo oves, et boves ...<verse eID="Deut.16.2" />
+        <verse sID="Deut.16.4" osisID="Deut.16.4" />... et non dormiet de carnibus, de quibus immolaveritis vespere die primo usque in mane.<verse eID="Deut.16.4" />
+        <verse sID="Deut.16.5" osisID="Deut.16.5" />Non poteris immolare pascha in ulla alia civitatum tuarum, quas Dominus Deus dat tibi,<verse eID="Deut.16.5" />
+        <verse sID="Deut.16.6" osisID="Deut.16.6" />nisi in eo loco, quem delegerit Dominus Deus tuus, invocari nomen suum ibi, immolabis pascha vespere ad occasum solis, in tempore quo existi de Aegypto.<verse eID="Deut.16.6" />
+        <verse sID="Deut.16.9" osisID="Deut.16.9" />Septem septimanas integras dinumerabis tibi ipsi, inchoare te falcem iniicere in messem, incipies numerare septem septimanas,<verse eID="Deut.16.9" />
+        <verse sID="Deut.16.10" osisID="Deut.16.10" />et facias diem festum septimanarum Domino Deo tuo, prout valet manus tua, quaecunque Dominus tibi dederit, secundum quod benedicet te Dominus Deus tuus,<verse eID="Deut.16.10" />
+        <verse sID="Deut.16.11" osisID="Deut.16.11" />et epulaberis ante Dominum Deum tuum ...<verse eID="Deut.16.11" />
+        <verse sID="Deut.16.16" osisID="Deut.16.16" />... Non aparebis vacuus ante conspectum Domini Dei tui.<verse eID="Deut.16.16" />
+        <verse sID="Deut.16.19" osisID="Deut.16.19" />... excaecant munera etiam sapientium oculos ...<verse eID="Deut.16.19" />
+        <verse sID="Deut.16.20" osisID="Deut.16.20" />Iuste quod iustum est persequeris ...<verse eID="Deut.16.20" />
+        <verse sID="Deut.16.21" osisID="Deut.16.21" />Non plantabis tibi lucum ...<verse eID="Deut.16.21" />
+      </p>
+      <chapter eID="Deut.16" />
+      <chapter sID="Deut.17" osisID="Deut.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Deut.17.1" osisID="Deut.17.1" />Non offeres Domino Deo tuo vitulum, vel ovem, in quo est in ipso vitium ...<verse eID="Deut.17.1" />
+        <verse sID="Deut.17.2" osisID="Deut.17.2" />Si autem inveniatur in te, in una civitatum tuarum quas Dominus Deus tuus dabit tibi, vir aut mulier qui fecerit malignum ante Dominum Deum tuum, transire in testamentum eius,<verse eID="Deut.17.2" />
+        <verse sID="Deut.17.3" osisID="Deut.17.3" />et venientes servierint diis alienis, et adoraverint eos, aut soli aut lunae, aut omni qui sunt in mundo de coelo ...<verse eID="Deut.17.3" />
+        <verse sID="Deut.17.5" osisID="Deut.17.5" />produces virum illum aut mulierem illam, et lapidabitis eos in lapidibus, et morientur.<verse eID="Deut.17.5" />
+        <verse sID="Deut.17.6" osisID="Deut.17.6" />In duobus testibus aut in tribus morietur. Moriens non morietur in uno teste.<verse eID="Deut.17.6" />
+        <verse sID="Deut.17.7" osisID="Deut.17.7" />Et manus testium erit super eum in primis ad occidendum illum, et manus totius plebis postremo. Et tolles malignum ex vobis ipsis.<verse eID="Deut.17.7" />
+        <verse sID="Deut.17.8" osisID="Deut.17.8" />... exsurgens ascendes in locum, quocunque elegerit Dominus Deus tuus invocari nomen eius ibi.<verse eID="Deut.17.8" />
+        <verse sID="Deut.17.9" osisID="Deut.17.9" />Et loquere ad sacerdotes Levitas, aut ad iudicem quicunque factus fuerit in diebus illis, et requirentes nunciabunt tibi iudicium.<verse eID="Deut.17.9" />
+        <verse sID="Deut.17.10" osisID="Deut.17.10" />Et facies secundum omne praeceptum, quodcunque nunciaverint tibi qui sunt in loco illo, in quo elegit Dominus Deus tuus invocari nomen illius ibi, et observa te nimis, facies secundum omnia quaecunque constituerint tibi.<verse eID="Deut.17.10" />
+        <verse sID="Deut.17.11" osisID="Deut.17.11" />Secundum legem, et secundum iudicium quodcunque dixerint, facies. Non declinabis a verbo quodcunque nunciaverint tibi, facies quodcunque indicaverint tibi. Non declinabis dextra aut sinistra.<verse eID="Deut.17.11" />
+        <verse sID="Deut.17.12" osisID="Deut.17.12" />Et homo quicunque fecerit in superbia, ne audiat sacerdotes adstantes officia exhibere in nomine Domini Dei, ut iudicem quicunque fuerit in diebus illis, morietur homo ille, et tolles malum de Israel.<verse eID="Deut.17.12" />
+        <verse sID="Deut.17.13" osisID="Deut.17.13" />Et omnes populus audiens timebit, et impie non aget ultra.<verse eID="Deut.17.13" />
+        <verse sID="Deut.17.14" osisID="Deut.17.14" />Si autem intraveris in terram, quam Dominus Deus tuus dat tibi in forte, et haereditaveris eam, et habitaveris in ea, et dices, Constituam super me principes, sicut et caeterae gentes quae circa me sunt,<verse eID="Deut.17.14" />
+        <verse sID="Deut.17.15" osisID="Deut.17.15" />constituendo constitues super te principem, quem elegerit Dominus Deus tuus ipsum, ex fratribus tuis constitues super te principem. Non poteris constituere super te hominem alienum, quia non est frater tuus.<verse eID="Deut.17.15" />
+        <verse sID="Deut.17.16" osisID="Deut.17.16" />... non multiplicabit sibi equum ...<verse eID="Deut.17.16" />
+        <verse sID="Deut.17.17" osisID="Deut.17.17" />Non multiplicabit sibi uxores, ut non discedat cor eius, et argentum et aurum non multiplicabit sibi valde.<verse eID="Deut.17.17" />
+        <verse sID="Deut.17.18" osisID="Deut.17.18" />Et erit cum sederit in principatu suo, scribet hoc in libro ante sacerdotes et Levitas,<verse eID="Deut.17.18" />
+        <verse sID="Deut.17.19" osisID="Deut.17.19" />et erit cum ipso, et leget eum omnibus diebus vitae suae, ut discat timere Dominum Deum tuum, custodire omnia mandata haec, et iustificationes has facere,<verse eID="Deut.17.19" />
+        <verse sID="Deut.17.20" osisID="Deut.17.20" />ut non extollatur cor eius a fratribus suis, et non transgrediatur a mandatis dextra aut sinistra, ut longiturni temporis sit in principatu suo ipse, et filii eius cum ipso, in filiis Israel.<verse eID="Deut.17.20" />
+      </p>
+      <chapter eID="Deut.17" />
+      <chapter sID="Deut.18" osisID="Deut.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Deut.18.1" osisID="Deut.18.1" />Non erit sacerdotibus Levitis, in tota tribu Levi, pars neque substantia cum Israel, fructificationes Domini, substantiae eorum, manducabunt eas,<verse eID="Deut.18.1" />
+        <verse sID="Deut.18.3" osisID="Deut.18.3" />Hoc iudicium sacerdotum ...<verse eID="Deut.18.3" />
+        <verse sID="Deut.18.6" osisID="Deut.18.6" />Si autem supervenerit Levites ex una civitatum tuarum ex omnibus filiis Israel ubi ipse incolit, secundum quod cupit anima eius, in locum quem elegerit Dominus,<verse eID="Deut.18.6" />
+        <verse sID="Deut.18.7" osisID="Deut.18.7" />et ministrabit nomini Domini Dei sui, sicut omnes fratres eius Levitae, qui adstant ibi coram Domino.<verse eID="Deut.18.7" />
+        <verse sID="Deut.18.8" osisID="Deut.18.8" />Partem partitam edet, praeter venditionem, quae est secundum familiam.<verse eID="Deut.18.8" />
+        <verse sID="Deut.18.9" osisID="Deut.18.9" />Cum ingressus fueris terram, quam Dominus Deus tuus dabit tibi, non disces facere abominiationes gentium illarum,<verse eID="Deut.18.9" />
+        <verse sID="Deut.18.10" osisID="Deut.18.10" />nec invenientur in te qui traducat filium, vel filiam suam per ignem, divinationibus vel omnibus auguriis, et maleficis artibus, et incantationibus non servies,<verse eID="Deut.18.10" />
+        <verse sID="Deut.18.11" osisID="Deut.18.11" />ut interroges magos, et hariolos, et mortuos,<verse eID="Deut.18.11" />
+        <verse sID="Deut.18.12" osisID="Deut.18.12" />abominatio enim Domini est omnis qui facit haec, et propter has abominationes Dominus Deus tuus consumet eas a facie tua,<verse eID="Deut.18.12" />
+        <verse sID="Deut.18.13" osisID="Deut.18.13" />perfectus eris cum Domino Deo tuo.<verse eID="Deut.18.13" />
+        <verse sID="Deut.18.14" osisID="Deut.18.14" />Quia gentes istae, quas tu possidebis, hariolos et divinos audiunt. Tibi autem non sic dedit Dominus Deus tuus.<verse eID="Deut.18.14" />
+        <verse sID="Deut.18.15" osisID="Deut.18.15" />PROPHETAM unum ex te de fratribus tuis sicut me, suscitabit tibi Dominus Deus tuus. Ipsum audies,<verse eID="Deut.18.15" />
+        <verse sID="Deut.18.16" osisID="Deut.18.16" />secundum omnia quae petiisti a Domino Deo tuo in Choreb, in die convocationis, dicentes ...<verse eID="Deut.18.16" />
+        <verse sID="Deut.18.17" osisID="Deut.18.17" />Et dixit Dominus ad me ...<verse eID="Deut.18.17" />
+        <verse sID="Deut.18.18" osisID="Deut.18.18" />Prophetam excitabo eis de fratribus eorum sicut te, et dabo verbum meum in ore eius, et loquetur ad eos ea quae praecepero ei,<verse eID="Deut.18.18" />
+        <verse sID="Deut.18.19" osisID="Deut.18.19" />et quisquis non audierit quaecunque locutus fuerit propheta ille in nomine meo, ego vindicabo.<verse eID="Deut.18.19" />
+        <verse sID="Deut.18.22" osisID="Deut.18.22" />Propheta si locutus fuerit verbum, et non contigerit ...<verse eID="Deut.18.22" />
+      </p>
+      <chapter eID="Deut.18" />
+      <chapter sID="Deut.19" osisID="Deut.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Deut.19.4" osisID="Deut.19.4" />Hoc praeceptum homicidae<verse eID="Deut.19.4" />
+        <verse sID="Deut.19.11" osisID="Deut.19.11" />Si fuerit homo odiens proximum, et insidiatur eum, et surrexerit in eum, et percusserit eum animo, et mortuus fuerit, et fugerit in unam civitatem harum,<verse eID="Deut.19.11" />
+        <verse sID="Deut.19.12" osisID="Deut.19.12" />mittent seniores civitatis illius, et accipient eum inde, et tradent eum in manus exquirentium sanguinem, et morietur.<verse eID="Deut.19.12" />
+        <verse sID="Deut.19.13" osisID="Deut.19.13" />Non parces oculo tuo super eum, et mundabis sanguinem innocentis ex illis, et bene tibi erit.<verse eID="Deut.19.13" />
+        <verse sID="Deut.19.14" osisID="Deut.19.14" />Non transferes terminos, quos posuerunt patres tui ...<verse eID="Deut.19.14" />
+        <verse sID="Deut.19.15" osisID="Deut.19.15" />Non manebit unus in testificationem adversus hominem, secundum omnem iniquitatem, et secundum omne peccatum quodcunque peccatur, in ore duorum testium aut trium stabit omnis sermo.<verse eID="Deut.19.15" />
+        <verse sID="Deut.19.16" osisID="Deut.19.16" />Si autem steterit testis iniustus adversus hominem, detrahens ei iniquitatem,<verse eID="Deut.19.16" />
+        <verse sID="Deut.19.17" osisID="Deut.19.17" />stabunt duo homines, quibus est ipsis contradictio, ante Dominum, et ante sacerdotem, et in conspectu iudicis quicunque fuerit in diebus illis.<verse eID="Deut.19.17" />
+        <verse sID="Deut.19.18" osisID="Deut.19.18" />Et interrogabunt diligenter iudices, et ecce testis iniustus testificatus est iniqua, resistens adversus fratrem suum,<verse eID="Deut.19.18" />
+        <verse sID="Deut.19.19" osisID="Deut.19.19" />et facite ei quaemadmodum nequiter egit facere adversus fratrem suum, et auferetis iniquum ex vobis ipsis,<verse eID="Deut.19.19" />
+        <verse sID="Deut.19.20" osisID="Deut.19.20" />et caeteri audientes timebunt, et non apponent amplius facere verbum malignum hoc in vobis.<verse eID="Deut.19.20" />
+        <verse sID="Deut.19.21" osisID="Deut.19.21" />Non parces oculis tuis super eum, animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede.<verse eID="Deut.19.21" />
+      </p>
+      <chapter eID="Deut.19" />
+      <chapter sID="Deut.20" osisID="Deut.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Deut.20.1" osisID="Deut.20.1" />Si exieris ad bellum ... noli timere ...<verse eID="Deut.20.1" />
+        <verse sID="Deut.20.4" osisID="Deut.20.4" />quoniam Dominus Deus vester, qui praecedit vobiscum, simul debellabit vobiscum inimicos vestros, et salvos faciet vos.<verse eID="Deut.20.4" />
+        <verse sID="Deut.20.5" osisID="Deut.20.5" />Et loquentur scribae ad populum, dicentes, Quis est homo qui aedificavit domum novam, et non dedicavit eam? Vadat, et revertatur in domum suam, ne moriatur in bello, et homo alius dedicet ea.<verse eID="Deut.20.5" />
+        <verse sID="Deut.20.6" osisID="Deut.20.6" />Et quis est homo qui pastinavit vineam, et non est epulatus ex ea? Vadat, et revertatur in domum suam, ne moriatur in bello, et homo alius epuletur ex ea.<verse eID="Deut.20.6" />
+        <verse sID="Deut.20.7" osisID="Deut.20.7" />Et quis est homo qui sponsavit uxorem, et non accepit eam? Vadat, et redeat in domum suam, ne moriatur in bello, et homo alius accipiat eam.<verse eID="Deut.20.7" />
+        <verse sID="Deut.20.10" osisID="Deut.20.10" />Si autem accesseris ad civitatem expugnare eam, et evocaveris eos cum pace,<verse eID="Deut.20.10" />
+        <verse sID="Deut.20.11" osisID="Deut.20.11" />siquidem pacifica responderint tibi, et aperuerint tibi, omnes populi, qui inventi fuerint in civitate, erunt tibi tributarii, et obedientes.<verse eID="Deut.20.11" />
+        <verse sID="Deut.20.12" osisID="Deut.20.12" />Si autem non obedierint tibi, et fecerint ad te bellum, et circumsedebis eam.<verse eID="Deut.20.12" />
+        <verse sID="Deut.20.13" osisID="Deut.20.13" />Et tradet eam Dominus Deus tuus in manus tuas, et interficies omne masculinum eius, in nece gladii.<verse eID="Deut.20.13" />
+        <verse sID="Deut.20.14" osisID="Deut.20.14" />praeter mulieres, et supellectilem, et omnia pecora, et omnia quaecunque fuerint in civitate. Et omnia utensilia praedaberis tibi, et edes omnem praedationem inimicorum tuorum, quos Dominus Deus tuus dabit tibi.<verse eID="Deut.20.14" />
+        <verse sID="Deut.20.15" osisID="Deut.20.15" />Sic facies omnibus civitatibus, quae longe sunt a te valde, quae non sunt a civitatibus gentium istarum.<verse eID="Deut.20.15" />
+        <verse sID="Deut.20.16" osisID="Deut.20.16" />Ecce autem ex civitatibus istis, quas Dominus Deus tuus dat tibi haereditare terram eorum, non vivificabis omnem vivum,<verse eID="Deut.20.16" />
+        <verse sID="Deut.20.17" osisID="Deut.20.17" />sed anathemabis eos, Cetthaeum, et Amorrhaeum, et Chananaeum, et Pheresaeum, et Evaeum, et Iebusaeum, et Gergesaeum, quemadmodum mandavit tibi Dominus Deus tuus.<verse eID="Deut.20.17" />
+        <verse sID="Deut.20.19" osisID="Deut.20.19" />Si obsederis civitatem ...<verse eID="Deut.20.19" />
+      </p>
+      <chapter eID="Deut.20" />
+      <chapter sID="Deut.21" osisID="Deut.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Deut.21.1" osisID="Deut.21.1" />Si inventus fuerit vulneratus in terra ...<verse eID="Deut.21.1" />
+        <verse sID="Deut.21.10" osisID="Deut.21.10" />Si exieris in pugnam adversus inimicos tuos, et tradiderit tibi eos Dominus Deus tuus in manus tuas, et depraedatus fuers spolia eorum,<verse eID="Deut.21.10" />
+        <verse sID="Deut.21.11" osisID="Deut.21.11" />et videris in ea depraedatione mulierem bonam specie, et cohabitaveris cum ea ...<verse eID="Deut.21.11" />
+        <verse sID="Deut.21.12" osisID="Deut.21.12" />induces eam in domum tuam, rades eius caput ...<verse eID="Deut.21.12" />
+        <verse sID="Deut.21.13" osisID="Deut.21.13" />... et sedebit triginta diebus in domo tua, postea intrabis ad eam ...<verse eID="Deut.21.13" />
+        <verse sID="Deut.21.14" osisID="Deut.21.14" />Si nolueris eam postea, dimittes eam liberam, non venundabitur pecunia ... quia humiliasti eam.<verse eID="Deut.21.14" />
+        <verse sID="Deut.21.15" osisID="Deut.21.15" />Si fuerint uni homini duae uxores, una earum dilecta, et altera odibilis, et pepererint ei ambae filios, dilecta et odibilis, et primitivius fuerit filius mulieris odibilis,<verse eID="Deut.21.15" />
+        <verse sID="Deut.21.16" osisID="Deut.21.16" />qua die haeredes reliquerit filios in substantia sua, non poterit primatum dare filio mulieris dilectae, omittens filium odibilis,<verse eID="Deut.21.16" />
+        <verse sID="Deut.21.17" osisID="Deut.21.17" />sed primitivum filium odibilis cognoscet, dare illi dotem ex omnibus quae inveniuntur ei, quia ipse initium filiorum eius est, et ipsi debentur primitiae.<verse eID="Deut.21.17" />
+        <verse sID="Deut.21.18" osisID="Deut.21.18" />Si fuerit alicui filius inobediens ...<verse eID="Deut.21.18" />
+        <verse sID="Deut.21.22" osisID="Deut.21.22" />Si autem fuerit in aliquo delicto (l. delictum) ita ut iudicium mortis sit, et morietur, et suspendetis eum in ligno,<verse eID="Deut.21.22" />
+        <verse sID="Deut.21.23" osisID="Deut.21.23" />sed et sepultura sepelietis eum ipsa die, quoniam maledictus a Deo est omnis qui suspensus fuerit in ligno, et non inquinabitis terram, quam Dominus Deus tuus dabit tibi in sorte.<verse eID="Deut.21.23" />
+      </p>
+      <chapter eID="Deut.21" />
+      <chapter sID="Deut.22" osisID="Deut.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Deut.22.1" osisID="Deut.22.1" />Ne, viso vitulo fratris tui, vel ove eius, errantibus per viam, negligas ea, reversione reduces ea fratri tuo,<verse eID="Deut.22.1" />
+        <verse sID="Deut.22.2" osisID="Deut.22.2" />quod si non appropinquat tibi frater tuus, neque noveris eum, colliges ea intra domum tuam, et erunt tecum donec quaerat ea frater tuus, et reddes ei.<verse eID="Deut.22.2" />
+        <verse sID="Deut.22.5" osisID="Deut.22.5" />Non erit res viri super mulierem, neque induetur vir stolam muliebrem, quia immundus est Domino omnis qui fecerit haec.<verse eID="Deut.22.5" />
+        <verse sID="Deut.22.6" osisID="Deut.22.6" />Si occurreris nido avis ante faciem tuam in via ...<verse eID="Deut.22.6" />
+        <verse sID="Deut.22.8" osisID="Deut.22.8" />Si autem aedificaveris domum novam, facies coronam solario tuo, et non facies homicidium in domo tua, si cadat qui cecidit ab eo.<verse eID="Deut.22.8" />
+        <verse sID="Deut.22.10" osisID="Deut.22.10" />Non arabis in vitulo simul et asino.<verse eID="Deut.22.10" />
+        <verse sID="Deut.22.13" osisID="Deut.22.13" />Si autem quis acceperit uxorem, et habitaverit cum ea, et oderit eam,<verse eID="Deut.22.13" />
+        <verse sID="Deut.22.14" osisID="Deut.22.14" />et imponat ei occasionis verba, et detulerit ei nomen malignum, et dixerit, Mulierem hanc accepi, et accedens ad eam non inveni eius virginalia,<verse eID="Deut.22.14" />
+        <verse sID="Deut.22.15" osisID="Deut.22.15" />et accipiens pater puellae, et mater, producent virginalia puellae ad seniores ad portam.<verse eID="Deut.22.15" />
+        <verse sID="Deut.22.16" osisID="Deut.22.16" />Et dicet pater puellae senioribus, Filiam meam hanc dedi homini huic uxorem, et odio habens eam,<verse eID="Deut.22.16" />
+        <verse sID="Deut.22.17" osisID="Deut.22.17" />ipse nunc imponit ei occasionis verba, dicens, Non inveni filiae tuae virginalia, et ecce virginalia filia meae, et replicabunt pallium coram senibus civitatis illius.<verse eID="Deut.22.17" />
+        <verse sID="Deut.22.18" osisID="Deut.22.18" />Et accipient senes civitatis hominem illum, et castigabunt eum,<verse eID="Deut.22.18" />
+        <verse sID="Deut.22.19" osisID="Deut.22.19" />et damnificabunt eum centum siclis, et dabunt patri adolescentulae, quia protulit nomen malum super virginem Israelitem, et ipsius erit uxor, non poterit dimittere eam perpetuo tempore.<verse eID="Deut.22.19" />
+        <verse sID="Deut.22.20" osisID="Deut.22.20" />Si autem verum factum sit hoc verbum, et non inveniantur virginalia puellae,<verse eID="Deut.22.20" />
+        <verse sID="Deut.22.21" osisID="Deut.22.21" />et producent adolescentulam ad ianuam domus patris ipsius, et lapidabunt eam viri civitatis eius in lapidibus, et morietur, quoniam fecit impudentiam in filiis Israel, prostituere domum patris sui, et auferes malignum ex vobis ipsis.<verse eID="Deut.22.21" />
+        <verse sID="Deut.22.22" osisID="Deut.22.22" />Si inventus fuerit homo dormiens cum muliere habente maritum, occidetis utrosque ...<verse eID="Deut.22.22" />
+        <verse sID="Deut.22.23" osisID="Deut.22.23" />Si virgo desponsata fuerit viro, et inveniens eam homo in civitate, dormierit cum ea,<verse eID="Deut.22.23" />
+        <verse sID="Deut.22.24" osisID="Deut.22.24" />educentur ambo ad portam civitatis suae, et lapidabuntur, et morietur iuvencula, quia non exclamavit in civitate, nec invocavit hominem qui subveniret, et vir, quia humiliavit mulierem proximi sui, et tolletis iniquum a vobismetipsis.<verse eID="Deut.22.24" />
+        <verse sID="Deut.22.25" osisID="Deut.22.25" />Si invenerit homo in campo puellam desponsatam, et vi opprimens dormierit cum ea, interficietis virum solum qui concubit cum ea,<verse eID="Deut.22.25" />
+        <verse sID="Deut.22.26" osisID="Deut.22.26" />et puellae nihil facietis, non est adolescentulae peccatum mortis, quia quomodo si quis in insidiis insurgat contra proximum suum, et interficiat animam eius, sic hoc negotium accidit.<verse eID="Deut.22.26" />
+        <verse sID="Deut.22.27" osisID="Deut.22.27" />In agro invenit eam, clamavit puella desponsata, et non est inventus qui auxiliaretur ei.<verse eID="Deut.22.27" />
+        <verse sID="Deut.22.28" osisID="Deut.22.28" />Si autem invenerit aliquis puellam virginem, quae sponsata non est, et vim faciens ei dormierit cum ea, et inventus fuerit,<verse eID="Deut.22.28" />
+        <verse sID="Deut.22.29" osisID="Deut.22.29" />dabit homo qui dormivit cum ea, patri puellae quinquaginta didrachma argenti, et ipsius erit uxor, quia humiliavit eam. Non poterit dimittere eam per omne tempus.<verse eID="Deut.22.29" />
+        <verse sID="Deut.22.30" osisID="Deut.22.30" />Non accipiet homo uxorem patris sui ...<verse eID="Deut.22.30" />
+      </p>
+      <chapter eID="Deut.22" />
+      <chapter sID="Deut.23" osisID="Deut.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Deut.23.1" osisID="Deut.23.1" />Non intrabit ... abscissus in ecclesiam Domini.<verse eID="Deut.23.1" />
+        <verse sID="Deut.23.2" osisID="Deut.23.2" />Non intrabit fornicaria in ecclesiam Domini.<verse eID="Deut.23.2" />
+        <verse sID="Deut.23.3" osisID="Deut.23.3" />Non intrabit Ammanites et Moabites in ecclesiam Domini, et usque ad decimam generationem non intrabit in ecclesiam Domini, et usque in aeternum.<verse eID="Deut.23.3" />
+        <verse sID="Deut.23.4" osisID="Deut.23.4" />Eo quod non obviaverint vobis cum panibus et aqua in via, cum exiretis de Aegypto, et quia conduxerunt adversum te Balaam filium Beor de Mesopotamia, ut malediceret te,<verse eID="Deut.23.4" />
+        <verse sID="Deut.23.6" osisID="Deut.23.6" />Non salutabis eos pacifice omnibus diebus vitae tuae usque in aeternum.<verse eID="Deut.23.6" />
+        <verse sID="Deut.23.7" osisID="Deut.23.7" />Non abominabis Idumaeum ... neque Aegyptium ...<verse eID="Deut.23.7" />
+        <verse sID="Deut.23.10" osisID="Deut.23.10" />Si fuerit in te vir, qui non sit mundus a nocturno fluxu, egredietur extra castra,<verse eID="Deut.23.10" />
+        <verse sID="Deut.23.11" osisID="Deut.23.11" />et non ingredietur medium castrorum, cumque advenerit vespera, lavabit se aqua, et post occubitum solis ingredietur medium eorum.<verse eID="Deut.23.11" />
+        <verse sID="Deut.23.15" osisID="Deut.23.15" />Non trades puerum domino suo, qui appositus est tibi a domino suo,<verse eID="Deut.23.15" />
+        <verse sID="Deut.23.16" osisID="Deut.23.16" />... in vobis habitabit in omni loco, ubi placuerit ei ...<verse eID="Deut.23.16" />
+        <verse sID="Deut.23.17" osisID="Deut.23.17" />Non erit meretrix a filiabus Israel, et non erit fornicans a filiis Israel. Non erit vectigal pendens ex filiis Israel ...<verse eID="Deut.23.17" />
+        <verse sID="Deut.23.18" osisID="Deut.23.18" />Non offeres mercedem meretricis, neque commutationem canis, in domum Domini Dei tui, ad omne votum, quoniam abominatio Domino Deo tuo est et utrumque.<verse eID="Deut.23.18" />
+        <verse sID="Deut.23.19" osisID="Deut.23.19" />Non exiges a fratre tuo usuram pecuniae, et usuram escarum, et usuram omnium rerum quascunque foeneraveris fratri tuo.<verse eID="Deut.23.19" />
+        <verse sID="Deut.23.20" osisID="Deut.23.20" />Si alienigenae credideris, usuram exiges ab eo, a fratre autem tuo non exiges ...<verse eID="Deut.23.20" />
+        <verse sID="Deut.23.21" osisID="Deut.23.21" />Si autem voveris votum Domino Deo tuo, non tardabis reddere illud, quia exquirens exquiret Dominus Deus a te, et erit in te peccatum.<verse eID="Deut.23.21" />
+        <verse sID="Deut.23.22" osisID="Deut.23.22" />Si autem nolueris vovere, non erit in te peccatum.<verse eID="Deut.23.22" />
+        <verse sID="Deut.23.23" osisID="Deut.23.23" />Quae exeunt per labia tua, custodies, et facies quemadmodum voveris Deo tuo votum, quod locutus es ore tuo.<verse eID="Deut.23.23" />
+        <verse sID="Deut.23.24" osisID="Deut.23.24" />Si intraveris in vineam proximi tui ...<verse eID="Deut.23.24" />
+        <verse sID="Deut.23.25" osisID="Deut.23.25" />Si transieris per messem amici tui, colligens spicas, manu confricabis ad manducandum, falcem autem non mittas, (vel) falce non metas.<verse eID="Deut.23.25" />
+      </p>
+      <chapter eID="Deut.23" />
+      <chapter sID="Deut.24" osisID="Deut.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Deut.24.1" osisID="Deut.24.1" />Si sumpserit quis uxorem, et habitaverit cum ea, et evenerit non invenire eam apud eum gratiam, eo quod inventum sit in illa impudicum negotium, scribet libellum repudii, et dabit in manu eius, et dimittet illam de domo sua.<verse eID="Deut.24.1" />
+        <verse sID="Deut.24.2" osisID="Deut.24.2" />Et abiens fuerit viro alteri ...<verse eID="Deut.24.2" />
+        <verse sID="Deut.24.3" osisID="Deut.24.3" />Et oderit eam vir novissimus ...<verse eID="Deut.24.3" />
+        <verse sID="Deut.24.5" osisID="Deut.24.5" />Si quis acceperit uxorem in recenti, non exiet ad bellum ...<verse eID="Deut.24.5" />
+        <verse sID="Deut.24.6" osisID="Deut.24.6" />Non pignerabis molam, neque superiorem lapidem molae, quia animam iste pignerat.<verse eID="Deut.24.6" />
+        <verse sID="Deut.24.7" osisID="Deut.24.7" />Si autem deprehendatur homo furans animam ex fratribus suis filiis Israel, et opprimens eum vendiderit, morietur fur ille, et auferetis malignum ex vobis ipsis.<verse eID="Deut.24.7" />
+        <verse sID="Deut.24.8" osisID="Deut.24.8" />... secundum legem omnem quam iuraverint vobis sacerdotes Levitae ...<verse eID="Deut.24.8" />
+        <verse sID="Deut.24.9" osisID="Deut.24.9" />In mente habe quae fecerit Dominus Mariae ...<verse eID="Deut.24.9" />
+        <verse sID="Deut.24.10" osisID="Deut.24.10" />Si debitum fuerit in proximo tuo, debitum quodcunque, non intrabis in domum eius pignerare pignus.<verse eID="Deut.24.10" />
+        <verse sID="Deut.24.11" osisID="Deut.24.11" />Foris stabis, et homo apud quem debitum tuum est, proferet tibi pignus foras.<verse eID="Deut.24.11" />
+        <verse sID="Deut.24.12" osisID="Deut.24.12" />Si autem homo eget, non dormies in pignore eius,<verse eID="Deut.24.12" />
+        <verse sID="Deut.24.13" osisID="Deut.24.13" />redditione reddes ei vestimentum suum circa occasum solis, et dormiet in vestimento suo, et benedicet te, et tibi erit misericordia coram Domino Deo tuo.<verse eID="Deut.24.13" />
+        <verse sID="Deut.24.14" osisID="Deut.24.14" />Non fraudabis mercedem pauperis, et egentis ex fratribus tuis, aut ex proselytis, qui sunt in civitatibus tuis.<verse eID="Deut.24.14" />
+        <verse sID="Deut.24.15" osisID="Deut.24.15" />Quotidianam reddes mercedem illius. Non occidat sol super eam, quia pauper est, et in ea habet spem, et non proclamabit contra te ad Dominum, et erit in te peccatum.<verse eID="Deut.24.15" />
+        <verse sID="Deut.24.16" osisID="Deut.24.16" />Non morientur patres pro filiis, et filii non morientur pro patribus, unusquisque in peccato suo morietur.<verse eID="Deut.24.16" />
+        <verse sID="Deut.24.17" osisID="Deut.24.17" />Non declinabis iudicium proselyti, et orphani, et viduae, non accipies pignus vestimentum viduae.<verse eID="Deut.24.17" />
+        <verse sID="Deut.24.18" osisID="Deut.24.18" />... quia famulus eras in terra Aegypti, et liberavit te Dominus Deus tuus inde. Propter hoc ego tibi praecipio facere verbum hoc.<verse eID="Deut.24.18" />
+        <verse sID="Deut.24.19" osisID="Deut.24.19" />Si autem messus fueris messem in agro tuo, et oblivisceris manuam, non reverteris accipere illam, proselyto, et orphano, et viduae erit, ut benedicat te Deus in operibus manuum tuarum.<verse eID="Deut.24.19" />
+        <verse sID="Deut.24.20" osisID="Deut.24.20" />Si leges olivam ...<verse eID="Deut.24.20" />
+        <verse sID="Deut.24.21" osisID="Deut.24.21" />Si vindemiabis vineam ...<verse eID="Deut.24.21" />
+        <verse sID="Deut.24.22" osisID="Deut.24.22" />Et memor eris quia famulus eras in terra Aegypti, ego ideo praecipio tibi verbum hoc.<verse eID="Deut.24.22" />
+      </p>
+      <chapter eID="Deut.24" />
+      <chapter sID="Deut.25" osisID="Deut.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Deut.25.1" osisID="Deut.25.1" />Si autem fuerit altercatio inter homines, et accesserint ad iudicium, et iudicaverint, et iustificaverint iustum, et reprehenderint impium,<verse eID="Deut.25.1" />
+        <verse sID="Deut.25.2" osisID="Deut.25.2" />et erit, si dignus fuerit plagis, qui impie agit, constitues eum in conspectu iudicum, et flagellabunt eum ante se secundum impietatem eius.<verse eID="Deut.25.2" />
+        <verse sID="Deut.25.3" osisID="Deut.25.3" />Numero quadraginta flagellabunt eum. Non apponent. Si autem apposuerint flagellare eum super has plagas, plures, deturpabitur frater tuus coram te.<verse eID="Deut.25.3" />
+        <verse sID="Deut.25.4" osisID="Deut.25.4" />Non infrenabis bovem triturantem.<verse eID="Deut.25.4" />
+        <verse sID="Deut.25.5" osisID="Deut.25.5" />Si autem habitaverint fratres in unum, et mortuus fuerit unus ex eis, semen autem non fuerit ei, non erit uxor defuncti foris non appropianti. Frater viri eius intrabit ad eam, et accipiet eam sibi uxorem, et cohabitabit ei,<verse eID="Deut.25.5" />
+        <verse sID="Deut.25.6" osisID="Deut.25.6" />et erit, infans quicunque natus fuerit, constituetur ex defuncti nomine, et non delebitur nomen eius ex Israel.<verse eID="Deut.25.6" />
+        <verse sID="Deut.25.7" osisID="Deut.25.7" />Si autem noluerit homo accipere uxorem fratris sui, et ascendet mulier in porta ad senatum, et dicet, Non vult frater viri mei suscitare nomen fratris sui in Israel. Noluit frater viri mei.<verse eID="Deut.25.7" />
+        <verse sID="Deut.25.11" osisID="Deut.25.11" />Si rixaverint duo homines in se ...<verse eID="Deut.25.11" />
+        <verse sID="Deut.25.13" osisID="Deut.25.13" />Non erit in sacco tuo pondus et pondus, maius aut minus.<verse eID="Deut.25.13" />
+        <verse sID="Deut.25.14" osisID="Deut.25.14" />Non erit in domo tua mensura et mensura, maior et minor.<verse eID="Deut.25.14" />
+        <verse sID="Deut.25.15" osisID="Deut.25.15" />Pondus verum et iustum erit tibi, et mensura vera et iusta erit tibi, ut multorum dierum sis, et bene tibi sit super terram, quam Dominus Deus tuus dabit tibi in sortem,<verse eID="Deut.25.15" />
+        <verse sID="Deut.25.16" osisID="Deut.25.16" />quoniam abominabilis est Domino Deo tuo omnis qui facit haec, omnis qui facit iniqua.<verse eID="Deut.25.16" />
+        <verse sID="Deut.25.17" osisID="Deut.25.17" />In mente habe quanta tibi fecerit Amalec ...<verse eID="Deut.25.17" />
+      </p>
+      <chapter eID="Deut.25" />
+      <chapter sID="Deut.26" osisID="Deut.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Deut.26.1" osisID="Deut.26.1" />... cum introieritis in terram, quam Dominus Deus dabit vobis ...<verse eID="Deut.26.1" />
+        <verse sID="Deut.26.14" osisID="Deut.26.14" />... non dedi ex eis mortuo ...<verse eID="Deut.26.14" />
+      </p>
+      <chapter eID="Deut.26" />
+      <chapter sID="Deut.27" osisID="Deut.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Deut.27.2" osisID="Deut.27.2" />Et erit quacunque die transgressi fueritis Iordanis terram, quam Dominus Deus tuus dabit, statues lapides grandes, et linies eos pulvere,<verse eID="Deut.27.2" />
+        <verse sID="Deut.27.3" osisID="Deut.27.3" />et scribes super lapidem omnes sermones legis huius ...<verse eID="Deut.27.3" />
+        <verse sID="Deut.27.8" osisID="Deut.27.8" />Et scribes super lapidem omnem legem hanc manifeste nimis.<verse eID="Deut.27.8" />
+        <verse sID="Deut.27.12" osisID="Deut.27.12" />Hi stabunt benedicere plebem ...<verse eID="Deut.27.12" />
+        <verse sID="Deut.27.15" osisID="Deut.27.15" />Maledictus homo qui fecerit sculptile aut fusile, aspernamentum Domino, opus manuum artificis, et collocaverit illud in abscondito ...<verse eID="Deut.27.15" />
+        <verse sID="Deut.27.16" osisID="Deut.27.16" />Maledictus qui non honorat patrem ...<verse eID="Deut.27.16" />
+        <verse sID="Deut.27.17" osisID="Deut.27.17" />Maledictus qui transfert terminos proximi ...<verse eID="Deut.27.17" />
+        <verse sID="Deut.27.19" osisID="Deut.27.19" />Maledictus quicunque declinaverit iudicium advenae, orphani, et viduae ...<verse eID="Deut.27.19" />
+        <verse sID="Deut.27.21" osisID="Deut.27.21" />Maledictus omnis qui dormierit cum omni pecore ...<verse eID="Deut.27.21" />
+        <verse sID="Deut.27.23" osisID="Deut.27.23" />Maledictus qui cum uxoris suae sorore dormierit ...<verse eID="Deut.27.23" />
+        <verse sID="Deut.27.26" osisID="Deut.27.26" />Maledictus omnis homo qui non permanserit in omnibus sermonibus legis huius, ut faciat illos. Et dicet omnis populus, Fiat.<verse eID="Deut.27.26" />
+      </p>
+      <chapter eID="Deut.27" />
+      <chapter sID="Deut.28" osisID="Deut.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="Deut.28.2" osisID="Deut.28.2" />... si aure audieris vocem Domini Dei tui.<verse eID="Deut.28.2" />
+        <verse sID="Deut.28.3" osisID="Deut.28.3" />Benedictus es in agro tuo, benedictus es in prato tuo.<verse eID="Deut.28.3" />
+        <verse sID="Deut.28.4" osisID="Deut.28.4" />Benedictus fructus ventris tui, et fructus terrae tuae, et generationes iumentorum tuorum, et armentum boum tuorum, et grex ovium tuarum.<verse eID="Deut.28.4" />
+        <verse sID="Deut.28.5" osisID="Deut.28.5" />Benedictae apothecae tuae, et reliquiae tuae.<verse eID="Deut.28.5" />
+        <verse sID="Deut.28.6" osisID="Deut.28.6" />Benedictus es in introitu tuo et egressu.<verse eID="Deut.28.6" />
+        <verse sID="Deut.28.11" osisID="Deut.28.11" />... iuravit Dominus patribus tuis dare tibi.<verse eID="Deut.28.11" />
+        <verse sID="Deut.28.12" osisID="Deut.28.12" />Aperiet tibi Deus thesaurum coelestem optimum, ut tribuat pluviam terrae tuae in tempore, benedicet opus manuum tuarum omne. Foenerabis gentes multas, tu autem non foeneraberis, et praeliabis gentes multas, te autem non expugnabunt.<verse eID="Deut.28.12" />
+        <verse sID="Deut.28.13" osisID="Deut.28.13" />Constituet te Dominus Deus tuus in caput, et non in cauda, et eris supra, et non subtus, si audieris mandatum Domini Dei tui, quodcunque ego mandabo tibi hodie custodire et facere.<verse eID="Deut.28.13" />
+        <verse sID="Deut.28.14" osisID="Deut.28.14" />Non praeteribis ab omnibus verbis, quae ego mando tibi hodie, dextra, aut sinistra, ire post deos alienos, servire illis.<verse eID="Deut.28.14" />
+        <verse sID="Deut.28.15" osisID="Deut.28.15" />Et erit, si non audieris vocem Domini Dei tui, ut custodias, et facias omnia mandata eius, quaecunque ego mandabo tibi hodie, et venient super te omnes maledictiones hae, et invenient te.<verse eID="Deut.28.15" />
+        <verse sID="Deut.28.16" osisID="Deut.28.16" />Maledictus tu in civitate, maledictus tu in agro.<verse eID="Deut.28.16" />
+        <verse sID="Deut.28.17" osisID="Deut.28.17" />Maledictae apothecae tuae, et quae sunt reliqua tua.<verse eID="Deut.28.17" />
+        <verse sID="Deut.28.18" osisID="Deut.28.18" />Et maledicti filii tui ventris, et nascentia terrae tuae, armenta boum tuorum, et greges ovium tuarum.<verse eID="Deut.28.18" />
+        <verse sID="Deut.28.19" osisID="Deut.28.19" />Maledictus tu in gressu tuo.<verse eID="Deut.28.19" />
+        <verse sID="Deut.28.20" osisID="Deut.28.20" />Mittet tibi Dominus taedium et thlipsen, et anxietatem in omnia quocunque immiseris manum tuam, quaecunque facies, quoadusque disperdat te in brevi propter nequitiam studiorum tuorum ...<verse eID="Deut.28.20" />
+        <verse sID="Deut.28.23" osisID="Deut.28.23" />Erit coelum super caput tuum aeneum, et terra supter te ferrea.<verse eID="Deut.28.23" />
+        <verse sID="Deut.28.24" osisID="Deut.28.24" />Dabit Dominus pluviam terrae tuae, cinis de coelo descendet super te, donec eradicet te, et deleat.<verse eID="Deut.28.24" />
+        <verse sID="Deut.28.25" osisID="Deut.28.25" />Dabit te Dominus ut corruas in conspectu inimicorum tuorum, via una egredieris ad eos, et per septem vias fugies a facie eorum, et eris in dispersione in cunctis regnis terrae.<verse eID="Deut.28.25" />
+        <verse sID="Deut.28.43" osisID="Deut.28.43" />Advena, qui est in te, ascendet super te, tu autem descendes in imum.<verse eID="Deut.28.43" />
+        <verse sID="Deut.28.44" osisID="Deut.28.44" />Hic tibi foenerabit, tu autem non foenerabis ei. Hic tibi erit caput, tu autem eris cauda.<verse eID="Deut.28.44" />
+        <verse sID="Deut.28.48" osisID="Deut.28.48" />Et servies inimicis tuis, quos immittet Dominus Deus tuus super te ...<verse eID="Deut.28.48" />
+        <verse sID="Deut.28.49" osisID="Deut.28.49" />... gentem, cuius non audies vocem eius.<verse eID="Deut.28.49" />
+        <verse sID="Deut.28.54" osisID="Deut.28.54" />Mollis in te, et tenera valde, fascinabit oculo suo fratrem suum, et uxorem, quae est in sinu eius, et qui reliqui sunt filii, quicunque relicti fuerint illi,<verse eID="Deut.28.54" />
+        <verse sID="Deut.28.55" osisID="Deut.28.55" />ita ut det uni ex eis a carnibus filiorum suorum, de quibuscunque edet, eo quod non derelictum sit ei quidquam in angustia et tribulatione, qua tribulabunt te inimici tui in omnibus civitatibus tuis.<verse eID="Deut.28.55" />
+        <verse sID="Deut.28.56" osisID="Deut.28.56" />Quae mollis in vobis et tenera nimis fuerit, cuius experimentum non accepit pes eius ambulare super terram, prae teneritudine et mollitie, et zelabit oculo suo virum suum, et filium suum, et filiam suam,<verse eID="Deut.28.56" />
+        <verse sID="Deut.28.57" osisID="Deut.28.57" />et secundas suas, et quod exierit per femora eius ... comedet ...<verse eID="Deut.28.57" />
+        <verse sID="Deut.28.63" osisID="Deut.28.63" />Et erit, sicut laetatus est Dominus in vobis, benefacet vobis ... eiiciemini de terra, in quam introibitis ...<verse eID="Deut.28.63" />
+        <verse sID="Deut.28.65" osisID="Deut.28.65" />Et in nationibus illis non eritis in requiem, et non erit stabilitas vestigio pedis tui. Et dabit tibi Deus cor taedians, et tabescentem animam, et oculos deficientes, un non videant,<verse eID="Deut.28.65" />
+        <verse sID="Deut.28.66" osisID="Deut.28.66" />et erit vita tua pendens in ligno ante oculos tuos ... et non credes vitae tuae.<verse eID="Deut.28.66" />
+      </p>
+      <chapter eID="Deut.28" />
+      <chapter sID="Deut.29" osisID="Deut.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="Deut.29.1" osisID="Deut.29.1" />Haec verba testamenti, quod mandavit Dominus Moysi statuere filiis Israel in terra Moab, praeter testamentum, quod testatus est eis in Choreb.<verse eID="Deut.29.1" />
+        <verse sID="Deut.29.2" osisID="Deut.29.2" />Vocavit Moyses omnes filios Israel, et dixit ad eos, Et vos vidistis omnia, quaecunque fecit Dominus Deus vester in terra Aegypti coram vobis Pharaoni, et omnibus servis eius, et omni terrae illius,<verse eID="Deut.29.2" />
+        <verse sID="Deut.29.3" osisID="Deut.29.3" />tentationes magnas, quas viderunt oculi tui, signa, et prodigia illa magna, et manum validam,<verse eID="Deut.29.3" />
+        <verse sID="Deut.29.4" osisID="Deut.29.4" />et non dedit Dominus Deus vobis cor scire, et oculos videre, et aures audire, usque in diem istam.<verse eID="Deut.29.4" />
+        <verse sID="Deut.29.5" osisID="Deut.29.5" />Et adduxit vos quadraginta annis in deserto. Non inveteraverunt vestimenta vestra, et calceamenta vestra non sunt attrita a pedibus vestris.<verse eID="Deut.29.5" />
+        <verse sID="Deut.29.6" osisID="Deut.29.6" />Panem non manducastis, vinum et siceram non bibistis, ut sciretis quia iste Dominus Deus vester.<verse eID="Deut.29.6" />
+        <verse sID="Deut.29.18" osisID="Deut.29.18" />Nunquid est aliquis inter vos, vir aut mulier, aut familia vel tribus, cuius mens declinavit a Domino Deo vestro, ire servire diis gentium illarum? Num qua est in vobis radix sursum germinans in felle et amaritudine?<verse eID="Deut.29.18" />
+        <verse sID="Deut.29.19" osisID="Deut.29.19" />Et erit cum audierit verba maledictionis huius, et opinabitur in corde suo, dicens, Sancta mihi fiant, quoniam in errore cordis mei incedo, ut non simul perdat peccator eum, qui sino peccato est,<verse eID="Deut.29.19" />
+        <verse sID="Deut.29.20" osisID="Deut.29.20" />nolet Deus propitiare ei, sed tunc incendetur ira Domini, et zelus eius in homine illo, et adhaerebunt in eo omnia maledicta testamenti huius, quae scripta sunt in libro legis huius ...<verse eID="Deut.29.20" />
+        <verse sID="Deut.29.29" osisID="Deut.29.29" />Quae occulta sunt, Deo, quae autem palam sunt, vobis et filiis vestris erunt ...<verse eID="Deut.29.29" />
+      </p>
+      <chapter eID="Deut.29" />
+      <chapter sID="Deut.30" osisID="Deut.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="Deut.30.4" osisID="Deut.30.4" />Si fuerit dispersio tua a summo coeli usque ad summum coeli, inde cogregabit te Dominus Deus tuus ...<verse eID="Deut.30.4" />
+        <verse sID="Deut.30.6" osisID="Deut.30.6" />Et circumpurgabit Dominus cor tuum, et cor seminis tui, diligere Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, ut vivas tu.<verse eID="Deut.30.6" />
+        <verse sID="Deut.30.11" osisID="Deut.30.11" />Quia mandatum hoc, quod ego mando tibi hodie, non est supra modum, neque longe abs te est,<verse eID="Deut.30.11" />
+        <verse sID="Deut.30.12" osisID="Deut.30.12" />non in coelo est, dicens, Quis ascendet nobis in coelum, et accipiet nobis illud, et audientes illud faciemus?<verse eID="Deut.30.12" />
+        <verse sID="Deut.30.13" osisID="Deut.30.13" />Neque trans mare est, dicens, Quis transfretabit nobis trans mare, et accipiet nobis illud, et audientes illud faciemus?<verse eID="Deut.30.13" />
+        <verse sID="Deut.30.14" osisID="Deut.30.14" />Prope est verbum hoc valde, in ore tuo, et in corde tuo, et in manibus tuis, facere illud.<verse eID="Deut.30.14" />
+        <verse sID="Deut.30.15" osisID="Deut.30.15" />Ecce dedi ante faciem tuam vitam et mortem, bonum et malum.<verse eID="Deut.30.15" />
+        <verse sID="Deut.30.19" osisID="Deut.30.19" />... ecce posui ante vos benedictionem et maledictionem. Elige vitam, ut vivas tu, et semen tuum,<verse eID="Deut.30.19" />
+        <verse sID="Deut.30.20" osisID="Deut.30.20" />diligere Dominum Deum tuum, exaudire vocem eius, et apprehendere eum, quoniam haec est vita tua, et longitudo dierum tuorum ...<verse eID="Deut.30.20" />
+      </p>
+      <chapter eID="Deut.30" />
+      <chapter sID="Deut.31" osisID="Deut.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="Deut.31.1" osisID="Deut.31.1" />Et consummavit Moyses omnia verba ista ...<verse eID="Deut.31.1" />
+        <verse sID="Deut.31.7" osisID="Deut.31.7" />Et vocavit Moyses Hiesum, et dixit ei, Viriliter age, et convalesce ...<verse eID="Deut.31.7" />
+        <verse sID="Deut.31.8" osisID="Deut.31.8" />Et Dominus qui comitatur tibi tecum ...<verse eID="Deut.31.8" />
+        <verse sID="Deut.31.9" osisID="Deut.31.9" />Et scripsit Moyses verba legis huius in libro, et dedit eum sacerdotibus et Levitis, qui tollunt arcam testamenti Domini, et presbyteris Israel.<verse eID="Deut.31.9" />
+        <verse sID="Deut.31.10" osisID="Deut.31.10" />Et mandavit eis Moyses in illa die, dicens, Post septem annos, in tempore anni remissionis, in die festo scenopegiae,<verse eID="Deut.31.10" />
+        <verse sID="Deut.31.11" osisID="Deut.31.11" />in coeundo omnem Israel, apparere in conspectu Domini Dei tui, in loco quem elegerit, legetis hanc legem in conspectu Israel, in auribus eorum,<verse eID="Deut.31.11" />
+        <verse sID="Deut.31.12" osisID="Deut.31.12" />convocatis in ecclesiam viris, et mulieribus, et natis, et proselytis, qui suerint in civitatibus vestris, ut audiant, et discant timere Dominum Deum vestrum, et audiant facere omnia verba legis huius,<verse eID="Deut.31.12" />
+        <verse sID="Deut.31.13" osisID="Deut.31.13" />et filii eorum qui nesciunt, audientes discent Dominum Deum vestrum omnibus diebus, quibus ipsi vivunt super terram ...<verse eID="Deut.31.13" />
+        <verse sID="Deut.31.16" osisID="Deut.31.16" />Et dixit Dominus ad Moysen, Tu dormies cum patribus tuis, et fornicabitur plebs haec post deos alienos ...<verse eID="Deut.31.16" />
+        <verse sID="Deut.31.22" osisID="Deut.31.22" />... scripsit Moyses canticum hoc ...<verse eID="Deut.31.22" />
+        <verse sID="Deut.31.29" osisID="Deut.31.29" />Scio enim quia in fine transitus mei iniquitatem agetis, et declinabitis a via, quam mandavi vobis, quia occurrent vobis mala in sine dierum ...<verse eID="Deut.31.29" />
+      </p>
+      <chapter eID="Deut.31" />
+      <chapter sID="Deut.32" osisID="Deut.32" />
+      <title>Chatper 32</title>
+      <p>
+        <verse sID="Deut.32.1" osisID="Deut.32.1" />Attende coelum, et loquar, et audiat terra verba ex ore meo.<verse eID="Deut.32.1" />
+        <verse sID="Deut.32.2" osisID="Deut.32.2" />Exspectetur sicut pluvia adpronunciatio mea, et descendant sicut ros verba mea, sicut imber super gramen, et sicut nix super foenum.<verse eID="Deut.32.2" />
+        <verse sID="Deut.32.3" osisID="Deut.32.3" />Quia nomen Domini invocavi, date magnificentiam Deo nostro.<verse eID="Deut.32.3" />
+        <verse sID="Deut.32.4" osisID="Deut.32.4" />Deus, vera opera eius, et omnes viae eius iudicia, Deus fidelis, et non est in eo iniquitas, iustus et rectus Dominus.<verse eID="Deut.32.4" />
+        <verse sID="Deut.32.5" osisID="Deut.32.5" />Peccaverunt non ei filii maculati, generatio prava et perversa.<verse eID="Deut.32.5" />
+        <verse sID="Deut.32.6" osisID="Deut.32.6" />Haec Domino retribuistis sic populus stultus et non sapiens? Nonne hic ipse tuus, pater possedit te, et fecit te, et creavit te?<verse eID="Deut.32.6" />
+        <verse sID="Deut.32.7" osisID="Deut.32.7" />Memoramini dies saeculi, intelligite annos saeculi saeculorum, interroga patrem tuum, et annuntiabit tibi, seniores tuos, et dicent tibi.<verse eID="Deut.32.7" />
+        <verse sID="Deut.32.8" osisID="Deut.32.8" />Cum divideret Excelsus gentes, quomodo dispersit filios Adam, statuit fines gentium secundam numerum angelorum Dei.<verse eID="Deut.32.8" />
+        <verse sID="Deut.32.9" osisID="Deut.32.9" />Et facta est pars Domini, populus eius Iacob, funiculus haereditatis eius Israel.<verse eID="Deut.32.9" />
+        <verse sID="Deut.32.10" osisID="Deut.32.10" />Sufficientem eum sibi fecit in terra deserta, in siti aestus, ubi non erat aqua, circuivit eum, et erudivit eum, custodivit illum sicut pupillam oculi.<verse eID="Deut.32.10" />
+        <verse sID="Deut.32.11" osisID="Deut.32.11" />Sicut aquila tegit nidum suum, et super pullos suos confidit, extendit alas suas, et suscepit illos super scapulas suas.<verse eID="Deut.32.11" />
+        <verse sID="Deut.32.12" osisID="Deut.32.12" />Dominus solus ducebat eos, et non erat cum eis deus alienus.<verse eID="Deut.32.12" />
+        <verse sID="Deut.32.13" osisID="Deut.32.13" />Superduxit eos in virtute terrae, cibavit eos nascentia agrorum, suxerunt mel de petra, et oleum de firma petra.<verse eID="Deut.32.13" />
+        <verse sID="Deut.32.14" osisID="Deut.32.14" />Butryrum boum, et lac ovium, cum adipe agnorum et arietem, filiorum taurorum et hircorum, cum adipe renium, triticum, ex sanguine uvae bibit vinum.<verse eID="Deut.32.14" />
+        <verse sID="Deut.32.15" osisID="Deut.32.15" />Et manducavit Iacob, et impletus est, et recalcitravit dilectus, impinguatus est, et incrassavit, et dilatus est, et dereliquit Deum qui fecit eum, et recessit a Deo salutari suo.<verse eID="Deut.32.15" />
+        <verse sID="Deut.32.16" osisID="Deut.32.16" />Exacerbaverunt me in alienis, in abominationibus suis et exasperaverunt me.<verse eID="Deut.32.16" />
+        <verse sID="Deut.32.17" osisID="Deut.32.17" />Sacrificaverunt daemoniis et non Deo, diis quos non noverant, novi recentes que venerunt, quos nesciebant patres eorum.<verse eID="Deut.32.17" />
+        <verse sID="Deut.32.18" osisID="Deut.32.18" />Deum qui te genuir dereliquisti, et oblitus es Deum alentem te.<verse eID="Deut.32.18" />
+        <verse sID="Deut.32.19" osisID="Deut.32.19" />Et vidit Deus, et zelavit, et exacerbatus est per iram filiorum suorum et filiarum suarum.<verse eID="Deut.32.19" />
+        <verse sID="Deut.32.20" osisID="Deut.32.20" />Et dixit, Avertam faciem meam ab eis, et ostendam quid erit eis in novissimo, quia generatio perversa est, filii in quibus non est fides in ipsis.<verse eID="Deut.32.20" />
+        <verse sID="Deut.32.21" osisID="Deut.32.21" />Ipsi praezelaverunt me in non Deo, in ira concitaverunt me in simulacris suis, et ego zelabo eos in non gente, in gente insensata irritabo eos.<verse eID="Deut.32.21" />
+        <verse sID="Deut.32.22" osisID="Deut.32.22" />Quia ignis accensus est ab ira mea, et ardebit usque ad inferos deorsum, comedat terram et nascentia eius, uret fundamenta montium.<verse eID="Deut.32.22" />
+        <verse sID="Deut.32.23" osisID="Deut.32.23" />Congregabo in eis mala, et sagittas consummabo in eos.<verse eID="Deut.32.23" />
+        <verse sID="Deut.32.24" osisID="Deut.32.24" />Tabescent fame, esca avium, extensione nervorum insanabili, dentes bestiarum mittam in eos, cum furore trahentium super terram.<verse eID="Deut.32.24" />
+        <verse sID="Deut.32.25" osisID="Deut.32.25" />Aforis sine filiis faciet eos gladius, et in promptuariis timor, iuvenis cum virgine, lactans cum stabilito sene.<verse eID="Deut.32.25" />
+        <verse sID="Deut.32.26" osisID="Deut.32.26" />Dixi, Dispergam illos, privabo autem ex hominibus memoriam eorum.<verse eID="Deut.32.26" />
+        <verse sID="Deut.32.27" osisID="Deut.32.27" />Nisi propter iram inimicorum, ne multo tempore supersint, ut non consentiant adversarii, nec dicant, Manus nostra excelsa, et non Dominus, fecit omnia haec.<verse eID="Deut.32.27" />
+        <verse sID="Deut.32.28" osisID="Deut.32.28" />Quia gens perdito consilio est, et non est in eis disciplina.<verse eID="Deut.32.28" />
+        <verse sID="Deut.32.29" osisID="Deut.32.29" />Non sapuerunt intelligere, haec percipient in futuro tempore.<verse eID="Deut.32.29" />
+        <verse sID="Deut.32.30" osisID="Deut.32.30" />Quomodo persequitur unus mille, et duo movebunt dena millia. Si non Deus pepulisset eos, et Dominus tradidisset eos?<verse eID="Deut.32.30" />
+        <verse sID="Deut.32.31" osisID="Deut.32.31" />Quoniam non sicut dii eorum Deus noster est, inimici autem nostri insensati.<verse eID="Deut.32.31" />
+        <verse sID="Deut.32.32" osisID="Deut.32.32" />Ex vinea enim Sodomorum, vitis eorum, et propago eorum ex Gomorra, uva eorum uva fellis, botrus amaritudinis ipsis.<verse eID="Deut.32.32" />
+        <verse sID="Deut.32.33" osisID="Deut.32.33" />Furor draconum vinum eorum, et furor aspidum insanabilis.<verse eID="Deut.32.33" />
+        <verse sID="Deut.32.34" osisID="Deut.32.34" />Nonne haec apud me congregata sunt, et signata sunt in thesauris meis?<verse eID="Deut.32.34" />
+        <verse sID="Deut.32.35" osisID="Deut.32.35" />In die ultionis reddam illis in tempore, cum lapsus fuerit pes eorum, quia prope est dies perditionis eorum, et praesto est parata vobis.<verse eID="Deut.32.35" />
+        <verse sID="Deut.32.36" osisID="Deut.32.36" />Quia iudicabit Dominus populum suum, et in servis suis consolabitur. Vidit enim desolatos eos, et defectos in abductione, derelictos.<verse eID="Deut.32.36" />
+        <verse sID="Deut.32.37" osisID="Deut.32.37" />Et dixit, Ubi sunt dii eorum, in quibus confidebant in ipsis?<verse eID="Deut.32.37" />
+        <verse sID="Deut.32.38" osisID="Deut.32.38" />Quorum adipem sacrificiorum illorum edebatis, et bibebatis vinum libationis eorum, surgant, et adiuvent vos, et fiant vobis protectores.<verse eID="Deut.32.38" />
+        <verse sID="Deut.32.39" osisID="Deut.32.39" />Videte, videte quoniam ego sum, et non est Deus praeter me. Ego occidam, et vivere faciam, percutiam, et ego sanabo, et non est qui eripiat de manibus meis.<verse eID="Deut.32.39" />
+        <verse sID="Deut.32.40" osisID="Deut.32.40" />Quia tollam in coelum manum meam, et iruabo per dexteram meam, et dicam, Vivo ego in aeternum.<verse eID="Deut.32.40" />
+        <verse sID="Deut.32.41" osisID="Deut.32.41" />Quia exacuam sicut fulgur gladium meum, et continebit iudicium manus mea, et retribuam iudicium inimicis, et his qui oderunt reddam.<verse eID="Deut.32.41" />
+        <verse sID="Deut.32.42" osisID="Deut.32.42" />Inebriabo sagittas meas sanguine, et gladius meus manducabit carnes, a sanguine vulneratorum, et captivitatis, a capite principum inimicorum.<verse eID="Deut.32.42" />
+        <verse sID="Deut.32.43" osisID="Deut.32.43" />Laetamini coeli cum eo, et adoremini eum omnes angeli Dei, laetamini gentes cum populo eius, et confirment eum omnes angeli, Dei filii, quoniam sanguis filiorum eius defendetur, et defendet, et retribuet iudicium inimicis, et his qui oderunt reddet, et emundabit Dominus terram populi sui.<verse eID="Deut.32.43" />
+        <verse sID="Deut.32.48" osisID="Deut.32.48" />... dixit Dominus ad Moysen ...<verse eID="Deut.32.48" />
+        <verse sID="Deut.32.49" osisID="Deut.32.49" />Ascende in montem Abarim ... et morere ibi.<verse eID="Deut.32.49" />
+      </p>
+      <chapter eID="Deut.32" />
+      <chapter sID="Deut.33" osisID="Deut.33" />
+      <title>Chatper 33</title>
+      <p>
+        <verse sID="Deut.33.1" osisID="Deut.33.1" />Et haec benedictio, quam benedixit Moyses, homo Dei, filios Israel, priusquam defungeretur.<verse eID="Deut.33.1" />
+        <verse sID="Deut.33.2" osisID="Deut.33.2" />Et dixit, Dominus ex Sina venit, et alluxit ex Seir nobis. Festinavit ex monte Pharan cum multis millibus Cades. Ad dexteram eius angeli cum eo.<verse eID="Deut.33.2" />
+        <verse sID="Deut.33.3" osisID="Deut.33.3" />Et pepercit populo suo, et omnes sanctificati sub manus tuas, et hi sub te sunt.<verse eID="Deut.33.3" />
+        <verse sID="Deut.33.4" osisID="Deut.33.4" />Et accepit de verbis ipsius legem, quam mandavit nobis Moyses, haereditatem congregationibus Iacob.<verse eID="Deut.33.4" />
+        <verse sID="Deut.33.5" osisID="Deut.33.5" />Et erit in dilecto princeps, congregatis principibus populorum, simul tribubus Israel.<verse eID="Deut.33.5" />
+        <verse sID="Deut.33.6" osisID="Deut.33.6" />Vivat Ruben, et non moriatur, et sit multus in numero.<verse eID="Deut.33.6" />
+        <verse sID="Deut.33.8" osisID="Deut.33.8" />... Date Levi viros eius, date Levi manifestos eius, date Levi sortem suffragii sui, et veritatem eius viro sancto, quem tentaverunt in tentationibus, maledixerunt super aquam contradictionis.<verse eID="Deut.33.8" />
+        <verse sID="Deut.33.9" osisID="Deut.33.9" />Qui dicit patri suo, et matri, Non novi te, et fratres suos non cognovit, et filios suos abdicavit. Hic custodit verba tua, et testamentum tuum observavit.<verse eID="Deut.33.9" />
+        <verse sID="Deut.33.11" osisID="Deut.33.11" />Benedic Domine virtutem ipsius, opera manuum eius suscipe ...<verse eID="Deut.33.11" />
+        <verse sID="Deut.33.12" osisID="Deut.33.12" />Beniamin dixit, Dilectus a Domino habitabit fidens, et Deus obumbrabit super eum omnibus diebus, et inter humeros requiescet dilectus a Domino.<verse eID="Deut.33.12" />
+        <verse sID="Deut.33.13" osisID="Deut.33.13" />... Ioseph ... A benedictione Domini terra eius, a finibus coeli, et a rore, et ab abyssis fontium deorsum,<verse eID="Deut.33.13" />
+        <verse sID="Deut.33.14" osisID="Deut.33.14" />et secundum horam factum solis cursum, et a convenientibus mensibus,<verse eID="Deut.33.14" />
+        <verse sID="Deut.33.15" osisID="Deut.33.15" />et a vertice montium ab initio, et a vertice collium aeternorum,<verse eID="Deut.33.15" />
+        <verse sID="Deut.33.16" osisID="Deut.33.16" />et ad horam terrae plenitudinis. Et ab eo qui visus est in rubo, veniat super caput Ioseph benedictio, et super verticem ipsius, honorificus sit inter fratres.<verse eID="Deut.33.16" />
+        <verse sID="Deut.33.17" osisID="Deut.33.17" />Primogenitus tauri decus eius, cornua unicornui cornua ipsius, in ipsis gentes ventilabit simul usque ad extremum terrae. Haec decem millia Ephraem, et haec millia Manasse.<verse eID="Deut.33.17" />
+        <verse sID="Deut.33.19" osisID="Deut.33.19" />... merces circa mare inhabitantium.<verse eID="Deut.33.19" />
+        <verse sID="Deut.33.20" osisID="Deut.33.20" />... Benedictus qui ampliavit Gad. Sicut leo requievit, confringens brachia et principes.<verse eID="Deut.33.20" />
+        <verse sID="Deut.33.21" osisID="Deut.33.21" />Et vidit ab initio suo, quia ibi divisa est terra principum collectorum simul cum principibus populorum, iustitiam fecit Dominus, iudicium cum Israel.<verse eID="Deut.33.21" />
+        <verse sID="Deut.33.22" osisID="Deut.33.22" />... Dan catulus leonis, et effugiet et Basan.<verse eID="Deut.33.22" />
+        <verse sID="Deut.33.23" osisID="Deut.33.23" />... Nephtalim satietas accipientium, replebitur benedictione a Domino, mare et Africum possidebit.<verse eID="Deut.33.23" />
+        <verse sID="Deut.33.24" osisID="Deut.33.24" />... Benedictus a filiis Aser, et erit acceptus a fratribus suis, et intinget in oleo pedem suum.<verse eID="Deut.33.24" />
+        <verse sID="Deut.33.25" osisID="Deut.33.25" />Et ferrum et aeramentum est calceamentum eius. Et sicut dies tui sunt, sic erunt virtutes tuae.<verse eID="Deut.33.25" />
+        <verse sID="Deut.33.26" osisID="Deut.33.26" />Non est quisquam sicut est Deus tuus in coelo, adiutor tuus, et magnus Dominus firmamenti,<verse eID="Deut.33.26" />
+        <verse sID="Deut.33.27" osisID="Deut.33.27" />et protegens te Deus initii, et per vires brachiorum potentium, eiecit a facie tua inimicum tuum, dicens, Pereat.<verse eID="Deut.33.27" />
+        <verse sID="Deut.33.28" osisID="Deut.33.28" />Et inhabitabit Israel fidens solus super terram. Iacob in frumento et vino, et coelum tibi cum nebula roris erit.<verse eID="Deut.33.28" />
+      </p>
+      <chapter eID="Deut.33" />
+      <chapter sID="Deut.34" osisID="Deut.34" />
+      <title>Chatper 34</title>
+      <p>
+        <verse sID="Deut.34.4" osisID="Deut.34.4" />... Ostendi terram hanc oculis tuis, sed illius non ingredieris.<verse eID="Deut.34.4" />
+        <verse sID="Deut.34.5" osisID="Deut.34.5" />Et defunctus est Moyses servus Domini in terra Moab, per verbum Domini,<verse eID="Deut.34.5" />
+        <verse sID="Deut.34.6" osisID="Deut.34.6" />et sepelierunt eum in Geth prope domum Phegor, et nemo scit sepulcrum eius usque in diem istum.<verse eID="Deut.34.6" />
+        <verse sID="Deut.34.8" osisID="Deut.34.8" />Planxerunt filii Israel Moysen diebus triginta, et consummati sunt dies luctus ...<verse eID="Deut.34.8" />
+        <verse sID="Deut.34.9" osisID="Deut.34.9" />Et Iesus filius Nave impletus est spiritu intelligentiae, imposuerat enim Moyses manum super eum. Et audierunt eum filii Israel, et fecerunt secundum quod mandavit Dominus Moysi.<verse eID="Deut.34.9" />
+        <verse sID="Deut.34.10" osisID="Deut.34.10" />Non surrexit amplius propheta in Israel sicut Moyses, qui scivit Dominum facie ad faciem,<verse eID="Deut.34.10" />
+        <verse sID="Deut.34.11" osisID="Deut.34.11" />in omnibus signis et prodigiis, quae fecit in terra Aegypti ...<verse eID="Deut.34.11" />
+      </p>
+      <chapter eID="Deut.34" />
+    </div>
+  </osisText>
+</osis>

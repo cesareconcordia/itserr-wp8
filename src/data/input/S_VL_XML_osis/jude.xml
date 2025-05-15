@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="jude" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="jude">
+        <title>Jude</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">jude</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Jude</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="jude">
+      <title>Jude</title>
+      <chapter sID="jude.1" osisID="jude.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="jude.1.1" osisID="jude.1.1" />IUDAS Iesu Christi servus, frater autem Iacobi, his, qui sunt in Deo Patre dilectis, et in Iesu Christo conservatis, et vocatis.<verse eID="jude.1.1" />
+        <verse sID="jude.1.2" osisID="jude.1.2" />Misericordia vobis, et pax, et charitas multiplicetur.<verse eID="jude.1.2" />
+        <verse sID="jude.1.3" osisID="jude.1.3" />Charissimi omnem sollicitudinem faciens scribendi vobis de communi nostra salute, deprecor ut perlaboretis semel traditae societati.<verse eID="jude.1.3" />
+        <verse sID="jude.1.4" osisID="jude.1.4" />Subintraverunt enim quidam homines (olim quidem praescripti ad hoc iudicium) impii, qui Dei gratiam transferunt ad impudicitiam; et qui est Dominator noster, et Dominus Iesus Christus, eum negantes.<verse eID="jude.1.4" />
+        <verse sID="jude.1.5" osisID="jude.1.5" />Admonere itaque vos volo, dicens, sciente omnia, quoniam Deus populum suum de terra Aegypti salvum fecit, secundo autem non credentes perdidit:<verse eID="jude.1.5" />
+        <verse sID="jude.1.6" osisID="jude.1.6" />Angelos quoque, qui non servaverunt ordinem suum, sed dereliquerunt habitaculum suum. in iudicium magni* Dei, vinculis eos sanctorum Angelorum sub tenebris servavit.<verse eID="jude.1.6" />
+        <verse sID="jude.1.7" osisID="jude.1.7" />Sodoma autem, et Gomorrha, et quae circa eas erant civitates, hae simili modo cum adulterium fecissent, et carnem secutae essent, cinis propositae sunt exemplum, ignis aeterni poenam sustinentes.<verse eID="jude.1.7" />
+        <verse sID="jude.1.8" osisID="jude.1.8" />Similiter itaque et isti somniantes, carnem quidem coinquinant, dominationem autem spernunt.....<verse eID="jude.1.8" />
+        <verse sID="jude.1.9" osisID="jude.1.9" />Quando Michael Archangelus cum diabolo disputabat de Moysi corpore, non fuit ausus inferre iudicium blasphemiae: sed dixit: Imperet tibi Deus.<verse eID="jude.1.9" />
+        <verse sID="jude.1.11" osisID="jude.1.11" />Vae illis, quoniam in viam Cain abierunt et in seductionem Baal mercede effusi sunt, et in contradictionem Choreb perierunt.<verse eID="jude.1.11" />
+        <verse sID="jude.1.12" osisID="jude.1.12" />Hi sunt in epulis suis maculae, convivantes sine timore, semetipsos pascentes, nubes sine aqua, omni vento circumferendae, arbores autumnales, sine fructu, mortuae, a radicibus evulsae<verse eID="jude.1.12" />
+        <verse sID="jude.1.13" osisID="jude.1.13" />fluctus feroces maris despumantis turpitudines suas, procellae seducentes: quibus tempus tenebrarum aeternum servatum est.<verse eID="jude.1.13" />
+        <verse sID="jude.1.14" osisID="jude.1.14" />..... Ecce venit cum multis millibus nunciorum suorum,<verse eID="jude.1.14" />
+        <verse sID="jude.1.15" osisID="jude.1.15" />facere iudicium de omnibus, et perdere omnes impios, et arguere omnem carnem de omnibus factis impiorum, quae fecerunt impie et de omnibus verbis impiis, quae de Deo locuti sunt peccatores.<verse eID="jude.1.15" />
+        <verse sID="jude.1.17" osisID="jude.1.17" />Vos autem fratres, mementote praedictorum sermonum ab Apostolis Iesu Christi,<verse eID="jude.1.17" />
+        <verse sID="jude.1.18" osisID="jude.1.18" />quoniam dicebant: In novissimis diebus erunt irrisores, euntes secundum voluntates suas impias.<verse eID="jude.1.18" />
+        <verse sID="jude.1.19" osisID="jude.1.19" />Hi sunt secernentes, animales, Spiritum non habentes.<verse eID="jude.1.19" />
+        <verse sID="jude.1.23" osisID="jude.1.23" />et alios quidem de igne rapite: aliorum vero, qui iudicantur, miseremini.....<verse eID="jude.1.23" />
+        <verse sID="jude.1.24" osisID="jude.1.24" />Ei autem, qui potens est vos conservare sine offensione, et constituere ante conspectum gloriae suae immaculatos in laetitia:<verse eID="jude.1.24" />
+        <verse sID="jude.1.25" osisID="jude.1.25" />soli Salvatori nostro Deo, per Iesum Christum Dominum nostrum, honor, potentia, claritas, et potestas ante omne saeculum, et nunc, et in omnia saecula saeculorum. Amen.<verse eID="jude.1.25" />
+      </p>
+    </div>
+  </osisText>
+</osis>

@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="esdrae-3" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="esdrae-3">
+        <title>esdrae-3</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">esdrae-3</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>esdrae-3</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="esdrae-3">
+      <title>esdrae-3</title>
+      <chapter sID="esdrae-3.1" osisID="esdrae-3.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="esdrae-3.1.1" osisID="esdrae-3.1.1" />Et egit Iosias pascha in Hierosolymis Domino suo et immolavit phase quartadecima luna primi mensis,<verse eID="esdrae-3.1.1" />
+        <verse sID="esdrae-3.1.2" osisID="esdrae-3.1.2" />statuens sacerdotes per vices stolas amictos in templo Domini.<verse eID="esdrae-3.1.2" />
+        <verse sID="esdrae-3.1.3" osisID="esdrae-3.1.3" />Et dixit Levitis sacris servis Israhel, ut sanctificarent se Domino in positione Domini sanctam arcam in domo, quam aedificavit Salomon filius David rex.<verse eID="esdrae-3.1.3" />
+        <verse sID="esdrae-3.1.4" osisID="esdrae-3.1.4" />Non erit vobis tollere super umeros eam. Et nunc deservite Domino nostro et curam agite gentis illius Israhel et parate secundum pagos et tribus nostras<verse eID="esdrae-3.1.4" />
+        <verse sID="esdrae-3.1.5" osisID="esdrae-3.1.5" />secundum scripturam David regis Israhel et secundum magnificentiam Salomonis filii eius. Et omnes in templo et secundum particulam principatus paternam vestram eorum Levitarum, qui stant in conspectu fratrum vestrorum filiorum Israhel,<verse eID="esdrae-3.1.5" />
+        <verse sID="esdrae-3.1.6" osisID="esdrae-3.1.6" />immolate pascha et sacrificia parate fratribus vestris et facite secundum praeceptum Domini, quod datum est Moysi.<verse eID="esdrae-3.1.6" />
+        <verse sID="esdrae-3.1.7" osisID="esdrae-3.1.7" />Et donavit Iosias in plebem quae inventa est oves agnorum et hedorum et caprarum triginta milia, vitulos tria milia.<verse eID="esdrae-3.1.7" />
+        <verse sID="esdrae-3.1.8" osisID="esdrae-3.1.8" />Haec de regalibus data sunt secundum promissionem populo et sacerdotibus in pascha et Levitis. Et dedit Helchias et Zaccharias et Hellus praepositi domus ipsis sacerdotibus in pascha oves numero duo milia sescentas, vitulos trecentos.<verse eID="esdrae-3.1.8" />
+        <verse sID="esdrae-3.1.9" osisID="esdrae-3.1.9" />Et Iechonias et Sameas et Nathanahel frater et Asabias et Ozihel et Ioram tribuni dederunt Levitis in phase oves quinque milia, vitulos septingentos.<verse eID="esdrae-3.1.9" />
+        <verse sID="esdrae-3.1.10" osisID="esdrae-3.1.10" />Et haec cum fierent, eleganter steterunt sacerdotes et Levitae, habentes azyma per tribus<verse eID="esdrae-3.1.10" />
+        <verse sID="esdrae-3.1.11" osisID="esdrae-3.1.11" />et secundum partes principatus patrum in conspectu populi, offerre Domino secundum ea quae in libro Moysi scripta sunt. Et sic ad diluculum.<verse eID="esdrae-3.1.11" />
+        <verse sID="esdrae-3.1.12" osisID="esdrae-3.1.12" />Et assaverunt phase igne prout oportebat, et hostias coxerunt in aeniolis et ollis cum beneolentia,<verse eID="esdrae-3.1.12" />
+        <verse sID="esdrae-3.1.13" osisID="esdrae-3.1.13" />et tulerunt omnibus qui erant ex plebe. Et post haec paraverunt sibi et sacerdotibus.<verse eID="esdrae-3.1.13" />
+        <verse sID="esdrae-3.1.14" osisID="esdrae-3.1.14" />Sacerdotes enim offerebant hostias et adipes, usque dum finita esset hora, et Levitae paraverunt sibi et fratribus suis filiis Aaron.<verse eID="esdrae-3.1.14" />
+        <verse sID="esdrae-3.1.15" osisID="esdrae-3.1.15" />Et sacri cantores filii Asaph erant super ordinem eorum secundum praeceptum David, et Asaph et Zaccharias et Ieddinus qui erat a rege.<verse eID="esdrae-3.1.15" />
+        <verse sID="esdrae-3.1.16" osisID="esdrae-3.1.16" />Et ostiarii per singulas ianuas, ita ut non praevaricaret unusquisque suum vicem; fratres enim ipsorum Levitae paraverunt illis.<verse eID="esdrae-3.1.16" />
+        <verse sID="esdrae-3.1.17" osisID="esdrae-3.1.17" />Et consummata sunt quae pertinebant ad sacrificium Domini<verse eID="esdrae-3.1.17" />
+        <verse sID="esdrae-3.1.18" osisID="esdrae-3.1.18" />illa die, agi phase et offerri hostias super Domini sacrarium secundum praeceptum regis Iosiae.<verse eID="esdrae-3.1.18" />
+        <verse sID="esdrae-3.1.19" osisID="esdrae-3.1.19" />Et egerunt filii Israhel qui inventi sunt in tempore illo phase et diem festum azymorum per dies septem.<verse eID="esdrae-3.1.19" />
+        <verse sID="esdrae-3.1.20" osisID="esdrae-3.1.20" />Et non est celebratum phase tale in Israhel a temporibus Samuhel prophetae.<verse eID="esdrae-3.1.20" />
+        <verse sID="esdrae-3.1.21" osisID="esdrae-3.1.21" />Et omnes reges Israhel non celebraverunt pascha tale, quale egit Iosias et sacerdotes et Levitae et Iudaei et omnis Israhel, qui inventi sunt in commoratione Hierosolymis.<verse eID="esdrae-3.1.21" />
+        <verse sID="esdrae-3.1.22" osisID="esdrae-3.1.22" />Octavodecimo anno regnante Iosia celebratum est phase.<verse eID="esdrae-3.1.22" />
+        <verse sID="esdrae-3.1.23" osisID="esdrae-3.1.23" />Et directa sunt opera Iosiae in conspectu Domini sui in corde pleno metuentia.<verse eID="esdrae-3.1.23" />
+        <verse sID="esdrae-3.1.24" osisID="esdrae-3.1.24" />Et quae circa illum quidem conscripta sunt in pristinis temporibus, de eis qui peccaverunt quique inreligiosi fuerunt in Dominum prae omnem gentem et regnum et qui non quaerunt ipsum et verba Domini super Israhel.<verse eID="esdrae-3.1.24" />
+        <verse sID="esdrae-3.1.25" osisID="esdrae-3.1.25" />Et post omnem actum hunc Iosiae ascendit Pharao rex Aegypti, veniens bellum abicere in Charchamis super Eufraten, et exivit in obviam illi Iosias.<verse eID="esdrae-3.1.25" />
+        <verse sID="esdrae-3.1.26" osisID="esdrae-3.1.26" />Et misit rex Aegypti ad Iosiam dicens: Quid mihi et tibi est, rex Iudaeae?<verse eID="esdrae-3.1.26" />
+        <verse sID="esdrae-3.1.27" osisID="esdrae-3.1.27" />Non sum ad te missus a Domino, super Eufraten enim bellum meum est, et Dominus mecum est festinans, descende a facie Domini.<verse eID="esdrae-3.1.27" />
+        <verse sID="esdrae-3.1.28" osisID="esdrae-3.1.28" />Et non est Iosias reversus super currum suum, sed expugnare eum conabatur, non adtendens verbum prophetiae ex ore Domini,<verse eID="esdrae-3.1.28" />
+        <verse sID="esdrae-3.1.29" osisID="esdrae-3.1.29" />sed constituit ad eum bellum in campo Metedaus. Et descenderunt principes ad regem Iosiam.<verse eID="esdrae-3.1.29" />
+        <verse sID="esdrae-3.1.30" osisID="esdrae-3.1.30" />Et dixit rex pueris suis: Amovete me a proelio; infirmatus sum enim valde. Et statim amoverunt eum pueri ipsius de acie.<verse eID="esdrae-3.1.30" />
+        <verse sID="esdrae-3.1.31" osisID="esdrae-3.1.31" />Et ascendit super currum secundarium suum, et perveniens Hierosolymam vita functus est, et sepultus est in paterno sepulchro.<verse eID="esdrae-3.1.31" />
+        <verse sID="esdrae-3.1.32" osisID="esdrae-3.1.32" />Et in tota Iudaea lugebant Iosiam, et lamentabat Hieremias propheta pro Iosiam, et qui praesidebant cum uxoribus lamentabant eum usque in hunc diem. Et datum est hoc fieri semper in omne genus Israhel.<verse eID="esdrae-3.1.32" />
+        <verse sID="esdrae-3.1.33" osisID="esdrae-3.1.33" />Haec autem proscripta sunt in libro historiarum regum Iudaeae, et singula gesta actus Iosiae, eius gloriae et intellectus eius in lege Domini, quaeque gesta sunt ab eo et quae nunc, conscripta sunt in libro regum Israhel et Iuda.<verse eID="esdrae-3.1.33" />
+        <verse sID="esdrae-3.1.34" osisID="esdrae-3.1.34" />Et adsumentes qui erant ex gente Iechoniam filium Iosiae constituerunt regem pro Iosia patre suo, cum esset annorum viginti trium.<verse eID="esdrae-3.1.34" />
+        <verse sID="esdrae-3.1.35" osisID="esdrae-3.1.35" />Et regnavit super Israhel mensibus tribus. Et amoto eo rex Aegypti ne regnaret Hierosolymis,<verse eID="esdrae-3.1.35" />
+        <verse sID="esdrae-3.1.36" osisID="esdrae-3.1.36" />multavit gentem argenti talenta centum et auri talenta decem.<verse eID="esdrae-3.1.36" />
+        <verse sID="esdrae-3.1.37" osisID="esdrae-3.1.37" />Et constituit rex Aegypti regem Ioachim fratrem ipsius regem Iudaeae et Hierusalem.<verse eID="esdrae-3.1.37" />
+        <verse sID="esdrae-3.1.38" osisID="esdrae-3.1.38" />Et alligavit magistratus Ioachim, Zaracele fratrem suum adprehendens reduxit Aegypto.<verse eID="esdrae-3.1.38" />
+        <verse sID="esdrae-3.1.39" osisID="esdrae-3.1.39" />Annorum autem erat Ioachim viginti quinque, cum regnaret in terra Iudaeae et in Hierusalem, et fecit malignum in conspectu Domini.<verse eID="esdrae-3.1.39" />
+        <verse sID="esdrae-3.1.40" osisID="esdrae-3.1.40" />Post hunc autem ascendit Nabuchodonosor rex Babylonis, et alligans eum in aereo vinculo perduxit in Babyloniam.<verse eID="esdrae-3.1.40" />
+        <verse sID="esdrae-3.1.41" osisID="esdrae-3.1.41" />Et de sacris vasis Domini accepit Nabuchodonosor et tulit et consecravit in templo suo in Babylonia.<verse eID="esdrae-3.1.41" />
+        <verse sID="esdrae-3.1.42" osisID="esdrae-3.1.42" />Nam de inmunditia illius et inreligiositate scriptum est in libro temporum regum.<verse eID="esdrae-3.1.42" />
+        <verse sID="esdrae-3.1.43" osisID="esdrae-3.1.43" />Et regnavit Ioachim filius ipsius pro eo; cum autem constitutus esset, erat annorum octo.<verse eID="esdrae-3.1.43" />
+        <verse sID="esdrae-3.1.44" osisID="esdrae-3.1.44" />Regnavit autem menses tres et dies decem in Hierusalem, et fecit malignum in conspectu Domini.<verse eID="esdrae-3.1.44" />
+        <verse sID="esdrae-3.1.45" osisID="esdrae-3.1.45" />Et post annum mittens Nabuchodonosor transmigravit eum in Babyloniam simul cum sacris vasis Domini.<verse eID="esdrae-3.1.45" />
+        <verse sID="esdrae-3.1.46" osisID="esdrae-3.1.46" />Et constituit Sedeciam regem Iudaeae et Hierusalem, cum esset annorum viginti unius. Regnavit autem annis undecim,<verse eID="esdrae-3.1.46" />
+        <verse sID="esdrae-3.1.47" osisID="esdrae-3.1.47" />et fecit malignum in conspectu Domini, et non est veritus a verbis quae dicta sunt ab Hieremia propheta ex ore Domini.<verse eID="esdrae-3.1.47" />
+        <verse sID="esdrae-3.1.48" osisID="esdrae-3.1.48" />Et adiuratus a rege Nabuchodonosor in nomine Domini peierans discessit, et indurata cervice sua et corde suo transgressus est legitima Domini Dei Israhel.<verse eID="esdrae-3.1.48" />
+        <verse sID="esdrae-3.1.49" osisID="esdrae-3.1.49" />Et duces populi et sacerdotum multa inique gesserunt et impie egerunt super omnes inmunditias gentium, et polluerunt templum Domini quod sacratum erat in Hierosolymis.<verse eID="esdrae-3.1.49" />
+        <verse sID="esdrae-3.1.50" osisID="esdrae-3.1.50" />Et misit Deus patrum ipsorum per angelum suum revocare eos, propter quod parceret illis et tabernaculo suo.<verse eID="esdrae-3.1.50" />
+        <verse sID="esdrae-3.1.51" osisID="esdrae-3.1.51" />Ipsi vero subsannabant in angelis eius et, qua die locutus est Dominus, erant inludentes prophetas eius,<verse eID="esdrae-3.1.51" />
+        <verse sID="esdrae-3.1.52" osisID="esdrae-3.1.52" />quoadusque ad iracundiam concitatus super gentem suam propter inreligiositates, praecepit ascendere reges Chaldeorum.<verse eID="esdrae-3.1.52" />
+        <verse sID="esdrae-3.1.53" osisID="esdrae-3.1.53" />Hii occiderunt iuvenes illorum in gladio in circuitu sancti templi eorum, et non pepercerunt iuveni et virgini et seni et adulescenti eorum,<verse eID="esdrae-3.1.53" />
+        <verse sID="esdrae-3.1.54" osisID="esdrae-3.1.54" />sed omnes traditi sunt in manus ipsorum. Et omnia sacra vasa Domini magna et pusilla et arcam Domini et regales apothecas resumentes tulerunt in Babyloniam.<verse eID="esdrae-3.1.54" />
+        <verse sID="esdrae-3.1.55" osisID="esdrae-3.1.55" />Et incenderunt domum Domini, et demolierunt muros Hierusalem et turres eius incenderunt in igne.<verse eID="esdrae-3.1.55" />
+        <verse sID="esdrae-3.1.56" osisID="esdrae-3.1.56" />Et consummaverunt et omnia honorifica eius ad nihilum redegerunt. Et reliquos abduxerunt a gladio in Babylonem.<verse eID="esdrae-3.1.56" />
+        <verse sID="esdrae-3.1.57" osisID="esdrae-3.1.57" />Et erant servi illius et filii illius usque dum regnarent Persae, in repletione verbi Domini in ore Hieremiae,<verse eID="esdrae-3.1.57" />
+        <verse sID="esdrae-3.1.58" osisID="esdrae-3.1.58" />quousque benigne ageret terra sabbata sua. Omni tempore desertionis suae sabbatizavit in adimpletione annorum septuaginta.<verse eID="esdrae-3.1.58" />
+      </p>
+      <chapter eID="esdrae-3.1" />
+      <chapter sID="esdrae-3.2" osisID="esdrae-3.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="esdrae-3.2.1" osisID="esdrae-3.2.1" />Regnante Cyro Persarum anno primo, in consummatione verbi Domini in ore Hieremiae,<verse eID="esdrae-3.2.1" />
+        <verse sID="esdrae-3.2.2" osisID="esdrae-3.2.2" />suscitavit Dominus spiritum Cyri regis Persarum. Et praedicavit in toto regno suo et simul per scripturam<verse eID="esdrae-3.2.2" />
+        <verse sID="esdrae-3.2.3" osisID="esdrae-3.2.3" />dicens: Haec dicit rex Persarum Cyrus: Me constituit regem orbi terrarum Dominus Israhel, Dominus excelsus.<verse eID="esdrae-3.2.3" />
+        <verse sID="esdrae-3.2.4" osisID="esdrae-3.2.4" />Et significavit mihi aedificare sibi domum in Hierusalem quae est in Iudaea.<verse eID="esdrae-3.2.4" />
+        <verse sID="esdrae-3.2.5" osisID="esdrae-3.2.5" />Si quis est ex genere vestro, sit Dominus ipsius cum eo, et ascendens in Hierusalem quae est in Iudaea aedificet domum Domino Israhel; hic est Dominus inhabitans in Hierusalem.<verse eID="esdrae-3.2.5" />
+        <verse sID="esdrae-3.2.6" osisID="esdrae-3.2.6" />Quotquot ergo circa loca habitant, adiuvent eum qui sunt in loco ipsius in auro et argento,<verse eID="esdrae-3.2.6" />
+        <verse sID="esdrae-3.2.7" osisID="esdrae-3.2.7" />in dationibus cum equis et iumentis cumque aliis quae secundum vota adponuntur in aedem Domini quae est in Hierusalem.<verse eID="esdrae-3.2.7" />
+        <verse sID="esdrae-3.2.8" osisID="esdrae-3.2.8" />Et stantes principes tribuum pagorum Iudae et tribus Beniamin et sacerdotes et Levitae, quos excitavit Dominus ascendere et aedificare domum Domini quae est in Hierusalem, et qui erant in circuitu eorum,<verse eID="esdrae-3.2.8" />
+        <verse sID="esdrae-3.2.9" osisID="esdrae-3.2.9" />adiuverunt in omni argento et auro, equis et iumentis et votis quam pluribus, multi quorum sensus excitatus est.<verse eID="esdrae-3.2.9" />
+        <verse sID="esdrae-3.2.10" osisID="esdrae-3.2.10" />Et rex Cyrus protulit vasa sacra Domini, quae transtulit Nabuchodonosor ex Hierusalem et consecravit ea in suo idolo.<verse eID="esdrae-3.2.10" />
+        <verse sID="esdrae-3.2.11" osisID="esdrae-3.2.11" />Et proferens ea Cyrus rex Persarum tradidit Mitridati qui erat super thesauros ipsius.<verse eID="esdrae-3.2.11" />
+        <verse sID="esdrae-3.2.12" osisID="esdrae-3.2.12" />Per hunc autem tradita sunt Salamanassaro praesidi Iudaeae.<verse eID="esdrae-3.2.12" />
+        <verse sID="esdrae-3.2.13" osisID="esdrae-3.2.13" />Horum autem is numerus: Libatoria aurea mille, argentea sescenta, thyiscae argenteae triginta, fialae aureae triginta, item argenteae duo milia trecentae et alia vasa mille.<verse eID="esdrae-3.2.13" />
+        <verse sID="esdrae-3.2.14" osisID="esdrae-3.2.14" />Omnia autem vasa aurea et argentea quattuor milia quadringenta sexaginta novem.<verse eID="esdrae-3.2.14" />
+        <verse sID="esdrae-3.2.15" osisID="esdrae-3.2.15" />Et evacuata sunt a Salamanassaro simul cum his qui ex captivitate Babyloniae in Hierosolymam.<verse eID="esdrae-3.2.15" />
+        <verse sID="esdrae-3.2.16" osisID="esdrae-3.2.16" />In Artaxersis autem Persarum regis temporibus scripserunt ei, de his qui inhabitabant in Iudaea et in Hierusalem, Balsamus et Mitridatis et Sabellius et Rathimus et Beltemus et Samelius scriba et reliqui deservientes ei et inhabitantes in Samaria et ceteris locis, subiectam epistulam: Regi Artaxersi,<verse eID="esdrae-3.2.16" />
+        <verse sID="esdrae-3.2.17" osisID="esdrae-3.2.17" />domine, pueri tui Rathimus ab accedentibus et Sabellius scriba et reliqui curiae suae iudices in Coelensyriam et Foenicen.<verse eID="esdrae-3.2.17" />
+        <verse sID="esdrae-3.2.18" osisID="esdrae-3.2.18" />Et nunc notum sit domino regi, quoniam Iudaei qui ascenderunt a vobis ad nos, venientes in Hierusalem civitatem refugam et pessimam, aedificant foros eius et statuunt muros et templum suscitant.<verse eID="esdrae-3.2.18" />
+        <verse sID="esdrae-3.2.19" osisID="esdrae-3.2.19" />Quod si civitas ista et muri consummati fuerint, tributa non sustinebunt pendere, sed etiam regibus resistent.<verse eID="esdrae-3.2.19" />
+        <verse sID="esdrae-3.2.20" osisID="esdrae-3.2.20" />Et quia id agitur circa templum, recte habere arbitrati sumus non despicere hoc ipsum,<verse eID="esdrae-3.2.20" />
+        <verse sID="esdrae-3.2.21" osisID="esdrae-3.2.21" />sed notum facere domino regi, ut, si videbitur regi, quaeratur in libris patrum tuorum.<verse eID="esdrae-3.2.21" />
+        <verse sID="esdrae-3.2.22" osisID="esdrae-3.2.22" />Et invenies in admonitionibus scripta de his et scies, quoniam civitas ista fuit refuga et reges et civitates concutiens,<verse eID="esdrae-3.2.22" />
+        <verse sID="esdrae-3.2.23" osisID="esdrae-3.2.23" />et Iudaei refugae et proelia committentes in ea ab aeterno, ob quam causam civitas ista deserta est.<verse eID="esdrae-3.2.23" />
+        <verse sID="esdrae-3.2.24" osisID="esdrae-3.2.24" />Nunc ergo notum facimus tibi, rex domine, quoniam si civitas ista aedificata fuerit, et huius muri erecti fuerint, descensus tibi non erit in Coelensyriam et Foenicen.<verse eID="esdrae-3.2.24" />
+        <verse sID="esdrae-3.2.25" osisID="esdrae-3.2.25" />Tunc rescripsit rex Rathimo qui scribebat accedentia et Beltemo et Sabellio scribae et ceteris constitutis et inhabitantibus in Syriam et Foenicen et Samariam ea quae subiecta sunt:<verse eID="esdrae-3.2.25" />
+        <verse sID="esdrae-3.2.26" osisID="esdrae-3.2.26" />Legi epistulam quam misistis mihi. Praecepi ergo inquiri et inventum est, quoniam civitas illa est ab aevo regibus resistens,<verse eID="esdrae-3.2.26" />
+        <verse sID="esdrae-3.2.27" osisID="esdrae-3.2.27" />et homines refugae et proelia in ea efficientes, et reges fortissimi erant in Hierusalem dominantes et tributa exigentes a Coelensyria et Foenice.<verse eID="esdrae-3.2.27" />
+        <verse sID="esdrae-3.2.28" osisID="esdrae-3.2.28" />Nunc ergo praecepi prohibere homines illos aedificare civitatem et providere, ne quid ultra haec fiant,<verse eID="esdrae-3.2.28" />
+        <verse sID="esdrae-3.2.29" osisID="esdrae-3.2.29" />sed nec procedant in plurimum ea quae sunt malitiae, ita ut regibus molestia inportetur.<verse eID="esdrae-3.2.29" />
+        <verse sID="esdrae-3.2.30" osisID="esdrae-3.2.30" />Tunc recitatis his quae a rege Artaxerse scripta fuerant, Rathimus et Sabellius scriba et qui cum his constituti erant iungentes festinanter venerunt in Hierusalem cum equitatu et turba et agmine,<verse eID="esdrae-3.2.30" />
+        <verse sID="esdrae-3.2.31" osisID="esdrae-3.2.31" />coeperunt prohibere aedificantes. Et vacabant ab aedificatione templi in Hierusalem usque secundo anno regni Darii Persarum regis.<verse eID="esdrae-3.2.31" />
+      </p>
+      <chapter eID="esdrae-3.2" />
+      <chapter sID="esdrae-3.3" osisID="esdrae-3.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="esdrae-3.3.1" osisID="esdrae-3.3.1" />Rex Darius fecit cenam magnam omnibus vernaculis suis et omnibus magistratibus Mediae et Persis<verse eID="esdrae-3.3.1" />
+        <verse sID="esdrae-3.3.2" osisID="esdrae-3.3.2" />et omnibus purpuratis et praetoribus et consulibus et praefectis sub illo, ab India usque Aethiopiam centum viginti septem provinciis.<verse eID="esdrae-3.3.2" />
+        <verse sID="esdrae-3.3.3" osisID="esdrae-3.3.3" />Et cum manducassent et bibissent et satiati revertebantur, tunc Darius rex ascendit in cubiculo suo et dormivit et expergefactus est.<verse eID="esdrae-3.3.3" />
+        <verse sID="esdrae-3.3.4" osisID="esdrae-3.3.4" />Tunc illi tres iuvenes, corporis custodes qui custodiebant corpus regis, dixerunt alter altero:<verse eID="esdrae-3.3.4" />
+        <verse sID="esdrae-3.3.5" osisID="esdrae-3.3.5" />Dicamus unusquisque nostrum sermonem, qui praecellat; et cuiuscumque apparuerit sermo sapientior alterius, dabit illi Darius rex dona magna et epinicia magna,<verse eID="esdrae-3.3.5" />
+        <verse sID="esdrae-3.3.6" osisID="esdrae-3.3.6" />purpura cooperiri et in auro bibere et super aurum dormire et currum aureo freno et cidarim byssinam et torquem circa collum,<verse eID="esdrae-3.3.6" />
+        <verse sID="esdrae-3.3.7" osisID="esdrae-3.3.7" />et secundo loco sedebit a Dario propter sapientiam suam et cognatus Darii vocabitur.<verse eID="esdrae-3.3.7" />
+        <verse sID="esdrae-3.3.8" osisID="esdrae-3.3.8" />Tunc scribentes singuli suum verbum signaverunt et posuerunt subtus cervical Darii regis.<verse eID="esdrae-3.3.8" />
+        <verse sID="esdrae-3.3.9" osisID="esdrae-3.3.9" />Et dixerunt: Cum surrexerit rex, dabunt illi scripta sua; et quodcumque iudicaverit rex et tres magistratus Persidis, quoniam verbum eius sapientius est, ipsi dabitur victoria sicut scriptum est.<verse eID="esdrae-3.3.9" />
+        <verse sID="esdrae-3.3.10" osisID="esdrae-3.3.10" />Unus scripsit: Fortius est vinum.<verse eID="esdrae-3.3.10" />
+        <verse sID="esdrae-3.3.11" osisID="esdrae-3.3.11" />Alius scripsit: Fortior est rex.<verse eID="esdrae-3.3.11" />
+        <verse sID="esdrae-3.3.12" osisID="esdrae-3.3.12" />Tertius autem scripsit: Fortiores sunt mulieres, super omnia autem vincit veritas.<verse eID="esdrae-3.3.12" />
+        <verse sID="esdrae-3.3.13" osisID="esdrae-3.3.13" />Et cum surrexisset rex, acceperunt scripta sua et dederunt illi et legit.<verse eID="esdrae-3.3.13" />
+        <verse sID="esdrae-3.3.14" osisID="esdrae-3.3.14" />Et mittens vocavit omnes magistratus Persarum et Medorum et purpuratos et praetores et praefectos.<verse eID="esdrae-3.3.14" />
+        <verse sID="esdrae-3.3.15" osisID="esdrae-3.3.15" />Et sederunt in consilio et lecta sunt scripta coram ipsis.<verse eID="esdrae-3.3.15" />
+        <verse sID="esdrae-3.3.16" osisID="esdrae-3.3.16" />Et dixit: Vocate adulescentes, et ipsi indicabunt verba sua. Et vocati sunt et introierunt.<verse eID="esdrae-3.3.16" />
+        <verse sID="esdrae-3.3.17" osisID="esdrae-3.3.17" />Et dixit illis: Indicate nobis de his quae scripta sunt.
+Et coepit prior, qui dixerat de fortitudine vini,<verse eID="esdrae-3.3.17" />
+        <verse sID="esdrae-3.3.18" osisID="esdrae-3.3.18" />et dixit: Viri, quam praevalet vinum! Omnibus hominibus qui bibunt illud seducit mentem.<verse eID="esdrae-3.3.18" />
+        <verse sID="esdrae-3.3.19" osisID="esdrae-3.3.19" />Itemque regis et orfani facit mentem unam, item servi ac liberi, pauperis et divitis.<verse eID="esdrae-3.3.19" />
+        <verse sID="esdrae-3.3.20" osisID="esdrae-3.3.20" />Et omnem mentem convertit in securitatem et iucunditatem, et non meminit omnem tristitiam et debitum.<verse eID="esdrae-3.3.20" />
+        <verse sID="esdrae-3.3.21" osisID="esdrae-3.3.21" />Et omnia praecordia facit honesta, et non meminit regem nec magistratum, et omnia per talenta facit loqui.<verse eID="esdrae-3.3.21" />
+        <verse sID="esdrae-3.3.22" osisID="esdrae-3.3.22" />Et non meminerunt cum biberint amicitiam nec fraternitatem, sed post non multum sumunt gladios.<verse eID="esdrae-3.3.22" />
+        <verse sID="esdrae-3.3.23" osisID="esdrae-3.3.23" />Et cum a vino merserint et surrexerint, non meminerunt quae gesserunt.<verse eID="esdrae-3.3.23" />
+        <verse sID="esdrae-3.3.24" osisID="esdrae-3.3.24" />O viri, non praecellit vinum quod sic cogit facere? Et tacuit hoc dicto.<verse eID="esdrae-3.3.24" />
+      </p>
+      <chapter eID="esdrae-3.3" />
+      <chapter sID="esdrae-3.4" osisID="esdrae-3.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="esdrae-3.4.1" osisID="esdrae-3.4.1" />Et inchoavit sequens dicere, qui dixit de fortitudine regis:<verse eID="esdrae-3.4.1" />
+        <verse sID="esdrae-3.4.2" osisID="esdrae-3.4.2" />O viri, non praecellunt homines, qui terram et mare obtinent et omnia quae sunt in eis?<verse eID="esdrae-3.4.2" />
+        <verse sID="esdrae-3.4.3" osisID="esdrae-3.4.3" />Rex autem super omnia praecellit et dominatur eorum, et omne quodcumque dixerit illis faciunt.<verse eID="esdrae-3.4.3" />
+        <verse sID="esdrae-3.4.4" osisID="esdrae-3.4.4" />Et si miserit illos ad bellatores, vadunt et demoliunt montes et muros et turres,<verse eID="esdrae-3.4.4" />
+        <verse sID="esdrae-3.4.5" osisID="esdrae-3.4.5" />iugulantur et iugulant, et regis verbum non praetereunt. Nam si vicerint, adferunt regi omnia quaecumque praedati fuerint<verse eID="esdrae-3.4.5" />
+        <verse sID="esdrae-3.4.6" osisID="esdrae-3.4.6" />semper et alia omnia. Et quotquot non militant nec pugnant sed colunt terram, rursum cum fuerint metentes adferunt regi; et alter alterum cogentes adferunt tributa regi.<verse eID="esdrae-3.4.6" />
+        <verse sID="esdrae-3.4.7" osisID="esdrae-3.4.7" />Et ipse unus solus. Et si dixerit occidere, occidunt; dixit remittere, remittunt;<verse eID="esdrae-3.4.7" />
+        <verse sID="esdrae-3.4.8" osisID="esdrae-3.4.8" />dixit percutere, percutiunt; dixit exterminare, exterminant; dixit aedificare, aedificant;<verse eID="esdrae-3.4.8" />
+        <verse sID="esdrae-3.4.9" osisID="esdrae-3.4.9" />dixit excidere, excidunt; dixit plantare, plantant.<verse eID="esdrae-3.4.9" />
+        <verse sID="esdrae-3.4.10" osisID="esdrae-3.4.10" />Et omnis plebs et virtutes eum obaudiunt. Et super haec ipse recumbit et manducat et bibit et dormit;<verse eID="esdrae-3.4.10" />
+        <verse sID="esdrae-3.4.11" osisID="esdrae-3.4.11" />hii autem custodiunt in circuitu eum, et non possunt ire singuli facere opera sua, sed nec indictoaudientes sunt ei.<verse eID="esdrae-3.4.11" />
+        <verse sID="esdrae-3.4.12" osisID="esdrae-3.4.12" />O viri, quomodo non praecellit rex, qui sic diffamatur. Et tacuit.<verse eID="esdrae-3.4.12" />
+        <verse sID="esdrae-3.4.13" osisID="esdrae-3.4.13" />Tertius, qui dixerat de mulieribus et veritate, hic est Zorobabel, coepit loqui:<verse eID="esdrae-3.4.13" />
+        <verse sID="esdrae-3.4.14" osisID="esdrae-3.4.14" />Viri, non magnus rex et multi homines? Nec vinum praecellit? Quis est ergo qui dominatur eorum?<verse eID="esdrae-3.4.14" />
+        <verse sID="esdrae-3.4.15" osisID="esdrae-3.4.15" />Nonne mulieres? Genuerunt regem et omnem populum, qui dominantur mari et terrae.<verse eID="esdrae-3.4.15" />
+        <verse sID="esdrae-3.4.16" osisID="esdrae-3.4.16" />Et ex illis nati sunt, et ipsae educaverunt eos qui plantaverunt vineas, ex quibus vinum fit.<verse eID="esdrae-3.4.16" />
+        <verse sID="esdrae-3.4.17" osisID="esdrae-3.4.17" />Et ipsae faciunt stolas omnium hominum, et ipsae faciunt gloriam hominibus, et non possunt homines separari a mulieribus.<verse eID="esdrae-3.4.17" />
+        <verse sID="esdrae-3.4.18" osisID="esdrae-3.4.18" />Si congregaverint aurum et argentum et omnem rem speciosam, et viderint mulierem unam bono habitu et bona specie,<verse eID="esdrae-3.4.18" />
+        <verse sID="esdrae-3.4.19" osisID="esdrae-3.4.19" />omnia haec relinquentes in eam intendunt et aperto ore conspiciunt, et eam eligunt magis quam aurum et argentum et omnem rem speciosam.<verse eID="esdrae-3.4.19" />
+        <verse sID="esdrae-3.4.20" osisID="esdrae-3.4.20" />Homo suum patrem derelinquit, qui enutriit eum, et suam regionem, et ad mulierem suam coniungit se.<verse eID="esdrae-3.4.20" />
+        <verse sID="esdrae-3.4.21" osisID="esdrae-3.4.21" />Et cum muliere remittit animam, et neque patrem meminit neque matrem neque regionem.<verse eID="esdrae-3.4.21" />
+        <verse sID="esdrae-3.4.22" osisID="esdrae-3.4.22" />Et hinc oportet vos scire, quoniam mulieres dominantur vestri. Nonne doletis et laboratis, et omnia mulieribus confertis et datis?<verse eID="esdrae-3.4.22" />
+        <verse sID="esdrae-3.4.23" osisID="esdrae-3.4.23" />Et accipit homo gladium suum et vadit in via, furta facere et homicidia et mare navigare et flumina,<verse eID="esdrae-3.4.23" />
+        <verse sID="esdrae-3.4.24" osisID="esdrae-3.4.24" />et leonem videt et in tenebris ingreditur. Et cum furtum fecerit et fraudes et rapinas, amabili suae adfert.<verse eID="esdrae-3.4.24" />
+        <verse sID="esdrae-3.4.25" osisID="esdrae-3.4.25" />Et iterum diligit homo suam uxorem magis quam patrem aut matrem.<verse eID="esdrae-3.4.25" />
+        <verse sID="esdrae-3.4.26" osisID="esdrae-3.4.26" />Et multi dementes facti sunt propter suas uxores, et servi facti sunt propter illas.<verse eID="esdrae-3.4.26" />
+        <verse sID="esdrae-3.4.27" osisID="esdrae-3.4.27" />Et multi perierunt et iugulati sunt et peccaverunt propter mulieres.<verse eID="esdrae-3.4.27" />
+        <verse sID="esdrae-3.4.28" osisID="esdrae-3.4.28" />Et nunc mihi non creditis? Nonne magnus est rex in potestate sua, quoniam omnes regiones verentur tangere eum?<verse eID="esdrae-3.4.28" />
+        <verse sID="esdrae-3.4.29" osisID="esdrae-3.4.29" />Videbam tamen Apemen, filiam Bezacis Mirifici, concubinam regis sedentem iuxta regem ad dexteram,<verse eID="esdrae-3.4.29" />
+        <verse sID="esdrae-3.4.30" osisID="esdrae-3.4.30" />et auferentem diadema de capite regis et inponentem sibi; et palmis caedebat regem de sinistra manu.<verse eID="esdrae-3.4.30" />
+        <verse sID="esdrae-3.4.31" osisID="esdrae-3.4.31" />Et super haec rex aperto ore intuebatur eam. Et si adriserit ei, ridet; nam si indignata fuerit ei, blanditur ei, donec reconcilietur ei in gratiam.<verse eID="esdrae-3.4.31" />
+        <verse sID="esdrae-3.4.32" osisID="esdrae-3.4.32" />O viri, cur non fortiores sunt mulieres quae ista agunt?<verse eID="esdrae-3.4.32" />
+        <verse sID="esdrae-3.4.33" osisID="esdrae-3.4.33" />Et tunc rex et purpurati intuebantur alterutrum.
+Et inchoavit loqui de veritate:<verse eID="esdrae-3.4.33" />
+        <verse sID="esdrae-3.4.34" osisID="esdrae-3.4.34" />O viri, nonne fortes sunt mulieres? Magna est terra et excelsum est caelum et velox cursus solis, quoniam convertit in gyro caeli et rursum revertitur in locum suum in una die.<verse eID="esdrae-3.4.34" />
+        <verse sID="esdrae-3.4.35" osisID="esdrae-3.4.35" />Nonne magnificus est qui haec facit? Et veritas magna et fortior prae omnibus.<verse eID="esdrae-3.4.35" />
+        <verse sID="esdrae-3.4.36" osisID="esdrae-3.4.36" />Omnis terra veritatem invocat, caelum etiam ipsam benedicit, et omnia opera moventur et tremunt eam, et non est cum ea quicquam iniquum.<verse eID="esdrae-3.4.36" />
+        <verse sID="esdrae-3.4.37" osisID="esdrae-3.4.37" />Vinum iniquum, iniquus rex, iniquae mulieres, iniqui omnes filii hominum, et iniqua omnia opera illorum, et non est in ipsis veritas, et in sua iniquitate peribunt.<verse eID="esdrae-3.4.37" />
+        <verse sID="esdrae-3.4.38" osisID="esdrae-3.4.38" />Et veritas manet et invalescit in aeternum, et vivit et obtinet in saecula saeculorum.<verse eID="esdrae-3.4.38" />
+        <verse sID="esdrae-3.4.39" osisID="esdrae-3.4.39" />Nec est apud eam accipere personas neque differentias, sed quae iusta sunt facit omnibus iniustis ac malignis. Et omnes benignantur in operibus eius,<verse eID="esdrae-3.4.39" />
+        <verse sID="esdrae-3.4.40" osisID="esdrae-3.4.40" />et non est in iudicio eius iniquum. Eique fortitudo et regnum et potestas et maiestas omnium aevorum. Benedictus Deus veritatis.<verse eID="esdrae-3.4.40" />
+        <verse sID="esdrae-3.4.41" osisID="esdrae-3.4.41" />Et desiit loquendo. Et omnis populus clamaverunt et dixerunt: Magna veritas et praevalet.<verse eID="esdrae-3.4.41" />
+        <verse sID="esdrae-3.4.42" osisID="esdrae-3.4.42" />Tunc rex ait illi: Pete si quid vis amplius quam quae scripta sunt, et dabo tibi, secundum quod inventus es sapientior proximis. Et proximus mihi sedebis et cognatus meus vocaberis.<verse eID="esdrae-3.4.42" />
+        <verse sID="esdrae-3.4.43" osisID="esdrae-3.4.43" />Tunc ait regi: Memor esto voti quod vovisti aedificare Hierusalem in die qua regnum accepisti,<verse eID="esdrae-3.4.43" />
+        <verse sID="esdrae-3.4.44" osisID="esdrae-3.4.44" />et omnia vasa quae accepta sunt ex Hierusalem remittere, quae separavit Cyrus quando mactavit Babyloniam, et vovit remittere ea ibi.<verse eID="esdrae-3.4.44" />
+        <verse sID="esdrae-3.4.45" osisID="esdrae-3.4.45" />Et tu vovisti aedificare templum, quod incenderunt Idumei, quando exterminata est Iudaea a Chaldeis.<verse eID="esdrae-3.4.45" />
+        <verse sID="esdrae-3.4.46" osisID="esdrae-3.4.46" />Et nunc hoc est quod postulo a te, domine rex, et quod peto, et haec est maiestas a te quam postulo, ut facias votum quod vovisti Regi caeli ex ore tuo.<verse eID="esdrae-3.4.46" />
+        <verse sID="esdrae-3.4.47" osisID="esdrae-3.4.47" />Tunc surgens Darius rex osculatus est illum, et scripsit ei epistulas ad omnes dispensatores et praefectos et purpuratos, ut deducerent eum et eos qui cum illo erant omnes ascendentes aedificare Hierusalem.<verse eID="esdrae-3.4.47" />
+        <verse sID="esdrae-3.4.48" osisID="esdrae-3.4.48" />Et omnibus praefectis qui erant in Coelensyria et Foenice et Libano scripsit epistulas, ut transveherent ligna cedrina a Libano in Hierusalem, et ut aedificarent cum eis civitatem.<verse eID="esdrae-3.4.48" />
+        <verse sID="esdrae-3.4.49" osisID="esdrae-3.4.49" />Et scripsit omnibus Iudaeis qui ascendebant a regno in Iudaeam pro libertate, omnem potentem et magistratum et praefectum non supervenire ad ianuas ipsorum,<verse eID="esdrae-3.4.49" />
+        <verse sID="esdrae-3.4.50" osisID="esdrae-3.4.50" />et omnem regionem quam obtinuerant esse inmunem eis, et Idumei relinquant castella quae obtinent Iudaeorum,<verse eID="esdrae-3.4.50" />
+        <verse sID="esdrae-3.4.51" osisID="esdrae-3.4.51" />et in structuram templi dari per singulos annos talenta viginti, usque dum peraedificaretur,<verse eID="esdrae-3.4.51" />
+        <verse sID="esdrae-3.4.52" osisID="esdrae-3.4.52" />et super sacrarium holocaustomata ustilari cotidie, sicut habent praeceptum, alia talenta decem offerre per singulos annos,<verse eID="esdrae-3.4.52" />
+        <verse sID="esdrae-3.4.53" osisID="esdrae-3.4.53" />et omnibus qui procedunt a Babylonia condere civitatem ut esset libertas, tam ipsis quam filiis eorum, et omnibus sacerdotibus qui procedunt.<verse eID="esdrae-3.4.53" />
+        <verse sID="esdrae-3.4.54" osisID="esdrae-3.4.54" />Scripsit autem et quantitatem et sacram stolam, qua deservirent in ea.<verse eID="esdrae-3.4.54" />
+        <verse sID="esdrae-3.4.55" osisID="esdrae-3.4.55" />Et Levitis scripsit dari praebita usque in diem, qua consummabitur domus et Hierusalem extruetur.<verse eID="esdrae-3.4.55" />
+        <verse sID="esdrae-3.4.56" osisID="esdrae-3.4.56" />Et omnibus custodientibus civitatem scripsit dari eis sortes et stipendia.<verse eID="esdrae-3.4.56" />
+        <verse sID="esdrae-3.4.57" osisID="esdrae-3.4.57" />Et dimisit omnia vasa quae separaverat Cyrus a Babylonia; et omnia quaecumque dixit Cyrus fieri, etiam ipse praecepit fieri et mitti Hierusalem.<verse eID="esdrae-3.4.57" />
+        <verse sID="esdrae-3.4.58" osisID="esdrae-3.4.58" />Et cum processisset ille adulescens, elevans faciem in caelum et in Hierusalem benedixit Regem caeli<verse eID="esdrae-3.4.58" />
+        <verse sID="esdrae-3.4.59" osisID="esdrae-3.4.59" />et dixit: Abs te est victoria et abs te est sapientia et claritas, et ego tuus servus sum.<verse eID="esdrae-3.4.59" />
+        <verse sID="esdrae-3.4.60" osisID="esdrae-3.4.60" />Benedictus es qui dedisti mihi sapientiam, et tibi confiteor, Domine patrum nostrorum.<verse eID="esdrae-3.4.60" />
+        <verse sID="esdrae-3.4.61" osisID="esdrae-3.4.61" />Et accepit epistulas, et profectus est in Babyloniam, et venit et nuntiavit fratribus suis omnibus qui fuerunt in Babylonia.<verse eID="esdrae-3.4.61" />
+        <verse sID="esdrae-3.4.62" osisID="esdrae-3.4.62" />Et benedixerunt Deum patrum suorum, quoniam dedit illis remissionem et refrigerium,<verse eID="esdrae-3.4.62" />
+        <verse sID="esdrae-3.4.63" osisID="esdrae-3.4.63" />ut ascenderent et aedificarent Hierusalem et templum, ubi nominatum est nomen eius in ipso. Et exultabant cum musicis et laetitia diebus septem.<verse eID="esdrae-3.4.63" />
+      </p>
+      <chapter eID="esdrae-3.4" />
+      <chapter sID="esdrae-3.5" osisID="esdrae-3.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="esdrae-3.5.1" osisID="esdrae-3.5.1" />Post haec autem electi sunt ut ascenderent principes pagorum domus per tribus suas, et uxores illorum et filii et filiae eorum et servi et ancillae ipsorum et pecora illorum.<verse eID="esdrae-3.5.1" />
+        <verse sID="esdrae-3.5.2" osisID="esdrae-3.5.2" />Et Darius misit una cum eis equites mille, donec deducerent eos in Hierusalem cum pace et cum musicis et cum tympanis et tibiis.<verse eID="esdrae-3.5.2" />
+        <verse sID="esdrae-3.5.3" osisID="esdrae-3.5.3" />Et omnes fratres eorum erant ludentes, et fecit eos ascendere simul cum illis.<verse eID="esdrae-3.5.3" />
+        <verse sID="esdrae-3.5.4" osisID="esdrae-3.5.4" />Et haec sunt nomina virorum qui ascenderunt per pagos suos in tribus et in partem principatus ipsorum.<verse eID="esdrae-3.5.4" />
+        <verse sID="esdrae-3.5.5" osisID="esdrae-3.5.5" />Sacerdotes filii Finees filii Aaron: Iesus filius Iosedech, Ioachim filius Zorobabel illius Salathihel de domo David ex progenie Phares, tribu autem Iuda,<verse eID="esdrae-3.5.5" />
+        <verse sID="esdrae-3.5.6" osisID="esdrae-3.5.6" />qui locutus est sub Dario rege Persarum sermones mirificos, in secundo anno regni ipsius, mense nisan primo.<verse eID="esdrae-3.5.6" />
+        <verse sID="esdrae-3.5.7" osisID="esdrae-3.5.7" />Sunt autem hii qui ex Iudaea ascenderunt de captivitate transmigrationis, quos transmigravit Nabuchodonosor rex Babyloniae in Babyloniam. Et reversus est in Hierusalem<verse eID="esdrae-3.5.7" />
+        <verse sID="esdrae-3.5.8" osisID="esdrae-3.5.8" />et reliquam partem Iudaeae unusquisque in suam civitatem. Qui venerunt cum Zorobabel et Iesu Neemia Sareo Reselimeo Emmanio Mardocheo Beelsuro Mepsato Thorolio Roebo Mauna de principibus eorum.<verse eID="esdrae-3.5.8" />
+        <verse sID="esdrae-3.5.9" osisID="esdrae-3.5.9" />Et numerus ab gentilibus eorum et praepositi eorum: Filii Phares duo milia centum septuaginta duo,<verse eID="esdrae-3.5.9" />
+        <verse sID="esdrae-3.5.10" osisID="esdrae-3.5.10" />filii Ares tria milia quinquaginta septem,<verse eID="esdrae-3.5.10" />
+        <verse sID="esdrae-3.5.11" osisID="esdrae-3.5.11" />filii Femo centum quadraginta duo, in filiis Iesu et Ioab duo milia trecenti duo,<verse eID="esdrae-3.5.11" />
+        <verse sID="esdrae-3.5.12" osisID="esdrae-3.5.12" />filii Demu duo milia quadringenti septuaginta, filii Chorab mille ducenti quinque, filii Baniae sescenti sexaginta octo,<verse eID="esdrae-3.5.12" />
+        <verse sID="esdrae-3.5.13" osisID="esdrae-3.5.13" />filii Bebet quadringenti tres, filii Arcad quadringenti viginti septem,<verse eID="esdrae-3.5.13" />
+        <verse sID="esdrae-3.5.14" osisID="esdrae-3.5.14" />filii Can triginta septem, filii Zoroar duo milia sexaginta sex, filii Adinu quadringenti sexaginta unus,<verse eID="esdrae-3.5.14" />
+        <verse sID="esdrae-3.5.15" osisID="esdrae-3.5.15" />filii Azerectis centum octo, filii Ciaso et Zetas centum septem, filii Azoro quadringenti triginta novem,<verse eID="esdrae-3.5.15" />
+        <verse sID="esdrae-3.5.16" osisID="esdrae-3.5.16" />filii Ebdarbone mille centum triginta duo, filii Ananiae centum triginta, filii Asom<verse eID="esdrae-3.5.16" />
+        <verse sID="esdrae-3.5.17" osisID="esdrae-3.5.17" />filii Marsar trecenti viginti duo, filii Gebbarus nonaginta quinque, filii Sepolemon centum viginti tres,<verse eID="esdrae-3.5.17" />
+        <verse sID="esdrae-3.5.18" osisID="esdrae-3.5.18" />filii ec Nepopas quinquaginta quinque, filii ec Banatus centum quinquaginta octo, filii ec Betamos centum triginta duo,<verse eID="esdrae-3.5.18" />
+        <verse sID="esdrae-3.5.19" osisID="esdrae-3.5.19" />filii ec Cartapatros qui Enocadies et Modiae quadringenti viginti duo, qui ex Gramas et Gabes mille centum viginti unus,<verse eID="esdrae-3.5.19" />
+        <verse sID="esdrae-3.5.20" osisID="esdrae-3.5.20" />qui ex Machaloth centum viginti duo, qui ex Basellon et Ceagge sexaginta quinque, qui ex Bastoro centum viginti duo,<verse eID="esdrae-3.5.20" />
+        <verse sID="esdrae-3.5.21" osisID="esdrae-3.5.21" />qui ex Betonobes quinquaginta quinque, filii Liptis centum quinquaginta quinque, filii Labomu trecenti quinquaginta septem,<verse eID="esdrae-3.5.21" />
+        <verse sID="esdrae-3.5.22" osisID="esdrae-3.5.22" />filii Sioen trecenti septuaginta, filii Saudon et Diomus trecenti septuaginta octo,<verse eID="esdrae-3.5.22" />
+        <verse sID="esdrae-3.5.23" osisID="esdrae-3.5.23" />filii Ericus duo milia centum quadraginta quinque, filii Anaas trecenti septuaginta. Sacerdotes:<verse eID="esdrae-3.5.23" />
+        <verse sID="esdrae-3.5.24" osisID="esdrae-3.5.24" />Filii Ieddus filii Ieu inter filios Eliasib octingenti septuaginta duo, filii Emmerus ducenti quinquaginta duo,<verse eID="esdrae-3.5.24" />
+        <verse sID="esdrae-3.5.25" osisID="esdrae-3.5.25" />filii Fasuru trecenti quinquaginta septem, filii Caree ducenti decem septem.<verse eID="esdrae-3.5.25" />
+        <verse sID="esdrae-3.5.26" osisID="esdrae-3.5.26" />Filii Levitae: Filii Iesu in Caduhel et Banus et Serebias et Edias septuaginta quattuor. Omnis numerus a duodecim annis triginta milia quadringenti sexaginta duo.<verse eID="esdrae-3.5.26" />
+        <verse sID="esdrae-3.5.27" osisID="esdrae-3.5.27" />Filii et filiae et uxores, omnis conputatio quadraginta milia ducenti quadraginta duo.<verse eID="esdrae-3.5.27" />
+        <verse sID="esdrae-3.5.28" osisID="esdrae-3.5.28" />Filii sacerdotes qui psallebant in templo: Filii Asaph centum viginti octo.<verse eID="esdrae-3.5.28" />
+        <verse sID="esdrae-3.5.29" osisID="esdrae-3.5.29" />Ostiarii: Filii Esmemu, filii Ater, filii Amon, filii Accub, Atopa, filii Tobi, omnes centum triginta novem.<verse eID="esdrae-3.5.29" />
+        <verse sID="esdrae-3.5.30" osisID="esdrae-3.5.30" />Sacerdotes servientes in templo: Filii Sel, filii Gasipa, filii Tabloth, filii Cariae, filii Suu, filii Hellu, filii Labana, filii Acmata, filii Acub, filii Uta, filii Ceta, filii Aggab, filii Obai, filii Anan, filii Cavua, filii Geddu,<verse eID="esdrae-3.5.30" />
+        <verse sID="esdrae-3.5.31" osisID="esdrae-3.5.31" />filii Au, filii Radiu, filii Desanum, filii Necoba, filii Caseba, filii Gaze, filii Oziu, filii Finoe, filii Atrem, filii Basten, filii Asiana, filii Manei, filii Nafisim, filii Accufu, filii Agifa, filii Ariu, filii Faricin, filii Fasalom,<verse eID="esdrae-3.5.31" />
+        <verse sID="esdrae-3.5.32" osisID="esdrae-3.5.32" />filii Meedda, filii Fusa, filii Chared, filii Barchus, filii Sarea, filii Toesi, filii Nasit, filii Agifa, filii Pedon.<verse eID="esdrae-3.5.32" />
+        <verse sID="esdrae-3.5.33" osisID="esdrae-3.5.33" />Salomon, filii eius: Filii Asoffot, filii Farida, filii Celi, filii Dedon, filii Geddahel, filii Sefegi,<verse eID="esdrae-3.5.33" />
+        <verse sID="esdrae-3.5.34" osisID="esdrae-3.5.34" />filii Aggia, filii Facaret, filii Sabatham, filii Saronet, filii Malsic, filii Ame, filii Safiu, filii Addus, filii Suba, filii Aeirra, filii Rabocis, filii Safat, filii Malmon.<verse eID="esdrae-3.5.34" />
+        <verse sID="esdrae-3.5.35" osisID="esdrae-3.5.35" />Omnes sacro servientes et pueri Salomonis quadringenti octoginta duo.<verse eID="esdrae-3.5.35" />
+        <verse sID="esdrae-3.5.36" osisID="esdrae-3.5.36" />Hii sunt filii qui ascenderunt a Thermeleth et Thelarsas, princeps eorum Carmellan et Chareth.<verse eID="esdrae-3.5.36" />
+        <verse sID="esdrae-3.5.37" osisID="esdrae-3.5.37" />Non poterant edicere civitates suas et progenies, quemadmodum sint ex Israhel: Filii Dalaru, filii Tubam, filii Necoda mille quinquaginta duo.<verse eID="esdrae-3.5.37" />
+        <verse sID="esdrae-3.5.38" osisID="esdrae-3.5.38" />Et ex sacerdotibus qui fungebantur sacerdotio et non sunt inventi: Filii Obia, filii Achisos, filii Addiu qui accepit Umin uxorem ex filiabus Fargeleu<verse eID="esdrae-3.5.38" />
+        <verse sID="esdrae-3.5.39" osisID="esdrae-3.5.39" />et vocati sunt nomine eius. Et horum quaesita est generis scriptura in pedatura et non est inventa, et prohibiti sunt sacerdotio fungi.<verse eID="esdrae-3.5.39" />
+        <verse sID="esdrae-3.5.40" osisID="esdrae-3.5.40" />Et dixit illis Neemias et Atharas, ne participentur sancta, donec exsurgat pontifex indutus in ostensionem et veritatem.<verse eID="esdrae-3.5.40" />
+        <verse sID="esdrae-3.5.41" osisID="esdrae-3.5.41" />Omnis autem Israhel erant a duodecim annorum, exceptis servis et ancillis, quadraginta duo milia trecenti sexaginta.<verse eID="esdrae-3.5.41" />
+        <verse sID="esdrae-3.5.42" osisID="esdrae-3.5.42" />Servi horum et ancillae septem milia trecenti triginta septem, cantores et cantatrices ducenti sexaginta quinque,<verse eID="esdrae-3.5.42" />
+        <verse sID="esdrae-3.5.43" osisID="esdrae-3.5.43" />cameli quadringenti triginta quinque, equi septem milia triginta sex, muli ducenti quadraginta quinque, subiugalia quinque milia quingenti viginti quinque.<verse eID="esdrae-3.5.43" />
+        <verse sID="esdrae-3.5.44" osisID="esdrae-3.5.44" />Et de praepositis ipsis per pagos, dum venirent in templum Dei quod erat in Hierusalem, vovere suscitare templum in loco suo secundum suam virtutem,<verse eID="esdrae-3.5.44" />
+        <verse sID="esdrae-3.5.45" osisID="esdrae-3.5.45" />et dare in templum thesaurarium operum sacrum, auri minas decem milia et stolas sacerdotales centum.<verse eID="esdrae-3.5.45" />
+        <verse sID="esdrae-3.5.46" osisID="esdrae-3.5.46" />Et inhabitaverunt sacerdotes et Levitae et qui exierant ex plebe in Hierusalem et in regione, et sacri cantores et ostiarii et omnis Israhel in regionibus suis.<verse eID="esdrae-3.5.46" />
+        <verse sID="esdrae-3.5.47" osisID="esdrae-3.5.47" />Instante autem septimo mense cumque essent filii Israhel unusquisque in suis rebus, convenerunt unianimes in atrium quod erat ante ianuam orientalem.<verse eID="esdrae-3.5.47" />
+        <verse sID="esdrae-3.5.48" osisID="esdrae-3.5.48" />Et stantes Iesus filius Iosedech et fratres eius sacerdotes et Zorobabel filius Salathihel et huius fratres paraverunt altare,<verse eID="esdrae-3.5.48" />
+        <verse sID="esdrae-3.5.49" osisID="esdrae-3.5.49" />ut offerrent super illud holocaustomata secundum quae in Moysi libro hominis Dei praescripta sunt.<verse eID="esdrae-3.5.49" />
+        <verse sID="esdrae-3.5.50" osisID="esdrae-3.5.50" />Et convenerunt ipsis ex aliis nationibus terrae. Et erexerunt sacrarium in loco suo omnes gentes terrae, et offerebant hostias et holocaustomata Domino matutina.<verse eID="esdrae-3.5.50" />
+        <verse sID="esdrae-3.5.51" osisID="esdrae-3.5.51" />Et egerunt scenophegiam et diem sollemnem, sicuti praeceptum est in lege, et sacrificia cotidie, sicut oportebat,<verse eID="esdrae-3.5.51" />
+        <verse sID="esdrae-3.5.52" osisID="esdrae-3.5.52" />et post haec oblationes instantiae et hostias sabbatorum et neomeniarum et dierum sollemnium omnium sanctificatorum.<verse eID="esdrae-3.5.52" />
+        <verse sID="esdrae-3.5.53" osisID="esdrae-3.5.53" />Et quotquot vovebant Domino, a neomenia septimi mensis coeperunt offerre hostias Deo. Et templum Domini nondum erat aedificatum.<verse eID="esdrae-3.5.53" />
+        <verse sID="esdrae-3.5.54" osisID="esdrae-3.5.54" />Et dederunt pecuniam lapidariis et fabris, et potum et pabula cum gaudio<verse eID="esdrae-3.5.54" />
+        <verse sID="esdrae-3.5.55" osisID="esdrae-3.5.55" />Sidoniis et Tyriis, ut transveherent illis de Libano trabes cedrinas in Ioppe portum, secundum decretum quod scriptum erat eis a Cyro Persarum rege.<verse eID="esdrae-3.5.55" />
+        <verse sID="esdrae-3.5.56" osisID="esdrae-3.5.56" />Et in secundo anno venientes in templum Dei in Hierusalem, mense secundo inchoavit Zorobabel filius Salathihel et Iesus filius Iosedech et fratres ipsorum et sacerdotes et Levitae et omnes qui advenerant de captivitate in Hierusalem.<verse eID="esdrae-3.5.56" />
+        <verse sID="esdrae-3.5.57" osisID="esdrae-3.5.57" />Et fundaverunt templum Dei novilunio secundi mensis secundi anni, cum venissent in Iudaeam et Hierusalem.<verse eID="esdrae-3.5.57" />
+        <verse sID="esdrae-3.5.58" osisID="esdrae-3.5.58" />Et statuerunt Levitas a viginti annis super opera Domini. Et stetit Iesus et filius eius et fratres … omnes Levitae conspirantes et exsecutores legis et facientes opera in domo Domini. Et fabricaverunt aedificantes templum Dei quod fabricabant.<verse eID="esdrae-3.5.58" />
+        <verse sID="esdrae-3.5.59" osisID="esdrae-3.5.59" />Et steterunt sacerdotes habentes stolas cum tubis, et Levitae filii Asaph habentes cymbala,<verse eID="esdrae-3.5.59" />
+        <verse sID="esdrae-3.5.60" osisID="esdrae-3.5.60" />conlaudantes Dominum et benedicentes secundum David regem Israhel.<verse eID="esdrae-3.5.60" />
+        <verse sID="esdrae-3.5.61" osisID="esdrae-3.5.61" />Et cantabant canticum Domino, quoniam dulcedo eius et honor in saecula super omnem Israhel.<verse eID="esdrae-3.5.61" />
+        <verse sID="esdrae-3.5.62" osisID="esdrae-3.5.62" />Et omnis populus tuba cecinerunt et proclamaverunt voce magna, conlaudantes Dominum in suscitatione domus Domini.<verse eID="esdrae-3.5.62" />
+        <verse sID="esdrae-3.5.63" osisID="esdrae-3.5.63" />Et venerunt ex sacerdotibus et Levitis et praesidentibus secundum pagos senioribus qui viderant pristinam domum,<verse eID="esdrae-3.5.63" />
+        <verse sID="esdrae-3.5.64" osisID="esdrae-3.5.64" />et ad huius aedificationem cum clamore et planctu magno, et multi cum tubis et gaudio magno,<verse eID="esdrae-3.5.64" />
+        <verse sID="esdrae-3.5.65" osisID="esdrae-3.5.65" />in tantum ut populus non audiret tubas propter planctum populi. Turba enim erat tubis canens magnifice, ita ut longe audiretur.<verse eID="esdrae-3.5.65" />
+        <verse sID="esdrae-3.5.66" osisID="esdrae-3.5.66" />Et audierunt inimici tribus Iudae et Beniamin et venerunt scire, quae esset vox tubarum.<verse eID="esdrae-3.5.66" />
+        <verse sID="esdrae-3.5.67" osisID="esdrae-3.5.67" />Et cognoverunt, quoniam qui erant ex captivitate aedificant templum Domino Deo Israhel.<verse eID="esdrae-3.5.67" />
+        <verse sID="esdrae-3.5.68" osisID="esdrae-3.5.68" />Et accedentes ad Zorobabel et Iesum et praepositos pagorum, dixerunt eis: Aedificabimus una vobiscum;<verse eID="esdrae-3.5.68" />
+        <verse sID="esdrae-3.5.69" osisID="esdrae-3.5.69" />similiter enim vobiscum audimus Dominum nostrum, et ipsi incendimus a diebus Asbasareth regis Assyriorum, qui transmigravit nos istinc.<verse eID="esdrae-3.5.69" />
+        <verse sID="esdrae-3.5.70" osisID="esdrae-3.5.70" />Et dixit illis Zorobabel et Iesus et principes pagorum Israhel:<verse eID="esdrae-3.5.70" />
+        <verse sID="esdrae-3.5.71" osisID="esdrae-3.5.71" />Non est vobis et nobis aedificare domum Domini Dei nostri; nos enim soli aedificabimus Domino Israhel, secundum ea quae praecepit nobis Cyrus rex Persarum.<verse eID="esdrae-3.5.71" />
+        <verse sID="esdrae-3.5.72" osisID="esdrae-3.5.72" />Gentes autem terrae incubantes his qui sunt in Iudaea et devastantes opus aedificationis et insidias et populos adducentes, prohibebant eos aedificare,<verse eID="esdrae-3.5.72" />
+        <verse sID="esdrae-3.5.73" osisID="esdrae-3.5.73" />et adgressuras exercentes inpedierunt, ne consummaretur aedificium omni tempore vitae regis Cyri. Et protraxerunt structuram per biennium usque ad Darii regnum.<verse eID="esdrae-3.5.73" />
+      </p>
+      <chapter eID="esdrae-3.5" />
+      <chapter sID="esdrae-3.6" osisID="esdrae-3.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="esdrae-3.6.1" osisID="esdrae-3.6.1" />In secundo autem anno regni Darii prophetavit Aggeus et Zaccharias filius Addin prophetae apud Iudaeam et in Hierusalem in nomine Domini Dei Israhel super eos.<verse eID="esdrae-3.6.1" />
+        <verse sID="esdrae-3.6.2" osisID="esdrae-3.6.2" />Tunc stans Zorobabel filius Salathihel et Iesus filius Iosedech inchoaverunt aedificare domum Domini quae est in Hierusalem,<verse eID="esdrae-3.6.2" />
+        <verse sID="esdrae-3.6.3" osisID="esdrae-3.6.3" />cum adessent eis prophetae Domini et adiuvarent eos. In ipso tempore venit ad illos Sisennes, subregulus Syriae et Foenicis, et Satrabozanes et sodales eius<verse eID="esdrae-3.6.3" />
+        <verse sID="esdrae-3.6.4" osisID="esdrae-3.6.4" />et dixerunt eis: Quo praecipiente vobis domum hanc aedificatis et tectum istud et alia omnia perficitis? Et qui sunt structores qui haec aedificant?<verse eID="esdrae-3.6.4" />
+        <verse sID="esdrae-3.6.5" osisID="esdrae-3.6.5" />Et habuerunt gratiam visitationis factae super eos qui erant ex captivitate a Domino seniores Iudaeorum.<verse eID="esdrae-3.6.5" />
+        <verse sID="esdrae-3.6.6" osisID="esdrae-3.6.6" />Et non sunt inpediti aedificare, donec significaretur Dario de omnibus istis et responsum acciperetur.<verse eID="esdrae-3.6.6" />
+        <verse sID="esdrae-3.6.7" osisID="esdrae-3.6.7" />Exemplum epistulae quam miserunt Dario: Sisennes, subregulus Syriae et Foenicis, et Satrabozanes et sodales eius in Syria et Foenice praesides regi Dario salutem.<verse eID="esdrae-3.6.7" />
+        <verse sID="esdrae-3.6.8" osisID="esdrae-3.6.8" />Omnia nota sint domino nostro regi, quia cum advenissemus in regionem Iudaeae et introissemus in Hierusalem, invenimus Iudaeos aedificantes domum Domini Dei magnam<verse eID="esdrae-3.6.8" />
+        <verse sID="esdrae-3.6.9" osisID="esdrae-3.6.9" />et templum ex lapidibus politis magnis et pretiosis materiis in parietibus;<verse eID="esdrae-3.6.9" />
+        <verse sID="esdrae-3.6.10" osisID="esdrae-3.6.10" />et opera illa instanter fieri, et suffragare et prosperare in manibus eorum, et in omni gloria quam diligentissime perfici.<verse eID="esdrae-3.6.10" />
+        <verse sID="esdrae-3.6.11" osisID="esdrae-3.6.11" />Tunc interrogavimus seniores dicentes: Quo permittente vobis aedificatis domum istam et opera haec fundatis?<verse eID="esdrae-3.6.11" />
+        <verse sID="esdrae-3.6.12" osisID="esdrae-3.6.12" />Ideo autem interrogavimus eos, ut notum faceremus tibi homines et praepositos, et nominum scripturam praepositorum postulavimus illos.<verse eID="esdrae-3.6.12" />
+        <verse sID="esdrae-3.6.13" osisID="esdrae-3.6.13" />At illi responderunt nobis dicentes: Nos sumus servi Domini, qui fecit caelum et terram.<verse eID="esdrae-3.6.13" />
+        <verse sID="esdrae-3.6.14" osisID="esdrae-3.6.14" />Et aedificabatur haec domus ante istos annos multos a rege Israhel magno et fortissimo et consummata est.<verse eID="esdrae-3.6.14" />
+        <verse sID="esdrae-3.6.15" osisID="esdrae-3.6.15" />Et quoniam patres nostri exacerbantes erant, peccaverunt in Dominum Israhel, tradidit eos in manus Nabuchodonosor regis Babyloniae, regis Chaldeorum.<verse eID="esdrae-3.6.15" />
+        <verse sID="esdrae-3.6.16" osisID="esdrae-3.6.16" />Et domum istam demolientes incenderunt et populum captivum duxerunt in Babyloniam.<verse eID="esdrae-3.6.16" />
+        <verse sID="esdrae-3.6.17" osisID="esdrae-3.6.17" />In primo autem anno regnante Cyro in regione Babyloniae, scripsit Cyrus rex domum hanc aedificare.<verse eID="esdrae-3.6.17" />
+        <verse sID="esdrae-3.6.18" osisID="esdrae-3.6.18" />Et illa sacra vasa aurea et argentea, quae extulerat Nabuchodonosor de domo quae est in Hierusalem et consecraverat ea in suo templo, rursus protulit ea Cyrus rex de templo quod erat in Babylonia, et tradita sunt Zorobabel et Salamanassaro subregulo.<verse eID="esdrae-3.6.18" />
+        <verse sID="esdrae-3.6.19" osisID="esdrae-3.6.19" />Et praeceptum est eis, ut ferrent haec vasa et reponerent in templo quod erat in Hierusalem, et templum ipsum Domini aedificare in loco suo.<verse eID="esdrae-3.6.19" />
+        <verse sID="esdrae-3.6.20" osisID="esdrae-3.6.20" />Tunc Salamanassarus subiecit fundamenta domus Domini quae est in Hierusalem, et exinde usque nunc aedificatur et non accepit consummationem.<verse eID="esdrae-3.6.20" />
+        <verse sID="esdrae-3.6.21" osisID="esdrae-3.6.21" />Nunc ergo si hoc iudicatur, rex, perquiratur in regalibus bibliothecis Cyri regis quae sunt in Babylonia.<verse eID="esdrae-3.6.21" />
+        <verse sID="esdrae-3.6.22" osisID="esdrae-3.6.22" />Et si inventum fuerit consilio Cyri regis coeptam esse structuram domus Domini quae est in Hierusalem, et iudicabitur a domino rege nostro, scribat de his nobis.<verse eID="esdrae-3.6.22" />
+        <verse sID="esdrae-3.6.23" osisID="esdrae-3.6.23" />Tunc rex Darius praecepit inquiri in bibliothecis quae erant in Babylonia, et inventus est in Ecbathanis, oppido quod est in Media regione, locus unus in quo scripta erant ista:<verse eID="esdrae-3.6.23" />
+        <verse sID="esdrae-3.6.24" osisID="esdrae-3.6.24" />Anno primo regnante Cyro, rex Cyrus praecepit domum Domini quae est in Hierusalem aedificare, ubi incendebant igni adsiduo;<verse eID="esdrae-3.6.24" />
+        <verse sID="esdrae-3.6.25" osisID="esdrae-3.6.25" />cuius altitudo sit cubitorum sexaginta, et latitudo cubitorum sexaginta, quadratum lapidibus politis tribus, et meniano ligneo eiusdem regionis et meniano uno novo; et inpendia dari de domo Cyri regis;<verse eID="esdrae-3.6.25" />
+        <verse sID="esdrae-3.6.26" osisID="esdrae-3.6.26" />et sacra vasa domus Domini tam aurea quam argentea, quae extulit Nabuchodonosor de domo quae erat in Hierusalem in Babyloniam, restitui in domum quae est in Hierusalem ubi erant posita ut ponantur illic.<verse eID="esdrae-3.6.26" />
+        <verse sID="esdrae-3.6.27" osisID="esdrae-3.6.27" />Et praecepit curam agere Sisennem, subregulum Syriae et Foenices, et Satrabozanen et sodales eius et qui ordinati erant in Syria et Foenice praesides, ut abstinerent se ab eodem loco; sinere autem puerum Domini Zorobabel et subregulum Iudaeae et seniores Iudaeorum domum Domini illam aedificare eodem loco.<verse eID="esdrae-3.6.27" />
+        <verse sID="esdrae-3.6.28" osisID="esdrae-3.6.28" />Et ego quoque praecepi in totum aedificare et prospici, ut adiuvent eos qui sunt ex captivitate Iudaeorum, donec consummetur templum aedis Domini;<verse eID="esdrae-3.6.28" />
+        <verse sID="esdrae-3.6.29" osisID="esdrae-3.6.29" />et ab exactione tributorum Syriae Coeles et Foenicis diligenter quantitatem dari his hominibus ad sacrificium Domini, Zorobabel praefecto, ad tauros et arietes et agnos,<verse eID="esdrae-3.6.29" />
+        <verse sID="esdrae-3.6.30" osisID="esdrae-3.6.30" />similiter autem et frumentum et sal et vinum et oleum instanter per singulos annos, prout sacerdotes qui sunt in Hierusalem dictaverunt consumi cotidie sine ulla dilatione,<verse eID="esdrae-3.6.30" />
+        <verse sID="esdrae-3.6.31" osisID="esdrae-3.6.31" />ut offerantur libationes Deo summo pro rege et pueris eius, et orent pro ipsorum vita.<verse eID="esdrae-3.6.31" />
+        <verse sID="esdrae-3.6.32" osisID="esdrae-3.6.32" />Et denuntietur ut quicumque transgressi fuerint aliquid ex his quae scripta sunt aut spreverint, accipiatur lignum de suis propriis et super hoc suspendantur, et bona ipsorum regi adscribantur.<verse eID="esdrae-3.6.32" />
+        <verse sID="esdrae-3.6.33" osisID="esdrae-3.6.33" />Propterea et Dominus, cuius nomen invocatum est ibi, exterminet omnem regem et gentem qui manum suam extenderit prohibere aut male tractare domum Domini illam quae est in Hierusalem.<verse eID="esdrae-3.6.33" />
+        <verse sID="esdrae-3.6.34" osisID="esdrae-3.6.34" />Ego Darius rex decrevi quam diligentissime secundum haec fieri.<verse eID="esdrae-3.6.34" />
+      </p>
+      <chapter eID="esdrae-3.6" />
+      <chapter sID="esdrae-3.7" osisID="esdrae-3.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="esdrae-3.7.1" osisID="esdrae-3.7.1" />Tunc Sisennes, subregulus Coelensyriae et Foenicen, et Satrabozanes et sodales eius obsecuti his quae a Dario rege decreta erant,<verse eID="esdrae-3.7.1" />
+        <verse sID="esdrae-3.7.2" osisID="esdrae-3.7.2" />insistebant sacrosanctis operibus diligentissime cooperantes cum senioribus Iudaeorum, principibus Syriae.<verse eID="esdrae-3.7.2" />
+        <verse sID="esdrae-3.7.3" osisID="esdrae-3.7.3" />Et prosperata sunt sacrosancta opera prophetantibus Aggeo et Zaccharia prophetis.<verse eID="esdrae-3.7.3" />
+        <verse sID="esdrae-3.7.4" osisID="esdrae-3.7.4" />Et consummaverunt ea per praeceptum Domini Dei Israhel et ex consilio Cyri et Darii et Artaxersis regis Persarum.<verse eID="esdrae-3.7.4" />
+        <verse sID="esdrae-3.7.5" osisID="esdrae-3.7.5" />Et consummata est domus sancta usque ad tertiam et vicesimam diem mensis adar, sexto anno Darii regis.<verse eID="esdrae-3.7.5" />
+        <verse sID="esdrae-3.7.6" osisID="esdrae-3.7.6" />Et fecerunt filii Israhel et sacerdotes et Levitae et ceteri qui erant ex captivitate, qui adpositi sunt, secundum ea quae scripta sunt in libro Moysi.<verse eID="esdrae-3.7.6" />
+        <verse sID="esdrae-3.7.7" osisID="esdrae-3.7.7" />Et obtulerunt in dedicatione templi Domini tauros centum, arietes ducentos, agnos quadringentos,<verse eID="esdrae-3.7.7" />
+        <verse sID="esdrae-3.7.8" osisID="esdrae-3.7.8" />et hedos pro peccatis universi Israhel duodecim secundum numerum tribuum Israhel.<verse eID="esdrae-3.7.8" />
+        <verse sID="esdrae-3.7.9" osisID="esdrae-3.7.9" />Et steterunt sacerdotes et Levitae amicti stolis per tribus super opera Domini Dei Israhel secundum librum Moysi, et ostiarii per singulas ianuas.<verse eID="esdrae-3.7.9" />
+        <verse sID="esdrae-3.7.10" osisID="esdrae-3.7.10" />Et egerunt filii Israhel cum his qui erant ex captivitate illud phase quartadecima luna mensis primi, quando sanctificati sunt sacerdotes et Levitae.<verse eID="esdrae-3.7.10" />
+        <verse sID="esdrae-3.7.11" osisID="esdrae-3.7.11" />Et omnes filii captivitatis non sunt simul sanctificati, quia Levitae simul omnes sanctificati sunt<verse eID="esdrae-3.7.11" />
+        <verse sID="esdrae-3.7.12" osisID="esdrae-3.7.12" />et immolaverunt phase universis filiis captivitatis et fratribus suis sacerdotibus et sibimet ipsis.<verse eID="esdrae-3.7.12" />
+        <verse sID="esdrae-3.7.13" osisID="esdrae-3.7.13" />Et manducaverunt filii Israhel qui erant ex captivitate, omnes qui recesserant ab omnibus execrationibus gentium terrae quaerentes Dominum,<verse eID="esdrae-3.7.13" />
+        <verse sID="esdrae-3.7.14" osisID="esdrae-3.7.14" />et celebraverunt diem festum azymorum septem diebus, epulantes in conspectu Domini,<verse eID="esdrae-3.7.14" />
+        <verse sID="esdrae-3.7.15" osisID="esdrae-3.7.15" />quoniam convertit consilium regis Assyriorum in eis, confortare manus eorum ad opera manus Domini Dei Israhel.<verse eID="esdrae-3.7.15" />
+      </p>
+      <chapter eID="esdrae-3.7" />
+      <chapter sID="esdrae-3.8" osisID="esdrae-3.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="esdrae-3.8.1" osisID="esdrae-3.8.1" />Et post hunc regnante Artaxerse Persarum rege, accessit Ezras filius Azariae, filii Helciae, filii Saleme,<verse eID="esdrae-3.8.1" />
+        <verse sID="esdrae-3.8.2" osisID="esdrae-3.8.2" />filii Sadduc, filii Achitob, filii Ameri, filii Azaei, filii Boccae, filii Abisaei, filii Finees, filii Eleazari, filii Aaron primi sacerdotis.<verse eID="esdrae-3.8.2" />
+        <verse sID="esdrae-3.8.3" osisID="esdrae-3.8.3" />Hic Ezras ascendit de Babylonia, cum esset scriba et ingeniosus in lege Moysi, quae data est a Domino Israhel dicere et facere.<verse eID="esdrae-3.8.3" />
+        <verse sID="esdrae-3.8.4" osisID="esdrae-3.8.4" />Et dedit ei rex gloriam, quod invenisset gratiam in omni dignitate et desiderio in conspectu eius.<verse eID="esdrae-3.8.4" />
+        <verse sID="esdrae-3.8.5" osisID="esdrae-3.8.5" />Et ascenderunt simul cum ipso ex filiis Israhel et sacerdotibus et Levitis et sacris cantoribus templi et ostiariis et servis templi in Hierusalem,<verse eID="esdrae-3.8.5" />
+        <verse sID="esdrae-3.8.6" osisID="esdrae-3.8.6" />anno septimo regnante Artaxerse, in quinto mense; hic annus septimus est regni. Exeuntes enim de Babylonia novilunio quinti mensis,<verse eID="esdrae-3.8.6" />
+        <verse sID="esdrae-3.8.7" osisID="esdrae-3.8.7" />venerunt Hierosolymam iuxta praebitam illis prosperitatem itineris a Domino ipso.<verse eID="esdrae-3.8.7" />
+        <verse sID="esdrae-3.8.8" osisID="esdrae-3.8.8" />In his enim Ezras magnam disciplinam obtinebat, ne praetermitteret quicquam eorum quae essent ex lege Domini et praeceptis, et docendo universum Israhel omnem iustitiam et iudicia.<verse eID="esdrae-3.8.8" />
+        <verse sID="esdrae-3.8.9" osisID="esdrae-3.8.9" />Accedentes autem qui scribebant scripta Artaxersis regis, tradiderunt scriptum quod obvenerat ab Artaxerse rege ad Ezram sacerdotem et lectorem legis Domini; cuius est exemplum subiectum:<verse eID="esdrae-3.8.9" />
+        <verse sID="esdrae-3.8.10" osisID="esdrae-3.8.10" />Rex Artaxerses Ezrae sacerdoti et lectori legis Domini salutem.<verse eID="esdrae-3.8.10" />
+        <verse sID="esdrae-3.8.11" osisID="esdrae-3.8.11" />Humaniora ego iudicans etiam beneficiis, praecepi eos qui desiderant ex gente Iudaeorum sua sponte et ex sacerdotibus et Levitis qui sunt in regno meo comitari tecum in Hierusalem.<verse eID="esdrae-3.8.11" />
+        <verse sID="esdrae-3.8.12" osisID="esdrae-3.8.12" />Si qui ergo cupiunt ire tecum, conveniant et proficiscantur, sicut placuit mihi et septem amicis meis consiliariis,<verse eID="esdrae-3.8.12" />
+        <verse sID="esdrae-3.8.13" osisID="esdrae-3.8.13" />ut visitent ea quae aguntur secundum Iudaeam et Hierusalem observantes sicut habes in lege Domini,<verse eID="esdrae-3.8.13" />
+        <verse sID="esdrae-3.8.14" osisID="esdrae-3.8.14" />et ferant munera Domino Israhel, quae vovi ego et amici, Hierusalem et omne aurum et argentum, quod inventum fuerit in regione Babyloniae, Domino in Hierusalem cum illo,<verse eID="esdrae-3.8.14" />
+        <verse sID="esdrae-3.8.15" osisID="esdrae-3.8.15" />quod donatum est pro ipsa gente in templum Domini eorum quod est in Hierusalem, ut colligatur hoc aurum et argentum ad tauros et arietes et agnos et hedos et quae his sunt congruentia,<verse eID="esdrae-3.8.15" />
+        <verse sID="esdrae-3.8.16" osisID="esdrae-3.8.16" />ut offerant hostias Domino super altare Domini ipsorum quod est in Hierusalem.<verse eID="esdrae-3.8.16" />
+        <verse sID="esdrae-3.8.17" osisID="esdrae-3.8.17" />Et omnia quaecumque volueris cum fratribus tuis facere auro et argento, perfice pro voluntate secundum praeceptum Domini Dei tui.<verse eID="esdrae-3.8.17" />
+        <verse sID="esdrae-3.8.18" osisID="esdrae-3.8.18" />Et sacrosancta vasa, quae data sunt tibi ad opera domus Domini Dei tui qui est in Hierusalem,<verse eID="esdrae-3.8.18" />
+        <verse sID="esdrae-3.8.19" osisID="esdrae-3.8.19" />et cetera, quaecumque tibi subvenerint ad operam templi Dei tui, dabis de regali gazofilacio.<verse eID="esdrae-3.8.19" />
+        <verse sID="esdrae-3.8.21" osisID="esdrae-3.8.21" />Et ego quidem rex Artaxerses praecepi custodibus thesaurorum Syriae et Foenicis, ut quaecumque scripserit Ezras sacerdos et lector legis Domini excelsi, diligenter detur ei usque ad argenti talenta centum, similiter autem<verse eID="esdrae-3.8.21" />
+        <verse sID="esdrae-3.8.22" osisID="esdrae-3.8.22" />et usque ad frumenti modios centum et vini amphoras centum, et alia quaecumque abundant sine taxatione.<verse eID="esdrae-3.8.22" />
+        <verse sID="esdrae-3.8.23" osisID="esdrae-3.8.23" />Omnia secundum Dei legem fiant Deo altissimo, ne qua forte exsurgat ira in regno regis et filiorum eius.<verse eID="esdrae-3.8.23" />
+        <verse sID="esdrae-3.8.24" osisID="esdrae-3.8.24" />Vobis autem dicitur, ut omnibus sacerdotibus et Levitis et sacris cantoribus templi et ianitoribus et servis templi et scribis templi huius<verse eID="esdrae-3.8.24" />
+        <verse sID="esdrae-3.8.25" osisID="esdrae-3.8.25" />nullum tributum neque ulla alia indictio inrogetur, nec habeat quisque potestatem obicere eis quicquam.<verse eID="esdrae-3.8.25" />
+        <verse sID="esdrae-3.8.26" osisID="esdrae-3.8.26" />Tu autem Ezras, secundum sapientiam Dei constitue iudices et arbitros in tota Syria et Foenice, et omnes qui legem Dei tui noverunt docebis,<verse eID="esdrae-3.8.26" />
+        <verse sID="esdrae-3.8.27" osisID="esdrae-3.8.27" />ut quotquot transgressi fuerint legem, diligenter plectantur sive morte sive cruciatu sive etiam pecuniae multatione vel abductione.<verse eID="esdrae-3.8.27" />
+        <verse sID="esdrae-3.8.28" osisID="esdrae-3.8.28" />Et dixit Ezras scriba: Benedictus Dominus patrum meorum, qui dedit haec in cor regis, clarificare domum suam quae est in Hierusalem,<verse eID="esdrae-3.8.28" />
+        <verse sID="esdrae-3.8.29" osisID="esdrae-3.8.29" />et me honorificavit in conspectu regis et consiliariorum et amicorum eius et purpuratorum eius.<verse eID="esdrae-3.8.29" />
+        <verse sID="esdrae-3.8.30" osisID="esdrae-3.8.30" />Et ego constans animo factus sum secundum opitulationem Domini Dei mei, et congregavi ex Israhel viros, ut simul ascenderent mecum.<verse eID="esdrae-3.8.30" />
+        <verse sID="esdrae-3.8.31" osisID="esdrae-3.8.31" />Et hii sunt praepositi secundum suas patrias et principatus portionales eorum, qui mecum ascenderunt de Babylonia in regno Artaxersis regis:<verse eID="esdrae-3.8.31" />
+        <verse sID="esdrae-3.8.32" osisID="esdrae-3.8.32" />Ex filiis Phares Gersomus, ex filiis Iemarut Amielus, filiorum David Attus filius Seceliae,<verse eID="esdrae-3.8.32" />
+        <verse sID="esdrae-3.8.33" osisID="esdrae-3.8.33" />ex filiis Phares Zaccharias et cum eo reversi sunt viri centum quinquaginta,<verse eID="esdrae-3.8.33" />
+        <verse sID="esdrae-3.8.34" osisID="esdrae-3.8.34" />ex filiis ductoris Moab Ilionas Zaraei et cum ipso viri ducenti,<verse eID="esdrae-3.8.34" />
+        <verse sID="esdrae-3.8.35" osisID="esdrae-3.8.35" />ex filiis Zathues Iechonias Zetheeli et cum ipso viri ducenti, ex filiis Addeni filius Ionathae et cum ipso viri ducenti quinquaginta,<verse eID="esdrae-3.8.35" />
+        <verse sID="esdrae-3.8.36" osisID="esdrae-3.8.36" />ex filiis Olam Aesias Gotholiae et cum ipso viri septuaginta,<verse eID="esdrae-3.8.36" />
+        <verse sID="esdrae-3.8.37" osisID="esdrae-3.8.37" />ex filiis Safatiae Zarias Micheli et cum ipso viri octoginta,<verse eID="esdrae-3.8.37" />
+        <verse sID="esdrae-3.8.38" osisID="esdrae-3.8.38" />ex filiis Iob Abdias Iezeli et cum ipso viri ducenti duodecim,<verse eID="esdrae-3.8.38" />
+        <verse sID="esdrae-3.8.39" osisID="esdrae-3.8.39" />ex filiis Baniae Salimoth filius Iosaphiae et cum ipso viri centum sexaginta,<verse eID="esdrae-3.8.39" />
+        <verse sID="esdrae-3.8.40" osisID="esdrae-3.8.40" />ex filiis Beer Zaccharias Bebei et cum ipso viri ducenti octo,<verse eID="esdrae-3.8.40" />
+        <verse sID="esdrae-3.8.41" osisID="esdrae-3.8.41" />ex filiis Asath Iochannes Acariae et cum ipso viri centum decem;<verse eID="esdrae-3.8.41" />
+        <verse sID="esdrae-3.8.42" osisID="esdrae-3.8.42" />ex filiis Adonicam ipsis postremis, et haec sunt nomina eorum: Elifalam filius Iebel et Sameas et cum ipso viri septuaginta, ex filiis Baneae filius Zaccuri et cum ipso viri septuaginta.<verse eID="esdrae-3.8.42" />
+        <verse sID="esdrae-3.8.43" osisID="esdrae-3.8.43" />Et congregavi eos ad fluvium qui dicitur Thia, et metati illic sumus triduo, et recognovi eos.<verse eID="esdrae-3.8.43" />
+        <verse sID="esdrae-3.8.44" osisID="esdrae-3.8.44" />Et ex filiis sacerdotum et Levitarum non inveni illic.<verse eID="esdrae-3.8.44" />
+        <verse sID="esdrae-3.8.45" osisID="esdrae-3.8.45" />Et misi ad Eleazarum et Eccelom et Masman et Maloban et Enaatam et Sameam et Ioribum Natham Ennagan Zacchariam et Mosolamun, ipsos ductores et peritos.<verse eID="esdrae-3.8.45" />
+        <verse sID="esdrae-3.8.46" osisID="esdrae-3.8.46" />Et dixi eis ut venirent ad Luddeum ductorem, qui erat apud locum gazofilacii.<verse eID="esdrae-3.8.46" />
+        <verse sID="esdrae-3.8.47" osisID="esdrae-3.8.47" />Et mandavi eis ut dicerent Luddeo et fratribus eius et illis qui erant in gazofilacio, ut mitterent nobis eos qui sacerdotio fungerentur in domo Domini Dei nostri.<verse eID="esdrae-3.8.47" />
+        <verse sID="esdrae-3.8.48" osisID="esdrae-3.8.48" />Et adduxerunt nobis secundum manum validam Domini Dei nostri viros peritos ex filiis Moolli filii Levi filii Israhel, Sebebian et filios et fratres qui erant decem et octo,<verse eID="esdrae-3.8.48" />
+        <verse sID="esdrae-3.8.49" osisID="esdrae-3.8.49" />Asbian et Annun ex filiis filiorum Chananei et filii eorum viri viginti;<verse eID="esdrae-3.8.49" />
+        <verse sID="esdrae-3.8.50" osisID="esdrae-3.8.50" />et ex his qui in templo serviebant, quos dedit David et ipsi principes ad operationem Levitis, templo servientium ducenti viginti. Omnium nomina significata sunt in scripturis.<verse eID="esdrae-3.8.50" />
+        <verse sID="esdrae-3.8.51" osisID="esdrae-3.8.51" />Et vovi illic ieiunium iuvenibus in conspectu Domini Dei nostri, ut quaererem ab eo bonum iter nobis et qui nobiscum erant ex filiis et pecoribus propter insidias.<verse eID="esdrae-3.8.51" />
+        <verse sID="esdrae-3.8.52" osisID="esdrae-3.8.52" />Erubui enim petere regem pedites et equites in comitatu, tutelae gratia contra adversarios nostros.<verse eID="esdrae-3.8.52" />
+        <verse sID="esdrae-3.8.53" osisID="esdrae-3.8.53" />Diximus enim regi, quoniam virtus Domini erit cum eis qui inquirunt eum in omni adfectu.<verse eID="esdrae-3.8.53" />
+        <verse sID="esdrae-3.8.54" osisID="esdrae-3.8.54" />Et iterum deprecati sumus Dominum Deum nostrum secundum haec, quem et propitium habuimus, et conpotes facti sumus Domini nostri.<verse eID="esdrae-3.8.54" />
+        <verse sID="esdrae-3.8.55" osisID="esdrae-3.8.55" />Et separavi ex plebis praepositis et sacerdotibus templi viros duodecim, et Sedebian et Asamian et cum eis ex fratribus eorum viros decem.<verse eID="esdrae-3.8.55" />
+        <verse sID="esdrae-3.8.56" osisID="esdrae-3.8.56" />Et adpendi eis argentum et aurum et vasa sacerdotalia domus Domini Dei nostri, quae donaverat rex et consiliarii eius et principes et omnis Israhel.<verse eID="esdrae-3.8.56" />
+        <verse sID="esdrae-3.8.57" osisID="esdrae-3.8.57" />Et cum adpendissem, tradidi argenti talenta centum quinquaginta et vasa argentea talentorum centum et auri talenta centum<verse eID="esdrae-3.8.57" />
+        <verse sID="esdrae-3.8.58" osisID="esdrae-3.8.58" />et vasorum aureorum species viginti et vasa aerea de bono aeramento splendentia duodecim auri speciem reddentia.<verse eID="esdrae-3.8.58" />
+        <verse sID="esdrae-3.8.59" osisID="esdrae-3.8.59" />Et dixi eis: Et vos sancti estis Domino, et vasa quae sunt sancta et aurum et argentum votum est Domino Deo patrum nostrorum.<verse eID="esdrae-3.8.59" />
+        <verse sID="esdrae-3.8.60" osisID="esdrae-3.8.60" />Vigilate et custodite, donec tradatis ex plebis praepositis et sacerdotibus et Levitis et principibus civitatum Israhel in Hierusalem in pastoforio domus Domini Dei nostri.<verse eID="esdrae-3.8.60" />
+        <verse sID="esdrae-3.8.61" osisID="esdrae-3.8.61" />Et hii qui susceperunt sacerdotes et Levitae aurum et argentum et vasa quae erant in Hierusalem intulerunt in templum Domini.<verse eID="esdrae-3.8.61" />
+        <verse sID="esdrae-3.8.62" osisID="esdrae-3.8.62" />Et promovimus a fluvio Thia die duodecima mensis primi, usquequo introivimus in Hierusalem secundum potentem manum Domini Dei nostri, quae super nos erat et liberavit nos ab omnibus inimicis nostris; et venimus in Hierusalem.<verse eID="esdrae-3.8.62" />
+        <verse sID="esdrae-3.8.63" osisID="esdrae-3.8.63" />Et cum factus fuisset tertius dies, quarta autem die ponderatum aurum et argentum traditum est in domo Domini Dei nostri Marimoth filio Iori sacerdoti.<verse eID="esdrae-3.8.63" />
+        <verse sID="esdrae-3.8.64" osisID="esdrae-3.8.64" />Et cum ipso erat Eleazar filius Finees, et erant cum ipsis Iosabdus filius Iesu et Moedias Banni filius Levitae. Ad numerum et ad pondus universa<verse eID="esdrae-3.8.64" />
+        <verse sID="esdrae-3.8.65" osisID="esdrae-3.8.65" />et scriptum est pondus ipsorum eadem hora.<verse eID="esdrae-3.8.65" />
+        <verse sID="esdrae-3.8.66" osisID="esdrae-3.8.66" />Qui autem venerunt ex captivitate, obtulerunt sacrificium Domini Israhel tauros duodecim pro omni Israhel, arietes octoginta sex,<verse eID="esdrae-3.8.66" />
+        <verse sID="esdrae-3.8.67" osisID="esdrae-3.8.67" />agnos septuaginta duos, hircos pro peccato duodecim, et pro salute vaccas duodecim, omnia sacrificium Domini.<verse eID="esdrae-3.8.67" />
+        <verse sID="esdrae-3.8.68" osisID="esdrae-3.8.68" />Et relegerunt praecepta regis regalibus dispensatoribus et subregulis Coelensyriae et Foenicis, et honorificaverunt gentem et templum Domini.<verse eID="esdrae-3.8.68" />
+        <verse sID="esdrae-3.8.69" osisID="esdrae-3.8.69" />Et consummatis his accesserunt ad me praepositi dicentes: Non segregaverunt genus Israhel et principes et sacerdotes et Levitae<verse eID="esdrae-3.8.69" />
+        <verse sID="esdrae-3.8.70" osisID="esdrae-3.8.70" />et alienigenae gentes et nationes terrae inmunditias suas a Chananeis et Hettheis et Ferezeis et Iebuseis et Moabitis et Aegyptiis et Idumeis.<verse eID="esdrae-3.8.70" />
+        <verse sID="esdrae-3.8.71" osisID="esdrae-3.8.71" />Coniuncti enim sunt filiabus eorum et ipsi et filii eorum, et commixtum est semen sanctum alienigenis gentibus terrae; et participes erant praepositi et magistratus iniquitatis huius ab initio ipsius rei.<verse eID="esdrae-3.8.71" />
+        <verse sID="esdrae-3.8.72" osisID="esdrae-3.8.72" />Et mox ut audivi ista, conscidi vestimenta et sacram tunicam, et lacerans capillos capitis et barbam sedi dolens et maestus.<verse eID="esdrae-3.8.72" />
+        <verse sID="esdrae-3.8.73" osisID="esdrae-3.8.73" />Et convenerunt ad me quotquot tunc movebantur in verbo Domini Dei Israhel, me lugente super iniquitatem istam. Et sedebam tristis usque ad vespertinum sacrificium.<verse eID="esdrae-3.8.73" />
+        <verse sID="esdrae-3.8.74" osisID="esdrae-3.8.74" />Et surgens a ieiunio, conscissa habens vestimenta et sacram tunicam, ingeniculans et extendens manus ad Dominum<verse eID="esdrae-3.8.74" />
+        <verse sID="esdrae-3.8.75" osisID="esdrae-3.8.75" />dicebam: Domine, confusus sum et reveritus sum ante faciem tuam.<verse eID="esdrae-3.8.75" />
+        <verse sID="esdrae-3.8.76" osisID="esdrae-3.8.76" />Peccata enim nostra multiplicata sunt super capita nostra, et iniquitates nostrae exaltatae sunt usque ad caelum,<verse eID="esdrae-3.8.76" />
+        <verse sID="esdrae-3.8.77" osisID="esdrae-3.8.77" />quoniam a temporibus patrum nostrorum sumus in magno peccato usque in hunc diem.<verse eID="esdrae-3.8.77" />
+        <verse sID="esdrae-3.8.78" osisID="esdrae-3.8.78" />Et propter peccata nostra et patrum nostrorum sumus traditi cum fratribus nostris et cum sacerdotibus nostris regibus terrae in gladium et captivitatem et depraedationem cum confusione usque in hodiernum diem.<verse eID="esdrae-3.8.78" />
+        <verse sID="esdrae-3.8.79" osisID="esdrae-3.8.79" />Et nunc quantum est quod contigit nobis misericordia abs te, Domine Deus, derelinquere nobis radicem et nomen in locum sanctificationis tuae,<verse eID="esdrae-3.8.79" />
+        <verse sID="esdrae-3.8.80" osisID="esdrae-3.8.80" />detegere luminare nostrum in domo Domini Dei nostri, dare nobis cibum in tempore servitutis nostrae.<verse eID="esdrae-3.8.80" />
+        <verse sID="esdrae-3.8.81" osisID="esdrae-3.8.81" />Et cum serviremus, non sumus derelicti a Domino Deo nostro, sed constituit nos in gratia penes reges Persarum, dare nobis cibum<verse eID="esdrae-3.8.81" />
+        <verse sID="esdrae-3.8.82" osisID="esdrae-3.8.82" />et clarificare templum Domini nostri et aedificare deserta Sion, dare nobis stabilitatem in Iudaea et in Hierusalem.<verse eID="esdrae-3.8.82" />
+        <verse sID="esdrae-3.8.83" osisID="esdrae-3.8.83" />Et nunc quid dicemus, Domine, habentes haec? Transgressi enim sumus praecepta tua, quae dedisti in manus puerorum tuorum prophetarum<verse eID="esdrae-3.8.83" />
+        <verse sID="esdrae-3.8.84" osisID="esdrae-3.8.84" />dicens quoniam terra, in quam introistis possidere hereditatem eius, terra polluta est coinquinationibus alienigenarum terrae, et inmunditiae illorum repleverunt eam totam inmunditia sua.<verse eID="esdrae-3.8.84" />
+        <verse sID="esdrae-3.8.85" osisID="esdrae-3.8.85" />Et nunc filias vestras non coniungetis filiis illorum, et filias eorum non accipietis filiis vestris.<verse eID="esdrae-3.8.85" />
+        <verse sID="esdrae-3.8.86" osisID="esdrae-3.8.86" />Et non inquiretis pacem habere cum illis omni tempore, ut invalescentes manducetis optima terrae, et hereditatem distribuatis filiis vestris usque in aevum.<verse eID="esdrae-3.8.86" />
+        <verse sID="esdrae-3.8.87" osisID="esdrae-3.8.87" />Et quae contingunt nobis, omnia fiunt propter opera nostra maligna et magna peccata nostra.<verse eID="esdrae-3.8.87" />
+        <verse sID="esdrae-3.8.88" osisID="esdrae-3.8.88" />Et dedisti nobis talem radicem, et rursum reversi sumus transgredi legitima tua, uti commisceremur inmunditiae alienigenarum gentium terrae huius.<verse eID="esdrae-3.8.88" />
+        <verse sID="esdrae-3.8.89" osisID="esdrae-3.8.89" />Nonne irasceris nobis perdere nos, quoadusque non relinquatur radix et nomen nostrum?<verse eID="esdrae-3.8.89" />
+        <verse sID="esdrae-3.8.90" osisID="esdrae-3.8.90" />Domine Deus Israhel, verax es; derelicta enim est radix usque in hodiernum diem.<verse eID="esdrae-3.8.90" />
+        <verse sID="esdrae-3.8.91" osisID="esdrae-3.8.91" />Ecce nunc sumus in conspectu tuo in iniquitatibus nostris; non est enim adhuc stare ante te in his.<verse eID="esdrae-3.8.91" />
+        <verse sID="esdrae-3.8.92" osisID="esdrae-3.8.92" />Et cum adorando confiteretur Ezras flens humi prostratus ante templum, congregati sunt ante eum ex Hierusalem turba magna valde, viri et mulieres et iuvenes et iuvenculae. Fletus enim erat magnus in ipsa multitudine.<verse eID="esdrae-3.8.92" />
+        <verse sID="esdrae-3.8.93" osisID="esdrae-3.8.93" />Et cum clamasset Iechonias Ieeli ex filiis Israhel, dixit Ezrae: Nos in Dominum peccavimus, quod conlocavimus nobis in matrimonium mulieres alienigenas ex gentibus terrae.<verse eID="esdrae-3.8.93" />
+        <verse sID="esdrae-3.8.94" osisID="esdrae-3.8.94" />Et nunc est super omnem Israhel. In his ergo sit iusiurandum ad Dominum, expellere omnes uxores nostras quae ex alienigenis sunt cum filiis earum,<verse eID="esdrae-3.8.94" />
+        <verse sID="esdrae-3.8.95" osisID="esdrae-3.8.95" />sicut tibi decretum est a maioribus secundum legem Domini. Exsurgens explica,<verse eID="esdrae-3.8.95" />
+        <verse sID="esdrae-3.8.96" osisID="esdrae-3.8.96" />ad te enim spectat hoc negotium, et nos tecum sumus. Viriliter fac.<verse eID="esdrae-3.8.96" />
+        <verse sID="esdrae-3.8.97" osisID="esdrae-3.8.97" />Et exsurgens Ezras adiuravit principes sacerdotum et Levitas et omnem Israhel facere secundum haec, et iuraverunt.<verse eID="esdrae-3.8.97" />
+      </p>
+      <chapter eID="esdrae-3.8" />
+      <chapter sID="esdrae-3.9" osisID="esdrae-3.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="esdrae-3.9.1" osisID="esdrae-3.9.1" />Et exsurgens Ezras ab ante atrium templi, abiit in pastoforium Ionathae filii Nasibi.<verse eID="esdrae-3.9.1" />
+        <verse sID="esdrae-3.9.2" osisID="esdrae-3.9.2" />Et hospitatus illic, non gustavit panem nec aquam bibit, lugens super iniquitates multitudinis.<verse eID="esdrae-3.9.2" />
+        <verse sID="esdrae-3.9.3" osisID="esdrae-3.9.3" />Et facta est praedicatio in omni Iudaea et in Hierusalem omnibus qui erant ex captivitate congregari in Hierusalem.<verse eID="esdrae-3.9.3" />
+        <verse sID="esdrae-3.9.4" osisID="esdrae-3.9.4" />Et quicumque non occurrerit biduo aut triduo diei secundum iudicium adsidentium seniorum, tollentur facultates eius, et ipse alienus iudicabitur a multitudine captivitatis.<verse eID="esdrae-3.9.4" />
+        <verse sID="esdrae-3.9.5" osisID="esdrae-3.9.5" />Et congregati sunt omnes qui erant ex tribu Iuda et Beniamin in tribus diebus in Hierusalem; hic mensis est nonus, vicesima mensis.<verse eID="esdrae-3.9.5" />
+        <verse sID="esdrae-3.9.6" osisID="esdrae-3.9.6" />Et adsedit omnis multitudo in area templi, trementes propter hiemem praesentem.<verse eID="esdrae-3.9.6" />
+        <verse sID="esdrae-3.9.7" osisID="esdrae-3.9.7" />Et exsurgens Ezras dixit illis: Vos inique fecistis conlocando vobis in matrimonium uxores alienigenas, ut adderetis ad peccata Israhel.<verse eID="esdrae-3.9.7" />
+        <verse sID="esdrae-3.9.8" osisID="esdrae-3.9.8" />Et nunc date confessionem et magnificentiam Domino Deo patrum nostrorum,<verse eID="esdrae-3.9.8" />
+        <verse sID="esdrae-3.9.9" osisID="esdrae-3.9.9" />et perficite voluntatem ipsius et discedite a gentibus terrae et ab uxoribus alienigenis.<verse eID="esdrae-3.9.9" />
+        <verse sID="esdrae-3.9.10" osisID="esdrae-3.9.10" />Et clamavit omnis multitudo et dixerunt magna voce: Sicut dixisti faciemus.<verse eID="esdrae-3.9.10" />
+        <verse sID="esdrae-3.9.11" osisID="esdrae-3.9.11" />Sed quoniam multitudo magna est, et tempus hiberni est et non possumus in subdiali parte stare, et hoc opus non est nobis unius diei neque bidui, multum in his peccavimus,<verse eID="esdrae-3.9.11" />
+        <verse sID="esdrae-3.9.12" osisID="esdrae-3.9.12" />stent praepositi multitudinis et omnes qui nobiscum inhabitant et quotquot habent apud se uxores alienigenas,<verse eID="esdrae-3.9.12" />
+        <verse sID="esdrae-3.9.13" osisID="esdrae-3.9.13" />et adsistant accepto tempore et ex omni loco presbyteri et iudices, usquequo solvant iram Domini negotii huius.<verse eID="esdrae-3.9.13" />
+        <verse sID="esdrae-3.9.14" osisID="esdrae-3.9.14" />Ionatha autem filius Ezeli et Ozias Thochani susceperunt secundum haec, et Bosoramus et Levis et Sabbatheus simul cooperati sunt cum illis.<verse eID="esdrae-3.9.14" />
+        <verse sID="esdrae-3.9.15" osisID="esdrae-3.9.15" />Et fecerunt secundum haec omnia universi qui erant ex captivitate.<verse eID="esdrae-3.9.15" />
+        <verse sID="esdrae-3.9.16" osisID="esdrae-3.9.16" />Et elegit sibi viros Ezras sacerdos, principes magnos de patribus eorum secundum nomina, et consederunt novilunio mensis decimi examinare negotium istud.<verse eID="esdrae-3.9.16" />
+        <verse sID="esdrae-3.9.17" osisID="esdrae-3.9.17" />Et determinatum est de viris qui habebant uxores alienigenas usque ad neomenia primi mensis.<verse eID="esdrae-3.9.17" />
+        <verse sID="esdrae-3.9.18" osisID="esdrae-3.9.18" />Et inventi sunt ex sacerdotibus commixti qui habebant alienigenas uxores:<verse eID="esdrae-3.9.18" />
+        <verse sID="esdrae-3.9.19" osisID="esdrae-3.9.19" />Ex filiis Iesu filii Iosedech et fratribus eius Maseas et Eliezerus et Ioribus et Ioadeus.<verse eID="esdrae-3.9.19" />
+        <verse sID="esdrae-3.9.20" osisID="esdrae-3.9.20" />Et iniecerunt manus, ut expellerent uxores suas, et ad litandum in exoratione arietem pro ignorantia sua.<verse eID="esdrae-3.9.20" />
+        <verse sID="esdrae-3.9.21" osisID="esdrae-3.9.21" />Et ex filiis Emmeri Masseas et Esses et Ieel et Azarias.<verse eID="esdrae-3.9.21" />
+        <verse sID="esdrae-3.9.22" osisID="esdrae-3.9.22" />Et ex filiis Fosor Elionia, Assias, Ismahelus et Nathanaelus, Ioceddeus et Talsas.<verse eID="esdrae-3.9.22" />
+        <verse sID="esdrae-3.9.23" osisID="esdrae-3.9.23" />Et ex Levitis Iozabdus et Semeis et Colius et Calitas et Fatheas et Coluas et Elionas.<verse eID="esdrae-3.9.23" />
+        <verse sID="esdrae-3.9.24" osisID="esdrae-3.9.24" />Ex sacris cantoribus Eliasubus, Zaccurus.<verse eID="esdrae-3.9.24" />
+        <verse sID="esdrae-3.9.25" osisID="esdrae-3.9.25" />Ex ostiariis Sallumus et Tolbanes.<verse eID="esdrae-3.9.25" />
+        <verse sID="esdrae-3.9.26" osisID="esdrae-3.9.26" />Et ex Israhel: Ex filiis Foroos Ieremias et Ieddias et Melchias et Mielus et Eleazarus et Iemmebias et Baninas.<verse eID="esdrae-3.9.26" />
+        <verse sID="esdrae-3.9.27" osisID="esdrae-3.9.27" />Et ex filiis Iolam Mamthanias et Zaccharias, Iezrelus et Iobdius et Herimoth et Helias.<verse eID="esdrae-3.9.27" />
+        <verse sID="esdrae-3.9.28" osisID="esdrae-3.9.28" />Et ex filiis Zathom Eliadas et Eliasimus et Othias et Larimoth et Zabdus et Zebedias.<verse eID="esdrae-3.9.28" />
+        <verse sID="esdrae-3.9.29" osisID="esdrae-3.9.29" />Et ex filiis Bebe Iohannes et Ananias et Zabdias et Emethis.<verse eID="esdrae-3.9.29" />
+        <verse sID="esdrae-3.9.30" osisID="esdrae-3.9.30" />Et ex filiis Banni Olamus et Malluchus et Ieddaeus et Iasub et Asubus et Hierimoth.<verse eID="esdrae-3.9.30" />
+        <verse sID="esdrae-3.9.31" osisID="esdrae-3.9.31" />Et ex filiis Addin Naathus et Moosias et Calchurus et Raanas et Baseas, Mathathias et Beseel et Bonnus et Manasses.<verse eID="esdrae-3.9.31" />
+        <verse sID="esdrae-3.9.32" osisID="esdrae-3.9.32" />Et ex filiis Nuae Noneas et Aseas et Melchias et Sameas et Simon, Beniamin et Malchus et Marras.<verse eID="esdrae-3.9.32" />
+        <verse sID="esdrae-3.9.33" osisID="esdrae-3.9.33" />Et ex filiis Asom Carianeus, Mathathias et Bannus et Elifalat et Manasses et Semei.<verse eID="esdrae-3.9.33" />
+        <verse sID="esdrae-3.9.34" osisID="esdrae-3.9.34" />Et ex filiis Banni Ieremias et Moodias et Abramus et Ioel et Baneas et Pelias et Ionas et Marimoth et Eliasib et Mathaneus et Eliasis et Zorisas et Diaelus et Samedius et Sambris et Iosephus.<verse eID="esdrae-3.9.34" />
+        <verse sID="esdrae-3.9.35" osisID="esdrae-3.9.35" />Et ex filiis Nobaei Idaelus et Mathathias et Sabadus et Zetheda Sednu et Iessei Baneas.<verse eID="esdrae-3.9.35" />
+        <verse sID="esdrae-3.9.36" osisID="esdrae-3.9.36" />Omnes isti coniunxerunt sibi uxores alienigenas, et dimiserunt eas cum filiis.<verse eID="esdrae-3.9.36" />
+        <verse sID="esdrae-3.9.37" osisID="esdrae-3.9.37" />Et inhabitaverunt sacerdotes et Levitae et qui erant ex Israhel in Hierusalem et in tota regione una novilunio mensis septimi, et erant filii Israhel in commorationibus suis.<verse eID="esdrae-3.9.37" />
+        <verse sID="esdrae-3.9.38" osisID="esdrae-3.9.38" />Et congregata est omnis multitudo simul in aream quae est ab oriente portae sacrae.<verse eID="esdrae-3.9.38" />
+        <verse sID="esdrae-3.9.39" osisID="esdrae-3.9.39" />Et dixerunt Ezrae pontifici et lectori, ut adferret legem Moysi quae tradita est a Domino Deo Israhel.<verse eID="esdrae-3.9.39" />
+        <verse sID="esdrae-3.9.40" osisID="esdrae-3.9.40" />Et adtulit Ezras pontifex legem omni multitudini eorum a viro usque ad mulierem et omnibus sacerdotibus, audire legem novilunio mensis septimi.<verse eID="esdrae-3.9.40" />
+        <verse sID="esdrae-3.9.41" osisID="esdrae-3.9.41" />Et legebat in area quae est ante sacram portam templi a prima luce usque ad vesperam coram viris et mulieribus, et dederunt omnes sensum ad legem.<verse eID="esdrae-3.9.41" />
+        <verse sID="esdrae-3.9.42" osisID="esdrae-3.9.42" />Et stetit Ezras sacerdos et lector legis super ligneum tribunal quod fabricatum erat.<verse eID="esdrae-3.9.42" />
+        <verse sID="esdrae-3.9.43" osisID="esdrae-3.9.43" />Et steterunt ad eum Mathathias, Samus, Ananias, Azarias, Urias, Ezechias, et Balsamus ad dexteram,<verse eID="esdrae-3.9.43" />
+        <verse sID="esdrae-3.9.44" osisID="esdrae-3.9.44" />et ad sinistram Faldeus, Misael, Malachias, Abustassabus, Nabadias et Zaccharias.<verse eID="esdrae-3.9.44" />
+        <verse sID="esdrae-3.9.45" osisID="esdrae-3.9.45" />Et adsumpsit Ezras librum coram omni multitudine, praesidebat enim in gloria in conspectu omnium.<verse eID="esdrae-3.9.45" />
+        <verse sID="esdrae-3.9.46" osisID="esdrae-3.9.46" />Et cum absolvisset legem, omnes recti steterunt. Et benedixit Ezras Dominum Deum altissimum, Deum Sabaoth omnipotentem.<verse eID="esdrae-3.9.46" />
+        <verse sID="esdrae-3.9.47" osisID="esdrae-3.9.47" />Et respondit omnis populus: Amen. Et elevatis susum manibus procidentes in terram adoraverunt Dominum.<verse eID="esdrae-3.9.47" />
+        <verse sID="esdrae-3.9.48" osisID="esdrae-3.9.48" />Iesus et Banaeus et Sarabias et Iadinus et Accubus et Sabbateus et Calites et Azarias et Ioradus et Ananias et Filias, Levitae<verse eID="esdrae-3.9.48" />
+        <verse sID="esdrae-3.9.49" osisID="esdrae-3.9.49" />qui docebant legem Domini et in multitudine legebant legem Domini, et praeferebant singuli eos qui intellegebant lectionem.<verse eID="esdrae-3.9.49" />
+        <verse sID="esdrae-3.9.50" osisID="esdrae-3.9.50" />Et dixit Attarates Ezrae pontifici et lectori et Levitis qui docebant multitudinem<verse eID="esdrae-3.9.50" />
+        <verse sID="esdrae-3.9.51" osisID="esdrae-3.9.51" />dicens: Dies hic est sanctus Domino. Et omnes flebant, cum audissent legem.<verse eID="esdrae-3.9.51" />
+        <verse sID="esdrae-3.9.52" osisID="esdrae-3.9.52" />Digressi ergo manducate pinguissima quaeque et bibite dulcissima quaeque et mittite munera his qui non habent.<verse eID="esdrae-3.9.52" />
+        <verse sID="esdrae-3.9.53" osisID="esdrae-3.9.53" />Sanctus est enim dies Domini, et nolite maesti esse, Dominus enim clarificavit vos.<verse eID="esdrae-3.9.53" />
+        <verse sID="esdrae-3.9.54" osisID="esdrae-3.9.54" />Et Levitae denuntiabant in publico omnibus dicentes: Dies hic sanctus est, nolite maesti esse.<verse eID="esdrae-3.9.54" />
+        <verse sID="esdrae-3.9.55" osisID="esdrae-3.9.55" />Et abierunt omnes manducare et bibere et epulari et dare munera his qui non habent ut epulentur. Magnifice enim sunt exaltati verbis quibus edocti sunt.<verse eID="esdrae-3.9.55" />
+        <verse sID="esdrae-3.9.56" osisID="esdrae-3.9.56" />Et congregati sunt universi in Hierusalem, celebrare laetitiam secundum testamentum Domini Dei Israhel.<verse eID="esdrae-3.9.56" />
+      </p>
+      <chapter eID="esdrae-3.9" />
+    </div>
+  </osisText>
+</osis>

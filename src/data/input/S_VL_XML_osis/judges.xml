@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Judg" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Judg">
+        <title>judges</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Judg</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>judges</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Judg">
+      <title>judges</title>
+      <chapter sID="Judg.1" osisID="Judg.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Judg.1.1" osisID="Judg.1.1" />Et factum est postquam defunctus est Iesus, interrogabant filii Israel in Domino, dicentes, Quis ascendet nobiscum ad Chananaeum dux ad debellandum eum?<verse eID="Judg.1.1" />
+        <verse sID="Judg.1.2" osisID="Judg.1.2" />Et dixit Dominus, Iudas ascendet. Ecce dedi terram in manu ipsius.<verse eID="Judg.1.2" />
+        <verse sID="Judg.1.3" osisID="Judg.1.3" />Et dixit Iudas ad Simeon fratrem suum. Ascende mecum in sortem meam, et bellemus in Chananaeo, et ibo etiam ego tecum in sortem tuam ...<verse eID="Judg.1.3" />
+        <verse sID="Judg.1.9" osisID="Judg.1.9" />Et postea descenderunt filii Iuda pugnare ad Chananaeum, qui habitabat in montana, et austrum, et campestrem.<verse eID="Judg.1.9" />
+        <verse sID="Judg.1.10" osisID="Judg.1.10" />Et abiit Iudas ad Chananaeum inhabitantem in Chebron, et exiit Chebron ex adverso. (Nomen autem erat Chebron, Cariatharbocsepher.) Et percussit Sesi, et Achiman, et Cholmi, filios Enach.<verse eID="Judg.1.10" />
+        <verse sID="Judg.1.11" osisID="Judg.1.11" />Et ascenderunt inde ad inhabitantes Dabir, nomen autem Dabir, quod erat ante civitas litterarum.<verse eID="Judg.1.11" />
+        <verse sID="Judg.1.12" osisID="Judg.1.12" />Et dixit Caleb, Quicunque percusserit civitatem litterarum, et acceperit eam, dabo ei filiam meam in uxorem.<verse eID="Judg.1.12" />
+        <verse sID="Judg.1.14" osisID="Judg.1.14" />Et factum est cum ingrederetur ipse, monuit eam Gothoniel ut peteret a patre suo agrum ...<verse eID="Judg.1.14" />
+        <verse sID="Judg.1.15" osisID="Judg.1.15" />... redemptionem aquae. Et dedit ei Caleb secundum cor eius redemptionem excelsorum, et redemptionem humilium.<verse eID="Judg.1.15" />
+        <verse sID="Judg.1.18" osisID="Judg.1.18" />Et non haereditavit Iudas Gazam et finem eius, et Ascalonem et finem eius, et Accaron et finem eius, et Azotum et adiacentia eius.<verse eID="Judg.1.18" />
+        <verse sID="Judg.1.19" osisID="Judg.1.19" />Et erat Dominus cum Iuda, et haereditavit montem, quoniam non potuit haereditare inhabitantes in valle, quoniam Rechab obstitit eis, et currus erant eis ferrei.<verse eID="Judg.1.19" />
+        <verse sID="Judg.1.20" osisID="Judg.1.20" />Et dederunt Caleb Chebron, sicut locutus est Moyses, et haereditavit inde tres civitates filiorum Enach, et abstulit inde tres filios Enach.<verse eID="Judg.1.20" />
+        <verse sID="Judg.1.21" osisID="Judg.1.21" />Et Iebusaeum habitantem in Ierusalem non haereditaverunt filii Beniamin, et habitavit Iebusaeus cum filiis Beniamin in Ierusalem, usque in hodiernum diem.<verse eID="Judg.1.21" />
+        <verse sID="Judg.1.27" osisID="Judg.1.27" />Et non haereditavit Manasses Bethsan, quae est Scytharum civitas, neque filias eius ...<verse eID="Judg.1.27" />
+        <verse sID="Judg.1.28" osisID="Judg.1.28" />Et factum est quando praevaluit Israel, et posuit Chananaeum in tributum, et auferens non abstulit eum.<verse eID="Judg.1.28" />
+        <verse sID="Judg.1.34" osisID="Judg.1.34" />Et contribulavit Amorrhaeus filios Dan in monte, quoniam non permisit eos descendere in vallem,<verse eID="Judg.1.34" />
+      </p>
+      <chapter eID="Judg.1" />
+      <chapter sID="Judg.2" osisID="Judg.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Judg.2.1" osisID="Judg.2.1" />Et ascendit angelus Domini super Clauthmona montem ...<verse eID="Judg.2.1" />
+        <verse sID="Judg.2.3" osisID="Judg.2.3" />... Non adiiciam transmigrare populum, quem dixi eiicere. Non auferam eos a facie vestra, et erunt vobis in angustias, et dii eorum erunt vobis in scandalum.<verse eID="Judg.2.3" />
+        <verse sID="Judg.2.6" osisID="Judg.2.6" />Et dimisit Iesus populum, et abierunt filii Israel unusquisque in domum suam, et unusquisque in haereditatem suam, haereditare terram,<verse eID="Judg.2.6" />
+        <verse sID="Judg.2.8" osisID="Judg.2.8" />Et mortuus est Iesus filius Nave, servus Domini, filius centum decem annorum,<verse eID="Judg.2.8" />
+        <verse sID="Judg.2.10" osisID="Judg.2.10" />Et omnis generatio appositi sunt ad patres suos, et surrexit generatio altera post eos, qui non scierunt Dominum, et opera eius quae fecit Israel.<verse eID="Judg.2.10" />
+        <verse sID="Judg.2.11" osisID="Judg.2.11" />Et fecerunt filii Israel quod malignum erat coram Domino Deo patrum suorum,<verse eID="Judg.2.11" />
+        <verse sID="Judg.2.12" osisID="Judg.2.12" />qui eiecit eos de terra Aegypti, et secuti sunt deos gentium, quae circa illos sunt, et offenderunt Dominum.<verse eID="Judg.2.12" />
+        <verse sID="Judg.2.13" osisID="Judg.2.13" />et reliquerunt Deum, et servierunt Baal et Astartibus.<verse eID="Judg.2.13" />
+        <verse sID="Judg.2.14" osisID="Judg.2.14" />Et iratus Dominus, tradidit eos in manibus diripientium, et diripiebantur ab illis, et venundabantur inimicis, nec poterant omnino subsistere a facie inimicorum suorum,<verse eID="Judg.2.14" />
+        <verse sID="Judg.2.15" osisID="Judg.2.15" />quocunque processerant, manus erat super illos in mala ... et compressati sunt valde.<verse eID="Judg.2.15" />
+        <verse sID="Judg.2.18" osisID="Judg.2.18" />Et cum suscitavit Dominus eis iudices, et erat Dominus cum iudice ...<verse eID="Judg.2.18" />
+        <verse sID="Judg.2.19" osisID="Judg.2.19" />Et factum est cum moreretur iudex, et revertebantur, et iterum corrumpebant super patres suos ...<verse eID="Judg.2.19" />
+        <verse sID="Judg.2.20" osisID="Judg.2.20" />... Propter quod tanta dereliquit gens haec testamentum meum, quod mandavi patribus eorum, et non obedierunt voci meae,<verse eID="Judg.2.20" />
+        <verse sID="Judg.2.21" osisID="Judg.2.21" />et ego non apponam auferre virum a facie ipsorum de gentibus, quas reliquit Iesus filius Nave,<verse eID="Judg.2.21" />
+        <verse sID="Judg.2.22" osisID="Judg.2.22" />et dimisit ad tentandum in eis Israel, si observabunt viam Domini abire in ea, quemadmodum custodierunt patres eorum, an non.<verse eID="Judg.2.22" />
+        <verse sID="Judg.2.23" osisID="Judg.2.23" />Et dimisit Dominus gentes has, ut non auferret illas tunc, et non tradidit illas in manu Iesu.<verse eID="Judg.2.23" />
+      </p>
+      <chapter eID="Judg.2" />
+      <chapter sID="Judg.3" osisID="Judg.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Judg.3.1" osisID="Judg.3.1" />Et hae gentes, quas reliquit Iesus, ut tentaret in eis Israel, omnes qui nescierunt omnia bella Chanaan,<verse eID="Judg.3.1" />
+        <verse sID="Judg.3.2" osisID="Judg.3.2" />verum propter generationes filiorum Israel docere illos bellum, verum qui ante illos nescierunt illas,<verse eID="Judg.3.2" />
+        <verse sID="Judg.3.3" osisID="Judg.3.3" />quinque satrapias alienigenarum, et omnem Chananaeum, et Sidonium, et Evaeum inhabitantem Libanum, ante montem Hermon usque ad Caboemath.<verse eID="Judg.3.3" />
+        <verse sID="Judg.3.4" osisID="Judg.3.4" />Et factum est ut tentaretur in ipsis Israel, scire si audient mandata Domini, quae mandavit patribus eorum in manu Moysi.<verse eID="Judg.3.4" />
+        <verse sID="Judg.3.9" osisID="Judg.3.9" />Et clamaverunt filii Israel ad Dominum, et excitavit Dominus salvatorem Israel, et salvavit eos, Gothoniel filium Cenez, fratrem Caleb iuniorem ipsius, et exaudivit eos,<verse eID="Judg.3.9" />
+        <verse sID="Judg.3.10" osisID="Judg.3.10" />et factus est super eum Spiritus Domini ...<verse eID="Judg.3.10" />
+        <verse sID="Judg.3.17" osisID="Judg.3.17" />... Erat autem Eglom vir exilis valde.<verse eID="Judg.3.17" />
+        <verse sID="Judg.3.19" osisID="Judg.3.19" />... Verbum occultum mihi est at te, Rex ...<verse eID="Judg.3.19" />
+        <verse sID="Judg.3.20" osisID="Judg.3.20" />... Verbum Dei mihi ad te, Rex ...<verse eID="Judg.3.20" />
+        <verse sID="Judg.3.21" osisID="Judg.3.21" />... et sumpsit Aioth gladium desuper femore suo dextro ...<verse eID="Judg.3.21" />
+        <verse sID="Judg.3.23" osisID="Judg.3.23" />Et exiit Aod foras, et transit observantes, et clausit ianuas domus superioris super eum, et coarctavit.<verse eID="Judg.3.23" />
+        <verse sID="Judg.3.31" osisID="Judg.3.31" />Et post eum surrexit Samegar filius Aneath, et percussit alienigenas in sexcentos viros, praeter vitulos boum, et salvavit Israel.<verse eID="Judg.3.31" />
+      </p>
+      <chapter eID="Judg.3" />
+      <chapter sID="Judg.4" osisID="Judg.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Judg.4.6" osisID="Judg.4.6" />... Nonne praecepit Dominus Deus Israel tibi? Et perges in montem Thabor, et accipies tecum decem millia virorum ...<verse eID="Judg.4.6" />
+        <verse sID="Judg.4.8" osisID="Judg.4.8" />... Si ibis, ibo, et si non ieris mecum, non ibo, quoniam nescio diem in qua prosperat angelum Dominus mecum.<verse eID="Judg.4.8" />
+        <verse sID="Judg.4.13" osisID="Judg.4.13" />... omnes currus suos, nongentos currus ferreos ...<verse eID="Judg.4.13" />
+        <verse sID="Judg.4.15" osisID="Judg.4.15" />Et pavefecit Dominus Sisaram, et omnes currus eius, et omnia castra eius, in ore gladii, in conspectu Barach, et descendit Sisara desuper curru suo ...<verse eID="Judg.4.15" />
+        <verse sID="Judg.4.20" osisID="Judg.4.20" />... et erit, si quis venerit ad te, et dixerit, Est hic vir? Et dices, Non est.<verse eID="Judg.4.20" />
+        <verse sID="Judg.4.22" osisID="Judg.4.22" />... intravit ad eam ...<verse eID="Judg.4.22" />
+        <verse sID="Judg.4.24" osisID="Judg.4.24" />Et pergebat manus filiorum Israel pergens, et indurabatur in Iabin regem Chanaan ...<verse eID="Judg.4.24" />
+      </p>
+      <chapter eID="Judg.4" />
+      <chapter sID="Judg.5" osisID="Judg.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Judg.5.7" osisID="Judg.5.7" />Defecerunt habitantes in Israel, defecerunt, donec surrexit Debbora, donec surrexit mater in Israel.<verse eID="Judg.5.7" />
+        <verse sID="Judg.5.8" osisID="Judg.5.8" />Elegerunt, ut panem hordeaceum, deos novos, tunc expugnaverunt civitates principum ...<verse eID="Judg.5.8" />
+        <verse sID="Judg.5.26" osisID="Judg.5.26" />... perforavit caput eius, et percussit ...<verse eID="Judg.5.26" />
+        <verse sID="Judg.5.31" osisID="Judg.5.31" />Sic pereant omnes inimici tui Domine, et diligentes eum, sicut ortus solis in potentia eius.<verse eID="Judg.5.31" />
+      </p>
+      <chapter eID="Judg.5" />
+      <chapter sID="Judg.6" osisID="Judg.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Judg.6.1" osisID="Judg.6.1" />Et fecerunt filii Israel malignum ante Dominum Deum, et tradidit in manus Madiae annis septem,<verse eID="Judg.6.1" />
+        <verse sID="Judg.6.2" osisID="Judg.6.2" />et praevaluit manus Madiae valde super Israel. Et fecerunt sibi Israel ante faciem Madiae cryptas in montibus et speluncas, et monumenta.<verse eID="Judg.6.2" />
+        <verse sID="Judg.6.3" osisID="Judg.6.3" />Et factum est, quando seminabit Israel, ascendebant Madiam et Amalech, et filii orientis, et ascendebant super eum,<verse eID="Judg.6.3" />
+        <verse sID="Judg.6.4" osisID="Judg.6.4" />et committebant cum eis, et corrumpebant fines terrae, usque dum venirent Gazam, et non relinquebant ad vitam Israel, ovem, nec vitulum, nec asinum.<verse eID="Judg.6.4" />
+        <verse sID="Judg.6.5" osisID="Judg.6.5" />Quoniam ipsi et iumenta eorum ascendebant, et tabernacula sua afferebant, et camelos suos ducebant, et adveniebant sicut locustae in multitudine, quoniam non erat numerus, et adveniebant super terram, corrumpere eam.<verse eID="Judg.6.5" />
+        <verse sID="Judg.6.6" osisID="Judg.6.6" />Et pauper factus est Israel a facie Madiae.<verse eID="Judg.6.6" />
+        <verse sID="Judg.6.7" osisID="Judg.6.7" />Et clamaverunt filii Israel ad Dominum propter Madian.<verse eID="Judg.6.7" />
+        <verse sID="Judg.6.8" osisID="Judg.6.8" />Misit Dominus virum prophetam ad filios Israel, et dixit illis, Haec dicit Dominus Deus Israel, Ego sum qui adduxi vos ex Aegypto, et eduxi vos de domo servitutis,<verse eID="Judg.6.8" />
+        <verse sID="Judg.6.9" osisID="Judg.6.9" />et abstuli vos de manu regis Aegypti, et de manu omnium persequentium vos, et eieci illos a facie vestra, et dedi vobis terram eorum.<verse eID="Judg.6.9" />
+        <verse sID="Judg.6.10" osisID="Judg.6.10" />Et dixi vobis, Ego sum Dominus Deus vester, non timebis deos Amorrhaeorum, in quibus vos inhabitatis in terra ipsorum. Et non exaudistis vocem meam.<verse eID="Judg.6.10" />
+        <verse sID="Judg.6.11" osisID="Judg.6.11" />Et venit angelus Domini, et sedit sub quercu, quae erat in Ephra ...<verse eID="Judg.6.11" />
+        <verse sID="Judg.6.12" osisID="Judg.6.12" />... Dominus tecum, potens in fortitudine.<verse eID="Judg.6.12" />
+        <verse sID="Judg.6.13" osisID="Judg.6.13" />Et dixit ad eum Gedeon, In me, domine mi, et si est Dominus nobiscum, et ut quid invenerunt nos omnia mala ista? Et ubi sunt mirabilia eius, quae retulerunt nobis patres nostri, dicentes, Nunc ex Aegypto adduxit nos Deus? Et nunc sprevit nos, et tradidit nos in manu Madiae Dominus.<verse eID="Judg.6.13" />
+        <verse sID="Judg.6.14" osisID="Judg.6.14" />... Vade in fortitudine tua, et salvum facies Israel de manu Madiae, nonne ecce mitto te?<verse eID="Judg.6.14" />
+        <verse sID="Judg.6.15" osisID="Judg.6.15" />... In me, domine, in quo salvabo Israel? Ecce mille mei humiliores in Manasse ...<verse eID="Judg.6.15" />
+        <verse sID="Judg.6.16" osisID="Judg.6.16" />Et dixit angelus Domini ad Gedeon, Quoniam Dominus erit tecum, et percuties Madian tanquam virum unum.<verse eID="Judg.6.16" />
+        <verse sID="Judg.6.17" osisID="Judg.6.17" />Et dixit ad eum Gedeon, Si inveni gratiam ante oculos tuos, et facies secundum ea quae loqueris mihi.<verse eID="Judg.6.17" />
+        <verse sID="Judg.6.18" osisID="Judg.6.18" />... offeram sacrificium meum, et ponam in conspectu tuo ...<verse eID="Judg.6.18" />
+        <verse sID="Judg.6.20" osisID="Judg.6.20" />... Accipe carnes et azymos, et pone ad petram illam, et ius effunde. Et cum hoc fecisset Gedeon,<verse eID="Judg.6.20" />
+        <verse sID="Judg.6.21" osisID="Judg.6.21" />extendit angelus Domini summum virgae, quae erat in manu eius, et tetiget carnes et azymos, et accensus est ignis de petra, et comedit carnes et azymos ...<verse eID="Judg.6.21" />
+        <verse sID="Judg.6.22" osisID="Judg.6.22" />Et vidit Gedeon quoniam angelus Domini est ...<verse eID="Judg.6.22" />
+        <verse sID="Judg.6.24" osisID="Judg.6.24" />... Cum adhuc esset Gedeon in Copher patris filii Hesdri,<verse eID="Judg.6.24" />
+        <verse sID="Judg.6.25" osisID="Judg.6.25" />locutus est nocte illa Dominus, dicens, Vade, et everte aram Baal, quam aedificavit pater tuus, et lucum, qui est super illam, excide,<verse eID="Judg.6.25" />
+        <verse sID="Judg.6.26" osisID="Judg.6.26" />et aedificabis altare Deo tuo, qui visus est tibi in vertice montis Macoth in ordinatione ...<verse eID="Judg.6.26" />
+        <verse sID="Judg.6.31" osisID="Judg.6.31" />... Nunquid vos iudicatis Baal, aut salvum facitis eum? Qui in eum iniurias ingressit, morietur in mane, si Deus est, ipse se vindicabit ...<verse eID="Judg.6.31" />
+        <verse sID="Judg.6.33" osisID="Judg.6.33" />... et venerunt, et castra posuerunt in valle Iezrael.<verse eID="Judg.6.33" />
+        <verse sID="Judg.6.34" osisID="Judg.6.34" />Et Spiritus Domini confortavit Gedeon, et cecinit in cornea ...<verse eID="Judg.6.34" />
+        <verse sID="Judg.6.36" osisID="Judg.6.36" />Et dixit Gedeon ad Dominum, Quoniam tu salvum facies Israel in manu mea, quemadmodum locutus es,<verse eID="Judg.6.36" />
+        <verse sID="Judg.6.37" osisID="Judg.6.37" />ecce ego pono vellus lanae in area, et si factus fuerit ros in vellere, in omnem vero terram siccitas, sciam quoniam salvum facis in manu mea Israel, sicut locutus es.<verse eID="Judg.6.37" />
+        <verse sID="Judg.6.38" osisID="Judg.6.38" />Et factum est sic. Et diluculo vigilavit Gedeon in crastinum, et expressit vellus, et decucurrit ros de vellere, plena pelvis aquae.<verse eID="Judg.6.38" />
+        <verse sID="Judg.6.39" osisID="Judg.6.39" />Et dixit Gedeon ad Dominum, Non irascatur furor tuus in me Domine, et loquar adhuc semel, et tentabo adhuc semel in vellere. Fiat siccitas in vellere tantum, in omnem autem terram fiat ros.<verse eID="Judg.6.39" />
+        <verse sID="Judg.6.40" osisID="Judg.6.40" />Et fecit Deus sic in nocte illa, et facta est siccitas in vellere tantum, super omnem autem terram ros.<verse eID="Judg.6.40" />
+      </p>
+      <chapter eID="Judg.6" />
+      <chapter sID="Judg.7" osisID="Judg.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Judg.7.6" osisID="Judg.7.6" />Et factus est numerus eorum qui lambuerunt manu sua, lingua sua, trecenti viri ...<verse eID="Judg.7.6" />
+        <verse sID="Judg.7.11" osisID="Judg.7.11" />... Gedeon descendit ipse et Phara puer eius in partem quinquaginta, qui erant in castris.<verse eID="Judg.7.11" />
+        <verse sID="Judg.7.12" osisID="Judg.7.12" />... camelis eorum non erat numerus, et erant sicut arena quae est ad labium maris ...<verse eID="Judg.7.12" />
+        <verse sID="Judg.7.16" osisID="Judg.7.16" />Et divisit trecentos viros per tria principia ...<verse eID="Judg.7.16" />
+        <verse sID="Judg.7.20" osisID="Judg.7.20" />... Gladius Domino et Gedeon,<verse eID="Judg.7.20" />
+      </p>
+      <chapter eID="Judg.7" />
+      <chapter sID="Judg.8" osisID="Judg.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Judg.8.1" osisID="Judg.8.1" />Et dixerunt ad Gedeon viri Ephraem, Quid verbum hoc fecisti nobis, ut non vocares nos, cum exires pugnare in Madian? ...<verse eID="Judg.8.1" />
+        <verse sID="Judg.8.23" osisID="Judg.8.23" />... Non principabor ego vestri, neque filius meus, sed Deus princeps est in vobis.<verse eID="Judg.8.23" />
+        <verse sID="Judg.8.24" osisID="Judg.8.24" />... Date mihi unusquisque inaurem de praeda sua ...<verse eID="Judg.8.24" />
+        <verse sID="Judg.8.26" osisID="Judg.8.26" />Et factum est pondus inaurium aurearum, quas petierat, sicli mille septingenti auri, praeter brachialia, et torques, et operimenta purpurea, quae erant in cervicibus camelorum ipsorum.<verse eID="Judg.8.26" />
+        <verse sID="Judg.8.27" osisID="Judg.8.27" />Et fecit illud Gedeon in Ephud, et statuit illud in civitate sua in Ephra. Et fornicatus est omnis Israel post illud ibi, et factum est Gedeon et domui eius in scandalum.<verse eID="Judg.8.27" />
+        <verse sID="Judg.8.28" osisID="Judg.8.28" />... quievit terra quadraginta annos, in diebus Gedeon.<verse eID="Judg.8.28" />
+        <verse sID="Judg.8.30" osisID="Judg.8.30" />Gedeoni erant filii septuaginta, qui egressi sunt de femoribus eius ...<verse eID="Judg.8.30" />
+        <verse sID="Judg.8.33" osisID="Judg.8.33" />Et factum est cum esset mortuus Gedeon, et aversi sunt filii Israel, et fornicati sunt post Baalim. Et posuerunt ipsi sibi Baalberith testamentum, ut esset eis ipse in deum.<verse eID="Judg.8.33" />
+      </p>
+      <chapter eID="Judg.8" />
+      <chapter sID="Judg.9" osisID="Judg.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Judg.9.4" osisID="Judg.9.4" />Et dederunt septuaginta argenti ... Et conduxit in ipsis Abimelech viros inanes et perturbatos ...<verse eID="Judg.9.4" />
+        <verse sID="Judg.9.5" osisID="Judg.9.5" />Et intravit in domum patris sui in Ephratha, et interfecit fratres suos filios Ierobaal septuaginta viros, super lapidem unum, et remansit Ioatham filius Ierobaal iunior, quoniam abscondit se.<verse eID="Judg.9.5" />
+        <verse sID="Judg.9.8" osisID="Judg.9.8" />Ambulantia ambulaverunt ligna, ungere super se regem ...<verse eID="Judg.9.8" />
+        <verse sID="Judg.9.15" osisID="Judg.9.15" />... Si in veritate unguitis me vos, regnare super vos, venite, confidire in protectione mea, et si non, exeat ignis de rhamno, et comedar cedros Libani.<verse eID="Judg.9.15" />
+        <verse sID="Judg.9.23" osisID="Judg.9.23" />Et emisit Deus spiritum malignum inter Abimelech et inter viros Sichimorum, et spreverunt viri Sichimorum in domo Abimelech.<verse eID="Judg.9.23" />
+        <verse sID="Judg.9.32" osisID="Judg.9.32" />Et nunc surge noctu tu, et populus tuus tecum, et insidiare in agro,<verse eID="Judg.9.32" />
+        <verse sID="Judg.9.33" osisID="Judg.9.33" />et erit mane simul ut oritur sol, maturabis, et tendes super civitatem ...<verse eID="Judg.9.33" />
+        <verse sID="Judg.9.34" osisID="Judg.9.34" />... et insidiati sunt super Sichimam quatuor principia.<verse eID="Judg.9.34" />
+        <verse sID="Judg.9.43" osisID="Judg.9.43" />Et accepit populum, et divisit eum in tria principia ...<verse eID="Judg.9.43" />
+        <verse sID="Judg.9.55" osisID="Judg.9.55" />... et abierunt viri in locum suum,<verse eID="Judg.9.55" />
+      </p>
+      <chapter eID="Judg.9" />
+      <chapter sID="Judg.10" osisID="Judg.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Judg.10.1" osisID="Judg.10.1" />Et surrexit post Abimelech, qui salvum faceret Israel, Thola filius Phua, filius patris fratris eius, vir Issachar ...<verse eID="Judg.10.1" />
+      </p>
+      <chapter eID="Judg.10" />
+      <chapter sID="Judg.11" osisID="Judg.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Judg.11.2" osisID="Judg.11.2" />... et creverunt filii uxoris, et eiecerunt Iephre, et dixerunt ei, Non haereditabis in domo patris nostri, quoniam filius mulieris fornicariae tu.<verse eID="Judg.11.2" />
+        <verse sID="Judg.11.3" osisID="Judg.11.3" />Et fugit Iephte a facie fratrum suorum, et habitavit in terra Tob, et colligebantur ad Iephte viri latrones, et obambulabant cum ipso.<verse eID="Judg.11.3" />
+        <verse sID="Judg.11.7" osisID="Judg.11.7" />Iephte respondit senioribus Galaad, Nonne vos odio habuistis me, et eiecistis me de domo patris mei, et emisistis me a vobis? Et quid est quod venistis, quando tribulati estis?<verse eID="Judg.11.7" />
+        <verse sID="Judg.11.8" osisID="Judg.11.8" />Et dixerunt seniores Galaad ad Iephte, Non sic modo venimus ad te ... et eris nobis in caput omnibus habitantibus Galaad.<verse eID="Judg.11.8" />
+        <verse sID="Judg.11.9" osisID="Judg.11.9" />... ero vobis in principem.<verse eID="Judg.11.9" />
+        <verse sID="Judg.11.24" osisID="Judg.11.24" />Nonne quaecunque haereditavit tibi Chamos deus tuus, haec haereditabis? Et omnia quaecunque haereditavit Dominus Deus noster a facie vestra, haec haereditabimus,<verse eID="Judg.11.24" />
+        <verse sID="Judg.11.29" osisID="Judg.11.29" />Et factus est super Iephte Spiritus Domini, et perrexit Galaad, et Manasse, et transiit speculam Galaad, et de specula Galaad ad trans filios Ammon,<verse eID="Judg.11.29" />
+        <verse sID="Judg.11.30" osisID="Judg.11.30" />et vovit Iephte votum Domino, et dixit, Si traditione tradideris mihi filios Ammon in manu mea,<verse eID="Judg.11.30" />
+        <verse sID="Judg.11.31" osisID="Judg.11.31" />et erit quicunque exierit de ianuis domus meae in obviam mihi, in revertendo me in pace a filiis Ammon, et erit Domino, offeram eum holocaustoma.<verse eID="Judg.11.31" />
+        <verse sID="Judg.11.34" osisID="Judg.11.34" />... et haec unica ei, et non est ei praeter ipsam filius aut filia.<verse eID="Judg.11.34" />
+        <verse sID="Judg.11.35" osisID="Judg.11.35" />... concidit vestimenta sua, et dixit, Heu me, filia, impedisti me, in stimulum doloris facta es mihi. Ego enim aperui os meum de te ad Dominum, et non potero avertere.<verse eID="Judg.11.35" />
+        <verse sID="Judg.11.36" osisID="Judg.11.36" />Illa dixit ad eum, Pater, si in me aperuisti os tuum, fac mihi ut exiit de ore tuo ...<verse eID="Judg.11.36" />
+        <verse sID="Judg.11.37" osisID="Judg.11.37" />... Sine me mensibus duobus, et vadens flebo in montibus super virginitatem meam, ego, et compares amicae meae.<verse eID="Judg.11.37" />
+        <verse sID="Judg.11.39" osisID="Judg.11.39" />... et haec non noverat virum ... factum est in praeceptum in Israel,<verse eID="Judg.11.39" />
+        <verse sID="Judg.11.40" osisID="Judg.11.40" />ex diebus in dies conveniebant, lamentari filiam Iephte Galaaditem quatuor dies in anno.<verse eID="Judg.11.40" />
+      </p>
+      <chapter eID="Judg.11" />
+      <chapter sID="Judg.12" osisID="Judg.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Judg.12.7" osisID="Judg.12.7" />Et iudicavit Iephte Israel sex annis, et mortuus est Iephte Galaadites, et sepultus est in civitate sua Galaad.<verse eID="Judg.12.7" />
+      </p>
+      <chapter eID="Judg.12" />
+      <chapter sID="Judg.13" osisID="Judg.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Judg.13.2" osisID="Judg.13.2" />... et uxor eius sterilis, et non pariebat.<verse eID="Judg.13.2" />
+        <verse sID="Judg.13.4" osisID="Judg.13.4" />Et nunc observa, et non bibas vinum et siceram, non manduces omne immundum,<verse eID="Judg.13.4" />
+        <verse sID="Judg.13.5" osisID="Judg.13.5" />... ferrum non ascendet super caput eius, et vinum et siceram non bibet, quoniam nazaraeus erit puer a die nativitatis, ipse incipiet salvum facere Israel de manu Philistiim.<verse eID="Judg.13.5" />
+        <verse sID="Judg.13.6" osisID="Judg.13.6" />... Et interrogabam eum unde esset, et nomen suum non annuntiavit mihi.<verse eID="Judg.13.6" />
+        <verse sID="Judg.13.7" osisID="Judg.13.7" />... nazaraeus Dei puer a ventre usque ad diem mortis suae.<verse eID="Judg.13.7" />
+        <verse sID="Judg.13.8" osisID="Judg.13.8" />Et precatus est Manue Dominum, et dixit, In me Domine, homo Dei, quem misisti, veniat nunc iterum ad nos ...<verse eID="Judg.13.8" />
+        <verse sID="Judg.13.15" osisID="Judg.13.15" />... Vim faciamus tibi nunc, et faciamus in conspectu tuo hoedum caprarum.<verse eID="Judg.13.15" />
+        <verse sID="Judg.13.16" osisID="Judg.13.16" />... Si vim feceris mihi, non manducabo de panibus tuis, et si feceris holocaustum, Domino offeres illud. Quoniam ignoravit Manue quia angelus Dei est.<verse eID="Judg.13.16" />
+        <verse sID="Judg.13.18" osisID="Judg.13.18" />Quid interrogas nomen meum? Et ipsum est mirabile.<verse eID="Judg.13.18" />
+        <verse sID="Judg.13.19" osisID="Judg.13.19" />Et sumpsit Manue hoedum caprarum, et sacrificium, et obtulit super petram Domino mirabilia facienti, et Manue et uxor eius exspectabant.<verse eID="Judg.13.19" />
+        <verse sID="Judg.13.20" osisID="Judg.13.20" />Et factum est dum ascenderet flamma de super altare ad coelum, et ascendit angelus Domini in flamma. Et Manue uxorque illius exspectabant, et ceciderunt super faciem suam super terram,<verse eID="Judg.13.20" />
+        <verse sID="Judg.13.21" osisID="Judg.13.21" />et non apposuit ultra angelus Domini apparere ad Manue et ad uxorem eius. Tunc cognovit Manue quoniam angelus Domini est,<verse eID="Judg.13.21" />
+        <verse sID="Judg.13.22" osisID="Judg.13.22" />et dixit Manue ad uxorem suam, Morte moriemur, quoniam Deum vidimus.<verse eID="Judg.13.22" />
+        <verse sID="Judg.13.23" osisID="Judg.13.23" />... Si vellet Dominus mortificare nos, non accepisset de manu nostra holocaustoma et sacrificium, nec illuminasset nos omnia haec, sed nec audita fecisset nobis haec.<verse eID="Judg.13.23" />
+        <verse sID="Judg.13.24" osisID="Judg.13.24" />... benedixit ei Dominus.<verse eID="Judg.13.24" />
+        <verse sID="Judg.13.25" osisID="Judg.13.25" />Et coepit Spiritus Domini comitari cum eo in castra ...<verse eID="Judg.13.25" />
+      </p>
+      <chapter eID="Judg.13" />
+      <chapter sID="Judg.14" osisID="Judg.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Judg.14.1" osisID="Judg.14.1" />Descendit Samson in Taumatha ...<verse eID="Judg.14.1" />
+        <verse sID="Judg.14.4" osisID="Judg.14.4" />... pater eius ac mater ignorabant, quoniam a Domino est ...<verse eID="Judg.14.4" />
+        <verse sID="Judg.14.6" osisID="Judg.14.6" />Et direxit super eum Spiritus Domini ...<verse eID="Judg.14.6" />
+        <verse sID="Judg.14.14" osisID="Judg.14.14" />... De manducante exivit esca, et de forti processit dulce ...<verse eID="Judg.14.14" />
+        <verse sID="Judg.14.16" osisID="Judg.14.16" />... Odisti me, et non amasti, quam celasti usque adhuc ...<verse eID="Judg.14.16" />
+        <verse sID="Judg.14.18" osisID="Judg.14.18" />... Quid dulcius melle, et quid fortius leone? Ad quae ille respondit, Si non domuissetis vitulam meam, non invenissetis quaestionem meam.<verse eID="Judg.14.18" />
+        <verse sID="Judg.14.19" osisID="Judg.14.19" />Et decidit super eum Spiritus Domini, et descendit in Ascalonem, et percussit inde triginta viros ...<verse eID="Judg.14.19" />
+      </p>
+      <chapter eID="Judg.14" />
+      <chapter sID="Judg.15" osisID="Judg.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Judg.15.8" osisID="Judg.15.8" />Et percussit eos tibiam super femur ...<verse eID="Judg.15.8" />
+        <verse sID="Judg.15.10" osisID="Judg.15.10" />Et dixerunt vir Iuda, Quare ascendistis super nos? ...<verse eID="Judg.15.10" />
+        <verse sID="Judg.15.12" osisID="Judg.15.12" />... Iurate mihi, ne interficiatis me vos, et tradite me eis, ne forte occurratis in me vos.<verse eID="Judg.15.12" />
+        <verse sID="Judg.15.13" osisID="Judg.15.13" />... et reduxerunt eum de petra.<verse eID="Judg.15.13" />
+        <verse sID="Judg.15.14" osisID="Judg.15.14" />Et venit usque ad Maxillam ... sicut stupa, cum olefecerit ignem ...<verse eID="Judg.15.14" />
+        <verse sID="Judg.15.15" osisID="Judg.15.15" />... et extendit manum suam, et accepit eam ...<verse eID="Judg.15.15" />
+        <verse sID="Judg.15.16" osisID="Judg.15.16" />... In maxilla asinae delevi mille viros.<verse eID="Judg.15.16" />
+      </p>
+      <chapter eID="Judg.15" />
+      <chapter sID="Judg.16" osisID="Judg.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Judg.16.2" osisID="Judg.16.2" />Et nunciatum est Gazaeis, dicentes ...<verse eID="Judg.16.2" />
+        <verse sID="Judg.16.7" osisID="Judg.16.7" />... Si ligaverint me in septem nervis, humidis, nondum siccatis, et infirmabor ...<verse eID="Judg.16.7" />
+        <verse sID="Judg.16.9" osisID="Judg.16.9" />Et insidiae ei sedebant in cubiculo ...<verse eID="Judg.16.9" />
+        <verse sID="Judg.16.10" osisID="Judg.16.10" />... nunc ergo indica mihi in quo ligaberis.<verse eID="Judg.16.10" />
+        <verse sID="Judg.16.11" osisID="Judg.16.11" />... Si ligaverint me in funibus novis, in quibus non est factum opus, et infirmabor ...<verse eID="Judg.16.11" />
+        <verse sID="Judg.16.15" osisID="Judg.16.15" />... et hoc tertium fefellisti me ...<verse eID="Judg.16.15" />
+        <verse sID="Judg.16.17" osisID="Judg.16.17" />... et si tonsus fuero, discedet a me virtus mea ...<verse eID="Judg.16.17" />
+        <verse sID="Judg.16.20" osisID="Judg.16.20" />... Dominus discessit ab eo.<verse eID="Judg.16.20" />
+        <verse sID="Judg.16.26" osisID="Judg.16.26" />... Dimitte me, et palpabo columnas, super quas domus confirmata est super eas ...<verse eID="Judg.16.26" />
+      </p>
+      <chapter eID="Judg.16" />
+      <chapter sID="Judg.17" osisID="Judg.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Judg.17.4" osisID="Judg.17.4" />... et accepit mater eius argentum, et dedit illud conflatori, et fecit illud sculptile atque conflatile, et fuit in domo Michae.<verse eID="Judg.17.4" />
+        <verse sID="Judg.17.5" osisID="Judg.17.5" />Et vir Micha, et domus eius Dei, et fecit ephod, et theraphim, et implevit manum unius de filiis suis, et factus est ei in sacerdotem.<verse eID="Judg.17.5" />
+        <verse sID="Judg.17.6" osisID="Judg.17.6" />... unusquisque placita sibi faciebat, eo quod non esset rex in Israel.<verse eID="Judg.17.6" />
+      </p>
+      <chapter eID="Judg.17" />
+      <chapter sID="Judg.18" osisID="Judg.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Judg.18.14" osisID="Judg.18.14" />Et responderunt quinque viri, qui abierant considerare terram, et dixerunt ad fratres suo, Ecce nostis quia est in domibus istis ephod, et theraphim, et sculptile, atque conflatile ...<verse eID="Judg.18.14" />
+        <verse sID="Judg.18.17" osisID="Judg.18.17" />Et ascenderunt quinque viri, et illuc irruerunt, et sumpserunt sculptile, atque conflatile, ephod, et theraphim.<verse eID="Judg.18.17" />
+        <verse sID="Judg.18.18" osisID="Judg.18.18" />Et sexcenti viri qui cincti erant vasis bellicis, ingressi sunt domum Micha, et sumpserunt sculptile, atque conflatile, ephod, et theraphim ...<verse eID="Judg.18.18" />
+      </p>
+      <chapter eID="Judg.18" />
+      <chapter sID="Judg.19" osisID="Judg.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Judg.19.1" osisID="Judg.19.1" />Et fuit vir Levites habitans in lateribus domus Ephraim, et accepit sibi mulierem concubinam de Bethleem Iuda,<verse eID="Judg.19.1" />
+        <verse sID="Judg.19.2" osisID="Judg.19.2" />et irata est ei concubina sua, et abiit in domum patris sui in Bethleem Iuda ...<verse eID="Judg.19.2" />
+      </p>
+      <chapter eID="Judg.19" />
+      <chapter sID="Judg.21" osisID="Judg.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Judg.21.24" osisID="Judg.21.24" />... In illo tempore non erat dux in Israel, unusquisque, quod placitum erat in oculis suis, faciebat.<verse eID="Judg.21.24" />
+      </p>
+      <chapter eID="Judg.21" />
+    </div>
+  </osisText>
+</osis>

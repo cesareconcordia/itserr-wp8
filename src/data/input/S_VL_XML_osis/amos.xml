@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Amos" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Amos">
+        <title>amos</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Amos</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>amos</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Amos">
+      <title>amos</title>
+      <chapter sID="Amos.1" osisID="Amos.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Amos.1.1" osisID="Amos.1.1" />Sermones Amos, qui facti sunt in Accarim de Thecue, quos vidit pro Ierusalem in diebus Oziae regis Iuda, et in diebus Ieroboam filii Ioas regis Israel, ante duos annos terraemotus.<verse eID="Amos.1.1" />
+        <verse sID="Amos.1.2" osisID="Amos.1.2" />Et ait, Dominus de Sion effatus est, et de Ierusalem dedit vocem suam, et luxerunt pascua pastorum, et arefactus est vertex Carmeli.<verse eID="Amos.1.2" />
+        <verse sID="Amos.1.3" osisID="Amos.1.3" />Et dixit Dominus, Super tribus impietatibus Damasci, et super quatuor non aversabor eos, pro eo quod secuerunt serris ferreis praegnantes in Galaad.<verse eID="Amos.1.3" />
+        <verse sID="Amos.1.4" osisID="Amos.1.4" />Et emittam ignem in domum Azael, et devorabit fundamenta filii Ader.<verse eID="Amos.1.4" />
+        <verse sID="Amos.1.5" osisID="Amos.1.5" />Et conteram vectes Damasci, et disperdam habitatores de campo On, et concidam tribum ex viris Charran, et captivus ducetur populus Syriae nominatus, dicit Dominus.<verse eID="Amos.1.5" />
+        <verse sID="Amos.1.6" osisID="Amos.1.6" />Haec dicit Dominus, Super tribus impietatibus Gazae, et super quatuor non aversabor eos, eo quod captivam duxerunt captivitatem Salomonis, ut concluderent eam in Idumaeam.<verse eID="Amos.1.6" />
+        <verse sID="Amos.1.7" osisID="Amos.1.7" />Et emittam ignem super muros Gazae, et devorabit fundamenta eius.<verse eID="Amos.1.7" />
+        <verse sID="Amos.1.8" osisID="Amos.1.8" />Et disperdam habitatores Azoti, et auferetur tribus de Ascalone, et inferam manum meam in Accaronem, et peribunt reliqui alienigenarum, dicit Dominus.<verse eID="Amos.1.8" />
+        <verse sID="Amos.1.9" osisID="Amos.1.9" />Haec dicit Dominus, Super tribus impietatibus Tyri, et super quatuor non aversabor eos, eo quod concluserunt captivitatem Salomonis in Idumaea, et non sunt recordati testamenti fratrum.<verse eID="Amos.1.9" />
+        <verse sID="Amos.1.10" osisID="Amos.1.10" />Et emittam ignem super muros Tyri, et devorabit fundamenta eius.<verse eID="Amos.1.10" />
+        <verse sID="Amos.1.11" osisID="Amos.1.11" />Haec dicit Dominus, Super tribus impietatibus Idumaeae, et super quatuor non aversabor eos, eo quod persecutus sit in gladio fratrem suum, et violaverit vulvam super terram, et rapuit in testimonium horrorem suum, et impetum suum custodivit in aeternum.<verse eID="Amos.1.11" />
+        <verse sID="Amos.1.12" osisID="Amos.1.12" />Et emittam ignem in Theman, et devorabit fundamenta murorum eius.<verse eID="Amos.1.12" />
+        <verse sID="Amos.1.13" osisID="Amos.1.13" />Haec dicit Dominus, Super tribus impietatibus filiorum Ammon, et super quatuor non aversabor eos, eo quod desecuerit praegnantes Galaaditarum ut dilataret terminos suos.<verse eID="Amos.1.13" />
+        <verse sID="Amos.1.14" osisID="Amos.1.14" />Et succendam ignem super muros Rabba, et devorabit fundamenta cum clamore in die belli, et commovebitur in die consummationis suae.<verse eID="Amos.1.14" />
+        <verse sID="Amos.1.15" osisID="Amos.1.15" />Et ibunt reges in captivitatem, sacerdotes eorum, et principes eorum simul, dicit Dominus.<verse eID="Amos.1.15" />
+      </p>
+      <chapter eID="Amos.1" />
+      <chapter sID="Amos.2" osisID="Amos.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Amos.2.1" osisID="Amos.2.1" />Haec dicit Dominus, Super tribus impietatibus Moab, et super quatuor non aversabor eos, pro quod incenderit ossa regis Idumaeae in cinerem.<verse eID="Amos.2.1" />
+        <verse sID="Amos.2.2" osisID="Amos.2.2" />Et emittam ignem in Moab, et devorabit fundamenta civitatum eius, et morietur in infirmitate Moab, cum clamore, et cum voce tubae,<verse eID="Amos.2.2" />
+        <verse sID="Amos.2.3" osisID="Amos.2.3" />et disperdam iudicium ex ea, et omnes principes eius interficiam, dicit Dominus.<verse eID="Amos.2.3" />
+        <verse sID="Amos.2.4" osisID="Amos.2.4" />Haec dicit Dominus, Super tribus impietatibus filiorum Iuda, et super quatuor non aversabor eos, quia repulerunt legem Domini, et praecepta illius non custodierunt, et decepti sunt in vanitatibus suis, quas secuti sunt patres eorum.<verse eID="Amos.2.4" />
+        <verse sID="Amos.2.5" osisID="Amos.2.5" />Et emittam ignem in Iuda, et devorabit fundamenta Ierusalem.<verse eID="Amos.2.5" />
+        <verse sID="Amos.2.6" osisID="Amos.2.6" />Haec dicit Dominus, Super tribus impietatibus Israel, et super quatuor non aversabor eos, pro eo quod vendiderit argento iustum, et pauperem propter calciamenta,<verse eID="Amos.2.6" />
+        <verse sID="Amos.2.7" osisID="Amos.2.7" />quae calcant super pulverem terrae, et pugno percutiebant capita pauperum, et viam humilium declinabant, et filius et pater eius ingrediebantur ad eandem puellam, ut contaminarent nomen Dei sui.<verse eID="Amos.2.7" />
+        <verse sID="Amos.2.8" osisID="Amos.2.8" />Et vestimenta sua alligantes funibus, faciebant umbracula iuxta altare, et vinum de calumniis bibebant in domo Dei sui.<verse eID="Amos.2.8" />
+        <verse sID="Amos.2.9" osisID="Amos.2.9" />Ego autem abstuli Amorrhaeum a facie eorum, cuius erat, sicut altitudo cedri, sublimitas eius, et fortis quasi quercus, et arefeci fructum eius desuper, et radices eius deorsum.<verse eID="Amos.2.9" />
+        <verse sID="Amos.2.10" osisID="Amos.2.10" />Ego eduxi vos de terra Aegypti, et circumduxi vos in deserto quadraginta annis, ut possideretis terram Amorrhaeorum.<verse eID="Amos.2.10" />
+        <verse sID="Amos.2.11" osisID="Amos.2.11" />Et assumpsi de filiis vestris in prophetas, et de iuvenibus vestris in sanctificationem, nunquid non est ita filii Israel, dicit Dominus?<verse eID="Amos.2.11" />
+        <verse sID="Amos.2.12" osisID="Amos.2.12" />Et propinabatis sanctificatis vinum, et prophetis mandabatis, dicentes, Ne prophetetis.<verse eID="Amos.2.12" />
+        <verse sID="Amos.2.13" osisID="Amos.2.13" />Quapropter ecce ego volvam subter vos, sicut volvitur plaustrum plenum stipula.<verse eID="Amos.2.13" />
+        <verse sID="Amos.2.14" osisID="Amos.2.14" />Et peribit fuga a cursore, a fortis non obtinebit fortitudinem suam, et pugnator non salvabit animam,<verse eID="Amos.2.14" />
+        <verse sID="Amos.2.15" osisID="Amos.2.15" />et sagittarius non sustinebit, et velox pedibus salvari non poterit, et eques non salvabit animam suam,<verse eID="Amos.2.15" />
+        <verse sID="Amos.2.16" osisID="Amos.2.16" />et inventum cor eius inter potentes, et nudus fugiet in die illa, dicit Dominus.<verse eID="Amos.2.16" />
+      </p>
+      <chapter eID="Amos.2" />
+      <chapter sID="Amos.3" osisID="Amos.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Amos.3.1" osisID="Amos.3.1" />Audite verbum hoc, quod locutus est Dominus super vos, domus Israel. Et contra omnem tribum, quam eduxi de terra Aegypti, dicens,<verse eID="Amos.3.1" />
+        <verse sID="Amos.3.2" osisID="Amos.3.2" />Veruntamen vos cognovi de universis tribubus terrae, ideo ulciscar super vos omnes malitias vestras.<verse eID="Amos.3.2" />
+        <verse sID="Amos.3.3" osisID="Amos.3.3" />Si ambulabunt duo simul omnino, nisi cognoverint se?<verse eID="Amos.3.3" />
+        <verse sID="Amos.3.4" osisID="Amos.3.4" />Si ructabit leo de saltu suo, praedam non habens? Si dabit catulus leonis vocem suam de cubili suo omnino, nisi aliquid rapuerit?<verse eID="Amos.3.4" />
+        <verse sID="Amos.3.5" osisID="Amos.3.5" />Si cadet avis super terram sine aucupe? Si deponatur laqueus super terram nisi aliquid apprehenderit?<verse eID="Amos.3.5" />
+        <verse sID="Amos.3.6" osisID="Amos.3.6" />Si clanget tuba in civitate, et populus non timebit? Si erit malitia in urbe, quam Dominus non fecit?<verse eID="Amos.3.6" />
+        <verse sID="Amos.3.7" osisID="Amos.3.7" />Quia non faciet Dominus Deus aliquid, nisi revelaverit eruditionem suam ad servos suos prophetas.<verse eID="Amos.3.7" />
+        <verse sID="Amos.3.8" osisID="Amos.3.8" />Leo ructabit, et quis non timebit? Dominus Deus locutus est, et quis non prophetabit?<verse eID="Amos.3.8" />
+        <verse sID="Amos.3.9" osisID="Amos.3.9" />Annuntiate regionibus in Assyriis, et in regionibus terrae Aegypti, et dicite, Congregamini super montem Samariae, et videte mirabilia multa in medio eius, et oppressionem in ea.<verse eID="Amos.3.9" />
+        <verse sID="Amos.3.10" osisID="Amos.3.10" />Et ignoravit quae futura sint coram ea, dicit Dominus, qui thesaurizant iniquitatem et miseriam in regionibus eorum.<verse eID="Amos.3.10" />
+        <verse sID="Amos.3.11" osisID="Amos.3.11" />Propterea haec dicit Dominus Deus, Tyrus, et in circuitu terra tua deserta erit, et detrahet de te fortitudinem tuam, et diripientur regiones tuae.<verse eID="Amos.3.11" />
+        <verse sID="Amos.3.12" osisID="Amos.3.12" />Haec dicit Dominus, Quomodo si avellat pastor de ore leonis duo crura, aut extremum auriculae, sic avellentur filii Israel, qui habitant in Samaria contra tribum, et in Damasco.<verse eID="Amos.3.12" />
+        <verse sID="Amos.3.13" osisID="Amos.3.13" />Sacerdotes audite, contestamini domum Iacob, dicit Dominus Deus omnipotens,<verse eID="Amos.3.13" />
+        <verse sID="Amos.3.14" osisID="Amos.3.14" />quia in die qua ulciscar iniquitates Israel, super eum ulciscar, et super altaria Bethel, et suffodientur cornua altaris, et cadent super terram.<verse eID="Amos.3.14" />
+        <verse sID="Amos.3.15" osisID="Amos.3.15" />Confundam, et percutiam domum pinnatam super domum aestivam, et peribunt domus eburneae, et adiicientur domus aliae multae, dicit Dominus.<verse eID="Amos.3.15" />
+      </p>
+      <chapter eID="Amos.3" />
+      <chapter sID="Amos.4" osisID="Amos.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Amos.4.1" osisID="Amos.4.1" />Audite verbum istud vaccae Basanitides, quae estis in monte Samariae, quae opprimitis pauperes, et conculcatis egenos, quae dicitis dominis vestris, Date nobis, ut bibamus.<verse eID="Amos.4.1" />
+        <verse sID="Amos.4.2" osisID="Amos.4.2" />Iurat Dominus per sanctos suos, quoniam ecce dies venient super vos, et toilent vos in armis, et eos qui vobiscum sunt in ollis, negotiatores pestilentes.<verse eID="Amos.4.2" />
+        <verse sID="Amos.4.3" osisID="Amos.4.3" />Et eiiciemini nudae contra invicem, et proiiciemini super montem Remman, dicit Dominus.<verse eID="Amos.4.3" />
+        <verse sID="Amos.4.4" osisID="Amos.4.4" />Introistis in Bethel, et inique egistis, in Galgala multiplicastis impie agere, et intulistis mane hostias vestras, in die tertio decimas vestras.<verse eID="Amos.4.4" />
+        <verse sID="Amos.4.5" osisID="Amos.4.5" />Et legerunt foris legem, et invocaverunt confessiones, annuntiate quia haec dilexerunt filii Israel, dicit Dominus Deus.<verse eID="Amos.4.5" />
+        <verse sID="Amos.4.6" osisID="Amos.4.6" />Et ego dabo vobis stuporem dentium in cunctis urbibus vestris, et indigentiam panum in omnibus locis vestris, et non estis reversi ad me, dicit Dominus.<verse eID="Amos.4.6" />
+        <verse sID="Amos.4.7" osisID="Amos.4.7" />Et ego repressi a vobis pluviam ante tres menses vindemiae, et pluam super civitatem unam, et super civitatem unam non pluam, pars una irrigabitur. Et pars, super quam non pluero, arefiet.<verse eID="Amos.4.7" />
+        <verse sID="Amos.4.8" osisID="Amos.4.8" />Et congregabuntur duae et tres civitates in civitatem unam ut bibant aquam, et non satiabuntur, et non estis reversi ad me, dicit Dominus.<verse eID="Amos.4.8" />
+        <verse sID="Amos.4.9" osisID="Amos.4.9" />Percussi vos in ardore, et in aurugine, multiplicastis hortos vestros, vineas vestras, et ficus vestras, et oliveta vestra comedit eruca, et ne sic quidem conversi estis ad me, dicit Dominus.<verse eID="Amos.4.9" />
+        <verse sID="Amos.4.10" osisID="Amos.4.10" />Emisi in vos mortem in via Aegypti, et occidi in gladio iuvenes vestros, cum captivitate equorum vestrorum, et eduxi in igne castra vestra in ira mea, et ne sic quidem reversi estis ad me, dicit Dominus.<verse eID="Amos.4.10" />
+        <verse sID="Amos.4.11" osisID="Amos.4.11" />Subverti vos, sicut subvertit Deus Sodomam, et Gomorrham, et facti estis sicut torris erutus de igne, et ne sic quidem conversi estis ad me, dicit Dominus.<verse eID="Amos.4.11" />
+        <verse sID="Amos.4.12" osisID="Amos.4.12" />Propterea sic faciam tibi Israel, veruntamen quia sic faciam tibi, praeparare ut invoces Deum tuum Israel.<verse eID="Amos.4.12" />
+        <verse sID="Amos.4.13" osisID="Amos.4.13" />Quia ecce firmans tonitruum, et creans spiritum, et annuntians in homines Christum suum, faciens mane, et nebulam, et ascendens super excelsa terrae, Dominus Deus omnipotens nomen eius.<verse eID="Amos.4.13" />
+      </p>
+      <chapter eID="Amos.4" />
+      <chapter sID="Amos.5" osisID="Amos.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Amos.5.1" osisID="Amos.5.1" />Audite verbum istud, quod ego assumam super vos planctum, Domus Israel cecidit, non adiiciet amplius ut resurgat.<verse eID="Amos.5.1" />
+        <verse sID="Amos.5.2" osisID="Amos.5.2" />Virgo Israel proiecta est super terram suam, non est qui suscitet eam.<verse eID="Amos.5.2" />
+        <verse sID="Amos.5.3" osisID="Amos.5.3" />Quia haec dicit Dominus Deus, Urbs de qua egrediebantur mille, relinquentur in ea centum, et de qua egrediebantur centum, relinquentur in ea decem in domo Israel.<verse eID="Amos.5.3" />
+        <verse sID="Amos.5.4" osisID="Amos.5.4" />Quia haec dicit Dominus ad domum Israel, Quaerite me, et vivetis.<verse eID="Amos.5.4" />
+        <verse sID="Amos.5.5" osisID="Amos.5.5" />Et nolite quaerere Bethel, et in Galgala ne ingrediamini, et super puteum iuramenti non transeatis, quia Galgala captiva ducetur, et Bethel erit quasi non sit.<verse eID="Amos.5.5" />
+        <verse sID="Amos.5.6" osisID="Amos.5.6" />Quaerite Dominum, et vivite, ne forte succendatur ut ignis domus Ioseph, et devoret eam, et non sit qui exstinguat domum Israel.<verse eID="Amos.5.6" />
+        <verse sID="Amos.5.7" osisID="Amos.5.7" />Qui facit in excelso iudicium, et iustitiam in terra posuit.<verse eID="Amos.5.7" />
+        <verse sID="Amos.5.8" osisID="Amos.5.8" />Qui facit omnia, et transformat, et convertit in mane umbram mortis, et diem nocte contenebrat, qui vocat aquam maris, et effundit eam super faciem terrae, Dominus Deus omnipotens nomen eius.<verse eID="Amos.5.8" />
+        <verse sID="Amos.5.9" osisID="Amos.5.9" />Qui dividit contritionem super fortitudinem, et miseriam super munitionem adducit.<verse eID="Amos.5.9" />
+        <verse sID="Amos.5.10" osisID="Amos.5.10" />Odio habuerunt in portis arguentem, et verbum sanctum abominati sunt.<verse eID="Amos.5.10" />
+        <verse sID="Amos.5.11" osisID="Amos.5.11" />Propterea, quia pugno percutiebatis pauperes, et munera electa accipiebatis ab eis, domos dolatis lapidibus aedificastis, et non habitabitis in eis, vineas desiderabiles plantastis, et non bibetis vinum earum.<verse eID="Amos.5.11" />
+        <verse sID="Amos.5.12" osisID="Amos.5.12" />Quia ego cognovi multas impietates vestras, et fortia peccata vestra, conculcantes iustum, accipientes commutationes, et pauperes in portis declinantes,<verse eID="Amos.5.12" />
+        <verse sID="Amos.5.13" osisID="Amos.5.13" />Ideo qui intelligit, in tempore illo silebit, quia tempus malum est.<verse eID="Amos.5.13" />
+        <verse sID="Amos.5.14" osisID="Amos.5.14" />Quaerite bonum, et non malum, ut vivatis, et erit sic Dominus Deus omnipotens vobiscum, sicut dixistis,<verse eID="Amos.5.14" />
+        <verse sID="Amos.5.15" osisID="Amos.5.15" />Odio habuimus mala, et dileximus bona, et reddite in portis iudicium, ut misereatur Dominus Deus his, qui reliqui sunt de Ioseph.<verse eID="Amos.5.15" />
+        <verse sID="Amos.5.16" osisID="Amos.5.16" />Ideo haec dicit Dominus Deus omnipotens, In cunctis plateis planctus, et in omnibus viis dicetur vae vae, vocabitur agricola ad luctum, et ad planctum hi qui sciunt lamentationem.<verse eID="Amos.5.16" />
+        <verse sID="Amos.5.17" osisID="Amos.5.17" />Et in omnibus viis planctus, quia pertransibo per medium tui, dicit Dominus.<verse eID="Amos.5.17" />
+        <verse sID="Amos.5.18" osisID="Amos.5.18" />Vae desiderantibus diem Domini, ut quid hanc vobis diem Domini? Et ea est tenebrae, et non lux.<verse eID="Amos.5.18" />
+        <verse sID="Amos.5.19" osisID="Amos.5.19" />Quomodo si fugiat homo a facie leonis, et incidat in eum ursus, et introeat in domum, et innitatur manibus suis super parietem, et mordeat eum coluber.<verse eID="Amos.5.19" />
+        <verse sID="Amos.5.20" osisID="Amos.5.20" />Nonne tenebrae dies Domini, et non lux, et caligo, et non habet splendorem?<verse eID="Amos.5.20" />
+        <verse sID="Amos.5.21" osisID="Amos.5.21" />Odio habui, et repuli festivitates vestras, nec odorabor in conventionibus vestris.<verse eID="Amos.5.21" />
+        <verse sID="Amos.5.22" osisID="Amos.5.22" />Et si obtuleritis mihi holocausta, et sacrificia, non suscipiam, et salutare praesentiae vestrae non respiciam.<verse eID="Amos.5.22" />
+        <verse sID="Amos.5.23" osisID="Amos.5.23" />Transfer a me sonitum carminum tuorum, et psalmum organorum tuorum non audiam.<verse eID="Amos.5.23" />
+        <verse sID="Amos.5.24" osisID="Amos.5.24" />Et volvetur sicut aqua iudicium, et iustitia sicut torrens invius.<verse eID="Amos.5.24" />
+        <verse sID="Amos.5.25" osisID="Amos.5.25" />Nunquid hostias et victimas obtulistis mihi in eremo quadraginta annis, domus Israel?<verse eID="Amos.5.25" />
+        <verse sID="Amos.5.26" osisID="Amos.5.26" />Et assumpsistis tabernaculum Melchom, et sidus dei vestri Rephan, figuras eorum, quas fecistis vobis.<verse eID="Amos.5.26" />
+        <verse sID="Amos.5.27" osisID="Amos.5.27" />Et transferam vos trans Damascum, dicit Dominus, Deus omnipotens nomen eius.<verse eID="Amos.5.27" />
+      </p>
+      <chapter eID="Amos.5" />
+      <chapter sID="Amos.6" osisID="Amos.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Amos.6.1" osisID="Amos.6.1" />Vae qui despiciunt Sion, et confidunt in monte Samariae, vindemiarunt primitias gentium, et ingressi sunt sibi. Domus Israel<verse eID="Amos.6.1" />
+        <verse sID="Amos.6.2" osisID="Amos.6.2" />transite omnes, et videte in Chalanem, et pertransite inde in Emath rabba, et descendite in Geth alienigenarum, optimas ex omnibus regnis his, si ampliores sunt termini eorum terminis vestris.<verse eID="Amos.6.2" />
+        <verse sID="Amos.6.3" osisID="Amos.6.3" />Qui venitis in diem malum, appropinquatis et tangitis sabbata mendacia.<verse eID="Amos.6.3" />
+        <verse sID="Amos.6.4" osisID="Amos.6.4" />Qui dormitis in lectis eburneis, et affluitis deliciis in stratis vestris, et comeditis haedos de gregibus, et lactentes vitulos de medio armentorum.<verse eID="Amos.6.4" />
+        <verse sID="Amos.6.5" osisID="Amos.6.5" />Qui concrepatis ad vocem organorum, quasi stantia putaverunt, et non quasi fugientia.<verse eID="Amos.6.5" />
+        <verse sID="Amos.6.6" osisID="Amos.6.6" />Qui bibitis vinum defecatum, et primis unguentis ungimini, et nihil patiebamini super contritione Ioseph.<verse eID="Amos.6.6" />
+        <verse sID="Amos.6.7" osisID="Amos.6.7" />Propterea nunc captivi erunt ab initio fortium, et auferetur hinnitus equorum ex Ephraim.<verse eID="Amos.6.7" />
+        <verse sID="Amos.6.8" osisID="Amos.6.8" />Quia iuravit Dominus per semetipsum, dicit Dominus Deus virtutum, Quia abominabor ego omnem contumeliam Iacob, et regiones eius odi, et auferam civitatem cum omnibus habitatoribus suis.<verse eID="Amos.6.8" />
+        <verse sID="Amos.6.9" osisID="Amos.6.9" />Et erit, si remanserint decem viri in domo una, et mortui fuerint,<verse eID="Amos.6.9" />
+        <verse sID="Amos.6.10" osisID="Amos.6.10" />et tollent domestici eius, et conabuntur ut auferant ossa eorum de domo, et dicent his, qui praesunt domui, Si adhuc est apud te?<verse eID="Amos.6.10" />
+        <verse sID="Amos.6.11" osisID="Amos.6.11" />Et dicet, Nequaquam. Et dicet, Tace, ne nomines nomen Domini.<verse eID="Amos.6.11" />
+        <verse sID="Amos.6.12" osisID="Amos.6.12" />Propterea ecce Dominus mandabit, et percutiet domum magnam ruinis, et domum parvam scissionibus.<verse eID="Amos.6.12" />
+        <verse sID="Amos.6.13" osisID="Amos.6.13" />Si persequentur in petris equi, si reticebunt ad feminas, quoniam convertistis in furorem iudicium, et fructum iustitiae in amaritudinem?<verse eID="Amos.6.13" />
+        <verse sID="Amos.6.14" osisID="Amos.6.14" />Qui laetamini super nullo verbo bono, qui dicitis, Nonne in fortitudine nostra habuimus cornua?<verse eID="Amos.6.14" />
+        <verse sID="Amos.6.15" osisID="Amos.6.15" />Quia ecce ego suscitabo super vos domus Israel, ait Dominus Deus exercituum, gentem, et conterent vos, non ut introeatis in Emath, et usque ad torrentem Occidentis.<verse eID="Amos.6.15" />
+      </p>
+      <chapter eID="Amos.6" />
+      <chapter sID="Amos.7" osisID="Amos.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Amos.7.1" osisID="Amos.7.1" />Sic ostendit mihi Dominus, et ecce fetus locustarum veniebat maturinus, et ecce bruchus unus Gog rex.<verse eID="Amos.7.1" />
+        <verse sID="Amos.7.2" osisID="Amos.7.2" />Et erit, si compleverit ut devoret fenum terrae, et dixi, Domine Deus propitius esto, quis suscitabit Iacob, quoniam modicus est?<verse eID="Amos.7.2" />
+        <verse sID="Amos.7.3" osisID="Amos.7.3" />Poeniteat te Domine super hoc, Et hoc non erit, dicit Dominus.<verse eID="Amos.7.3" />
+        <verse sID="Amos.7.4" osisID="Amos.7.4" />Sic ostendit mihi Dominus Deus, et ecce vocavit iudicium in igne Dominus Deus, et devoravit abyssum multam, et comedit partem.<verse eID="Amos.7.4" />
+        <verse sID="Amos.7.5" osisID="Amos.7.5" />Et dixi, Domine Deus desine, quis suscitabit Iacob, quoniam parvulus est?<verse eID="Amos.7.5" />
+        <verse sID="Amos.7.6" osisID="Amos.7.6" />Poeniteat te Domine super hoc, Et hoc non siet, dicit Dominus Deus.<verse eID="Amos.7.6" />
+        <verse sID="Amos.7.7" osisID="Amos.7.7" />Sic ostendit mihi Dominus, et ecce vir stabat super murum adamantinum, et in manu eius adamas.<verse eID="Amos.7.7" />
+        <verse sID="Amos.7.8" osisID="Amos.7.8" />Et dixit Dominus ad me, Quid tu vides Amos? Et dixi, Adamantem. Et dixit Dominus ad me, Ecce ego iniiciam adamantem in medio populi mei Israel, nequaquam ultra addam ut pertranseam eum.<verse eID="Amos.7.8" />
+        <verse sID="Amos.7.9" osisID="Amos.7.9" />Et dissipabuntur arae risus, et sacrificia Israel desolabuntur, et consurgam super domum Ieroboam in gladio.<verse eID="Amos.7.9" />
+        <verse sID="Amos.7.10" osisID="Amos.7.10" />Et misit Amasias sacerdos Bethel ad Ieroboam regem Israel, dicens, Congregationes facit contra te Amos in medio domus Israel, non poterit terra sustinere omnes sermones eius.<verse eID="Amos.7.10" />
+        <verse sID="Amos.7.11" osisID="Amos.7.11" />Haec enim dicit Amos, In gladio morietur Ieroboam, Israel autem captivus ducetur de terra sua.<verse eID="Amos.7.11" />
+        <verse sID="Amos.7.12" osisID="Amos.7.12" />Et dixit Amasias ad Amos, Qui vides, egredere, recede in terram Iuda, et ibi vive, et ibi prophetabis.<verse eID="Amos.7.12" />
+        <verse sID="Amos.7.13" osisID="Amos.7.13" />In Bethel autem non adiicies ultra prophetare, quia sanctificatio regis est, et domus regni.<verse eID="Amos.7.13" />
+        <verse sID="Amos.7.14" osisID="Amos.7.14" />Et respondit Amos, et dixit ad Amasiam, Non eram propheta ego, neque filius prophetae, sed pastor vellicans sycamina.<verse eID="Amos.7.14" />
+        <verse sID="Amos.7.15" osisID="Amos.7.15" />Et tulit me Dominus ex ovibus, et dixit Dominus ad me, Vade, et prophetiza super populum meum Israel.<verse eID="Amos.7.15" />
+        <verse sID="Amos.7.16" osisID="Amos.7.16" />Et nunc audi sermonem Domini, Tu dicis, Noli prophetare super Israel, et ne congreges audientes contra domum Iacob.<verse eID="Amos.7.16" />
+        <verse sID="Amos.7.17" osisID="Amos.7.17" />Propterea haec dicit Dominus, Uxor tua in civitate fornicabitur, et filii tui, et filiae tuae in gladio cadent, et terra tua funiculo dividetur, et tu in terra immunda morieris, Israel autem captivus ducetur de terra sua.<verse eID="Amos.7.17" />
+      </p>
+      <chapter eID="Amos.7" />
+      <chapter sID="Amos.8" osisID="Amos.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Amos.8.1" osisID="Amos.8.1" />Sic ostendit mihi Dominus Deus, et ecce vas aucupis.<verse eID="Amos.8.1" />
+        <verse sID="Amos.8.2" osisID="Amos.8.2" />Et dixit, Quid tu vides Amos? Et dixi, Vas aucupis. Et dixit Dominus ad me, Venit finis super populum meum Israel, non addam ultra ut pertranseam eum.<verse eID="Amos.8.2" />
+        <verse sID="Amos.8.3" osisID="Amos.8.3" />Et ululabunt laquearia templi in die illa, dicit Dominus Deus, multi cadentes erunt, in omni loco iniiciam silentium.<verse eID="Amos.8.3" />
+        <verse sID="Amos.8.4" osisID="Amos.8.4" />Audite haec qui conteritis mane pauperem, et opprimitis egenos de terra.<verse eID="Amos.8.4" />
+        <verse sID="Amos.8.5" osisID="Amos.8.5" />Qui dicitis, Quando pertransibit mensis, et negotiabimur. Et sabbata, et aperiemus horreum, ut faciamus minorem mensuram, et maius pondus, et faciamus stateram iniquam,<verse eID="Amos.8.5" />
+        <verse sID="Amos.8.6" osisID="Amos.8.6" />ut possideamus in pecunia pauperes, et egenum pro calciamentis, et de omni venditione negotiemur?<verse eID="Amos.8.6" />
+        <verse sID="Amos.8.7" osisID="Amos.8.7" />Iuravit Dominus contra superbiam Iacob, Si obliviscetur in finem omnia opera vestra.<verse eID="Amos.8.7" />
+        <verse sID="Amos.8.8" osisID="Amos.8.8" />Et super his non conturbabitur terra, et lugebit omnis habitator eius, et ascendet quasi flumen consummatio ipsius, et descendet quasi fluvius Aegypti?<verse eID="Amos.8.8" />
+        <verse sID="Amos.8.9" osisID="Amos.8.9" />Et erit in die illa, dicit Dominus Deus, occidet sol meridie, et contenebrescet super terram in die lux,<verse eID="Amos.8.9" />
+        <verse sID="Amos.8.10" osisID="Amos.8.10" />et convertam solemnitates vestras in luctum, et omnia cantica vestra in planctum, et inducam super omnem lumbum saccum, et super omne caput calvitium, et ponam eam quasi luctum dilecti, et qui cum eo sunt quasi diem doloris.<verse eID="Amos.8.10" />
+        <verse sID="Amos.8.11" osisID="Amos.8.11" />Ecce dies veniunt, dicit Dominus Deus, et emittam famem super terram, non famem panis, neque sitim aquae, sed famem audiendi verbum Domini.<verse eID="Amos.8.11" />
+        <verse sID="Amos.8.12" osisID="Amos.8.12" />Et commovebuntur aquae de mari usque ad mare, et ab Aquilone usque ad Orientem, circuibunt quaerentes verbum Domini, et non inveniunt.<verse eID="Amos.8.12" />
+        <verse sID="Amos.8.13" osisID="Amos.8.13" />In die illa deficient virgines pulchrae, et iuvenes in siti.<verse eID="Amos.8.13" />
+        <verse sID="Amos.8.14" osisID="Amos.8.14" />Qui iurant per propitiationem Samariae, qui dicunt, Vivit Deus tuus Dan, et vivit Deus tuus Bersabee, et cadent, et non resurgent amplius.<verse eID="Amos.8.14" />
+      </p>
+      <chapter eID="Amos.8" />
+      <chapter sID="Amos.9" osisID="Amos.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Amos.9.1" osisID="Amos.9.1" />Vidi Dominum stantem super altare, et dixit, Percute super propitiatorium, et commovebuntur vestibula, et disiice in capita omnium, et reliquos eorum gladio interficiam, non fugiet ex eis qui fugerit, et non salvabitur ex illis qui fuerit resalvatus.<verse eID="Amos.9.1" />
+        <verse sID="Amos.9.2" osisID="Amos.9.2" />Si defossi fuerint in inferno, inde manus mea evellet eos, et si ascenderint in coelum, inde detraham illos.<verse eID="Amos.9.2" />
+        <verse sID="Amos.9.3" osisID="Amos.9.3" />Si absconditi fuerint in vertice Carmeli, inde scrutans auferam eos, et si demerserint se ab oculis meis in profundum maris, ibi mandabo draconi, et mordebit eos.<verse eID="Amos.9.3" />
+        <verse sID="Amos.9.4" osisID="Amos.9.4" />Et si abierint in captivitatem ante faciem inimicorum suorum, ibi praecipiam gladio, et interficiet eos, et obfirmabo oculos meos super illos in mala, et non in bona.<verse eID="Amos.9.4" />
+        <verse sID="Amos.9.5" osisID="Amos.9.5" />Et Dominus Deus omnipotens, qui tangit terram, et commovet eam, et lugebunt omnes habitatores eius, et ascendet sicut fluvius consummatio eorum, et descendet sicut flumen Aegypti.<verse eID="Amos.9.5" />
+        <verse sID="Amos.9.6" osisID="Amos.9.6" />Qui aedificat in coelo ascensionem suam, et promissionem suam super terram fundat, qui vocat aquam maris, et effundit eam super faciem terrae, Dominus omnipotens nomen eius.<verse eID="Amos.9.6" />
+        <verse sID="Amos.9.7" osisID="Amos.9.7" />Nonne ut filii Aethiopum vos estis mihi, filii Israel, dicit Dominus? Nonne Israel eduxi de terra Aegypti, et alienigenas de Cappado ia, et Syros de fovea?<verse eID="Amos.9.7" />
+        <verse sID="Amos.9.8" osisID="Amos.9.8" />Ecce oculi Domini Dei super regnum peccatorum, et auferam illud a facie terrae, veruntamen non in finem auferam domum Iacob, dicit Dominus.<verse eID="Amos.9.8" />
+        <verse sID="Amos.9.9" osisID="Amos.9.9" />Quia ecce ego praecipio, et ventilabo in cunctis gentibus domum Israel, sicut ventilatur in ventilabro, et non cadet contritio super terram.<verse eID="Amos.9.9" />
+        <verse sID="Amos.9.10" osisID="Amos.9.10" />In gladio morientur omnes peccatores populi mei, qui dicunt, Non appropinquabit, neque venient super nos mala.<verse eID="Amos.9.10" />
+        <verse sID="Amos.9.11" osisID="Amos.9.11" />In die illa suscitabo tabernaculum David, quod ceciderat, et aedificabo ea quae corruerant, et quae suffusa sunt suscitabo, et instaurabo ea sicut dies antiquos.<verse eID="Amos.9.11" />
+        <verse sID="Amos.9.12" osisID="Amos.9.12" />Ut quaerant me reliqui hominum, et omnes gentes, super quas invocatum est nomen meum, dicit Dominus faciens haec omnia.<verse eID="Amos.9.12" />
+        <verse sID="Amos.9.13" osisID="Amos.9.13" />Ecce dies veniunt, dicit Dominus, et apprehendet tritura vindemiam, et variabitur uva in semente, et stillabunt montes dulcedinem, et omnes colles consiti erunt.<verse eID="Amos.9.13" />
+        <verse sID="Amos.9.14" osisID="Amos.9.14" />Et convertam captivitatem populi mei Israel, et aedificabunt civitates dissipatas, et habitabunt, et plantabunt vineas, et bibent vinum earum, et facient hortos, et comedent fructum eorum.<verse eID="Amos.9.14" />
+        <verse sID="Amos.9.15" osisID="Amos.9.15" />Et plantabuntur super terram suam, et non avellentur amplius de terra sua, quam dedi eis, dicit Dominus Deus omnipotens.<verse eID="Amos.9.15" />
+      </p>
+      <chapter eID="Amos.9" />
+    </div>
+  </osisText>
+</osis>

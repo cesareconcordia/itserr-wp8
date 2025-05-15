@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="john-3" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="john-3">
+        <title>John-3</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">john-3</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>John-3</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="john-3">
+      <title>John-3</title>
+      <chapter sID="john-3.1" osisID="john-3.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="john-3.1.1" osisID="john-3.1.1" />SENIOR Gaio dilectissimo, quem ego diligo in veritate.<verse eID="john-3.1.1" />
+        <verse sID="john-3.1.4" osisID="john-3.1.4" />Maius autem horum non habeo gaudium quam ut audiam filios meos in veritate ambulantes.<verse eID="john-3.1.4" />
+        <verse sID="john-3.1.5" osisID="john-3.1.5" />Charissime, fideliter facis quodcunque operaris in fratribus, et hoc peregrinis.<verse eID="john-3.1.5" />
+        <verse sID="john-3.1.6" osisID="john-3.1.6" />qui testimonium dederunt dilectioni tuae coram Ecclesia: quos, optime facis, si praemiseris Deo digne.<verse eID="john-3.1.6" />
+        <verse sID="john-3.1.7" osisID="john-3.1.7" />Pro nomine enim Domini exierunt, nihil accipientes a Gentibus.<verse eID="john-3.1.7" />
+        <verse sID="john-3.1.9" osisID="john-3.1.9" />Scripsi etiam Ecclesiae: sed qui primatus agere cupit eorum, Diotrephes, non recipit nos:<verse eID="john-3.1.9" />
+        <verse sID="john-3.1.10" osisID="john-3.1.10" />Propterea cum venero, admonebo eius opera, quae facit, malis verbis detrahens de nobis: et non sufficit ei, quod ipse non recipit fratres; sed et volentes prohibet, et de Ecclesia eiicit.<verse eID="john-3.1.10" />
+        <verse sID="john-3.1.11" osisID="john-3.1.11" />..... qui male facit, non vidit Deum.<verse eID="john-3.1.11" />
+        <verse sID="john-3.1.12" osisID="john-3.1.12" />Demetrio testimonium perhibetur ab omnibus, et ab ipsa veritate, et nos vero testimonium perhibemus: et scis, testimonium nostrum verum est.<verse eID="john-3.1.12" />
+        <verse sID="john-3.1.13" osisID="john-3.1.13" />Plura habui scribere tibi: sed nolo per atramentum, et calamum scribere tibi.<verse eID="john-3.1.13" />
+        <verse sID="john-3.1.14" osisID="john-3.1.14" />Spero enim protinus te visurum, et os ad os locuturum. Pax tecum. Salutant te amici tui. Saluta amicos nominatim.<verse eID="john-3.1.14" />
+      </p>
+    </div>
+  </osisText>
+</osis>

@@ -1,0 +1,1005 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="john" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="john">
+        <title>John</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">john</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>John</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="john">
+      <title>John</title>
+      <chapter sID="john.1" osisID="john.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="john.1.1" osisID="john.1.1" />In principio erat verbum, et verbum erat apud Deum, et Deus erat verbum.<verse eID="john.1.1" />
+        <verse sID="john.1.2" osisID="john.1.2" />Hoc erat in principio apud Deum.<verse eID="john.1.2" />
+        <verse sID="john.1.3" osisID="john.1.3" />Omnia per ipsum facta sunt: et sine ipso factum est nihil quod factum est,<verse eID="john.1.3" />
+        <verse sID="john.1.4" osisID="john.1.4" />in ipso vita est, et vita erat lux hominum:<verse eID="john.1.4" />
+        <verse sID="john.1.5" osisID="john.1.5" />et lux in tenebris lucet, et tenebrae eam non comprehenderunt.<verse eID="john.1.5" />
+        <verse sID="john.1.6" osisID="john.1.6" />Fuit homo missus a Deo, cui nomen erat Iohannes.<verse eID="john.1.6" />
+        <verse sID="john.1.7" osisID="john.1.7" />Hic venit in testimonium, ut testimonium perhiberet de lumine, ut omnes crederent per illum:<verse eID="john.1.7" />
+        <verse sID="john.1.8" osisID="john.1.8" />non erat ille lux, sed ut testimonium perhiberet de lumine.<verse eID="john.1.8" />
+        <verse sID="john.1.9" osisID="john.1.9" />Erat lux vera, quae illuminat omnem hominem venientem in hunc mundum.<verse eID="john.1.9" />
+        <verse sID="john.1.10" osisID="john.1.10" />In mundo erat, et mundus per ipsum factus est, et mundus eum non cognovit.<verse eID="john.1.10" />
+        <verse sID="john.1.11" osisID="john.1.11" />In propria venit, et sui eum non receperunt.<verse eID="john.1.11" />
+        <verse sID="john.1.12" osisID="john.1.12" />Quotquot autem receperunt eum, dedit eis potestatem filios Dei fieri, his, qui credunt in nomine eius:<verse eID="john.1.12" />
+        <verse sID="john.1.13" osisID="john.1.13" />qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt.<verse eID="john.1.13" />
+        <verse sID="john.1.14" osisID="john.1.14" />Et verbum caro factum est, et habitavit in nobis: et vidimus gloriam eius, gloriam quasi unigeniti a patre, plenum gratia, et veritate.<verse eID="john.1.14" />
+        <verse sID="john.1.15" osisID="john.1.15" />Iohannes testimonium perhibet de ipso, et clamat, dicens: IIic est, de quo dixi: Qui post me venit, vir, qui ante me factus est: quia prior me erat.<verse eID="john.1.15" />
+        <verse sID="john.1.16" osisID="john.1.16" />Et de plenitudine eius nos omnes accepimus, gratiam pro gratia:<verse eID="john.1.16" />
+        <verse sID="john.1.17" osisID="john.1.17" />quia lex per Moysen data est, gratia autem, et veritas per Iesum Christum facta est.<verse eID="john.1.17" />
+        <verse sID="john.1.18" osisID="john.1.18" />Deum nemo vidit unquam, nisi unigenitus filius, qui est in patre: ipse enarravit nobis.<verse eID="john.1.18" />
+        <verse sID="john.1.19" osisID="john.1.19" />Et hoc est testimonium Iohannis, quando miserunt ad eum Iudaei ab Ierosolymis sacerdores et Levitas, ut interrogarent cum : Tu quis es?<verse eID="john.1.19" />
+        <verse sID="john.1.20" osisID="john.1.20" />Et confessus est, et non negavit: et consessus est: Quia non sum ego Christus.<verse eID="john.1.20" />
+        <verse sID="john.1.21" osisID="john.1.21" />Et interrogaverunt iterum : Quid ergo? Elias es tu? Et dixit: Non sum. Quid ergo? Propheta es tu? Et respondit: Non sum.<verse eID="john.1.21" />
+        <verse sID="john.1.22" osisID="john.1.22" />Responderunt ei : Dic ergo nobis quis es tu, ut responsum demus his, qui miserunt nos. Quid dicis de teipso?<verse eID="john.1.22" />
+        <verse sID="john.1.23" osisID="john.1.23" />Et ait: Ego sum vox clamantis in deserto: Parate viam Domini, sicut dixit Isaias propheta.<verse eID="john.1.23" />
+        <verse sID="john.1.24" osisID="john.1.24" />Et qui missi fuerant, erant ex Pharisaeis.<verse eID="john.1.24" />
+        <verse sID="john.1.25" osisID="john.1.25" />Et interrogaverunt eum, dicentes: Quid ergo baptizas, si tu non es Christus, neque Elias, neque Propheta?<verse eID="john.1.25" />
+        <verse sID="john.1.26" osisID="john.1.26" />Respondit eis Iohannes, dicens: Ego quidem aquâ baptizo: medius autem vestrum stetit, quem vos nescitis.<verse eID="john.1.26" />
+        <verse sID="john.1.27" osisID="john.1.27" />Ipse est, qui post me venturus est, qui ante me factus est: cuius ego non sum dignus ut solvam eius corrigiam calceamenti.<verse eID="john.1.27" />
+        <verse sID="john.1.28" osisID="john.1.28" />Haec in Bethania facta sunt trans Iordanen, ubi erat Iohannes baptizans.<verse eID="john.1.28" />
+        <verse sID="john.1.29" osisID="john.1.29" />Altera die vidit Iohannes Iesum venientem ad se, et ait : Ecce agnus Dei, ecce qui tollit peccatum mundi.<verse eID="john.1.29" />
+        <verse sID="john.1.30" osisID="john.1.30" />Hic est, de quo dixi: Post me venit vir, qui ante me factus est: quia prior me erat:<verse eID="john.1.30" />
+        <verse sID="john.1.31" osisID="john.1.31" />et ego nesciebam eum, sed ut manifestaretur Israël, propterea veni ego in aqua baptizans.<verse eID="john.1.31" />
+        <verse sID="john.1.32" osisID="john.1.32" />Et testimonium perhibuit Iohannes, dicens: Quia vidi Spiritum descendentem quasi columbam de coelo, et mansit super eum.<verse eID="john.1.32" />
+        <verse sID="john.1.33" osisID="john.1.33" />Et ego nesciebam eum : sed qui misit me baptizare in aqua, ille mihi dixit: Super quem videris Spiritum descendentem, et manentem super eum, hic est, qui baptizat in Spiritu sancto.<verse eID="john.1.33" />
+        <verse sID="john.1.34" osisID="john.1.34" />Et ego vidi: et testimonium perhibui quia hic est Filius Dei.<verse eID="john.1.34" />
+        <verse sID="john.1.35" osisID="john.1.35" />Altera die iterum stabat Iohannes, et ex discipulis eius duo.<verse eID="john.1.35" />
+        <verse sID="john.1.36" osisID="john.1.36" />Et respiciens Iesum ambulantem, dicit: Ecce agnus Dei.<verse eID="john.1.36" />
+        <verse sID="john.1.37" osisID="john.1.37" />Et audierunt eum duo discipuli loquentem, et secuti sunt Iesum.<verse eID="john.1.37" />
+        <verse sID="john.1.38" osisID="john.1.38" />Conversus autem Iesus, et videns eos sequentes, dicit eis: Quid quaeritis? Qui dixerunt ei: Rabbi, (quod interpretatur Magister) ubi habitas?<verse eID="john.1.38" />
+        <verse sID="john.1.39" osisID="john.1.39" />Dicit eis: Venite, et videte. Venerunt, et viderunt ubi maneret, et apud eum manserunt die illo: hora autem erat quasi decima.<verse eID="john.1.39" />
+        <verse sID="john.1.40" osisID="john.1.40" />Erat autem Andreas frater Simonis Petri unus ex duobus, qui audierant ab Iohanne, et secuti fuerant eum.<verse eID="john.1.40" />
+        <verse sID="john.1.41" osisID="john.1.41" />Invenit hic primum fratrem suum Simonem, et dicit ei: Invenimus Messiam: (quod est interpretatum Christus.)<verse eID="john.1.41" />
+        <verse sID="john.1.42" osisID="john.1.42" />Et adduxit eum ad Iesum. Intuitus autem eum Iesus, dixit: Tu es Simon filius Iona: tu vocaberis Cephas: quod interpretatur Petrus.<verse eID="john.1.42" />
+        <verse sID="john.1.43" osisID="john.1.43" />In crastinum voluit exire in Galilaeam et invenit Philippum. Et dicit ei Iesus: Sequere me.<verse eID="john.1.43" />
+        <verse sID="john.1.44" osisID="john.1.44" />Erat autem Philippus a Bethsaida, civitate Andreae, et Petri.<verse eID="john.1.44" />
+        <verse sID="john.1.45" osisID="john.1.45" />Invenit Philippus Nathanael et dicit ei: Quem scripsit Moyses in Lege, et Prophetae, invenimus Iesum filium Ioseph a Nazareth.<verse eID="john.1.45" />
+        <verse sID="john.1.46" osisID="john.1.46" />Et dixit ei Nathanael: A Nazareth potest aliquid boni esse? Dicit ei Philippus: Veni, et vide.<verse eID="john.1.46" />
+        <verse sID="john.1.47" osisID="john.1.47" />Vidit Iesus Nathanael venientem ad se et dicit de eo: Ecce vere Israelita, in quo dolus non est.<verse eID="john.1.47" />
+        <verse sID="john.1.48" osisID="john.1.48" />Dicit ei Nathanael: Unde me nosti?. Respondit Iesus, et dixit ei: Priusquam te Philippus vocaret, cum esses sub ficu, vidi te.<verse eID="john.1.48" />
+        <verse sID="john.1.49" osisID="john.1.49" />Respondit Nathanael, et ait: Rabbi, tu es Filius Dei, tu rex es Israel.<verse eID="john.1.49" />
+        <verse sID="john.1.50" osisID="john.1.50" />Respondit Iesus, et dixit illi: Quia dixi tibi: Vidi te sub ficu, credis: maius his videbis.<verse eID="john.1.50" />
+        <verse sID="john.1.51" osisID="john.1.51" />Et dicit ei: Amen, amen dico vobis: videbitis coelum apertum, et angelos Dei ascendentes, et descendentes super Filium hominis.<verse eID="john.1.51" />
+      </p>
+      <chapter eID="john.1" />
+      <chapter sID="john.2" osisID="john.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="john.2.1" osisID="john.2.1" />Et die tertia nuptiae factae sunt in Cana Galilaeae: et erat mater Iesu ibi.<verse eID="john.2.1" />
+        <verse sID="john.2.2" osisID="john.2.2" />Vocatus est autem et Iesus, et discipuli eius, ad nuptias.<verse eID="john.2.2" />
+        <verse sID="john.2.3" osisID="john.2.3" />Et deficiente vino, dicit mater Iesu ad eum: Vinum non habent.<verse eID="john.2.3" />
+        <verse sID="john.2.4" osisID="john.2.4" />Et dicit ei Iesus: Quid mihi, et tibi est mulier? nondum venit hora mea.<verse eID="john.2.4" />
+        <verse sID="john.2.5" osisID="john.2.5" />Dicit mater eius ministris : Quodcunque dixerit vobis, facite.<verse eID="john.2.5" />
+        <verse sID="john.2.6" osisID="john.2.6" />Erant autem ibi lapideae hydriae sex positae secundum purificationem Iudaeorum, capientes singulae metretas binas vel ternas.<verse eID="john.2.6" />
+        <verse sID="john.2.7" osisID="john.2.7" />Dicit eis Iesus? Implete hydrias aqua. Et impleverunt eas usque ad summum.<verse eID="john.2.7" />
+        <verse sID="john.2.8" osisID="john.2.8" />Et dicit eis Iesus : Haurite nunc, et ferte architielino. Et tulerunt.<verse eID="john.2.8" />
+        <verse sID="john.2.9" osisID="john.2.9" />Ut autem gustavit architiclinus aquam vinum factam, et non sciebat unde esset, ministri autem sciebant, qui hauriebant aquam: vocat sponsum architiclinus<verse eID="john.2.9" />
+        <verse sID="john.2.10" osisID="john.2.10" />et dicit ei: Omnis homo primum bonum vinum ponit: et cum inebriati fuerint convivae tunc id, quod deterius est : Tu servasti bonum vinum usque adhuc.<verse eID="john.2.10" />
+        <verse sID="john.2.11" osisID="john.2.11" />Hoc fecit initium signorum Iesus in Cana Galilaeae: et manifestavit gloriam suam, et crediderunt in eum discipuli eius.<verse eID="john.2.11" />
+        <verse sID="john.2.12" osisID="john.2.12" />Post hoc descendit Capharnaum ipse, et mater eius, et fratres, et discipuli eius: et ibi manserunt non multis diebus.<verse eID="john.2.12" />
+        <verse sID="john.2.13" osisID="john.2.13" />Et prope erat Pascha Iudaeorum, et ascendit Ierosolymam Iesus:<verse eID="john.2.13" />
+        <verse sID="john.2.14" osisID="john.2.14" />et invenit in templo vendentes boves, et oves, et columbas, et numularios sedentes.<verse eID="john.2.14" />
+        <verse sID="john.2.15" osisID="john.2.15" />Et cum secisset quasi flagellum de funiculis, omnes eiecit de templo, over quoque, et boves, et numulariorum effudit aes, et mensas subvertit.<verse eID="john.2.15" />
+        <verse sID="john.2.16" osisID="john.2.16" />Et his, qui columbas vendebant, dixit: Auferte ista hinc, nolite facere domum patris mei, domum negotiationis.<verse eID="john.2.16" />
+        <verse sID="john.2.17" osisID="john.2.17" />Recordati vero sunt discipuli eius quia scriptum est : Zelus domus tuae comedit me.<verse eID="john.2.17" />
+        <verse sID="john.2.18" osisID="john.2.18" />Responderunt ergo Iudaei, et dixerunt eiQuod signum ostendis nobis quia haec facis?<verse eID="john.2.18" />
+        <verse sID="john.2.19" osisID="john.2.19" />Respondit Iesus, et dixit eis : Solvite hoc templum, et in tribus diebus excitabo illud.<verse eID="john.2.19" />
+        <verse sID="john.2.20" osisID="john.2.20" />Dixerunt ergo Iudaei: Quadraginta et sex annis aedificatum est templum hoc, et tu tribus diebus excitabis illud?<verse eID="john.2.20" />
+        <verse sID="john.2.21" osisID="john.2.21" />Ille autem dicebat de templo corporis sui.<verse eID="john.2.21" />
+        <verse sID="john.2.22" osisID="john.2.22" />Cum ergoenexisset a mortuis, recordati sunt discipuli eius, quia hoc dicebat, et crediderunt scripturae, et sermoni, quem dixit Iesus.<verse eID="john.2.22" />
+        <verse sID="john.2.23" osisID="john.2.23" />Cum esset autem Ierosolymis in pascha in die festo, multi crediderunt in nomine eius, videntes signa eius, quae faciebat.<verse eID="john.2.23" />
+        <verse sID="john.2.24" osisID="john.2.24" />Ipse autem Iesus non credebat semetipsum eis, eo quod ipse nosset omnes<verse eID="john.2.24" />
+        <verse sID="john.2.25" osisID="john.2.25" />et quia opus ei non erat ut quis testimonium perhiberet de homine.<verse eID="john.2.25" />
+      </p>
+      <chapter eID="john.2" />
+      <chapter sID="john.3" osisID="john.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="john.3.1" osisID="john.3.1" />Erat homo ex Pharisaeis, Nicodemus nomine, princeps Iudaeorum.<verse eID="john.3.1" />
+        <verse sID="john.3.2" osisID="john.3.2" />Hic venit ad eum nocte, et dixit ei: Rabbi, scimus quia a Deo venisti magister: nemo enim potest haec signa facere, quae tu facis, nisi fuerit Dominus cum eo.<verse eID="john.3.2" />
+        <verse sID="john.3.3" osisID="john.3.3" />Respondit Iesus, et dixit ei: Amen, amen. dico tibi, nisi quis natus fuerit denuo, non potest videre regnum Dei.<verse eID="john.3.3" />
+        <verse sID="john.3.4" osisID="john.3.4" />Dicit autem Nicodemus: Quomodo potest homo nasci, cum sit senex? nunquid potest in ventrem matris suae iterato introire, et nasci?<verse eID="john.3.4" />
+        <verse sID="john.3.5" osisID="john.3.5" />Respondit Iesus: Amen, amen dico tibi, nisi quis renatus fuerit ex aqua, et Spiritu, non potest introire in regnum Dei.<verse eID="john.3.5" />
+        <verse sID="john.3.6" osisID="john.3.6" />Quod natum est ex carne, caro est: et quod natum est ex spiritu, spiritus est<verse eID="john.3.6" />
+        <verse sID="john.3.7" osisID="john.3.7" />Non mireris quia dixi tibi : Oportet vos nasci denuo.<verse eID="john.3.7" />
+        <verse sID="john.3.8" osisID="john.3.8" />Spiritus ubi vult spirat: et vocem eius audis, sed non scis unde veniat, aut quo vadat: sic est omnis, qui natus est ex spiritu.<verse eID="john.3.8" />
+        <verse sID="john.3.9" osisID="john.3.9" />Respondit Nicodemus, et dixit ei: Quomodo possunt haec fieri?<verse eID="john.3.9" />
+        <verse sID="john.3.10" osisID="john.3.10" />Respondit Iesus, et dixit ei: Tu es magister in Israël, et haec ignoras?<verse eID="john.3.10" />
+        <verse sID="john.3.11" osisID="john.3.11" />Amen, amen dico tibi, quia quod scimus loquimur, et quod vidimus testament, et testimonium nostrum non accipitis.<verse eID="john.3.11" />
+        <verse sID="john.3.12" osisID="john.3.12" />Si terrena dixi vobis, et non creditis: quomodo, si dixero vobis coelestia, credetis?<verse eID="john.3.12" />
+        <verse sID="john.3.13" osisID="john.3.13" />Et nemo ascendit in coelum, nisi qui descendit de coelo, Filius hominis, qui est in coelo.<verse eID="john.3.13" />
+        <verse sID="john.3.14" osisID="john.3.14" />Et sicut Moyses exaltavit serpentem in deserto: ita exaltari oportet Filium hominis:<verse eID="john.3.14" />
+        <verse sID="john.3.15" osisID="john.3.15" />ut omnis, qui credit in ipso, non pereat, sed habeat vitam aeternam.<verse eID="john.3.15" />
+        <verse sID="john.3.16" osisID="john.3.16" />Sic enim dilexit Deus mundum, ut Filium suum unigenitum daret: ut omnis, qui credidit in eum, non pereat, sed habeat vitam aeternam.<verse eID="john.3.16" />
+        <verse sID="john.3.17" osisID="john.3.17" />Non enim misit Deus Filium suum in mundum, ut iudicet mundum, sed ut salvetur mundus per ipsum.<verse eID="john.3.17" />
+        <verse sID="john.3.18" osisID="john.3.18" />Qui credit in eum, non iudicatur: qui autem non credit, iam iudicatus est: quia non credidit in nomine unigeniti Filii Dei.<verse eID="john.3.18" />
+        <verse sID="john.3.19" osisID="john.3.19" />Hoc est autem: quia lux venit in mundum, et dilexerunt homines magis tenebras, quam lucem: erant enim eorum mala opera.<verse eID="john.3.19" />
+        <verse sID="john.3.20" osisID="john.3.20" />Omnis enim, qui male agit, odit lucem non arceantur opera eius:<verse eID="john.3.20" />
+        <verse sID="john.3.21" osisID="john.3.21" />qui autem facit veritatem, venit ad lucem, ut manifestentur eius opera, quia in Deo sunt facta.<verse eID="john.3.21" />
+        <verse sID="john.3.22" osisID="john.3.22" />Post haec venit Iesus, et discipuli eius, in Iudaeam terram: et illic demorabatur cum eis, et baptizabat.<verse eID="john.3.22" />
+        <verse sID="john.3.23" osisID="john.3.23" />Erat autem et Ioannes baptizans in Enon. iuxta Salim: quia aquae multae erant illic, et adveniebant, et baptizabantur.<verse eID="john.3.23" />
+        <verse sID="john.3.24" osisID="john.3.24" />Nondum enim missus fuerat in carcerem Ioannes.<verse eID="john.3.24" />
+        <verse sID="john.3.25" osisID="john.3.25" />Facta est ergo quaestio ex discipulis Ioannis cum Iudaeis de Purificatione.<verse eID="john.3.25" />
+        <verse sID="john.3.26" osisID="john.3.26" />Et venerunt ad Ioannem, et dixerunt ei: Rabbi, qui erat tecum trans Iordanem, cui tu testimonium perhibuisti, ecce hic baptizat, et omnes veniunt ad eum.<verse eID="john.3.26" />
+        <verse sID="john.3.27" osisID="john.3.27" />Respondit Ioannes, et dixit: Non potest homo accipere ex se quicquam, nisi fuerit ei datum de coelo.<verse eID="john.3.27" />
+        <verse sID="john.3.28" osisID="john.3.28" />Ipsi vos mihi testimonium perhibetis, quod dixerim: Ego non sum Christus: sed quia missus sum ante illum.<verse eID="john.3.28" />
+        <verse sID="john.3.29" osisID="john.3.29" />Qui habet sponsam, sponsus est: amicus autem sponsi, qui stat, et audit eum, gaudio gaudet propter vocem sponsi. Hoc ergo gaudium meum impletum est.<verse eID="john.3.29" />
+        <verse sID="john.3.30" osisID="john.3.30" />Illum oportet crescere, me autem minui.<verse eID="john.3.30" />
+        <verse sID="john.3.31" osisID="john.3.31" />Qui desursum venit, super omnes est. Qui est de terra, de terre est, et de terro loquitur. Qui de coelo venit, super omnes est.<verse eID="john.3.31" />
+        <verse sID="john.3.32" osisID="john.3.32" />Et quod vidit, et audivit, hoc testatur: et testimonium eius nemo accipit.<verse eID="john.3.32" />
+        <verse sID="john.3.33" osisID="john.3.33" />Qui accipit eius testimonium, signavit quia Deus verax est.<verse eID="john.3.33" />
+        <verse sID="john.3.34" osisID="john.3.34" />Quem enim misit Deus, verba Dei loquitur: non enim ad mensuram Deus dat spiritum,<verse eID="john.3.34" />
+        <verse sID="john.3.35" osisID="john.3.35" />Pater diligit Filium: et omnia dedit in sinu eius.<verse eID="john.3.35" />
+        <verse sID="john.3.36" osisID="john.3.36" />Qui credit in Filium, habet vitam aeternam: qui autem incredulus est Filio, non videbit vitam, sed ira Dei manet super eum.<verse eID="john.3.36" />
+      </p>
+      <chapter eID="john.3" />
+      <chapter sID="john.4" osisID="john.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="john.4.1" osisID="john.4.1" />Ut ergo cognovit Iesus, quia audierunt Pharisaei quia Iesus plures discipulos facit, et baptizat, quam Iohannes,<verse eID="john.4.1" />
+        <verse sID="john.4.2" osisID="john.4.2" />(quanquam Iesus non baptizaret, sed discipuli eius)<verse eID="john.4.2" />
+        <verse sID="john.4.3" osisID="john.4.3" />reliquit Iudaeam, et abiit iterum in Galilaeam:<verse eID="john.4.3" />
+        <verse sID="john.4.4" osisID="john.4.4" />oportebat autem eum transire per Samariam.<verse eID="john.4.4" />
+        <verse sID="john.4.5" osisID="john.4.5" />Venit ergo in civitatem Samariae, quae dicitur Sichar: iuxta praedium, quod dedit Iacob Ioseph filio suo.<verse eID="john.4.5" />
+        <verse sID="john.4.6" osisID="john.4.6" />Erat autem ibi fons Iacob. Iesus ergo fatigatus ex itinere, sedebat sic super fontem. Hora erat quasi sexta.<verse eID="john.4.6" />
+        <verse sID="john.4.7" osisID="john.4.7" />Venit mulier de Samaria haurire aquam. Dicit ei Iesus: Da mihi bibere.<verse eID="john.4.7" />
+        <verse sID="john.4.8" osisID="john.4.8" />(Discipuli enim eius abierant in civitatem ut cibos emerent.)<verse eID="john.4.8" />
+        <verse sID="john.4.9" osisID="john.4.9" />Dicit ergo ei mulier illa Samaritana: Quomodo tu Iudaeus cum sis, bibere a me poscis, quae sum mulier Samaritana? non enim coutuntur Iudaei Samaritanis.<verse eID="john.4.9" />
+        <verse sID="john.4.10" osisID="john.4.10" />Respondit Iesus, et dixit ei: Si scires donum Dei, et quis est, qui dicit tibi: Da mihi bibere: tu forsitan petisses ab eo, et dedisset tibi aquam vivam.<verse eID="john.4.10" />
+        <verse sID="john.4.11" osisID="john.4.11" />Dicit ei mulier : Domine, neque in quo haurire habes, et puteus altus est: unde ergo habes aquam vivam?<verse eID="john.4.11" />
+        <verse sID="john.4.12" osisID="john.4.12" />Nunquid tu maior es patre nostro Iacob qui dedit nobis puteum, et ipse ex eo bibit, et filii eius, et pecora eius?<verse eID="john.4.12" />
+        <verse sID="john.4.13" osisID="john.4.13" />Respondit Iesus, et dixit ei: Omnis, qui bibit ex aqua hac, sitiet iterum: qui autem biberit ex aqua, quam dabo ei, non sitiet in aeternum:<verse eID="john.4.13" />
+        <verse sID="john.4.14" osisID="john.4.14" />sed aqua, quam dabo ei, fiet in eo fons aquae salientis in vitam aeternam.<verse eID="john.4.14" />
+        <verse sID="john.4.15" osisID="john.4.15" />Dicit ad eum mulier : Domine, da mihi aquam hanc, ut non sitiam, neque veniam huc haurire.<verse eID="john.4.15" />
+        <verse sID="john.4.16" osisID="john.4.16" />Dicit ei Iesus: Vade, voca virum tuum, et veni huc.<verse eID="john.4.16" />
+        <verse sID="john.4.17" osisID="john.4.17" />Respondit mulier, et dixit: Non habeo virum. Dicit ei Iesus: Bene dixisti, quia non habes virum:<verse eID="john.4.17" />
+        <verse sID="john.4.18" osisID="john.4.18" />quinque enim viros habuisti; et nunc quem habes, non est tuus vir : hoc vere dixisti.<verse eID="john.4.18" />
+        <verse sID="john.4.19" osisID="john.4.19" />Dicit ei mulier: Domine, video quia Propheta es tu.<verse eID="john.4.19" />
+        <verse sID="john.4.20" osisID="john.4.20" />Patres nostri in monte hoc adoraverunt. et vos dicitis, quia Ierosolymis est locus, ubi adorare oportet.<verse eID="john.4.20" />
+        <verse sID="john.4.21" osisID="john.4.21" />Dicit ei Iesus: Mulier, crede mihi, quia veniet hora, quando neque in monte hoc, neque Ierosolymis adorabitis Patrem.<verse eID="john.4.21" />
+        <verse sID="john.4.22" osisID="john.4.22" />Vos adoratis quod nescitis: nos adoramus quod scimus, quia salus ex Iudaeis est.<verse eID="john.4.22" />
+        <verse sID="john.4.23" osisID="john.4.23" />Sed venit hora, et nunc est, quando veri adoratores adorabunt Patrem in spiritu et veritate. Nam et Pater tales quaerit, qui adorent eum.<verse eID="john.4.23" />
+        <verse sID="john.4.24" osisID="john.4.24" />Spiritus est Deus: et eos, qui adorant eum, in spiritu et veritate oportet adorare.<verse eID="john.4.24" />
+        <verse sID="john.4.25" osisID="john.4.25" />Dicit ad eum mulier: Scio quia Messias venit (qui dicitur Christus) cum ergo venerit ille, nobis annuntiabit omnia.<verse eID="john.4.25" />
+        <verse sID="john.4.26" osisID="john.4.26" />Dicit ei Iesus: Ego sum, qui loquor tecum.<verse eID="john.4.26" />
+        <verse sID="john.4.27" osisID="john.4.27" />Et continuo venerunt discipuli eius: et mirabantur quia cum muliere loquebatur. Nemo tamen dixit: Quid quaeris, aut quid loqueris cum ea?<verse eID="john.4.27" />
+        <verse sID="john.4.28" osisID="john.4.28" />Reliquit ergo hydriam suam mulier, et abiit in civitatem, et dicit illis hominibus:<verse eID="john.4.28" />
+        <verse sID="john.4.29" osisID="john.4.29" />Venite, videte hominem, qui dixit mihi omnia quaecunque feci: nunquid ipse est Christus?<verse eID="john.4.29" />
+        <verse sID="john.4.30" osisID="john.4.30" />Exierunt de civitate, et veniebant ad eum.<verse eID="john.4.30" />
+        <verse sID="john.4.31" osisID="john.4.31" />Interea rogabant eum discipuli, dicentes; Rabbi, manduca.<verse eID="john.4.31" />
+        <verse sID="john.4.32" osisID="john.4.32" />Ille autem dixit eis: Ego cibum habeo manducare, quem vos nescitis.<verse eID="john.4.32" />
+        <verse sID="john.4.33" osisID="john.4.33" />Dicebant ergo discipuli eius ad invicem: Nunquid aliquis attulit ei manducare?<verse eID="john.4.33" />
+        <verse sID="john.4.34" osisID="john.4.34" />Dicit eis Iesus: Meus cibus est, ut faciam voluntatem eius, qui misit me, ut perficiam opus eius.<verse eID="john.4.34" />
+        <verse sID="john.4.35" osisID="john.4.35" />Nonne vos dicitis, quod adhuc quatuor menses sunt, et messis venit? Ecce dico vobis : Levate oculos vestros, et videte regiones, quia albae sunt iam ad messem.<verse eID="john.4.35" />
+        <verse sID="john.4.36" osisID="john.4.36" />Et qui metit, mercedem accipit, et congreat fructum in vitam aeternam: ut, et qui seminat, simul gaudeat, et qui metit.<verse eID="john.4.36" />
+        <verse sID="john.4.37" osisID="john.4.37" />In hoc enim est verbum verum: quia alius est qui seminat, et alius est qui metit.<verse eID="john.4.37" />
+        <verse sID="john.4.38" osisID="john.4.38" />Ego misi vos metere quod vos non laborastis: alii laboraverunt, et vos in labores eorum introistis.<verse eID="john.4.38" />
+        <verse sID="john.4.39" osisID="john.4.39" />Ex civitate autem illa multi crediderunt in eum Samaritanorum, propter verbum mulieris testimonium perhibentis: Quia dixit mihi omnia quaecunque feci.<verse eID="john.4.39" />
+        <verse sID="john.4.40" osisID="john.4.40" />Cum venissent ergo ad eum Samaritani: rogaverunt eum ut ibi maneret. Et mansit ibi duos dies.<verse eID="john.4.40" />
+        <verse sID="john.4.41" osisID="john.4.41" />Et multo plures crediderunt propter sermonem eius.<verse eID="john.4.41" />
+        <verse sID="john.4.42" osisID="john.4.42" />Et mulieri dicebant: Quia iam non propter tuam loquelam credimus: ipsi enim audivimus, quia hic est vere Propheta, et Salvator mundi.<verse eID="john.4.42" />
+        <verse sID="john.4.43" osisID="john.4.43" />Post duos autem dies exiit inde: et fuit in Galilaea.<verse eID="john.4.43" />
+        <verse sID="john.4.44" osisID="john.4.44" />Ipse enim Iesus testimonium perhibuit, quia Propheta in sua patria honorem non habet.<verse eID="john.4.44" />
+        <verse sID="john.4.45" osisID="john.4.45" />Cum ergo venisset in Galilaeam, exceperunt eum Galilaei, cum omnia vidissent, quae fecerat Ierosolymis in die festo: ipsi enim venerant ad diem festum.<verse eID="john.4.45" />
+        <verse sID="john.4.46" osisID="john.4.46" />Venit ergo iterum in Cana Galilaeae, ubi fecit aquam vinum. Et erat quidam regulus, cuius filius infirmabatur Capharnaum.<verse eID="john.4.46" />
+        <verse sID="john.4.47" osisID="john.4.47" />Hic cum audisset quia Iesus adveniret a Iudaea in Galilaeam, abiit ad eum, et rogabat eum ut descenderet, et salvaret filium eius: incipiebat enim mori.<verse eID="john.4.47" />
+        <verse sID="john.4.48" osisID="john.4.48" />Dixit ergo Iesus ad eum: Nisi signa, et prodigia videritis, non creditis.<verse eID="john.4.48" />
+        <verse sID="john.4.49" osisID="john.4.49" />Dicit ad eum regulus: Domine, descende priusquam moriatur filius meus.<verse eID="john.4.49" />
+        <verse sID="john.4.50" osisID="john.4.50" />Dicit ei Iesus: Vade, filius tuus vivit. Credidit homo sermoni, quem dixit ei Iesus, et ibat.<verse eID="john.4.50" />
+        <verse sID="john.4.51" osisID="john.4.51" />Iam autem eo descendente, servi occurrerunt ei, et nunciaverunt dicentes, quia filius eius viveret.<verse eID="john.4.51" />
+        <verse sID="john.4.52" osisID="john.4.52" />Interrogabat ergo horam ab eis, in qua melius habuerit. Et dixerunt ei: Quia heri hora tertia reliquit eum febris.<verse eID="john.4.52" />
+        <verse sID="john.4.53" osisID="john.4.53" />Cognovit ergo pater, quia illa hora erat, in qua dixit illi Iesus : Filius tuus vivit: et credidit ipse, et domus eius tota.<verse eID="john.4.53" />
+        <verse sID="john.4.54" osisID="john.4.54" />Hoc iterum secundum signum fecit Iesus, cum venisset a Iudaea in Galileam.<verse eID="john.4.54" />
+      </p>
+      <chapter eID="john.4" />
+      <chapter sID="john.5" osisID="john.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="john.5.1" osisID="john.5.1" />Post haec erat dies festus Iudaeorum, et ascendit Iesus Ierosolymis.<verse eID="john.5.1" />
+        <verse sID="john.5.2" osisID="john.5.2" />Est autem Ierosolymis Superprobatica piscina, quae cognominatur Hebraice Bethsaida, quinque porticus habens.<verse eID="john.5.2" />
+        <verse sID="john.5.3" osisID="john.5.3" />In his iacebat multitudo magna languentium, caecorum, claudorum, aridorum, exspectantium aquae motum.<verse eID="john.5.3" />
+        <verse sID="john.5.4" osisID="john.5.4" />Angelus autem Domini secundum tempus descendebat in piscinam: et movebatur aqua. Et qui prior descendisset in piscinam post motionem aquae, sanus fiebat a quacunque detinebatur infirmitate.<verse eID="john.5.4" />
+        <verse sID="john.5.5" osisID="john.5.5" />Erat autem quidam homo ibi, triginta et octo annos habens in infirmitate sua.<verse eID="john.5.5" />
+        <verse sID="john.5.6" osisID="john.5.6" />Hunc cum vidisset Iesus iacentem, et cognovisset quia multum iam tempus habet, dicit ei: Vis sanus fieri?<verse eID="john.5.6" />
+        <verse sID="john.5.7" osisID="john.5.7" />Respondit ei languidus: Domine, hominem non habeo, ut cum turbata fuerit aqua, mittat me in piscinam: dum venio enim ego, alius ante me descendit.<verse eID="john.5.7" />
+        <verse sID="john.5.8" osisID="john.5.8" />Dicit ei Iesus: Surge, tolle grabatum tuum, et ambula.<verse eID="john.5.8" />
+        <verse sID="john.5.9" osisID="john.5.9" />Et statim sanus factus est homo: et sustulit grabatum suum, et ambulabat. Erat autem sabbatum in illo die.<verse eID="john.5.9" />
+        <verse sID="john.5.10" osisID="john.5.10" />Dicebant Iudaei illi, qui sanus fuerat: Sabbatum est, non licet tibi tollere grabatum tuum.<verse eID="john.5.10" />
+        <verse sID="john.5.11" osisID="john.5.11" />Respondit eis : Qui me fecit sanum, ille mihi dixit: Tolle grabatum tuum, et ambula.<verse eID="john.5.11" />
+        <verse sID="john.5.12" osisID="john.5.12" />Interrogaverunt ergo eum : Quis est ille homo, qui dixit tibi, Tolle grabatum tuum, et ambula?<verse eID="john.5.12" />
+        <verse sID="john.5.13" osisID="john.5.13" />Is autem, qui sanus fuerat effectus, nesciebat quis esset. Iesus enim declinavit a turba constituta in loco.<verse eID="john.5.13" />
+        <verse sID="john.5.14" osisID="john.5.14" />Postea invenit eum Iesus in templo, et dixit illi: Ecce sanus factus es: iam noli peccare, ne deterius tibi aliquid contingat.<verse eID="john.5.14" />
+        <verse sID="john.5.15" osisID="john.5.15" />Abiit ille homo, et nunciavit Iudaeis, quia Iesus esset, qui fecit eum sanum.<verse eID="john.5.15" />
+        <verse sID="john.5.16" osisID="john.5.16" />Propterea persequebantur Iudaei Iesum quia haec faciebat in sabbato.<verse eID="john.5.16" />
+        <verse sID="john.5.17" osisID="john.5.17" />Iesus autem responditeis: Pater meus usque modo operatur, et ego operor.<verse eID="john.5.17" />
+        <verse sID="john.5.18" osisID="john.5.18" />Propterea ergo magis quaerebant eum Iudaei interficere: quia non solum solvebat sabbatum sed et patrem suum dicebat Deum, aequalem se faciens Deo. Respondit Iesus, et dixit eis:<verse eID="john.5.18" />
+        <verse sID="john.5.19" osisID="john.5.19" />Amen, amen dico vobis : non potest Filius facere a se quicquam, nisi quod viderit Patrem facientem: quaecunque enim ille fecerit, haec et Filius similiter facit<verse eID="john.5.19" />
+        <verse sID="john.5.20" osisID="john.5.20" />Pater enim diligit Filium, et omnia demonstrat ei, quae ipse facit: et maiora his demonstrabit ei opera, ut vos miremini.<verse eID="john.5.20" />
+        <verse sID="john.5.21" osisID="john.5.21" />Sicut enim Pater suscitat mortuos et vivificat: sic et Filius, quos vult, vivificat.<verse eID="john.5.21" />
+        <verse sID="john.5.22" osisID="john.5.22" />Neque enim Pater iudicat quemquam: sed iudicium omne dedit Filio,<verse eID="john.5.22" />
+        <verse sID="john.5.23" osisID="john.5.23" />ut omnes honorificent Filium, sicut honorificant Patrem: qui non honorificat Filium, non honorificat Patrem, qui misit illum.<verse eID="john.5.23" />
+        <verse sID="john.5.24" osisID="john.5.24" />Amen, amen dico vobis, quia qui verbum meum audit, et credit ei, qui misit me, habet vitam aeternam, et in iudicium non venit, sed transit a morte in vitam.<verse eID="john.5.24" />
+        <verse sID="john.5.25" osisID="john.5.25" />Amen, amen dico vobis, quia venit hora et nunc est, quando mortui audiunt vocem Filii Dei: et qui audierint, vivent.<verse eID="john.5.25" />
+        <verse sID="john.5.26" osisID="john.5.26" />Sicut enim Pater habet vitam in semetipso: sic dedit et Filio vitam habere in semetipso:<verse eID="john.5.26" />
+        <verse sID="john.5.27" osisID="john.5.27" />et potestatem dedit ei iudicium facere, quia Filius hominis est.<verse eID="john.5.27" />
+        <verse sID="john.5.28" osisID="john.5.28" />Nolite mirari hoc, quia venit hora, in qua omnes, qui in monumentis sunt, audient vocem eius :<verse eID="john.5.28" />
+        <verse sID="john.5.29" osisID="john.5.29" />et procedent qui bona egerunt, in resurrectionem vitae: qui vero mala egerunt, in resurrectionem iudicii.<verse eID="john.5.29" />
+        <verse sID="john.5.30" osisID="john.5.30" />Non possum ego a meipso facere quic quam. Sicut audio, iudico: et iudicium meum iustum est: quia non quaero voluntatem meam sed voluntatem eius, qui misit me, Patris.<verse eID="john.5.30" />
+        <verse sID="john.5.31" osisID="john.5.31" />Si ego testimonium perhibeo de me, testimonium meum non est verum.<verse eID="john.5.31" />
+        <verse sID="john.5.32" osisID="john.5.32" />Alius est qui testimonium perhibet de me: et scio quia verum est testimonium de me.<verse eID="john.5.32" />
+        <verse sID="john.5.33" osisID="john.5.33" />Vos misistis ad Ioannem: et testimonium perhibuit veritati.<verse eID="john.5.33" />
+        <verse sID="john.5.34" osisID="john.5.34" />Ego autem non ab homine testimonium accipio: sed haec dico ut vos salvi sitis.<verse eID="john.5.34" />
+        <verse sID="john.5.35" osisID="john.5.35" />Ille erat lucerna ardens, et lucens. Vos autem voluistis exsultare ad horam in luce eius.<verse eID="john.5.35" />
+        <verse sID="john.5.36" osisID="john.5.36" />Ego autem habeo testimonium maius Ioanne. Opera enim, quae dedit mihi Pater ut perficiam ea; ipsa opera, quae ego facio, testimonium perhibent de me, quia Pater me misit:<verse eID="john.5.36" />
+        <verse sID="john.5.37" osisID="john.5.37" />et qui misit me Pater, ipse testimonium perhibet de me: neque vocem eius unquam audistis, neque speciem eius vidistis:<verse eID="john.5.37" />
+        <verse sID="john.5.38" osisID="john.5.38" />et verbum eius non habetis in vobis manens: quia quem misit ille, huic vos non creditis.<verse eID="john.5.38" />
+        <verse sID="john.5.39" osisID="john.5.39" />Scrutamini Scripturas quia vos putatis in ipsis vitam aeternam habere: et illae sunt, quae testimonium perhibent de me:<verse eID="john.5.39" />
+        <verse sID="john.5.40" osisID="john.5.40" />et non vultis venire ad me ut vitam habeatis.<verse eID="john.5.40" />
+        <verse sID="john.5.41" osisID="john.5.41" />Claritatem ab hominibus non accipio.<verse eID="john.5.41" />
+        <verse sID="john.5.42" osisID="john.5.42" />Sed cognovi vos, quia directionem Dei non habetis in vobis.<verse eID="john.5.42" />
+        <verse sID="john.5.43" osisID="john.5.43" />Ego veni in nomine Patris mei, et non accipitis me: si alius venerit in nomine suo, illum accipietis.<verse eID="john.5.43" />
+        <verse sID="john.5.44" osisID="john.5.44" />Quomodo potestis vos credere, qui gloriam ab invicem accipitis; et gloriam, quae a solo est Deo, non quaeritis?<verse eID="john.5.44" />
+        <verse sID="john.5.45" osisID="john.5.45" />Nolite putare quia accusaturus sim vos apud Patrem: est qui accuset vos Moyses, in quo vos speratis.<verse eID="john.5.45" />
+        <verse sID="john.5.46" osisID="john.5.46" />Si enim crederetis Moysi, crederetis forsitan et mihi: de me enim ille scripsit.<verse eID="john.5.46" />
+        <verse sID="john.5.47" osisID="john.5.47" />Si autem illius litteris non creditis: quomodo verbis meis credetis?<verse eID="john.5.47" />
+      </p>
+      <chapter eID="john.5" />
+      <chapter sID="john.6" osisID="john.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="john.6.1" osisID="john.6.1" />Post haec abiit Iesus trans mare Galilaeae, quod est Thiberiadis:<verse eID="john.6.1" />
+        <verse sID="john.6.2" osisID="john.6.2" />sequebatur autem eum multitudo magna quia videbant signa, quae faciebat super his, qui infirmabantur.<verse eID="john.6.2" />
+        <verse sID="john.6.3" osisID="john.6.3" />Subiit ergo in montem Iesus: et ibi sedebat cum discipulis suis.<verse eID="john.6.3" />
+        <verse sID="john.6.4" osisID="john.6.4" />Erat autem proximum Pascha, dies festus Iudaeorum.<verse eID="john.6.4" />
+        <verse sID="john.6.5" osisID="john.6.5" />Cum sublevasset ergo oculos Iesus, et vidisset quia multitudo maxima venit ad eum, dicit ad Philippum: Unde ememus panes, ut manducent hi?<verse eID="john.6.5" />
+        <verse sID="john.6.6" osisID="john.6.6" />Hoc autem dicebat tentans eum: ipse enim sciebat quid esset facturus.<verse eID="john.6.6" />
+        <verse sID="john.6.7" osisID="john.6.7" />Respondit ei Philippus: Ducentorum denariorum panes non sufficiunt eis, ut unusquisque modicum quid accipiat.<verse eID="john.6.7" />
+        <verse sID="john.6.8" osisID="john.6.8" />Dicit ei unus ex discipulis eius, Andreas frater Simonis Petri:<verse eID="john.6.8" />
+        <verse sID="john.6.9" osisID="john.6.9" />Est puer unus hîc, qui habet quinque panes hordeacios, et duos pisces: sed haec quid sunt inter tantos?<verse eID="john.6.9" />
+        <verse sID="john.6.10" osisID="john.6.10" />Dixit ergo Iesus: Facite homines discumbere. Erat autem foenum in loco. Discubuerunt ergo viri, numero quasi quinque millia.<verse eID="john.6.10" />
+        <verse sID="john.6.11" osisID="john.6.11" />Accepit ergo panes Iesus : et cum gratias egisset, distribuit discumbentibus: similiter et ex piscibus quantum volebant.<verse eID="john.6.11" />
+        <verse sID="john.6.12" osisID="john.6.12" />Ut autem impleti sunt, dixit discipulis suis: Colligite quae superaverunt fragmenta, ne pereant.<verse eID="john.6.12" />
+        <verse sID="john.6.13" osisID="john.6.13" />Collegerunt ergo, et impleverunt duodecim cophinos fragmentorum ex quinque panibus hordeaceis, quae superfuerunt his, qui manducaverant.<verse eID="john.6.13" />
+        <verse sID="john.6.14" osisID="john.6.14" />Illi ergo homines cum vidissent quod fecerat signum, dicebant: Quia hic est vere propheta, qui venturus est.<verse eID="john.6.14" />
+        <verse sID="john.6.15" osisID="john.6.15" />Iesus ergo cum cognovisset quia venturi essent ut raperent eum, et facerent eum regem, fugit iterum in montem ipse solus.<verse eID="john.6.15" />
+        <verse sID="john.6.16" osisID="john.6.16" />Ut autem sero factum est, descenderunt discipuli eius ad mare.<verse eID="john.6.16" />
+        <verse sID="john.6.17" osisID="john.6.17" />Et cum ascendissent navem, venerunt trans mare in Capharnaum: et tenebrae iam factae erant: et non venerat ad eos Iesus.<verse eID="john.6.17" />
+        <verse sID="john.6.18" osisID="john.6.18" />Mare autem, vento magno flante, exsurgebat.<verse eID="john.6.18" />
+        <verse sID="john.6.19" osisID="john.6.19" />Cum remigassent ergo quasi stakia viginti quinque, aut triginta, vident Iesum ambulantem super mare, et proximum navi fieri, et timuerunt.<verse eID="john.6.19" />
+        <verse sID="john.6.20" osisID="john.6.20" />Ille autem dicit eis : Ego sum, nolite timere.<verse eID="john.6.20" />
+        <verse sID="john.6.21" osisID="john.6.21" />Voluerunt ergo accipere eum in navi : et statim fuit navis ad terram, quam ibant.<verse eID="john.6.21" />
+        <verse sID="john.6.22" osisID="john.6.22" />Altera die, turba, quae stabat trans mare vidit quia navicula alia non erat ibi nisi una, et quia non introisset cum discipulis suis Iesus in navem, sed soli discipuli eius abissent:<verse eID="john.6.22" />
+        <verse sID="john.6.23" osisID="john.6.23" />aliae vero supervenerunt naves a Tiberiade, iuxta locum ubi manducaverant panem, gratias agentes Domino.<verse eID="john.6.23" />
+        <verse sID="john.6.24" osisID="john.6.24" />Cum ergo vidisset turba quia Iesus non esset ibi, neque discipuli eius, ascenderunt in naviculas, et venerunt Capharnaum quaerentes Iesum.<verse eID="john.6.24" />
+        <verse sID="john.6.25" osisID="john.6.25" />Et cum invenissent eum trans mare, dixerunt ei: Rabbi, quando huc venisti?<verse eID="john.6.25" />
+        <verse sID="john.6.26" osisID="john.6.26" />Respondit eis Iesus, et dixit: Amen, amen dico vobis: quaeritis me, non quia audistis signa, sed quia manducastis ex panibus, et saturati estis.<verse eID="john.6.26" />
+        <verse sID="john.6.27" osisID="john.6.27" />Operamini non cibum qui perit, sed qui permanet in vitam aeternam, quem Filius hominis vobis dabit. Hunc enim Pater signavit Deus.<verse eID="john.6.27" />
+        <verse sID="john.6.28" osisID="john.6.28" />Dixerunt ergo ad eum: Quid faciemus ut operemur opera Dei?<verse eID="john.6.28" />
+        <verse sID="john.6.29" osisID="john.6.29" />Respondit Iesus, et dixit eis: Hoc est opus Dei, ut credatis in eum, quem misit ille.<verse eID="john.6.29" />
+        <verse sID="john.6.30" osisID="john.6.30" />Dixerunt ergo ei: Quod ergo tu facis signum ut videamus, et credamus tibi? quid operaris?<verse eID="john.6.30" />
+        <verse sID="john.6.31" osisID="john.6.31" />Patres nostri manna manducaverunt in deserto, sicut scriptum est: Panem de coelo dedisti eis manducare.<verse eID="john.6.31" />
+        <verse sID="john.6.32" osisID="john.6.32" />Dixit ergo eis Iesus: Amen, amen dico vobis: Non Moyses dedit vobis panem de coelo, sed Pater meus dat vobis panem de coelo verum.<verse eID="john.6.32" />
+        <verse sID="john.6.33" osisID="john.6.33" />Panis enim Dei est, qui descendit de coelo, et dat vitam mundo.<verse eID="john.6.33" />
+        <verse sID="john.6.34" osisID="john.6.34" />Dixerunt ergo ad eum: Domine, semper da nobis panem hunc.<verse eID="john.6.34" />
+        <verse sID="john.6.35" osisID="john.6.35" />Dixit autem eis Iesus: Ego sum panis vitae: qui veniet ad me, non esuriet: qui credit in me, non sitiet unquam.<verse eID="john.6.35" />
+        <verse sID="john.6.36" osisID="john.6.36" />Sed dixi vobis, quia et vidistis me, et non creditis.<verse eID="john.6.36" />
+        <verse sID="john.6.37" osisID="john.6.37" />Omne, quod dat mihi Pater, ad me veniet: et eum, qui venit ad me, non eiiciam foras:<verse eID="john.6.37" />
+        <verse sID="john.6.38" osisID="john.6.38" />quia descendi de coelo, non ut faciam voluntatem meam, sed voluntatem eius, qui misit me.<verse eID="john.6.38" />
+        <verse sID="john.6.39" osisID="john.6.39" />Haec est autem voluntas eius, qui misit me, Patris: ut omne, quod dedit milii, non perdam ex eo, sed resuscitem illud in novissimo die.<verse eID="john.6.39" />
+        <verse sID="john.6.40" osisID="john.6.40" />Haec est enim voluntas Patris mei, qui misit me: ut omnis, qui videt Filium, et credit in eum, habeat vitam aeternam, et resuscitabo ego eum in novissimo die.<verse eID="john.6.40" />
+        <verse sID="john.6.41" osisID="john.6.41" />Murmurabant ergo Iudaei de illo, quia dixisset: Ego fum panis, qui de coelo descendi,<verse eID="john.6.41" />
+        <verse sID="john.6.42" osisID="john.6.42" />et dicebant : Nonne hic est filius Ioseph, cuius nos novimus patrem, et matrem? Quomodo ergo dicit hic, quia de coelo descendit?<verse eID="john.6.42" />
+        <verse sID="john.6.43" osisID="john.6.43" />Respondit ergo Iesus, et dixit eis: Nolite murmurare in invicem:<verse eID="john.6.43" />
+        <verse sID="john.6.44" osisID="john.6.44" />nemo potest venire ad me, nisi Pater, qui misit me, traxerit eum: et ego resuscitabo eum in novissimo die.<verse eID="john.6.44" />
+        <verse sID="john.6.45" osisID="john.6.45" />Est scriptum in Prophetis: Et erunt omnes donnees Dei. Omnis, qui audivit a Patre, et didicit, venit ad me.<verse eID="john.6.45" />
+        <verse sID="john.6.46" osisID="john.6.46" />Non quia Patrem vidit quisquam, nisi is, qui est a Deo, hic vidit Patrem.<verse eID="john.6.46" />
+        <verse sID="john.6.47" osisID="john.6.47" />Amen, amen dico vobis : Qui credit in me, habet vitam aeternam.<verse eID="john.6.47" />
+        <verse sID="john.6.48" osisID="john.6.48" />Ego sum panis vitae.<verse eID="john.6.48" />
+        <verse sID="john.6.49" osisID="john.6.49" />Patres vestri manducaverunt in deserto manna, et mortui sunt.<verse eID="john.6.49" />
+        <verse sID="john.6.50" osisID="john.6.50" />Hic est panis de coelo descendens: ut si quis ex ipso manducaverit, non moriatur.<verse eID="john.6.50" />
+        <verse sID="john.6.51" osisID="john.6.51" />Ego sum panis vivus, qui de coelo descendi.<verse eID="john.6.51" />
+        <verse sID="john.6.52" osisID="john.6.52" />Si quis manducaverit ex hoc pane, vivet in aeternum: et panis, quem ego dabo, caro mea est pro mundi vita.<verse eID="john.6.52" />
+        <verse sID="john.6.53" osisID="john.6.53" />Litigabant ergo Iudaei ad invicem, dicentes: Quomodo potest hic nobis carnem suam dare ad manducandum?<verse eID="john.6.53" />
+        <verse sID="john.6.54" osisID="john.6.54" />Dixit ergo eis Iesus : Amen, amen dico vobis: Nisi manducaveritis carnem Filii hominis, et biberitis eius sanguinem, non habebitis vitam in vobis.<verse eID="john.6.54" />
+        <verse sID="john.6.55" osisID="john.6.55" />Qui manducat meam carnem, et bibit meum sanguinem, habet vitam aeternam: et ego resuscitabo eum in novissimo die.<verse eID="john.6.55" />
+        <verse sID="john.6.56" osisID="john.6.56" />Caro enim mea, vere est cibus: et sanguis meus, vere eft potus:<verse eID="john.6.56" />
+        <verse sID="john.6.57" osisID="john.6.57" />qui manducat meam carnem, et bibit meum sanguinem, in me manet, et ego in illo.<verse eID="john.6.57" />
+        <verse sID="john.6.58" osisID="john.6.58" />Sicut misit me vivens Pater, et ego vivo propter Patrem: et qui manducat me, et ipse vivet propter me.<verse eID="john.6.58" />
+        <verse sID="john.6.59" osisID="john.6.59" />Hic est panis, qui de coelo descendit. Non sicut manducaverunt patres vestri manna, et mortui sunt. Qui manducat hunc panem, vivet in aeternum.<verse eID="john.6.59" />
+        <verse sID="john.6.60" osisID="john.6.60" />Haec dixit in synagoga docens, in Capharnaum.<verse eID="john.6.60" />
+        <verse sID="john.6.61" osisID="john.6.61" />Multi ergo audientes ex discipulis eius, dixerunt: Durus est hic sermo, quis potest eum audire?<verse eID="john.6.61" />
+        <verse sID="john.6.62" osisID="john.6.62" />Sciens autem Iesus et ipsum, quia murmurarent de hoc discipuli eius, dixit eis: Hoc vos scandalizat?<verse eID="john.6.62" />
+        <verse sID="john.6.63" osisID="john.6.63" />Si ergo videritis Filium hominis ascendentem ubi erat prius?<verse eID="john.6.63" />
+        <verse sID="john.6.64" osisID="john.6.64" />Spiritus est, qui vivificat: caro non prodest quicquam: verba, quae locutus sum vobis, spiritus et vita sunt.<verse eID="john.6.64" />
+        <verse sID="john.6.65" osisID="john.6.65" />Sed sunt ex vobis quidam, qui non credunt. Sciebat enim ab initio Iesus qui essent non credentes, et qui credituri essent in eum.<verse eID="john.6.65" />
+        <verse sID="john.6.66" osisID="john.6.66" />Et dicebat: Propterea dixi vobis, quia nemo potest venire ad me, nisi datum ei fuerit desuper a Patre meo.<verse eID="john.6.66" />
+        <verse sID="john.6.67" osisID="john.6.67" />Ex hoc ergo multi discipulorum eius abierunt retro: et iam cum illo ambulabant.<verse eID="john.6.67" />
+        <verse sID="john.6.68" osisID="john.6.68" />Dixit ergo Iesus illis duodecim discipulis: Nunquid et vos vultis ire?<verse eID="john.6.68" />
+        <verse sID="john.6.69" osisID="john.6.69" />Respondit ei Simon Petrus: Domine, ad quem ibimus? verba vitae aeternae habes:<verse eID="john.6.69" />
+        <verse sID="john.6.70" osisID="john.6.70" />et nos credimus, et cognovimus, quia tu es Christus Filius Dei.<verse eID="john.6.70" />
+        <verse sID="john.6.71" osisID="john.6.71" />Et respondit Iesus: Nonne ego vos duodecim elegi: et unus ex vobis diabolus est?<verse eID="john.6.71" />
+        <verse sID="john.6.72" osisID="john.6.72" />Dicebat autem de Iuda Simone Scariothe : hic enim erat traditurus eum, cum unus esset ex duodecim.<verse eID="john.6.72" />
+      </p>
+      <chapter eID="john.6" />
+      <chapter sID="john.7" osisID="john.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="john.7.1" osisID="john.7.1" />Post haec ambulabat Iesus in Galilaeam; non enim volebat in Iudaeam ambulare, quoniam quaerebant eum Iudaei interficere.<verse eID="john.7.1" />
+        <verse sID="john.7.2" osisID="john.7.2" />Erat autem prope Pascha, dies festus Iudaeorum.<verse eID="john.7.2" />
+        <verse sID="john.7.3" osisID="john.7.3" />Dixerunt autem ad eum fratres eius: Transi hinc, et vade in Iudaeam, ut et discipuli tui videant opera tua, quae facis.<verse eID="john.7.3" />
+        <verse sID="john.7.4" osisID="john.7.4" />Nemo enim in occulto quid facit, et quaerit ipse in palam esse: si haec facis, manifesta teipsum huic mundo.<verse eID="john.7.4" />
+        <verse sID="john.7.5" osisID="john.7.5" />Neque enim tunc fratres eius credebant in eum.<verse eID="john.7.5" />
+        <verse sID="john.7.6" osisID="john.7.6" />Dixit ergo eis Iesus: Tempus meum nondum advenit: tempus autem vestrum semper est paratum.<verse eID="john.7.6" />
+        <verse sID="john.7.7" osisID="john.7.7" />Non potest mundus odire vos: me autem odit: quoniam ego testimonium perhibeo de illo, quia opera eius mala sunt.<verse eID="john.7.7" />
+        <verse sID="john.7.8" osisID="john.7.8" />Vos ascendite ad diem festum, ego non ascendam ad diem festum hunc: quia meum tempus nondum impletum est.<verse eID="john.7.8" />
+        <verse sID="john.7.9" osisID="john.7.9" />Haec cum dixisset Iesus, mansit in Galilaeam.<verse eID="john.7.9" />
+        <verse sID="john.7.10" osisID="john.7.10" />Ut autem ascenderunt fratres eius, tunc et ipse ascendit ad diem festum non manifeste, sed quasi in occulto.<verse eID="john.7.10" />
+        <verse sID="john.7.11" osisID="john.7.11" />Iudaei ergo quaerebant eum in die festo, et dicebant : Ubi est ille?<verse eID="john.7.11" />
+        <verse sID="john.7.12" osisID="john.7.12" />Et murmur de illo erat in turba. Quidam enim dicebant: Quia bonus est. Alii autem dicebant: Non, sed seducit populum.<verse eID="john.7.12" />
+        <verse sID="john.7.13" osisID="john.7.13" />Nemo tamen palam loquebatur de illo, propter metum Iudaeorum.<verse eID="john.7.13" />
+        <verse sID="john.7.14" osisID="john.7.14" />Iam autem die festo mediante, ascendit Iesus in templum, et docebat.<verse eID="john.7.14" />
+        <verse sID="john.7.15" osisID="john.7.15" />Mirabantur ergo Iudaei, dicentes: Quomodo hic litteras novit, cum non didicerit?<verse eID="john.7.15" />
+        <verse sID="john.7.16" osisID="john.7.16" />Et respondit Iesus, et dixit eis: Mea doctrina non est mea, sed eius, qui me misit.<verse eID="john.7.16" />
+        <verse sID="john.7.17" osisID="john.7.17" />Si quis voluerit voluntatem eius facere: cognoscet doctrinam, utrum ex Deo est, an ego a meipso loquar.<verse eID="john.7.17" />
+        <verse sID="john.7.18" osisID="john.7.18" />Qui a semetipso loquitur, gloriam suam propriam quaerit: qui autem quaerit gloriam eius, qui misit illum, hic verax est, et iniustitia non est in illo.<verse eID="john.7.18" />
+        <verse sID="john.7.19" osisID="john.7.19" />Nonne Moyses dedit vobis legem: et nemo ex vobis facit legem?<verse eID="john.7.19" />
+        <verse sID="john.7.20" osisID="john.7.20" />Quid me quaeritis interficere? Respondit turba, et dixit: Daemonium habes: quis te quaerit interficere?<verse eID="john.7.20" />
+        <verse sID="john.7.21" osisID="john.7.21" />Respondit eis Iesus, et dixit: Unum opus feci, et omnes miramini.<verse eID="john.7.21" />
+        <verse sID="john.7.22" osisID="john.7.22" />Propterea Moyses dedit vobis circumcisionem: (non quia ex Moyse est, sed ex patribus et in sabbato circumciditis hominem.<verse eID="john.7.22" />
+        <verse sID="john.7.23" osisID="john.7.23" />Si circumcisionem accipit homo in sabbato, ut non solvatur lex Moysi: mihi indignamini, quia totum hominem salvum feci in sabbato?<verse eID="john.7.23" />
+        <verse sID="john.7.24" osisID="john.7.24" />Nolite iudicare secundum faciem, sed iustum iudicium iudicate.<verse eID="john.7.24" />
+        <verse sID="john.7.25" osisID="john.7.25" />Dicebant ergo quidam ex Ierosolymis: Nonne hic est, quem quaerunt occidere?<verse eID="john.7.25" />
+        <verse sID="john.7.26" osisID="john.7.26" />Et ecce palam loquitur, et nihil ei dicunt: Nunquid forte vere cognoverunt principes quia ipse est Christus?<verse eID="john.7.26" />
+        <verse sID="john.7.27" osisID="john.7.27" />Sed hunc scimus unde sit: Christus autem cum venerit, nemo scit unde sit.<verse eID="john.7.27" />
+        <verse sID="john.7.28" osisID="john.7.28" />Clamabat ergo in templo docens Iesus et dicens: Et me nostis, et scitis unde sim: et a meipso non veni, sed est verus, qui me misit, quem vos non scitis.<verse eID="john.7.28" />
+        <verse sID="john.7.29" osisID="john.7.29" />Ego autem novi illum: quia ab ipso sum, et ipse me misit.<verse eID="john.7.29" />
+        <verse sID="john.7.30" osisID="john.7.30" />Quaerebant ergo eum apprehendere: et nemo misit in illum manus, quia nondum venerat hora eius.<verse eID="john.7.30" />
+        <verse sID="john.7.31" osisID="john.7.31" />De turba autem multi crediderunt in eum, et dicebant: Christus cum venerit, nunquid plura signa faciet, quam quae hic facit?<verse eID="john.7.31" />
+        <verse sID="john.7.32" osisID="john.7.32" />Audierunt autem Pharisaei turbam murmurantem de illo: et miserunt Principes, et Pharisaei ministros, ut apprehenderent illum.<verse eID="john.7.32" />
+        <verse sID="john.7.33" osisID="john.7.33" />Dixit ergo Iesus ad eos: Adhuc modicum tempus vobiscum sum: et vado ad illum, qui me misit.<verse eID="john.7.33" />
+        <verse sID="john.7.34" osisID="john.7.34" />Quaeritis me, et non invenietis: et quo ego vado, non potestis venire.<verse eID="john.7.34" />
+        <verse sID="john.7.35" osisID="john.7.35" />Dixerunt ergo Iudaei inter se : Quo hic iturus est, quia non inveniemus eum? nunquid in dispersionem Gentium incipiet ire, et docere Gentes?<verse eID="john.7.35" />
+        <verse sID="john.7.36" osisID="john.7.36" />Quis est hic sermo, quem dixit: Quaeritis me, et non invenietis: et ubi ego sum, vos non potestis venire?<verse eID="john.7.36" />
+        <verse sID="john.7.37" osisID="john.7.37" />In novissimo autem die illo, magno die festivitatis, stabat Iesus, et clamabat, dicens: Qui sitit, veniat ad me, et bibat.<verse eID="john.7.37" />
+        <verse sID="john.7.38" osisID="john.7.38" />Qui credit in me, sicut dicit Scriptura, flumina de ventre eius fluent aquae vivae.<verse eID="john.7.38" />
+        <verse sID="john.7.39" osisID="john.7.39" />Hoc autem dicebat de Spiritu, quem incipiebant accipere credentes in eum : nondum enim erat Spiritus datus, quia Iesus nondum fuerat clarificatus.<verse eID="john.7.39" />
+        <verse sID="john.7.40" osisID="john.7.40" />De turba autem cum audissent hos sermones eius, dicebant: Hic vere propheta est.<verse eID="john.7.40" />
+        <verse sID="john.7.41" osisID="john.7.41" />Alii autem dicebant: Hic est Christus. Quidam autem dicebant: Nunquid a Galilaea Christus venit?<verse eID="john.7.41" />
+        <verse sID="john.7.42" osisID="john.7.42" />Nonne Scriptura dicit : Quia ex semine David, et a Bethleem castello, ubi erat David; venit Christus?<verse eID="john.7.42" />
+        <verse sID="john.7.43" osisID="john.7.43" />Dissensio itaque facta est in turba propter illum.<verse eID="john.7.43" />
+        <verse sID="john.7.44" osisID="john.7.44" />Quidam autem ex illis volebant apprehendere eum: sed nemo misit in illum manus.<verse eID="john.7.44" />
+        <verse sID="john.7.45" osisID="john.7.45" />Venerunt ergo ministri ad Principes sacerdotum, et Pharisaeos. Quibus illi dixerunt: Quare non adduxistis eum?<verse eID="john.7.45" />
+        <verse sID="john.7.46" osisID="john.7.46" />Responderunt ministri, et dixerunt illis: Nunquam sic locutus est quisquam homo, sicut hic loquitur.<verse eID="john.7.46" />
+        <verse sID="john.7.47" osisID="john.7.47" />Responderunt eis Pharisaei: Nunquid et vos seducti estis?<verse eID="john.7.47" />
+        <verse sID="john.7.48" osisID="john.7.48" />Nunquid aliquis ex principibus credidit in eum, aut ex Pharisaeis?<verse eID="john.7.48" />
+        <verse sID="john.7.49" osisID="john.7.49" />sed turba haec, quae non novit legem, maledicti sunt.<verse eID="john.7.49" />
+        <verse sID="john.7.50" osisID="john.7.50" />Dicit Nicodemus ad eos, ille, qui venerat ad eum nocte prius, qui erat unus ex ipsis:<verse eID="john.7.50" />
+        <verse sID="john.7.51" osisID="john.7.51" />Nunquid lex nostra iudicat hominem, nisi audierit primum ab ipso, et cognoverit primum quid fecit?<verse eID="john.7.51" />
+        <verse sID="john.7.52" osisID="john.7.52" />Responderunt ei, et dixerunt: Nunquid et tu Galilaeus es? Scrutare Scripturas, et vide quia propheta a Galilaea non surgit.<verse eID="john.7.52" />
+        <verse sID="john.7.53" osisID="john.7.53" />Et duxerunt se unusquisque in domum suam.<verse eID="john.7.53" />
+      </p>
+      <chapter eID="john.7" />
+      <chapter sID="john.8" osisID="john.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="john.8.1" osisID="john.8.1" />Iesus autem ascendit in montem Oliveti:<verse eID="john.8.1" />
+        <verse sID="john.8.2" osisID="john.8.2" />et mane cum factum esset, iterum venit in templo, et universus populus conveniebat ad eum: et cum consedisset, docebat eos.<verse eID="john.8.2" />
+        <verse sID="john.8.3" osisID="john.8.3" />scribae autem, et Pharisaei adduxerunt ad eum mulierem in adulterio deprehensam: quam cum statuissent in medio.<verse eID="john.8.3" />
+        <verse sID="john.8.4" osisID="john.8.4" />dixerunt ad Iesum: Magister, haec mulier deprehensa est in adulterio.<verse eID="john.8.4" />
+        <verse sID="john.8.5" osisID="john.8.5" />In lege autem praecepit nobis Moyses, ut qui in adulterio deprehenditur, lapidetur. Tu autem quid dicis de ea?<verse eID="john.8.5" />
+        <verse sID="john.8.6" osisID="john.8.6" />Haec ideo dicebant tentantes eum, ut haberent causam accusandi eum. Iesus autem inclinato capite, digito scribebat in terra.<verse eID="john.8.6" />
+        <verse sID="john.8.7" osisID="john.8.7" />Cum autem perseverarent interrogantes eum, erexit se, et dicit eis: Qui sine peccato est vestrum, primus in illam lapidem iaciat.<verse eID="john.8.7" />
+        <verse sID="john.8.8" osisID="john.8.8" />Et iterum se inclinans, scribebat in terra<verse eID="john.8.8" />
+        <verse sID="john.8.9" osisID="john.8.9" />Illi igitur cum audissent, paulatim secedebant singuli, incipientes a senioribus omnes recesserunt: et relictus est solus: et ecce mulier illa in medio erat stans.<verse eID="john.8.9" />
+        <verse sID="john.8.10" osisID="john.8.10" />Cumque se crexisset Iesus, dixit ad mulierem: Ubi sunt? nemo te condemnavit?<verse eID="john.8.10" />
+        <verse sID="john.8.11" osisID="john.8.11" />Quae dixit: Nemo, Domine. Dixit autem illi Iesus: Nec ego te condemnabo: Vade, et ex hoc iam noli peccare.<verse eID="john.8.11" />
+        <verse sID="john.8.12" osisID="john.8.12" />Iterum ergo eis locutus est Iesus, dicens: Ego sum lux mundi: qui sequitur me, non ambulat in tenebris, sed habebit lumen vitae.<verse eID="john.8.12" />
+        <verse sID="john.8.13" osisID="john.8.13" />Dixerunt ergo illi Pharisaei: Tu de te testimonium perhibes: testimonium tuum non est verum.<verse eID="john.8.13" />
+        <verse sID="john.8.14" osisID="john.8.14" />Respondens Iesus, dixit eis: Si ego testimonium perhibeo de meipso, verum est testimonium meum: quia scio unde veni, et quo vado: vos autem nescitis unde veni, et quo vado.<verse eID="john.8.14" />
+        <verse sID="john.8.15" osisID="john.8.15" />Vos secundum carnem iudicatis: ego neminem iudico:<verse eID="john.8.15" />
+        <verse sID="john.8.16" osisID="john.8.16" />sed et si iudico ego, iudicium meum verum est, quia solus non sum: sed ego, et qui me misit, Pater.<verse eID="john.8.16" />
+        <verse sID="john.8.17" osisID="john.8.17" />Sed et in lege scriptum est, quia duorum hominum testimonium verum est.<verse eID="john.8.17" />
+        <verse sID="john.8.18" osisID="john.8.18" />Ego sum, qui testimonium perhibeo de meipso: et testimonium perhibet de me is, qui me misit, Pater.<verse eID="john.8.18" />
+        <verse sID="john.8.19" osisID="john.8.19" />Dicebant ergo ei : Ubi est Pater tuus? Respondit Iesus: Neque me nostis, neque Patrem meum scitis: si enim me sciretis, et Patrem meum forsitan sciretis.<verse eID="john.8.19" />
+        <verse sID="john.8.20" osisID="john.8.20" />Haec verba locutus est in gazophylacio, docens in templo: et nemo apprehendit eum quia nondum venerat hora eius.<verse eID="john.8.20" />
+        <verse sID="john.8.21" osisID="john.8.21" />Dixit ergo iterum Iesus eis: Ego vado, et quaeritis me, et in peccato vestro moriemini. Quo ego vado, vos non potestis venire.<verse eID="john.8.21" />
+        <verse sID="john.8.22" osisID="john.8.22" />Dicebant ergo Iudaei: Nunquid interficiet seipsum, quia dicit: Quo ego vado, vos non potestis venire?<verse eID="john.8.22" />
+        <verse sID="john.8.23" osisID="john.8.23" />Et dicebat eis: Vos de deorsum estis, ego de supernis fum. Vos de hoc mundo estis, ego non sum de hoc mundo.<verse eID="john.8.23" />
+        <verse sID="john.8.24" osisID="john.8.24" />Dixi ergo vobis, quia moriemini in peccatis vestris: si enim non credideritis quia ego sum, moriemini in peccatis vestris.<verse eID="john.8.24" />
+        <verse sID="john.8.25" osisID="john.8.25" />Dicebant ergo ei : Tu quis es? Dixit eis Iesus: lnitium, quod et loquor vobis.<verse eID="john.8.25" />
+        <verse sID="john.8.26" osisID="john.8.26" />Multa habeo de vobis loqui, et iudicare: sed qui misit me, verax est: et ego quae audivi ab eo, haec loquor in mundo.<verse eID="john.8.26" />
+        <verse sID="john.8.27" osisID="john.8.27" />Et non cognoverunt quia Patrem eis dicebat Deum.<verse eID="john.8.27" />
+        <verse sID="john.8.28" osisID="john.8.28" />Dixit ergo eis Iesus: Cum exaltaveritis Filium hominis, tunc cognoscetis quia ego sum, et a meipso nihil facio, sed sicut docuit me Pater, haec loquor:<verse eID="john.8.28" />
+        <verse sID="john.8.29" osisID="john.8.29" />et qui me misit, mecum, et non reliquit me solum: quia ego, quae placita sunt ei, facio semper.<verse eID="john.8.29" />
+        <verse sID="john.8.30" osisID="john.8.30" />Haec illo loquente, multi crediderunt in eum.<verse eID="john.8.30" />
+        <verse sID="john.8.31" osisID="john.8.31" />Dicebat ergo Iesus ad eos, qui crediderunt ei, Iudaeos: Si vos manseritis in verbo meo, vere discipuli mei eritis:<verse eID="john.8.31" />
+        <verse sID="john.8.32" osisID="john.8.32" />et cognoscetis veritatem, et veritas liberabit vos.<verse eID="john.8.32" />
+        <verse sID="john.8.33" osisID="john.8.33" />Responderunt ergo Iudaei, dicentes: Semen Abrahae sumus, et nemini servivimus unquam: quomodo tu dicis : Liberi eritis?<verse eID="john.8.33" />
+        <verse sID="john.8.34" osisID="john.8.34" />Respondit eis Iesus : Amen, amen dico vobis: quia omnis, qui facit peccatum, servus est peccati:<verse eID="john.8.34" />
+        <verse sID="john.8.35" osisID="john.8.35" />servus autem non manet in domo in aeternum: filius manet in aeternum:<verse eID="john.8.35" />
+        <verse sID="john.8.36" osisID="john.8.36" />si ergo filius vos liberaverit, vere liberi eritis.<verse eID="john.8.36" />
+        <verse sID="john.8.37" osisID="john.8.37" />Scio quia semen Abraham estis: sed quaeritis me interficere, quia sermo meus non est in vobis.<verse eID="john.8.37" />
+        <verse sID="john.8.38" osisID="john.8.38" />Ego quod vidi apud Patrem meum, hoc loquor: et vos itaque quod vidistis apud patrem vestrum, facitis.<verse eID="john.8.38" />
+        <verse sID="john.8.39" osisID="john.8.39" />Qui responderunt ei, et dixerunt: Pater noster Abraham est. Dicit eis Iesus : Si filii Abrahae essetis, opera Abrahae faceretis.<verse eID="john.8.39" />
+        <verse sID="john.8.40" osisID="john.8.40" />Nunc autem quaeritis me interficere, hominem, qui veritatem locutus sum vobis, quam audivi a Deo: hoc Abraham non fecit.<verse eID="john.8.40" />
+        <verse sID="john.8.41" osisID="john.8.41" />Vos facitis opera patris vestri. Nos ex fornicatione non sumus : patrem unum habemus Deum.<verse eID="john.8.41" />
+        <verse sID="john.8.42" osisID="john.8.42" />Dicit eis Iesus: Si Deus pater vester esset, diligeretis utique me: quia ego ex Deo processi, et veni: non enim a meipso veni, sed ille me misit.<verse eID="john.8.42" />
+        <verse sID="john.8.43" osisID="john.8.43" />Quare loquelam meam non cognoscitis? Quia non potestis audire meum sermonem.<verse eID="john.8.43" />
+        <verse sID="john.8.44" osisID="john.8.44" />Vos ex patre diabolo estis, et desideria patris vestri vultis facere: ille enim homicida erat ab initio, et in veritate non stetit: quia non est veritas in eo: qui loquitur mendacium, ex suis propriis loquitur, quia mendax est, sicut et pater eius.<verse eID="john.8.44" />
+        <verse sID="john.8.45" osisID="john.8.45" />Ego quia veritatem dico, non creditis mihi.<verse eID="john.8.45" />
+        <verse sID="john.8.46" osisID="john.8.46" />Quis ex vobis arguet me de peccato? Si veritatem dico, quare vos non creditis mihi?<verse eID="john.8.46" />
+        <verse sID="john.8.47" osisID="john.8.47" />Qui ex Deo est, verba Dei audit. Propterea vos non audistis, quia ex Deo non estis.<verse eID="john.8.47" />
+        <verse sID="john.8.48" osisID="john.8.48" />Responderunt Iudaei, et dixerunt ei: Nonne nos bene dicimus, quia Samaritanus es tu, et daemonium habes?<verse eID="john.8.48" />
+        <verse sID="john.8.49" osisID="john.8.49" />Respondit Iesus: Ego daemonium non habeo: sed honorifico Patrem meum, et vos me non honoratis.<verse eID="john.8.49" />
+        <verse sID="john.8.50" osisID="john.8.50" />Ego autem non quaero claritatem meam: est qui quaerat, et iudicet.<verse eID="john.8.50" />
+        <verse sID="john.8.51" osisID="john.8.51" />Amen, amen dico vobis: si quis sermonem meum servaverit, non videbit mortem in aeternum.<verse eID="john.8.51" />
+        <verse sID="john.8.52" osisID="john.8.52" />Dixerunt ergo Iudaei: Nunc cognovimus quia deemonium habes. Abraham mortuus est et Prophetae: et tu dicis: Si quis sermonem meum servaverit, non gustabit mortem.<verse eID="john.8.52" />
+        <verse sID="john.8.53" osisID="john.8.53" />Nunquid tu maior es quam Abraham, qui mortuus est? et Prophetae mortui sunt. Quem teipsum facis?<verse eID="john.8.53" />
+        <verse sID="john.8.54" osisID="john.8.54" />Respondit Iesus : Si ego clarificavero meipsum, claritas mea nihil est: est Pater meus, qui clarificat me, quem vos dicitis quia Deus vester est.<verse eID="john.8.54" />
+        <verse sID="john.8.55" osisID="john.8.55" />et non cognovistis eum: ego autem scio reum: Et si dixero quia non scio eum, ero similis vobis, mendax. Sed scio eum, et sermonem eius servo.<verse eID="john.8.55" />
+        <verse sID="john.8.56" osisID="john.8.56" />Abraham pater vester exsultavit ut videret diem meum: vidit, et gavisus est.<verse eID="john.8.56" />
+        <verse sID="john.8.57" osisID="john.8.57" />Dixerunt ergo Iudaei ad eum: Quinquaginta annos nondum habes, et Abraham vidisti?<verse eID="john.8.57" />
+        <verse sID="john.8.58" osisID="john.8.58" />Dixit eis Iesus: Amen dico vobis, antequam Abraham ego sum.<verse eID="john.8.58" />
+        <verse sID="john.8.59" osisID="john.8.59" />Tulerunt ergo lapides, ut iacerent in illum: Iesus autem abscondit se, et exivit de templo.<verse eID="john.8.59" />
+      </p>
+      <chapter eID="john.8" />
+      <chapter sID="john.9" osisID="john.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="john.9.1" osisID="john.9.1" />Et praeteriens Iesus videt hominem caecum a nativitate sua:<verse eID="john.9.1" />
+        <verse sID="john.9.2" osisID="john.9.2" />et interrogaverunt eum discipuli eius, dicentes: Rabbi, quis peccavit, iste, an parentes eius, ut caecus nasceretur?<verse eID="john.9.2" />
+        <verse sID="john.9.3" osisID="john.9.3" />Respondit Iesus : Neque hic peccavit, neque parentes eius: sed ut manifestentur opera Dei in illo.<verse eID="john.9.3" />
+        <verse sID="john.9.4" osisID="john.9.4" />Me oportet operari opera eius, qui me misit, dum dies est: venit nox, quando nemo potest operari:<verse eID="john.9.4" />
+        <verse sID="john.9.5" osisID="john.9.5" />cum in hoc mundo sum, lux huius mundi sum<verse eID="john.9.5" />
+        <verse sID="john.9.6" osisID="john.9.6" />Haec cum dixisset, exspuit in terram, et fecit lutum ex sputo, et superunxit eum super oculos eius,<verse eID="john.9.6" />
+        <verse sID="john.9.7" osisID="john.9.7" />et dixit ei: Vade, et lava in natatoriam Siloe (quod interpretatur Missus.) Abiit et lavit, et venit videns.<verse eID="john.9.7" />
+        <verse sID="john.9.8" osisID="john.9.8" />Vicini ergo eius, qui noverant eum prius quod caecus, et mendicus esset, dicebant: Nonne hic est, qui sedebat, et mendicabat? Alii dicebant: Hic est.<verse eID="john.9.8" />
+        <verse sID="john.9.9" osisID="john.9.9" />Alii autem dicebant : Quia similis est illi. Ille autem dicebat: Ego sum.<verse eID="john.9.9" />
+        <verse sID="john.9.10" osisID="john.9.10" />Dicebant ergo ei: Quomodo aperti sunt tibi oculi?<verse eID="john.9.10" />
+        <verse sID="john.9.11" osisID="john.9.11" />Respondit: Ille homo, qui dicitur Iesus, lutum fecit: et superunxit me, et dixit mihi: Vade in Siloa, et lava oculos tuos. Et abii, et lavi, et video.<verse eID="john.9.11" />
+        <verse sID="john.9.12" osisID="john.9.12" />Dixerunt ergo ei: Ubi est ille? Dixit: Nescio.<verse eID="john.9.12" />
+        <verse sID="john.9.13" osisID="john.9.13" />Et adduxerunt eum ad Pharisaeos, illum, qui caecus fuerat, videntem.<verse eID="john.9.13" />
+        <verse sID="john.9.14" osisID="john.9.14" />Erat autem sabbatum, in qua die fecit lutum Iesus, et aperuit oculos eius.<verse eID="john.9.14" />
+        <verse sID="john.9.15" osisID="john.9.15" />Iterum ergo interrogabant eum Pharisaei: Quomodo vidisti? Ille autem dixit eis: Lutum imposuit mihi super oculos, et lavi, et ecce video.<verse eID="john.9.15" />
+        <verse sID="john.9.16" osisID="john.9.16" />Dicebant ergo quidam ex Pharisaeis: Non est hic homo a Deo, qui sabbatum non custodit. Alii autem dicebant: Quomodo potest homo peccator talia signa facere? Et dissentio erat inter eos.<verse eID="john.9.16" />
+        <verse sID="john.9.17" osisID="john.9.17" />Dicebant ergo illi caeco : Tu quid dicis de eo, quod aperuit oculos tuos? Ille autem dixit: Quia propheta est.<verse eID="john.9.17" />
+        <verse sID="john.9.18" osisID="john.9.18" />Non credebant ergo Iudaei de illo, quoniam caecus fuit, et videt, donec vocaverunt parentes eius:<verse eID="john.9.18" />
+        <verse sID="john.9.19" osisID="john.9.19" />et interrogaverunt eos : Hic est filius vester, quem vos dicitis quia caecus natus est? Quomodo ergo videt modo?<verse eID="john.9.19" />
+        <verse sID="john.9.20" osisID="john.9.20" />Responderunt eis parentes eius, et dixerunt: Scimus quia hic est filius noster, et quia caecus natus est:<verse eID="john.9.20" />
+        <verse sID="john.9.21" osisID="john.9.21" />quomodo autem videt, nescimus: aut quis aperuit oculos eius, nos ignoramus: ipsum interrogate: aetatem habet, ipse pro se loquatur.<verse eID="john.9.21" />
+        <verse sID="john.9.22" osisID="john.9.22" />Haec autem dixerunt parentes eius, quia timebant Iudaeos : iam enim decreverant Iudaei ut si quis eum confiteretur Christum, extra synagogam fieret.<verse eID="john.9.22" />
+        <verse sID="john.9.23" osisID="john.9.23" />Propterea parentes eius dixerunt: Aetatem habet, ipsum interrogate.<verse eID="john.9.23" />
+        <verse sID="john.9.24" osisID="john.9.24" />Vocaverunt ergo hominem iterum, qui fuerat caecus, et dixerunt ei: Da honorem Deo: nos scimus quia hic homo peccator est.<verse eID="john.9.24" />
+        <verse sID="john.9.25" osisID="john.9.25" />Dixit ergo ille: Si peccator est, nescio: unum tantum scio, quia caecus eram, et modo video.<verse eID="john.9.25" />
+        <verse sID="john.9.26" osisID="john.9.26" />Dixerunt ergo illi: Quid fecit tibi? et quomodo aperuit tibi oculos?<verse eID="john.9.26" />
+        <verse sID="john.9.27" osisID="john.9.27" />Respondit eis: Dixi vobis iam, et audistis: quid iterum vultis audire? nunquid et vos vulti discipuli eius fieri?<verse eID="john.9.27" />
+        <verse sID="john.9.28" osisID="john.9.28" />Maledixerunt ergo eum, et dixerant: Tu discipulus illius sis: nos Moysi discipuli sumus.<verse eID="john.9.28" />
+        <verse sID="john.9.29" osisID="john.9.29" />Scimus quia Moysi locutus est Deus: hunc autem nescimus unde sit.<verse eID="john.9.29" />
+        <verse sID="john.9.30" osisID="john.9.30" />Respondit ille homo, et dixit: In hoc mirabile est, quod vos nescitis unde sit, et aperuit oculos meos :<verse eID="john.9.30" />
+        <verse sID="john.9.31" osisID="john.9.31" />scimus quia peccatores Deus non exaudit: sed si quis Dei cultor est, et voluntatem eius facit, hunc exaudit.<verse eID="john.9.31" />
+        <verse sID="john.9.32" osisID="john.9.32" />A saeculo nunquam auditum est, quia age ruit aliquis oculos caeci nati.<verse eID="john.9.32" />
+        <verse sID="john.9.33" osisID="john.9.33" />Nisi esset hic a Deo, non poterat facere quidquam.<verse eID="john.9.33" />
+        <verse sID="john.9.34" osisID="john.9.34" />Responderunt, et dixerunt ei: In peccatis natus es totus, et tu doces nos? Et eiecerunt eum foras.<verse eID="john.9.34" />
+        <verse sID="john.9.35" osisID="john.9.35" />Audivit autem Iesus quia eiecerunt illum foras: et cum invenisset eum, dixit ei: Tu credis in Filium Dei?<verse eID="john.9.35" />
+        <verse sID="john.9.36" osisID="john.9.36" />Respondit ille, et dixit: Quis est, Domine, ut credam in eum?<verse eID="john.9.36" />
+        <verse sID="john.9.37" osisID="john.9.37" />Et dixit illi Iesus: Et vidisti illum, et qui loquitur tecum, ipse est.<verse eID="john.9.37" />
+        <verse sID="john.9.38" osisID="john.9.38" />At ille ait: Credo Domine. Et procidens adoravit eum.<verse eID="john.9.38" />
+        <verse sID="john.9.39" osisID="john.9.39" />Dixit ei Iesus : In iudicium ego veni in hunc mundum: ut qui non vident videant, et qui vident caeci fiant.<verse eID="john.9.39" />
+        <verse sID="john.9.40" osisID="john.9.40" />Et audierunt ex Pharisaeis, qui cum ipso erant, et dixerunt ei: Nunquid et nos caeci sumus?<verse eID="john.9.40" />
+        <verse sID="john.9.41" osisID="john.9.41" />Dixit eis Iesus: Si caeci essetis, non haberetis peccatum: sed dicitis: Quia videmus. Peccatum vestrum manet.<verse eID="john.9.41" />
+      </p>
+      <chapter eID="john.9" />
+      <chapter sID="john.10" osisID="john.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="john.10.1" osisID="john.10.1" />Amen dico vobis : qui non intrat per ianuam in cortem ovium, sed ascendit alia parte, ille fur est, et latro.<verse eID="john.10.1" />
+        <verse sID="john.10.2" osisID="john.10.2" />Qui autem intrat per ianuam, hic pastor est ovium.<verse eID="john.10.2" />
+        <verse sID="john.10.3" osisID="john.10.3" />Huic ostiarius aperit, et oves vocem eius audiunt, et suas oves vocat nominatim, et producit illas.<verse eID="john.10.3" />
+        <verse sID="john.10.4" osisID="john.10.4" />Cum autem oves suas omnes produxerit, ante ipsas vadet: et oves illum sequuntur, quia fciunt eius vocem.<verse eID="john.10.4" />
+        <verse sID="john.10.5" osisID="john.10.5" />Alienum autem non sequuntur, sed fugiunt ab eo: quia nesciunt eius vocem.<verse eID="john.10.5" />
+        <verse sID="john.10.6" osisID="john.10.6" />Hoc proverbium dixit illis Iesus. Illi autem non cognoverunt quod loquebatur illis.<verse eID="john.10.6" />
+        <verse sID="john.10.7" osisID="john.10.7" />Dixit ergo illis iterum Iesus: Amen, amen dico vobis, quia ego sum ostium ovium.<verse eID="john.10.7" />
+        <verse sID="john.10.8" osisID="john.10.8" />Omnes quotquot venerunt, fures sunt, et latrones: sed non audierunt eos oves.<verse eID="john.10.8" />
+        <verse sID="john.10.9" osisID="john.10.9" />Ego sum ostium. Per me si quis introierit salvabitur: et introibit, et exiet, et pascua inveniet.<verse eID="john.10.9" />
+        <verse sID="john.10.10" osisID="john.10.10" />Fur non venit nisi ut furetur, et occidat, et perdat. Ego veni ut vitam habeant, et abundantius habeant.<verse eID="john.10.10" />
+        <verse sID="john.10.11" osisID="john.10.11" />Ego sum pastor bonus. Pastor bonus animam suam dat pro ovibus.<verse eID="john.10.11" />
+        <verse sID="john.10.12" osisID="john.10.12" />Mercenarius autem, et qui non est pastor. cuius non sunt oves propriae, videt lupum venientem, et dimittit oves, et fugit: et lupus rapit eas, et disperguntur oves:<verse eID="john.10.12" />
+        <verse sID="john.10.13" osisID="john.10.13" />mercenarius autem fugit, quia conducticius est, et non pertinet ad eum de ovibus. Oves<verse eID="john.10.13" />
+        <verse sID="john.10.14" osisID="john.10.14" />Ego sum pastor bonus: et cognosco oves meas, et cognoscunt me meae.<verse eID="john.10.14" />
+        <verse sID="john.10.15" osisID="john.10.15" />Sicut cognoscit me Pater, et ego cognosco Patrem: et animam meam pono pro ovibus meis.<verse eID="john.10.15" />
+        <verse sID="john.10.16" osisID="john.10.16" />Et alias habeo oves, quae non sunt de hoc ovili: et illas oportet me adducere, et vocem meam audient, et erit unus grex, et unus pastor.<verse eID="john.10.16" />
+        <verse sID="john.10.17" osisID="john.10.17" />Propterea me Pater diligit: quoniam ego animam meam pono pro ovibus, et iterum sumam eam.<verse eID="john.10.17" />
+        <verse sID="john.10.18" osisID="john.10.18" />Et nemo tollit eam a me, sed ego pono eam a meipso: potestatem habeo ponendi eam, et potestatem habeo iterum tollendi eam : Hoc praeceptum accepi a Patre meo.<verse eID="john.10.18" />
+        <verse sID="john.10.19" osisID="john.10.19" />Dissensio iterum facta est inter Iudaeos propter sermones istos.<verse eID="john.10.19" />
+        <verse sID="john.10.20" osisID="john.10.20" />Haec dicebant multi ex ipsis: Daemonium habet, et insanit: quid eum auditis?<verse eID="john.10.20" />
+        <verse sID="john.10.21" osisID="john.10.21" />Alii dicebant: Haec verba non sunt daemonium habentis: nunquid daemonium potest caecorum oculos aperire?<verse eID="john.10.21" />
+        <verse sID="john.10.22" osisID="john.10.22" />Facta est autem Dedicatio in Ierosolymis: et hiems erat.<verse eID="john.10.22" />
+        <verse sID="john.10.23" osisID="john.10.23" />Et ambulabat Iesus in porticu Salomonis, in templo.<verse eID="john.10.23" />
+        <verse sID="john.10.24" osisID="john.10.24" />Et circumdederunt eum Iudaei, et dicebant: Usquequo animam nostram suspendis? si tu es Christus, dic nobis palam.<verse eID="john.10.24" />
+        <verse sID="john.10.25" osisID="john.10.25" />Respondit eis Iesus: Loquor vobis palam et non creditis: opera, quae ego facio in nomine Patris mei, haec testimonium perhibent de me:<verse eID="john.10.25" />
+        <verse sID="john.10.26" osisID="john.10.26" />sed vos non creditis mihi: non enim estis ex ovibus meis.<verse eID="john.10.26" />
+        <verse sID="john.10.27" osisID="john.10.27" />Oves meae vocem meam audiunt: et ego cognosco eas, et sequuntur me:<verse eID="john.10.27" />
+        <verse sID="john.10.28" osisID="john.10.28" />et ego vitam aeternam do illis: et non peribunt in aeternum, et nemo rapit eas de manu mea.<verse eID="john.10.28" />
+        <verse sID="john.10.29" osisID="john.10.29" />Pater quod dedit mihi, maius omnibus est: et nemo potest rapere illud de manu Patris<verse eID="john.10.29" />
+        <verse sID="john.10.30" osisID="john.10.30" />Ego, et Pater unum sumus.<verse eID="john.10.30" />
+        <verse sID="john.10.31" osisID="john.10.31" />Sustulerunt ergo lapides Iudaei, ut lapidarent eum.<verse eID="john.10.31" />
+        <verse sID="john.10.32" osisID="john.10.32" />Respondit eis Iesus, dicens: Multa opera bona ostendi vobis a Patre meo, propter quod eorum opus lapidatis me?<verse eID="john.10.32" />
+        <verse sID="john.10.33" osisID="john.10.33" />Responderunt ei Iudaei : De bono opere non te lapidamus, sed de blasphemia: quia tu homo cum sis, facis teipsum Deum.<verse eID="john.10.33" />
+        <verse sID="john.10.34" osisID="john.10.34" />Respondit eis Iesus: Nonne scriptum est in lege: quia Ego dixi, dii estis?<verse eID="john.10.34" />
+        <verse sID="john.10.35" osisID="john.10.35" />Si ergo illos dixit deos, ad quos sermo Dei fiebat, et non potest solvi Scriptura:<verse eID="john.10.35" />
+        <verse sID="john.10.36" osisID="john.10.36" />quem Pater sanctificavit, et misit in hunc mundum, vos dicitis quia blasphemo: quia dixi, Filius Dei sum?<verse eID="john.10.36" />
+        <verse sID="john.10.37" osisID="john.10.37" />Si non facio opera Patris mei, nolite mihi credere.<verse eID="john.10.37" />
+        <verse sID="john.10.38" osisID="john.10.38" />Quod si facio, et non vultis mihi credere : vel operibus credite, et cognoscite quia in me est Pater, et ego in Patre.<verse eID="john.10.38" />
+        <verse sID="john.10.39" osisID="john.10.39" />Quaerebant ergo eum apprehendere Iudaei: et exiit de manibus eorum.<verse eID="john.10.39" />
+        <verse sID="john.10.40" osisID="john.10.40" />Et abiit iterum trans Iordanem, in eum locum, ubi erat Ioannes baptizans primum: et manebat illic.<verse eID="john.10.40" />
+        <verse sID="john.10.41" osisID="john.10.41" />Et multi veniebant ad illum, et dicebant: Iohannes quidem nullum signum fecit.<verse eID="john.10.41" />
+        <verse sID="john.10.42" osisID="john.10.42" />Omnia autem quae dixit Iohannes de hoc, vera sunt. Et multi crediderunt in eum.<verse eID="john.10.42" />
+      </p>
+      <chapter eID="john.10" />
+      <chapter sID="john.11" osisID="john.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="john.11.1" osisID="john.11.1" />Erat autem infirmus quidam, Lazarus nomine, a Bethania, de castello Mariae, et Marthae sororis eius.<verse eID="john.11.1" />
+        <verse sID="john.11.2" osisID="john.11.2" />(Maria autem erat, quae unxit Dominum unguento, et tersit pedes eius capillis suis: cuius frater Lazarus infirmabatur.)<verse eID="john.11.2" />
+        <verse sID="john.11.3" osisID="john.11.3" />Miserunt ergo sorores eius ad Iesum dicentes: Domine, ecce quem amas infirmatur.<verse eID="john.11.3" />
+        <verse sID="john.11.4" osisID="john.11.4" />Audivit autem Iesus, et ait illis: Haec infirmitas non est ad mortem, sed pro gloria Dei, ut clarificetur Filius eius per ipsum.<verse eID="john.11.4" />
+        <verse sID="john.11.5" osisID="john.11.5" />Diligebat autem Iesus Lazarum, et sororem eius.<verse eID="john.11.5" />
+        <verse sID="john.11.6" osisID="john.11.6" />Ut ergo audivit quia infirmatur, tunc quidem Iesus mansit in eodem loco duobus diebus:<verse eID="john.11.6" />
+        <verse sID="john.11.7" osisID="john.11.7" />deinde post haec dicit discipulis suis: Eamus iterum in Iudaeam.<verse eID="john.11.7" />
+        <verse sID="john.11.8" osisID="john.11.8" />Dicunt ei discipuli eius: Rabbi, nunc quaerebant te lapidare Iudaei, et iterum vadis illuc?<verse eID="john.11.8" />
+        <verse sID="john.11.9" osisID="john.11.9" />Et respondit Iesus, et dixit eis: Nonne duodecim horae sunt diei? Si quis ambulaverit in die, non offendit, quia lucem huius mundi videt:<verse eID="john.11.9" />
+        <verse sID="john.11.10" osisID="john.11.10" />quod si quis ambulaverit in nocte, offendit, quia lux non est in eo.<verse eID="john.11.10" />
+        <verse sID="john.11.11" osisID="john.11.11" />Haec dixit: postea ait illis: Lazarus amicus noster dormit: sed vado ut a somno excitem eum.<verse eID="john.11.11" />
+        <verse sID="john.11.12" osisID="john.11.12" />Dixerunt ergo ei discipuli eius: Domine, si dormit, salvus erit.<verse eID="john.11.12" />
+        <verse sID="john.11.13" osisID="john.11.13" />Dixerat autem Iesus de morte eius: illi autem putaverunt quia de somno dicit.<verse eID="john.11.13" />
+        <verse sID="john.11.14" osisID="john.11.14" />Tunc ergo dicit eis Iesus manifeste: Lazarus mortuus est:<verse eID="john.11.14" />
+        <verse sID="john.11.15" osisID="john.11.15" />et gaudeo propter vos, ut credatis, quia non ibi fui: sed eamus ad eum.<verse eID="john.11.15" />
+        <verse sID="john.11.16" osisID="john.11.16" />Ait ergo Thomas, qui dicitur Didymus: Eamus et nos, et moriamur cum illo.<verse eID="john.11.16" />
+        <verse sID="john.11.17" osisID="john.11.17" />Venit ergo Iesus: et invenit eum quatriduum iam in monumento habentem.<verse eID="john.11.17" />
+        <verse sID="john.11.18" osisID="john.11.18" />(Erat autem Bethania iuxta Ierosolymam fere a stadiis duodecim.)<verse eID="john.11.18" />
+        <verse sID="john.11.19" osisID="john.11.19" />Multi autem ex Iudaeis venerant ad Martham, et Mariam, ut eas consolarentur de fratre suo.<verse eID="john.11.19" />
+        <verse sID="john.11.20" osisID="john.11.20" />Martha ergo ut audivit quia Iesus venit, occurrit illi: Maria autem domi sedebat.<verse eID="john.11.20" />
+        <verse sID="john.11.21" osisID="john.11.21" />Dixit ergo Martha ad Iesum : Domine, si hîc fuisses, frater meus non esset mortuus:<verse eID="john.11.21" />
+        <verse sID="john.11.22" osisID="john.11.22" />Sed et nunc scio, quia quaecunque petieris a Deo, dabit tibi Deus.<verse eID="john.11.22" />
+        <verse sID="john.11.23" osisID="john.11.23" />Dicit ei Iesus: Resurget frater tuus.<verse eID="john.11.23" />
+        <verse sID="john.11.24" osisID="john.11.24" />Dicit ei Martha : Scio quia resurget in resurrectione in novissima die.<verse eID="john.11.24" />
+        <verse sID="john.11.25" osisID="john.11.25" />Dixit ei Iesus: Ego sum resurrectio, et vita: qui credit in me, etiam si mortuus fuerit, vivet:<verse eID="john.11.25" />
+        <verse sID="john.11.26" osisID="john.11.26" />et omnis, qui vivit, et credit in me, non morietur in aeternum. Credis hoc?<verse eID="john.11.26" />
+        <verse sID="john.11.27" osisID="john.11.27" />Ait illi Martha: Utique Domine, ego credidi, quia tu es Christus filius Dei, qui in hunc mundum venisti.<verse eID="john.11.27" />
+        <verse sID="john.11.28" osisID="john.11.28" />Haec cum dixisset, vocavit Mariam sororem suam silentio, dicens: Magister adest, et vocat te.<verse eID="john.11.28" />
+        <verse sID="john.11.29" osisID="john.11.29" />Illa ut audivit, surrexit cito, et venit ad illum:<verse eID="john.11.29" />
+        <verse sID="john.11.30" osisID="john.11.30" />nondum enim venerat Iesus in castellum: sed erat adhuc in illo loco, ubi occurrit ei Martha.<verse eID="john.11.30" />
+        <verse sID="john.11.31" osisID="john.11.31" />Iudaei autem, qui erant cum ea in domo qui eam consolabantur, cum vidissent Mariam quoniam cito surrexit, et exivit, secuti sunt eam, dicentes: Quia vadit ad monumentum, ut ploret ibi.<verse eID="john.11.31" />
+        <verse sID="john.11.32" osisID="john.11.32" />Maria ergo, ut venit ubi erat Iesus, venit ad eum, et cecidit ad pedes eius, et dixit ei: Domine, si hic esses, non esset mortuus frater meus.<verse eID="john.11.32" />
+        <verse sID="john.11.33" osisID="john.11.33" />Iesus ergo, ut vidit eam plorantem, et Iudaeos flentes, qui venerant cum ea, fremuit spiritu, et turbavit seipsum<verse eID="john.11.33" />
+        <verse sID="john.11.34" osisID="john.11.34" />et dixit: Ubi posuistis eum? Dicunt ei: Domine, veni, et vide.<verse eID="john.11.34" />
+        <verse sID="john.11.35" osisID="john.11.35" />Et lacrymatus est Iesus.<verse eID="john.11.35" />
+        <verse sID="john.11.36" osisID="john.11.36" />Et dixerunt Iudaei: Ecce quomodo amabat eum.<verse eID="john.11.36" />
+        <verse sID="john.11.37" osisID="john.11.37" />Quidam autem dixerunt ex illis: Non poterat hic, qui aperuit oculos caeci, facere ne hic moreretur?<verse eID="john.11.37" />
+        <verse sID="john.11.38" osisID="john.11.38" />Iesus autem iterum fremens in semetipso, venit ad monumentum: erat autem spelunca: et lapis superpositus.<verse eID="john.11.38" />
+        <verse sID="john.11.39" osisID="john.11.39" />Et ait Iesus: Tollite lapidem. Dicit ei Martha: Domine, iam foetet, quatriduum enim habet.<verse eID="john.11.39" />
+        <verse sID="john.11.40" osisID="john.11.40" />Dicit ei Iesus: Non dixi tibi, quia si credideris, videbis gloriam Dei?<verse eID="john.11.40" />
+        <verse sID="john.11.41" osisID="john.11.41" />Tulerunt ergo lapidem: Iesus autem levavit oculos in coelum, et dixit: Pater, gratias ago tibi quia audisti me:<verse eID="john.11.41" />
+        <verse sID="john.11.42" osisID="john.11.42" />ego sciebam quia semper me audis, sed propter turbam circumstantem dixi: ut credant quia tu me misisti.<verse eID="john.11.42" />
+        <verse sID="john.11.43" osisID="john.11.43" />Et cum haec dixisset, voce magna clamavit : Lazare veni foras.<verse eID="john.11.43" />
+        <verse sID="john.11.44" osisID="john.11.44" />Et exiit, qui mortuus erat, de monumento, ligatus pedes et manus institis, et facies eius sudario erat ligata. Dicit illis Iesus: Solvite illum, et finite abire.<verse eID="john.11.44" />
+        <verse sID="john.11.45" osisID="john.11.45" />Multi ergo ex Iudaeis, qui venerant ad Mariam, et viderant quae fecit, crediderunt in eum.<verse eID="john.11.45" />
+        <verse sID="john.11.46" osisID="john.11.46" />Quidam vero ex ipsis abierunt ad Pharisaeos, et dixerunt eis quae fecit Iesus.<verse eID="john.11.46" />
+        <verse sID="john.11.47" osisID="john.11.47" />Collegerunt ergo Principes sacerdotum et Pharisaei concilium, et dicebant: Quid faciemus, quod hic homo talia signa facit?<verse eID="john.11.47" />
+        <verse sID="john.11.48" osisID="john.11.48" />Si reliquerimus eum sic, omnes credent in eum: et venient Romani, et tollent nobis locum, et gentem.<verse eID="john.11.48" />
+        <verse sID="john.11.49" osisID="john.11.49" />Unus autem ex ipsis Caiphas nomine, cum esset Pontifex anni illius, dixit illis: Vos nescitis quidquam,<verse eID="john.11.49" />
+        <verse sID="john.11.50" osisID="john.11.50" />neque cogitatis quia expedit nobis ut unus moriatur homo pro populo, et non tota gens pereat.<verse eID="john.11.50" />
+        <verse sID="john.11.51" osisID="john.11.51" />Hoc autem a semetipso non dicebat: sed cum esset Pontifex anni illius, prophetavit, quia incipiebat Iesus mori pro gente.<verse eID="john.11.51" />
+        <verse sID="john.11.52" osisID="john.11.52" />et non tantum pro gente, sed ut filios Dei, qui dispensi erant, colligerentur in unum.<verse eID="john.11.52" />
+        <verse sID="john.11.53" osisID="john.11.53" />Ab illo ergo die cogitaverunt Iudaei ut interficerent eum.<verse eID="john.11.53" />
+        <verse sID="john.11.54" osisID="john.11.54" />Iesus ergo iam non palam ambulabat apud Iudaeos, sed abiit in regionem iuxta desertum, in civitatem, quae dicitur Ephrem, et ibi morabatur cum discipulis suis.<verse eID="john.11.54" />
+        <verse sID="john.11.55" osisID="john.11.55" />Prope autem erat Pascha Iudaeorum: ascenderunt ergo multi in Ierosolymam de regione illa ante Pascha, ut purificarent semetipsos.<verse eID="john.11.55" />
+        <verse sID="john.11.56" osisID="john.11.56" />Quaerebant ergo Iesum: et colloquebantur ad invicem, in templo stantes, et dicentes: Putatis quia non ad diem festum venit? Dederant autem Principes sacerdotum, et Pharisaei praeceptum, ut si quis cognovisset ubi esset, ut indicarent, et comprehenderent eum.<verse eID="john.11.56" />
+      </p>
+      <chapter eID="john.11" />
+      <chapter sID="john.12" osisID="john.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="john.12.1" osisID="john.12.1" />Iesus ergo ante sex dies Paschae venit in Bethaniam, ubi erat Lazarus, quem suscitavit mortuum.<verse eID="john.12.1" />
+        <verse sID="john.12.2" osisID="john.12.2" />Et fecerunt ei coenam ibi: et Martha ministrabat ei, et Lazarus unus erat ex discumbentibus cum Iesu.<verse eID="john.12.2" />
+        <verse sID="john.12.3" osisID="john.12.3" />Maria ergo accepit libram unguenti pistici, pretiosi, et unxit pedes Iesu, et extersit capillis suis pedes eius: et domus repleta est odore unguenti.<verse eID="john.12.3" />
+        <verse sID="john.12.4" osisID="john.12.4" />Et dixit unus ex discipulis eius, Iudas Simon Scariotha, qui incipiebat eum tradere:<verse eID="john.12.4" />
+        <verse sID="john.12.5" osisID="john.12.5" />Quare hoc unguentum non vaeuiit denariis trecentis, et datum est pauperibus?<verse eID="john.12.5" />
+        <verse sID="john.12.6" osisID="john.12.6" />Hoc autem dixit, non quod de pauperibus cura illi esset, sed quia sur erat, et loculos habebat, et quae mittebantur auferebat.<verse eID="john.12.6" />
+        <verse sID="john.12.7" osisID="john.12.7" />Dixit ergo illi Iesus : Dimitte illam, ut in diem sepulturae meae servet illud.<verse eID="john.12.7" />
+        <verse sID="john.12.8" osisID="john.12.8" />Pauperes enim semper habebitis vobiscum: me autem non semper habebitis.<verse eID="john.12.8" />
+        <verse sID="john.12.9" osisID="john.12.9" />Et turba multa ex Iudaeis audivit quia illic esset Iesus: et venerunt, non propter Iesum solum, sed ut Lazarum viderent, quem suscitavit a mortuis.<verse eID="john.12.9" />
+        <verse sID="john.12.10" osisID="john.12.10" />Cogitaverunt autem principes sacerdotum ut et Lazarum interficerent:<verse eID="john.12.10" />
+        <verse sID="john.12.11" osisID="john.12.11" />quia multi Iudaeorum propter illum ibant, et credebant in Iesum.<verse eID="john.12.11" />
+        <verse sID="john.12.12" osisID="john.12.12" />Altera die turbae multae, quae venerant ad diem festum, cum audissent quia Iesus venit in Ierosolymam:<verse eID="john.12.12" />
+        <verse sID="john.12.13" osisID="john.12.13" />acceperunt sibi ramos palmarum, et exierunt ei obviam, et Iamabant: Hosanna, benedictus, qui venit in nomine Domini, Rex Israël.<verse eID="john.12.13" />
+        <verse sID="john.12.14" osisID="john.12.14" />Et invenit Iesus asinum, et sedit super eum, sicut scriptum est:<verse eID="john.12.14" />
+        <verse sID="john.12.15" osisID="john.12.15" />Noli timere filia Sion: ecce rex tuus venit tibi sedens super pullum asinae.<verse eID="john.12.15" />
+        <verse sID="john.12.16" osisID="john.12.16" />Haec autem non cognoverunt primum discipuli eius: sed cum * clarificatus esset Iesus, recordati sunt, quia haec erant scripta ab eo, et haec fecerunt ei.<verse eID="john.12.16" />
+        <verse sID="john.12.17" osisID="john.12.17" />Testimonium itaque perhibebat turba, quae erat cum eo, quia Lazarum vocavit de monumento, et suscitavit eum a mortuis.<verse eID="john.12.17" />
+        <verse sID="john.12.18" osisID="john.12.18" />Propterea obviam venerunt ei turbae: quoniam audierunt quia hoc signum fecit.<verse eID="john.12.18" />
+        <verse sID="john.12.19" osisID="john.12.19" />Pharisaei autem dixerunt ad illos: Videtis quia nihil proficimus? ecce universus mundus abiit post illum.<verse eID="john.12.19" />
+        <verse sID="john.12.20" osisID="john.12.20" />Erant autem Graeci quidam, ex his qui ascenderant ut orarent in die festo.<verse eID="john.12.20" />
+        <verse sID="john.12.21" osisID="john.12.21" />Hi ergo accesserunt ad Philippum, qui erat a Bethsaida Galilaeae, et rogabant illum, dicentes: Domine, volumus videre Iesum.<verse eID="john.12.21" />
+        <verse sID="john.12.22" osisID="john.12.22" />Venit Philippus, et dicit Andreae: Andreas autem et Philippus dicunt ad Iesum.<verse eID="john.12.22" />
+        <verse sID="john.12.23" osisID="john.12.23" />Iesus autem respondit eis, dicens: Venit hora, ut clarificetur Filius hominis.<verse eID="john.12.23" />
+        <verse sID="john.12.24" osisID="john.12.24" />Amen, amen dico vobis, nisi granum tritici cadens in terram, mortuum fuerit;<verse eID="john.12.24" />
+        <verse sID="john.12.25" osisID="john.12.25" />ipsum solum manet: si autem mortuum fuerit, multum fructum affert. Qui amat animam suam, perdet eam: et qui odit animam suam in hoc mundo, in vitam aeternam custodit eam.<verse eID="john.12.25" />
+        <verse sID="john.12.26" osisID="john.12.26" />Si quis mihi ministrat, sequatur me: et ubi ego sum, illic et minister meus erit. Si quis autem mihi ministrat, honorificabit eum Pater meus.<verse eID="john.12.26" />
+        <verse sID="john.12.27" osisID="john.12.27" />Nunc anima mea turbata est. Et quid dicam? Pater, libera me ex hac hora. Sed ideo veni in hanc horam.<verse eID="john.12.27" />
+        <verse sID="john.12.28" osisID="john.12.28" />Pater, clarifica nomen tuum. Venit ergo vox de coelo, dicens: Et clarificavi, et iterum clarificabo.<verse eID="john.12.28" />
+        <verse sID="john.12.29" osisID="john.12.29" />Turbae ergo, quae stabant, et audierant, dicebant: Tonitruum factum est. Alii dicebunt: Angelus illi locutus est. et dixit: Non propter<verse eID="john.12.29" />
+        <verse sID="john.12.30" osisID="john.12.30" />Respondit Iesus, et dixit: Non propter me vox haec venit, sed propter vos.<verse eID="john.12.30" />
+        <verse sID="john.12.31" osisID="john.12.31" />Nunc iudicium est huius mundi: nunc princeps huius mundi mittitur foras.<verse eID="john.12.31" />
+        <verse sID="john.12.32" osisID="john.12.32" />Et ego si exaltatus fuero a terra, omnia traham ad meipsum:<verse eID="john.12.32" />
+        <verse sID="john.12.33" osisID="john.12.33" />(hoc autem dicebat, significans qua morte esset moriturus.<verse eID="john.12.33" />
+        <verse sID="john.12.34" osisID="john.12.34" />Respondit ei turba: Nos audivimus scriptum esse in lege, quia Christus manet in aeternum: et quomodo tu dicis, quia oportet exaltari Filium hominis? Quis est Filius homines?<verse eID="john.12.34" />
+        <verse sID="john.12.35" osisID="john.12.35" />Dixit ergo eis Iesus: Adhuc modicum tempus, lux in vobis est. Ambulate dum lucem habetis, ut non tenebrae vos comprehendant: si quis ambulat in tenebris, nescit quo vadat.<verse eID="john.12.35" />
+        <verse sID="john.12.36" osisID="john.12.36" />Dum lucem habetis, credite in lucem, ut filii lucis sitis. Haec locutus est Iesus: et abiit, et abscondit se ab eis.<verse eID="john.12.36" />
+        <verse sID="john.12.37" osisID="john.12.37" />Cum autem tanta signa fecisset Iesus coram eis, non credebant in eum:<verse eID="john.12.37" />
+        <verse sID="john.12.38" osisID="john.12.38" />ut sermo Isaiae prophetae impleretur, quem dixit: Domine, quis credidit auditui nostro? et brachium Domini cui levelatum est?<verse eID="john.12.38" />
+        <verse sID="john.12.39" osisID="john.12.39" />Propterea non credebant, quia iterum dixit Isaias:<verse eID="john.12.39" />
+        <verse sID="john.12.40" osisID="john.12.40" />Excaecavit eorum oculos, et induravit cor eorum: ut non videant oculis, et intelligant corde, et convertantur, et sanem illos.<verse eID="john.12.40" />
+        <verse sID="john.12.41" osisID="john.12.41" />Haec dixit Isaias, quando vidit maiestatem eius, et locutus est de eo.<verse eID="john.12.41" />
+        <verse sID="john.12.42" osisID="john.12.42" />Interim tamen ex principibus multi crediderunt in eum: sed propter Pharisaeos non confitebantur, ut non de synagoga eiicerentur:<verse eID="john.12.42" />
+        <verse sID="john.12.43" osisID="john.12.43" />dilexerunt enim claritatem hominum magis, quam claritatem Dei.<verse eID="john.12.43" />
+        <verse sID="john.12.44" osisID="john.12.44" />Iesus autem Iamabat, et dicebat: Qui cre dit in me, non in me credit, sed in eum, qui me misit.<verse eID="john.12.44" />
+        <verse sID="john.12.45" osisID="john.12.45" />Et qui vedit me, vidit eum, qui me misit.<verse eID="john.12.45" />
+        <verse sID="john.12.46" osisID="john.12.46" />Ego lux in hunc mundum veni: ut omnis, qui credit in me, in tenebris non maneat.<verse eID="john.12.46" />
+        <verse sID="john.12.47" osisID="john.12.47" />Et si quis audierit verba mea, et custodierit ea: ego non iudico eum: non enim veni ut iudicem mundum, sed ut salvum faciam mundum.<verse eID="john.12.47" />
+        <verse sID="john.12.48" osisID="john.12.48" />Qui spernit me, et non accipit verba mea: habet qui iudicet eum, sermonem, quem locutus sum: ille iudicabit eum in novissimo die.<verse eID="john.12.48" />
+        <verse sID="john.12.49" osisID="john.12.49" />Quia ego ex meipso non sum locutus, sed ille qui misit me Pater, ipse mihi praeceptum dedit quid dicam, et quid loquar.<verse eID="john.12.49" />
+        <verse sID="john.12.50" osisID="john.12.50" />Et scio quia praeceptum eius vita aeterna est. Itaque quae ego loquor, sicut dixit mihi Pater, sic loquor.<verse eID="john.12.50" />
+      </p>
+      <chapter eID="john.12" />
+      <chapter sID="john.13" osisID="john.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="john.13.1" osisID="john.13.1" />Ante diem autem festum Paschae, sciens Iesus quia venit hora eius ut transiret de hoc mundo ad Patrem: cum dilexisset discipulos suos qui essent in hunc mundum, in finem bilexit eos.<verse eID="john.13.1" />
+        <verse sID="john.13.2" osisID="john.13.2" />Et coenâ factâ, cum diabolus misisset se in corde Simonis Scariothe, tradere eum:<verse eID="john.13.2" />
+        <verse sID="john.13.3" osisID="john.13.3" />sciens quia omnia dedit ei Pater in manu eius, et quia a Deo exivit, et ad Deum vadit:<verse eID="john.13.3" />
+        <verse sID="john.13.4" osisID="john.13.4" />surrexit a coena, et posuit vestimenta sua: et cum accepisset linteum, praecinxit se.<verse eID="john.13.4" />
+        <verse sID="john.13.5" osisID="john.13.5" />Deinde mittit aquam in pel vim, et coepit lavare pedes discipulorum suorum, et extergere linteo, quo erat praecinctus.<verse eID="john.13.5" />
+        <verse sID="john.13.6" osisID="john.13.6" />Venit autem ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes?<verse eID="john.13.6" />
+        <verse sID="john.13.7" osisID="john.13.7" />Respondit Iesus, et dixit ei: Quod ego facio, tu nescis modo, cognosces postea.<verse eID="john.13.7" />
+        <verse sID="john.13.8" osisID="john.13.8" />Dicit ei Petrus : Non lavabis mihi pedes in aeternum. Respondit ei Iesus: Nisi lavero tibi pedes, non habebis partem mecum.<verse eID="john.13.8" />
+        <verse sID="john.13.9" osisID="john.13.9" />Dicit ei Simon Petrus: Domine, non tantum pedes, sed et manus, et caput.<verse eID="john.13.9" />
+        <verse sID="john.13.10" osisID="john.13.10" />Dicit ei Iesus: Qui lotus est semel, non indiget ut lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.<verse eID="john.13.10" />
+        <verse sID="john.13.11" osisID="john.13.11" />Sciebat enim quisnam esset traditurus eum: propterea dixit eis: Quia non estis omnes mundi.<verse eID="john.13.11" />
+        <verse sID="john.13.12" osisID="john.13.12" />Postquam ergo lavit pedes discipulorum accepit vestimenta sua: et cum iterum recubuisset, dicit eis: Intelligite quid fecerim vobis.<verse eID="john.13.12" />
+        <verse sID="john.13.13" osisID="john.13.13" />Vos me vocatis Magister, et Domine: et bene dicitis : sum enim.<verse eID="john.13.13" />
+        <verse sID="john.13.14" osisID="john.13.14" />Si ergo ego Magister, et Dominus, lavi pedes vestros: et vos debetis alter alterius lavare pedes.<verse eID="john.13.14" />
+        <verse sID="john.13.15" osisID="john.13.15" />Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, etiam et vos faciatis.<verse eID="john.13.15" />
+        <verse sID="john.13.16" osisID="john.13.16" />Amen, amen dico vobis: Non est maior servus domino suo: neque apostolus maior illo, qui misit eum.<verse eID="john.13.16" />
+        <verse sID="john.13.17" osisID="john.13.17" />Si haec scitis, beati estis si feceritis ea.<verse eID="john.13.17" />
+        <verse sID="john.13.18" osisID="john.13.18" />Non de omnibus vobis dico: ego enim scio quos elegerim: sed ut adimpleatur Scriptura: Qui manducat mecum panem, levabit super me calcaneum suum.<verse eID="john.13.18" />
+        <verse sID="john.13.19" osisID="john.13.19" />Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis quia ego sum.<verse eID="john.13.19" />
+        <verse sID="john.13.20" osisID="john.13.20" />Amen, amen dico vobis: Qui accipit si quem misero, me accipit: qui autem me accipit, accipit eum qui me misit.<verse eID="john.13.20" />
+        <verse sID="john.13.21" osisID="john.13.21" />Cum haec dixisset Iesus, turbatus est in spiritu: et protestatus est, et dixit: Amen, amen dico vobis: Quia unus ex vobis tradet me.<verse eID="john.13.21" />
+        <verse sID="john.13.22" osisID="john.13.22" />Aspiciebant ergo ad invicem discipuli, haesitantes de quo diceret.<verse eID="john.13.22" />
+        <verse sID="john.13.23" osisID="john.13.23" />Erat autem recumbens unus ex discipulis eius in sinu Iesu, quem diligebat Iesus.<verse eID="john.13.23" />
+        <verse sID="john.13.24" osisID="john.13.24" />Annuit huic Simon Petrus, et dixit ei: Interroga de quo dicit.<verse eID="john.13.24" />
+        <verse sID="john.13.25" osisID="john.13.25" />Ait itaque, cum recumberet ille super pectus Iesu, et dicit ei: Domine quis est, qui tradet te?<verse eID="john.13.25" />
+        <verse sID="john.13.26" osisID="john.13.26" />Respondit Iesus: Ille est, cui ego intinctum panem porrexero. Et cum intinxisset panem, tradidit Iudae Simoni Scariothae.<verse eID="john.13.26" />
+        <verse sID="john.13.27" osisID="john.13.27" />Ut accepit panem, retroivit in illum sathanas. Dicit ergo ei Iesus: Quod facis, fac citius.<verse eID="john.13.27" />
+        <verse sID="john.13.28" osisID="john.13.28" />Hoc autem nemo discumbentium scivit ad quid dixerit ei.<verse eID="john.13.28" />
+        <verse sID="john.13.29" osisID="john.13.29" />Quidam enim putabant, quia loculos habebat Iudas, quia dicit ei Iesus: Eme ea, quae opus sunt nobis ad diem festum hunc: aut egenis aliquid daret.<verse eID="john.13.29" />
+        <verse sID="john.13.30" osisID="john.13.30" />Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.<verse eID="john.13.30" />
+        <verse sID="john.13.31" osisID="john.13.31" />Cum ergo exisset ille, dicit Iesus: Nunc clarificatus est Filius hominis: et Deus clarificatus est in eum.<verse eID="john.13.31" />
+        <verse sID="john.13.32" osisID="john.13.32" />Et Deus clarificabit eum in semetipso, et continuo clarificavit eum.<verse eID="john.13.32" />
+        <verse sID="john.13.33" osisID="john.13.33" />Filioli, adhuc modicum tempus vobiscum sum: et quaeritis me. Sicut dixi Iudaeis: Quo ego vado, vos non potestis venire: et vobis dico modo.<verse eID="john.13.33" />
+        <verse sID="john.13.34" osisID="john.13.34" />Praeceptum novum do vobis : Ut diligatis invicem, sicut dilexi vos.<verse eID="john.13.34" />
+        <verse sID="john.13.35" osisID="john.13.35" />In hoc enim cognoscent omnes quia discipuli mei estis, si veram dilectionem habueritis ad invicem.<verse eID="john.13.35" />
+        <verse sID="john.13.36" osisID="john.13.36" />Dicit ei Simon Petrus : Domine, quo vadis? Respondit Iesus: Quo ego vado, tu non potes me modo sequi: sequêris autem postea.<verse eID="john.13.36" />
+        <verse sID="john.13.37" osisID="john.13.37" />Dicit ei Petrus: Domine, quare non possumus sequi te modo? animam meam pro te ponam.<verse eID="john.13.37" />
+        <verse sID="john.13.38" osisID="john.13.38" />Respondit Iesus, et dixit ei: Animam tuam pro me pones? Amen, amen dico tibi: Quoniam non cantabit gallus, donec ter me neges.<verse eID="john.13.38" />
+      </p>
+      <chapter eID="john.13" />
+      <chapter sID="john.14" osisID="john.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="john.14.1" osisID="john.14.1" />Et ait discipulis suis: Non turbetur cor vestrum. Credite in Deum, et in me credite.<verse eID="john.14.1" />
+        <verse sID="john.14.2" osisID="john.14.2" />In domo Patris mei mansiones multae sunt; si quominus, dixissem vobis: Quia vado parare vobis locum?<verse eID="john.14.2" />
+        <verse sID="john.14.3" osisID="john.14.3" />Et si abiero, et paravero vobis locum: iterum venio et accersio vos ad meipsum, ut ubi sum ego, et vos sitis.<verse eID="john.14.3" />
+        <verse sID="john.14.4" osisID="john.14.4" />Et quo ego vado scitis, et viam nostis.<verse eID="john.14.4" />
+        <verse sID="john.14.5" osisID="john.14.5" />Dicit ei Thomas: Domine, nescimus quo vadis: et quomodo possumus viam scire?<verse eID="john.14.5" />
+        <verse sID="john.14.6" osisID="john.14.6" />Dicit ei Iesus: Ego sum via, et veritas, et vita: nemo venit ad patrem, nisi per me.<verse eID="john.14.6" />
+        <verse sID="john.14.7" osisID="john.14.7" />Si cognovistis me, et Patrem meum cognovistis: et amodo nostis eum, et vidistis eum.<verse eID="john.14.7" />
+        <verse sID="john.14.8" osisID="john.14.8" />Dicit ei Philippus: Domine, ostende nobis Patrem, et sufficit nobis.<verse eID="john.14.8" />
+        <verse sID="john.14.9" osisID="john.14.9" />Dicit ei Iesus : Tanto tempore vobiscum sum: et non cognovistis me? Philippe, qui vidit me, vidit et Patrem meum. Quomodo tu dicis: Ostende nobis Patrem?<verse eID="john.14.9" />
+        <verse sID="john.14.10" osisID="john.14.10" />Non creditis quia ego in Patre, et Pater in me est? Verba, quae ego loquor vobis, a meipso non loquor. Pater autem, qui in me manet, ipse loquitur; et opera, quae ego facio, ipse facit.<verse eID="john.14.10" />
+        <verse sID="john.14.11" osisID="john.14.11" />Credite mihi, quia ego in Patre, et Pater in me est.<verse eID="john.14.11" />
+        <verse sID="john.14.12" osisID="john.14.12" />Alioquin propter opera ipsa credite. Amen, amen dico vobis, quia qui credit in me, opera, quae ego facio, et ipse faciet, et maiora horum faciet: quia ego ad Patrem vado.<verse eID="john.14.12" />
+        <verse sID="john.14.13" osisID="john.14.13" />Et quodcunque ab illo petieritis in nomine meo, ego faciam: ut clarificetur Pater in Filio.<verse eID="john.14.13" />
+        <verse sID="john.14.14" osisID="john.14.14" />Si quid petieritis me in nomine meo, hoc faciam.<verse eID="john.14.14" />
+        <verse sID="john.14.15" osisID="john.14.15" />Si diligitis me, praecepta mea custodite.<verse eID="john.14.15" />
+        <verse sID="john.14.16" osisID="john.14.16" />Et ego rogabo Patrem, et alium Advocatum dabit vobis, ut vobiscum sit in aeternum,<verse eID="john.14.16" />
+        <verse sID="john.14.17" osisID="john.14.17" />Spiritum veritatis, quem hic mundus non potest accipere, quia non videt eum, nec cognoscit eum: vos autem nostis illum: quia vobiscum manet, et vobiscum est.<verse eID="john.14.17" />
+        <verse sID="john.14.18" osisID="john.14.18" />Non relinquam vos orphanos: venio ad vos.<verse eID="john.14.18" />
+        <verse sID="john.14.19" osisID="john.14.19" />Adhuc modicum: et hic mundus me iam non videt. Vos autem videbitis me: quia ego vivo, et vos vivetis.<verse eID="john.14.19" />
+        <verse sID="john.14.20" osisID="john.14.20" />In illa die cognoscetis vos, quia ego in Patre meo, et vos in me, et ego in vobis.<verse eID="john.14.20" />
+        <verse sID="john.14.21" osisID="john.14.21" />Qui audit praecepta mea, et servat ea: ille est, qui diligit me. Qui autem diligent me, diligetur a Patre meo: et ego diligam eum, et mafestabo ei meipsum.<verse eID="john.14.21" />
+        <verse sID="john.14.22" osisID="john.14.22" />Ait illi Iudas, non ille Scariotha, sed alius: Domine, quid factum est, quia nobis incipis manifestare teipsum, et non huic mundo?<verse eID="john.14.22" />
+        <verse sID="john.14.23" osisID="john.14.23" />Respondit Iesus, et dicit ei: Si quis diligit me, sermonem meum servavit, et Pater meus diliget eum, et ad eum veniemus, et apud eum manemus :<verse eID="john.14.23" />
+        <verse sID="john.14.24" osisID="john.14.24" />qui non diligit me, sermones meos non servat. Et sermonem quem audistis, meus non est: sed eius, qui me misit, Patris.<verse eID="john.14.24" />
+        <verse sID="john.14.25" osisID="john.14.25" />Haec locutus sum vobis, apud vos manens.<verse eID="john.14.25" />
+        <verse sID="john.14.26" osisID="john.14.26" />Paraclitus autem ille Spiritus sanctus, quem mittet Pater in nomine meo, ille vos docebit omnia, et suggeret vobis quaecunque dixero.<verse eID="john.14.26" />
+        <verse sID="john.14.27" osisID="john.14.27" />Pacem relinquo vobis, pacem meam do vobis : non quomodo hic mundus dat, ego do vobis. Non conturbetur cor vestrum, neque formidet.<verse eID="john.14.27" />
+        <verse sID="john.14.28" osisID="john.14.28" />Audistis quia dixi vobis: Vado, et venio ad vos. Si diligeretis me, gauderetis, quoniam vado ad Patrem: quia Pater maior me est.<verse eID="john.14.28" />
+        <verse sID="john.14.29" osisID="john.14.29" />Nunc dixi vobis antequam fiat: ut cum factum fuerit, credatis.<verse eID="john.14.29" />
+        <verse sID="john.14.30" osisID="john.14.30" />Iam non multa loquor vobis: venit enim huius, mundi princeps, et in me non habet quidquam.<verse eID="john.14.30" />
+        <verse sID="john.14.31" osisID="john.14.31" />Sed ut cognoscat mundus quia diligo Patrem, et sicut praeceptum dedit mihi Pater, sic facio. Surgite, eamus hinc.<verse eID="john.14.31" />
+      </p>
+      <chapter eID="john.14" />
+      <chapter sID="john.15" osisID="john.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="john.15.1" osisID="john.15.1" />Ego sum vitis vera: et Pater meus agricultor est.<verse eID="john.15.1" />
+        <verse sID="john.15.2" osisID="john.15.2" />Omnem palmitem in me non ferentem fructum, tollet eum Pater: et omnem, qui feret fructum, purgabit eum, ut fructum plurimum afferat.<verse eID="john.15.2" />
+        <verse sID="john.15.3" osisID="john.15.3" />Iam vos mundi estis proptet sermonem, quem locutus sum vobis.<verse eID="john.15.3" />
+        <verse sID="john.15.4" osisID="john.15.4" />Manete in me: et ego in vobis. Sicut sarmentum non potest ferre fructum ab semetipso, nisi manserit in vite: sic et vos, nisi in me manseritis.<verse eID="john.15.4" />
+        <verse sID="john.15.5" osisID="john.15.5" />Ego sum vitis, et vos estis sarmenta: qui manet in me, et ego in illo, hic affert fructum copiosum: quia sine me nihil potestis facere.<verse eID="john.15.5" />
+        <verse sID="john.15.6" osisID="john.15.6" />Si quis in me non manserit: praecisus est sicut sarmentum, et mittetur foris, et arescet, et colligent eos, et in ignem mittunt, et ardent.<verse eID="john.15.6" />
+        <verse sID="john.15.7" osisID="john.15.7" />Si manseritis in me, et verba mea in vobis manserint: quodcunque petere volueritis, fiet vobis.<verse eID="john.15.7" />
+        <verse sID="john.15.8" osisID="john.15.8" />In hoc clarificatus est Pater meus, ut fructum plurimum afferatis, et efficiamini mei discipuli.<verse eID="john.15.8" />
+        <verse sID="john.15.9" osisID="john.15.9" />Sicut dilexit me Pater, et ego dilexi vos. Manete in dilectione mea.<verse eID="john.15.9" />
+        <verse sID="john.15.10" osisID="john.15.10" />Si praecepta mea servaveritis, manebitis in dilectione mea, sicut et ego praecepta Patris servavi, et maneo in eius dilectione.<verse eID="john.15.10" />
+        <verse sID="john.15.11" osisID="john.15.11" />Haec locutus sum vobis, ut gaudium meum sit in vobis, et gaudium vestrum impleatur.<verse eID="john.15.11" />
+        <verse sID="john.15.12" osisID="john.15.12" />Hoc est praeceptum meum, ut diligatis invicem qua dilectione dilexi vos.<verse eID="john.15.12" />
+        <verse sID="john.15.13" osisID="john.15.13" />Maiorem hac directionem nemo habet, ut animam suam ponat pro amicis suis.<verse eID="john.15.13" />
+        <verse sID="john.15.14" osisID="john.15.14" />Vos amici mei estis, si feceritis quae ego praecipio vobis.<verse eID="john.15.14" />
+        <verse sID="john.15.15" osisID="john.15.15" />Iam non dico vos servos: quia servus nescit quid faciat dominus eius. Vos autem dixi amicos: quia omnia quaecunque audivi a Patre meo, nota feci vobis.<verse eID="john.15.15" />
+        <verse sID="john.15.16" osisID="john.15.16" />Non vos me elegistis : sed ego elegi vos, et ordinavi vos ut eatis, et fructificetis; et fructus vester maneat: ut quodcunque petieritis a Patre in nomine meo, det vobis.<verse eID="john.15.16" />
+        <verse sID="john.15.17" osisID="john.15.17" />Haec mando vobis, ut diligatis invicem.<verse eID="john.15.17" />
+        <verse sID="john.15.18" osisID="john.15.18" />Si mundus vos odit, scitote quia priorem me odio habuit.<verse eID="john.15.18" />
+        <verse sID="john.15.19" osisID="john.15.19" />Si de hoc mundo fuissetis, mundus utique quod suum erat diligeret: verum quia de hoc mundo non estis, sed ego elegi vos de mundo, propterea odit vos mundus.<verse eID="john.15.19" />
+        <verse sID="john.15.20" osisID="john.15.20" />Mementote sermonis, quem ego dixi vobis: Non est servus maior domino suo. Si me per secuti sunt, et vos persequentur: si sermonem meum servaverunt, et vestrum servabunt.<verse eID="john.15.20" />
+        <verse sID="john.15.21" osisID="john.15.21" />Sed haec omnia faciunt circa vos proptet nomen meum: quia nesciunt eum, qui me misit.<verse eID="john.15.21" />
+        <verse sID="john.15.22" osisID="john.15.22" />Si non venissem, et locutus eis fuissem peccatum non haberent: nunc autem excusationem non habent de peccato.<verse eID="john.15.22" />
+        <verse sID="john.15.23" osisID="john.15.23" />Qui me odit: et Patrem meum odit.<verse eID="john.15.23" />
+        <verse sID="john.15.24" osisID="john.15.24" />Si opera non fecissem in illis, quae nemo alius fecit, peccatum non haberent: nunc autem viderunt, et oderunt me, et Patrem meum.<verse eID="john.15.24" />
+        <verse sID="john.15.25" osisID="john.15.25" />Sed ut impleatur sermo, qui in lege eorum scriptus est: Qua odio me habuerunt gratis.<verse eID="john.15.25" />
+        <verse sID="john.15.26" osisID="john.15.26" />Cum ergo venerit Paraclitus, quem ego mittam vobis a Patre meo, spiritum veritatis, qui a Patre meo procedit, ille testimonium perhibebit de me:<verse eID="john.15.26" />
+        <verse sID="john.15.27" osisID="john.15.27" />et vos testimonium perhibetis, quia ab initio mecum estis.<verse eID="john.15.27" />
+      </p>
+      <chapter eID="john.15" />
+      <chapter sID="john.16" osisID="john.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="john.16.1" osisID="john.16.1" />Haec locutus sum vobis, ut non scandalizemini.<verse eID="john.16.1" />
+        <verse sID="john.16.2" osisID="john.16.2" />Extra synagogam fecerunt vos : sed veniet hora mea, ut omnis, qui interfecerit vos, arbitretur obsequium praestare Deo:<verse eID="john.16.2" />
+        <verse sID="john.16.3" osisID="john.16.3" />sed haec faciunt vobis, quia non noverunt Patrem, neque me.<verse eID="john.16.3" />
+        <verse sID="john.16.4" osisID="john.16.4" />Haec autem locutus sum vobis: ut cum venerit hora, eorum reminiscamini, quia ego dixi vobis.<verse eID="john.16.4" />
+        <verse sID="john.16.5" osisID="john.16.5" />Haec autem vobis ab initio non dixi, quia vobiscum eram: Nunc autem vado ad eum, qui me misit; et nemo de vobis interrogat me quo vado.<verse eID="john.16.5" />
+        <verse sID="john.16.6" osisID="john.16.6" />Sed quia haec locutus sum vobis, tristitia replevit cor vestrum.<verse eID="john.16.6" />
+        <verse sID="john.16.7" osisID="john.16.7" />Sed ego veritatem dico vobis, quoniam expedit vobis ut ego vadam: si non abiero ego, Paraclitus non venit ad vos: si autem abiero mittam eum ad vos.<verse eID="john.16.7" />
+        <verse sID="john.16.8" osisID="john.16.8" />Et cum advenerit ille, arguet mundum de peccato,  et de iustitia, et de iudicio:<verse eID="john.16.8" />
+        <verse sID="john.16.9" osisID="john.16.9" />de peccato quidem, quia non crediderunt in me:<verse eID="john.16.9" />
+        <verse sID="john.16.10" osisID="john.16.10" />de iustitia vero, quia ad Patrem meum vado, et iam me non videbitis:<verse eID="john.16.10" />
+        <verse sID="john.16.11" osisID="john.16.11" />de iudicio autem, quia princeps huius mundi iudicatus est.<verse eID="john.16.11" />
+        <verse sID="john.16.12" osisID="john.16.12" />Adhuc multa habeo vobis dicere: sed non potestis illa modo portare.<verse eID="john.16.12" />
+        <verse sID="john.16.13" osisID="john.16.13" />Cum enim venerit ille Spiritus veritatis: docebit vos in omni veritate: non enim loquetur a semetipso: sed quaecunque audierit loquetur, et quae ventura sunt annuntiabit vobis.<verse eID="john.16.13" />
+        <verse sID="john.16.14" osisID="john.16.14" />Ille me clarificabit: quia de meo accipiet, et annuntiabit vobis.<verse eID="john.16.14" />
+        <verse sID="john.16.15" osisID="john.16.15" />Omnia quaecunque habet Pater, mea sunt. Propterea dixi: quia de meo accipiet, et annuntiabit vobis.<verse eID="john.16.15" />
+        <verse sID="john.16.16" osisID="john.16.16" />Ecce modicum, et iam non videbitis me: et iterum modicum, et videbitis me: quoniam vado ad Patrem.<verse eID="john.16.16" />
+        <verse sID="john.16.17" osisID="john.16.17" />Dixerunt ergo discipuli eius ad invicem: Quid est hoc, quod dicit nobis: Modicum, et non videbitis me: et iterum modicum, et videbitis me: et quia ait, Vado ad Patrem meum?<verse eID="john.16.17" />
+        <verse sID="john.16.18" osisID="john.16.18" />Dicebant ergo: Quid est hoc, quod dicit, Modicum? nescimus quod loquitur.<verse eID="john.16.18" />
+        <verse sID="john.16.19" osisID="john.16.19" />Et cognovit Iesus, quia incipiebant eum interrogare, et dixit ad eos: De hoc quaeritis ad invicem quia dixi, Modicum, et non videbitis me: et iterum modicum, et videbitis me.<verse eID="john.16.19" />
+        <verse sID="john.16.20" osisID="john.16.20" />Amen, amen dico vobis: quoniam flebitis, et lugebitis, mundus autem gaudebit: vos tristabimini, sed tristitia vestra in gaudium veniet.<verse eID="john.16.20" />
+        <verse sID="john.16.21" osisID="john.16.21" />Mulier cum parit, tristitiam habet, quia venit dies eius: cum autem peperit puerum, iam non meminit tristitiae propter gaudium, quia natus est homo in hunc mundum.<verse eID="john.16.21" />
+        <verse sID="john.16.22" osisID="john.16.22" />Et vos nunc quidem tristitiam habetis, iterum autem videbo vos, et gaudebit cor vestrum: et gaudium vestrum nemo tollet a vobis.<verse eID="john.16.22" />
+        <verse sID="john.16.23" osisID="john.16.23" />Et in illa die me non interrogabitis quidquam. Amen, amen dico vobis: quoniam si quid petieritis a Patre in nomine meo, dabit vobis.<verse eID="john.16.23" />
+        <verse sID="john.16.24" osisID="john.16.24" />Usque modo non petistis quidquam in nomine meo: Petite, et accipietis, ut gaudium vestrum sit impletum.<verse eID="john.16.24" />
+        <verse sID="john.16.25" osisID="john.16.25" />Haec in proverbiis locutus sum vobis: sed veniet hora, cum iam non in proverbiis loquat vobis, sed palam de Patre manifestabo vobis:<verse eID="john.16.25" />
+        <verse sID="john.16.26" osisID="john.16.26" />in illa die in nomine meo petetis: et non dico vobis quia rogabo Patrem:<verse eID="john.16.26" />
+        <verse sID="john.16.27" osisID="john.16.27" />ipse enim Pater amat vos, quia vos me amatis, et creditis quia ego a Deo exivi.<verse eID="john.16.27" />
+        <verse sID="john.16.28" osisID="john.16.28" />Exivi a Patre, et veni in hunc mundum: iterum relinquo hunc mundum, et vado ad Patrem meum.<verse eID="john.16.28" />
+        <verse sID="john.16.29" osisID="john.16.29" />Dicunt ei discipuli eius: Ecce nunc palam loqueris, et proverbium nullum dicis:<verse eID="john.16.29" />
+        <verse sID="john.16.30" osisID="john.16.30" />nunc ergo scimus quia omnia nosti: non opus est tibi ut aliquis te interroget: sed credimus quia a Deo existi.<verse eID="john.16.30" />
+        <verse sID="john.16.31" osisID="john.16.31" />Respondit eis Iesus: Modo creditis?<verse eID="john.16.31" />
+        <verse sID="john.16.32" osisID="john.16.32" />Ecce venit hora, et iam venit, ut dispergamini unusquisque in suam regionem, et me solum relinquatis: et non sum solus, quia Pater mecum est.<verse eID="john.16.32" />
+        <verse sID="john.16.33" osisID="john.16.33" />Haec locutus sum vobis, ut in me pacem habeatis. In hoc autem mundo tribulationem, et pressuram habebitis: sed gaudete, quoniam ego vici mundum.<verse eID="john.16.33" />
+      </p>
+      <chapter eID="john.16" />
+      <chapter sID="john.17" osisID="john.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="john.17.1" osisID="john.17.1" />Haec locutus est Iesus: et elevavit oculos suos in caelum, et dixit: Pater, venit hora: clarifica filium tuum, ut filius tuus clarificet te:<verse eID="john.17.1" />
+        <verse sID="john.17.2" osisID="john.17.2" />Sicut dedisti ei potestatem omnis carnis, ut omne, quod dedisti ei, det illis vitam aeternam.<verse eID="john.17.2" />
+        <verse sID="john.17.3" osisID="john.17.3" />Haec est autem vita aeterna: Ut cognoscant te, solum verum Deum, et quem misisti Iesum Christum.<verse eID="john.17.3" />
+        <verse sID="john.17.4" osisID="john.17.4" />Quem ego clarificavi super terram: opus consummavi, quod dedisti mihi ut facerem:<verse eID="john.17.4" />
+        <verse sID="john.17.5" osisID="john.17.5" />et nunc clarifica me tu Pater apud temetipsum, claritate, quam habui prius, quam mundus esset, apud te.<verse eID="john.17.5" />
+        <verse sID="john.17.6" osisID="john.17.6" />manifestavi nomen tuum hominibus, quos dedisti mihi de mundo : Tui erant, et mihl eos dedisti: et sermonem tuum servaverunt.<verse eID="john.17.6" />
+        <verse sID="john.17.7" osisID="john.17.7" />Et nunc cognovi quia omnia, quaecunque dedisti mihi, abs te sunt:<verse eID="john.17.7" />
+        <verse sID="john.17.8" osisID="john.17.8" />quia verba, quae dedisti mihi, dedi eis: et ipsi acceperunt ea, et cognoverunt quia a te vere exivi, et crediderunt quia tu me misisti.<verse eID="john.17.8" />
+        <verse sID="john.17.9" osisID="john.17.9" />Et ego pro eis rogo: Non pro mundo hoc rogo, sed pro his, quos tu mihi dedisti: quia tui sunt:<verse eID="john.17.9" />
+        <verse sID="john.17.10" osisID="john.17.10" />et mea omnia tua sunt, et tua mea sunt: et clarificatus sum in eis.<verse eID="john.17.10" />
+        <verse sID="john.17.11" osisID="john.17.11" />Et iam non sum in hoc mundo, et hi in mundo sunt: et ego ad te venio, et iam non sum in hoc mundo. Pater sancte, serva eos in nomine tuo.<verse eID="john.17.11" />
+        <verse sID="john.17.12" osisID="john.17.12" />Cum essem cum eis, ego servabam eos in nomine tuo. Quos dedisti mihi, custodivi : et nemo ex eis perit, nisi filius perditionis, ut Scriptura impleatur.<verse eID="john.17.12" />
+        <verse sID="john.17.13" osisID="john.17.13" />Nunc autem ad te venio: et haec loquor in hoc mundo, ut habeant gaudium meum impletum in semetipsis.<verse eID="john.17.13" />
+        <verse sID="john.17.14" osisID="john.17.14" />Ego dedi eis sermonem tuum, et mundus eos odio habuit, quia non sunt de hoc mundo.<verse eID="john.17.14" />
+        <verse sID="john.17.15" osisID="john.17.15" />Non rogo ut tollas eos de mundo, sed ut serves eos a malo.<verse eID="john.17.15" />
+        <verse sID="john.17.16" osisID="john.17.16" />De hoc mundo non sunt, sicut et ego non sum de mundo.<verse eID="john.17.16" />
+        <verse sID="john.17.17" osisID="john.17.17" />Sanctifica eos in veritate. Sermo tuus veritas est.<verse eID="john.17.17" />
+        <verse sID="john.17.18" osisID="john.17.18" />Sicut me misisti in hunc mundum, et ego misi eos in hunc mundum.<verse eID="john.17.18" />
+        <verse sID="john.17.19" osisID="john.17.19" />Et pro eis sanctifico meipsum: ut sint et ipsi sanctificati in veritate.<verse eID="john.17.19" />
+        <verse sID="john.17.20" osisID="john.17.20" />Non pro his autem tantum rogo, sed et pro his, qui credituri sunt per verba eorum in me:<verse eID="john.17.20" />
+        <verse sID="john.17.21" osisID="john.17.21" />ut omnes unum sint, sicut tu Pater in me, et ego in te, ut ipsi in nobis sint: ut mundus credat, quia tu me misisti.<verse eID="john.17.21" />
+        <verse sID="john.17.22" osisID="john.17.22" />Et ego claritatem, quam dedisti mihi, dedi eis: ut sint unum, sicut sumus nos unum.<verse eID="john.17.22" />
+        <verse sID="john.17.23" osisID="john.17.23" />Et ego in eis, et tu in me: ut sint perfecti in unum: et cognoscat mundus quia tu me misisti, et dilexisti eos, sicut me dilexisti.<verse eID="john.17.23" />
+        <verse sID="john.17.24" osisID="john.17.24" />Pater, quos dedisti mihi, volo ut ubi ego sum, illi sint mecum: ut videant claritatem meam quam dedisti mihi: quia dilexisti me ante mundi constitutionem.<verse eID="john.17.24" />
+        <verse sID="john.17.25" osisID="john.17.25" />Pater iuste, mundus te non cognovit: ego autem te cognovi: et hi cognoverunt, quia tu me misisti.<verse eID="john.17.25" />
+        <verse sID="john.17.26" osisID="john.17.26" />Et notum eis feci nomen tuum, et notam faciam directionem, qua dilexisti me in eis, sic et ego in ipsis.<verse eID="john.17.26" />
+      </p>
+      <chapter eID="john.17" />
+      <chapter sID="john.18" osisID="john.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="john.18.1" osisID="john.18.1" />Haec cum dixisset Iesus, exivit cum discipulis suis trans Torrentem fluminis Cedron, ubi erat hortus, in quem introivit ipse, et discipuli eius.<verse eID="john.18.1" />
+        <verse sID="john.18.2" osisID="john.18.2" />Sciebat autem et Iudas, qui eum traditurus erat, ipsum locum: quia frequenter Iesus conveniebat ibi cum discipulis suis.<verse eID="john.18.2" />
+        <verse sID="john.18.3" osisID="john.18.3" />Iudas ergo, accepta cohorte, a Principibus sacerdotum et Pharisaeis ministros, venit illuc cum lanternis, et faculis, et armis.<verse eID="john.18.3" />
+        <verse sID="john.18.4" osisID="john.18.4" />Iesus autem sciens omnia, quae ventura erant super eum, exiit, et ait illis: Quem quaeris?<verse eID="john.18.4" />
+        <verse sID="john.18.5" osisID="john.18.5" />Responderunt ei: Iesum Nazarenum. Dicit eis Iesus: Ego sum. Stabat autem et Iudas, qui traditurus erat eum, cum ipsis.<verse eID="john.18.5" />
+        <verse sID="john.18.6" osisID="john.18.6" />Ut ergo dixit illis: Ego sum: abierunt retrorsum, et ceciderunt in terram.<verse eID="john.18.6" />
+        <verse sID="john.18.7" osisID="john.18.7" />Iterum Iesus eos interrogavit: Quem quaeritis? Illi autem dixerunt: Iesum Nazarenum.<verse eID="john.18.7" />
+        <verse sID="john.18.8" osisID="john.18.8" />Respondit Iesus: Dixi vobis, quia ego sum: si ergo me quaeritis, sinite eosaere.<verse eID="john.18.8" />
+        <verse sID="john.18.9" osisID="john.18.9" />Ut impleatur sermo, quem dixit: Quia quos dedisti mihi, non perdidi ex eis quemquam.<verse eID="john.18.9" />
+        <verse sID="john.18.10" osisID="john.18.10" />Simon igitur Petrus habens gladium eduxit eum: et percussit servum principis sacerdotum: et abscidit eius auriculam dextram. Erat autem nomen servo Malchus.<verse eID="john.18.10" />
+        <verse sID="john.18.11" osisID="john.18.11" />Dixit ergo Iesus petro: Mitte gladium in vaginam suam. Calicem, quem dedit mihi Pater, non vis ut bibam illum?<verse eID="john.18.11" />
+        <verse sID="john.18.12" osisID="john.18.12" />Cohors igitur, et tribunus, et ministri Iudaeorum comprehenderunt Iesum, et ligaverunt seum :<verse eID="john.18.12" />
+        <verse sID="john.18.13" osisID="john.18.13" />Et adduxerunt ad Annam primum, erat enim socer Caiphae, qui erat pontifex anni illius.<verse eID="john.18.13" />
+        <verse sID="john.18.14" osisID="john.18.14" />Erat autem Caiphas, qui consilium dedit eis: Quia expedit, unum hominem mori pro populo.<verse eID="john.18.14" />
+        <verse sID="john.18.15" osisID="john.18.15" />Sequebatur autem Simon Petrus Iesum, et alius discipulus. Discipulus autem ille notus erat principi sacerdotum, et simul introivit cum Iesu in atrium pontificis.<verse eID="john.18.15" />
+        <verse sID="john.18.16" osisID="john.18.16" />Petrus vero stabat ad ianuam foris. Exiit ergo discipulus ille alius, qui erat notus pontifici, et dixit ostiariae, et introduxit Petrum.<verse eID="john.18.16" />
+        <verse sID="john.18.17" osisID="john.18.17" />Dicit ergo petro illa ancilla ostiaria: Nunquid et tu ex discipulis es hominis huius? Ait illi: Non sum.<verse eID="john.18.17" />
+        <verse sID="john.18.18" osisID="john.18.18" />Stubant autem servi et ministri ad prunas, quia frigus erat, et calefaciebant: erat autem cum eis et Petrus stans, et calefaciens se.<verse eID="john.18.18" />
+        <verse sID="john.18.19" osisID="john.18.19" />Princeps ergo sacerdotum interrogavit Iesum de discipulis eius, et de doctrina eius.<verse eID="john.18.19" />
+        <verse sID="john.18.20" osisID="john.18.20" />Respondit ei Iesus : Ego palam locutus sum mundo: ego semper docui in synagoga, et in templo, quo omnes Iudaei conveniunt: et in occulto locutus sum nihil.<verse eID="john.18.20" />
+        <verse sID="john.18.21" osisID="john.18.21" />Quid me interrogas? interroga eos, qui audierunt quid locutus sum illis: ecce hi sciunt quae dixerim ego.<verse eID="john.18.21" />
+        <verse sID="john.18.22" osisID="john.18.22" />Haec autem cum dixisset, unus de astantibus ex ministris dedit palmam Iesu, dicens: Sic respondes pontifici?<verse eID="john.18.22" />
+        <verse sID="john.18.23" osisID="john.18.23" />Respondit ei Iesus: Si male locutus sum, testimonium perhibe de malo: si autem bene, quid me caedis?<verse eID="john.18.23" />
+        <verse sID="john.18.24" osisID="john.18.24" />Et misit eum Annas vinctum ad Caiphan pontificem.<verse eID="john.18.24" />
+        <verse sID="john.18.25" osisID="john.18.25" />Erat autem Simon Petrus stans, et calefaciens se. Dixerunt ergo ei: Nunquid et tu ex discipulis eius es? Et ille negavit, et dixit: Non sum.<verse eID="john.18.25" />
+        <verse sID="john.18.26" osisID="john.18.26" />Dicit ei unus ex servis pontificis, cognatus eius, cuius abscidit Petrus auriculam: Nonne ego te vidi in horto cum illo?<verse eID="john.18.26" />
+        <verse sID="john.18.27" osisID="john.18.27" />Iterum ergo Petrus negavit eis: et statim gallus cantavit.<verse eID="john.18.27" />
+        <verse sID="john.18.28" osisID="john.18.28" />Adducunt igitur Iesum ad Caipham, et ad Pilatum in praetorium. Erat autem mane: et ipsi non introierunt in praetorium, ne contaminarentur, et manducarent Pascha.<verse eID="john.18.28" />
+        <verse sID="john.18.29" osisID="john.18.29" />Exiit ergo Pilatus ad eos foras, et dixit: Quam accusationem fertis de hoc homine?<verse eID="john.18.29" />
+        <verse sID="john.18.30" osisID="john.18.30" />Responderunt Iudaei, et dixerunt ei : Si non esset hic malefactor, non utique tibi tradidissemus eum.<verse eID="john.18.30" />
+        <verse sID="john.18.31" osisID="john.18.31" />Dixit ergo eis Pilatus: Accipite eum vos, et secundum legem vestram iudicate. Dixerunt ergo Iudaei: Nobis non licet quemquam occidere.<verse eID="john.18.31" />
+        <verse sID="john.18.32" osisID="john.18.32" />Ut sermo Iesu impleretur, quem dixit, significans qua morte esset moriturus.<verse eID="john.18.32" />
+        <verse sID="john.18.33" osisID="john.18.33" />Introivit ergo iterum in praerorio Pilatus et vocavit ad se Iesum, et dixit illi: Tu es rex Iudaeorum?<verse eID="john.18.33" />
+        <verse sID="john.18.34" osisID="john.18.34" />Et respondit ei Iesus : A te hoc dicis, an alii tibi dixerunt de me?<verse eID="john.18.34" />
+        <verse sID="john.18.35" osisID="john.18.35" />Respondit Pilatus: Nunquid ego Iudaeus sum? Gens tua, et principes sacerdotum tradiderunt te mihi: quid fecisti?<verse eID="john.18.35" />
+        <verse sID="john.18.36" osisID="john.18.36" />Respondit ei Iesus : Regnum meum non est de hoc mundo: si de hoc mundo esset regnum meum, ministri mei utique certarent ut non traderer Iudaeis: nunc autem regnum meum non est hinc.<verse eID="john.18.36" />
+        <verse sID="john.18.37" osisID="john.18.37" />Dixit itaque Pilatus : Ergo rex es tu? Respondit Iesus: Tu dicis quia rex sum ego. Ad hoc natus sum, et ad hoc veni in hunc mundum, ut testimonium perhibeam veritati: omnis, qui de veritate est, audit vocem meam.<verse eID="john.18.37" />
+        <verse sID="john.18.38" osisID="john.18.38" />Dicit ei Pilatus : Quid est veritas? Et cum hoc dixisset, iterum exivit ad Iudaeos, et dixit eis : Ego nullam invenio in eo causam.<verse eID="john.18.38" />
+        <verse sID="john.18.39" osisID="john.18.39" />Est autem consuetudo vobis, ut unum dimittam in Pascha: vultis ergo dimittam vobis regem Iudaeorum?<verse eID="john.18.39" />
+        <verse sID="john.18.40" osisID="john.18.40" />Exclamaverunt ergo omnes: Non Iesum, sed Barabban. Erat autem Barabbas latro.<verse eID="john.18.40" />
+      </p>
+      <chapter eID="john.18" />
+      <chapter sID="john.19" osisID="john.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="john.19.1" osisID="john.19.1" />Tunc ergo apprehendit Pilatus Iesum, et flagellavit eum.<verse eID="john.19.1" />
+        <verse sID="john.19.2" osisID="john.19.2" />Et milites ornatam coronam de spinis posuerunt super caput eius: et vestem purpuream induerunt eum.<verse eID="john.19.2" />
+        <verse sID="john.19.3" osisID="john.19.3" />Et veniebant ad illum, dicentes : Ave rex Iudaeorum: et dabant ei palmas in faciem.<verse eID="john.19.3" />
+        <verse sID="john.19.4" osisID="john.19.4" />Exivit iterum Pilatus foras, et dicit eis: Ecce adduco illum vobis foras, ut cognoscatis quia in eo causam non invenio.<verse eID="john.19.4" />
+        <verse sID="john.19.5" osisID="john.19.5" />(Exiit ergo Iesus foras, habens spineam coronam, et purpureum vestimentum.) Et dixit eis : Ecce homo.<verse eID="john.19.5" />
+        <verse sID="john.19.6" osisID="john.19.6" />Cum ergo vidissent eum Principes sacerdotum, et ministri, exclamaverunt, dicentes: Crucifige eum, crucifige. Dicit eis Pilatus: Accipite eum vos, et crucifigite: ego enim non invenio in eum causam.<verse eID="john.19.6" />
+        <verse sID="john.19.7" osisID="john.19.7" />Responderunt Iudaei: Nos legem habemus, et secundum legem habet mori, quia filium Dei se fecit.<verse eID="john.19.7" />
+        <verse sID="john.19.8" osisID="john.19.8" />Cum ergo audisset Pilatus hunc sermonem, magis timuit.<verse eID="john.19.8" />
+        <verse sID="john.19.9" osisID="john.19.9" />Et introivit iterum in praetorium: et dicit ad Iesum: Unde es tu? Iesus autem responsum non dedit ei.<verse eID="john.19.9" />
+        <verse sID="john.19.10" osisID="john.19.10" />Dicit ergo ei Pilatus: Mihi non loqueris? nescis quia potestatem habeo crucifigere te, et potestatem habeo dimittendi te?<verse eID="john.19.10" />
+        <verse sID="john.19.11" osisID="john.19.11" />Respondit ei Iesus, et dixit: Non haberes potestatem adversum me ullam, nisi datum tibi esset desuper. Propterea qui tradidit me tibi, magnum peccatum habet.<verse eID="john.19.11" />
+        <verse sID="john.19.12" osisID="john.19.12" />Et exinde Pilatus quaerebat dimittere eum. Iudaei autem Iamabant dicentes: Si hunc dimittis, non es amicus Caesaris: omnis, qui se regem facit, contradicit Caesari.<verse eID="john.19.12" />
+        <verse sID="john.19.13" osisID="john.19.13" />Cum audisset ergo Pilatus hos sermones, produxit foras Iesum: et sedit pro tribunali, in loco qui dicitur Litostratos, Hebraice autem Gabtha.<verse eID="john.19.13" />
+        <verse sID="john.19.14" osisID="john.19.14" />Erat autem Praeparatio Paschae: hora erat quasi sexta, et ait Iudaeis: Ecce rex vester.<verse eID="john.19.14" />
+        <verse sID="john.19.15" osisID="john.19.15" />At illi clamaverunt : Tolle, crucifige eum. Ait illis Pilatus: Regem vestrum crucifigam? Responderunt Principes sacerdotum: Non habemus regem, nisi Caesarem.<verse eID="john.19.15" />
+        <verse sID="john.19.16" osisID="john.19.16" />Tunc ergo tradidit eis illum ut crucifixeretur. Susceperunt ergo Iesum.<verse eID="john.19.16" />
+        <verse sID="john.19.17" osisID="john.19.17" />Et baiulans sibi crucem, pervenit in locum, qui appellatur Calvariae, quod dicitur Hebreice, Golgotha:<verse eID="john.19.17" />
+        <verse sID="john.19.18" osisID="john.19.18" />ubi eum crucifixerunt, et cum eo alios duos, hinc et inde, medium autem Iesum.<verse eID="john.19.18" />
+        <verse sID="john.19.19" osisID="john.19.19" />Scripsit autem et titulum Pilatus: et posuit supra crucem. Erat autem scriptum: IESUS NAZARENUS, REX IUDAEORUM.<verse eID="john.19.19" />
+        <verse sID="john.19.20" osisID="john.19.20" />Hunc ergo titulum multi legerunt Iudaeorum: quia prope civitatem erat locus, ubi crucifixus est Iesus. Et erat scriptum Hebreice, et Graece, et Latine.<verse eID="john.19.20" />
+        <verse sID="john.19.21" osisID="john.19.21" />Dicebant ergo Pilato Principes Iudaeorum: Noli scribere, Rex Iudaeorum: sed quia ille dixit: Rex sum Iudaeorum.<verse eID="john.19.21" />
+        <verse sID="john.19.22" osisID="john.19.22" />Respondit Pilatus: Quod scripsi, scripsi.<verse eID="john.19.22" />
+        <verse sID="john.19.23" osisID="john.19.23" />Milites ergo cum crucifixissent Iesum, acceperunt vestimenta eius, et fecerunt quatuor partes: unicuique militi partem. De tunica autem, quia de superiori parte non consutilis, sed per totum textibilis fuit,<verse eID="john.19.23" />
+        <verse sID="john.19.24" osisID="john.19.24" />dixerunt ad alterutrum: Non scindamus eam, sed sortiamur de illa cuius sit. Ut Scriptura impleatur: Diviserunt vestimenta mea sibi: et super vestem meam miserunt sortem. Et milites quidem haec fecerunt.<verse eID="john.19.24" />
+        <verse sID="john.19.25" osisID="john.19.25" />Stabat autem iuxta crucem Iesu mater eius, et soror matris eius, Maria Cleophe, et Maria Iacobi, et Maria Magdalenae.<verse eID="john.19.25" />
+        <verse sID="john.19.26" osisID="john.19.26" />Cum vidisset autem Iesus matrem suam, et discipulum astantem, quem diligebat, ait matri suae: Mulier, ecce filius tuus.<verse eID="john.19.26" />
+        <verse sID="john.19.27" osisID="john.19.27" />Deinde dicit discipulo: Ecce mater tua. Et ex illa hora accepit illam discipulus ille.<verse eID="john.19.27" />
+        <verse sID="john.19.28" osisID="john.19.28" />Postea sciens Iesus quoniam omnia consummata sunt, ut Scriptura impleretur, ait: Sitio.<verse eID="john.19.28" />
+        <verse sID="john.19.29" osisID="john.19.29" />Vas ergo positum erat aceto plenum. Hysopo admiscentes spongiam ergo plenam aceto cum felle, permixtum componentes, obtulerunt ori eius.<verse eID="john.19.29" />
+        <verse sID="john.19.30" osisID="john.19.30" />Cum ergo accepisset Iesus acetum, dixit: Consummatum est. Et inclinato capite, tradidit spiritum.<verse eID="john.19.30" />
+        <verse sID="john.19.31" osisID="john.19.31" />Iudaei autem, (quoniam parasceve erat) ne manerent in cruce corpora, (erat enim magnus dies ille Sabbati) rogaverunt Pilatum ut frangerentur eorum crura, et tollerentur.<verse eID="john.19.31" />
+        <verse sID="john.19.32" osisID="john.19.32" />Venerunt ergo milites: et illius quidem primi fregerunt crura, et alterius similiter, qui simul crucifixi erant cum eo.<verse eID="john.19.32" />
+        <verse sID="john.19.33" osisID="john.19.33" />Ad Iesum autem cum venissent, ut viderunt eum mortuum, non fregerunt eius crura:<verse eID="john.19.33" />
+        <verse sID="john.19.34" osisID="john.19.34" />sed unus ex militibus lanceâ latus eius perfodit, et continuo exivit sanguis, et aqua.<verse eID="john.19.34" />
+        <verse sID="john.19.35" osisID="john.19.35" />Et qui vidit, testimonium perhibuit: et verum est testimonium eius. Et ille scit quia vere dicit: ut et vos credatis.<verse eID="john.19.35" />
+        <verse sID="john.19.36" osisID="john.19.36" />Facta sunt enim haec, ut Scriptura impleatur: Os suum non confringetis ab eo.<verse eID="john.19.36" />
+        <verse sID="john.19.37" osisID="john.19.37" />Et iterum alia Scriptura dicit: Videbunt in quem compunxerunt.<verse eID="john.19.37" />
+        <verse sID="john.19.38" osisID="john.19.38" />Post haec autem rogavit Pilatum Ioseph ab Arimathia, (qui et ipse fuit discipulus Iesu, occulte autem propter metum Iudaeorum) ut tolleret corpus Iesu. Et permisit Pilatus. Venerunt ergo, et tulerunt eum.<verse eID="john.19.38" />
+        <verse sID="john.19.39" osisID="john.19.39" />Venit autem et Nicodemus, qui venerat ad Iesum nocte primum, ferens mixturam myrrhae et aloae, quasi libras centum.<verse eID="john.19.39" />
+        <verse sID="john.19.40" osisID="john.19.40" />Acceperunt ergo corpus Iesu, et ligaverunt eum linteis cum armatibus, sicut est consuetudo Iudaeis sepelire.<verse eID="john.19.40" />
+        <verse sID="john.19.41" osisID="john.19.41" />Fuit autem in loco, ubi crucifixus est, hortus: et in horto monumentum novum, in quo nondum quisquam positus erat.<verse eID="john.19.41" />
+        <verse sID="john.19.42" osisID="john.19.42" />Ibi ergo propter Parasceven Iudaeorum, quia iuxta erat monumentum, posuerunt Iesum.<verse eID="john.19.42" />
+      </p>
+      <chapter eID="john.19" />
+      <chapter sID="john.20" osisID="john.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="john.20.1" osisID="john.20.1" />Postera autem die sabbati, venit Maria Magdalene, cum adhuc tenebrae essent, ad monumentum: et videt lapidem sublatum a monumento.<verse eID="john.20.1" />
+        <verse sID="john.20.2" osisID="john.20.2" />Cucurrit ergo, et venit ad Simonem Petrum, et alium discipulum, quem amabat Iesus, et dicit eis: Tulerunt Dominum de monumento, et nescimus ubi posuerunt eum.<verse eID="john.20.2" />
+        <verse sID="john.20.3" osisID="john.20.3" />Exivit ergo Petrus, et ille alius discipulus, et venerunt ad monumentum.<verse eID="john.20.3" />
+        <verse sID="john.20.4" osisID="john.20.4" />Currebant autem duo simul, sed ille alius discipulus praecucurrit citius Petro, et venit prior ad monumentum.<verse eID="john.20.4" />
+        <verse sID="john.20.5" osisID="john.20.5" />Et cum se inclinasset, et prospexisset, vidit linteamina posita, non tamen introivit.<verse eID="john.20.5" />
+        <verse sID="john.20.6" osisID="john.20.6" />Venit ergo Simon Petrus sequens eum, et introivit in monumentum, et vidit linteamina posita.<verse eID="john.20.6" />
+        <verse sID="john.20.7" osisID="john.20.7" />et sudarium, quod erat supra caput eius, non cum linteaminibus positum, sed separatim involutum in unum locum.<verse eID="john.20.7" />
+        <verse sID="john.20.8" osisID="john.20.8" />Tunc ergo introivit et alius discipulus, qui venerat prior ad monumentum: et vidit, et credidit:<verse eID="john.20.8" />
+        <verse sID="john.20.9" osisID="john.20.9" />nondum enim sciebat Scripturam, quia oportet eum a mortuis resurgere.<verse eID="john.20.9" />
+        <verse sID="john.20.10" osisID="john.20.10" />Abierunt ergo apud se discipuli.<verse eID="john.20.10" />
+        <verse sID="john.20.11" osisID="john.20.11" />Maria autem stabat ad monumentum, plorans. Ut ergo fleret, inclinavit se, et prospexit in monumentum:<verse eID="john.20.11" />
+        <verse sID="john.20.12" osisID="john.20.12" />et vidit duos angelos in albis, sedentes unum ad caput, et unum ad pedes, ubi positum erat corpus Iesu.<verse eID="john.20.12" />
+        <verse sID="john.20.13" osisID="john.20.13" />Et dicunt ei: Mulier, quid ploras? Dicit eis: Quoniam tulerunt Dominum meum; et nescio ubi posuerunt eum.<verse eID="john.20.13" />
+        <verse sID="john.20.14" osisID="john.20.14" />Haec cum dixisset, conversa est retrorsum, et vidit Iesum stantem: et non sciebat quia Iesus est.<verse eID="john.20.14" />
+        <verse sID="john.20.15" osisID="john.20.15" />Dicit ei Iesus : Mulier, quid ploras? aut quem quaeris? At illa existimans quia hortolanus est, dicit ei: Domine, si tu sustulisti eum, dic mihi ubi posuisti illum; et ego eum tollam.<verse eID="john.20.15" />
+        <verse sID="john.20.16" osisID="john.20.16" />Dicit ei Iesus : Maria. Conversa illa dicit ei Hebreice : Rabboni (quod interpretatur Magister.)<verse eID="john.20.16" />
+        <verse sID="john.20.17" osisID="john.20.17" />Dicit ei Iesus: Noli me tangere, nondum enim ascendi ad Patrem meum, et ad Parem vestrum; et ad Dominum meum, et ad Dominum vestrum.<verse eID="john.20.17" />
+        <verse sID="john.20.18" osisID="john.20.18" />Venit Maria Magdalene annuntians discipulis, quia vidit Dominum, et quia haec dixit: et manifestavit eis.<verse eID="john.20.18" />
+        <verse sID="john.20.19" osisID="john.20.19" />Cum ergo sero esset die illo, una sabbatorum, et ianuae essent clausae, ubi erant discipuli congregati propter metum Iudaeorum: venit Iesus, et stetit in medio, et ait eis: Pax vobis.<verse eID="john.20.19" />
+        <verse sID="john.20.20" osisID="john.20.20" />Et cum hoc dixisset, ostendit eis manus. et latus suum. Gavisi sunt itaque discipuli, viso Domino.<verse eID="john.20.20" />
+        <verse sID="john.20.21" osisID="john.20.21" />Ait illis iterum: Pax vobis. Sicut misit me Pater, et ego mittam vos.<verse eID="john.20.21" />
+        <verse sID="john.20.22" osisID="john.20.22" />Haec cum dixisset, insufflavit: et ait illis: Accipite Spiritum sanctum:<verse eID="john.20.22" />
+        <verse sID="john.20.23" osisID="john.20.23" />quorum remiseritis peccata, remittuntur eis: et quorum retinueritis, detenta sunt.<verse eID="john.20.23" />
+        <verse sID="john.20.24" osisID="john.20.24" />Thomas autem unus de duodecim, qui dicitur Didymus, non erat cum illis, quando venit Iesus.<verse eID="john.20.24" />
+        <verse sID="john.20.25" osisID="john.20.25" />Dixerunt ergo ei caeteri discipuli: Vidimus Dominum. Ille autem dixit eis: Nisi videro in manus eius figuram clavorum, et misero digitum meum in locum clavorum, et mittam manum meam in latus eius, non credam.<verse eID="john.20.25" />
+        <verse sID="john.20.26" osisID="john.20.26" />Post dies autem octo, iterum erant discipuli simul; et Thomas cum eis. Venit Iesus ianuis clausis, et stetit in medio, et dixit: Pap vobiscum.<verse eID="john.20.26" />
+        <verse sID="john.20.27" osisID="john.20.27" />Deinde ait Thomae : Infer digitum tuum huc, et vide manus means, et affer manum tuam, et mitte in latere meo: et noli esse incredulus, sed fidelis.<verse eID="john.20.27" />
+        <verse sID="john.20.28" osisID="john.20.28" />Respondit Thomas, et dixit ei: Tu es Dominus meus, et Deus meus.<verse eID="john.20.28" />
+        <verse sID="john.20.29" osisID="john.20.29" />Ait ei Iesus : Quia vidisti me, creditisti: beati qui non viderunt, et crediderunt.<verse eID="john.20.29" />
+        <verse sID="john.20.30" osisID="john.20.30" />Multa quidem, et alia signa fecit Iesus in conspectu discipulorum suorum, quae non sunt scripta in libro hoc.<verse eID="john.20.30" />
+        <verse sID="john.20.31" osisID="john.20.31" />Haec autem scripta sunt, ut credatis, quia Iesus Christus ipse est Filius Dei : et ut credentes, vitam habeatis in nomine eius.<verse eID="john.20.31" />
+      </p>
+      <chapter eID="john.20" />
+      <chapter sID="john.21" osisID="john.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="john.21.1" osisID="john.21.1" />Postea manifestavit se iterum Iesus discipulis suis ad mare Tiberiadis. Manifestavit autem se sic:<verse eID="john.21.1" />
+        <verse sID="john.21.2" osisID="john.21.2" />Erant autem pariter Simon Petrus, et Thomas, qui dicitur Didymus, et Nathanael, qui erat a Chanaan Galilaeae, et filii Zebedaei, et alii ex discipulis eius duo.<verse eID="john.21.2" />
+        <verse sID="john.21.3" osisID="john.21.3" />Dicit eis Simon Petrus: Vado piscari. Dicunt ei: Venimus et nos tecum. Et exierunt, et ascenderunt in navem: et illa nocte nihil ceperunt.<verse eID="john.21.3" />
+        <verse sID="john.21.4" osisID="john.21.4" />Mane autem facto, stetit Iesus in littore: non tamen cognoverunt discipuli quia Iesus est.<verse eID="john.21.4" />
+        <verse sID="john.21.5" osisID="john.21.5" />Dicit ergo eis Iesus: Pueri, nunquid pulmentarium habetis? Responderunt ei: Non.<verse eID="john.21.5" />
+        <verse sID="john.21.6" osisID="john.21.6" />Dicit eis: Mittite in dexteram partem navigii retia, et invenietis. Miserunt ergo retia; et non valebant trahere ea a multitudine piscium.<verse eID="john.21.6" />
+        <verse sID="john.21.7" osisID="john.21.7" />Dixit ergo ille discipulus, quem diligebat Iesus, petro: Dominus est. Cum audisset autem Simon Petrus quoniam Dominus est, tunica succinxit se (erat enim nudus) et misit se in mare.<verse eID="john.21.7" />
+        <verse sID="john.21.8" osisID="john.21.8" />Illi alii discipuli navigaverunt, (non enim longe erant a terra, sed quasi a cubitis ducentis) trahentes retia piscium.<verse eID="john.21.8" />
+        <verse sID="john.21.9" osisID="john.21.9" />Ut ergo descenderunt in terram, viderunt carbones incensos, et piscem superpositum, et panem.<verse eID="john.21.9" />
+        <verse sID="john.21.10" osisID="john.21.10" />Dicit eis Iesus: Afferte de piscibus, quos nunc cepistis.<verse eID="john.21.10" />
+        <verse sID="john.21.11" osisID="john.21.11" />Tunc ascendit Simon Petrus, et traxit retia ad terram, plena piscibus magnis centum quinquaginta tribus. Et cum tanti essent, non est scissum rete.<verse eID="john.21.11" />
+        <verse sID="john.21.12" osisID="john.21.12" />Dicit eis Iesus : Venite, prandete. Nemo autem ausus est discumbentium interrogare eum: Tu quis es? scientes, quia ipse est Dominus.<verse eID="john.21.12" />
+        <verse sID="john.21.13" osisID="john.21.13" />Tunc Iesus accepit panem, et dedit eis, et piscem similiter.<verse eID="john.21.13" />
+        <verse sID="john.21.14" osisID="john.21.14" />Hoc iam tertio manifestavit se Iesus discipulis suis, cum resurrexisset a mortuis.<verse eID="john.21.14" />
+        <verse sID="john.21.15" osisID="john.21.15" />Cum ergo prandissent, ait Iesus Simoni Petro: Simon Bariona, diligis me? Dicit ei: Etiam Domine, tuscis quia amo te. Dicit illi: Pasce oves meas.<verse eID="john.21.15" />
+        <verse sID="john.21.16" osisID="john.21.16" />Ait illi secundo: Simon Bariona, diligis me? Dicit ei: Ita Domine, tu scis quia amo te. Ait illi: Pasce oves meas.<verse eID="john.21.16" />
+        <verse sID="john.21.17" osisID="john.21.17" />Dicit ei tertio: Simon Bariona, amas me? Contristatus est Petrus, quia dixit ei tertio, Amas me? et ait ei: Domine, omnia nosti: tu scis quia amo te. Dicit ei: Pasce oves meas.<verse eID="john.21.17" />
+        <verse sID="john.21.18" osisID="john.21.18" />Amen, amen dico tibi: cum esses iuyenior praecingebas te, et ibas quo volebas: cum autem senueris, extendes manus tuas, et alius te praecinget, et ducet te quo tu non vis.<verse eID="john.21.18" />
+        <verse sID="john.21.19" osisID="john.21.19" />Hoc autem dixit, significans qua morte clarificaturus esset Deum. Et hoc dicto, ait illi: Sequere me-<verse eID="john.21.19" />
+        <verse sID="john.21.20" osisID="john.21.20" />Conversus Petrus vidit illum discipulum sequentem, quem diligebat Iesus, qui et recubuit in coena super pectus eius, et dixerat: Domine quis est qui tradet te?<verse eID="john.21.20" />
+        <verse sID="john.21.21" osisID="john.21.21" />Hunc ergo cum vidisset Petrus, dicit ad Iesum: Domine, hic autem quid?<verse eID="john.21.21" />
+        <verse sID="john.21.22" osisID="john.21.22" />Dicit ei Iesus : Sic volo eum permanente donec venio, quid ad te? tu me sequere.<verse eID="john.21.22" />
+        <verse sID="john.21.23" osisID="john.21.23" />Exiit ergo hic sermo apud fratres, quia discipulus ille non morietur. Non dixit illi autem Iesus: Quia non morietur: sed: Sic volo eum remanere donec venio, quid ad te? tu me sequere.<verse eID="john.21.23" />
+        <verse sID="john.21.24" osisID="john.21.24" />Hic est discipulus, qui testimonium perhibet de his, qui et scripsit haec: et scimus, quia verum est testimonium eius.<verse eID="john.21.24" />
+        <verse sID="john.21.25" osisID="john.21.25" />Sunt autem et alia multa quidem, quae fecit Iesus: quae si scribantur per singula, nec ipsum arbitror mundum capere eos, qui scribendi sunt libros. Amen. * Explicit Evangelium Iohannis.<verse eID="john.21.25" />
+      </p>
+    </div>
+  </osisText>
+</osis>

@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="mark" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="mark">
+        <title>Mark</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">mark</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Mark</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="mark">
+      <title>Mark</title>
+      <chapter sID="mark.1" osisID="mark.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="mark.1.1" osisID="mark.1.1" />Initium Evangelii Iesu Christi, Filii Dei.<verse eID="mark.1.1" />
+        <verse sID="mark.1.2" osisID="mark.1.2" />Sicut scriptum est in Isaia propheta: Ecce mitto angelum meum ante faciem tuam, qui praeparabit viam tuam.<verse eID="mark.1.2" />
+        <verse sID="mark.1.3" osisID="mark.1.3" />Vox clamantis in deserto: Parate viam Domino, rectas facite semitas Dei nostri. Omnis vallis replebitur: et omnis mons, et collis humiliabitur: et omnia prava erunt recta, et aspera in planitiem. Et videbitur gloria Domini, et videbit omnis caro salutare Dei nostri: quoniam Deus locutus est. Vox dicentis: Clama. Et dixit: Quid Iamabo? Omnis caro fenum, et omnis gloria eius sicut flos feni: aruit fenum, et flos decidit: Verbum autem Domini manet in aeternum.<verse eID="mark.1.3" />
+        <verse sID="mark.1.4" osisID="mark.1.4" />Fuit Iohannes in deserto baptizans, et praedicans baptismum poenitentiae in remissionem peccatorum.<verse eID="mark.1.4" />
+        <verse sID="mark.1.5" osisID="mark.1.5" />Et veniebat ad illum omnis Iudaeae regio, et omnes Ierosolymitae, et baptizabantur ab illo in Iordane, confitentes peccata sua.<verse eID="mark.1.5" />
+        <verse sID="mark.1.6" osisID="mark.1.6" />Erat autem Iohannes ipse indutus pilos cameli, et zona pellicia circa lumbos eius, locustas et mel silvestre edens. Qui praedicabat dicens:<verse eID="mark.1.6" />
+        <verse sID="mark.1.7" osisID="mark.1.7" />Venit fortior me post me: cuius non sum dignus solvere corrigiam calceamentorum eius.<verse eID="mark.1.7" />
+        <verse sID="mark.1.8" osisID="mark.1.8" />Ego baptico vos in aqua, ipse autem baptizabit vos in Spiritu sancto.<verse eID="mark.1.8" />
+        <verse sID="mark.1.9" osisID="mark.1.9" />Et factum est: in illis diebus venit Iesus a Nazareth Galilaeae: et baptizatus est ab Iohanne in Iordane.<verse eID="mark.1.9" />
+        <verse sID="mark.1.10" osisID="mark.1.10" />Et statim ascendens de aqua, vidit aperiri coelos, et Spiritum tanquam columbam descendentem super illum.<verse eID="mark.1.10" />
+        <verse sID="mark.1.11" osisID="mark.1.11" />Et vox facta est de coelo, dicens: Tu es filius meus charissimus, in te complacui.<verse eID="mark.1.11" />
+        <verse sID="mark.1.12" osisID="mark.1.12" />Et protinus Spiritus expulit eum in desertum.<verse eID="mark.1.12" />
+        <verse sID="mark.1.13" osisID="mark.1.13" />Et erat in deserto diebus quadraginta, et noctibus quadraginta: et tentabatur a satana: et erat cum bestiis, et angeli ministrabant ei.<verse eID="mark.1.13" />
+        <verse sID="mark.1.14" osisID="mark.1.14" />Et factum est postquam traditus est Iohannes, venit Iesus in Galilaeam, praedicans Evange lium Dei:<verse eID="mark.1.14" />
+        <verse sID="mark.1.15" osisID="mark.1.15" />Quoniam adimpleta sunt tempora, et appropinquavit regnum Dei, dicens: poenitemini, et credite in Evangelium Dei.<verse eID="mark.1.15" />
+        <verse sID="mark.1.16" osisID="mark.1.16" />Et praeteriens secus mare Galilaeae, vidit Simonem, et Andream fratrem eius, retia iactantes in mare (erant enim piscatores.<verse eID="mark.1.16" />
+        <verse sID="mark.1.17" osisID="mark.1.17" />Dicit ergo illis Iesus: Venite post me, et faciam vos fieri piscatores hominum.<verse eID="mark.1.17" />
+        <verse sID="mark.1.18" osisID="mark.1.18" />Illi vero relictis omnibus, secuti sunt eum.<verse eID="mark.1.18" />
+        <verse sID="mark.1.19" osisID="mark.1.19" />Et egressus inde pusillum, vidit Iacobum Zebedaei, et Iohannem fratrem eius, in nave componentes retia:<verse eID="mark.1.19" />
+        <verse sID="mark.1.20" osisID="mark.1.20" />et vocavit illos. Qui statim relicto patre suo Zebedaeo in navicula cum mercenariis, secuti sunt eum.<verse eID="mark.1.20" />
+        <verse sID="mark.1.21" osisID="mark.1.21" />Et ingrediens cum eis sabbatis in synagogam Capharnaum, docebat populum.<verse eID="mark.1.21" />
+        <verse sID="mark.1.22" osisID="mark.1.22" />Et stupebant omnes super doctrinam eius: erat enim docens eos, ut potestatem habens, non sicut scribae eorum.<verse eID="mark.1.22" />
+        <verse sID="mark.1.23" osisID="mark.1.23" />Erat autem homo in synagoga habens spiritum immundum: et exclamavit,<verse eID="mark.1.23" />
+        <verse sID="mark.1.24" osisID="mark.1.24" />dicens: Quid nobis, et tibi Iesu Nazarene: venisti huc perdere nos? scio qui sis, Sanctus Dei.<verse eID="mark.1.24" />
+        <verse sID="mark.1.25" osisID="mark.1.25" />Et comminatus est ei Iesus dixitque ei: Ommutesce, et exi ab homine, spiritus immunde.<verse eID="mark.1.25" />
+        <verse sID="mark.1.26" osisID="mark.1.26" />Et exclamavit voce magna, et discerpens eum spiritus immundus, exiit ab eo.<verse eID="mark.1.26" />
+        <verse sID="mark.1.27" osisID="mark.1.27" />Et mirati sunt omnes, et conquirebant inter se dicentes, quaenam effet haec doctrina, in potestate, quam spiritibus immundis imperat, et obaudiunt illi.<verse eID="mark.1.27" />
+        <verse sID="mark.1.28" osisID="mark.1.28" />Et processit rumor iste in omnem regionem illam Galilaeae.<verse eID="mark.1.28" />
+        <verse sID="mark.1.29" osisID="mark.1.29" />Egressus autem inde de synagoga Iesus, venit in domum Simonis, et Andreae, et Iacobi, et Iohannis.<verse eID="mark.1.29" />
+        <verse sID="mark.1.30" osisID="mark.1.30" />Accumbebat autem socrus Simonis febricitans : et retulerunt illi de illa.<verse eID="mark.1.30" />
+        <verse sID="mark.1.31" osisID="mark.1.31" />Ille vero veniens, apprehendit manum eius, et levavit eam: et continuo reliquit enm febris; et surrexit, et ministrabat eis.<verse eID="mark.1.31" />
+        <verse sID="mark.1.32" osisID="mark.1.32" />Vespere autem facto cum occidisset sol, afferebant ad eum omnes male habentes variis languoribus, et eos qui daemonia habebant:<verse eID="mark.1.32" />
+        <verse sID="mark.1.33" osisID="mark.1.33" />et omnis civitas conveniebat ad ianuam eius.<verse eID="mark.1.33" />
+        <verse sID="mark.1.34" osisID="mark.1.34" />Et curabat multos male habentes variis languoribus, et daemonia multa eiecit, et non permittebat ea loqui, quoniam cognoscebant eum.<verse eID="mark.1.34" />
+        <verse sID="mark.1.35" osisID="mark.1.35" />Et diluculo exiens, inde abiit in desertum locum, ibique orabat.<verse eID="mark.1.35" />
+        <verse sID="mark.1.36" osisID="mark.1.36" />Et secuti sunt illum Simon, et qui cum illo erant,<verse eID="mark.1.36" />
+        <verse sID="mark.1.37" osisID="mark.1.37" />dicentes ei: Quaerebant te omnes.<verse eID="mark.1.37" />
+        <verse sID="mark.1.38" osisID="mark.1.38" />Quibus ipse ait: Eamus in proximos vicos, et civitates, praedicare: ad hoc enim veni.<verse eID="mark.1.38" />
+        <verse sID="mark.1.39" osisID="mark.1.39" />Et erat praeditans in synagoga omnis Galilaeae, et daemonia eiiciens.<verse eID="mark.1.39" />
+        <verse sID="mark.1.40" osisID="mark.1.40" />Et venit ad eum leprosus, deprecans eum et dicens: Domine, si vis, potes me mundare.<verse eID="mark.1.40" />
+        <verse sID="mark.1.41" osisID="mark.1.41" />Iesus autem misertus est eius: et extendens manum suam, dixit: Volo: Mundare.<verse eID="mark.1.41" />
+        <verse sID="mark.1.42" osisID="mark.1.42" />Et discessit ab eo lepra, et mundatus est.<verse eID="mark.1.42" />
+        <verse sID="mark.1.44" osisID="mark.1.44" />Ait illi: Vide nemini dixeris: sed vade. ostende te sacerdoti, et offeres pro emundatione tua munus, quod praecepit Moyses in testimonium illis.<verse eID="mark.1.44" />
+        <verse sID="mark.1.45" osisID="mark.1.45" />At ille egressus coepit praedicare, et diffamare sermonem, ita ut non posset manifeste in civitate introire, sed foris in desertis locis esse, et conveniebant ad eum undique.<verse eID="mark.1.45" />
+      </p>
+      <chapter eID="mark.1" />
+      <chapter sID="mark.2" osisID="mark.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="mark.2.1" osisID="mark.2.1" />Et cum venisset Capharnaum post dies<verse eID="mark.2.1" />
+        <verse sID="mark.2.2" osisID="mark.2.2" />auditum est quod in domo esset, et confestim convenerunt ad eum multi, ita ut non caperet eos introitus ianuae, et loquebatur ad eos verbum.<verse eID="mark.2.2" />
+        <verse sID="mark.2.3" osisID="mark.2.3" />Venerunt autem ad eum portantes in lecto paralyticum.<verse eID="mark.2.3" />
+        <verse sID="mark.2.4" osisID="mark.2.4" />Et cum non possent accedere prae turba. denudaverunt tecta ubi erat Iesus: et summiserunt grabatum, in quo paralyticus iacebat.<verse eID="mark.2.4" />
+        <verse sID="mark.2.5" osisID="mark.2.5" />Cum vidisset autem Iesus fidem illorum, ait paralytico: Fili, remittuntur tibi peccata tua.<verse eID="mark.2.5" />
+        <verse sID="mark.2.6" osisID="mark.2.6" />Erant autem illic quidam de scribis sedentes, et cogitantes in cordibus suis, et dicentes:<verse eID="mark.2.6" />
+        <verse sID="mark.2.7" osisID="mark.2.7" />Quis est hic qui sic loquitur, blasphemans? Quis autem potest dimittere peccata, nisi solus Deus?<verse eID="mark.2.7" />
+        <verse sID="mark.2.8" osisID="mark.2.8" />Quo cognito Iesus in spiritu, quid cogitarent, dixit ad illos: Quid cogitatis in cordibus vestris nequam?<verse eID="mark.2.8" />
+        <verse sID="mark.2.9" osisID="mark.2.9" />Quid est facilius, dicere paralytico: Remittuntur tibi peccata tua: aut dicere: Surge, et ambula?<verse eID="mark.2.9" />
+        <verse sID="mark.2.10" osisID="mark.2.10" />Ut sciatis autem quia potestatem habet Filius hominis in terra dimittendi peccata, (ait paralytico)<verse eID="mark.2.10" />
+        <verse sID="mark.2.11" osisID="mark.2.11" />Surge, et tolle grabatum tuum, et vade in domum tuam.<verse eID="mark.2.11" />
+        <verse sID="mark.2.12" osisID="mark.2.12" />Ille vero surgens, sublato grabato suo, coram omnibus abiit, ita ut admirarentur turbae, et honorificarent Deum, dicentes quoniam nunquam taliter viderunt.<verse eID="mark.2.12" />
+        <verse sID="mark.2.13" osisID="mark.2.13" />Et progressus est rursus ad mare: et omnes turbae veniebant ad eum, et docebat eos.<verse eID="mark.2.13" />
+        <verse sID="mark.2.14" osisID="mark.2.14" />Et cum praeterisset, vidit Iacobum Alphaei sedentem ad teloneum, et ait illi: Sequere me. Et exsurgens secutus est eum.<verse eID="mark.2.14" />
+        <verse sID="mark.2.15" osisID="mark.2.15" />Et factum est, discumbentibus illis in domo multi publicani et peccatores simul recumbebant cum Iesu, et cum discipulis eius: erant enim multi qui secuti sunt eum.<verse eID="mark.2.15" />
+        <verse sID="mark.2.16" osisID="mark.2.16" />scribae autem et Pharisai videntes quia manducabat cum peccatoribus et publicanis, dicebant discipulis eius: Quare Magister vester cum publicanis et peccatoribus manducat et bibit?<verse eID="mark.2.16" />
+        <verse sID="mark.2.17" osisID="mark.2.17" />Iesus autem cum hoc audisset, dixit: Non egent sani medico, sed male habentes: non enim veni vocare iustos, sed peccatores in poenitentiam.<verse eID="mark.2.17" />
+        <verse sID="mark.2.18" osisID="mark.2.18" />Et erant discipuli Iohannis, et Pharisaei ieiunantes: et venientes, dixerunt illi: Quare discipuli Iohannis et Pharisaeorum ieiunant, discipuli autem tui non ieiunant?<verse eID="mark.2.18" />
+        <verse sID="mark.2.19" osisID="mark.2.19" />Ait illis Iesus: Nunquid possunt filii sponsi, quandiu cum illis sponsus est, ieiunare? Quanto tempore habent secum sponsum, non possunt ieiunare.<verse eID="mark.2.19" />
+        <verse sID="mark.2.20" osisID="mark.2.20" />Venient autem dies cum auferetur ab eis sponsus: et tunc ieiunabunt in illis diebus.<verse eID="mark.2.20" />
+        <verse sID="mark.2.21" osisID="mark.2.21" />Nemo autem assumentum panni novi assuit vestimento veteri: sin autem tollit supplementum veteri, et maior fit scissura.<verse eID="mark.2.21" />
+        <verse sID="mark.2.22" osisID="mark.2.22" />Et nemo mittit vinum novum in utres veteres, sed in novos: alioquin disrumpit vinum utres, et vinum effundetur, et utres peribunt: sed vinum novum in utres novos mitti debet.<verse eID="mark.2.22" />
+        <verse sID="mark.2.23" osisID="mark.2.23" />Factum est autem cum sabbatis transiret per sata, discipuli autem eius coeperunt vellere spicas et manducare.<verse eID="mark.2.23" />
+        <verse sID="mark.2.24" osisID="mark.2.24" />Pharisaei autem dicebant ei: Ecce, quid faciunt sabbatis discipuli tui quod non licet eis?<verse eID="mark.2.24" />
+        <verse sID="mark.2.25" osisID="mark.2.25" />Quibus ipse dixit: Nec hoc legistis quid fecerit David, cum fuisset in necessitate, et esurisset ipse, et qui cum illo erant?<verse eID="mark.2.25" />
+        <verse sID="mark.2.26" osisID="mark.2.26" />quomodo intravit in domum Dei sub Abiathar principe sacerdotum, et manducavit panes propositionis, et dedit eis qui cum illo erant, quos non licebat manducare, nisi solis sacerdotibus?<verse eID="mark.2.26" />
+        <verse sID="mark.2.28" osisID="mark.2.28" />Dico autem vobis: Quoniam filius hominis etiam Dominus est sabbati.<verse eID="mark.2.28" />
+      </p>
+      <chapter eID="mark.2" />
+      <chapter sID="mark.3" osisID="mark.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="mark.3.1" osisID="mark.3.1" />Et cum introisset in synagogam, accessit ad eum homo, qui habebat manum aridam.<verse eID="mark.3.1" />
+        <verse sID="mark.3.2" osisID="mark.3.2" />Et observabant eum, si sabbatis curaret, ut haberent unde accusarent eum.<verse eID="mark.3.2" />
+        <verse sID="mark.3.3" osisID="mark.3.3" />Et ait homini, qui habebat manum aridam: Surge, et sta in medio.<verse eID="mark.3.3" />
+        <verse sID="mark.3.4" osisID="mark.3.4" />Quo facto, dixit ad illos: Licet sabbatis bene facere, aut male? animam salvam facere, aut perdere? At illi tacebant.<verse eID="mark.3.4" />
+        <verse sID="mark.3.5" osisID="mark.3.5" />Et circumspiciens eos cum indignatione, super emortua illorum corda, dixit homini: Extende manum tuam. Et extendit, et restituta est manus ei, sicut et altera.<verse eID="mark.3.5" />
+        <verse sID="mark.3.6" osisID="mark.3.6" />Exeuntes autem inde Pharisaei, cum herodianis consilium faciebant, ut illum perderent.<verse eID="mark.3.6" />
+        <verse sID="mark.3.7" osisID="mark.3.7" />Iesus autem secessit cum discipulis suis ad mare: et multa turba a Galilaca et Iudaea,<verse eID="mark.3.7" />
+        <verse sID="mark.3.8" osisID="mark.3.8" />et ab Ierosolyma, et a trans Iordanem, et de circa Tyrum et Sidonem, sequebantur eum, audientes quanta faciebat.<verse eID="mark.3.8" />
+        <verse sID="mark.3.9" osisID="mark.3.9" />Tunc dixit Iesus discipulis suis ut navicula sibi deserviret propter turbam, ne affligeretur:<verse eID="mark.3.9" />
+        <verse sID="mark.3.10" osisID="mark.3.10" />multos enim sanabat, ita ut irruerent in cum ut illum tangerent quotquot habebant plagas.<verse eID="mark.3.10" />
+        <verse sID="mark.3.11" osisID="mark.3.11" />Sed et spiritus immundi, cum illum vide bant, procidebant ei: et exclamabant dicentes:<verse eID="mark.3.11" />
+        <verse sID="mark.3.12" osisID="mark.3.12" />Tu es Filius Dei. Et comminabatur eis ne alicui manifestarent illum.<verse eID="mark.3.12" />
+        <verse sID="mark.3.13" osisID="mark.3.13" />Et ascendens in montem convocavit ad se quos voluit: et venerunt ad eum.<verse eID="mark.3.13" />
+        <verse sID="mark.3.14" osisID="mark.3.14" />Et fecit eos ut essent duodecim secum.<verse eID="mark.3.14" />
+        <verse sID="mark.3.15" osisID="mark.3.15" />Et dedit illis potestatem curandi valetudines, et eiicere daemonia; et circumeuntes praedicarent Evangelium.<verse eID="mark.3.15" />
+        <verse sID="mark.3.16" osisID="mark.3.16" />Et imposuit nomen Simoni, Petrus:<verse eID="mark.3.16" />
+        <verse sID="mark.3.17" osisID="mark.3.17" />et Iacobum Zebedaei, et Iohannem fratrem Iacobi: communiter autem convocavit eos Boanerges, quod est, Filii tonitrui.<verse eID="mark.3.17" />
+        <verse sID="mark.3.18" osisID="mark.3.18" />Erant autem Simon et Andreas, Iacobus et Iohannes, Philippus et Bartholomaeus, Iudas et Matthaeus, Thomas et Iacobus Alphaei, et Taddeus, Simon gehananeus,<verse eID="mark.3.18" />
+        <verse sID="mark.3.19" osisID="mark.3.19" />et Iudas Scariotha, qui et tradidit illum.<verse eID="mark.3.19" />
+        <verse sID="mark.3.20" osisID="mark.3.20" />Et venit iterum turba ad eum, ita ut non possent panem manducare.<verse eID="mark.3.20" />
+        <verse sID="mark.3.21" osisID="mark.3.21" />Et cum audissent de eo scribae et Pharisaei, exierunt tenere eum:<verse eID="mark.3.21" />
+        <verse sID="mark.3.22" osisID="mark.3.22" />dicebant enim: Beelzebub habet principem daemoniorum, et per eum eiicit daemonia.<verse eID="mark.3.22" />
+        <verse sID="mark.3.23" osisID="mark.3.23" />Et convocavit eos, et dicebat illis Iesus in parabolam: Quomodo potest satana satanam eiicere?<verse eID="mark.3.23" />
+        <verse sID="mark.3.24" osisID="mark.3.24" />Et si regnum in semetipsum dividedatur, non potest stare regnum illud.<verse eID="mark.3.24" />
+        <verse sID="mark.3.25" osisID="mark.3.25" />Et si domus in semetipsam dispertiatur, non potest domus illa store.<verse eID="mark.3.25" />
+        <verse sID="mark.3.26" osisID="mark.3.26" />Et si satamas satanan expellit, divisum est regnum illius, non potest stare, sed finem habet.<verse eID="mark.3.26" />
+        <verse sID="mark.3.27" osisID="mark.3.27" />Nemo potest vasa fortis diripere ingressus in domum, nisi prius fortem ligaverit, et tunc domum eius diripiet.<verse eID="mark.3.27" />
+        <verse sID="mark.3.28" osisID="mark.3.28" />Amen, amen dico vobis, quoniam remitrentur omnia peccata, et blasphemiae filiis hominum:<verse eID="mark.3.28" />
+        <verse sID="mark.3.29" osisID="mark.3.29" />qui autem blasphemaverit in Spiritu sancto, non habebit remissionem in aeternum, sed reus erit sempiterni delicti.<verse eID="mark.3.29" />
+        <verse sID="mark.3.30" osisID="mark.3.30" />Quoniam dicebant illum spiritum immundum habere.<verse eID="mark.3.30" />
+        <verse sID="mark.3.31" osisID="mark.3.31" />Et venerunt mater eius, et fratres eius: et foris stantes miserunt ad illum vocantes eum,<verse eID="mark.3.31" />
+        <verse sID="mark.3.32" osisID="mark.3.32" />et sedentes circa eum turbae, dixerunt ei: Ecce mater tua, et fratres tui, et sorores tuae, foris stantes quaerunt te videre.<verse eID="mark.3.32" />
+        <verse sID="mark.3.33" osisID="mark.3.33" />Qui respondens, dixit illis: Quae est mater mea, aut qui sunt fratres mei?<verse eID="mark.3.33" />
+        <verse sID="mark.3.34" osisID="mark.3.34" />Et circumspiciens eos, qui in circuitu eius sedebant, dixit: Ecce mater mea, et fratres mei.<verse eID="mark.3.34" />
+        <verse sID="mark.3.35" osisID="mark.3.35" />Et qui fecerit voluntatem Dei, hic frater meus, et soror, et mater est.<verse eID="mark.3.35" />
+      </p>
+      <chapter eID="mark.3" />
+      <chapter sID="mark.4" osisID="mark.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="mark.4.1" osisID="mark.4.1" />Et coepit iterum docere ad mare: et congregata est ad eum turba multa, ita ut in navem ascenderet, et sedens proxime littus, et omnis turba in littore staret:<verse eID="mark.4.1" />
+        <verse sID="mark.4.2" osisID="mark.4.2" />et docebat illos in parabolis, dicens:<verse eID="mark.4.2" />
+        <verse sID="mark.4.3" osisID="mark.4.3" />Ecce exiit seminans seminare.<verse eID="mark.4.3" />
+        <verse sID="mark.4.4" osisID="mark.4.4" />Et dum seminat, aliud cecidit secus viam, et venerunt aves, et comederunt illud.<verse eID="mark.4.4" />
+        <verse sID="mark.4.5" osisID="mark.4.5" />Aliud vero cecidit supra petrosa: et quoniam non habebat terram multam, et statim exortum est:<verse eID="mark.4.5" />
+        <verse sID="mark.4.6" osisID="mark.4.6" />et quia non habebat radicem, facto aestu, exaruit.<verse eID="mark.4.6" />
+        <verse sID="mark.4.7" osisID="mark.4.7" />Et aliud cecidit in spinis: et ascenderunt spinae, et suffocatum est, et fructum non dedit.<verse eID="mark.4.7" />
+        <verse sID="mark.4.8" osisID="mark.4.8" />Aliud autem cecidit in terram bonam : et dabat fructum ascendentem, et crescentem; et afferebat fructum tricesimum, aliud sexagesimum, aliud centesimum.<verse eID="mark.4.8" />
+        <verse sID="mark.4.9" osisID="mark.4.9" />Et dicebat: Qui habet aures audiendi, audiat.<verse eID="mark.4.9" />
+        <verse sID="mark.4.10" osisID="mark.4.10" />Et cum esset singularis, interrogaverunt eum discipuli eius, quae esset parabola haec.<verse eID="mark.4.10" />
+        <verse sID="mark.4.11" osisID="mark.4.11" />Quibus ipse dixit: Vobis datum est nosse mysterium regni Dei: illis autem, qui foris sunt in parabolis dicitur:<verse eID="mark.4.11" />
+        <verse sID="mark.4.12" osisID="mark.4.12" />ut videntes videant, et non videant: et audientes audiant, et non intelligant: nequando convertantur, et remittantur eis peccata.<verse eID="mark.4.12" />
+        <verse sID="mark.4.13" osisID="mark.4.13" />Et ait illis: Nescitis parabolam istam? et quomodo omnes parabolas cognoscetis?<verse eID="mark.4.13" />
+        <verse sID="mark.4.14" osisID="mark.4.14" />Qui loquitur verbum, ipse est qui seminat.<verse eID="mark.4.14" />
+        <verse sID="mark.4.15" osisID="mark.4.15" />Hi autem, qui seminantur circa viam, ipsi sunt qui negligunt, verbum suscipientes, et cum audierint, venit confestim satamas, et auferet ver bum, quod seminatum est in eis.<verse eID="mark.4.15" />
+        <verse sID="mark.4.16" osisID="mark.4.16" />Et hi sunt, qui seminati sunt super petrosa: qui cum audierint verbum, cum gaudio accipiunt illud:<verse eID="mark.4.16" />
+        <verse sID="mark.4.17" osisID="mark.4.17" />et non habent radicem in se, sed sunt temporales: deinde orta tribulatione et perfectione propter verbum, confestim scandalizantur:<verse eID="mark.4.17" />
+        <verse sID="mark.4.18" osisID="mark.4.18" />Et alii qui in spinis seminantur: hi sunt qui verbum audiunt.<verse eID="mark.4.18" />
+        <verse sID="mark.4.19" osisID="mark.4.19" />et sollicitudinibus victi, et delectationibus mundi abalienati offocant verbum, et sine fructu efficiuntur.<verse eID="mark.4.19" />
+        <verse sID="mark.4.20" osisID="mark.4.20" />Et hi sunt, qui super terram bonam ceciderunt, qui audiunt verbum, et suscipiunt et fructificant, unum tricesimum, et unum sexagesimum, et unum centesimum.<verse eID="mark.4.20" />
+        <verse sID="mark.4.21" osisID="mark.4.21" />Et dicebat illis: Nunquid accenditur lucerna ut sub modio ponatur, aut sub lecto? sed supra candelabrum ponitur.<verse eID="mark.4.21" />
+        <verse sID="mark.4.22" osisID="mark.4.22" />Non enim est aliquid absconditum, quod non manifestetur: nec factum occultum, quod non in palam veniat.<verse eID="mark.4.22" />
+        <verse sID="mark.4.23" osisID="mark.4.23" />Qui habet aures audiendi, audiat.<verse eID="mark.4.23" />
+        <verse sID="mark.4.24" osisID="mark.4.24" />Et iterum dicebat illis Iesus: Videte quid audiatis. In qua mensura mensi fueritis, in eadem remetietur vobis, et adiungetur v obis.<verse eID="mark.4.24" />
+        <verse sID="mark.4.25" osisID="mark.4.25" />Qui enim habet, dabitur illi: et qui non habet, et quod habet auferetur ab illo.<verse eID="mark.4.25" />
+        <verse sID="mark.4.26" osisID="mark.4.26" />Et dicebat: Sic est regnum Dei, quemadmodum si homo mittat semen super terram.<verse eID="mark.4.26" />
+        <verse sID="mark.4.27" osisID="mark.4.27" />et dormiat, et semen surgat diem et noctem, et germinet, et crescat dum nescit ille.<verse eID="mark.4.27" />
+        <verse sID="mark.4.28" osisID="mark.4.28" />Ultro enim terra fructificat, primum herbam, deinde spicam, feinde plenum triticum spicae.<verse eID="mark.4.28" />
+        <verse sID="mark.4.29" osisID="mark.4.29" />Et cum mutaverit fructum, mittet falcem, quoniam adest messis.<verse eID="mark.4.29" />
+        <verse sID="mark.4.30" osisID="mark.4.30" />Et dicebat: Cui similabimus regnum Dei? aut in quam parabolam similabimus illud?<verse eID="mark.4.30" />
+        <verse sID="mark.4.31" osisID="mark.4.31" />Simile est regnum Dei sicut granum sinapis, quod cum seminatum est in terra, minus est omnibus seminibus, quae sunt in terra:<verse eID="mark.4.31" />
+        <verse sID="mark.4.32" osisID="mark.4.32" />at ubi creverit, sit maius omnibus oleribus, et facit ramos magnos, ita ut possint sub umbra eius aves coeli inhabitare.<verse eID="mark.4.32" />
+        <verse sID="mark.4.33" osisID="mark.4.33" />Talibus parabolis loquebatur ad eos, qualiter poterant audire:<verse eID="mark.4.33" />
+        <verse sID="mark.4.34" osisID="mark.4.34" />sine parabolis autem non loquebatur ad eos: secreto autem discipulis suis disserebat omnia.<verse eID="mark.4.34" />
+        <verse sID="mark.4.35" osisID="mark.4.35" />Et ait illis Iesus in illa die, cum sero esset factum: Transeamus contra.<verse eID="mark.4.35" />
+        <verse sID="mark.4.36" osisID="mark.4.36" />Et dimittunt turbas, et accipiunt eum ita ut erat in navi: et aliae naves simul erant cum illo.<verse eID="mark.4.36" />
+        <verse sID="mark.4.37" osisID="mark.4.37" />Et facta est procella magna venti, et fluctus mittebat in navi, ita ut impleretur navis.<verse eID="mark.4.37" />
+        <verse sID="mark.4.38" osisID="mark.4.38" />Et erat ipse in puppe super servical dormiens: et excitantes eum, dicunt ei: Magister, non est tibi cura, quoniam perimus?<verse eID="mark.4.38" />
+        <verse sID="mark.4.39" osisID="mark.4.39" />Et exsurgens comminatus est vento et mari, dicens: Ommutesce. Et cessavit ventus: et facta est tranquillitas magna.<verse eID="mark.4.39" />
+        <verse sID="mark.4.40" osisID="mark.4.40" />Et ait illis: Quid timidi estis? nondum fidem habetis? Et timuerunt timore magno, et dicebant ad alterutrum: Quis, putas, est iste, quo modo venti et mare obaudiunt ei?<verse eID="mark.4.40" />
+      </p>
+      <chapter eID="mark.4" />
+      <chapter sID="mark.5" osisID="mark.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="mark.5.1" osisID="mark.5.1" />Et venerunt trans fretum maris in regionem Gerasenorum.<verse eID="mark.5.1" />
+        <verse sID="mark.5.2" osisID="mark.5.2" />Et descendentibus illis de navi, obviavit illis homo de monumentis ,spiritum immundum habens,<verse eID="mark.5.2" />
+        <verse sID="mark.5.3" osisID="mark.5.3" />qui habebat domicilium in monumentis, et neque catena iam quisquam eum alligare poterat:<verse eID="mark.5.3" />
+        <verse sID="mark.5.4" osisID="mark.5.4" />quod saepe ligatus compedibus, et catenis vinctus, disrupisset eas, nec quisquam valeret amplius eum domare:<verse eID="mark.5.4" />
+        <verse sID="mark.5.5" osisID="mark.5.5" />nocte autem et die in monumentis erat, ex clamans.<verse eID="mark.5.5" />
+        <verse sID="mark.5.6" osisID="mark.5.6" />Et accucurrit, et adoravit eum:<verse eID="mark.5.6" />
+        <verse sID="mark.5.7" osisID="mark.5.7" />et exclamans voce magna dixit: Quid mihi, et tibi est, Iesu fili Dei summi? adiuro te per Deum, ne me torqueas.<verse eID="mark.5.7" />
+        <verse sID="mark.5.8" osisID="mark.5.8" />Dicebat enim illi: Exi spiritus immunde ab homine.<verse eID="mark.5.8" />
+        <verse sID="mark.5.9" osisID="mark.5.9" />Et interrogavit cum Iesus: Quod tibi nomen est? Qui respondens dixit: Nomen mihi Legio est, quia multi sumus.<verse eID="mark.5.9" />
+        <verse sID="mark.5.10" osisID="mark.5.10" />Rogabant autem eum multum, ne expelleret eos foras regionem.<verse eID="mark.5.10" />
+        <verse sID="mark.5.11" osisID="mark.5.11" />Erat autem ibi grex porcorum magnus circa montem, pascens.<verse eID="mark.5.11" />
+        <verse sID="mark.5.12" osisID="mark.5.12" />Et rogaverunt eum daemones, dicentes: Mitte nos in porcos ut in eos intremus.<verse eID="mark.5.12" />
+        <verse sID="mark.5.13" osisID="mark.5.13" />Et continuo Iesus misit eos in porcos. Qui introeuntes in porcos spiritus immundi, fecerunt impetu magno ere gregem per praeceps, et ceciderunt in mari quasi ad duo millia, et suffocati sunt in mare.<verse eID="mark.5.13" />
+        <verse sID="mark.5.14" osisID="mark.5.14" />Qui autem pascebant illos, fugerunt, et renuntiaverunt in civitatem, et in agros. Et egressi sunt videre quid esset quod factum est:<verse eID="mark.5.14" />
+        <verse sID="mark.5.15" osisID="mark.5.15" />et venerunt ad Iesum: et viderunt illum hominem, qui verabatur a daemonio, sedentem, vestitum, et sanae mentis sobrium: et timuerunt valde.<verse eID="mark.5.15" />
+        <verse sID="mark.5.16" osisID="mark.5.16" />Narraverunt autem illis hi, qui viderant, qualiter factum sit ei qui daemonium habuerat, et de porcis.<verse eID="mark.5.16" />
+        <verse sID="mark.5.17" osisID="mark.5.17" />Illi vero rogare coeperunt Iesum ut disce deret a finibus eorum.<verse eID="mark.5.17" />
+        <verse sID="mark.5.18" osisID="mark.5.18" />Cumque ascenderet Iesus navem, coepit illum deprecari is, qui a daemonio verabatur, ut esset cum illo:<verse eID="mark.5.18" />
+        <verse sID="mark.5.19" osisID="mark.5.19" />Iesus vero non permisit ei, sed ait illi: Vade in domum tuam ad tuos, et annuntia illis quanta tibi Dominus fecit, et quomodo misertus est tui.<verse eID="mark.5.19" />
+        <verse sID="mark.5.20" osisID="mark.5.20" />Ille vero egressus, coepit praedicare in Decapoli, quanta sibi fecit Iesus: et omnes mirati sunt.<verse eID="mark.5.20" />
+        <verse sID="mark.5.21" osisID="mark.5.21" />Et cum transfretasset inde iterum Iesus, convenit ad illum turba multa iuxta mare.<verse eID="mark.5.21" />
+        <verse sID="mark.5.22" osisID="mark.5.22" />Et ecce quidam de principibus synagogae nomine Iairus, videns Iesum, procidit ad pedes eius,<verse eID="mark.5.22" />
+        <verse sID="mark.5.23" osisID="mark.5.23" />et rogabat eum, dicens: Filia mea in extremis est, Sed veni, impone manum tuam super eam, et vivet.<verse eID="mark.5.23" />
+        <verse sID="mark.5.24" osisID="mark.5.24" />Et abiit cum illo, et sequebatur Iesum turba multa, comprimentes eum.<verse eID="mark.5.24" />
+        <verse sID="mark.5.25" osisID="mark.5.25" />Et ecce mulier, quae fuerat in profluvio sanguinis per annos duodecim<verse eID="mark.5.25" />
+        <verse sID="mark.5.26" osisID="mark.5.26" />quae multa pertulerat a pluribus medicis: et erogaverat omnia sua, et nihil profecerat, sed peius habebat :<verse eID="mark.5.26" />
+        <verse sID="mark.5.27" osisID="mark.5.27" />haec, audito Iesu, venit in turba, et tetigit vestimentum eius:<verse eID="mark.5.27" />
+        <verse sID="mark.5.28" osisID="mark.5.28" />dicens intra se: Si vestimentum eius tetigero, salva ero.<verse eID="mark.5.28" />
+        <verse sID="mark.5.29" osisID="mark.5.29" />Et confestim siccatus est fons sanguinis e ius: et sensit corpori suo quod esset salva.<verse eID="mark.5.29" />
+        <verse sID="mark.5.30" osisID="mark.5.30" />Cognovit autem Iesus virtutem, quae exierat de se; et conversus ad turbas, ait: Quis tetigit vestimenta mea?<verse eID="mark.5.30" />
+        <verse sID="mark.5.31" osisID="mark.5.31" />Dixerunt autem discipuli eius: Vides turbam comprimentem te, et dicis: Quis tetigit vestimenta mea?<verse eID="mark.5.31" />
+        <verse sID="mark.5.32" osisID="mark.5.32" />Cum autem circumspexisset;<verse eID="mark.5.32" />
+        <verse sID="mark.5.33" osisID="mark.5.33" />mulier timens et tremens, sciens quod factum esset in se, procidens ante eum, dixit quid factum est.<verse eID="mark.5.33" />
+        <verse sID="mark.5.34" osisID="mark.5.34" />Iesus vero ait ad illam: Filia, fides tua te salvam fecit: vade in pace, et esto salva a plaga tua: et sana facta est mulier.<verse eID="mark.5.34" />
+        <verse sID="mark.5.35" osisID="mark.5.35" />Adhuc eo loquente, venerunt ad principem synagogae, dicentes: Filia tua mortua est: quid amplius vexas illum?<verse eID="mark.5.35" />
+        <verse sID="mark.5.36" osisID="mark.5.36" />Iesus autem audito verbo, ait archisynagago: Noli timere: tantum crede.<verse eID="mark.5.36" />
+        <verse sID="mark.5.37" osisID="mark.5.37" />Et non admisit quemquam sequi se, nisi Petrum, et Iacobum, et Iohannem fratrem Iacobi.<verse eID="mark.5.37" />
+        <verse sID="mark.5.38" osisID="mark.5.38" />Et venit in domum archisynagogi, et videt flentem turbam, et clamantem multum.<verse eID="mark.5.38" />
+        <verse sID="mark.5.39" osisID="mark.5.39" />Et ingressus, ait: Quid turbamini, et ploratis? puella non est mortua, sed dormit.<verse eID="mark.5.39" />
+        <verse sID="mark.5.40" osisID="mark.5.40" />Illi vero irridebant illum. Ipse verõ, eiecta turba foris, assumpsit patrem et matrem puellae et qui cum eo erant, et introivit ubi erat puella iacens.<verse eID="mark.5.40" />
+        <verse sID="mark.5.41" osisID="mark.5.41" />Et tenens manum eius, ait illi: Thabita cumi, quod est interpretatum: Puella (tibi dico) surge :<verse eID="mark.5.41" />
+        <verse sID="mark.5.42" osisID="mark.5.42" />et confestim surrexit puella, et ambulabat: rerat autem annorum duodecim: et obstupuerunt omnes stupore maximo.<verse eID="mark.5.42" />
+        <verse sID="mark.5.43" osisID="mark.5.43" />Et praecepit illis Iesus ut nemini diceret, sed darent illi aliquid manducare.<verse eID="mark.5.43" />
+      </p>
+      <chapter eID="mark.5" />
+      <chapter sID="mark.6" osisID="mark.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="mark.6.1" osisID="mark.6.1" />Et egressus inde Iesus, abiit in patriam suam cum discipulis suis:<verse eID="mark.6.1" />
+        <verse sID="mark.6.2" osisID="mark.6.2" />et coepit sabbatis in synagoga docere, ita ut admirarentur in doctrina eius omnes, et dicerent: Unde huic tanta? et quae est sapientia, quae data est illi; et virtutes, quae per labia eius efficiuntur?<verse eID="mark.6.2" />
+        <verse sID="mark.6.3" osisID="mark.6.3" />Nonne hic est fabri filius et Mariae, frater Iacobi, et Iudae, et Simonis? nonne et sorores eius hic sunt nobiscum? Et haec dicentes, scandalizabantur in illo.<verse eID="mark.6.3" />
+        <verse sID="mark.6.4" osisID="mark.6.4" />Dicebat autem ad eos Iesus: Quia non est propheta sine honore nisi in domo, et in patria sua.<verse eID="mark.6.4" />
+        <verse sID="mark.6.5" osisID="mark.6.5" />Et non faciebat illic virtutes multas, nisi paucos infirmos imponens eis manus curavit:<verse eID="mark.6.5" />
+        <verse sID="mark.6.6" osisID="mark.6.6" />et mirabatur propter incredulitatem illorum, et circumibat castella in circuitu docens.<verse eID="mark.6.6" />
+        <verse sID="mark.6.7" osisID="mark.6.7" />Et convocatis duodecim, misit illos binos, dans illis potestatem fugare spiritus immundos:<verse eID="mark.6.7" />
+        <verse sID="mark.6.8" osisID="mark.6.8" />praecipiens illis ne quid secum tollerent in via, nisi virgam tantum; non peram, non panem, neque nummos in zonis.<verse eID="mark.6.8" />
+        <verse sID="mark.6.9" osisID="mark.6.9" />sed calciatos caligulas, et ne induerentur duas tunicas:<verse eID="mark.6.9" />
+        <verse sID="mark.6.10" osisID="mark.6.10" />et dixit eis: Quocunque introieritis in domum, ibi manete donec exeatis inde:<verse eID="mark.6.10" />
+        <verse sID="mark.6.11" osisID="mark.6.11" />et quicunque non receperint vos, neque audierint vos, exeuntes inde, excutite pulverem de pedibus vestris, quod subtus est, in testimonium illis:<verse eID="mark.6.11" />
+        <verse sID="mark.6.12" osisID="mark.6.12" />et exeuntes praedicate ut poenitentiam agant.<verse eID="mark.6.12" />
+        <verse sID="mark.6.13" osisID="mark.6.13" />Et quidam illorum multa daemonia eiiciebant, et imponentes oleum, multos aegros sanabant.<verse eID="mark.6.13" />
+        <verse sID="mark.6.14" osisID="mark.6.14" />Cum audisset autem Herodes rex, (manifestatum enim fuerat ei nomen Iesu) et dicebat. Quod Iohannes Baptista surrexisset a mortuis: et ideo virtutes per illum efficiuntur.<verse eID="mark.6.14" />
+        <verse sID="mark.6.15" osisID="mark.6.15" />Alii autem dicebant de eo. Quod Helias venerit: alii vero, unum de prophetis.<verse eID="mark.6.15" />
+        <verse sID="mark.6.16" osisID="mark.6.16" />Quo audito Herodes dixit: Quem ego decollavi Iohannem, hic resurrexit a mortuis.<verse eID="mark.6.16" />
+        <verse sID="mark.6.17" osisID="mark.6.17" />Ipse enim Herodes misit, et tenuit Iohannem, et alligavit eum in carcere propter Herodiam uxorem Philippi fratris sui, quod eam uxorem duxisset.<verse eID="mark.6.17" />
+        <verse sID="mark.6.18" osisID="mark.6.18" />Dicebat enim illi Iohannes: Non licet tibi habere uxorem fratris tui.<verse eID="mark.6.18" />
+        <verse sID="mark.6.19" osisID="mark.6.19" />Herodias autem insidiabatur illi: et quaerebat occidere illum, nec poterat.<verse eID="mark.6.19" />
+        <verse sID="mark.6.20" osisID="mark.6.20" />Herodes vero timebat Iohannem, sciens eum virum esse iustum et sanctum: et observabat eum, et cum audisset illum multa facere, libenter eum audiebat.<verse eID="mark.6.20" />
+        <verse sID="mark.6.21" osisID="mark.6.21" />Cum dies autem opportunus accidisset natalis Herodis, fecit coenam magnam principibus suis, et tribunis, et primis Galilaeae:<verse eID="mark.6.21" />
+        <verse sID="mark.6.22" osisID="mark.6.22" />introivit vero filia Herodiadis saltare: et cum saltasset, placuit Herodi, et simul recumbentibus; tunc dixit rex ad puellam : Pete a me quid vis, et dabo tibi:<verse eID="mark.6.22" />
+        <verse sID="mark.6.23" osisID="mark.6.23" />et iuravit illi: Quia quodcunque petieris dabo tibi, etiamsi dimidium regni mei.<verse eID="mark.6.23" />
+        <verse sID="mark.6.24" osisID="mark.6.24" />Quae cum exisset ad matrem suam, dixit ei : Quid petam? Illa vero dixit: Caput Iohannis Baptistae.<verse eID="mark.6.24" />
+        <verse sID="mark.6.25" osisID="mark.6.25" />Illa autem ingressa ad regem, petit sibi dari caput Iohannis Baptistae.<verse eID="mark.6.25" />
+        <verse sID="mark.6.26" osisID="mark.6.26" />Et contristatus est rex, ut audivit: propter iusiurandum autem, et recumbentes simul, noluit negare:<verse eID="mark.6.26" />
+        <verse sID="mark.6.27" osisID="mark.6.27" />sed misso spiculatore praecepit afferri caput eius in disco. Et cum abisset, decollavit eum in carcere.<verse eID="mark.6.27" />
+        <verse sID="mark.6.28" osisID="mark.6.28" />et attulit caput eius in disco; et dedit puellae, illa autem dedit matri suae.<verse eID="mark.6.28" />
+        <verse sID="mark.6.29" osisID="mark.6.29" />Quo audito, discipuli eius venerunt, et tulerunt corpus eius: et posuerunt illud in monumento.<verse eID="mark.6.29" />
+        <verse sID="mark.6.30" osisID="mark.6.30" />Et reversi Apostoli ad Iesum, renuntiaverunt ei omnia, quae fecerant, et quomodo docuerunt.<verse eID="mark.6.30" />
+        <verse sID="mark.6.31" osisID="mark.6.31" />Et ait illis Iesus: Venite, eamus in desertum locum, et requiescite pusillum. Lrant autem quidam euntes: et nec manducandi spatium habebant.<verse eID="mark.6.31" />
+        <verse sID="mark.6.32" osisID="mark.6.32" />Et ascendentes in navi, abierunt in desertum locum secreto.<verse eID="mark.6.32" />
+        <verse sID="mark.6.33" osisID="mark.6.33" />Er viderunt eos abeuntes: et convenerunt pedestres multi ab omnibus civitatibus, et concurrerunt illuc.<verse eID="mark.6.33" />
+        <verse sID="mark.6.34" osisID="mark.6.34" />Cum vero Iesus vidisset turbam, misertus est illis, quia erant sicut oves, quibus non est pastor, et coepit docere eos.<verse eID="mark.6.34" />
+        <verse sID="mark.6.35" osisID="mark.6.35" />Et cum iam hora multa fieret, accesserunt ad eum discipuli, dicentes: Desertus locus est, et hora iam praeterivit:<verse eID="mark.6.35" />
+        <verse sID="mark.6.36" osisID="mark.6.36" />dimitte illos, ut euntes in proximas villas et castella, emant sibi cibos, quos manducent.<verse eID="mark.6.36" />
+        <verse sID="mark.6.37" osisID="mark.6.37" />Quibus Iesus dixit : Date illis vos manducare. Illi autem dixerunt: Euntes ememus panes ducentorum denariorum, et dabimus illis manducare.<verse eID="mark.6.37" />
+        <verse sID="mark.6.38" osisID="mark.6.38" />Ipse vero ait illis: Quot panes hîc habetis? ite, videte. Qui dixerunt: Quinque panes, et duos pisces.<verse eID="mark.6.38" />
+        <verse sID="mark.6.39" osisID="mark.6.39" />Et praecepit illis ut discumberent omnes per contubernia super viride fenum.<verse eID="mark.6.39" />
+        <verse sID="mark.6.40" osisID="mark.6.40" />Et discubuerunt plurimi per centenos, et quinquagenos.<verse eID="mark.6.40" />
+        <verse sID="mark.6.41" osisID="mark.6.41" />Et accepit Iesus quinque panes, et duos pisces: et respiciens in coelum, benedixit, et gratias agens fregit quinque panes, et duos pisces, et dedit discipulis suis, ut ponerent eos: et posuerunt ante illos, ut manducarent.<verse eID="mark.6.41" />
+        <verse sID="mark.6.42" osisID="mark.6.42" />Et manducaverunt omnes, et saturati sunt.<verse eID="mark.6.42" />
+        <verse sID="mark.6.43" osisID="mark.6.43" />Et sustulerunt fragmentorum duodecim cofinos plenos, et de piscibus.<verse eID="mark.6.43" />
+        <verse sID="mark.6.44" osisID="mark.6.44" />Erant autem qui manducaverunt panes et pisces, quinque millia virorum.<verse eID="mark.6.44" />
+        <verse sID="mark.6.45" osisID="mark.6.45" />Et surgens, coegit discipulos suos ascendere navem, ut praecederent eum trans fretum ad Bethsaidam, dum ipse dimitteret populum.<verse eID="mark.6.45" />
+        <verse sID="mark.6.46" osisID="mark.6.46" />Et cum dimisisset eos, aliit in montem orare.<verse eID="mark.6.46" />
+        <verse sID="mark.6.47" osisID="mark.6.47" />Et cum sero esset factum, venit Iesus:<verse eID="mark.6.47" />
+        <verse sID="mark.6.48" osisID="mark.6.48" />et invenit illos in mari tribulari in tempestate remigantes (erat enim illis ventus contrarius) et ipse solus erat super terram, et erat hora circiter quartam vigiliam noctis: venit ergo ipse ambulans super mare: et volebat transire illos.<verse eID="mark.6.48" />
+        <verse sID="mark.6.49" osisID="mark.6.49" />Illi vero ut viderunt illum ambulantem super mare, putaverunt phantasma esse; et exclamantes<verse eID="mark.6.49" />
+        <verse sID="mark.6.50" osisID="mark.6.50" />omnes conturbati sunt. Ipse autem dixi ego sum, nolite ad illos : Animaequiores estote, timere.<verse eID="mark.6.50" />
+        <verse sID="mark.6.51" osisID="mark.6.51" />Et ascendit in navem ad illos, et cessavi ventus. Alii autem magis plus stupebant:<verse eID="mark.6.51" />
+        <verse sID="mark.6.52" osisID="mark.6.52" />non enim intellexerunt de panibus: erat enim cor illorum obtusum.<verse eID="mark.6.52" />
+        <verse sID="mark.6.53" osisID="mark.6.53" />Et cum transfretassent inde, pervenerunt ad terram Genesar.<verse eID="mark.6.53" />
+        <verse sID="mark.6.54" osisID="mark.6.54" />Et egressus de navi, continuo cognoverunt cum habitantes loci illius:<verse eID="mark.6.54" />
+        <verse sID="mark.6.55" osisID="mark.6.55" />et circumcurrentes universam regionem illam, coeperunt in grabatis male habentes circumferre, ubicunque audiebant eum esse.<verse eID="mark.6.55" />
+        <verse sID="mark.6.56" osisID="mark.6.56" />Et quocunque introisset, in vicos, vel in civitates, aut in villas, ponebant infirmos suos in plateis, et deprecabantur illum, ut vel fimbriam vestimenti eius tangerent: et quotquot tangebant eum, salvi fiebant.<verse eID="mark.6.56" />
+      </p>
+      <chapter eID="mark.6" />
+      <chapter sID="mark.7" osisID="mark.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="mark.7.1" osisID="mark.7.1" />Et convenerunt ad eum Pharisaei, et quidam de scribis, venientes ab Ierosolymis.<verse eID="mark.7.1" />
+        <verse sID="mark.7.2" osisID="mark.7.2" />Qui cum vidissent quosdam ex discipulis eius non lotis manibus manducare panem, vituperaverunt illos.<verse eID="mark.7.2" />
+        <verse sID="mark.7.3" osisID="mark.7.3" />Pharisaei autem, et omnes Iudaei, nisi pugillo lavent manus, non manducant panem suum, tenentes traditionem seniorum:<verse eID="mark.7.3" />
+        <verse sID="mark.7.4" osisID="mark.7.4" />et cum a foro venerint, nisi baptizentur, cibum non capiunt: et alia multa sunt, quae tradita sunt illis servare, baptismata calicum, et urceorum, et aeramentorum, et lectorum:<verse eID="mark.7.4" />
+        <verse sID="mark.7.5" osisID="mark.7.5" />et interrogantes eum scribae, et Pharisaei, dixerunt: Quare discipuli tui non sequuntur traditionem seniorum, sed non lotis manibus manducant panem?<verse eID="mark.7.5" />
+        <verse sID="mark.7.6" osisID="mark.7.6" />Quibus ipse respondens, dixit: Bene prophetavit Isaias de vobis simulatoribus, dicens: Populus hic labiis me diligit, cor autem illorum longe est a me:<verse eID="mark.7.6" />
+        <verse sID="mark.7.7" osisID="mark.7.7" />vano autem colunt me, docentes doctrinam, et praecepta hominum.<verse eID="mark.7.7" />
+        <verse sID="mark.7.8" osisID="mark.7.8" />Baptistos calicum, et urceorum, et alia similia multa facitis, derelinquentes praecepta Domini, et tenentes doctrinas hominum.<verse eID="mark.7.8" />
+        <verse sID="mark.7.9" osisID="mark.7.9" />Et dicebat illis: Bene irritum facitis testamentum Dei, ut traditionem vestram statuatis.<verse eID="mark.7.9" />
+        <verse sID="mark.7.10" osisID="mark.7.10" />Moyses enim dicit: Honora patrem tuum et matrem tuam. Et: Qui maledixerit patri, aut matri, morte moriatur.<verse eID="mark.7.10" />
+        <verse sID="mark.7.11" osisID="mark.7.11" />Vos autem dicitis : Si dixerit homo patri suo, aut matri, Donum quodcunque ex me, tibi proficiet, (quod est Corban:<verse eID="mark.7.11" />
+        <verse sID="mark.7.12" osisID="mark.7.12" />iam non missum facitis illum quidquam facere patri, aut matri<verse eID="mark.7.12" />
+        <verse sID="mark.7.13" osisID="mark.7.13" />irritum facientes verbum Domini per traditionem vestram stultam, quam tradidistis: et similia huiusmodi multa facitis.<verse eID="mark.7.13" />
+        <verse sID="mark.7.14" osisID="mark.7.14" />Et advocans ad se turbas, dicebat illis: Audite me omnes, et intelligite:<verse eID="mark.7.14" />
+        <verse sID="mark.7.15" osisID="mark.7.15" />Nihil est extra hominem introiens in eum quod eum possit communicare, sed quae de homine procedent, illa sunt quae communicant hominem.<verse eID="mark.7.15" />
+        <verse sID="mark.7.16" osisID="mark.7.16" />Et si quis habet aures audiendi, audiat.<verse eID="mark.7.16" />
+        <verse sID="mark.7.17" osisID="mark.7.17" />Et cum introisset domum a turbis, interrogaverunt eum discipuli eius parabolam istam.<verse eID="mark.7.17" />
+        <verse sID="mark.7.18" osisID="mark.7.18" />Et ait illis: Sic et vos imprudentes estis? Non intellexistis, quoniam omne quod introit extrinsecus in hominem, non potest eum communicare:<verse eID="mark.7.18" />
+        <verse sID="mark.7.19" osisID="mark.7.19" />quia non intrat in cor eius, sed in ventrem, et in secessum exit, purgans escam?<verse eID="mark.7.19" />
+        <verse sID="mark.7.20" osisID="mark.7.20" />Dicebat autem, quoniam quaecunque de homine exeunt, ipsa communicant hominem.<verse eID="mark.7.20" />
+        <verse sID="mark.7.21" osisID="mark.7.21" />Abintus autem sunt de corde hominum cogitationes malae, procedunt adulteria, furta, fornicationes, homicidia,<verse eID="mark.7.21" />
+        <verse sID="mark.7.22" osisID="mark.7.22" />cupiditas, malitia, dolus, impudicitia, oculus malus, blasphemiae, superfia, imprudentia.<verse eID="mark.7.22" />
+        <verse sID="mark.7.23" osisID="mark.7.23" />Omnia haec mala abintus procedunt, et communicant hominem: non lotis autem manibus manducare, non coinquinat hominem.<verse eID="mark.7.23" />
+        <verse sID="mark.7.24" osisID="mark.7.24" />Et exiens Iesus abiit in finibus Tyri et Sidonis: et ingressus domum, neminem volebat scire, et non potuit latere.<verse eID="mark.7.24" />
+        <verse sID="mark.7.25" osisID="mark.7.25" />Mulier enim statim ut audivit de eo, cuius filia habebat spiritum immundum, introivit ad eum.<verse eID="mark.7.25" />
+        <verse sID="mark.7.26" osisID="mark.7.26" />Erat enim Graeca, Syrophenissa genere. Et procidens ad pedes eius, rogabat eum ut eiiceret daemonium a filia eius.<verse eID="mark.7.26" />
+        <verse sID="mark.7.27" osisID="mark.7.27" />Qui dixit: Sine prius saturari filios: non est enim bonum tollere panem filiorum, et mittere catellis.<verse eID="mark.7.27" />
+        <verse sID="mark.7.28" osisID="mark.7.28" />At illa respondens, dixit ei: Domine, sed et catelli sub mensa de micis puerorum edent.<verse eID="mark.7.28" />
+        <verse sID="mark.7.29" osisID="mark.7.29" />Qui dixit ad illam: Vade, propter hunc sermonem exiet daemonium a filia tua.<verse eID="mark.7.29" />
+        <verse sID="mark.7.30" osisID="mark.7.30" />Et cum abisset domum suam, invenit puellam iacentem super lectum, et daemonium ab ea fugatum.<verse eID="mark.7.30" />
+        <verse sID="mark.7.31" osisID="mark.7.31" />Iterum venit Iesus per Sidonem ad Mare Galilaeae inter medios fines Decapolis.<verse eID="mark.7.31" />
+        <verse sID="mark.7.32" osisID="mark.7.32" />Et adduxerunt ad eum surdum hominem et mutum, et deprecabantur eum, ut ei manum imponeret.<verse eID="mark.7.32" />
+        <verse sID="mark.7.33" osisID="mark.7.33" />Et accipiens eum a turba secreto, expuit. et immisit digitos in auriculas eius: et tetigit linguam eius:<verse eID="mark.7.33" />
+        <verse sID="mark.7.34" osisID="mark.7.34" />et aspiciens in coelum, ingemuit, et ait illi: Effetha, quod est aperire.<verse eID="mark.7.34" />
+        <verse sID="mark.7.35" osisID="mark.7.35" />Et statim apertae sunt aures eius, et solutum est vinculum linguae eius, et loquebatur confidenter.<verse eID="mark.7.35" />
+        <verse sID="mark.7.36" osisID="mark.7.36" />Et praecepit illis ne cui dicerent. Illi vero magis magisque praedicabant:<verse eID="mark.7.36" />
+        <verse sID="mark.7.37" osisID="mark.7.37" />et eo amplius admirabantur, dicentes: Omnia bene facit: et surdis praestat auditum, et multis praebet loquelam.<verse eID="mark.7.37" />
+      </p>
+      <chapter eID="mark.7" />
+      <chapter sID="mark.8" osisID="mark.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="mark.8.1" osisID="mark.8.1" />In illis autem diebus iterum cum multa turba esset, nec haberent, quod manducarent, convocatis discipulis, ait illis:<verse eID="mark.8.1" />
+        <verse sID="mark.8.2" osisID="mark.8.2" />Misereor super istam turbam: quoniam triduum est iam quod hic sunt, et non habent quod manducent:<verse eID="mark.8.2" />
+        <verse sID="mark.8.3" osisID="mark.8.3" />et si sic illos remiserimus irre in domos suas ieiunos, fatigantur in via: quoniam quidam ex eis de longinquo venerunt.<verse eID="mark.8.3" />
+        <verse sID="mark.8.4" osisID="mark.8.4" />Et respondentes ei discipuli sui, dixerunt: Unde istos quis potest saturare panibus in deserto?<verse eID="mark.8.4" />
+        <verse sID="mark.8.5" osisID="mark.8.5" />Qui interrogavit eos: Quot panes habetis? Qui dixerunt: Septem.<verse eID="mark.8.5" />
+        <verse sID="mark.8.6" osisID="mark.8.6" />Iussit vero Iesus ut turbae discumberent super terram. Et accipiens septem panes illos Iesus, gratias agens fregit, et dedit discipulis ut apponerent et apposuerunt turbis.<verse eID="mark.8.6" />
+        <verse sID="mark.8.7" osisID="mark.8.7" />Habuerunt autem et paucos pisciculos: et ipsos benedixit, et iussit apponi.<verse eID="mark.8.7" />
+        <verse sID="mark.8.8" osisID="mark.8.8" />Et manducaverunt, et saturati sunt, et sustulerunt quod superaverat fragmentorum septem sportas.<verse eID="mark.8.8" />
+        <verse sID="mark.8.9" osisID="mark.8.9" />Erant autem qui manducaverant, quasi quatuor millia hominum: et dimisit illos.<verse eID="mark.8.9" />
+        <verse sID="mark.8.10" osisID="mark.8.10" />Iesus autem ascendens navem, venit cum discipulis suis in finibus Mageda.<verse eID="mark.8.10" />
+        <verse sID="mark.8.11" osisID="mark.8.11" />Et coeperunt Pharisaei conquirere cum eo quaerentes ab eo signum de coelo videre, tentantes illum.<verse eID="mark.8.11" />
+        <verse sID="mark.8.12" osisID="mark.8.12" />Ipse autem ingemiscens in spiritu suo, ait: Quid generatio ista quaerit signum? Amen dico vobis, si dabitur generationi huic signum.<verse eID="mark.8.12" />
+        <verse sID="mark.8.13" osisID="mark.8.13" />Et dimittens eos, ascendit navem, et abiit ultra.<verse eID="mark.8.13" />
+        <verse sID="mark.8.14" osisID="mark.8.14" />Et obliti sunt discipuli emere panes, nisi unum tantum, quem secum habebant in navi.<verse eID="mark.8.14" />
+        <verse sID="mark.8.15" osisID="mark.8.15" />Et praecepit illis Iesus, dicens: Videte, et cavete a fermento Pharisaeorum, et fermento He rodis.<verse eID="mark.8.15" />
+        <verse sID="mark.8.16" osisID="mark.8.16" />Quo audito, discipuli dicebant intra se, quod panes non habent.<verse eID="mark.8.16" />
+        <verse sID="mark.8.17" osisID="mark.8.17" />Quo cognito, Iesus ait illis: Quid cogitatis in cordibus vestris, quia panes non habetis? nondum intelligitis nec respicitis? sic obtusa sunt corda vestra?<verse eID="mark.8.17" />
+        <verse sID="mark.8.18" osisID="mark.8.18" />oculos habetis, et nondum videtis? et aures habetis, et non auditis? Nec in mente habetis<verse eID="mark.8.18" />
+        <verse sID="mark.8.19" osisID="mark.8.19" />de quinque panibus, quos fregi in quinqe millia hominum: ex quibus quot cofinos fragmen torum sustulistis? Qui dixerunt: Duodecim.<verse eID="mark.8.19" />
+        <verse sID="mark.8.20" osisID="mark.8.20" />Et quando septem panes fregi in quatuor millia hominum: quot sportas fragmentorum tulistis plenas? At illi dixerunt: Septem.<verse eID="mark.8.20" />
+        <verse sID="mark.8.21" osisID="mark.8.21" />Et ait illis: Quomodo nondum intelligitis?<verse eID="mark.8.21" />
+        <verse sID="mark.8.22" osisID="mark.8.22" />Et venerunt Bethsaida, et ecce adducunt illi caecum, et rogaverunt illum ut eum tangeret.<verse eID="mark.8.22" />
+        <verse sID="mark.8.23" osisID="mark.8.23" />Et apprehensa manu caeci, duxit illum extra castellum : et expuit in oculos eius, et impo suit illi manum, et interrogavit illum si aliquid videret.<verse eID="mark.8.23" />
+        <verse sID="mark.8.24" osisID="mark.8.24" />Ille autem dixit: Video homines sicut arbores ambulantes.<verse eID="mark.8.24" />
+        <verse sID="mark.8.25" osisID="mark.8.25" />Et rursus imposuit manus suas super oculos eius: et coepit videre: et restitutus est ei visus, ita ut videret manifeste.<verse eID="mark.8.25" />
+        <verse sID="mark.8.26" osisID="mark.8.26" />Et dimisit illum in domum suam, praecipiens ei, ne cui diceret in castellum.<verse eID="mark.8.26" />
+        <verse sID="mark.8.27" osisID="mark.8.27" />Et profectus inde Iesus cum discipulis suis venit in castella Caesareae Philippi: et in via interrogabat discipulos suos, dicens eis: Quem me esse dicunt homines?<verse eID="mark.8.27" />
+        <verse sID="mark.8.28" osisID="mark.8.28" />Qui responderunt illi, dicentes: Iohannem Baptistam, alum Heliam, alii autem quasi unum ex prophetis.<verse eID="mark.8.28" />
+        <verse sID="mark.8.29" osisID="mark.8.29" />Ipsos autem interrogavit, dicens: Vos vero quem me dicitis esse? Cui respondens Petrus, ait: Tu es Christus.<verse eID="mark.8.29" />
+        <verse sID="mark.8.30" osisID="mark.8.30" />Et comminatus est ei Iesus, ut nemini dicerent de se.<verse eID="mark.8.30" />
+        <verse sID="mark.8.31" osisID="mark.8.31" />Et coepit docere illos, quoniam oportet filium hominis multa pati, et reprobari a senioribus, et principibus sacerdotum, et ab scribis, et occidi: et post tres dies resurgere.<verse eID="mark.8.31" />
+        <verse sID="mark.8.32" osisID="mark.8.32" />Et palam verbum loquebatur. Quem suscipiens Petrus, coepit rogare, ne cui haec diceret.<verse eID="mark.8.32" />
+        <verse sID="mark.8.33" osisID="mark.8.33" />Et conversus, videns discipulos, comminatus est petro, dicens: Vade post me satana, quoniam non sapis quae Dei sunt, sed quae hominum.<verse eID="mark.8.33" />
+        <verse sID="mark.8.34" osisID="mark.8.34" />Et convocata turba cum discipulis suis, ait: Si quis vult post me venire, abneget se sibi: et tollat crucem suam, et sequatur me.<verse eID="mark.8.34" />
+        <verse sID="mark.8.35" osisID="mark.8.35" />Qui enim voluerit animam suam salvam facere, perdet eam: qui autem perdiderit animam suam propter me et Evangelium, salvam facit illam.<verse eID="mark.8.35" />
+        <verse sID="mark.8.36" osisID="mark.8.36" />Quid enim proderit homini, si lucretur universum orbem: et damnum faciat animae suae?<verse eID="mark.8.36" />
+        <verse sID="mark.8.37" osisID="mark.8.37" />Aut quid dabit homo commutationem animae suae?<verse eID="mark.8.37" />
+        <verse sID="mark.8.38" osisID="mark.8.38" />Qui autem confusus me fuerit, et sermones meos, in generatione hac adultera et peccatrice: et filius hominis confundet illum, cum venerit in gloria patris sui cum sanctis angelis.<verse eID="mark.8.38" />
+        <verse sID="mark.8.39" osisID="mark.8.39" />Et dicebat illis: Amen, amen dico vobis, quoniam sunt hic quidam de hîc stantibus, qui non gustabunt mortem, donec videant regnum Dei venisse in virtute.<verse eID="mark.8.39" />
+      </p>
+      <chapter eID="mark.8" />
+      <chapter sID="mark.9" osisID="mark.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="mark.9.1" osisID="mark.9.1" />Et post dies sex assumpsit Iesus Petrum, et Iacobum, et Iohannem: et duxit illos in montem altissimum secreto solos, et transfiguratus est coram ipsis.<verse eID="mark.9.1" />
+        <verse sID="mark.9.2" osisID="mark.9.2" />Et vestimenta eius facta sunt satis fulgentia velut nix, qualia fullo super terram non potest candida facere.<verse eID="mark.9.2" />
+        <verse sID="mark.9.3" osisID="mark.9.3" />Et apparuit cum illo Moyses, et Helias, fabulantes.<verse eID="mark.9.3" />
+        <verse sID="mark.9.4" osisID="mark.9.4" />Et respondens Petrus ad Iesum, ait: Rabbi, bonum est nos hic esse: itaque si vis, faciamus hîc tria tabernacula, Tibi unum, Moysi unum et Heliae unum:<verse eID="mark.9.4" />
+        <verse sID="mark.9.5" osisID="mark.9.5" />non sciens quid loqueretur: timore enim exterriti erant.<verse eID="mark.9.5" />
+        <verse sID="mark.9.6" osisID="mark.9.6" />Et facta est nubes obumbrans eos: et ecce vox de nube, dicens: Hic est filius meus charissimus: audite illum.<verse eID="mark.9.6" />
+        <verse sID="mark.9.7" osisID="mark.9.7" />Et repente circumspicentes, neminem alium viderunt secum, nisi solum Iesum.<verse eID="mark.9.7" />
+        <verse sID="mark.9.8" osisID="mark.9.8" />Et descendentibus illis de monte, praecepit eis ne cui dicerent quae viderunt: nisi cum Filius hominis a mortuis resurnexerit.<verse eID="mark.9.8" />
+        <verse sID="mark.9.9" osisID="mark.9.9" />Retinuerunt verbum apud se, conquirentes quid esset : Cum a mortuis resurrexisset.<verse eID="mark.9.9" />
+        <verse sID="mark.9.10" osisID="mark.9.10" />Et interrogabant eum, dicentes: Quid utique dicunt Pharisaei et scribae, quia Heliam oportet primum venire?<verse eID="mark.9.10" />
+        <verse sID="mark.9.11" osisID="mark.9.11" />Respondens Iesus, dixit illis: Helias veniens primum, restituet omnia: et quo inodo scriptum est in Filium hominis, ut multa patiatur et contemnatur.<verse eID="mark.9.11" />
+        <verse sID="mark.9.12" osisID="mark.9.12" />Sed dico vobis quia et Helias venit (et fecerunt ei quanta voluerunt) sicut scriptum est de eo.<verse eID="mark.9.12" />
+        <verse sID="mark.9.13" osisID="mark.9.13" />Et cum venisset Iesus ad discipulos suos, vidit turbam multam ad eos, et scribas conquirentes cum illis.<verse eID="mark.9.13" />
+        <verse sID="mark.9.14" osisID="mark.9.14" />Et confestim omnis multitudo videntes Iesum, expaverunt, et gaudentes salutaverunt eum.<verse eID="mark.9.14" />
+        <verse sID="mark.9.15" osisID="mark.9.15" />Et interrogavit illos: Quid inter vos conquiritis?<verse eID="mark.9.15" />
+        <verse sID="mark.9.16" osisID="mark.9.16" />Et respondit illi unus de turba, dicens: Magister, attuli ad te filium meum habentem spiritum immundum mutum:<verse eID="mark.9.16" />
+        <verse sID="mark.9.17" osisID="mark.9.17" />qui ubicunque illum occupaverit, elidit eum, et spumat, et stridet dentibus, et arescit: et dixi discipulis tuis ut eiicerent illum, et non potuerunt.<verse eID="mark.9.17" />
+        <verse sID="mark.9.18" osisID="mark.9.18" />Et respondens Iesus, dixit illis: O generatio incredula, quandiu ero apud vos? quandin vos sufferam? adducite illum huc ad me.<verse eID="mark.9.18" />
+        <verse sID="mark.9.19" osisID="mark.9.19" />Et adduxerunt eum. Cum autem vidisset illum, spiritus confestim conturbavit puerum: et cadens in terram, volutabat spumans.<verse eID="mark.9.19" />
+        <verse sID="mark.9.20" osisID="mark.9.20" />Et interrogavit Iesus patrem eius: Quantum temporis est ex quo hoc factum est illi? Ille autem dixit : Ab infantia:<verse eID="mark.9.20" />
+        <verse sID="mark.9.21" osisID="mark.9.21" />nam et frequenter illum et in ignem, et in aquas misit, ut eum perderet: sed si quid potes, auxiliare nobis, et miserere nostri.<verse eID="mark.9.21" />
+        <verse sID="mark.9.22" osisID="mark.9.22" />Iesus autem dixit illi : Si potes credere, omnia possibilia sunt credenti.<verse eID="mark.9.22" />
+        <verse sID="mark.9.23" osisID="mark.9.23" />Continuo exclamans pater pueri, cum lacrymis dicebat: Credo, Domine: subveni incre dulitati meae.<verse eID="mark.9.23" />
+        <verse sID="mark.9.24" osisID="mark.9.24" />Et cum videret Iesus tutbam concurrentem, comminatus est spiritui immundo, dicens illi: Mute et surde spiritus, ego tibi praecipio, exi ab illo: et ne redieris in illo.<verse eID="mark.9.24" />
+        <verse sID="mark.9.25" osisID="mark.9.25" />Et exclamavit, et dissipavit eum, et exivit de eo; et proiecto illo, factus est puer velut mortuus, ita ut multi dicerent: Quia mortuus est.<verse eID="mark.9.25" />
+        <verse sID="mark.9.26" osisID="mark.9.26" />Iesus autem tenens manum eius, elevavit eum, et surrexit.<verse eID="mark.9.26" />
+        <verse sID="mark.9.27" osisID="mark.9.27" />Et cum introisset domum, interrogabant eum discipuli secreto, dicentes: Quare nos non potuimus illum eiicere?<verse eID="mark.9.27" />
+        <verse sID="mark.9.28" osisID="mark.9.28" />Quibus ipse dixit: Hoc genus in nullo potest exire, nisi in oratione, et ieiunio.<verse eID="mark.9.28" />
+        <verse sID="mark.9.29" osisID="mark.9.29" />Et inde egressi ibant per Galilaeam: nec volebat quemquam scire<verse eID="mark.9.29" />
+        <verse sID="mark.9.30" osisID="mark.9.30" />Docebat autem discipulos suos, et dicebat illis: Quoniam filius hominis tradetur in manus hominum, et occident illum, et post tres dies resurget.<verse eID="mark.9.30" />
+        <verse sID="mark.9.31" osisID="mark.9.31" />Illi autem ignorabant verbum: et timebant interrogare illum.<verse eID="mark.9.31" />
+        <verse sID="mark.9.32" osisID="mark.9.32" />Et venerunt Capharnaum. Qui cum in domo esset, interrogabat eos, dicens: Quid in via tractabatis?<verse eID="mark.9.32" />
+        <verse sID="mark.9.33" osisID="mark.9.33" />Illi autem tacebant: tractaverunt enim ad invicem in via, quisnam esset illorum maior.<verse eID="mark.9.33" />
+        <verse sID="mark.9.34" osisID="mark.9.34" />Et considens vocavit duodecim, et ait illis: Si quis vult primus esse, erit omnium novissimus, et omnium minister.<verse eID="mark.9.34" />
+        <verse sID="mark.9.35" osisID="mark.9.35" />Et assumens puerum, statuit eum in medio eorum: quem cum complexus esset, ait illis:<verse eID="mark.9.35" />
+        <verse sID="mark.9.36" osisID="mark.9.36" />Quisquis ex huiusmodi pueris exceperit in nomine meo, me excipit: et quicunque me excipit, non me excipit, sed eum, qui me misit.<verse eID="mark.9.36" />
+        <verse sID="mark.9.37" osisID="mark.9.37" />Respondit autem Iohannes, et dixit illi: Magister, vidimus quemdam in nomine tuo eiicientem daemonia, qui non sequitur nos, et prohibuimus illum.<verse eID="mark.9.37" />
+        <verse sID="mark.9.38" osisID="mark.9.38" />Ait illis Iesus: Nolite prohibere eos: nemo est enim qui faciat virtutem in nomine meo, et poterit male loqui de me :<verse eID="mark.9.38" />
+        <verse sID="mark.9.39" osisID="mark.9.39" />qui enim non est adversus vos, pro vobis est.<verse eID="mark.9.39" />
+        <verse sID="mark.9.40" osisID="mark.9.40" />Quisquis enim potum dederit ex vobis calicem aquae in nomine meo, quia Christi estis: amen dico vobis, non perdet mercedem suam.<verse eID="mark.9.40" />
+        <verse sID="mark.9.41" osisID="mark.9.41" />Et quisquis scandalizaverit unum ex pusillis his credentibus in me: bonum illi magis si circumdaretur mola asinaria circa collum eius, et in mare mitteretur.<verse eID="mark.9.41" />
+        <verse sID="mark.9.42" osisID="mark.9.42" />Et si scandalizat te manus tua, amputa illam abs te: bonum est tibi debilem introire in vitam, quam duas manus habentem irre in gehennam, ubi est ignis inexstinguibilis:<verse eID="mark.9.42" />
+        <verse sID="mark.9.43" osisID="mark.9.43" />ubi vermis eorum non morietur, et ignis eorum non exstinguetur.<verse eID="mark.9.43" />
+        <verse sID="mark.9.44" osisID="mark.9.44" />Et si pes tuus scandalizat te, amputa illum a te: bonum enim est tibi claudum introire in vitam aeternam, quam duos pedes habentem mitti in gehennam ignis inexstinguibilis:<verse eID="mark.9.44" />
+        <verse sID="mark.9.45" osisID="mark.9.45" />ubi vermis eorum non morietur, et ignis eorum non exstinguetur.<verse eID="mark.9.45" />
+        <verse sID="mark.9.46" osisID="mark.9.46" />Quod si oculus tuus scandalizat te: exime eum a te: bonum enim est tibi luscum introire in regnum Dei, quam duos oculos habentem introire in gehennam:<verse eID="mark.9.46" />
+        <verse sID="mark.9.47" osisID="mark.9.47" />ubi ignis non exstinguetur, et vermis non morietur.<verse eID="mark.9.47" />
+        <verse sID="mark.9.48" osisID="mark.9.48" />Omnis enim victima salietur.<verse eID="mark.9.48" />
+        <verse sID="mark.9.49" osisID="mark.9.49" />Bonum est sal: quod si sal infatuatum fue rit: in quo illum condies? Habete in vobis sal, et pacem habete in vobis.<verse eID="mark.9.49" />
+      </p>
+      <chapter eID="mark.9" />
+      <chapter sID="mark.10" osisID="mark.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="mark.10.1" osisID="mark.10.1" />Et inde exsurgens Iesus venit in fines Iudaeae trans Iordanem: et convenit turba ad eum: et docebat illos iterum, sicut consueverat.<verse eID="mark.10.1" />
+        <verse sID="mark.10.2" osisID="mark.10.2" />Et accedentes quidam Pharisaei, tentantes interrogabant eum, dicentes: Si licet homini dimittere uxorem suam.<verse eID="mark.10.2" />
+        <verse sID="mark.10.3" osisID="mark.10.3" />Respondens autem Iesus, dixit illis: Quid vobis praecepit Moyses?<verse eID="mark.10.3" />
+        <verse sID="mark.10.4" osisID="mark.10.4" />Dixerunt: Permisit nobis libellum repudii dare scriptum, et dimittere.<verse eID="mark.10.4" />
+        <verse sID="mark.10.5" osisID="mark.10.5" />Ipse vero dixit ad illos: Ad duritiam cordis vestri scripsit Moyses praeceptum hoc:<verse eID="mark.10.5" />
+        <verse sID="mark.10.6" osisID="mark.10.6" />ab initio autem creatorae, masculum et feminam fecit eos, et dixit:<verse eID="mark.10.6" />
+        <verse sID="mark.10.7" osisID="mark.10.7" />Propter hoc relinquet homo patrem suum, et matrem suam, et adiungetur uxori suae:<verse eID="mark.10.7" />
+        <verse sID="mark.10.8" osisID="mark.10.8" />et erunt duo in carne una. Itaque iam non sunt duo, sed una caro.<verse eID="mark.10.8" />
+        <verse sID="mark.10.9" osisID="mark.10.9" />Quod ergo Deus iunxit, homo non disiungat.<verse eID="mark.10.9" />
+        <verse sID="mark.10.10" osisID="mark.10.10" />Et interrogaverunt eum discipuli secreto de hoc fermone.<verse eID="mark.10.10" />
+        <verse sID="mark.10.11" osisID="mark.10.11" />Et dixit illis: Quisquis dimiserit uxorem suam, et aliam ducit, adulterium committit super eam.<verse eID="mark.10.11" />
+        <verse sID="mark.10.12" osisID="mark.10.12" />Et mulier, si reliquerit virum, et alii nupserit, moechatur super illum.<verse eID="mark.10.12" />
+        <verse sID="mark.10.13" osisID="mark.10.13" />Et offerebant illi pueros ut tangeret eos. Discipuli autem eius comminabantur eis.<verse eID="mark.10.13" />
+        <verse sID="mark.10.14" osisID="mark.10.14" />Quos cum videret Iesus, indigne tulit, et ait illis: Sinite pueros venire ad me, et nolite prohibere illos: talium est enim regnum Dei.<verse eID="mark.10.14" />
+        <verse sID="mark.10.15" osisID="mark.10.15" />Amen dico vobis: Qui non susceperit regnum Dei sicut infans, non introibit in illud.<verse eID="mark.10.15" />
+        <verse sID="mark.10.16" osisID="mark.10.16" />Et convocans infantes ad se, imponebat manum super illos, et benedicebat eos.<verse eID="mark.10.16" />
+        <verse sID="mark.10.17" osisID="mark.10.17" />Et cum egressi essent, ecce quidam adgeniculans dicebat: Magister done, quid faciam ut vitam aeternam accipiam?<verse eID="mark.10.17" />
+        <verse sID="mark.10.18" osisID="mark.10.18" />Cui Iesus dixit: Quid me dicis bonum? Nemo bonus, nisi solus Deus.<verse eID="mark.10.18" />
+        <verse sID="mark.10.19" osisID="mark.10.19" />Custodi praecepta. Ille dixit: Quae? Et dixik illi Iesus: Non occides, Non adulterabis, Non fornicaberis, Non falsum testimonium dices Non abnegabis, Honora patrem tuum, et matrem tuam.<verse eID="mark.10.19" />
+        <verse sID="mark.10.20" osisID="mark.10.20" />At ille respondens, ait: Magister, haec omnia custodivi a iuventute mea: quid adhuc mihi deest?<verse eID="mark.10.20" />
+        <verse sID="mark.10.21" osisID="mark.10.21" />Iesus autem intuitus eum, dilexit, et dixit illi: Unum tibi deest: vade, et vende quaecunque habes, et da pauperibus, et habebis thesaurum in coelo: et veni, sequere me.<verse eID="mark.10.21" />
+        <verse sID="mark.10.22" osisID="mark.10.22" />Ille autem contristatus est in hoc verbo, et recessit tristis: erat enim habens multas possessiones.<verse eID="mark.10.22" />
+        <verse sID="mark.10.23" osisID="mark.10.23" />Et circumspiciens Iesus, ait discipulis suis: Quam difficile est his qui pecunias habent, introire in regnum Dei!<verse eID="mark.10.23" />
+        <verse sID="mark.10.24" osisID="mark.10.24" />Discipuli autem eius pavebant in verbis istis. Iesus vero respondens illis iterum dicit: Quam difficile est divitem in regnum Dei introire!<verse eID="mark.10.24" />
+        <verse sID="mark.10.25" osisID="mark.10.25" />Facilius est, camelum per foramen acus transire, quam divitem intrare in regnum Dei.<verse eID="mark.10.25" />
+        <verse sID="mark.10.26" osisID="mark.10.26" />Qui magis admirabantur, inter se dicentes: Et quis potest salvus fieri?<verse eID="mark.10.26" />
+        <verse sID="mark.10.27" osisID="mark.10.27" />Et intuens illos Iesus, ait: Hoc apud homines impossibile est, apud Deum autem omnia possibilia sunt.<verse eID="mark.10.27" />
+        <verse sID="mark.10.28" osisID="mark.10.28" />Et coepit Petrus dicere: Ecce nos dimisimus omnia, et secuti sumus te.<verse eID="mark.10.28" />
+        <verse sID="mark.10.29" osisID="mark.10.29" />Respondens autem Iesus, dixit ad illos: Amen dico vobis: Nemo est, qui missum fecerit domum, vel fratres, aut sorores, aut matrem, aut patrem, et filios, aut agros, propter me, et Evagelium,<verse eID="mark.10.29" />
+        <verse sID="mark.10.30" osisID="mark.10.30" />qui non accipiat centies tantum, nunc in hoc saeculo: in futuro autem saeculo vitam aeternam accipit.<verse eID="mark.10.30" />
+        <verse sID="mark.10.31" osisID="mark.10.31" />Multi autem erunt primi novissimi, et novissimi primi.<verse eID="mark.10.31" />
+        <verse sID="mark.10.32" osisID="mark.10.32" />Erant autem ascendentes in viam in Ierosolymis: et praecedebat illos Iesus : et pavebant qui sequebantur eum. Et assumens illos duodecim coepit illis iterum dicere quae sibi ventura essent.<verse eID="mark.10.32" />
+        <verse sID="mark.10.33" osisID="mark.10.33" />Quia ecce ascendimus Ierosolymam, et Filius hominis tradetur principibus sacerdotum, et Scribis, et senioribus, et damnabunt illum morti, et tradent gentibus:<verse eID="mark.10.33" />
+        <verse sID="mark.10.34" osisID="mark.10.34" />et illudent eum, et conspuetur, et slagellabunt eum, et occident: et post tertium diem resurget.<verse eID="mark.10.34" />
+        <verse sID="mark.10.35" osisID="mark.10.35" />Et accesserunt ad eum Iacobus et Iohannes filii Zebedaei, dicentes: Magister, volumus ut quodcunque petierimus, facias nobis.<verse eID="mark.10.35" />
+        <verse sID="mark.10.36" osisID="mark.10.36" />Quibus ipse dixit: Quid vultis ut faciam vobis?<verse eID="mark.10.36" />
+        <verse sID="mark.10.37" osisID="mark.10.37" />Illi autem dixerunt ei: Da nobis ut unus a dextris tuis, et alius a sinistris sedeamus in gloriam tuam.<verse eID="mark.10.37" />
+        <verse sID="mark.10.38" osisID="mark.10.38" />Dixit illis Iesus: Nescitis quid petatis: potestis bibere calicem, quem ego bibiturus sum; aut baptismum baptizari, quem ego baptizari haeo?<verse eID="mark.10.38" />
+        <verse sID="mark.10.39" osisID="mark.10.39" />At illi dixerunt: Possumus. Ait illis Iesus: Calicem quidem, quem ego bibi, bibetis; et baptismum, quem ego baptizor, baptizabimini: vel a sinistris<verse eID="mark.10.39" />
+        <verse sID="mark.10.40" osisID="mark.10.40" />sedere autem a dextris meis non est meum dare vobis, sed quibus paratum est.<verse eID="mark.10.40" />
+        <verse sID="mark.10.41" osisID="mark.10.41" />Hoc audito, caeteri decem coeperunt indigne ferre de Iacobo, et Iohanne.<verse eID="mark.10.41" />
+        <verse sID="mark.10.42" osisID="mark.10.42" />Quos cum advocasset Iesus, ait illis: Scitis quia qui videntur principari gentibus, dominantur eotum: et maiores illorum potestatem habent eorum.<verse eID="mark.10.42" />
+        <verse sID="mark.10.43" osisID="mark.10.43" />In vobis autem non ita est, sed quicunque voluerit in vobis esse maior, erit vester minister:<verse eID="mark.10.43" />
+        <verse sID="mark.10.44" osisID="mark.10.44" />et quicunque voluerit in vobis esse primus, erit omnium servus.<verse eID="mark.10.44" />
+        <verse sID="mark.10.45" osisID="mark.10.45" />Sicut Filius hominis non venit ministrari, sed ministrare, sed dare animam suam redemptionem pro multis.<verse eID="mark.10.45" />
+        <verse sID="mark.10.46" osisID="mark.10.46" />Et venerunt in Iericho, et factum est cum exisset ab Iericho cum multa turba, et ecce quidam caecus filius Timaei Barthimeus, sedebat circa viam mendicans.<verse eID="mark.10.46" />
+        <verse sID="mark.10.47" osisID="mark.10.47" />Qui cum audisset quod Iesus Nazarenus esset qui transibat, coepit clamare, et dicere: Miserere mei, Iesu Fili David.<verse eID="mark.10.47" />
+        <verse sID="mark.10.48" osisID="mark.10.48" />Et comminabantur illi ut taceret. Ille magis magisque clamabat: Miserere mei, Fili David<verse eID="mark.10.48" />
+        <verse sID="mark.10.49" osisID="mark.10.49" />Respiciens vero Iesus iussit illum vocari. Et abierunt vocare illum dicentes: Animaequior esto: surge, vocat te.<verse eID="mark.10.49" />
+        <verse sID="mark.10.50" osisID="mark.10.50" />Ille vero ut audivit, proiecit vestimenta sua; et exiliens, venit ad eum.<verse eID="mark.10.50" />
+        <verse sID="mark.10.51" osisID="mark.10.51" />Cui dixit Iesus: Quid vis ut faciam tibi? Caecus autem dixit: Rabboni, ut videam.<verse eID="mark.10.51" />
+        <verse sID="mark.10.52" osisID="mark.10.52" />Iesus vero dixit ei: Vade, fides tua te salvum fecit. Et confestim vidit, et sequebatur eum in via.<verse eID="mark.10.52" />
+      </p>
+      <chapter eID="mark.10" />
+      <chapter sID="mark.11" osisID="mark.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="mark.11.1" osisID="mark.11.1" />Cum autem appropinquaret Ierosolymam et Bethaniam ad montem Hiveti, misit duos ex discipulis suis,<verse eID="mark.11.1" />
+        <verse sID="mark.11.2" osisID="mark.11.2" />et ait illis: Ite in castellum, quod contra vos est, et retrocuntes statim, invenietis pullum asinae alligatum novellum, super quem nemo sedit: solvite illum, et adducite.<verse eID="mark.11.2" />
+        <verse sID="mark.11.3" osisID="mark.11.3" />Et si quis vobis dixerit: Quid facitis? dicite; Dominus opera eius desiderat: et continuo remittit illum.<verse eID="mark.11.3" />
+        <verse sID="mark.11.4" osisID="mark.11.4" />Et abierunt illi duo, et invenerunt ad ostium foris secus transitus puilum ligatum: et cum vellent illum solvere<verse eID="mark.11.4" />
+        <verse sID="mark.11.5" osisID="mark.11.5" />quidam de circumstantibus dixerunt eis: Ubi ducitis eum?<verse eID="mark.11.5" />
+        <verse sID="mark.11.6" osisID="mark.11.6" />Qui dixerunt secundum verba quae dixertat illis Iesus: at illi remiserunt eos.<verse eID="mark.11.6" />
+        <verse sID="mark.11.7" osisID="mark.11.7" />Et adduxerunt pullum ad Iesum: et imposuerunt vestimenta sua super eum, et sedit supra Iesus.<verse eID="mark.11.7" />
+        <verse sID="mark.11.8" osisID="mark.11.8" />Multi autem vestimenta sua sternebant in via: alii vero ramos caedebant de arboribus, et sternebant in itinere.<verse eID="mark.11.8" />
+        <verse sID="mark.11.9" osisID="mark.11.9" />Et qui praeibant, et qui sequebantur, clamabant : Osanna in amelsis:<verse eID="mark.11.9" />
+        <verse sID="mark.11.10" osisID="mark.11.10" />Benedictus qui venit in nomine Domini: Benedictum quod venit regnum patris nostri David: Osanna in amelsis.<verse eID="mark.11.10" />
+        <verse sID="mark.11.11" osisID="mark.11.11" />Et cum introisset Iesus Ierosolymam in sanctam civitatem, circumspexit omnia: et cum iam vespera hora esset, exiit in Bethania cum duodecim discipulis suis.<verse eID="mark.11.11" />
+        <verse sID="mark.11.12" osisID="mark.11.12" />Et alia die cum exisset a Bethania, esuriit Iesus.<verse eID="mark.11.12" />
+        <verse sID="mark.11.13" osisID="mark.11.13" />Et cum vidisset arborem ficus a longe habentem folia, venit videre si quid esset in eam: et nihil invenit in ea nisi folia tantum: non enim erat tempus ficus.<verse eID="mark.11.13" />
+        <verse sID="mark.11.14" osisID="mark.11.14" />Et ait ad arborem: Iam non amplius quisquam fructum ex te manducet. Et audiebant discipuli eius.<verse eID="mark.11.14" />
+        <verse sID="mark.11.15" osisID="mark.11.15" />Et venerunt in Ierosolymam. Et cum introisset in templum, evertit mensas numberiorum: et coepit eiicere vendentes et ementes, et cathedras vendentium columbas:<verse eID="mark.11.15" />
+        <verse sID="mark.11.16" osisID="mark.11.16" />et non sinebat quemquam vas transferre per templum:<verse eID="mark.11.16" />
+        <verse sID="mark.11.17" osisID="mark.11.17" />et ait illis, dicens: Scriptum est: Domus mea, domus orationis vocabitur omnibus gentibus. Vos autem fecistis illam speluncam latronum.<verse eID="mark.11.17" />
+        <verse sID="mark.11.18" osisID="mark.11.18" />Quo audito, summi sacerdotes et scribae quaerebant quomodo illum perderent: timebant autem, quoniam universa turba admirabantur super doctrinam eius.<verse eID="mark.11.18" />
+        <verse sID="mark.11.19" osisID="mark.11.19" />Et cum vespera facta esset, egrediebantur de civitate.<verse eID="mark.11.19" />
+        <verse sID="mark.11.20" osisID="mark.11.20" />Et cum transirent, viderunt arborem fici aridam factam a radicibus.<verse eID="mark.11.20" />
+        <verse sID="mark.11.21" osisID="mark.11.21" />Et recordatus Petrus, ait illi: Rabbi, ecce arbor fici, cui maledixisti, aruit.<verse eID="mark.11.21" />
+        <verse sID="mark.11.22" osisID="mark.11.22" />Et respondens Iesus ait illis : Habete fiduciam:<verse eID="mark.11.22" />
+        <verse sID="mark.11.23" osisID="mark.11.23" />amen dico vobis, quoniam si habueritis fidem sicut granum sinapis, dicetis huic monti: Tolle te, et mitte te in mare: et non haesitaveritis corde, sed credideritis futurum, fiet quodcunque dixeritis.<verse eID="mark.11.23" />
+        <verse sID="mark.11.24" osisID="mark.11.24" />Propterea dico vobis, omnia quaecunque oratis et petitis, credite quoniam accipietis, et erit vobis.<verse eID="mark.11.24" />
+        <verse sID="mark.11.25" osisID="mark.11.25" />Et cum statis ad orationem, remittite si quid habetis adversus aliquem: ut et Pater vester qui in coelis est, remittat vobis delicta vestra.<verse eID="mark.11.25" />
+        <verse sID="mark.11.26" osisID="mark.11.26" />Quod si vos non remiseritis: nec Pater vester, qui in coelis est, remittet vobis peccata vestra.<verse eID="mark.11.26" />
+        <verse sID="mark.11.27" osisID="mark.11.27" />Et venit iterum Ierosolymam. Et cum deambulabat in templo, venerunt ad illum principes sacerdotum, et scribae, et seniores:<verse eID="mark.11.27" />
+        <verse sID="mark.11.28" osisID="mark.11.28" />et dixerunt ei: In qua potestate haec facis? et quis tibi dedit hanc potestatem ut ista facias?<verse eID="mark.11.28" />
+        <verse sID="mark.11.29" osisID="mark.11.29" />Iesus vero respondit eis, dicens: Interrogo vos et ego unum sermonem, respondete mihi: et ego vobis dicam in qua potestate haec faciam.<verse eID="mark.11.29" />
+        <verse sID="mark.11.30" osisID="mark.11.30" />Baptistum Iohannis, de coelo fuit, an ex hominibus? Respondete mihi.<verse eID="mark.11.30" />
+        <verse sID="mark.11.31" osisID="mark.11.31" />Illi vero cogitare coeperunt quid ei dicerent: Si dixerimus, De coelo, dicet nobis: Quare non credidistis ei?<verse eID="mark.11.31" />
+        <verse sID="mark.11.32" osisID="mark.11.32" />Si autem dicimus, Ex hominibus, timemus populum: omnes enim sciebant Iohannem prophetam fuisse.<verse eID="mark.11.32" />
+        <verse sID="mark.11.33" osisID="mark.11.33" />Et respondentes dixerunt ad Iesum : Nescimus. Ait illis et Iesus: Nec ego vobis dico in qua potestate haec facio.<verse eID="mark.11.33" />
+      </p>
+      <chapter eID="mark.11" />
+      <chapter sID="mark.12" osisID="mark.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="mark.12.1" osisID="mark.12.1" />Et coepit Iesus in parnbolis loqui, dicens: L Homo quidam plantavit. vineam, et circumdedit sepem, et fodit lacum, et aedificavit turrem, et locavit eam colonis, et peregre profectus est.<verse eID="mark.12.1" />
+        <verse sID="mark.12.2" osisID="mark.12.2" />Et misit in tempore servum ad colonos, ut darent illi ex vinea fructum.<verse eID="mark.12.2" />
+        <verse sID="mark.12.3" osisID="mark.12.3" />Quem illi apprehendentes ceciderunt, et dimiserunt vacuum.<verse eID="mark.12.3" />
+        <verse sID="mark.12.4" osisID="mark.12.4" />Uterum misit ad illos alterum servum: multaverunt, et contumeliis afflixerunt.<verse eID="mark.12.4" />
+        <verse sID="mark.12.5" osisID="mark.12.5" />Et alium misit, et ipsum ceciderunt: et alios plures ex eis: quosdam ceciderunt, quofdam vero occiderunt.<verse eID="mark.12.5" />
+        <verse sID="mark.12.6" osisID="mark.12.6" />Novissime autem filium suum misit, quem habebat unicum directissimum, dicens: Reverebuntur filium meum.<verse eID="mark.12.6" />
+        <verse sID="mark.12.7" osisID="mark.12.7" />Coloni autem illi, cum vidissent eum, dixerunt ad alterutrum: Hic est haeres: venite, occidamus eum: et nostra erit haereditas.<verse eID="mark.12.7" />
+        <verse sID="mark.12.8" osisID="mark.12.8" />Et apprehensum occiderunt: et eiecerunt illum extra vineam.<verse eID="mark.12.8" />
+        <verse sID="mark.12.9" osisID="mark.12.9" />Quid ergo faciet Dominus vineae? Veniet, et perdet colonos illos: et dabit vineam aliis colonis.<verse eID="mark.12.9" />
+        <verse sID="mark.12.10" osisID="mark.12.10" />Nec scripturam istam legistis: Lapidem quem reprobaverunt aedificantes, hic factus est in caput anguli:<verse eID="mark.12.10" />
+        <verse sID="mark.12.11" osisID="mark.12.11" />A Domino factus est hic, et est mirabilis in oculis nostris?<verse eID="mark.12.11" />
+        <verse sID="mark.12.12" osisID="mark.12.12" />Et quaerebant eum tenere: et timuerunt turbam: cognoverunt enim quoniam ad ipsos dixerat parabolam. Et relicto eo abierunt.<verse eID="mark.12.12" />
+        <verse sID="mark.12.13" osisID="mark.12.13" />Et miserunt quosdam ex Pharisaeis, et ex Herodianis, ut eum tenerent in verbo.<verse eID="mark.12.13" />
+        <verse sID="mark.12.14" osisID="mark.12.14" />Et venientes Pharisaei, interrogabant eum, dicentes: Magister, scimus quia verax es, et non curas quemquam: nec enim aspicis hominum personas, sed in veritate viam Dei doces: dic ergo nobis, si licet tributum dari Caesari, aut non.<verse eID="mark.12.14" />
+        <verse sID="mark.12.15" osisID="mark.12.15" />Iesus vero videns simulationem illorum, ait illis: Quid me tentatis? afferte mihi denarium ut videam.<verse eID="mark.12.15" />
+        <verse sID="mark.12.16" osisID="mark.12.16" />At illi attulerunt denarium. Et ait illis: Cuius est imago, et superscriptio? Illi vero dixerunt: Caesaris.<verse eID="mark.12.16" />
+        <verse sID="mark.12.17" osisID="mark.12.17" />Ait illis et Iesus: Reddite ergo quae Caesaris sunt, Caesari: et quae Dei sunt, Deo. Et admirabantur in illo.<verse eID="mark.12.17" />
+        <verse sID="mark.12.18" osisID="mark.12.18" />Et ecce Sadducaei venerunt ad illum, qui dicunt resurrectionem non esse : et interrogaverunt eum dicentes:<verse eID="mark.12.18" />
+        <verse sID="mark.12.19" osisID="mark.12.19" />Magister, Moyses scripsit nobis, ut si cuius frater defunctus fuerit, et habuerit uxorem, et filium non reliquerit, accipiat frater eius uxorem ipsius, et suscitet semen fratri suo.<verse eID="mark.12.19" />
+        <verse sID="mark.12.20" osisID="mark.12.20" />Septem igitur fratres fuerunt apud nos: et primus accepit uxorem, et obiit non relicto semine.<verse eID="mark.12.20" />
+        <verse sID="mark.12.21" osisID="mark.12.21" />Et secundus accepit eam, ad suscitandum semen fratris sui: et ipse obiit non relicto semine. Et tertius similiter.<verse eID="mark.12.21" />
+        <verse sID="mark.12.22" osisID="mark.12.22" />Deinde omnes septem: et non reliquerunt semen. Et mulier relicta est sine filiis.<verse eID="mark.12.22" />
+        <verse sID="mark.12.23" osisID="mark.12.23" />Cui enim manebit uxor munda? septem enim illam habuerunt, et ipsa mortua est: in resurrectione autem cuius erit?<verse eID="mark.12.23" />
+        <verse sID="mark.12.24" osisID="mark.12.24" />Ad quos Iesus respondens, dixit: Erratis non intelligentes Scripturas, neque virtutem Dei.<verse eID="mark.12.24" />
+        <verse sID="mark.12.25" osisID="mark.12.25" />Cum enim a mortuis resurnexerint, neque nubent, neque nubentur, sed sunt sicut angeli in coelis.<verse eID="mark.12.25" />
+        <verse sID="mark.12.26" osisID="mark.12.26" />De mortuis autem quod resurgant, non legistis in libro Moysi, in rubo quomodo dicit illi Dominus, inquiens: Ego sum Deus Abraham, et Deus Isaac, et Deus Iacob?<verse eID="mark.12.26" />
+        <verse sID="mark.12.27" osisID="mark.12.27" />Non est Deus mortuorum, sed vivorum Vos vero multum erratis.<verse eID="mark.12.27" />
+        <verse sID="mark.12.28" osisID="mark.12.28" />Et accedens unus de scribis, qui audierant illos conquirentes, videns quod bene illis respondit interrogavit illum, dicens: Magister, quod espraeceptum primum?<verse eID="mark.12.28" />
+        <verse sID="mark.12.29" osisID="mark.12.29" />Respondit illi Iesus, dicens: Primum mandatum est: Audi Israël, Dominus Deus tuus, Dominus unus est:<verse eID="mark.12.29" />
+        <verse sID="mark.12.30" osisID="mark.12.30" />et diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ea tota virtute tua. Hoc est primum mandatum.<verse eID="mark.12.30" />
+        <verse sID="mark.12.31" osisID="mark.12.31" />Et secundum mandatum simile est huic: Diliges proximum tuum sicut teipsum. Maius his praeceptis alium non est.<verse eID="mark.12.31" />
+        <verse sID="mark.12.32" osisID="mark.12.32" />Et ait illi Scriba: Bene dixisti Magister in veritate, unus est enim Deus, et non est alius praeter eum.<verse eID="mark.12.32" />
+        <verse sID="mark.12.33" osisID="mark.12.33" />Et diligere eum ex toto corde, et ex tota anima, et ex tota virtute: et diligere proximum tanquam seipsum, maius est omnibus holocaustomatibus, et sacrificeis.<verse eID="mark.12.33" />
+        <verse sID="mark.12.34" osisID="mark.12.34" />Et videns Iesus quia sapienter respondit, ait illi: Non es longe a regno Dei. Et nemo amplius audebat interrogare eum.<verse eID="mark.12.34" />
+        <verse sID="mark.12.35" osisID="mark.12.35" />Et respondens Iesus, docens in templo ait: Quomodo dicunt scribae quia Christus filius est David?<verse eID="mark.12.35" />
+        <verse sID="mark.12.36" osisID="mark.12.36" />Ipse autem David dicit in Spiritu sancto: Dixit Dominus Domino meo, sede a dextris meis, donec ponam inimicos tuos sub scabellum pedum tuorum.<verse eID="mark.12.36" />
+        <verse sID="mark.12.37" osisID="mark.12.37" />Si David appellat illum Dominum suum unde est filius eius? Multa turba audiebant illum libenter.<verse eID="mark.12.37" />
+        <verse sID="mark.12.38" osisID="mark.12.38" />Ipse autem docebat illos, dicens: Videte ab Scribis, qui ambulant in stolis, et volunt salutari in foro,<verse eID="mark.12.38" />
+        <verse sID="mark.12.39" osisID="mark.12.39" />et primis cathedris sedere in synagogis, et primos accubitus habere in coenis:<verse eID="mark.12.39" />
+        <verse sID="mark.12.40" osisID="mark.12.40" />qui devorant domos viduarum et orphanorum, oratione prolixa orantes, et haec in oratione faciunt: hi accipiunt prolixiorem damnationem.<verse eID="mark.12.40" />
+        <verse sID="mark.12.41" osisID="mark.12.41" />Et sedens Iesus contra gazophylacium, vidit quanta turba mittebant in gazophylicio, et divites quanta mittebant.<verse eID="mark.12.41" />
+        <verse sID="mark.12.42" osisID="mark.12.42" />Cum venisset autem quaedam vidua, misit aera duo, quod est quadrans<verse eID="mark.12.42" />
+        <verse sID="mark.12.43" osisID="mark.12.43" />et convocans discipulos suos, ait illis: Amen dico vobis, quoniam vidua haec paupera plus omnibus misit in gazophylacium.<verse eID="mark.12.43" />
+        <verse sID="mark.12.44" osisID="mark.12.44" />Unusquisque enim ex eo, quod abundavit illi, misit : haec vero de penuria sua omnem victum suum quem habuit, misit.<verse eID="mark.12.44" />
+      </p>
+      <chapter eID="mark.12" />
+      <chapter sID="mark.13" osisID="mark.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="mark.13.1" osisID="mark.13.1" /> Et cum egrederetur de templo, ait illi unus ex discipulis suis: Magister, ecce quales lapi des, et qualia aedificia templi.<verse eID="mark.13.1" />
+        <verse sID="mark.13.2" osisID="mark.13.2" />Ad quem respondens Iesus, ait: Nonne videtis haec omnia magna aedificia? Amen dico vobis quod non relinquetur in isto templo lapis sup lapidem, qui non destruatur: et in triduo resuscitabo illud sine manibus.<verse eID="mark.13.2" />
+        <verse sID="mark.13.3" osisID="mark.13.3" />Et factum est, cum sederet in Montem oliveti contra templum, interrogaverunt eum Petrus et Iacobus, et Iohannes, et Andreas, dicentes :<verse eID="mark.13.3" />
+        <verse sID="mark.13.4" osisID="mark.13.4" />Dic nobis, quando ista fient? et quod signum erit, quando omnia incipient haec consummari?<verse eID="mark.13.4" />
+        <verse sID="mark.13.5" osisID="mark.13.5" />Respondens Iesus coepit dicere ad illos Videte ne quis vos seducat:<verse eID="mark.13.5" />
+        <verse sID="mark.13.6" osisID="mark.13.6" />multi enim venient in nomine meo dicentes: Ego sum Christus: et multos seducunt.<verse eID="mark.13.6" />
+        <verse sID="mark.13.7" osisID="mark.13.7" />Cum autem audieritis bella, et opiniones bellorum, nolite timere: oportet enim fieri: sed nondum finis est.<verse eID="mark.13.7" />
+        <verse sID="mark.13.8" osisID="mark.13.8" />Exsurget enim gens contra gentem, et regnum super regnum, et erunt terraemotus per singula loca, et Iames.<verse eID="mark.13.8" />
+        <verse sID="mark.13.9" osisID="mark.13.9" />Videte autem vosmetipsos. Tradent enim vos in conciliis, et in synagogis vapulabitis, et ante praesides et reges stabitis propter me, in testimonium illis,<verse eID="mark.13.9" />
+        <verse sID="mark.13.10" osisID="mark.13.10" />et gentibus. Primum autem oportet hoc Evangelium praedicare.<verse eID="mark.13.10" />
+        <verse sID="mark.13.11" osisID="mark.13.11" />Et cum perduxerint vos tradentes, nolite cogitare quid loquamini: sed quod datum vobis fuerit in illa hora, ipsum loquimini: non enim vos estis qui loquimini, sed Spiritus sanctus.<verse eID="mark.13.11" />
+        <verse sID="mark.13.12" osisID="mark.13.12" />Et tradet frater fratrem in mortem, pater filium: et insurgent filii in parentes, et morte illos aff cient.<verse eID="mark.13.12" />
+        <verse sID="mark.13.13" osisID="mark.13.13" />Et eritis odio omnibus hominibus propter nomen meum. Qui autem toleraverit usque ad finem, hic salvus erit.<verse eID="mark.13.13" />
+        <verse sID="mark.13.14" osisID="mark.13.14" />Cum autem videritis abominationem desolationis, quod dictum est per Danielem prophetam, stare ubi non oportet: qui legit, intelligat: tunc qui in Iudaea sunt, fugiant in in montibus:<verse eID="mark.13.14" />
+        <verse sID="mark.13.15" osisID="mark.13.15" />qui in superioribus, non descendat ut tollat quicquam de domo sua:<verse eID="mark.13.15" />
+        <verse sID="mark.13.16" osisID="mark.13.16" />et qui in agro erit. non revertatur retro tollere vestimentum suum.<verse eID="mark.13.16" />
+        <verse sID="mark.13.17" osisID="mark.13.17" />Vae autem praegnantibus, et nutrientibus in illis diebus.<verse eID="mark.13.17" />
+        <verse sID="mark.13.18" osisID="mark.13.18" />Orate ergo ut non hieme fiant.<verse eID="mark.13.18" />
+        <verse sID="mark.13.19" osisID="mark.13.19" />Erunt enim dies illi tribulationis et pressurae, quales non fuerunt ab initio creaturae usque modo. neque erunt post hoc.<verse eID="mark.13.19" />
+        <verse sID="mark.13.20" osisID="mark.13.20" />Et nisi breviasset Deus dies illos, non esset salva omnis caro: sed propter electos, quos elegit, breviavit dies.<verse eID="mark.13.20" />
+        <verse sID="mark.13.21" osisID="mark.13.21" />Tunc ergo si quis vobis dixerit: Ecce hîc Christus, vel ecce illic, nolite credere.<verse eID="mark.13.21" />
+        <verse sID="mark.13.22" osisID="mark.13.22" />Exsurgent enimII pseudochristi, et psudoprophetae, et dabunt signa et prodigia ad seducendum, si fieri potest, etiam electos.<verse eID="mark.13.22" />
+        <verse sID="mark.13.23" osisID="mark.13.23" />Ecce praedixi vobis omnia.<verse eID="mark.13.23" />
+        <verse sID="mark.13.24" osisID="mark.13.24" />Sed in illis diebus, post tribulationem illam, sol obscurabitur, et luna non dabit lumen suum:<verse eID="mark.13.24" />
+        <verse sID="mark.13.25" osisID="mark.13.25" />et stellae, quae sunt in coelo, erunt cadentes, et virtutes coelorum movebuntur.<verse eID="mark.13.25" />
+        <verse sID="mark.13.26" osisID="mark.13.26" />Et tunc videbunt filium hominis venientem in nubibus coeli cum virtute multa, et gloria.<verse eID="mark.13.26" />
+        <verse sID="mark.13.27" osisID="mark.13.27" />Et tunc mittet angelos suos, et congregabit electos suos a quatuor ventis, ab ultimo terrae usque ad summum coelorum.<verse eID="mark.13.27" />
+        <verse sID="mark.13.28" osisID="mark.13.28" />A fici autem arbore discite parabolam. Cum iam ramus eius tener factus fuerit, et prodeunt folia, cognoscitis quod in proximo sit aestas:<verse eID="mark.13.28" />
+        <verse sID="mark.13.29" osisID="mark.13.29" />sic et vos cum videritis haec omnia fieri, scitote quoniam in proximo est in ianuis.<verse eID="mark.13.29" />
+        <verse sID="mark.13.30" osisID="mark.13.30" />Amen dico vobis, quoniam non transiet generatio ista, donec fiant omnia.<verse eID="mark.13.30" />
+        <verse sID="mark.13.31" osisID="mark.13.31" />Coelum et terra transibunt, verba autem mea non transibunt.<verse eID="mark.13.31" />
+        <verse sID="mark.13.32" osisID="mark.13.32" />De die autem illa vel hora nemo scit, nec angeli in coelo, neque Filius, nisi solus Pater.<verse eID="mark.13.32" />
+        <verse sID="mark.13.33" osisID="mark.13.33" />Videte itaque, et vigilate: quia nescitis tempus.<verse eID="mark.13.33" />
+        <verse sID="mark.13.34" osisID="mark.13.34" />Sicut enim homo profectus peregre linquit domum suam, et dans servis suis potestatem unicuique operis sui faciundi, et ianitori praecepit ut vigilet:<verse eID="mark.13.34" />
+        <verse sID="mark.13.35" osisID="mark.13.35" />sic ergo vigilate, (nescitis enim quando veniat dominus domus: sero, an media nocte, an galli cantu, an mane<verse eID="mark.13.35" />
+        <verse sID="mark.13.36" osisID="mark.13.36" />ne cum venerit derepente, inveniat vos dormientes : Ecce dixi vobis.<verse eID="mark.13.36" />
+        <verse sID="mark.13.37" osisID="mark.13.37" />Quod autem vobis dico, omnibus dico.<verse eID="mark.13.37" />
+      </p>
+      <chapter eID="mark.13" />
+      <chapter sID="mark.14" osisID="mark.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="mark.14.1" osisID="mark.14.1" />Erat autem futurum Pascha et Azyma post biduum: et quaerebant summi sacerdotes et scribae, quomodo eum tenerent dolo, et occiderent eum.<verse eID="mark.14.1" />
+        <verse sID="mark.14.2" osisID="mark.14.2" />Dicebant enim: Ne, cum venerit turba in diem festum, tumultus oriatur in populum.<verse eID="mark.14.2" />
+        <verse sID="mark.14.3" osisID="mark.14.3" />Et cum esset Bethania Iesus in domum Simonis leprosi: discumbente illo, venit mulier habens ampullam unguenti nardi spicati pretiosi, et confringens, fudit super caput eius.<verse eID="mark.14.3" />
+        <verse sID="mark.14.4" osisID="mark.14.4" />Quo viso, quidam indigne tulerunt, dicentes: Ut quid haec perditio gratuita facta est?<verse eID="mark.14.4" />
+        <verse sID="mark.14.5" osisID="mark.14.5" />Hoc enim poterat venundari denariis trecentis, et dari pauperibus. Et fremebant in eam.<verse eID="mark.14.5" />
+        <verse sID="mark.14.6" osisID="mark.14.6" />Iesus vero ait illis: Sinite illam, ut quid molesti estis? Bonum enim opus operata est in me:<verse eID="mark.14.6" />
+        <verse sID="mark.14.7" osisID="mark.14.7" />semper enim pauperes habetis vobiscum; et cum vultis, potestis illis benefacere: me autem non semper habebitis.<verse eID="mark.14.7" />
+        <verse sID="mark.14.8" osisID="mark.14.8" />Caeterum quod habuit haec, fecit: praeoccupans unguento ungere corpus meum in sepulturam.<verse eID="mark.14.8" />
+        <verse sID="mark.14.9" osisID="mark.14.9" />Amen dico vobis: Quoniam ubicunque praedicatum fuerit hoc Evangelium, in totum orbem dicetur, et quod haec fecit, narrabitur in memoriam eius.<verse eID="mark.14.9" />
+        <verse sID="mark.14.10" osisID="mark.14.10" />Et Iudas Scariotha unus de duodecim, abiit ad principes sacerdotum, ut proderet eum.<verse eID="mark.14.10" />
+        <verse sID="mark.14.11" osisID="mark.14.11" />At illi gavisi sunt: et pecuniam promiserunt se daturos ei. Et quaerebat quomodo illum opportune traderet.<verse eID="mark.14.11" />
+        <verse sID="mark.14.12" osisID="mark.14.12" />Factum est autem, cum advenisset prima dies Azymorum quando Pascha immolabant, dicunt ei discipuli: Quo vis eamus, et paremus tibi ut manduces Pascha?<verse eID="mark.14.12" />
+        <verse sID="mark.14.13" osisID="mark.14.13" />Et misit duos ex discipulis suis, et ait illis: Ite in civitatem: et occurret vobis homo portans lagenam aquae, sequimini eum:<verse eID="mark.14.13" />
+        <verse sID="mark.14.14" osisID="mark.14.14" />et quocunque introierit, dicite domino domus: Magister noster dicit: Ubi est refectio, ubi Pascha cum discipulis meis manducem?<verse eID="mark.14.14" />
+        <verse sID="mark.14.15" osisID="mark.14.15" />Et ipse vobis demonstrabit coenaculum stratum, paratum: illic parabitis nobis.<verse eID="mark.14.15" />
+        <verse sID="mark.14.16" osisID="mark.14.16" />Et abierunt discipuli eius, et venerunt in civitatem: et fecerunt sicut dixerat illis, et paraverunt Pascha.<verse eID="mark.14.16" />
+        <verse sID="mark.14.17" osisID="mark.14.17" />Vespere autem facto, venit Iesus cum duodecim.<verse eID="mark.14.17" />
+        <verse sID="mark.14.18" osisID="mark.14.18" />Et discumbentibus illis, et manducantibus dixit: Amen dico v obis, quod unus ex vobis tradet me, qui manducat mecum.<verse eID="mark.14.18" />
+        <verse sID="mark.14.19" osisID="mark.14.19" />Illi autem coeperunt contristari, et dicere: Nunquid ego, aut alius? hoc singuli coeperunt dicere.<verse eID="mark.14.19" />
+        <verse sID="mark.14.20" osisID="mark.14.20" />Quibus ipse ait: Unus de duodecim, qui intingit manum in voletario, ipse me tradet.<verse eID="mark.14.20" />
+        <verse sID="mark.14.21" osisID="mark.14.21" />Et Filius quidem hominis tradetur, sicut scriptum est de illo: vae autem homini illi, per quem Filius hominis tradetur: bonum illi, si non esset natus homo ille.<verse eID="mark.14.21" />
+        <verse sID="mark.14.22" osisID="mark.14.22" />Et manducantibus illis, accepit Iesus panem: et benedicens fregit, et dedit illis, et dixit: Accipite, hoc est enim corpus meum.<verse eID="mark.14.22" />
+        <verse sID="mark.14.23" osisID="mark.14.23" />Et accepto calice, benedixit, et dedit eis; et biberunt ex eo omnes.<verse eID="mark.14.23" />
+        <verse sID="mark.14.24" osisID="mark.14.24" />Et ait illis: Hic est sanguis meus novi testamenti, qui pro multis effundetur.<verse eID="mark.14.24" />
+        <verse sID="mark.14.25" osisID="mark.14.25" />Amen dico vobis, non bibam de generatione vitis huius, usque in diem illum, cum novum ex illo bibam in regno Dei.<verse eID="mark.14.25" />
+        <verse sID="mark.14.26" osisID="mark.14.26" />Et hymno dicto exierunt in Montem olivieti.<verse eID="mark.14.26" />
+        <verse sID="mark.14.27" osisID="mark.14.27" />Tunc ait illis Iesus: Omnes vos scandalum patiemini in me in nocte ista: quia scriptum est: Percutiam pastorem, et dispergentur oves gregis.<verse eID="mark.14.27" />
+        <verse sID="mark.14.28" osisID="mark.14.28" />Sed postquam resurrexero, praecedam vos in Galilaeam.<verse eID="mark.14.28" />
+        <verse sID="mark.14.29" osisID="mark.14.29" />Petrus vero respondit illi, et dixit: Et si omnes scandalizati fuerint, sed ego non.<verse eID="mark.14.29" />
+        <verse sID="mark.14.30" osisID="mark.14.30" />Cui Iesus dixit: Amen dico tibi, quod tu hodie in nocte hac, priusquam gallus cantet, ter me negabis.<verse eID="mark.14.30" />
+        <verse sID="mark.14.31" osisID="mark.14.31" />At ille amplius loquebatur, multa dicens : Videbis quod si oportuerit me commori simul tecum, non te abnegabo. Similiter etiam omnes dixerunt.<verse eID="mark.14.31" />
+        <verse sID="mark.14.32" osisID="mark.14.32" />Et venerunt in praedium, cui nomen erat Gessamani. Et ait discipulis suis : Sedete hîc donec orem.<verse eID="mark.14.32" />
+        <verse sID="mark.14.33" osisID="mark.14.33" />Et assumpsit Petrum, et Iacobum, et Iohannem secum: et coepit paveri, et taediari.<verse eID="mark.14.33" />
+        <verse sID="mark.14.34" osisID="mark.14.34" />Et ait illis: Tristis est anima mea usque ad mortem: sustinete hîc, et vigilate.<verse eID="mark.14.34" />
+        <verse sID="mark.14.35" osisID="mark.14.35" />Et cum praecessisset pusillum, procidit in faciem: et orabat, ut si fieri potest, pertransiret illa hora,<verse eID="mark.14.35" />
+        <verse sID="mark.14.36" osisID="mark.14.36" />dicens: Abba pater, omnia tibi licent, transfer a me hunc calicem, sed non sicut ego volo, sed sicut tu vis pater.<verse eID="mark.14.36" />
+        <verse sID="mark.14.37" osisID="mark.14.37" />Et venit ad discipulos suos, et invenit eos dormientes. Et ait petro: Simon dormis? non valuisti una hora vigilare?<verse eID="mark.14.37" />
+        <verse sID="mark.14.38" osisID="mark.14.38" />Surgite, et orate ut tranbeat a vobis tentatio. Spiritus quidem promptus est, caro autem infirma.<verse eID="mark.14.38" />
+        <verse sID="mark.14.39" osisID="mark.14.39" />Et iterum abiit orare.<verse eID="mark.14.39" />
+        <verse sID="mark.14.40" osisID="mark.14.40" />Et veniens, invenit illos dormientes, (erant enim oculi eorum gravati) et ignorabant quid responderent ei.<verse eID="mark.14.40" />
+        <verse sID="mark.14.41" osisID="mark.14.41" />Et venit tertio, et dixit illis: Dormite iam, et requiescite. Adest enim consummatio, et hora: ecce tradetur Filius hominis in manibus peccatorum.<verse eID="mark.14.41" />
+        <verse sID="mark.14.42" osisID="mark.14.42" />Et nunc surgite, eamus: iam enim proximat traditor meus.<verse eID="mark.14.42" />
+        <verse sID="mark.14.43" osisID="mark.14.43" />Adhuc eo loquente, venit Iudas Scariotha unus de duodecim, et cum illo turba multa, cum gladiis et fustibus, a summis sacerdotibus, et senioribus, et scribis missi.<verse eID="mark.14.43" />
+        <verse sID="mark.14.44" osisID="mark.14.44" />Dedit autem signum qui tradidit eum, dicens: Quem osculatus fuero, ipse est, tenere eum, et ducite diligenter.<verse eID="mark.14.44" />
+        <verse sID="mark.14.45" osisID="mark.14.45" />Et cum accessisset, ait illi : Ave Rabbi: et osculatus est illum.<verse eID="mark.14.45" />
+        <verse sID="mark.14.46" osisID="mark.14.46" />Illi vero qui acceperant signum, iniecerunt manus in illum, et tenuerunt eum.<verse eID="mark.14.46" />
+        <verse sID="mark.14.47" osisID="mark.14.47" />Et unus de circumstantibus exemit gladium suum, et percussit servum principis sacerdotum: et amputavit auriculam eius.<verse eID="mark.14.47" />
+        <verse sID="mark.14.48" osisID="mark.14.48" />Et respondens, ait illis Iesus: Tanquam ad latronem existis cum gladiis et fustibus comprehendere me?<verse eID="mark.14.48" />
+        <verse sID="mark.14.49" osisID="mark.14.49" />quotidie eram apud vos in templo docens, et non tenuistis me. Sed ut compleantur Scripturae.<verse eID="mark.14.49" />
+        <verse sID="mark.14.50" osisID="mark.14.50" />Tunc discipuli eius relinquentes eum, omnes fugerunt.<verse eID="mark.14.50" />
+        <verse sID="mark.14.51" osisID="mark.14.51" />Adolescens autem quidam sequebatur eum a longe amictus sindonem: et tenuerunt eum.<verse eID="mark.14.51" />
+        <verse sID="mark.14.52" osisID="mark.14.52" />At ille relicta sindone, fugit nudus.<verse eID="mark.14.52" />
+        <verse sID="mark.14.53" osisID="mark.14.53" />Et adduxerunt Iesum ad principem sacerdotum: et convenerunt omnes principes sacerdotum, et scribae, et seniores.<verse eID="mark.14.53" />
+        <verse sID="mark.14.54" osisID="mark.14.54" />Petrus autem a longe sequebatur, donec venit intus in atrium summi sacerdotis: sedens cum ministris, calefaciebat se ad ignem.<verse eID="mark.14.54" />
+        <verse sID="mark.14.55" osisID="mark.14.55" />Principes autem sacerdotum, et omne concilium, quaerebant adversus Iesum testimonium. ut morti eum damnarent, et non inveniebant.<verse eID="mark.14.55" />
+        <verse sID="mark.14.56" osisID="mark.14.56" />Multi autem testimonium falsum dicebant adversus eum: nec erant convenientia testimonia.<verse eID="mark.14.56" />
+        <verse sID="mark.14.57" osisID="mark.14.57" />Alii autem exsurgentes falsi testes, dicebant adversus eum:<verse eID="mark.14.57" />
+        <verse sID="mark.14.58" osisID="mark.14.58" />Hic dixit: Ego destruam templum hoc manu factum, et post triduum suscitabo illud non manu factum.<verse eID="mark.14.58" />
+        <verse sID="mark.14.59" osisID="mark.14.59" />Et non erat aequale testimonium illorum.<verse eID="mark.14.59" />
+        <verse sID="mark.14.60" osisID="mark.14.60" />Tunc exsurgens princeps sacerdotum in medio, coepit interrogare Iesum, dicens: Quare nihil respondes quicquam adversus accusationes eorum:<verse eID="mark.14.60" />
+        <verse sID="mark.14.61" osisID="mark.14.61" />Ille autem tacebat, et nihil respondit. Ad quem iterum ait: Tu es Christus filius Benedicti?<verse eID="mark.14.61" />
+        <verse sID="mark.14.62" osisID="mark.14.62" />Iesus vero ait illi: Ego sum: et videbitis Filium hominis sedentem ad dexteram virtutis, et venientem cum nubibus coeli.<verse eID="mark.14.62" />
+        <verse sID="mark.14.63" osisID="mark.14.63" />Ad haec summus sacerdos scidit vestimenta sua, et ait: Quid amplius quaeritis operam testium?<verse eID="mark.14.63" />
+        <verse sID="mark.14.64" osisID="mark.14.64" />Audistis blasphemiam: quid vobis videtur? Omnes autem iudicaverunt eum esse reum mortis.<verse eID="mark.14.64" />
+        <verse sID="mark.14.65" osisID="mark.14.65" />Et coeperunt quidam irridere eum, et conspuerunt in illum; et velantes faciem eius, colaphizabant eum, et dicebant ei ministri: Prophetiza nobis: et alapis eum caedebant.<verse eID="mark.14.65" />
+        <verse sID="mark.14.66" osisID="mark.14.66" />Petrus autem cum esset in atrium, venit ad illum una ex ancillis summi sacerdotis: aspi¬<verse eID="mark.14.66" />
+        <verse sID="mark.14.67" osisID="mark.14.67" />cum vidisset illum calefacientem se ciens, ait illi: Et tu cum Iesu Nazareno eras.<verse eID="mark.14.67" />
+        <verse sID="mark.14.68" osisID="mark.14.68" />At ille negavit, dicens: Neque scio, neque novi quid dicis. Et exiit foris ante atrium.<verse eID="mark.14.68" />
+        <verse sID="mark.14.69" osisID="mark.14.69" />Rursum autem cum vidisset illum altera ancilla, coepit dicens astantibus: Quia et hic ex illis est.<verse eID="mark.14.69" />
+        <verse sID="mark.14.70" osisID="mark.14.70" />Et ille iterum negavit. Et post pusillum ierum qui astabant, dixerunt petro: Vere ex ipsis es: nam et Galilaeus es.<verse eID="mark.14.70" />
+        <verse sID="mark.14.71" osisID="mark.14.71" />Ille autem coepit devotare se, et iurare: Quia nescio hominem istum, quem dicis.<verse eID="mark.14.71" />
+        <verse sID="mark.14.72" osisID="mark.14.72" />Et continuo gallus cantavit. Tunc rememoratus est Petrus verbum, quod dixit illi Iesus; Prius quam gallus cantet, ter me negabis. Et coepit flere.<verse eID="mark.14.72" />
+      </p>
+      <chapter eID="mark.14" />
+      <chapter sID="mark.15" osisID="mark.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="mark.15.1" osisID="mark.15.1" />Cum autem mane factum esset, consilium fecerunt summi sacerdotes, cum senioribus et scribis, et universo concilio; et vinctum Iesum duxerunt in atrium, et tradiderunt Pilato.<verse eID="mark.15.1" />
+        <verse sID="mark.15.2" osisID="mark.15.2" />Et interrogavit cum Pilatus, dicens: Tu es tex Iudaeorum? Ille vero ait : Tu dicis.<verse eID="mark.15.2" />
+        <verse sID="mark.15.3" osisID="mark.15.3" />Et accusabant eum summi sacerdotes multa. Ipse autem nihil respondebat.<verse eID="mark.15.3" />
+        <verse sID="mark.15.4" osisID="mark.15.4" />Iterum Pilatus interrogavit eum, dicens: Non respondes eis quicquam? ecce quanta te accusant.<verse eID="mark.15.4" />
+        <verse sID="mark.15.5" osisID="mark.15.5" />Iesus autem nihil amplius respondit, ita ut Pilatus miraretur.<verse eID="mark.15.5" />
+        <verse sID="mark.15.6" osisID="mark.15.6" />Per diem autem solemnem dimittere solebat eis unum vinctum, quemcunque petissent.<verse eID="mark.15.6" />
+        <verse sID="mark.15.7" osisID="mark.15.7" />Erat autem in carcerem qui dicebatur Barabbas, cum seditosis reclusus, qui in seditione fecerat homicidium.<verse eID="mark.15.7" />
+        <verse sID="mark.15.8" osisID="mark.15.8" />Et cum ascendisset turba, rogabant Pilatum, ut, sicut consueverat per diem festum, dimitteret illis unum vinctum.<verse eID="mark.15.8" />
+        <verse sID="mark.15.9" osisID="mark.15.9" />Pilatus autem respondit illis, dicens: Vultis remittam vobis regem Iudaeorum?<verse eID="mark.15.9" />
+        <verse sID="mark.15.10" osisID="mark.15.10" />Sciebat enim quod per invidiam tradiderant eum principes sacerdotum.<verse eID="mark.15.10" />
+        <verse sID="mark.15.11" osisID="mark.15.11" />scribae autem persuaserunt turbis, ut dicerent: Magis Barabban dimitte nobis.<verse eID="mark.15.11" />
+        <verse sID="mark.15.12" osisID="mark.15.12" />Pilatus autem iterum respondit eis, dicens: Quid ergo vultis ut faciam regi Iudaeorum?<verse eID="mark.15.12" />
+        <verse sID="mark.15.13" osisID="mark.15.13" />Illivero clamaverunt, dicentes: Cruci eum affige.<verse eID="mark.15.13" />
+        <verse sID="mark.15.14" osisID="mark.15.14" />Pilatus autem dicebat illis: Quid enim mali fecit? At illi magis Iamabant, dicentes: Crucifige eum.<verse eID="mark.15.14" />
+        <verse sID="mark.15.15" osisID="mark.15.15" />Tunc Pilatus volens populo satisfacere, dimisit illis Barabban, et tradidit ills Iesum flagellis caesum, ut crucifigeretur.<verse eID="mark.15.15" />
+        <verse sID="mark.15.16" osisID="mark.15.16" />Milites ergo acceptum Iesum duxerunt eum in atrium praetorii, et convocaverunt cohortem<verse eID="mark.15.16" />
+        <verse sID="mark.15.17" osisID="mark.15.17" />et vestierunt eum purpuram, et imposue runt illi factam spineam coronam.<verse eID="mark.15.17" />
+        <verse sID="mark.15.18" osisID="mark.15.18" />Et salutabant eum, dicentes: Ave rex Iudaeorum.<verse eID="mark.15.18" />
+        <verse sID="mark.15.19" osisID="mark.15.19" />Et percutiebant illum de arundine in caput: et conspuebant ei, et ponentes genua, adorabant eum.<verse eID="mark.15.19" />
+        <verse sID="mark.15.20" osisID="mark.15.20" />Et postquam illuserunt ei, exuerunt illum purpuram, et induerunt illum vestimenta sua: et duxerunt ut crucifigerent eum.<verse eID="mark.15.20" />
+        <verse sID="mark.15.21" osisID="mark.15.21" />Et apprehenderunt quemdam Cyrenaeum transeuntem, cui nomen erat Simon, qui veniebat de villa sua; erat autem pater Rusi et Alexandri; et fecerunt illum portare crucem eius.<verse eID="mark.15.21" />
+        <verse sID="mark.15.22" osisID="mark.15.22" />Et duxerunt in Golgotha : quod interpretetatur Calvariae locus.<verse eID="mark.15.22" />
+        <verse sID="mark.15.23" osisID="mark.15.23" />Et dederunt ei bibere myrrhatum vinum : et non accepit.<verse eID="mark.15.23" />
+        <verse sID="mark.15.24" osisID="mark.15.24" />Et crucifixerunt eum, et diviserunt vestimenta eius, mittentes sortem, quis quid tolleret.<verse eID="mark.15.24" />
+        <verse sID="mark.15.25" osisID="mark.15.25" />Erat autem hora tertia: et crucificerunt eum.<verse eID="mark.15.25" />
+        <verse sID="mark.15.26" osisID="mark.15.26" />Et erat inscriptio causae eius: IESUS REX IUDAEORUM.<verse eID="mark.15.26" />
+        <verse sID="mark.15.27" osisID="mark.15.27" />Et crucifixerunt cum eo duos latrons; unum a dextris nomine Zoathan, et alium a sinistris nomine Chammatha.<verse eID="mark.15.27" />
+        <verse sID="mark.15.28" osisID="mark.15.28" />Et adimpleta est scriptura, quae dicit: Et cum iniquis deputatus est.<verse eID="mark.15.28" />
+        <verse sID="mark.15.29" osisID="mark.15.29" />Praetereuntes autem blasphemabant eum moventes capita sua, et dicentes: Vah qui destrues templum, et reaedificas illud tribus diebus:<verse eID="mark.15.29" />
+        <verse sID="mark.15.30" osisID="mark.15.30" />salvum te fac, et descende de cruce.<verse eID="mark.15.30" />
+        <verse sID="mark.15.31" osisID="mark.15.31" />Et scribae cum principibus sacerdotum irri’dentes eum, dicebant: Alios salvos fecit, teipsum salvum fac<verse eID="mark.15.31" />
+        <verse sID="mark.15.32" osisID="mark.15.32" />si Christus es: rex Israël descendat nunc de cruce, et credimus ei. Et qui simul cum eo crucifixi erant, convitiabantur ei.<verse eID="mark.15.32" />
+        <verse sID="mark.15.33" osisID="mark.15.33" />Et cum hora esset sexta, tenebrae factae sunt super totam terram usque ad horam nonam.<verse eID="mark.15.33" />
+        <verse sID="mark.15.34" osisID="mark.15.34" />Et nona hora exclamavit Iesus voce magna, dicens: Heli, Heli lema sabacthani? quod est interpretatum, hoc est: Deus meus, Deus meus, ut quid exprobrasti me?<verse eID="mark.15.34" />
+        <verse sID="mark.15.35" osisID="mark.15.35" />Et quidam de circumstantibus audiebant eum, et dicebant: Heliam vocat iste.<verse eID="mark.15.35" />
+        <verse sID="mark.15.36" osisID="mark.15.36" />Et accurrens unus, implens spongiam aceto, imposuit arundini, et potum dabat ei, dicens: Sine, videamus si veniat Helias deponere eum.<verse eID="mark.15.36" />
+        <verse sID="mark.15.37" osisID="mark.15.37" />Iesus autem emittens vocem magnam, emisit spiritum.<verse eID="mark.15.37" />
+        <verse sID="mark.15.38" osisID="mark.15.38" />Et velum templi scissum est in duas partes, a summo usque deorsum.<verse eID="mark.15.38" />
+        <verse sID="mark.15.39" osisID="mark.15.39" />Cum autem videret Centurio, qui stabat contra eum, quod sic Iamans emisisset spiritum dixit: Vere hic homo Filius erat Dei.<verse eID="mark.15.39" />
+        <verse sID="mark.15.40" osisID="mark.15.40" />Erant autem multae mulieres a longe audientes: inter quas erat Maria Magdalene, et Maria Iacobi minoris et Ioseph, et mater Salome :<verse eID="mark.15.40" />
+        <verse sID="mark.15.41" osisID="mark.15.41" />quae cum essent in Galilaea, sequebantur eum, et ministrabant ei, et aliae multae, quae simul cum ipso ascenderant Ierosolymis.<verse eID="mark.15.41" />
+        <verse sID="mark.15.42" osisID="mark.15.42" />Et cum sero esset factum (quod est parasceve sabbati)<verse eID="mark.15.42" />
+        <verse sID="mark.15.43" osisID="mark.15.43" />venit Ioseph ab Arimathia divers decurio qui erat et ipse exspectans regnum Dei: hic constanter introiit ad Pilatum, et petiit corpus Iesu.<verse eID="mark.15.43" />
+        <verse sID="mark.15.44" osisID="mark.15.44" />Pilatus autem mirabatur si iam obisset Iesus. Et vocans centursionem, interrogabat eum si iam mortuus esset.<verse eID="mark.15.44" />
+        <verse sID="mark.15.45" osisID="mark.15.45" />Qui cum cognovisset a centurione, donavit corpus Ioseph.<verse eID="mark.15.45" />
+        <verse sID="mark.15.46" osisID="mark.15.46" />Ioseph autem emens sindonem, deposuit eum, et involvit in ea corpus Iesu, et posuit eum in monumento, quod erat excisum in petra, et advolvit lapidem ad ostium monumenti.<verse eID="mark.15.46" />
+        <verse sID="mark.15.47" osisID="mark.15.47" />Maria autem Magdalene, et Maria Iacobi et Ioseph, notaverunt sibi locum ubi poneretur.<verse eID="mark.15.47" />
+      </p>
+      <chapter eID="mark.15" />
+      <chapter sID="mark.16" osisID="mark.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="mark.16.1" osisID="mark.16.1" />Et cum praeterisset sabbatum, abeuntes Maria Magdalene, et Maria Iacobi, attulerunt aromata ut eum ungerent.<verse eID="mark.16.1" />
+        <verse sID="mark.16.2" osisID="mark.16.2" />Et venientes una sabbati ad monumentum, oriente sole.<verse eID="mark.16.2" />
+        <verse sID="mark.16.3" osisID="mark.16.3" />dicebant ad invicem: Quis nobis revolvet lapidem ab ostio monumenti? Erat enim magnus valde.<verse eID="mark.16.3" />
+        <verse sID="mark.16.4" osisID="mark.16.4" />Et veniunt, et inveniunt revolutum lapidem.<verse eID="mark.16.4" />
+        <verse sID="mark.16.5" osisID="mark.16.5" />Et ingressae in monumentum viderunt iuvenem sedentem in dextris, coopertum stola candida, et expaverunt.<verse eID="mark.16.5" />
+        <verse sID="mark.16.6" osisID="mark.16.6" />Et dixit eis: Nolite expavescere: Iesum Nazarenum quaeritis, crucifixum: surrexit, et abiit, videte locum eius ubi positus erat.<verse eID="mark.16.6" />
+        <verse sID="mark.16.7" osisID="mark.16.7" />Sed ite, dicite discipulis eius, et petro, quia praecedit vos in Galilaeam: ibi eum videbitis, sicut dixit vobis.<verse eID="mark.16.7" />
+        <verse sID="mark.16.8" osisID="mark.16.8" />At illae exeuntes, fugerunt de monumento: invaserat enim illas timor et pavor: et nemini quicquam dicebant: timebant enim.<verse eID="mark.16.8" />
+        <verse sID="mark.16.9" osisID="mark.16.9" />Surgens autem Iesus mane, prima sabbati apparuit primum Mariae Magdalenae, de qua eiecerat septem daemonia.<verse eID="mark.16.9" />
+        <verse sID="mark.16.10" osisID="mark.16.10" />Illa autem praecurrens nunciavit eis, qui cum ipso erant, lugentibus et flentibus eis.<verse eID="mark.16.10" />
+        <verse sID="mark.16.11" osisID="mark.16.11" />At illi audito quod viveret, et visus esset ab ea, non crediderunt.<verse eID="mark.16.11" />
+        <verse sID="mark.16.12" osisID="mark.16.12" />Post haec apparuit duobus ex eis ambulantibus in alia effigie, euntibus in villam:<verse eID="mark.16.12" />
+        <verse sID="mark.16.13" osisID="mark.16.13" />et illi euntes nunciaverunt caeteris: nec ipsis crediderunt.<verse eID="mark.16.13" />
+        <verse sID="mark.16.14" osisID="mark.16.14" />Novissime autem recumbentibus illis undecim apparuit: et exprobravit incredulitatem ipsorum, et duritiam cordis eorum; quoniam eis, qui viderant illum resurrexisse, non crediderunt.<verse eID="mark.16.14" />
+        <verse sID="mark.16.15" osisID="mark.16.15" />Et dicit illis: Ite in universum orbem, et praedicate Evangelium universae creaturae.<verse eID="mark.16.15" />
+        <verse sID="mark.16.16" osisID="mark.16.16" />Qui autem crediderit, et baptizatus fuerit salvus erit: qui vero non crediderit, damnabitur.<verse eID="mark.16.16" />
+        <verse sID="mark.16.17" osisID="mark.16.17" />Signa autem credentes haec sequentur: In nomine meo daemonia eiicient: linguis loquentur novis:<verse eID="mark.16.17" />
+        <verse sID="mark.16.18" osisID="mark.16.18" />serpentes tollent: et si mortiferum quid biberint, non nocebit illos: super longuentes manus imponent, et bene se habebunt.<verse eID="mark.16.18" />
+        <verse sID="mark.16.19" osisID="mark.16.19" />Et Dominus quidem Iesus postquam locutus est illis, assumeus est in coelis, et sedet ad dexteram Dei.<verse eID="mark.16.19" />
+        <verse sID="mark.16.20" osisID="mark.16.20" />Illi autem profecti praedicaverunt ubique Domino adiuvante, et sermonem confirmante, prosequentibus signis. Amen.<verse eID="mark.16.20" />
+      </p>
+    </div>
+  </osisText>
+</osis>

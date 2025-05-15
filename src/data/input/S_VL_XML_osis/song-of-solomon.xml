@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Song" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Song">
+        <title>song-of-solomon</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Song</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>song-of-solomon</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Song">
+      <title>song-of-solomon</title>
+      <chapter sID="Song.1" osisID="Song.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Song.1.1" osisID="Song.1.1" />Osculetur me ab osculis oris sui, quoniam bona ubera tua super vinum,<verse eID="Song.1.1" />
+        <verse sID="Song.1.2" osisID="Song.1.2" />et odor unguentorum tuorum super omnia aromata. Unguentum exinanitum est nomen tuum, ideo adolescentulae dilexerunt te.<verse eID="Song.1.2" />
+        <verse sID="Song.1.3" osisID="Song.1.3" />Attrahe nos, post te in odorem unguentorum tuorum nos curremus. Introduxit me rex in cubiculum suum, exsultemus et laetemur in te, diligamus ubera tua super vinum ...<verse eID="Song.1.3" />
+        <verse sID="Song.1.4" osisID="Song.1.4" />Fusca sum, et decora, filia Ierusalem, ut tabernacula Cedar, ut pelles Salomonis.<verse eID="Song.1.4" />
+        <verse sID="Song.1.5" osisID="Song.1.5" />Nolite aspicere me quia offuscata sum, quia non est intuitus me sol, filii matris meae pugnaverunt adversus me, posuerunt me custodem in vineis, vineam meam non custodivi.<verse eID="Song.1.5" />
+        <verse sID="Song.1.6" osisID="Song.1.6" />Annuntia mihi, quem dilexit anima mea, ubi pascis, ubi manes in meridie, ne forte fiam circumamicta super greges sodalium tuorum.<verse eID="Song.1.6" />
+        <verse sID="Song.1.7" osisID="Song.1.7" />Nisi cognoscas te, decora inter mulieres, exi tu in calcaneis gregum, et pasce hoedos tuos in tabernaculis pastorum.<verse eID="Song.1.7" />
+        <verse sID="Song.1.8" osisID="Song.1.8" />Equae meae in curribus Pharaonis assimilavi te proxima mea.<verse eID="Song.1.8" />
+        <verse sID="Song.1.9" osisID="Song.1.9" />Quam speciosae factae sunt genae tuae! Sicut turturis. Cervix tua sicut redimicula.<verse eID="Song.1.9" />
+        <verse sID="Song.1.10" osisID="Song.1.10" />Similitudines auri faciemus tibi, ex distinctionibus argenti.<verse eID="Song.1.10" />
+        <verse sID="Song.1.11" osisID="Song.1.11" />Quoadusque rex est in declinatione sua, nardus mea dedit odorem suum.<verse eID="Song.1.11" />
+        <verse sID="Song.1.12" osisID="Song.1.12" />Colligatio guttae consobrinus meus. Botryo cypri frater meus mihi, inter media ubera mea requiescit.<verse eID="Song.1.12" />
+        <verse sID="Song.1.13" osisID="Song.1.13" />Nardus cypri consobrinus meus, in vineis Engaddi.<verse eID="Song.1.13" />
+        <verse sID="Song.1.14" osisID="Song.1.14" />Ecce es bona proxima mea, ecce es bona ...<verse eID="Song.1.14" />
+        <verse sID="Song.1.15" osisID="Song.1.15" />Ecce es formosus consobrinus meus, et quidem pulcher. Acclinatio nostra opaca,<verse eID="Song.1.15" />
+        <verse sID="Song.1.16" osisID="Song.1.16" />trabes domorum nostrarum cedri, lacunaria nostra cupressi.<verse eID="Song.1.16" />
+      </p>
+      <chapter eID="Song.1" />
+      <chapter sID="Song.2" osisID="Song.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Song.2.1" osisID="Song.2.1" />Ego flos campi, et lilium convallium.<verse eID="Song.2.1" />
+        <verse sID="Song.2.2" osisID="Song.2.2" />Sicut lilium in medio spinarum, ita proxima mea in medio filiarum.<verse eID="Song.2.2" />
+        <verse sID="Song.2.3" osisID="Song.2.3" />Tanquam malus in lignis nemoris, ita fraternus meus in medio filiorum. In umbra eius concupivi, et sedi, et fructus eius dulcis in faucibus meis.<verse eID="Song.2.3" />
+        <verse sID="Song.2.4" osisID="Song.2.4" />Introducite me in domum vini, constituite in me dilectionem.<verse eID="Song.2.4" />
+        <verse sID="Song.2.5" osisID="Song.2.5" />Confirmate me in unguentis, stipate me in malis, quia vulnerata dilectionis ego sum.<verse eID="Song.2.5" />
+        <verse sID="Song.2.6" osisID="Song.2.6" />Laeva eius sub capite meo, et dextera eius amplexabitur me.<verse eID="Song.2.6" />
+        <verse sID="Song.2.7" osisID="Song.2.7" />Adiuravi vos filiae Ierusalem in virtutibus et fortitudinibus agri, si suscitaveritis, et resuscitaveritis dilectionem, usquequo voluerit.<verse eID="Song.2.7" />
+        <verse sID="Song.2.8" osisID="Song.2.8" />Vox fratris mei, ecce hic venit saliens super montes, et transiliens super colles,<verse eID="Song.2.8" />
+        <verse sID="Song.2.9" osisID="Song.2.9" />similis frater meus capreae, vel hinnulo cervorum in montibus Bethel, ecce hic retro post parietem nostrum prospiciens per fenestras, prospiciens per retia.<verse eID="Song.2.9" />
+        <verse sID="Song.2.10" osisID="Song.2.10" />Respondit frater meus, et dixit mihi, Surge, veni proxima mea, speciosa mea, columba mea.<verse eID="Song.2.10" />
+        <verse sID="Song.2.11" osisID="Song.2.11" />Quoniam ecce hiems transivit, pluvia abiit, discessit sibi.<verse eID="Song.2.11" />
+        <verse sID="Song.2.12" osisID="Song.2.12" />Flores visi sunt terra, tempus secandi advenit, vox turturis audita est in terra nostra,<verse eID="Song.2.12" />
+        <verse sID="Song.2.13" osisID="Song.2.13" />ficus protulit grossos suos ... Surge, veni proxima mea, sponsa mea, et veni,<verse eID="Song.2.13" />
+        <verse sID="Song.2.14" osisID="Song.2.14" />tu columba mea in tegumento petrae, iuxta praemunitionem, ostende mihi faciem tuam, et insinua vocem tuam, quia vox tua suavis est, et facies tua pulchra.<verse eID="Song.2.14" />
+        <verse sID="Song.2.15" osisID="Song.2.15" />Prendite nobis vulpes pusillas, exterminantes vineas, ut vineae nostrae floreant.<verse eID="Song.2.15" />
+        <verse sID="Song.2.16" osisID="Song.2.16" />Frater meus mihi, et ego ei, qui pascit in liliis,<verse eID="Song.2.16" />
+        <verse sID="Song.2.17" osisID="Song.2.17" />usque dum aspiret dies, et amoveantur umbrae ...<verse eID="Song.2.17" />
+      </p>
+      <chapter eID="Song.2" />
+      <chapter sID="Song.3" osisID="Song.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Song.3.1" osisID="Song.3.1" />In cubili meo in noctibus quaesivi quem dilexit anima mea, quaesivi eum, et non inveni. Vocavi eum, et non obaudivit me.<verse eID="Song.3.1" />
+        <verse sID="Song.3.2" osisID="Song.3.2" />Exsurgam, ibo, et circumibo civitatem, in foro, et in plateis, et quaeram quem dilexit anima mea, quaesivi eum, et non inveni eum.<verse eID="Song.3.2" />
+        <verse sID="Song.3.3" osisID="Song.3.3" />... Nunquid quem dilexit anima mea, vidistis?<verse eID="Song.3.3" />
+        <verse sID="Song.3.4" osisID="Song.3.4" />Quam modicum fuit cum transivi ab ipsis, donec inveni quem dilexit anima mea, tenui eum. Et non relinquam eum, donec introducam eum in domum matris meae, et in cubiculum eius quae me concepit.<verse eID="Song.3.4" />
+        <verse sID="Song.3.5" osisID="Song.3.5" />Adiuravi vos filiae Ierusalem in virtutibus et fortitudinibus agri, ne suscitaveritis, et excitaveritis charitatem, usquequo voluerit.<verse eID="Song.3.5" />
+        <verse sID="Song.3.6" osisID="Song.3.6" />Quae est haec, ascendit a deserto sicut vitis propago, fumo incensa, odorificata myrrha, et thure, ab omnibus pulveribus unguenti?<verse eID="Song.3.6" />
+        <verse sID="Song.3.7" osisID="Song.3.7" />Ecce lectulus Salomonis, sexaginta potentes in circuitu eius de potentibus Israel,<verse eID="Song.3.7" />
+        <verse sID="Song.3.8" osisID="Song.3.8" />omnes tenentes gladios, docti ad bellum, vir, et gladius super femur eius ...<verse eID="Song.3.8" />
+        <verse sID="Song.3.9" osisID="Song.3.9" />Fecit sibi lectum Salomon ex lignis Libani,<verse eID="Song.3.9" />
+        <verse sID="Song.3.10" osisID="Song.3.10" />columnae eius erant argenteae, adclinatorium eius aureum, dorsum eius gemmatum stratum, fecit sibi charitatem a filiabus Israel,<verse eID="Song.3.10" />
+        <verse sID="Song.3.11" osisID="Song.3.11" />Egredimini et videte regem Salomonem in corona, qua coronavit eum mater eius in die sponsalium eius, et in die iucunditatis cordis eius.<verse eID="Song.3.11" />
+      </p>
+      <chapter eID="Song.3" />
+      <chapter sID="Song.4" osisID="Song.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Song.4.1" osisID="Song.4.1" />Ecce formosa es proxima mea, ecce es formosa. Oculi tui columbae, extra taciturnitatem tuam. Capillatura tua ut greges captarum ...<verse eID="Song.4.1" />
+        <verse sID="Song.4.2" osisID="Song.4.2" />Dentes tui sicut grex tonsarum, quae ascenderunt a lavacro, quae omnes gemellos creant, et infecunda non est in eis.<verse eID="Song.4.2" />
+        <verse sID="Song.4.3" osisID="Song.4.3" />Sicut resticula coccinea, labia tua, et loquela tua, speciosa. Ut cortex mali punici, genae tuae, praeter taciturnitatem tuam.<verse eID="Song.4.3" />
+        <verse sID="Song.4.4" osisID="Song.4.4" />Sicut turris David cervix tua, quae aedificata est in Thalpioth, mille ostia pendent in ea, omnia iacula potentium.<verse eID="Song.4.4" />
+        <verse sID="Song.4.6" osisID="Song.4.6" />... ibo ad montem myrrhae ...<verse eID="Song.4.6" />
+        <verse sID="Song.4.7" osisID="Song.4.7" />Tota es formosa proxima mea, et reprehensio non est in te.<verse eID="Song.4.7" />
+        <verse sID="Song.4.8" osisID="Song.4.8" />Sponsa, veni huc a Libano, veni huc a Libano, transibis et pertransibis a principio fidei, a capite Sanir et Hermon, a latibulis leonum, a montibus pardorum.<verse eID="Song.4.8" />
+        <verse sID="Song.4.9" osisID="Song.4.9" />Cor nostrum cepisti soror mea sponsa, cor nostrum cepisti uno ab oculis tuis, in uno ornamento colli tui.<verse eID="Song.4.9" />
+        <verse sID="Song.4.10" osisID="Song.4.10" />Quam decora facta sunt ubera tua soror mea sponsa, quam decora facta sunt a vino! Et odor vestimentorum tuorum super omnia aromata.<verse eID="Song.4.10" />
+        <verse sID="Song.4.11" osisID="Song.4.11" />Favum distillant labia tua, o sponsa. Mel et lac sub lingua tua, et odor vestimentorum tuorum sicut odor Libani.<verse eID="Song.4.11" />
+        <verse sID="Song.4.12" osisID="Song.4.12" />Hortus conclusus soror mea sponsa, hortus conclusus, fons signatus.<verse eID="Song.4.12" />
+        <verse sID="Song.4.13" osisID="Song.4.13" />Emissiones tuae paradisus malorum granatorum cum fructu pomorum cypri,<verse eID="Song.4.13" />
+        <verse sID="Song.4.14" osisID="Song.4.14" />... myrrha et aloe cum omnibus unguentis primis.<verse eID="Song.4.14" />
+        <verse sID="Song.4.15" osisID="Song.4.15" />Fons hortorum, puteus aquae vivae, et impetu descendens a Libano.<verse eID="Song.4.15" />
+        <verse sID="Song.4.16" osisID="Song.4.16" />Exsurge aquilo, et veni auster, adspira hortum meum, et profluant aromata mea.<verse eID="Song.4.16" />
+      </p>
+      <chapter eID="Song.4" />
+      <chapter sID="Song.5" osisID="Song.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Song.5.1" osisID="Song.5.1" />Descendat fraternus meus in hortum suum, et manducet fructus pomiferarum suarum. Ingressus sum in hortum meum soror mea sponsa, vindemiavi myrrham meam cum unguentis meis, manducavi panem meum cum melle meo, bibi vinum meum cum lacte meo, edite proximi mei, et bibite, et inebriamini fratres mei.<verse eID="Song.5.1" />
+        <verse sID="Song.5.2" osisID="Song.5.2" />Ego dormio, et cor meum vigilat, vox fratris mei pulsat ad ianuam, Aperi mihi foror mea sponsa, columba mea, perfecta mea, quia caput meum repletum est rore, et crines mei guttis noctis.<verse eID="Song.5.2" />
+        <verse sID="Song.5.3" osisID="Song.5.3" />Exui tunicam meam, quomodo induam eam? Lavi pedes meos, quomodo inquinabo eos?<verse eID="Song.5.3" />
+        <verse sID="Song.5.4" osisID="Song.5.4" />Frater meus misit manum suam de prospectu, et venter meus conturbatus est super eum.<verse eID="Song.5.4" />
+        <verse sID="Song.5.5" osisID="Song.5.5" />Exsurrexi ego aperire fratri meo, manus meae distillaverunt myrrham, digiti mei myrrha pleni sunt super manus clausurae.<verse eID="Song.5.5" />
+        <verse sID="Song.5.6" osisID="Song.5.6" />Aperui fratri meo, frater meus transivit, et exivit anima mea in verbo eius, quaesivi eum, et non inveni illum, vocavi eum, et non obaudivit me.<verse eID="Song.5.6" />
+        <verse sID="Song.5.7" osisID="Song.5.7" />Invenerunt me custodes qui circumeunt civitatem, percusserunt, et vulneraverunt me, et tulerunt pallium meum custodes murorum.<verse eID="Song.5.7" />
+        <verse sID="Song.5.8" osisID="Song.5.8" />... quia vulnerata charitate ego sum.<verse eID="Song.5.8" />
+        <verse sID="Song.5.10" osisID="Song.5.10" />Frater meus candidus et rubeus, electus ex decem millibus.<verse eID="Song.5.10" />
+        <verse sID="Song.5.11" osisID="Song.5.11" />Caput eius aurum Cephas, Crines eius abietes, nigrae sicut corax.<verse eID="Song.5.11" />
+        <verse sID="Song.5.12" osisID="Song.5.12" />Oculi eius sicut columbae super abundantiam aquarum lotae in lacte, sedentes super plenitudinem.<verse eID="Song.5.12" />
+        <verse sID="Song.5.13" osisID="Song.5.13" />Genae eius sicut phialae aromatis gignentes unguentaria. Labia eius lilia distillantia myrrham plenam.<verse eID="Song.5.13" />
+        <verse sID="Song.5.14" osisID="Song.5.14" />Manus eius tornatae aureae, plenae Tharsis. Venter eius pyxis eburnea super lapidem sapphirum.<verse eID="Song.5.14" />
+        <verse sID="Song.5.15" osisID="Song.5.15" />Crura eius columnae marmoreae, fundate super bases aureas ...<verse eID="Song.5.15" />
+        <verse sID="Song.5.16" osisID="Song.5.16" />Fauces eius dulcedines, et totus desiderium ...<verse eID="Song.5.16" />
+      </p>
+      <chapter eID="Song.5" />
+      <chapter sID="Song.6" osisID="Song.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Song.6.1" osisID="Song.6.1" />Frater meus descendit in hortum suum in phialas aromatis, pascere in hortis, et colligere lilia.<verse eID="Song.6.1" />
+        <verse sID="Song.6.2" osisID="Song.6.2" />Ego fratri meo, et frater meus mihi, qui pascit inter lilia.<verse eID="Song.6.2" />
+        <verse sID="Song.6.3" osisID="Song.6.3" />Formosa es proxima mea ut bona opinio, pulchra ut Ierusalem. Sicut admiratio ordinata.<verse eID="Song.6.3" />
+        <verse sID="Song.6.4" osisID="Song.6.4" />Averte oculos tuos a me ... Capillamentum tuum ut grex tonsarum, quae revelatae sunt a monte Galaad.<verse eID="Song.6.4" />
+        <verse sID="Song.6.5" osisID="Song.6.5" />Dentes tui ut grex tonsarum, quae ascenderunt de lavacro, quae omnes geminos creant, et infecunda non est in eis, ut resticula coccinea labia tua ...<verse eID="Song.6.5" />
+        <verse sID="Song.6.6" osisID="Song.6.6" />Ut corium malorum granatorum, genae tuae ...<verse eID="Song.6.6" />
+        <verse sID="Song.6.7" osisID="Song.6.7" />Sexaginta sunt reginae, et octoginta concubinae, et adolescentulae quarum non est numerus.<verse eID="Song.6.7" />
+        <verse sID="Song.6.8" osisID="Song.6.8" />Una est columba mea, perfecta mea, una est matri suae, electa genitrici suae. Viderunt eam filiae, et beatificant eam. Reginae et concubinae, et laudant eam.<verse eID="Song.6.8" />
+        <verse sID="Song.6.9" osisID="Song.6.9" />Quaenam est haec prospiciens tanquam diluculum, speciosa sicut luna, electa sicut sol, miraculum sicut ornatus?<verse eID="Song.6.9" />
+        <verse sID="Song.6.10" osisID="Song.6.10" />In hortum nucis descendi videre in nativitate torrentis ...<verse eID="Song.6.10" />
+        <verse sID="Song.6.11" osisID="Song.6.11" />... posuit me currus Aminadab.<verse eID="Song.6.11" />
+        <verse sID="Song.6.12" osisID="Song.6.12" />Convertere, convertere Sunamitis, convertere, et videbimus te.<verse eID="Song.6.12" />
+      </p>
+      <chapter eID="Song.6" />
+      <chapter sID="Song.7" osisID="Song.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Song.7.1" osisID="Song.7.1" />Quid videbitis Solamitide, quae venit sicut chori castrorum? Speciosi facti sunt gressus tui in calceamentis, filia Aminadab. Moduli femorum tuorum, similes torquibus, operi manuum artificis.<verse eID="Song.7.1" />
+        <verse sID="Song.7.2" osisID="Song.7.2" />Umbilicus tuus crater tornatilis, non deficiens misto. Venter tuus sicut acervus tritici, muniti inter lilia.<verse eID="Song.7.2" />
+        <verse sID="Song.7.4" osisID="Song.7.4" />Cervix tua sicut turris eburnea. Oculi tui sicut stagna in Esebon, in portis filiae multorum Nares tuae sicut turris Libani, prospiciens faciem Damasci.<verse eID="Song.7.4" />
+        <verse sID="Song.7.5" osisID="Song.7.5" />... et ornatus capitis tui, sicut purpura ...<verse eID="Song.7.5" />
+        <verse sID="Song.7.6" osisID="Song.7.6" />Quam pulchra et suavis facta es charitas, in deliciis tuis!<verse eID="Song.7.6" />
+        <verse sID="Song.7.7" osisID="Song.7.7" />Statura tua similis facta est palmae, et ubera tua botris.<verse eID="Song.7.7" />
+        <verse sID="Song.7.8" osisID="Song.7.8" />Dixi, Ascendam in palmam, tenebo altitudines eius ... et odor naris tuae sicut mala.<verse eID="Song.7.8" />
+        <verse sID="Song.7.9" osisID="Song.7.9" />Et faux tua tanquam vinum optimum ...<verse eID="Song.7.9" />
+        <verse sID="Song.7.10" osisID="Song.7.10" />Ego fratri meo, et super me conversio eius.<verse eID="Song.7.10" />
+        <verse sID="Song.7.11" osisID="Song.7.11" />Veni frater meus, exeamus in agrum, requiescamus in castellis.<verse eID="Song.7.11" />
+        <verse sID="Song.7.12" osisID="Song.7.12" />Diluculo surgamus in vineas, videamus si floruit vitis ... floruerunt mala granata, ibi dabo ubera mea tibi.<verse eID="Song.7.12" />
+        <verse sID="Song.7.13" osisID="Song.7.13" />Dederunt mandragorae odorem, et in fortibus nostris omnis fetus arborum, nova et vetera, frater meus, servabi tibi.<verse eID="Song.7.13" />
+      </p>
+      <chapter eID="Song.7" />
+      <chapter sID="Song.8" osisID="Song.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Song.8.1" osisID="Song.8.1" />Quis dabit te, frater, fratrem mihi lactentem ubera matris meae? Inveniens te foris, osculabor te, et quidem non spernent me.<verse eID="Song.8.1" />
+        <verse sID="Song.8.2" osisID="Song.8.2" />Adsumam te, et inducam te in domum matris meae, et in secretum eius quae concepit me, potum dabo tibi a vino operosi unguenti, a fluxu malorum granatorum meorum.<verse eID="Song.8.2" />
+        <verse sID="Song.8.3" osisID="Song.8.3" />Laeva eius sub caput meum, et dextera eius complectetur me.<verse eID="Song.8.3" />
+        <verse sID="Song.8.4" osisID="Song.8.4" />Adiuravi vos filiae Ierusalem, ne suscitetis et resuscitetis dilectionem, usquequo voluerit.<verse eID="Song.8.4" />
+        <verse sID="Song.8.5" osisID="Song.8.5" />Quae est haec, quae ascendit dealbata, innitens super fratrem suum? Sub arbore mali elevavi te, illic parturivit te mater tua, illic parturivit te quae peperit te.<verse eID="Song.8.5" />
+        <verse sID="Song.8.6" osisID="Song.8.6" />Pone me ut signaculum in cor tuum, ut sigillum in brachium tuum, quia valida est ut mors charitas, durus sicut inferi zelus, alae eius, alae ignis et flammae.<verse eID="Song.8.6" />
+        <verse sID="Song.8.7" osisID="Song.8.7" />Aqua multa excludere non poterit charitatem, et flumina non inundabunt eam, si dederit vir omnes facultates suas in charitate, contemptu contemptus erit.<verse eID="Song.8.7" />
+        <verse sID="Song.8.8" osisID="Song.8.8" />Soror nostra parva, et ubera non habet, quid faciemus sorori nostrae in die qua loquetur in ea?<verse eID="Song.8.8" />
+        <verse sID="Song.8.9" osisID="Song.8.9" />Si murus est, aedificemus super eum receptacula, et si ianua est, sculpamus super eam tabulas cedrinas.<verse eID="Song.8.9" />
+        <verse sID="Song.8.10" osisID="Song.8.10" />Ego murus, et ubera me turres, ego eram in oculis eius tanquam inveniens pacem.<verse eID="Song.8.10" />
+        <verse sID="Song.8.11" osisID="Song.8.11" />Vinea facta est Salomoni in Beelamon, dedit vineam suam iis qui servant ...<verse eID="Song.8.11" />
+        <verse sID="Song.8.12" osisID="Song.8.12" />Vitis me in conspectu meo. Mille Salomoni, et ducenti servantibus fructum.<verse eID="Song.8.12" />
+        <verse sID="Song.8.13" osisID="Song.8.13" />Qui sedes in hortis, amici intendentes sunt voci tuae, vocem tuam insinua mihi.<verse eID="Song.8.13" />
+        <verse sID="Song.8.14" osisID="Song.8.14" />Fuge frater meus, et similis esto tu capreolae, aut hinnulo cervorum super montes aromatum.<verse eID="Song.8.14" />
+      </p>
+      <chapter eID="Song.8" />
+    </div>
+  </osisText>
+</osis>

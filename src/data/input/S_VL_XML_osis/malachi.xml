@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Mal" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Mal">
+        <title>malachi</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Mal</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>malachi</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Mal">
+      <title>malachi</title>
+      <chapter sID="Mal.1" osisID="Mal.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Mal.1.1" osisID="Mal.1.1" />Assumptio verbi Domini super Israel in manu Angeli eius, ponite super corda vestra.<verse eID="Mal.1.1" />
+        <verse sID="Mal.1.2" osisID="Mal.1.2" />Dilexi vos, dicit Dominus, et dixistis, In quo dilexisti nos? Nonne frater erat Esau Iacob, dicit Dominus, et dilexi Iacob,<verse eID="Mal.1.2" />
+        <verse sID="Mal.1.3" osisID="Mal.1.3" />Esau autem odio habui? Et posui terminos eius in desolationem, et haereditatem eius in domata deserti.<verse eID="Mal.1.3" />
+        <verse sID="Mal.1.4" osisID="Mal.1.4" />Quia dicet, Idumaea destructa est, revertamur, et reaedificemus deserta, Haec dicit Dominus omnipotens, Ipsi aedificabunt, et ego destruam, et vocabuntur eis termini iniquitatis, et populus super quem praeparatus est Dominus usque in aeternum.<verse eID="Mal.1.4" />
+        <verse sID="Mal.1.5" osisID="Mal.1.5" />Et oculi vestri videbunt, et vos dicetis, Magnificatus est Dominus super terminos Israel.<verse eID="Mal.1.5" />
+        <verse sID="Mal.1.6" osisID="Mal.1.6" />Filius glorificat patrem, et servus dominum suum timebit, et si Pater ego sum, ubi est gloria mea? Et si Dominus ego sum, ubi est timor meus? dicit Dominus omnipotens, vos sacerdotes, qui despicitis nomen meum, et dixistis, In quo despeximus nomen tuum?<verse eID="Mal.1.6" />
+        <verse sID="Mal.1.7" osisID="Mal.1.7" />Offerentes ad altare meum panes pollutos, et dixistis, In quo polluimus ipsos? In eo quod dicitis, Mensa Domini despecta est, et quae superposita sunt, despexistis.<verse eID="Mal.1.7" />
+        <verse sID="Mal.1.8" osisID="Mal.1.8" />Quia si offeratis caecum in sacrificium, nonne malum est? Et si offeratis claudum, et languidum, nonne malum est? Offer illud duci tuo, si susceperit te, si acceperit faciem tuam, dicit Dominus omnipotens.<verse eID="Mal.1.8" />
+        <verse sID="Mal.1.9" osisID="Mal.1.9" />Et nunc deprecamini faciem Dei vestri, et rogate eum, in manibus vestris facta sunt haec, si suscipiam ex vobis facies vestras, dicit Dominus omnipotens.<verse eID="Mal.1.9" />
+        <verse sID="Mal.1.10" osisID="Mal.1.10" />Quia ex in vobis claudentur ostia, et non succendetur altare meum gratis, non est voluntas mea in vobis, dicit Dominus omnipotens, et sacrificium non suscipiam de manibus vestris.<verse eID="Mal.1.10" />
+        <verse sID="Mal.1.11" osisID="Mal.1.11" />Quia ab ortu solis usque ad occasum, nomen meum gloriosum est in gentibus, et in omni loco incensum offertur nomini meo, et sacrificium mundum, quia magnum est nomen meum in gentibus, dicit Dominus omnipotens.<verse eID="Mal.1.11" />
+        <verse sID="Mal.1.12" osisID="Mal.1.12" />Vos autem contaminastis illud in eo quod dicitis, Mensa Domini polluta est. Et qui superponuntur, despecti sunt cibi eius.<verse eID="Mal.1.12" />
+        <verse sID="Mal.1.13" osisID="Mal.1.13" />Et dixistis, Haec de afflictione sunt, et exsufflastis ea, dicit Dominus omnipotens, et inferebatis rapinas, et clauda, et debilia, et offerebatis sacrificium, si suscipiam ea de manibus vestris, dicit Dominus omnipotens.<verse eID="Mal.1.13" />
+        <verse sID="Mal.1.14" osisID="Mal.1.14" />Et maledictus qui erat potens, et habebat in grege suo masculum, et votum eius super eo, et immolat debile Domino, quia Rex magnus ego sum, dicit Dominus omnipotens, et nomen meum illustre in gentibus.<verse eID="Mal.1.14" />
+      </p>
+      <chapter eID="Mal.1" />
+      <chapter sID="Mal.2" osisID="Mal.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Mal.2.1" osisID="Mal.2.1" />Et nunc mandatum hoc ad vos, o sacerdotes.<verse eID="Mal.2.1" />
+        <verse sID="Mal.2.2" osisID="Mal.2.2" />Si non audieritis, et si non posueritis cor vestrum, ut detis gloriam nomini meo, dicit Dominus omnipotens, mittam super vos maledictionem, et maledicam benedictioni vestrae, et maledicam ei, et dissipabo benedictionem vestram, et non erit vobis, quia vos non ponitis in cor vestrum.<verse eID="Mal.2.2" />
+        <verse sID="Mal.2.3" osisID="Mal.2.3" />Ecce ego separabo vobis humerum, et dispergam ventriculum super faciem vestram, ventriculum solemnitatum vestrarum, et suscipiam vos simul.<verse eID="Mal.2.3" />
+        <verse sID="Mal.2.4" osisID="Mal.2.4" />Et cognoscetis quia ego misi ad vos mandatum hoc, ut esset testamentum meum ad Levitas, dicit Dominus omnipotens.<verse eID="Mal.2.4" />
+        <verse sID="Mal.2.5" osisID="Mal.2.5" />Testamentum meum fuit cum eo vitae et pacis, et dedi ei timorem, ut timeret me, et a facie nominis mei formidaret.<verse eID="Mal.2.5" />
+        <verse sID="Mal.2.6" osisID="Mal.2.6" />Lex veritatis fuit in ore eius, et iniquitas non est inventa in labiis eius, in pace dirigens ambulavit mecum, et multos convertit ab iniquitate.<verse eID="Mal.2.6" />
+        <verse sID="Mal.2.7" osisID="Mal.2.7" />Quoniam labia sacerdotis custodient scientiam, et lex requiretur ex ore eius, quia angelus Domini omnipotentis est.<verse eID="Mal.2.7" />
+        <verse sID="Mal.2.8" osisID="Mal.2.8" />Vos autem declinastis de via mea, et infirmos fecistis multos in lege, corrupistis testamentum Levi, dicit Dominus omnipotens.<verse eID="Mal.2.8" />
+        <verse sID="Mal.2.9" osisID="Mal.2.9" />Et ego dedi vos contemptibiles, et dissolutos in omnes gentes, pro eo quod non custodistis vias meas, sed accipiebatis personas in lege.<verse eID="Mal.2.9" />
+        <verse sID="Mal.2.10" osisID="Mal.2.10" />Nonne pater unus omnium vestrum? Nonne Deus unus creavit vos? Quare reliquistis unusquisque fratrem suum, ut abominabile faceret testamentum patrum vestrorum?<verse eID="Mal.2.10" />
+        <verse sID="Mal.2.11" osisID="Mal.2.11" />Derelictus est Iudas, et abominatio facta est in Israel, et in Ierusalem, quia contaminavit Iudas sancta Domini, in quibus dilexit. Et adinvenit deos alienos.<verse eID="Mal.2.11" />
+        <verse sID="Mal.2.12" osisID="Mal.2.12" />Disperdat Dominus hominem qui facit haec, donec exturbetur de tabernaculis Iacob, et de his qui offerunt sacrificium Domino omnipotenti.<verse eID="Mal.2.12" />
+        <verse sID="Mal.2.13" osisID="Mal.2.13" />Et haec, quae oderam, fecistis. Operiebatis lacrymis altare Domini, planctu, et gemitu de laboribus, adhuc dignum respicere sacrificium, aut suscipere acceptabile de manibus vestris?<verse eID="Mal.2.13" />
+        <verse sID="Mal.2.14" osisID="Mal.2.14" />Et dixistis, Propter quid? Quia Dominus testificatus est inter te, et uxorem adolescentiae tuae, quam tu reliquisti, et haec particeps tua, et uxor testamenti tui.<verse eID="Mal.2.14" />
+        <verse sID="Mal.2.15" osisID="Mal.2.15" />Et non alius fecit, et reliquiae spiritus tui. Et dixistis, Quid aliud praeter semen quaerit Deus? Et custodite in spiritu vestro, et uxorem adolescentiae tuae ne derelinquas.<verse eID="Mal.2.15" />
+        <verse sID="Mal.2.16" osisID="Mal.2.16" />Sed si odio habens, dimiseris eam, dicit Dominus Deus Israel, operiet impietas cogitationes tuas, dicit Dominus omnipotens, et custodite in spiritu vestro, et nolite derelinquere.<verse eID="Mal.2.16" />
+        <verse sID="Mal.2.17" osisID="Mal.2.17" />Qui provocastis Dominum in sermonibus vestris, et dixistis, In quo provocavimus te? In eo quod dicitis, Omnis qui facit malum, bonus est in conspectu Domini, et in his sibi complacet, et ubi est Deus iustitiae?<verse eID="Mal.2.17" />
+      </p>
+      <chapter eID="Mal.2" />
+      <chapter sID="Mal.3" osisID="Mal.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Mal.3.1" osisID="Mal.3.1" />Ecce ego mittam angelum meum, et praeparabit viam ante faciem meam. Et subito veniet ad templum suum Dominus, quem vos quaeritis. Et angelus iustitiae, quem vos vultis. Ecce veniet, dicit Dominus omnipotens,<verse eID="Mal.3.1" />
+        <verse sID="Mal.3.2" osisID="Mal.3.2" />et quis sustinebit diem introitus eius, aut quis ferre poterit ut aspiciat eum? Quia ipse ingredietur quasi ignis conflatorii, et quasi herba lavantium,<verse eID="Mal.3.2" />
+        <verse sID="Mal.3.3" osisID="Mal.3.3" />et sedebit conflans, et emundans sicut argentum, et sicut aurum, et emundabit filios Levi, et fundet eos sicut aurum et argentum, et erunt Domino offerentes hostias in iustitia.<verse eID="Mal.3.3" />
+        <verse sID="Mal.3.4" osisID="Mal.3.4" />Et placebit Domino sacrificium Iuda et Ierusalem sicut diebus pristinis, et sicut annis prioribus.<verse eID="Mal.3.4" />
+        <verse sID="Mal.3.5" osisID="Mal.3.5" />Et accedam ad vos in iudicio, et ero testis velox super maleficos, et super adulteros, et super eos qui iurant in nomine meo mendaciter, et qui fraudant mercede mercenarios, et opprimunt per potentiam viduas, et percutiunt pupillos, et pervertunt iudicium advenae, et qui non timent me, dicit Dominus omnipotens.<verse eID="Mal.3.5" />
+        <verse sID="Mal.3.6" osisID="Mal.3.6" />Quoniam ego Dominus Deus vester, et non mutor, et vos filii Iacob non recessistis<verse eID="Mal.3.6" />
+        <verse sID="Mal.3.7" osisID="Mal.3.7" />a peccatis patrum vestrorum, declinastis a legitimis meis, et non custodistis. Revertimini ad me, et revertar ad vos, dicit Dominus omnipotens. Et dixistis, In quo revertemur?<verse eID="Mal.3.7" />
+        <verse sID="Mal.3.8" osisID="Mal.3.8" />Si supplantat homo Deum, quia vos supplantastis me? Et dixistis, In quo supplantavimus te? Quia decimae, et primitiae vobiscum sunt?<verse eID="Mal.3.8" />
+        <verse sID="Mal.3.9" osisID="Mal.3.9" />Et vos videntes respicitis, et me vos supplantatis. Annus impletus est,<verse eID="Mal.3.9" />
+        <verse sID="Mal.3.10" osisID="Mal.3.10" />et intulistis fructus in thesauros, et erit rapina in domibus vestris, revertimini ergo in hoc, dicit Dominus omnipotens, nisi aperuero vobis cataractas coeli, et effudero vobis benedictionem meam usque dum sufficiat,<verse eID="Mal.3.10" />
+        <verse sID="Mal.3.11" osisID="Mal.3.11" />et dividam vobis cibos, et non disperdam fructum terrae vestrae, et non infirmabitur vinea vestra in agro, dicit Dominus omnipotens.<verse eID="Mal.3.11" />
+        <verse sID="Mal.3.12" osisID="Mal.3.12" />Et beatos vos dicent omnes gentes, quia eritis vos ut terra voluntaria, dicit Dominus omnipotens.<verse eID="Mal.3.12" />
+        <verse sID="Mal.3.13" osisID="Mal.3.13" />Ingravastis super me verba vestra, dicit Dominus.<verse eID="Mal.3.13" />
+        <verse sID="Mal.3.14" osisID="Mal.3.14" />Et dixistis, In quo locuti sumus contra te? Et dixistis, Vanus est, qui servit Deo, et quid amplius quia custodivimus mandata eius, et quia ambulavimus supplices ante faciem Domini omnipotentis?<verse eID="Mal.3.14" />
+        <verse sID="Mal.3.15" osisID="Mal.3.15" />Et nunc nos beatos dicimus alienos, et aedificantur omnes qui faciunt iniquitatem, et restiterunt Deo, et salvi facti sunt.<verse eID="Mal.3.15" />
+        <verse sID="Mal.3.16" osisID="Mal.3.16" />Haec locuti sunt qui timent Dominum, unusquisque ad proximum suum, Et attendit Dominus, et audivit, et scripsit librum monumenti in conspectu suo his qui timent Dominum, et qui reverentur nomen eius.<verse eID="Mal.3.16" />
+        <verse sID="Mal.3.17" osisID="Mal.3.17" />Et erunt mihi, dicit Dominus omnipotens, in die qua ego facio, in acquisitionem, et eligam eos, sicut eligit homo filium suum qui servit ei.<verse eID="Mal.3.17" />
+        <verse sID="Mal.3.18" osisID="Mal.3.18" />Et convertar, et videbitis quid sit inter iustum, et iniquum. Et inter servientem Deo, et eum qui non servit ei.<verse eID="Mal.3.18" />
+      </p>
+      <chapter eID="Mal.3" />
+      <chapter sID="Mal.4" osisID="Mal.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Mal.4.1" osisID="Mal.4.1" />Quia ecce dies venit ardens sicut clibanus, et comburet eos, et erunt omnes alienigenae, et universae qui faciunt iniquitatem, stipula, succendet eos dies veniens, dicit Dominus omnipotens, et non relinquetur in eis radix, neque ramus.<verse eID="Mal.4.1" />
+        <verse sID="Mal.4.2" osisID="Mal.4.2" />Et orietur vobis, qui timetis nomen meum, Sol iustitiae, et sanitas in pennis eius, et egrediemini, et salietis sicut vituli de vinculis relaxati.<verse eID="Mal.4.2" />
+        <verse sID="Mal.4.3" osisID="Mal.4.3" />Et conculcabitis iniquos, et erunt cinis subter pedes vestros, in die qua ego facio, dicit Dominus omnipotens.<verse eID="Mal.4.3" />
+        <verse sID="Mal.4.4" osisID="Mal.4.4" />Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israel, praecepta et iudicia.<verse eID="Mal.4.4" />
+        <verse sID="Mal.4.5" osisID="Mal.4.5" />Ecce ego mittam vobis Eliam Thesbiten, antequam veniat dies Domini magna, et illustris.<verse eID="Mal.4.5" />
+        <verse sID="Mal.4.6" osisID="Mal.4.6" />Qui convertet cor patris ad filium, et cor hominis ad proximum suum, ne forte veniens, percutiam terram penitus.<verse eID="Mal.4.6" />
+      </p>
+      <chapter eID="Mal.4" />
+    </div>
+  </osisText>
+</osis>

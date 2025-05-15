@@ -1,0 +1,1057 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="esdrae-4" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="esdrae-4">
+        <title>esdrae-4</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">esdrae-4</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>esdrae-4</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="esdrae-4">
+      <title>esdrae-4</title>
+      <chapter sID="esdrae-4.1" osisID="esdrae-4.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="esdrae-4.1.1" osisID="esdrae-4.1.1" />Liber Ezrae prophetae, filii Sarei, filii Azarei, filii Helchiae, filii Salame, filii Sadoch, filii Acitob,<verse eID="esdrae-4.1.1" />
+        <verse sID="esdrae-4.1.2" osisID="esdrae-4.1.2" />filii Achiae, filii Finees, filii Heli, filii Ameriae, filii Aziei, filii Marimoth, filii Arna, filii Oziae, filii Borith, filii Abissei, filii Finees, filii Eleazar,<verse eID="esdrae-4.1.2" />
+        <verse sID="esdrae-4.1.3" osisID="esdrae-4.1.3" />filii Aaron ex tribu Levi, qui fuit captivus in regione Medorum, in regno Artaxersis regis Persarum.<verse eID="esdrae-4.1.3" />
+        <verse sID="esdrae-4.1.4" osisID="esdrae-4.1.4" />Et factum est verbum Domini ad me dicens:<verse eID="esdrae-4.1.4" />
+        <verse sID="esdrae-4.1.5" osisID="esdrae-4.1.5" />Vade adnuntia populo meo facinora ipsorum et filiis eorum iniquitates, quas in me admiserunt, ut nuntient filiis filiorum suorum,<verse eID="esdrae-4.1.5" />
+        <verse sID="esdrae-4.1.6" osisID="esdrae-4.1.6" />quia peccata parentum illorum in illis creverunt; obliti enim me sacrificaverunt diis alienis.<verse eID="esdrae-4.1.6" />
+        <verse sID="esdrae-4.1.7" osisID="esdrae-4.1.7" />Nonne ego eos eduxi de terra Aegypti de domo servitutis? Ipsi autem inritaverunt me et consilia mea spreverunt.<verse eID="esdrae-4.1.7" />
+        <verse sID="esdrae-4.1.8" osisID="esdrae-4.1.8" />Tu autem excute comam capitis tui et proice omnia mala super illos, quoniam non oboedierunt legi meae; populus autem indisciplinatus.<verse eID="esdrae-4.1.8" />
+        <verse sID="esdrae-4.1.9" osisID="esdrae-4.1.9" />Usquequo eos sustinebo, quibus tanta beneficia contuli?<verse eID="esdrae-4.1.9" />
+        <verse sID="esdrae-4.1.10" osisID="esdrae-4.1.10" />Reges multos propter eos subverti, Pharaonem cum pueris suis et omnem exercitum eius percussi.<verse eID="esdrae-4.1.10" />
+        <verse sID="esdrae-4.1.11" osisID="esdrae-4.1.11" />Omnes gentes a facie eorum perdidi et in oriente provinciarum duarum populos Tyri et Sidonis dissipavi et omnes adversarios eorum interfeci.<verse eID="esdrae-4.1.11" />
+        <verse sID="esdrae-4.1.12" osisID="esdrae-4.1.12" />Tu vero loquere ad eos dicens: Haec dicit Dominus:<verse eID="esdrae-4.1.12" />
+        <verse sID="esdrae-4.1.13" osisID="esdrae-4.1.13" />Nempe ego vos mare traieci et plateas vobis in invio munitas exhibui; ducem vobis dedi Moysen et Aaron sacerdotem.<verse eID="esdrae-4.1.13" />
+        <verse sID="esdrae-4.1.14" osisID="esdrae-4.1.14" />Lucem vobis per columnam ignis praestiti et magna mirabilia feci in vobis. Vos autem mei obliti estis, dicit Dominus.<verse eID="esdrae-4.1.14" />
+        <verse sID="esdrae-4.1.15" osisID="esdrae-4.1.15" />Haec dicit Dominus omnipotens: Coturnix vobis in signo fuit, castra vobis ad tutelam dedi, et illic murmurastis.<verse eID="esdrae-4.1.15" />
+        <verse sID="esdrae-4.1.16" osisID="esdrae-4.1.16" />Et non triumphastis in nomine meo de perditione inimicorum vestrorum, sed adhuc nunc usque murmuratis.<verse eID="esdrae-4.1.16" />
+        <verse sID="esdrae-4.1.17" osisID="esdrae-4.1.17" />Ubi sunt beneficia quae praestiti vobis? Nonne in deserto cum esuriretis et sitiretis proclamastis ad me<verse eID="esdrae-4.1.17" />
+        <verse sID="esdrae-4.1.18" osisID="esdrae-4.1.18" />dicentes: Ut quid nos in desertum istud adduxisti interficere nos? Melius nobis fuerat servire Aegyptiis quam mori in deserto hoc.<verse eID="esdrae-4.1.18" />
+        <verse sID="esdrae-4.1.19" osisID="esdrae-4.1.19" />Ego dolui gemitos vestros et dedi mannam vobis in escam, panem angelorum manducastis.<verse eID="esdrae-4.1.19" />
+        <verse sID="esdrae-4.1.20" osisID="esdrae-4.1.20" />Nonne cum sitiretis petram excidi, et fluxerunt aquae in satietatem? Propter aestus folia arborum vos texi.<verse eID="esdrae-4.1.20" />
+        <verse sID="esdrae-4.1.21" osisID="esdrae-4.1.21" />Divisi vobis terras pingues, Chananeos et Ferezeos et Philistheos a facie vestra proieci. Quid faciam vobis adhuc? dicit Dominus.<verse eID="esdrae-4.1.21" />
+        <verse sID="esdrae-4.1.22" osisID="esdrae-4.1.22" />Haec dicit Dominus omnipotens: In deserto cum essetis in flumine amaro sitientes et blasphemantes nomen meum,<verse eID="esdrae-4.1.22" />
+        <verse sID="esdrae-4.1.23" osisID="esdrae-4.1.23" />non ignem vobis pro blasphemiis dedi, sed mittens lignum in aqua dulce feci flumen.<verse eID="esdrae-4.1.23" />
+        <verse sID="esdrae-4.1.24" osisID="esdrae-4.1.24" />Quid tibi faciam, Iacob? Noluisti me obaudire, Iuda. Transferam me ad alias gentes et dabo eis nomen meum, ut custodiant legitima mea.<verse eID="esdrae-4.1.24" />
+        <verse sID="esdrae-4.1.25" osisID="esdrae-4.1.25" />Quoniam me dereliquistis, et ego vos derelinquam; petentibus vobis a me misericordiam, non miserebor vestri.<verse eID="esdrae-4.1.25" />
+        <verse sID="esdrae-4.1.26" osisID="esdrae-4.1.26" />Quando invocabitis me, ego non exaudiam vos. Maculastis enim manus vestras sanguine, et pedes vestri impigri sunt ad committenda homicidia.<verse eID="esdrae-4.1.26" />
+        <verse sID="esdrae-4.1.27" osisID="esdrae-4.1.27" />Non quasi me dereliquistis, sed vos ipsos, dicit Dominus.<verse eID="esdrae-4.1.27" />
+        <verse sID="esdrae-4.1.28" osisID="esdrae-4.1.28" />Haec dicit Dominus omnipotens: Nonne ego vos rogavi ut pater filios et ut mater filias et nutrix parvulos suos,<verse eID="esdrae-4.1.28" />
+        <verse sID="esdrae-4.1.29" osisID="esdrae-4.1.29" />ut essetis mihi in populo et ego vobis in Deum, et vos mihi in filios et ego vobis in patrem?<verse eID="esdrae-4.1.29" />
+        <verse sID="esdrae-4.1.30" osisID="esdrae-4.1.30" />Ita vos collegi ut gallina filios suos sub alas suas. Modo autem quid faciam vobis? Proiciam vos a facie mea.<verse eID="esdrae-4.1.30" />
+        <verse sID="esdrae-4.1.31" osisID="esdrae-4.1.31" />Oblationes mihi cum obtuleritis, avertam faciem meam a vobis; dies enim festos vestros et neomenias et circumcisiones carnis repudiavi.<verse eID="esdrae-4.1.31" />
+        <verse sID="esdrae-4.1.32" osisID="esdrae-4.1.32" />Ego misi pueros meos prophetas ad vos, quos acceptos interfecistis et laniastis corpora illorum, quorum sanguinem exquiram, dicit Dominus.<verse eID="esdrae-4.1.32" />
+        <verse sID="esdrae-4.1.33" osisID="esdrae-4.1.33" />Haec dicit Dominus omnipotens: Domus vestra deserta est, proiciam vos sicut ventus stipulam.<verse eID="esdrae-4.1.33" />
+        <verse sID="esdrae-4.1.34" osisID="esdrae-4.1.34" />Et filii procreationem non facient, quoniam mandatum meum vobiscum neglexerunt et quod malum est coram me fecerunt.<verse eID="esdrae-4.1.34" />
+        <verse sID="esdrae-4.1.35" osisID="esdrae-4.1.35" />Tradam domus vestras populo venienti. Qui me non audientes credunt; quibus signa non ostendi, facient quae praecepi.<verse eID="esdrae-4.1.35" />
+        <verse sID="esdrae-4.1.36" osisID="esdrae-4.1.36" />Prophetas non viderunt et memorabuntur antiquitatum eorum.<verse eID="esdrae-4.1.36" />
+        <verse sID="esdrae-4.1.37" osisID="esdrae-4.1.37" />Testor populi venientis gratiam, cuius parvuli exultant cum laetitia, me non videntes oculis carnalibus, sed spiritu credent quae dixi.<verse eID="esdrae-4.1.37" />
+        <verse sID="esdrae-4.1.38" osisID="esdrae-4.1.38" />Et nunc, pater, aspice cum gloria et vide populum venientem ab oriente.<verse eID="esdrae-4.1.38" />
+        <verse sID="esdrae-4.1.39" osisID="esdrae-4.1.39" />Quibus dabo ducatum Abraham, Isaac et Iacob et Osee et Amos et Michae et Iohelis et Abdiae et Ionae<verse eID="esdrae-4.1.39" />
+        <verse sID="esdrae-4.1.40" osisID="esdrae-4.1.40" />et Naum et Abacuc, Sofoniae, Aggei, Zacchariae et Malachiae, qui et angelus Domini vocatus est.<verse eID="esdrae-4.1.40" />
+      </p>
+      <chapter eID="esdrae-4.1" />
+      <chapter sID="esdrae-4.2" osisID="esdrae-4.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="esdrae-4.2.1" osisID="esdrae-4.2.1" />Haec dicit Dominus: Ego eduxi populum istum de servitute, quibus mandata dedi per pueros meos prophetas, quos audire noluerunt, sed irrita fecerunt mea consilia.<verse eID="esdrae-4.2.1" />
+        <verse sID="esdrae-4.2.2" osisID="esdrae-4.2.2" />Mater quae eos generavit dicit illis: Ite, filii, quia ego vidua sum et derelicta.<verse eID="esdrae-4.2.2" />
+        <verse sID="esdrae-4.2.3" osisID="esdrae-4.2.3" />Educavi vos cum laetitia et amisi vos cum luctu et tristitia, quoniam peccastis coram Domino Deo et quod malum est coram me fecistis.<verse eID="esdrae-4.2.3" />
+        <verse sID="esdrae-4.2.4" osisID="esdrae-4.2.4" />Modo autem quid faciam vobis? Ego enim vidua sum et derelicta. Ite, filii, et petite a Domino misericordiam.<verse eID="esdrae-4.2.4" />
+        <verse sID="esdrae-4.2.5" osisID="esdrae-4.2.5" />Ego autem te, pater, testem invoco super matrem filiorum, quia noluerunt testamentum meum servare,<verse eID="esdrae-4.2.5" />
+        <verse sID="esdrae-4.2.6" osisID="esdrae-4.2.6" />ut des eis confusionem et matrem eorum in direptionem, ne generatio eorum fiat.<verse eID="esdrae-4.2.6" />
+        <verse sID="esdrae-4.2.7" osisID="esdrae-4.2.7" />Dispergantur in gentes, nomina eorum deleantur a terra, quoniam spreverunt testamentum meum.<verse eID="esdrae-4.2.7" />
+        <verse sID="esdrae-4.2.8" osisID="esdrae-4.2.8" />Vae tibi, Assur, qui abscondis iniquos penes te. Gens mala, memorare quid fecerim Sodomae et Gomorrae,<verse eID="esdrae-4.2.8" />
+        <verse sID="esdrae-4.2.9" osisID="esdrae-4.2.9" />quorum terra iacet in piceis glebis et aggeribus cinerum. Sic dabo eos qui me non audierunt, dicit Dominus omnipotens.<verse eID="esdrae-4.2.9" />
+        <verse sID="esdrae-4.2.10" osisID="esdrae-4.2.10" />Haec dicit Dominus ad Ezram: Adnuntia populo meo, quoniam dabo eis regnum Hierusalem, quod daturus eram Israhel.<verse eID="esdrae-4.2.10" />
+        <verse sID="esdrae-4.2.11" osisID="esdrae-4.2.11" />Et sumam mihi gloriam illorum et dabo eis tabernacula aeterna, quae praeparaveram illis.<verse eID="esdrae-4.2.11" />
+        <verse sID="esdrae-4.2.12" osisID="esdrae-4.2.12" />Lignum vitae erit illis in odore unguenti, et non laborabunt neque fatigabuntur.<verse eID="esdrae-4.2.12" />
+        <verse sID="esdrae-4.2.13" osisID="esdrae-4.2.13" />Ite et accipietis, rogate vobis dies paucos ut minorentur; iam paratum est vobis regnum, vigilate.<verse eID="esdrae-4.2.13" />
+        <verse sID="esdrae-4.2.14" osisID="esdrae-4.2.14" />Testare, testare caelum et terram, omisi enim malum et creavi bonum, quia vivo ego, dicit Dominus.<verse eID="esdrae-4.2.14" />
+        <verse sID="esdrae-4.2.15" osisID="esdrae-4.2.15" />Mater, conplectere filios tuos, educa illos cum laetitia sicut columba, confirma pedes eorum, quoniam te elegi, dicit Dominus.<verse eID="esdrae-4.2.15" />
+        <verse sID="esdrae-4.2.16" osisID="esdrae-4.2.16" />Et resuscitabo mortuos de locis suis et de monumentis educam illos, quoniam cognovi nomen meum in illis.<verse eID="esdrae-4.2.16" />
+        <verse sID="esdrae-4.2.17" osisID="esdrae-4.2.17" />Noli timere, mater filiorum, quoniam te elegi, dicit Dominus.<verse eID="esdrae-4.2.17" />
+        <verse sID="esdrae-4.2.18" osisID="esdrae-4.2.18" />Mittam tibi adiutorium pueros meos Esaiam et Hieremiam, ad quorum consilium sanctificavi et paravi tibi arbores duodecim gravatas variis fructibus<verse eID="esdrae-4.2.18" />
+        <verse sID="esdrae-4.2.19" osisID="esdrae-4.2.19" />et totidem fontes fluentes lac et mel et montes inmensos septem habentes rosam et lilium, in quibus gaudio replebo filios tuos.<verse eID="esdrae-4.2.19" />
+        <verse sID="esdrae-4.2.20" osisID="esdrae-4.2.20" />Viduam iustifica, pupillo iudica, egenti da, orfanum tuere, nudum vesti,<verse eID="esdrae-4.2.20" />
+        <verse sID="esdrae-4.2.21" osisID="esdrae-4.2.21" />confractum et debilem cura, claudum inridere noli, tutare mancum, et caecum ad visionem claritatis meae admitte,<verse eID="esdrae-4.2.21" />
+        <verse sID="esdrae-4.2.22" osisID="esdrae-4.2.22" />senem et iuvenem intra muros tuos serva,<verse eID="esdrae-4.2.22" />
+        <verse sID="esdrae-4.2.23" osisID="esdrae-4.2.23" />mortuos ubi inveneris signans commenda sepulchro, et dabo tibi primam sessionem in resurrectione mea.<verse eID="esdrae-4.2.23" />
+        <verse sID="esdrae-4.2.24" osisID="esdrae-4.2.24" />Pausa et quiesce, populus meus, quia veniet requies tua.<verse eID="esdrae-4.2.24" />
+        <verse sID="esdrae-4.2.25" osisID="esdrae-4.2.25" />Nutrix bona, nutri filios tuos, confirma pedes eorum.<verse eID="esdrae-4.2.25" />
+        <verse sID="esdrae-4.2.26" osisID="esdrae-4.2.26" />Servos quos tibi dedi, nemo ex eis interiet, ego enim eos requiram de numero tuo.<verse eID="esdrae-4.2.26" />
+        <verse sID="esdrae-4.2.27" osisID="esdrae-4.2.27" />Noli satagere, cum venerit enim dies pressurae et angustiae, alii plorabunt et tristes erunt, tu autem hilaris et copiosa eris.<verse eID="esdrae-4.2.27" />
+        <verse sID="esdrae-4.2.28" osisID="esdrae-4.2.28" />Zelabunt gentes et nihil adversum te poterunt, dicit Dominus.<verse eID="esdrae-4.2.28" />
+        <verse sID="esdrae-4.2.29" osisID="esdrae-4.2.29" />Manus meae tegent te, ne filii tui gehennam videant.<verse eID="esdrae-4.2.29" />
+        <verse sID="esdrae-4.2.30" osisID="esdrae-4.2.30" />Iucundare, mater, cum filiis tuis, quia ego te eripiam, dicit Dominus.<verse eID="esdrae-4.2.30" />
+        <verse sID="esdrae-4.2.31" osisID="esdrae-4.2.31" />Filios tuos dormientes memorare, quoniam ego eos educam de latibulis terrae et misericordiam cum illis faciam, quoniam misericors sum, dicit Dominus omnipotens.<verse eID="esdrae-4.2.31" />
+        <verse sID="esdrae-4.2.32" osisID="esdrae-4.2.32" />Amplectere natos tuos usque dum venio et praedica illis misericordiam, quoniam exuberant fontes mei et gratia mea non deficiet.<verse eID="esdrae-4.2.32" />
+        <verse sID="esdrae-4.2.33" osisID="esdrae-4.2.33" />Ego Ezra accepi praeceptum a Domino in monte Horeb, ut irem ad Israhel. Ad quos cum venirem, reprobaverunt me et respuerunt mandatum Domini.<verse eID="esdrae-4.2.33" />
+        <verse sID="esdrae-4.2.34" osisID="esdrae-4.2.34" />Ideoque vobis dico, gentes quae auditis et intellegitis: Expectate pastorem vestrum, requiem aeternitatis dabit vobis, quoniam in proximo est ille, qui in finem saeculi adveniet.<verse eID="esdrae-4.2.34" />
+        <verse sID="esdrae-4.2.35" osisID="esdrae-4.2.35" />Parati estote ad praemia regni, quia lux perpetua lucebit vobis per aeternitatem temporis.<verse eID="esdrae-4.2.35" />
+        <verse sID="esdrae-4.2.36" osisID="esdrae-4.2.36" />Fugite umbram saeculi huius, accipite iucunditatem gloriae vestrae. Ego testor palam salvatorem meum.<verse eID="esdrae-4.2.36" />
+        <verse sID="esdrae-4.2.37" osisID="esdrae-4.2.37" />Commendatum Domini accipite et iucundamini gratias agentes ei qui vos ad caelestia regna vocavit.<verse eID="esdrae-4.2.37" />
+        <verse sID="esdrae-4.2.38" osisID="esdrae-4.2.38" />Surgite et state et videte numerum signatorum in convivio Domini.<verse eID="esdrae-4.2.38" />
+        <verse sID="esdrae-4.2.39" osisID="esdrae-4.2.39" />Qui se de umbra saeculi transtulerunt, splendidas tunicas a Domino acceperunt.<verse eID="esdrae-4.2.39" />
+        <verse sID="esdrae-4.2.40" osisID="esdrae-4.2.40" />Recipe, Sion, numerum tuum et conclude candidatos tuos, qui legem Domini conpleverunt.<verse eID="esdrae-4.2.40" />
+        <verse sID="esdrae-4.2.41" osisID="esdrae-4.2.41" />Filiorum tuorum, quos optabas, plenus est numerus; roga imperium Domini, ut sanctificetur populus tuus, qui vocatus est ab initio.<verse eID="esdrae-4.2.41" />
+        <verse sID="esdrae-4.2.42" osisID="esdrae-4.2.42" />Ego Ezra vidi in monte Sion turbam magnam, quam numerare non potui, et omnes canticis conlaudabant Dominum.<verse eID="esdrae-4.2.42" />
+        <verse sID="esdrae-4.2.43" osisID="esdrae-4.2.43" />Et in medio eorum erat iuvenis statura celsus, eminentior omnibus illis, et singulis eorum capitibus inponebat coronas, et magis exaltabatur; ego autem miraculo tenebar.<verse eID="esdrae-4.2.43" />
+        <verse sID="esdrae-4.2.44" osisID="esdrae-4.2.44" />Tunc interrogavi angelum et dixi: Qui sunt hii, domine?<verse eID="esdrae-4.2.44" />
+        <verse sID="esdrae-4.2.45" osisID="esdrae-4.2.45" />Qui respondens dixit mihi: Hii sunt qui mortalem tunicam deposuerunt et inmortalem sumpserunt et confessi sunt nomen Dei; modo coronantur et accipiunt palmas.<verse eID="esdrae-4.2.45" />
+        <verse sID="esdrae-4.2.46" osisID="esdrae-4.2.46" />Et dixi ad angelum: Ille iuvenis quis est, qui eis coronas inponit et palmas in manus tradit?<verse eID="esdrae-4.2.46" />
+        <verse sID="esdrae-4.2.47" osisID="esdrae-4.2.47" />Qui respondens dixit mihi: Ipse est Filius Dei, quem in saeculo confessi sunt. Ego autem magnificare eos coepi, qui fortiter pro nomine Domini steterunt.<verse eID="esdrae-4.2.47" />
+        <verse sID="esdrae-4.2.48" osisID="esdrae-4.2.48" />Tunc dixit mihi angelus: Vade et adnuntia populo meo, qualia et quanta mirabilia Domini Dei vidisti.<verse eID="esdrae-4.2.48" />
+      </p>
+      <chapter eID="esdrae-4.2" />
+      <chapter sID="esdrae-4.3" osisID="esdrae-4.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="esdrae-4.3.1" osisID="esdrae-4.3.1" />Anno tricesimo ruinae civitatis eram in Babylone, ego Salathihel qui et Ezras, et conturbatus sum super cubili meo recumbens, et cogitationes meae ascendebant super cor meum,<verse eID="esdrae-4.3.1" />
+        <verse sID="esdrae-4.3.2" osisID="esdrae-4.3.2" />quoniam vidi desertionem Sion et abundantiam eorum qui habitabant in Babylone.<verse eID="esdrae-4.3.2" />
+        <verse sID="esdrae-4.3.3" osisID="esdrae-4.3.3" />Et ventilatus est spiritus meus valde, et coepi loqui ad Altissimum verba timorata,<verse eID="esdrae-4.3.3" />
+        <verse sID="esdrae-4.3.4" osisID="esdrae-4.3.4" />et dixi: O Domine Dominator, tu dixisti ab initio, quando plantasti terram, et hoc solus, et imperasti pulveri,<verse eID="esdrae-4.3.4" />
+        <verse sID="esdrae-4.3.5" osisID="esdrae-4.3.5" />et dedit Adam corpus mortuum. Sed et ipsum figmentum manuum tuarum erat, et insuflasti in eum spiritum vitae, et factus est vivens coram te.<verse eID="esdrae-4.3.5" />
+        <verse sID="esdrae-4.3.6" osisID="esdrae-4.3.6" />Et induxisti eum in paradisum, quem plantavit dextera tua antequam terra adventaret.<verse eID="esdrae-4.3.6" />
+        <verse sID="esdrae-4.3.7" osisID="esdrae-4.3.7" />Et huic mandasti diligentiam unam tuam, et praeterivit eam, et statim instituisti in eum mortem et in nationibus eius. Et natae sunt ex eo gentes et tribus, populi et cognationes, quorum non est numerus.<verse eID="esdrae-4.3.7" />
+        <verse sID="esdrae-4.3.8" osisID="esdrae-4.3.8" />Et ambulavit unaquaque gens in voluntate sua, et impie agebant coram te et spernebant praecepta tua, et tu non prohibuisti eos.<verse eID="esdrae-4.3.8" />
+        <verse sID="esdrae-4.3.9" osisID="esdrae-4.3.9" />Iterum autem in tempore induxisti diluvium super habitantes saeculum et perdidisti eos.<verse eID="esdrae-4.3.9" />
+        <verse sID="esdrae-4.3.10" osisID="esdrae-4.3.10" />Et factum est in uno casui eorum, sicut Adae mors sic et his diluvium.<verse eID="esdrae-4.3.10" />
+        <verse sID="esdrae-4.3.11" osisID="esdrae-4.3.11" />Dereliquisti autem ex his unum Noe cum domo sua; ex eo iustos omnes.<verse eID="esdrae-4.3.11" />
+        <verse sID="esdrae-4.3.12" osisID="esdrae-4.3.12" />Et factum est cum coepissent multiplicari qui habitabant super terram, et multiplicaverunt filios et populos et gentes multas, et coeperunt iterato impietatem facere plus quam priores.<verse eID="esdrae-4.3.12" />
+        <verse sID="esdrae-4.3.13" osisID="esdrae-4.3.13" />Et factum est cum iniquitatem facerent coram te, elegisti tibi ex his unum, cui nomen erat Abraham.<verse eID="esdrae-4.3.13" />
+        <verse sID="esdrae-4.3.14" osisID="esdrae-4.3.14" />Et dilexisti eum et demonstrasti ei temporum finem solo secrete noctu.<verse eID="esdrae-4.3.14" />
+        <verse sID="esdrae-4.3.15" osisID="esdrae-4.3.15" />Et disposuisti ei testamentum aeternum et dixisti ei, ut non umquam derelinquas semen eius. Et dedisti ei Isaac, et Isaac dedisti Iacob et Esau.<verse eID="esdrae-4.3.15" />
+        <verse sID="esdrae-4.3.16" osisID="esdrae-4.3.16" />Et segregasti tibi Iacob, Esau autem separasti, et factus est Iacob in multitudine magna.<verse eID="esdrae-4.3.16" />
+        <verse sID="esdrae-4.3.17" osisID="esdrae-4.3.17" />Et factum est cum educeres semen eius ex Aegypto, et adduxisti eos super montem Sina.<verse eID="esdrae-4.3.17" />
+        <verse sID="esdrae-4.3.18" osisID="esdrae-4.3.18" />Et inclinasti caelos et statuisti terram et commovisti orbem et tremere fecisti abyssos et conturbasti saeculum.<verse eID="esdrae-4.3.18" />
+        <verse sID="esdrae-4.3.19" osisID="esdrae-4.3.19" />Et transiit gloria tua portas quattuor, ignis et terraemotus et spiritus et gelu, ut dares semini Iacob legem et generationi Israhel diligentiam.<verse eID="esdrae-4.3.19" />
+        <verse sID="esdrae-4.3.20" osisID="esdrae-4.3.20" />Et non abstulisti ab eis cor malignum, ut faceret lex tua in eis fructum.<verse eID="esdrae-4.3.20" />
+        <verse sID="esdrae-4.3.21" osisID="esdrae-4.3.21" />Cor enim malignum baiulans primus Adam transgressus et victus est, sed et omnes qui ex eo nati sunt.<verse eID="esdrae-4.3.21" />
+        <verse sID="esdrae-4.3.22" osisID="esdrae-4.3.22" />Et facta est permanens infirmitas et lex cum corde populi cum malignitate radicis, et discessit quod bonum est et mansit malignum.<verse eID="esdrae-4.3.22" />
+        <verse sID="esdrae-4.3.23" osisID="esdrae-4.3.23" />Et transierunt tempora et finiti sunt anni, et suscitasti tibi servum nomine David.<verse eID="esdrae-4.3.23" />
+        <verse sID="esdrae-4.3.24" osisID="esdrae-4.3.24" />Et dixisti ei aedificare civitatem nominis tui et offerre tibi in ea de tuis oblationes.<verse eID="esdrae-4.3.24" />
+        <verse sID="esdrae-4.3.25" osisID="esdrae-4.3.25" />Et factum est hoc annis multis. Et dereliquerunt qui habitabant civitatem,<verse eID="esdrae-4.3.25" />
+        <verse sID="esdrae-4.3.26" osisID="esdrae-4.3.26" />in omnibus facientes sicut fecit Adam et omnes generationes eius; utebantur enim et ipsi cor malignum.<verse eID="esdrae-4.3.26" />
+        <verse sID="esdrae-4.3.27" osisID="esdrae-4.3.27" />Et tradidisti civitatem tuam in manus inimicorum tuorum.<verse eID="esdrae-4.3.27" />
+        <verse sID="esdrae-4.3.28" osisID="esdrae-4.3.28" />Et dixi ego tunc in corde meo: Numquid meliora faciunt qui habitant in Babylone, et propter hoc dominabit Sion?<verse eID="esdrae-4.3.28" />
+        <verse sID="esdrae-4.3.29" osisID="esdrae-4.3.29" />Factum est autem cum venissem huc, et vidi impietates quorum non est numerus, et delinquentes multos vidit anima mea hoc tricesimo anno. Et excessit cor meum,<verse eID="esdrae-4.3.29" />
+        <verse sID="esdrae-4.3.30" osisID="esdrae-4.3.30" />quoniam vidi quomodo sustines eos peccantes et pepercisti impie agentibus, et perdidisti populum tuum et conservasti inimicos tuos, et non significasti<verse eID="esdrae-4.3.30" />
+        <verse sID="esdrae-4.3.31" osisID="esdrae-4.3.31" />nihil nemini quomodo debeat derelinqui via haec. Numquid meliora facit Babylon quam Sion,<verse eID="esdrae-4.3.31" />
+        <verse sID="esdrae-4.3.32" osisID="esdrae-4.3.32" />aut alia gens cognovit te praeter Israhel? Aut quae tribus crediderunt testamentis sicut haec Iacob,<verse eID="esdrae-4.3.32" />
+        <verse sID="esdrae-4.3.33" osisID="esdrae-4.3.33" />quarum merces non conparuit neque labor fructificavit? Pertransiens enim pertransivi in gentibus, et vidi abundantes eas et non memorantes mandatorum tuorum.<verse eID="esdrae-4.3.33" />
+        <verse sID="esdrae-4.3.34" osisID="esdrae-4.3.34" />Nunc ergo pondera in statera nostras iniquitates et eorum qui habitant in saeculo, et invenietur momentum puncti ubi declinet.<verse eID="esdrae-4.3.34" />
+        <verse sID="esdrae-4.3.35" osisID="esdrae-4.3.35" />Aut quando non peccaverunt in conspectu tuo qui habitant terram, aut quae gens sic observavit mandata tua?<verse eID="esdrae-4.3.35" />
+        <verse sID="esdrae-4.3.36" osisID="esdrae-4.3.36" />Homines quidem per nomina invenies servasse mandata tua, gentes autem non invenies.<verse eID="esdrae-4.3.36" />
+      </p>
+      <chapter eID="esdrae-4.3" />
+      <chapter sID="esdrae-4.4" osisID="esdrae-4.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="esdrae-4.4.1" osisID="esdrae-4.4.1" />Et respondit ad me angelus qui missus est ad me, cui nomen Urihel,<verse eID="esdrae-4.4.1" />
+        <verse sID="esdrae-4.4.2" osisID="esdrae-4.4.2" />et dixit mihi: Excedens excessit cor tuum in saeculo hoc, et conprehendere cogitas viam Altissimi?<verse eID="esdrae-4.4.2" />
+        <verse sID="esdrae-4.4.3" osisID="esdrae-4.4.3" />Et dixi: Ita, domine meus. Et respondit mihi et dixit: Tres vias missus sum ostendere tibi et tres similitudines proponere coram te.<verse eID="esdrae-4.4.3" />
+        <verse sID="esdrae-4.4.4" osisID="esdrae-4.4.4" />De quibus si mihi renuntiaveris unam ex his, et ego tibi demonstrabo viam quam desideras videre, et doceam te quare cor malignum.<verse eID="esdrae-4.4.4" />
+        <verse sID="esdrae-4.4.5" osisID="esdrae-4.4.5" />Et dixi: Loquere, domine meus. Et dixit ad me: Vade, pondera mihi ignis pondus, aut mensura mihi flatum venti, aut revoca mihi diem quae praeteriit.<verse eID="esdrae-4.4.5" />
+        <verse sID="esdrae-4.4.6" osisID="esdrae-4.4.6" />Et respondi et dixi: Quis natorum poterit facere, ut me interroges de his?<verse eID="esdrae-4.4.6" />
+        <verse sID="esdrae-4.4.7" osisID="esdrae-4.4.7" />Et dixit ad me: Si eram interrogans te dicens: Quantae habitationes sunt in corde maris, aut quantae venae sunt in principio abyssi, aut quantae venae sunt super firmamentum, aut qui sint exitus paradisi,<verse eID="esdrae-4.4.7" />
+        <verse sID="esdrae-4.4.8" osisID="esdrae-4.4.8" />dicebas fortassis mihi: In abyssum non descendi neque in infernum adhuc, neque in caelis umquam ascendi.<verse eID="esdrae-4.4.8" />
+        <verse sID="esdrae-4.4.9" osisID="esdrae-4.4.9" />Nunc autem non interrogavi te nisi de igne et vento et diem per quem transisti, et sine quibus separari non potes, et non respondisti mihi de eis.<verse eID="esdrae-4.4.9" />
+        <verse sID="esdrae-4.4.10" osisID="esdrae-4.4.10" />Et dixit mihi: Tu quae tua sunt tecum coadulescentia non potes cognoscere,<verse eID="esdrae-4.4.10" />
+        <verse sID="esdrae-4.4.11" osisID="esdrae-4.4.11" />et quomodo poterit vas tuum capere Altissimi viam? … Et iam exterritus corrupto saeculo intellegere incorruptionem?
+Et cum haec audissem, cecidi in faciem meam<verse eID="esdrae-4.4.11" />
+        <verse sID="esdrae-4.4.12" osisID="esdrae-4.4.12" />et dixi illi: Melius erat nos non adesse, quam advenientes vivere in impietatibus et pati et non intellegere de qua re.<verse eID="esdrae-4.4.12" />
+        <verse sID="esdrae-4.4.13" osisID="esdrae-4.4.13" />Et respondit ad me et dixit: Proficiscens profectus sum ad silvam lignorum campi, et cogitaverunt cogitationem<verse eID="esdrae-4.4.13" />
+        <verse sID="esdrae-4.4.14" osisID="esdrae-4.4.14" />et dixerunt: Venite et eamus et faciamus ad mare bellum, ut recedat coram nos, et faciamus nobis alias silvas.<verse eID="esdrae-4.4.14" />
+        <verse sID="esdrae-4.4.15" osisID="esdrae-4.4.15" />Et similiter fluctus maris et ipsi cogitaverunt cogitationem et dixerunt: Venite ascendentes debellemus silvam campi, ut et ibi consummemus nobismet ipsis aliam regionem.<verse eID="esdrae-4.4.15" />
+        <verse sID="esdrae-4.4.16" osisID="esdrae-4.4.16" />Et factus est cogitatus silvae in vano, venit enim ignis et consumpsit eam.<verse eID="esdrae-4.4.16" />
+        <verse sID="esdrae-4.4.17" osisID="esdrae-4.4.17" />Similiter et cogitatus fluctuum maris, stetit enim harena et prohibuit eam.<verse eID="esdrae-4.4.17" />
+        <verse sID="esdrae-4.4.18" osisID="esdrae-4.4.18" />Si enim eras iudex horum, quem incipiebas iustificare aut quem condemnare?<verse eID="esdrae-4.4.18" />
+        <verse sID="esdrae-4.4.19" osisID="esdrae-4.4.19" />Et respondi et dixi: Utrique vanam cogitationem cogitaverunt, terra enim data est silvae, et maris locus portare fluctus suos.<verse eID="esdrae-4.4.19" />
+        <verse sID="esdrae-4.4.20" osisID="esdrae-4.4.20" />Et respondit ad me et dixit: Bene tu iudicasti, et quare non iudicasti tibimet ipso?<verse eID="esdrae-4.4.20" />
+        <verse sID="esdrae-4.4.21" osisID="esdrae-4.4.21" />Quemadmodum enim terra silvae data est et mare fluctibus suis, et qui super terram inhabitant quae sunt super terram intellegere solummodo possunt, et qui super caelos super altitudinem caelorum.<verse eID="esdrae-4.4.21" />
+        <verse sID="esdrae-4.4.22" osisID="esdrae-4.4.22" />Et respondi et dixi: Deprecor te, domine, ut mihi datus est sensus intellegendi.<verse eID="esdrae-4.4.22" />
+        <verse sID="esdrae-4.4.23" osisID="esdrae-4.4.23" />Non enim volui interrogare de superioribus viis, sed de his quae pertranseunt per nos cotidie, propter quod Israhel datus est in obprobrium gentibus, quem dilexisti populum datus est tribubus impiis, et lex patrum nostrorum in interitum deducta est, et dispositiones scriptae nusquam sunt.<verse eID="esdrae-4.4.23" />
+        <verse sID="esdrae-4.4.24" osisID="esdrae-4.4.24" />Et pertransivimus de saeculo ut lucustae, et vita nostra ut vapor, et nec digni sumus misericordiam consequi.<verse eID="esdrae-4.4.24" />
+        <verse sID="esdrae-4.4.25" osisID="esdrae-4.4.25" />Sed quid faciet nomini suo quod invocatum est super nos? Et his interrogavi.<verse eID="esdrae-4.4.25" />
+        <verse sID="esdrae-4.4.26" osisID="esdrae-4.4.26" />Et respondit ad me et dixit: Si fueris videbis, et si vixeris frequenter miraberis, quoniam festinans festinat saeculum pertransire.<verse eID="esdrae-4.4.26" />
+        <verse sID="esdrae-4.4.27" osisID="esdrae-4.4.27" />Non capiet portare quae in temporibus iustis repromissa sunt, quoniam plenum maestitia est saeculum hoc et infirmitatibus.<verse eID="esdrae-4.4.27" />
+        <verse sID="esdrae-4.4.28" osisID="esdrae-4.4.28" />Seminatum est enim malum, de quibus me interrogas de ea, et necdum venit destrictio ipsius.<verse eID="esdrae-4.4.28" />
+        <verse sID="esdrae-4.4.29" osisID="esdrae-4.4.29" />Si ergo non messum fuerit quod seminatum est, et discesserit locus ubi seminatum est malum, non veniet ager ubi seminatum est bonum.<verse eID="esdrae-4.4.29" />
+        <verse sID="esdrae-4.4.30" osisID="esdrae-4.4.30" />Quoniam granum seminis mali seminatum est in corde Adam ab initio, et quantum impietatis generavit usque nunc et generabit usque cum veniat area.<verse eID="esdrae-4.4.30" />
+        <verse sID="esdrae-4.4.31" osisID="esdrae-4.4.31" />Aestima autem apud te, granum mali seminis quantum fructum impietatis generaverit.<verse eID="esdrae-4.4.31" />
+        <verse sID="esdrae-4.4.32" osisID="esdrae-4.4.32" />Quando seminatae fuerint spicae quarum non est numerus, quam magnam aream incipient facere.<verse eID="esdrae-4.4.32" />
+        <verse sID="esdrae-4.4.33" osisID="esdrae-4.4.33" />Et respondi et dixi: Quo et quando haec? Quare modici et mali anni nostri?<verse eID="esdrae-4.4.33" />
+        <verse sID="esdrae-4.4.34" osisID="esdrae-4.4.34" />Et respondit ad me et dixit: Non festina spiritu super Altissimum; tu enim festinas propter temet ipsum spiritum, nam Excelsus pro multis.<verse eID="esdrae-4.4.34" />
+        <verse sID="esdrae-4.4.35" osisID="esdrae-4.4.35" />Nonne de his interrogaverunt animae iustorum in promptuariis suis dicentes: Usquequo spero sic? Et quando venit fructus areae mercedis nostrae?<verse eID="esdrae-4.4.35" />
+        <verse sID="esdrae-4.4.36" osisID="esdrae-4.4.36" />Et respondit ad ea Hieremihel archangelus et dixit: Quando impletus fuerit numerus similium vobis, quoniam in statera ponderavit saeculum<verse eID="esdrae-4.4.36" />
+        <verse sID="esdrae-4.4.37" osisID="esdrae-4.4.37" />et mensura mensuravit tempora et numero numeravit tempora, et non commovet nec excitabit usque dum impleatur praedicta mensura.<verse eID="esdrae-4.4.37" />
+        <verse sID="esdrae-4.4.38" osisID="esdrae-4.4.38" />Et respondi et dixi: O dominator domine, sed et nos omnes pleni sumus impietate.<verse eID="esdrae-4.4.38" />
+        <verse sID="esdrae-4.4.39" osisID="esdrae-4.4.39" />Et ne forte propter nos inpediatur iustorum area, propter peccata inhabitantium super terram.<verse eID="esdrae-4.4.39" />
+        <verse sID="esdrae-4.4.40" osisID="esdrae-4.4.40" />Et respondit ad me et dixit: Vade et interroga praegnantem, si quando impleverit novem menses suos, adhuc poterit matrix eius retinere fetus in semet ipsa.<verse eID="esdrae-4.4.40" />
+        <verse sID="esdrae-4.4.41" osisID="esdrae-4.4.41" />Et dixi: Non potest, domine. Et dixit ad me: In inferno promptuaria animarum matrici adsimilata sunt.<verse eID="esdrae-4.4.41" />
+        <verse sID="esdrae-4.4.42" osisID="esdrae-4.4.42" />Quemadmodum enim festinavit quae parit effugere necessitatem partus, sic et haec festinat reddere ea quae commendata sunt<verse eID="esdrae-4.4.42" />
+        <verse sID="esdrae-4.4.43" osisID="esdrae-4.4.43" />ab initio. Tunc tibi demonstrabitur de his quae concupiscis videre.<verse eID="esdrae-4.4.43" />
+        <verse sID="esdrae-4.4.44" osisID="esdrae-4.4.44" />Et respondi et dixi: Si inveni gratiam ante oculos tuos, et si possibile est, et si idoneus sum,<verse eID="esdrae-4.4.44" />
+        <verse sID="esdrae-4.4.45" osisID="esdrae-4.4.45" />demonstra mihi et hoc, si plus quam praeteriti habet venire aut plura pertransierunt super nos,<verse eID="esdrae-4.4.45" />
+        <verse sID="esdrae-4.4.46" osisID="esdrae-4.4.46" />quoniam quod pertransivit scio, quid autem futuri sit ignoro.<verse eID="esdrae-4.4.46" />
+        <verse sID="esdrae-4.4.47" osisID="esdrae-4.4.47" />Et dixit ad me: Sta super dexteram partem et demonstrabo tibi interpretationem similitudinis.<verse eID="esdrae-4.4.47" />
+        <verse sID="esdrae-4.4.48" osisID="esdrae-4.4.48" />Et steti et vidi, et ecce fornax ardens transiit coram me; et factum est cum transiret flamma, et vidi et ecce superavit fumus.<verse eID="esdrae-4.4.48" />
+        <verse sID="esdrae-4.4.49" osisID="esdrae-4.4.49" />Et post hoc transiit coram me nubes plena aquae et inmisit pluviam impetu multam; et cum transisset impetus pluviae, et superaverunt in ea guttae.<verse eID="esdrae-4.4.49" />
+        <verse sID="esdrae-4.4.50" osisID="esdrae-4.4.50" />Et dixit ad me: Cogita tibi. Sicut enim crescit pluvia amplius quam guttae, et ignis amplius quam fumus, sic superabundavit quae transivit mensura, superaverunt autem guttae et fumus.<verse eID="esdrae-4.4.50" />
+        <verse sID="esdrae-4.4.51" osisID="esdrae-4.4.51" />Et oravi et dixi: Putas vivo usque in diebus illis, vel quis erit in diebus illis?<verse eID="esdrae-4.4.51" />
+        <verse sID="esdrae-4.4.52" osisID="esdrae-4.4.52" />Respondit ad me et dixit: De signis de quibus me perrogas, ex parte possum tibi dicere, de vita autem tua non sum missus dicere tibi, sed nescio.<verse eID="esdrae-4.4.52" />
+      </p>
+      <chapter eID="esdrae-4.4" />
+      <chapter sID="esdrae-4.5" osisID="esdrae-4.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="esdrae-4.5.1" osisID="esdrae-4.5.1" />De signis autem: Ecce dies venient, et adprehendentur qui inhabitant super terram in excessu multo, et abscondetur veritatis via, et sterilis erit a fide regio.<verse eID="esdrae-4.5.1" />
+        <verse sID="esdrae-4.5.2" osisID="esdrae-4.5.2" />Et multiplicabitur iniustitia super hanc quam ipse tu vides et super quam audisti olim.<verse eID="esdrae-4.5.2" />
+        <verse sID="esdrae-4.5.3" osisID="esdrae-4.5.3" />Et erit inconposita vestigio quam nunc vides regnare regionem, et videbunt eam desertam.<verse eID="esdrae-4.5.3" />
+        <verse sID="esdrae-4.5.4" osisID="esdrae-4.5.4" />Si autem tibi dederit Altissimus vivere, et videbis post tertiam turbatam, et relucescet subito sol noctu et luna interdie.<verse eID="esdrae-4.5.4" />
+        <verse sID="esdrae-4.5.5" osisID="esdrae-4.5.5" />Et de ligno sanguis stillabit, et lapis dabit vocem suam; et populi commovebuntur, et gressus commutabuntur.<verse eID="esdrae-4.5.5" />
+        <verse sID="esdrae-4.5.6" osisID="esdrae-4.5.6" />Et regnabit quem non sperant qui inhabitant super terram; et volatilia conmigrationem facient.<verse eID="esdrae-4.5.6" />
+        <verse sID="esdrae-4.5.7" osisID="esdrae-4.5.7" />Et mare Sodomitum pisces reiciet. Et dabit vocem noctu quem non noverant multi, omnes autem audient vocem eius.<verse eID="esdrae-4.5.7" />
+        <verse sID="esdrae-4.5.8" osisID="esdrae-4.5.8" />Et chaus fiet per loca multa, et ignis frequenter emittetur, et bestiae agrestes transmigrabunt regionem suam, et mulieres parient menstruatae monstra,<verse eID="esdrae-4.5.8" />
+        <verse sID="esdrae-4.5.9" osisID="esdrae-4.5.9" />et in dulcibus aquis salsae invenientur. Et amici omnes semet ipsos expugnabunt; et abscondetur tunc sensus, et intellectus separabitur in promptuarium suum.<verse eID="esdrae-4.5.9" />
+        <verse sID="esdrae-4.5.10" osisID="esdrae-4.5.10" />Et quaeretur a multis et non invenietur, et multiplicabitur iniustitia et incontinentia super terram.<verse eID="esdrae-4.5.10" />
+        <verse sID="esdrae-4.5.11" osisID="esdrae-4.5.11" />Et interrogabit regio proximam suam et dicet: Numquid per te pertransiit iustitia iustum faciens? Et haec negabit.<verse eID="esdrae-4.5.11" />
+        <verse sID="esdrae-4.5.12" osisID="esdrae-4.5.12" />Et erit in illo tempore, et sperabunt homines et non inpetrabunt, laborabunt et non dirigentur viae eorum.<verse eID="esdrae-4.5.12" />
+        <verse sID="esdrae-4.5.13" osisID="esdrae-4.5.13" />Haec signa dicere tibi permissum est mihi. Et si oraveris iterum et ploraveris sicut et nunc et ieiunaveris septem diebus, audies iterato horum maiora.<verse eID="esdrae-4.5.13" />
+        <verse sID="esdrae-4.5.14" osisID="esdrae-4.5.14" />Et evigilavi, et corpus meum horruit valde, et anima mea laboravit ut deficeret.<verse eID="esdrae-4.5.14" />
+        <verse sID="esdrae-4.5.15" osisID="esdrae-4.5.15" />Et tenuit me qui venit angelus, qui loquebatur in me, et confortavit me et statuit me super pedes.<verse eID="esdrae-4.5.15" />
+        <verse sID="esdrae-4.5.16" osisID="esdrae-4.5.16" />Et factum est in nocte secunda, et venit ad me Phalthihel dux populi et dixit mihi: Ubi eras et quare vultus tuus tristis?<verse eID="esdrae-4.5.16" />
+        <verse sID="esdrae-4.5.17" osisID="esdrae-4.5.17" />Aut nescis quoniam tibi creditus est Israhel in regione transmigrationis eorum?<verse eID="esdrae-4.5.17" />
+        <verse sID="esdrae-4.5.18" osisID="esdrae-4.5.18" />Exsurge ergo et gusta panem alicuius, et non derelinquas nos sicut pastor gregem suum in manibus luporum malignorum.<verse eID="esdrae-4.5.18" />
+        <verse sID="esdrae-4.5.19" osisID="esdrae-4.5.19" />Et dixi ei: Vade a me et non ad me accedas usque diebus septem, et tunc venies ad me. Et audivit ut dixi et recessit a me.<verse eID="esdrae-4.5.19" />
+        <verse sID="esdrae-4.5.20" osisID="esdrae-4.5.20" />Et ego ieiunavi diebus septem ululans et plorans, sicut mihi mandavit Urihel angelus.<verse eID="esdrae-4.5.20" />
+        <verse sID="esdrae-4.5.21" osisID="esdrae-4.5.21" />Et factum est post dies septem, et iterum cogitationes cordis mei molestae erant mihi valde.<verse eID="esdrae-4.5.21" />
+        <verse sID="esdrae-4.5.22" osisID="esdrae-4.5.22" />Et resumpsit anima mea spiritum intellectus, et iterum coepi loqui coram Altissimo sermones<verse eID="esdrae-4.5.22" />
+        <verse sID="esdrae-4.5.23" osisID="esdrae-4.5.23" />et dixi: Dominator Domine, ex omni silva terrae et ex omnium arborum eius elegisti vineam unam,<verse eID="esdrae-4.5.23" />
+        <verse sID="esdrae-4.5.24" osisID="esdrae-4.5.24" />et ex omnium terrarum orbis elegisti tibi foveam unam, et ex omnibus floribus orbis elegisti tibi lilium unum,<verse eID="esdrae-4.5.24" />
+        <verse sID="esdrae-4.5.25" osisID="esdrae-4.5.25" />et ex omnibus abyssis maris replesti tibi rivum unum, et ex omnibus aedificatis civitatibus sanctificasti tibimet ipsi Sion,<verse eID="esdrae-4.5.25" />
+        <verse sID="esdrae-4.5.26" osisID="esdrae-4.5.26" />et ex omnibus creatis volatilibus nominasti tibi columbam unam, et ex omnibus plasmatis pecoribus providisti tibi ovem unam,<verse eID="esdrae-4.5.26" />
+        <verse sID="esdrae-4.5.27" osisID="esdrae-4.5.27" />et ex omnibus multiplicatis populis adquisisti tibi populum unum, et ab omnibus probatam legem donasti huic quem desiderasti populo.<verse eID="esdrae-4.5.27" />
+        <verse sID="esdrae-4.5.28" osisID="esdrae-4.5.28" />Et nunc Domine, ut quid tradidisti unum plurimis et praeparasti unam radicem super alias et dispersisti unicum tuum in multis?<verse eID="esdrae-4.5.28" />
+        <verse sID="esdrae-4.5.29" osisID="esdrae-4.5.29" />Et conculcaverunt qui contradicebant sponsionibus tuis quique tuis testamentis credebant.<verse eID="esdrae-4.5.29" />
+        <verse sID="esdrae-4.5.30" osisID="esdrae-4.5.30" />Et si odiens odisti populum tuum tuis manibus debet castigari.<verse eID="esdrae-4.5.30" />
+        <verse sID="esdrae-4.5.31" osisID="esdrae-4.5.31" />Et factum est, cum locutus essem sermones istos, et missus est angelus ad me qui ante venerat ad me praeterita nocte,<verse eID="esdrae-4.5.31" />
+        <verse sID="esdrae-4.5.32" osisID="esdrae-4.5.32" />et dixit mihi: Audi me et instruam te, et intende mihi et adiciam coram te.<verse eID="esdrae-4.5.32" />
+        <verse sID="esdrae-4.5.33" osisID="esdrae-4.5.33" />Et dixi: Loquere, dominus meus. Et dixit ad me: Valde in excessu mentis factus es in Israhel; aut plus dilexisti eum super eum qui fecit eum?<verse eID="esdrae-4.5.33" />
+        <verse sID="esdrae-4.5.34" osisID="esdrae-4.5.34" />Et dixi: Non, domine, sed dolens locutus sum, torquent enim me renes mei per omnem horam quaerentem adprehendere semitam Altissimi et investigare partem iudicii eius.<verse eID="esdrae-4.5.34" />
+        <verse sID="esdrae-4.5.35" osisID="esdrae-4.5.35" />Et dixit ad me: Non potes. Et dixi: Quare, domine, aut quid nascebar, aut quare non fiebat matrix matris meae mihi sepulchrum, ut non viderem laborem Iacob et defatigationem generis Israhel?<verse eID="esdrae-4.5.35" />
+        <verse sID="esdrae-4.5.36" osisID="esdrae-4.5.36" />Et dixit ad me: Numera mihi qui necdum venerunt, et collige mihi dispersas guttas, et revirida mihi aridos flores,<verse eID="esdrae-4.5.36" />
+        <verse sID="esdrae-4.5.37" osisID="esdrae-4.5.37" />et aperi mihi clausa promptuaria et produc mihi inclusos in eis flatus, aut monstra mihi vocis imaginem, et tunc ostendam tibi eum laborem quem rogas videre.<verse eID="esdrae-4.5.37" />
+        <verse sID="esdrae-4.5.38" osisID="esdrae-4.5.38" />Et dixi: Dominator domine, quis enim est qui potest haec scire, nisi qui cum hominibus habitationem non habet?<verse eID="esdrae-4.5.38" />
+        <verse sID="esdrae-4.5.39" osisID="esdrae-4.5.39" />Ego autem insipiens, et quomodo potero dicere de his quibus me interrogasti?<verse eID="esdrae-4.5.39" />
+        <verse sID="esdrae-4.5.40" osisID="esdrae-4.5.40" />Et dixit ad me: Quomodo non potes facere unum de his quae dicta sunt, sic non poteris invenire iudicium meum aut finem caritatis quem pro populo meo promisi.<verse eID="esdrae-4.5.40" />
+        <verse sID="esdrae-4.5.41" osisID="esdrae-4.5.41" />Et dixi: Sed ecce, domine, tu praees his qui in fine sunt, et quid facient qui ante me sunt aut nos aut hii qui post nos?<verse eID="esdrae-4.5.41" />
+        <verse sID="esdrae-4.5.42" osisID="esdrae-4.5.42" />Et dixit ad me: Coronae adsimilabo iudicium meum. Sicut non novissimorum tarditas, sic nec priorum velocitas.<verse eID="esdrae-4.5.42" />
+        <verse sID="esdrae-4.5.43" osisID="esdrae-4.5.43" />Et respondi et dixi: Nec enim poteras facere qui facti sunt et qui sunt et qui futuri sunt in unum, ut celerius iudicium tuum ostendas?<verse eID="esdrae-4.5.43" />
+        <verse sID="esdrae-4.5.44" osisID="esdrae-4.5.44" />Et respondit ad me et dixit: Non potest festinare creatura super creatorem, nec sustinere saeculum qui in eo creati sunt in unum.<verse eID="esdrae-4.5.44" />
+        <verse sID="esdrae-4.5.45" osisID="esdrae-4.5.45" />Et dixi: Quomodo dixisti servo tuo, quoniam vivificans vivificabis a te creatam creaturam in unum? Si ergo viventes vivent in unum et sustinebit creatura, poterit et nunc portare praesentes in unum.<verse eID="esdrae-4.5.45" />
+        <verse sID="esdrae-4.5.46" osisID="esdrae-4.5.46" />Et dixit ad me: Interroga matricem mulieris et dices ad eam: Decem si paris, quare per tempus? Roga ergo eam, ut det decem in unum.<verse eID="esdrae-4.5.46" />
+        <verse sID="esdrae-4.5.47" osisID="esdrae-4.5.47" />Et dixi: Non utique poterit, sed secundum tempus.<verse eID="esdrae-4.5.47" />
+        <verse sID="esdrae-4.5.48" osisID="esdrae-4.5.48" />Et dixit ad me: Et ego dedi matricem terrae his qui seminati sunt super eam per tempus.<verse eID="esdrae-4.5.48" />
+        <verse sID="esdrae-4.5.49" osisID="esdrae-4.5.49" />Quemadmodum enim infans non parit nec ea quae senuit adhuc, sic ego disposui a me creatum saeculum.<verse eID="esdrae-4.5.49" />
+        <verse sID="esdrae-4.5.50" osisID="esdrae-4.5.50" />Et interrogavi et dixi: Cum iam dederis mihi viam, loquar coram te; nam mater nostra, de qua dixisti mihi, adhuc iuvenis est, iam ad senectutem adpropinquat?<verse eID="esdrae-4.5.50" />
+        <verse sID="esdrae-4.5.51" osisID="esdrae-4.5.51" />Et respondit ad me et dixit: Interroga quae parit, et dicet tibi.<verse eID="esdrae-4.5.51" />
+        <verse sID="esdrae-4.5.52" osisID="esdrae-4.5.52" />Dices enim ei: Quare quos peperisti nunc non sunt similes his qui ante, sed minores statu?<verse eID="esdrae-4.5.52" />
+        <verse sID="esdrae-4.5.53" osisID="esdrae-4.5.53" />Et dicet tibi et ipsa: Alii sunt qui in iuventute virtutis nati sunt, et alii qui sub tempus senectutis deficiente matrice sunt nati.<verse eID="esdrae-4.5.53" />
+        <verse sID="esdrae-4.5.54" osisID="esdrae-4.5.54" />Considera ergo et tu, quoniam minores statu estis prae his qui ante vos,<verse eID="esdrae-4.5.54" />
+        <verse sID="esdrae-4.5.55" osisID="esdrae-4.5.55" />et qui post vos quam ut vos, quasi iam senescentis creaturae et fortitudinem iuventutis praeterientis.
+Et dixi: Rogo domine, si inveni gratiam ante oculos tuos, demonstra servo tuo per quem visitas creaturam tuam.<verse eID="esdrae-4.5.55" />
+      </p>
+      <chapter eID="esdrae-4.5" />
+      <chapter sID="esdrae-4.6" osisID="esdrae-4.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="esdrae-4.6.1" osisID="esdrae-4.6.1" />Et dixit ad me: Initium terreni orbis, et antequam starent exitus saeculi, et antequam spirarent conventiones ventorum,<verse eID="esdrae-4.6.1" />
+        <verse sID="esdrae-4.6.2" osisID="esdrae-4.6.2" />et antequam sonarent voces tonitruum, et antequam splenderent nitores coruscuum, et antequam confirmarentur fundamenta paradisi,<verse eID="esdrae-4.6.2" />
+        <verse sID="esdrae-4.6.3" osisID="esdrae-4.6.3" />et antequam viderentur decores flores, et antequam confirmarentur motuum virtutes, et antequam colligerentur innumerabiles militiae angelorum,<verse eID="esdrae-4.6.3" />
+        <verse sID="esdrae-4.6.4" osisID="esdrae-4.6.4" />et antequam extollerentur altitudines aerum, et antequam nominarentur mensurae firmamentorum, et antequam aestimaretur scabillum Sion,<verse eID="esdrae-4.6.4" />
+        <verse sID="esdrae-4.6.5" osisID="esdrae-4.6.5" />et antequam investigarentur praesentes anni, et antequam abalienarentur eorum qui nunc peccant adinventiones et consignarentur qui fidem thesaurizaverunt,<verse eID="esdrae-4.6.5" />
+        <verse sID="esdrae-4.6.6" osisID="esdrae-4.6.6" />tunc cogitavi, et facta sunt haec per me solum et non per alium, ut et finis per me et non per alium.<verse eID="esdrae-4.6.6" />
+        <verse sID="esdrae-4.6.7" osisID="esdrae-4.6.7" />Et respondi et dixi: Quae erit separatio temporum, aut quando prioris finis aut sequentis initium?<verse eID="esdrae-4.6.7" />
+        <verse sID="esdrae-4.6.8" osisID="esdrae-4.6.8" />Et dixit ad me: Ab Abraham usque ad Abraham, quoniam ab eo natus est Iacob et Esau, manus enim Iacob tenebat ab initio calcaneum Esau.<verse eID="esdrae-4.6.8" />
+        <verse sID="esdrae-4.6.9" osisID="esdrae-4.6.9" />Finis enim huius saeculi Esau, et principium sequentis Iacob.<verse eID="esdrae-4.6.9" />
+        <verse sID="esdrae-4.6.10" osisID="esdrae-4.6.10" />Finis enim hominis calcaneum et principium hominis manus, inter calcaneum et manum aliud noli quaerere, Ezra.<verse eID="esdrae-4.6.10" />
+        <verse sID="esdrae-4.6.11" osisID="esdrae-4.6.11" />Et respondi et dixi: O dominator domine, si inveni gratiam ante oculos tuos,<verse eID="esdrae-4.6.11" />
+        <verse sID="esdrae-4.6.12" osisID="esdrae-4.6.12" />ut demonstres servo tuo finem signorum tuorum, quorum ex parte mihi demonstrasti nocte praecedente.<verse eID="esdrae-4.6.12" />
+        <verse sID="esdrae-4.6.13" osisID="esdrae-4.6.13" />Et respondit et dixit ad me: Surge super pedes tuos et audies vocem plenissimam sonus.<verse eID="esdrae-4.6.13" />
+        <verse sID="esdrae-4.6.14" osisID="esdrae-4.6.14" />Et erit, si commotione commovebitur locus, in quo stas super eum,<verse eID="esdrae-4.6.14" />
+        <verse sID="esdrae-4.6.15" osisID="esdrae-4.6.15" />in eo cum loqueretur, tu non expaveas, quoniam de fine verbum. Et fundamenta terrae intellegetur,<verse eID="esdrae-4.6.15" />
+        <verse sID="esdrae-4.6.16" osisID="esdrae-4.6.16" />quoniam de ipsis sermo, tremescet et commovebitur; scit enim, quoniam finem eorum oportet commutari.<verse eID="esdrae-4.6.16" />
+        <verse sID="esdrae-4.6.17" osisID="esdrae-4.6.17" />Et factum est cum audissem, et surrexi super pedes meos et audivi, et ecce vox loquens, et sonus eius sicut sonus aquarum multarum.<verse eID="esdrae-4.6.17" />
+        <verse sID="esdrae-4.6.18" osisID="esdrae-4.6.18" />Et dixit: Ecce dies veniunt, et erit quando adpropinquare incipio, ut visitem habitantes in terram,<verse eID="esdrae-4.6.18" />
+        <verse sID="esdrae-4.6.19" osisID="esdrae-4.6.19" />et quando inquirere incipiam ab eis qui iniuste nocuerunt iniustitia sua, et quando suppleta fuerit humilitas Sion,<verse eID="esdrae-4.6.19" />
+        <verse sID="esdrae-4.6.20" osisID="esdrae-4.6.20" />et cum supersignabitur saeculum quod incipiet pertransire, haec signa faciam: Libri aperientur ante faciem firmamenti et omnes videbunt simul,<verse eID="esdrae-4.6.20" />
+        <verse sID="esdrae-4.6.21" osisID="esdrae-4.6.21" />et anniculi infantes loquentur vocibus suis, et praegnantes inmaturos parient infantes trium et quattuor mensuum et vivent et scirtabuntur,<verse eID="esdrae-4.6.21" />
+        <verse sID="esdrae-4.6.22" osisID="esdrae-4.6.22" />et subito apparebunt seminata loca non seminata, et plena promptuaria subito invenientur vacua,<verse eID="esdrae-4.6.22" />
+        <verse sID="esdrae-4.6.23" osisID="esdrae-4.6.23" />et tuba canet cum sono, quam cum omnes audierint subito expavescent.<verse eID="esdrae-4.6.23" />
+        <verse sID="esdrae-4.6.24" osisID="esdrae-4.6.24" />Et erit in illo tempore, debellabunt amici amicos ut inimici, et expavescet terra cum his qui inhabitant in eam, et venae fontium stabunt ut non decurrant in horis tribus.<verse eID="esdrae-4.6.24" />
+        <verse sID="esdrae-4.6.25" osisID="esdrae-4.6.25" />Et erit, omnis qui derelictus fuerit ex omnibus istis quibus praedixi tibi, ipse salvabitur et videbit salutare meum et finem saeculi mei.<verse eID="esdrae-4.6.25" />
+        <verse sID="esdrae-4.6.26" osisID="esdrae-4.6.26" />Et videbunt qui recepti sunt homines, qui mortem non gustaverunt a nativitate sua, et mutabitur cor inhabitantium et convertetur in sensum alium.<verse eID="esdrae-4.6.26" />
+        <verse sID="esdrae-4.6.27" osisID="esdrae-4.6.27" />Delebitur enim malum et extinguetur dolus.<verse eID="esdrae-4.6.27" />
+        <verse sID="esdrae-4.6.28" osisID="esdrae-4.6.28" />Florebit autem fides et vincetur corruptela, et ostendebitur veritas quae sine fructu fuit tantis temporibus.<verse eID="esdrae-4.6.28" />
+        <verse sID="esdrae-4.6.29" osisID="esdrae-4.6.29" />Et factum est cum loqueretur mihi, et ecce paulatim movebatur locus super quem stabam super eum.<verse eID="esdrae-4.6.29" />
+        <verse sID="esdrae-4.6.30" osisID="esdrae-4.6.30" />Et dixit ad me: Haec veni tibi ostendere et venturae nocti.<verse eID="esdrae-4.6.30" />
+        <verse sID="esdrae-4.6.31" osisID="esdrae-4.6.31" />Si ergo iterum rogaveris et iterum ieiunaveris septem diebus, iterum tibi renuntiabo horum maiora per diem,<verse eID="esdrae-4.6.31" />
+        <verse sID="esdrae-4.6.32" osisID="esdrae-4.6.32" />quoniam auditu audita est vox tua apud Altissimum. Vidit enim Fortis directionem tuam et providit pudicitiam quam a iuventute tua habuisti.<verse eID="esdrae-4.6.32" />
+        <verse sID="esdrae-4.6.33" osisID="esdrae-4.6.33" />Et propter hoc misit me demonstrare tibi haec omnia et dicere tibi: Confide et noli timere,<verse eID="esdrae-4.6.33" />
+        <verse sID="esdrae-4.6.34" osisID="esdrae-4.6.34" />et noli festinare in prioribus temporibus cogitare vana, ut non properes a novissimis temporibus.<verse eID="esdrae-4.6.34" />
+        <verse sID="esdrae-4.6.35" osisID="esdrae-4.6.35" />Et factum est post haec, et flevi iterum et similiter ieiunavi septem diebus, ut suppleam tres ebdomadas quae dictae sunt mihi.<verse eID="esdrae-4.6.35" />
+        <verse sID="esdrae-4.6.36" osisID="esdrae-4.6.36" />Et factum est in octava nocte, et cor meum iterato turbabatur in me et coepi loqui coram Altissimo.<verse eID="esdrae-4.6.36" />
+        <verse sID="esdrae-4.6.37" osisID="esdrae-4.6.37" />Inflammabatur enim spiritus meus valde et anima mea anxiabatur.<verse eID="esdrae-4.6.37" />
+        <verse sID="esdrae-4.6.38" osisID="esdrae-4.6.38" />Et dixi: O Domine, loquens locutus es ab initio creaturae in primo die dicens: Fiat caelum et terra, et tuum verbum opus perfecit.<verse eID="esdrae-4.6.38" />
+        <verse sID="esdrae-4.6.39" osisID="esdrae-4.6.39" />Et erat tunc spiritus volans, et tenebrae circumferebantur et silentium, sonus vocis hominis nondum erat abs te.<verse eID="esdrae-4.6.39" />
+        <verse sID="esdrae-4.6.40" osisID="esdrae-4.6.40" />Tunc dixisti de thesauris tuis proferri lumen quod luminis, ut apparerent tunc opera tua.<verse eID="esdrae-4.6.40" />
+        <verse sID="esdrae-4.6.41" osisID="esdrae-4.6.41" />Et in die secundo iterum creasti spiritum firmamenti et imperasti ei, ut divideret et divisionem faceret inter aquas, ut pars quidem sursum recederet, pars vero deorsum maneret.<verse eID="esdrae-4.6.41" />
+        <verse sID="esdrae-4.6.42" osisID="esdrae-4.6.42" />Et tertio die imperasti aquis congregari in septima parte terrae, sex vero partes siccasti et conservasti, ut ex his sint coram te ministrantia seminata adeo et culta.<verse eID="esdrae-4.6.42" />
+        <verse sID="esdrae-4.6.43" osisID="esdrae-4.6.43" />Verbum enim tuum processit, et opus statim fiebat.<verse eID="esdrae-4.6.43" />
+        <verse sID="esdrae-4.6.44" osisID="esdrae-4.6.44" />Processit enim subito fructus multitudinis inmensus et concupiscentia gustus multiformis et flores colore inimitabili et odores odoramentis investigabiles. Et die tertio haec facta sunt.<verse eID="esdrae-4.6.44" />
+        <verse sID="esdrae-4.6.45" osisID="esdrae-4.6.45" />Quarta autem die imperasti fieri solis splendorem, lunae lumen, stellarum dispositionem,<verse eID="esdrae-4.6.45" />
+        <verse sID="esdrae-4.6.46" osisID="esdrae-4.6.46" />et imperasti eis, ut deservirent futuro plasmato homini.<verse eID="esdrae-4.6.46" />
+        <verse sID="esdrae-4.6.47" osisID="esdrae-4.6.47" />Quinto autem die dixisti septimae parti ubi erat aqua congregata, ut procrearet animalia, volatilia et pisces, et ita fiebat<verse eID="esdrae-4.6.47" />
+        <verse sID="esdrae-4.6.48" osisID="esdrae-4.6.48" />aqua muta et sine anima, quod ei iubebatur, animalia faciens, ut ex hoc mirabilia tua nationes enarrent.<verse eID="esdrae-4.6.48" />
+        <verse sID="esdrae-4.6.49" osisID="esdrae-4.6.49" />Et tunc conservasti duas animas, nomen uni vocasti Enoch et nomen secundi vocasti Leviathan.<verse eID="esdrae-4.6.49" />
+        <verse sID="esdrae-4.6.50" osisID="esdrae-4.6.50" />Et separasti ea ab alterutro; non enim poterat septima pars ubi erat aqua congregata capere ea.<verse eID="esdrae-4.6.50" />
+        <verse sID="esdrae-4.6.51" osisID="esdrae-4.6.51" />Et dedisti Enoch unam partem quae siccata est tertio die, ut inhabitet in ea, ubi sunt montes mille.<verse eID="esdrae-4.6.51" />
+        <verse sID="esdrae-4.6.52" osisID="esdrae-4.6.52" />Leviathae autem dedisti septimam partem humidam. Et servasti ea, ut fiant in devorationem quibus vis et quando vis.<verse eID="esdrae-4.6.52" />
+        <verse sID="esdrae-4.6.53" osisID="esdrae-4.6.53" />Sexto autem die imperasti terrae, ut crearet coram te iumenta et bestias et reptilia,<verse eID="esdrae-4.6.53" />
+        <verse sID="esdrae-4.6.54" osisID="esdrae-4.6.54" />et super his Adam, quem constituisti ducem super omnibus factis quae fecisti, et ex eo educimur nos omnes quem elegisti populum.<verse eID="esdrae-4.6.54" />
+        <verse sID="esdrae-4.6.55" osisID="esdrae-4.6.55" />Haec autem omnia dixi coram te, Domine, quoniam dixisti quia propter nos creasti primogenitum saeculum.<verse eID="esdrae-4.6.55" />
+        <verse sID="esdrae-4.6.56" osisID="esdrae-4.6.56" />Residuas autem gentes ab Adam natas dixisti eas nihil esse, et quoniam salivae adsimilatae sunt, et sicut stillicidium de vaso similasti abundantiam eorum.<verse eID="esdrae-4.6.56" />
+        <verse sID="esdrae-4.6.57" osisID="esdrae-4.6.57" />Et nunc, Domine, ecce istae gentes quae in nihilum deputatae sunt dominari nostri et devorare nos.<verse eID="esdrae-4.6.57" />
+        <verse sID="esdrae-4.6.58" osisID="esdrae-4.6.58" />Nos autem populus tuus quem vocasti primogenitum, unigenitum, aemulatorem, carissimum, traditi sumus in manibus eorum.<verse eID="esdrae-4.6.58" />
+        <verse sID="esdrae-4.6.59" osisID="esdrae-4.6.59" />Et si propter nos creatum est saeculum, quare non hereditatem possidemus nostrum saeculum? Usquequo haec?<verse eID="esdrae-4.6.59" />
+      </p>
+      <chapter eID="esdrae-4.6" />
+      <chapter sID="esdrae-4.7" osisID="esdrae-4.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="esdrae-4.7.1" osisID="esdrae-4.7.1" />Et factum est cum finissem loqui verba haec, et missus est ad me angelus, qui missus fuerat ad me primis noctibus,<verse eID="esdrae-4.7.1" />
+        <verse sID="esdrae-4.7.2" osisID="esdrae-4.7.2" />et dixit ad me: Surge, Ezra, et audi sermones quos veni loqui ad te.<verse eID="esdrae-4.7.2" />
+        <verse sID="esdrae-4.7.3" osisID="esdrae-4.7.3" />Et dixi: Loquere, dominus meus. Et dixit ad me: Mare positum est in spatioso loco ut esset altum et inmensum.<verse eID="esdrae-4.7.3" />
+        <verse sID="esdrae-4.7.4" osisID="esdrae-4.7.4" />Erit autem ei introitus in angusto loco positus, ut esset similis fluminis.<verse eID="esdrae-4.7.4" />
+        <verse sID="esdrae-4.7.5" osisID="esdrae-4.7.5" />Si quis enim volens voluerit ingredi mare videre eum vel dominari eius, si non transierit angustum, in latitudinem venire quomodo poterit?<verse eID="esdrae-4.7.5" />
+        <verse sID="esdrae-4.7.6" osisID="esdrae-4.7.6" />Item aliud: Civitas est aedificata et posita in loco campestri, est autem plena omnium bonorum.<verse eID="esdrae-4.7.6" />
+        <verse sID="esdrae-4.7.7" osisID="esdrae-4.7.7" />Introitus autem eius angustus et in praecipiti positus, ut esset a dextris quidem ignis, a sinistris vero aqua alta.<verse eID="esdrae-4.7.7" />
+        <verse sID="esdrae-4.7.8" osisID="esdrae-4.7.8" />Semita autem est una sola inter eos posita, hoc est ignis et aqua, ut non capiat semita nisi solummodo vestigium hominis.<verse eID="esdrae-4.7.8" />
+        <verse sID="esdrae-4.7.9" osisID="esdrae-4.7.9" />Si autem data dabitur civitas homini in hereditatem, si non heres antepositum periculum pertransierit, quomodo accipiet hereditatem suam?<verse eID="esdrae-4.7.9" />
+        <verse sID="esdrae-4.7.10" osisID="esdrae-4.7.10" />Et dixi: Sic, domine. Et dixit ad me: Sic est et Israhel pars.<verse eID="esdrae-4.7.10" />
+        <verse sID="esdrae-4.7.11" osisID="esdrae-4.7.11" />Propter eos enim feci saeculum, et quando transgressus est Adam constitutiones meas, iudicatum est quod factum est.<verse eID="esdrae-4.7.11" />
+        <verse sID="esdrae-4.7.12" osisID="esdrae-4.7.12" />Et facti sunt introitus huius saeculi angusti et dolentes et laboriosi, paucae autem et malae et periculorum plenae et laborum magnorum fultae.<verse eID="esdrae-4.7.12" />
+        <verse sID="esdrae-4.7.13" osisID="esdrae-4.7.13" />Nam maioris saeculi introitus spatiosi et securi et facientes inmortalitatis fructum.<verse eID="esdrae-4.7.13" />
+        <verse sID="esdrae-4.7.14" osisID="esdrae-4.7.14" />Si ergo non ingredientes ingressi fuerint qui vivunt angusta et vana haec, non poterunt recipere quae sunt reposita.<verse eID="esdrae-4.7.14" />
+        <verse sID="esdrae-4.7.15" osisID="esdrae-4.7.15" />Nunc ergo tu quare conturbaris, corruptibilis cum sis? Et quid moveris tu, cum sis mortalis?<verse eID="esdrae-4.7.15" />
+        <verse sID="esdrae-4.7.16" osisID="esdrae-4.7.16" />Et quare non accepisti in corde tuo quod futurum, sed quod in praesenti?<verse eID="esdrae-4.7.16" />
+        <verse sID="esdrae-4.7.17" osisID="esdrae-4.7.17" />Et respondi et dixi: Dominator domine, ecce disposuisti in lege tua, quoniam iusti hereditabunt haec, impii autem peribunt.<verse eID="esdrae-4.7.17" />
+        <verse sID="esdrae-4.7.18" osisID="esdrae-4.7.18" />Iusti autem ferent angusta sperantes spatiosa; qui enim impie gesserunt, et angustiam passi sunt et spatiosa non viderunt.<verse eID="esdrae-4.7.18" />
+        <verse sID="esdrae-4.7.19" osisID="esdrae-4.7.19" />Et dixit ad me: Non es iudex super Dominum neque intellegens super Altissimum.<verse eID="esdrae-4.7.19" />
+        <verse sID="esdrae-4.7.20" osisID="esdrae-4.7.20" />Pereant enim multi praesentes, quam neglegatur quae anteposita est Dei lex.<verse eID="esdrae-4.7.20" />
+        <verse sID="esdrae-4.7.21" osisID="esdrae-4.7.21" />Mandans enim mandavit Dominus venientibus quando venerunt, quid facientes viverent, et quid observantes non punirentur.<verse eID="esdrae-4.7.21" />
+        <verse sID="esdrae-4.7.22" osisID="esdrae-4.7.22" />Hii autem non sunt persuasi et contradixerunt ei. Et constituerunt sibi cogitamenta vanitatis<verse eID="esdrae-4.7.22" />
+        <verse sID="esdrae-4.7.23" osisID="esdrae-4.7.23" />et proposuerunt sibi circumventiones delictorum. Et superdixerunt Altissimum non esse, et vias eius non cognoverunt.<verse eID="esdrae-4.7.23" />
+        <verse sID="esdrae-4.7.24" osisID="esdrae-4.7.24" />Et legem eius spreverunt et sponsiones eius abnegaverunt et legitimis eius fidem non habuerunt et opera eius non perfecerunt.<verse eID="esdrae-4.7.24" />
+        <verse sID="esdrae-4.7.25" osisID="esdrae-4.7.25" />Propter hoc, Ezra, vacua vacuis et plena plenis.<verse eID="esdrae-4.7.25" />
+        <verse sID="esdrae-4.7.26" osisID="esdrae-4.7.26" />Ecce enim tempus veniet, et erit quando venient signa quae praedixi tibi, et apparebit sponsa et apparescens civitas et ostendetur quae nunc subducitur terra.<verse eID="esdrae-4.7.26" />
+        <verse sID="esdrae-4.7.27" osisID="esdrae-4.7.27" />Et omnis qui liberatus est de praedictis malis, ipse videbit mirabilia mea.<verse eID="esdrae-4.7.27" />
+        <verse sID="esdrae-4.7.28" osisID="esdrae-4.7.28" />Revelabitur enim Filius meus Iesus cum his qui cum eo, et iucundabit qui relicti sunt annis quadringentis.<verse eID="esdrae-4.7.28" />
+        <verse sID="esdrae-4.7.29" osisID="esdrae-4.7.29" />Et erit post annos hos, et morietur Filius meus Christus et omnes qui spiramentum habent hominis.<verse eID="esdrae-4.7.29" />
+        <verse sID="esdrae-4.7.30" osisID="esdrae-4.7.30" />Et convertetur saeculum in antiquum silentium diebus septem sicut in prioribus initiis, ita ut nemo derelinquatur.<verse eID="esdrae-4.7.30" />
+        <verse sID="esdrae-4.7.31" osisID="esdrae-4.7.31" />Et erit post dies septem, et excitabitur qui nondum vigilat saeculum et morietur corruptum.<verse eID="esdrae-4.7.31" />
+        <verse sID="esdrae-4.7.32" osisID="esdrae-4.7.32" />Et terra reddet qui in eam dormiunt, et pulvis qui in eo silentio habitant, et promptuaria reddent quae eis commendatae sunt animae.<verse eID="esdrae-4.7.32" />
+        <verse sID="esdrae-4.7.33" osisID="esdrae-4.7.33" />Et revelabitur Altissimus super sedem iudicii, et pertransibunt misericordiae, et longanimitas congregabitur,<verse eID="esdrae-4.7.33" />
+        <verse sID="esdrae-4.7.34" osisID="esdrae-4.7.34" />iudicium autem solum remanebit. Et veritas stabit et fides convalescet,<verse eID="esdrae-4.7.34" />
+        <verse sID="esdrae-4.7.35" osisID="esdrae-4.7.35" />et opus subsequetur et merces ostendetur, et iustitiae vigilabunt et iniustitiae non dormibunt.<verse eID="esdrae-4.7.35" />
+        <verse sID="esdrae-4.7.36" osisID="esdrae-4.7.36" />Et apparebit lacus tormenti et contra illum erit locus requietionis, et clibanus gehennae ostendetur et contra eam iucunditatis paradisus.<verse eID="esdrae-4.7.36" />
+        <verse sID="esdrae-4.7.37" osisID="esdrae-4.7.37" />Et dicet tunc Altissimus ad excitatas gentes: Videte et intellegite quem negastis vel cui non servistis vel cuius diligentias sprevistis.<verse eID="esdrae-4.7.37" />
+        <verse sID="esdrae-4.7.38" osisID="esdrae-4.7.38" />Videte contra et in contra, hic iucunditas et requies, et ibi ignis et tormenta. Haec autem loquetur ad eos in die iudicii.<verse eID="esdrae-4.7.38" />
+        <verse sID="esdrae-4.7.39" osisID="esdrae-4.7.39" />Haec talis quae neque solem habet neque lunam neque stellas,<verse eID="esdrae-4.7.39" />
+        <verse sID="esdrae-4.7.40" osisID="esdrae-4.7.40" />neque nubem neque tonitruum neque coruscationem, neque ventum neque aquam neque aerem, neque tenebras neque sero neque mane,<verse eID="esdrae-4.7.40" />
+        <verse sID="esdrae-4.7.41" osisID="esdrae-4.7.41" />neque aestatem neque ver neque aestum, neque hiemem neque gelum neque frigus, neque grandinem neque pluviam neque ros,<verse eID="esdrae-4.7.41" />
+        <verse sID="esdrae-4.7.42" osisID="esdrae-4.7.42" />neque meridiem neque noctem neque ante lucem, neque nitorem neque claritatem neque lucem, nisi solummodo splendorem claritatis Altissimi, unde omnes incipiant videre quae anteposita sunt.<verse eID="esdrae-4.7.42" />
+        <verse sID="esdrae-4.7.43" osisID="esdrae-4.7.43" />Spatium enim habebit sicut ebdomada annorum.<verse eID="esdrae-4.7.43" />
+        <verse sID="esdrae-4.7.44" osisID="esdrae-4.7.44" />Hoc est iudicium meum et constitutio eius, tibi autem soli ostendi haec.<verse eID="esdrae-4.7.44" />
+        <verse sID="esdrae-4.7.45" osisID="esdrae-4.7.45" />Et respondi: Tunc et dixi, domine, et nunc dico: Beati praesentes et observantes quae a te constituta sunt.<verse eID="esdrae-4.7.45" />
+        <verse sID="esdrae-4.7.46" osisID="esdrae-4.7.46" />Sed de quibus erat oratio mea, quis enim est de praesentibus qui non peccavit, vel quis natorum qui non praeterivit sponsionem tuam?<verse eID="esdrae-4.7.46" />
+        <verse sID="esdrae-4.7.47" osisID="esdrae-4.7.47" />Et nunc video, quoniam ad paucos pertinebit futurum saeculum iucunditatem facere, multis autem tormenta.<verse eID="esdrae-4.7.47" />
+        <verse sID="esdrae-4.7.48" osisID="esdrae-4.7.48" />Increvit enim in nos cor malum, quod nos abalienavit ab his et deduxit nos in corruptionem, et itinera mortis ostendit nobis, semitas perditionis, et longe fecit nos a vita; et hoc non paucos, sed paene omnes qui creati sunt.<verse eID="esdrae-4.7.48" />
+        <verse sID="esdrae-4.7.49" osisID="esdrae-4.7.49" />Et respondit ad me et dixit: Audi me et instruam te et de sequenti corripiam te.<verse eID="esdrae-4.7.49" />
+        <verse sID="esdrae-4.7.50" osisID="esdrae-4.7.50" />Propter hoc non fecit Altissimus unum saeculum sed duo.<verse eID="esdrae-4.7.50" />
+        <verse sID="esdrae-4.7.51" osisID="esdrae-4.7.51" />Tu enim quia dixisti non esse multos iustos sed paucos, impios vero multiplicari, audi ad haec.<verse eID="esdrae-4.7.51" />
+        <verse sID="esdrae-4.7.52" osisID="esdrae-4.7.52" />Lapides electos si habueris paucos valde, ad numerum eorum conpones eos tibi, plumbum autem et fictile abundat.<verse eID="esdrae-4.7.52" />
+        <verse sID="esdrae-4.7.53" osisID="esdrae-4.7.53" />Et dixi: Domine, quomodo poterit?<verse eID="esdrae-4.7.53" />
+        <verse sID="esdrae-4.7.54" osisID="esdrae-4.7.54" />Et dixit ad me: Non hoc solummodo, sed interroga terram et dicet tibi, adulare ei et narrabit tibi.<verse eID="esdrae-4.7.54" />
+        <verse sID="esdrae-4.7.55" osisID="esdrae-4.7.55" />Dices enim ei: Aurum creas et argentum et aeramentum et ferrum quoque et plumbum et fictile.<verse eID="esdrae-4.7.55" />
+        <verse sID="esdrae-4.7.56" osisID="esdrae-4.7.56" />Multiplicatur autem argentum super aurum, et aeramentum super argentum, et ferrum super aeramentum, plumbum super ferrum, et fictile super plumbum.<verse eID="esdrae-4.7.56" />
+        <verse sID="esdrae-4.7.57" osisID="esdrae-4.7.57" />Aestima ergo tu quae haec sint pretiosa et desiderabilia, quod multiplicatur aut quod rarum nascitur.<verse eID="esdrae-4.7.57" />
+        <verse sID="esdrae-4.7.58" osisID="esdrae-4.7.58" />Et dixi: Dominator domine, quod abundat vilius, quod enim rarius pretiosius est.<verse eID="esdrae-4.7.58" />
+        <verse sID="esdrae-4.7.59" osisID="esdrae-4.7.59" />Et respondit ad me et dixit: In te ista pondera quae cogitasti, quoniam qui habet quod difficile est, gaudet super eum qui habet abundantia.<verse eID="esdrae-4.7.59" />
+        <verse sID="esdrae-4.7.60" osisID="esdrae-4.7.60" />Sic et a me repromissa creatura. Iucundabor enim super paucis qui salvabuntur, propterea quod ipsi sunt qui gloriam meam nunc dominationem fecerunt et per quos nunc nomen meum nominatum est.<verse eID="esdrae-4.7.60" />
+        <verse sID="esdrae-4.7.61" osisID="esdrae-4.7.61" />Et non contristabor super multitudinem eorum qui perierunt, ipsi enim sunt qui vapori nunc adsimilati sunt et flammae ac fumo adaequati sunt et exarserunt et ferverunt et extincti sunt.<verse eID="esdrae-4.7.61" />
+        <verse sID="esdrae-4.7.62" osisID="esdrae-4.7.62" />Et respondi et dixi: O tu terra, quid peperisti? Si sensus factus est de pulvere sicut et cetera creatura,<verse eID="esdrae-4.7.62" />
+        <verse sID="esdrae-4.7.63" osisID="esdrae-4.7.63" />melius enim erat et ipsum pulverem non esse natum, ut non sensus inde fieret.<verse eID="esdrae-4.7.63" />
+        <verse sID="esdrae-4.7.64" osisID="esdrae-4.7.64" />Nunc autem nobiscum crescit sensus, et propter hoc torquemur, quoniam scientes perimus.<verse eID="esdrae-4.7.64" />
+        <verse sID="esdrae-4.7.65" osisID="esdrae-4.7.65" />Lugeat hominum genus et agrestes bestiae laetentur; lugeant omnes qui nati sunt, quadrupedia vero et pecora iucundentur.<verse eID="esdrae-4.7.65" />
+        <verse sID="esdrae-4.7.66" osisID="esdrae-4.7.66" />Multum enim melius est illis quam nobis. Non enim sperant iudicium, nec enim sciunt cruciamenta nec salutem post mortem repromissam sibi.<verse eID="esdrae-4.7.66" />
+        <verse sID="esdrae-4.7.67" osisID="esdrae-4.7.67" />Nobis autem quid prodest, quoniam salvati salvabimur sed tormento tormentabimur?<verse eID="esdrae-4.7.67" />
+        <verse sID="esdrae-4.7.68" osisID="esdrae-4.7.68" />Omnes enim qui nati sunt commixti sunt iniquitatibus et pleni sunt peccatis et gravati delictis.<verse eID="esdrae-4.7.68" />
+        <verse sID="esdrae-4.7.69" osisID="esdrae-4.7.69" />Et si non essemus post mortem in iudicio venientes, melius fortassis nobis venisset.<verse eID="esdrae-4.7.69" />
+        <verse sID="esdrae-4.7.70" osisID="esdrae-4.7.70" />Et respondit ad me et dixit: Et quando Altissimus faciens faciebat saeculum et Adam et omnes qui ex eo venerunt, primum praeparavit iudicium et quae sunt iudicii.<verse eID="esdrae-4.7.70" />
+        <verse sID="esdrae-4.7.71" osisID="esdrae-4.7.71" />Et nunc de sermonibus tuis intellege, quoniam dixisti quia sensus nobiscum crescit.<verse eID="esdrae-4.7.71" />
+        <verse sID="esdrae-4.7.72" osisID="esdrae-4.7.72" />Qui ergo commorantes sunt in terra hinc cruciabuntur, quoniam sensum habentes iniquitatem fecerunt, et mandata accipientes non servaverunt ea, et legem consecuti fraudaverunt eam quam acceperunt.<verse eID="esdrae-4.7.72" />
+        <verse sID="esdrae-4.7.73" osisID="esdrae-4.7.73" />Et quid habebunt dicere in iudicio vel quomodo respondebunt in novissimis temporibus?<verse eID="esdrae-4.7.73" />
+        <verse sID="esdrae-4.7.74" osisID="esdrae-4.7.74" />Quantum enim tempus, ex quo longanimitatem habuit Altissimus his qui inhabitant saeculum, et non propter eos, sed propter ea quae providit tempora.<verse eID="esdrae-4.7.74" />
+        <verse sID="esdrae-4.7.75" osisID="esdrae-4.7.75" />Et respondi et dixi: Si inveni gratiam coram te, domine, demonstra et hoc servo tuo, si post mortem vel nunc quando reddemus unusquisque animam suam, si conservati conservabimur in requie, donec veniant tempora illa in quibus incipies creaturam renovare, aut amodo cruciabimur?<verse eID="esdrae-4.7.75" />
+        <verse sID="esdrae-4.7.76" osisID="esdrae-4.7.76" />Et respondit ad me et dixit: Ostendam tibi et hoc. Tu autem noli commisceri cum eis qui spreverunt, neque connumeres te cum his qui cruciantur.<verse eID="esdrae-4.7.76" />
+        <verse sID="esdrae-4.7.77" osisID="esdrae-4.7.77" />Etenim est tibi thesaurus operum repositus apud Altissimum, sed non tibi demonstrabitur usque in novissimis temporibus.<verse eID="esdrae-4.7.77" />
+        <verse sID="esdrae-4.7.78" osisID="esdrae-4.7.78" />Nam de morte sermo: Quando profectus fuerit terminus sententiae ab Altissimo ut homo moriatur, recedente inspiratione de corpore ut dimittatur iterum ad eum qui dedit, adorare gloriam Altissimi primum.<verse eID="esdrae-4.7.78" />
+        <verse sID="esdrae-4.7.79" osisID="esdrae-4.7.79" />Et si quidem esset eorum qui spreverunt et non servaverunt viam Altissimi et eorum qui contempserunt legem eius et eorum qui oderunt eos qui timent Deum,<verse eID="esdrae-4.7.79" />
+        <verse sID="esdrae-4.7.80" osisID="esdrae-4.7.80" />haec inspirationes inhabitationes non ingredientur, sed vagantes erunt amodo in cruciamentis, dolentes semper et tristes, per septem vias.<verse eID="esdrae-4.7.80" />
+        <verse sID="esdrae-4.7.81" osisID="esdrae-4.7.81" />Via prima, quia spreverunt legem Altissimi.<verse eID="esdrae-4.7.81" />
+        <verse sID="esdrae-4.7.82" osisID="esdrae-4.7.82" />Secunda via, quia iam non possunt reversionem bonam facere, ut vivant.<verse eID="esdrae-4.7.82" />
+        <verse sID="esdrae-4.7.83" osisID="esdrae-4.7.83" />Tertia via, vident repositam mercedem his qui testamentis Altissimi crediderunt.<verse eID="esdrae-4.7.83" />
+        <verse sID="esdrae-4.7.84" osisID="esdrae-4.7.84" />Quarta via, considerabunt sibi in novissimis repositum cruciamentum.<verse eID="esdrae-4.7.84" />
+        <verse sID="esdrae-4.7.85" osisID="esdrae-4.7.85" />Quinta via, videntes aliorum habitacula ab angelis conservari cum silentio magno.<verse eID="esdrae-4.7.85" />
+        <verse sID="esdrae-4.7.86" osisID="esdrae-4.7.86" />Sexta via, videntes quemadmodum de eis pertransientem cruciamentum.<verse eID="esdrae-4.7.86" />
+        <verse sID="esdrae-4.7.87" osisID="esdrae-4.7.87" />Septima via, quae omnium supradictarum viarum maior est, quoniam detabescent in confusione et consumentur inhonoribus et marcescent in timoribus, videntes gloriam Altissimi coram quem viventes peccaverunt et coram quem incipient in novissimis temporibus iudicari.<verse eID="esdrae-4.7.87" />
+        <verse sID="esdrae-4.7.88" osisID="esdrae-4.7.88" />Nam eorum qui servaverunt vias Altissimi ordo hic est, quando separari incipient a vaso corruptibili.<verse eID="esdrae-4.7.88" />
+        <verse sID="esdrae-4.7.89" osisID="esdrae-4.7.89" />In eo tempore commoratae servierunt cum labore Altissimo et omni hora sustinuerunt periculum, uti perfecte custodirent legislatoris legem.<verse eID="esdrae-4.7.89" />
+        <verse sID="esdrae-4.7.90" osisID="esdrae-4.7.90" />Propter quod hic de his sermo:<verse eID="esdrae-4.7.90" />
+        <verse sID="esdrae-4.7.91" osisID="esdrae-4.7.91" />In primis vident cum exultatione multa gloriam eius qui suscipit eas, requiescent enim per septem ordines.<verse eID="esdrae-4.7.91" />
+        <verse sID="esdrae-4.7.92" osisID="esdrae-4.7.92" />Ordo primus, quoniam cum labore multo certati sunt, ut vincerent cum eis plasmatum cogitamentum malum, ut non eas seducat a vita ad mortem.<verse eID="esdrae-4.7.92" />
+        <verse sID="esdrae-4.7.93" osisID="esdrae-4.7.93" />Secundus ordo, quoniam vident conplicationem in qua vagantur impiorum animae et quae in eis manet punitio.<verse eID="esdrae-4.7.93" />
+        <verse sID="esdrae-4.7.94" osisID="esdrae-4.7.94" />Tertius ordo, videntes testimonium quod testificatus est eis qui plasmavit eas, quoniam viventes servaverunt quae per fidem data est lex.<verse eID="esdrae-4.7.94" />
+        <verse sID="esdrae-4.7.95" osisID="esdrae-4.7.95" />Quartus ordo, intellegentes requiem quam nunc in promptuariis eorum congregati requiescent cum silentio multo ab angelis conservati, et quae in novissimis eorum manet gloriam.<verse eID="esdrae-4.7.95" />
+        <verse sID="esdrae-4.7.96" osisID="esdrae-4.7.96" />Quintus ordo, exultantes quomodo corruptibile effugerunt nunc, et futurum quomodo hereditatem possidebunt, adhuc autem videntes angustum et labore plenum quo iam liberati sunt et spatiosum incipiunt recipere, frunescentes et inmortales.<verse eID="esdrae-4.7.96" />
+        <verse sID="esdrae-4.7.97" osisID="esdrae-4.7.97" />Sextus ordo, quando eis ostendetur quomodo incipiet vultus eorum fulgere sicut sol, et quomodo incipient stellis adsimilari lumini, amodo non corrupti.<verse eID="esdrae-4.7.97" />
+        <verse sID="esdrae-4.7.98" osisID="esdrae-4.7.98" />Septimus ordo, qui est omnibus supradictis maior, quoniam exultabunt cum fiducia et quoniam confidebunt non confusi et gaudebunt non reverentes; festinant enim videre vultum eius cui serviunt viventes et a quo incipiunt gloriosi mercedem recipere.<verse eID="esdrae-4.7.98" />
+        <verse sID="esdrae-4.7.99" osisID="esdrae-4.7.99" />Hic ordo animarum iustorum, ut amodo adnuntiatur; praedictae viae cruciatus quas patiuntur amodo qui neglexerint.<verse eID="esdrae-4.7.99" />
+        <verse sID="esdrae-4.7.100" osisID="esdrae-4.7.100" />Et respondi et dixi: Ergo dabitur tempus animabus, postquam separatae fuerint de corporibus, ut videant de quo mihi dixisti?<verse eID="esdrae-4.7.100" />
+        <verse sID="esdrae-4.7.101" osisID="esdrae-4.7.101" />Et dixit mihi: Septem diebus erit libertas earum, ut videant in septem diebus qui praedicti sunt sermones, et postea congregabuntur in habitaculis suis.<verse eID="esdrae-4.7.101" />
+        <verse sID="esdrae-4.7.102" osisID="esdrae-4.7.102" />Et respondi et dixi: Si inveni gratiam ante oculos tuos, demonstra mihi adhuc servo tuo, si in die iudicii iusti impios excusare poterint vel deprecari pro eis Altissimum,<verse eID="esdrae-4.7.102" />
+        <verse sID="esdrae-4.7.103" osisID="esdrae-4.7.103" />si patres pro filiis vel filii pro parentibus, si fratres pro fratribus, si adfines pro proximis, si fidentes pro carissimis.<verse eID="esdrae-4.7.103" />
+        <verse sID="esdrae-4.7.104" osisID="esdrae-4.7.104" />Et respondit ad me et dixit: Quoniam invenisti gratiam coram oculis meis, et hoc tibi demonstrabo. Dies iudicii audax est et omnibus signaculum veritatis demonstrans. Quemadmodum nunc non mittit pater filium vel filius patrem aut dominus servum vel fidus carissimum, ut pro eo intellegat aut dormiat aut manducet aut curetur,<verse eID="esdrae-4.7.104" />
+        <verse sID="esdrae-4.7.105" osisID="esdrae-4.7.105" />sic numquam nemo pro aliquo rogabit; omnes enim portabunt unusquisque tunc iniustitias suas aut iustitias.<verse eID="esdrae-4.7.105" />
+        <verse sID="esdrae-4.7.106" osisID="esdrae-4.7.106" />Et respondi et dixi: Et quomodo invenimus modo, quoniam rogavit primus Abraham propter Sodomitas, et Moyses pro patribus qui in deserto peccaverunt,<verse eID="esdrae-4.7.106" />
+        <verse sID="esdrae-4.7.107" osisID="esdrae-4.7.107" />et Iesus qui post eum pro Israhel in diebus Achar, et Samuhel in diebus Saul,<verse eID="esdrae-4.7.107" />
+        <verse sID="esdrae-4.7.108" osisID="esdrae-4.7.108" />et David pro confractione, et Salomon pro eis qui in sanctificationem,<verse eID="esdrae-4.7.108" />
+        <verse sID="esdrae-4.7.109" osisID="esdrae-4.7.109" />et Helias pro his qui pluviam acceperunt et pro mortuo ut viveret,<verse eID="esdrae-4.7.109" />
+        <verse sID="esdrae-4.7.110" osisID="esdrae-4.7.110" />et Ezechias pro populo in diebus Sennacherib, et multi pro multis?<verse eID="esdrae-4.7.110" />
+        <verse sID="esdrae-4.7.111" osisID="esdrae-4.7.111" />Si ergo modo, quando corruptibile increvit et iniustitia multiplicata est, exoraverunt iusti pro impiis, quare et tunc sic non erit?<verse eID="esdrae-4.7.111" />
+        <verse sID="esdrae-4.7.112" osisID="esdrae-4.7.112" />Et respondit ad me et dixit: Praesens saeculum non est finis, gloria in eo non frequens manet, propter hoc oraverunt qui potuerunt pro invalidis.<verse eID="esdrae-4.7.112" />
+        <verse sID="esdrae-4.7.113" osisID="esdrae-4.7.113" />Dies enim iudicii erit finis temporis huius et initium futuri inmortalis temporis, in quo pertransivit corruptela,<verse eID="esdrae-4.7.113" />
+        <verse sID="esdrae-4.7.114" osisID="esdrae-4.7.114" />soluta est intemperantia, abscisa est incredulitas, crevit autem iustitia, orta est veritas.<verse eID="esdrae-4.7.114" />
+        <verse sID="esdrae-4.7.115" osisID="esdrae-4.7.115" />Tunc ergo nemo poterit misereri eius qui in iudicio victus fuerit, neque demergere eum qui vicerit.<verse eID="esdrae-4.7.115" />
+        <verse sID="esdrae-4.7.116" osisID="esdrae-4.7.116" />Et respondi et dixi: Hic sermo meus primus et novissimus, quoniam melius erat non dare terram Adam vel, cum iam dedisset, coercere eum ut non peccaret.<verse eID="esdrae-4.7.116" />
+        <verse sID="esdrae-4.7.117" osisID="esdrae-4.7.117" />Quid enim prodest omnibus in praesenti vivere in tristitia et mortuos sperare punitionem?<verse eID="esdrae-4.7.117" />
+        <verse sID="esdrae-4.7.118" osisID="esdrae-4.7.118" />O tu quid fecisti, Adam? Si enim tu peccasti, non est factum solius tuus casus sed et nostrum qui ex te advenimus.<verse eID="esdrae-4.7.118" />
+        <verse sID="esdrae-4.7.119" osisID="esdrae-4.7.119" />Quid enim nobis prodest, si promissum est nobis inmortale tempus, nos vero mortalia opera egimus?<verse eID="esdrae-4.7.119" />
+        <verse sID="esdrae-4.7.120" osisID="esdrae-4.7.120" />Et quoniam praedicta est nobis perennis spes, nos vero pessime vani facti sumus?<verse eID="esdrae-4.7.120" />
+        <verse sID="esdrae-4.7.121" osisID="esdrae-4.7.121" />Et quoniam reposita sunt habitacula sanitatis et securitatis, nos vero male conversati sumus?<verse eID="esdrae-4.7.121" />
+        <verse sID="esdrae-4.7.122" osisID="esdrae-4.7.122" />Et quoniam incipiet gloria Altissimi protegere eos qui caste conversati sunt, nos autem pessimis viis ambulavimus?<verse eID="esdrae-4.7.122" />
+        <verse sID="esdrae-4.7.123" osisID="esdrae-4.7.123" />Et quoniam ostendetur paradisus, cuius fructus incorruptus perseverat, in quo est saturitas et medella,<verse eID="esdrae-4.7.123" />
+        <verse sID="esdrae-4.7.124" osisID="esdrae-4.7.124" />nos vero non ingrediemur, ingratis enim locis conversati sumus?<verse eID="esdrae-4.7.124" />
+        <verse sID="esdrae-4.7.125" osisID="esdrae-4.7.125" />Et quoniam super stellas fulgebunt facies eorum qui abstinentiam habuerunt, nostrae vero facies super tenebras nigrae?<verse eID="esdrae-4.7.125" />
+        <verse sID="esdrae-4.7.126" osisID="esdrae-4.7.126" />Non enim cogitavimus viventes quando iniquitatem faciebamus, quid incipientes post mortem pati.<verse eID="esdrae-4.7.126" />
+        <verse sID="esdrae-4.7.127" osisID="esdrae-4.7.127" />Et respondit et dixit: Hoc est cogitamentum certaminis, quem certavit qui super terram natus est homo,<verse eID="esdrae-4.7.127" />
+        <verse sID="esdrae-4.7.128" osisID="esdrae-4.7.128" />ut si victus fuerit patiatur quod dixisti, si autem vicerit recipiet quod dico,<verse eID="esdrae-4.7.128" />
+        <verse sID="esdrae-4.7.129" osisID="esdrae-4.7.129" />quoniam haec est via, quam Moyses dixit cum viveret ad populum dicens: Elige tibi vitam ut vivas.<verse eID="esdrae-4.7.129" />
+        <verse sID="esdrae-4.7.130" osisID="esdrae-4.7.130" />Non crediderunt autem ei, sed nec post eum prophetis, sed nec mihi qui locutus sum ad eos,<verse eID="esdrae-4.7.130" />
+        <verse sID="esdrae-4.7.131" osisID="esdrae-4.7.131" />quoniam non esset tristitia in perditione eorum, sicut et futurum est gaudium super eos quibus persuasa est salus.<verse eID="esdrae-4.7.131" />
+        <verse sID="esdrae-4.7.132" osisID="esdrae-4.7.132" />Et respondi et dixi: Scio, domine, quoniam nunc vocatus est Altissimus misericors, in eo quod misereatur qui nondum in saeculo advenerunt,<verse eID="esdrae-4.7.132" />
+        <verse sID="esdrae-4.7.133" osisID="esdrae-4.7.133" />et miserator, in eo quod miseretur illis qui conversionem faciunt in lege eius,<verse eID="esdrae-4.7.133" />
+        <verse sID="esdrae-4.7.134" osisID="esdrae-4.7.134" />et longanimis, quoniam longanimitatem praestat his qui peccaverunt quasi suis operibus,<verse eID="esdrae-4.7.134" />
+        <verse sID="esdrae-4.7.135" osisID="esdrae-4.7.135" />et munificus, quoniam quidem donare vult pro exigere,<verse eID="esdrae-4.7.135" />
+        <verse sID="esdrae-4.7.136" osisID="esdrae-4.7.136" />et multae misericordiae, quoniam multiplicat magis misericordias his qui praesentes sunt et qui praeterierunt et qui futuri sunt.<verse eID="esdrae-4.7.136" />
+        <verse sID="esdrae-4.7.137" osisID="esdrae-4.7.137" />Si enim non multiplicaverit, non vivificabitur saeculum cum his qui habitant in eo.<verse eID="esdrae-4.7.137" />
+        <verse sID="esdrae-4.7.138" osisID="esdrae-4.7.138" />Et donator, quoniam si non donaverit de bonitate sua, ut adleventur hii qui iniquitates fecerunt de suis iniquitatibus, non poterit decies millesima pars hominum vivificari,<verse eID="esdrae-4.7.138" />
+        <verse sID="esdrae-4.7.139" osisID="esdrae-4.7.139" />et iudex, si non ignoverit his qui creati sunt verbo eius et deleverit multitudinem contemptionum, non fortassis derelinquentur innumerabilem multitudinem nisi pauci valde.<verse eID="esdrae-4.7.139" />
+      </p>
+      <chapter eID="esdrae-4.7" />
+      <chapter sID="esdrae-4.8" osisID="esdrae-4.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="esdrae-4.8.1" osisID="esdrae-4.8.1" />Et respondit ad me et dixit: Hoc saeculum fecit Altissimus propter multos, futurum autem propter paucos.<verse eID="esdrae-4.8.1" />
+        <verse sID="esdrae-4.8.2" osisID="esdrae-4.8.2" />Dicam autem coram te similitudinem, Ezra. Quomodo autem interrogabis terram et dicet tibi, quoniam dabit terram multam magis unde fiat fictile, parvum autem pulverem unde aurum fit, sic et actus praesentis saeculi.<verse eID="esdrae-4.8.2" />
+        <verse sID="esdrae-4.8.3" osisID="esdrae-4.8.3" />Multi quidem creati sunt, pauci autem salvabuntur.<verse eID="esdrae-4.8.3" />
+        <verse sID="esdrae-4.8.4" osisID="esdrae-4.8.4" />Et respondi et dixi: Absolve ergo anima sensum et devoret quod sapit.<verse eID="esdrae-4.8.4" />
+        <verse sID="esdrae-4.8.5" osisID="esdrae-4.8.5" />Convenisti inobaudire et profecta es nolens, nec enim tibi est datum spatium nisi solum modicum vivere.<verse eID="esdrae-4.8.5" />
+        <verse sID="esdrae-4.8.6" osisID="esdrae-4.8.6" />O Domine super nos, si permittes servo tuo, ut oremus coram te et des nobis semen cordis et sensui culturam unde fructum fiat, unde vivere possit omnis corruptus qui portabit locum hominis.<verse eID="esdrae-4.8.6" />
+        <verse sID="esdrae-4.8.7" osisID="esdrae-4.8.7" />Solus enim es, et una plasmatio nos sumus manuum tuarum, sicut locutus es.<verse eID="esdrae-4.8.7" />
+        <verse sID="esdrae-4.8.8" osisID="esdrae-4.8.8" />Et quoniam vivificas nunc in matrice plasmatum corpus et praestas membra, conservatur in igne et aqua tua creatio et novem mensibus patitur tua plasmatio tuae creaturae quae in eo creata est.<verse eID="esdrae-4.8.8" />
+        <verse sID="esdrae-4.8.9" osisID="esdrae-4.8.9" />Ipsum autem quod servat et quod servatur utraque servabuntur servatione tua. Et quando iterum reddit matrix quae in ea creverint,<verse eID="esdrae-4.8.9" />
+        <verse sID="esdrae-4.8.10" osisID="esdrae-4.8.10" />imperasti ut ex ipsis membris, hoc est mamillis, praebere lac, fructum mamillarum,<verse eID="esdrae-4.8.10" />
+        <verse sID="esdrae-4.8.11" osisID="esdrae-4.8.11" />ut nutriatur id quod plasmatum est usque in tempus aliquem. Et postea dispones eum tuae misericordiae,<verse eID="esdrae-4.8.11" />
+        <verse sID="esdrae-4.8.12" osisID="esdrae-4.8.12" />enutristi eum tuae iustitiae, et erudisti eum in lege tua et corripuisti eum tuo intellectu,<verse eID="esdrae-4.8.12" />
+        <verse sID="esdrae-4.8.13" osisID="esdrae-4.8.13" />et mortificabis eum ut tuam creaturam et vivificabis eum ut tuum opus.<verse eID="esdrae-4.8.13" />
+        <verse sID="esdrae-4.8.14" osisID="esdrae-4.8.14" />Si ergo perdideris qui tantis laboribus plasmatus est tuo iussu, facili ordine, et ut quid fiebat?<verse eID="esdrae-4.8.14" />
+        <verse sID="esdrae-4.8.15" osisID="esdrae-4.8.15" />Et nunc dicens dicam: De omni homine tu magis scis, de populo autem tuo quod mihi dolet,<verse eID="esdrae-4.8.15" />
+        <verse sID="esdrae-4.8.16" osisID="esdrae-4.8.16" />et de hereditate tua propter quam lugeo, et de Israhel propter quem tristis sum, et de semine Iacob propter quod conturbor.<verse eID="esdrae-4.8.16" />
+        <verse sID="esdrae-4.8.17" osisID="esdrae-4.8.17" />Ideo incipiam orare coram te pro me et pro eis, quoniam video lapsos nostros qui inhabitamus terram,<verse eID="esdrae-4.8.17" />
+        <verse sID="esdrae-4.8.18" osisID="esdrae-4.8.18" />sed audivi celeritatem iudicii quod futurum est.<verse eID="esdrae-4.8.18" />
+        <verse sID="esdrae-4.8.19" osisID="esdrae-4.8.19" />Ideo audi meam vocem et intellege sermonum meorum, et loquar coram te.<verse eID="esdrae-4.8.19" />
+        <verse sID="esdrae-4.8.20" osisID="esdrae-4.8.20" />Initium verborum Ezrae priusquam adsumeretur, et dixit: Domine qui habitas in saeculum, cuius oculi elati et superna in aerem,<verse eID="esdrae-4.8.20" />
+        <verse sID="esdrae-4.8.21" osisID="esdrae-4.8.21" />et cuius thronus inaestimabilis et gloria inconprehensibilis, cui adstat exercitus angelorum cum tremore,<verse eID="esdrae-4.8.21" />
+        <verse sID="esdrae-4.8.22" osisID="esdrae-4.8.22" />quorum servatio in vento et igni convertitur, cuius verbum verum et dicta perseverantia,<verse eID="esdrae-4.8.22" />
+        <verse sID="esdrae-4.8.23" osisID="esdrae-4.8.23" />cuius iussio fortis et dispositio terribilis, cuius aspectus arefecit abyssos et indignatio tabescere facit montes et veritas testificatur.<verse eID="esdrae-4.8.23" />
+        <verse sID="esdrae-4.8.24" osisID="esdrae-4.8.24" />Exaudi, Domine, orationem servi tui et auribus percipe precationem figmenti tui, intende verba mea.<verse eID="esdrae-4.8.24" />
+        <verse sID="esdrae-4.8.25" osisID="esdrae-4.8.25" />Dum enim vivo loquar et dum sapio respondeam.<verse eID="esdrae-4.8.25" />
+        <verse sID="esdrae-4.8.26" osisID="esdrae-4.8.26" />Ne aspicias populi tui delicta, sed qui tibi in veritate serviunt.<verse eID="esdrae-4.8.26" />
+        <verse sID="esdrae-4.8.27" osisID="esdrae-4.8.27" />Nec adtendas impie agentium studia, sed qui tua testimonia cum doloribus custodierunt.<verse eID="esdrae-4.8.27" />
+        <verse sID="esdrae-4.8.28" osisID="esdrae-4.8.28" />Neque cogites qui in conspectu tuo false conversati sunt, sed memorare qui ex voluntate tuum timorem cognoverunt.<verse eID="esdrae-4.8.28" />
+        <verse sID="esdrae-4.8.29" osisID="esdrae-4.8.29" />Neque volueris perdere qui pecorum mores habuerunt, sed respicias eos qui legem tuam splendide docuerunt.<verse eID="esdrae-4.8.29" />
+        <verse sID="esdrae-4.8.30" osisID="esdrae-4.8.30" />Neque indigneris eis qui bestiis peius sunt iudicati, sed diligas eos qui semper in tua gloria confiderunt.<verse eID="esdrae-4.8.30" />
+        <verse sID="esdrae-4.8.31" osisID="esdrae-4.8.31" />Quoniam nos et patres nostri mortalibus moribus egimus, tu autem propter nos peccatores misericors vocaberis.<verse eID="esdrae-4.8.31" />
+        <verse sID="esdrae-4.8.32" osisID="esdrae-4.8.32" />Si enim desideraveris ut nostri miserearis, tunc misericors vocaberis, nobis enim non habentibus opera iustitiae.<verse eID="esdrae-4.8.32" />
+        <verse sID="esdrae-4.8.33" osisID="esdrae-4.8.33" />Iusti enim, quibus sunt operae multae repositae apud te, ex propriis operibus recipient mercedem.<verse eID="esdrae-4.8.33" />
+        <verse sID="esdrae-4.8.34" osisID="esdrae-4.8.34" />Quid est enim homo, ut ei indigneris, aut genus corruptibile, ut ita amariceris de ipso?<verse eID="esdrae-4.8.34" />
+        <verse sID="esdrae-4.8.35" osisID="esdrae-4.8.35" />In veritate enim nemo de genitis est qui non impie gessit, et de confitentibus qui non deliquit.<verse eID="esdrae-4.8.35" />
+        <verse sID="esdrae-4.8.36" osisID="esdrae-4.8.36" />In hoc enim adnuntiabitur iustitia tua et bonitas tua, Domine, cum misertus fueris eis qui non habent substantiam operum bonorum.<verse eID="esdrae-4.8.36" />
+        <verse sID="esdrae-4.8.37" osisID="esdrae-4.8.37" />Et respondit ad me et dixit: Recte locutus es aliqua, et iuxta sermones tuos sic et fiet,<verse eID="esdrae-4.8.37" />
+        <verse sID="esdrae-4.8.38" osisID="esdrae-4.8.38" />quoniam vere non cogitabo super plasma eorum qui peccaverunt aut mortem aut iudicium aut perditionem,<verse eID="esdrae-4.8.38" />
+        <verse sID="esdrae-4.8.39" osisID="esdrae-4.8.39" />sed iucundabor super iustorum figmentum, peregrinationes quoque et salvationes et mercedis receptiones.<verse eID="esdrae-4.8.39" />
+        <verse sID="esdrae-4.8.40" osisID="esdrae-4.8.40" />Quomodo ergo locutus sum, sic et est.<verse eID="esdrae-4.8.40" />
+        <verse sID="esdrae-4.8.41" osisID="esdrae-4.8.41" />Sicut enim agricola serit super terram semina multa et plantationis multitudinem plantat, sed non in tempore non omnia quae seminata sunt salvabuntur, sed nec omnia quae plantata sunt radicabunt, sic et qui in saeculo seminati sunt non omnes salvabuntur.<verse eID="esdrae-4.8.41" />
+        <verse sID="esdrae-4.8.42" osisID="esdrae-4.8.42" />Et respondi et dixi: Si inveni gratiam loquar,<verse eID="esdrae-4.8.42" />
+        <verse sID="esdrae-4.8.43" osisID="esdrae-4.8.43" />quoniam semen agricolae, si non ascenderit – non enim accepit pluviam tuam in tempore – et si corruptum fuerit multitudine pluviae,<verse eID="esdrae-4.8.43" />
+        <verse sID="esdrae-4.8.44" osisID="esdrae-4.8.44" />hoc perit; sed homo qui manibus tuis plasmatus est et tuae imagini nominatus, quoniam similatus est per quem omnia plasmasti, et similasti eum semini agricolae.<verse eID="esdrae-4.8.44" />
+        <verse sID="esdrae-4.8.45" osisID="esdrae-4.8.45" />Non super nos, sed parce populo tuo et miserere hereditati tuae, tuae enim creaturae misereris.<verse eID="esdrae-4.8.45" />
+        <verse sID="esdrae-4.8.46" osisID="esdrae-4.8.46" />Et respondit ad me et dixit: Quae sunt praesentia praesentibus et quae futura futuris.<verse eID="esdrae-4.8.46" />
+        <verse sID="esdrae-4.8.47" osisID="esdrae-4.8.47" />Multum enim tibi restat, ut possis diligere meam creaturam super me. Tu autem frequenter te et ipsum proximasti iniustis numquam.<verse eID="esdrae-4.8.47" />
+        <verse sID="esdrae-4.8.48" osisID="esdrae-4.8.48" />Sed et in hoc mirabilis eris coram Altissimo,<verse eID="esdrae-4.8.48" />
+        <verse sID="esdrae-4.8.49" osisID="esdrae-4.8.49" />quoniam humiliasti te, sicut decet te, et non iudicasti te inter iustos. Plurimum glorificeris,<verse eID="esdrae-4.8.49" />
+        <verse sID="esdrae-4.8.50" osisID="esdrae-4.8.50" />propter quod miseriae multae miserabiles efficientur qui inhabitant saeculum in novissimis, quia in multa superbia ambulaverunt.<verse eID="esdrae-4.8.50" />
+        <verse sID="esdrae-4.8.51" osisID="esdrae-4.8.51" />Tu autem pro te intellege et de similibus tuis inquire gloriam.<verse eID="esdrae-4.8.51" />
+        <verse sID="esdrae-4.8.52" osisID="esdrae-4.8.52" />Vobis enim apertus est paradisus, plantata est arbor vitae, praeparatum est futurum tempus, praeparata est abundantia, aedificata est civitas, probata est requies, perfecta est bonitas, ante perfecta sapientia.<verse eID="esdrae-4.8.52" />
+        <verse sID="esdrae-4.8.53" osisID="esdrae-4.8.53" />Radix signata est a vobis, infirmitas extincta est a vobis et mors absconsa est, infernum fugit et corruptio in oblivionem.<verse eID="esdrae-4.8.53" />
+        <verse sID="esdrae-4.8.54" osisID="esdrae-4.8.54" />Transierunt dolores et ostensus est in finem thesaurus inmortalitatis.<verse eID="esdrae-4.8.54" />
+        <verse sID="esdrae-4.8.55" osisID="esdrae-4.8.55" />Noli ergo adicere inquirendo de multitudine eorum qui pereunt.<verse eID="esdrae-4.8.55" />
+        <verse sID="esdrae-4.8.56" osisID="esdrae-4.8.56" />Nam et ipsi accipientes libertatem spreverunt Altissimum et legem eius contempserunt et vias eius dereliquerunt.<verse eID="esdrae-4.8.56" />
+        <verse sID="esdrae-4.8.57" osisID="esdrae-4.8.57" />Adhuc autem et iustos eius conculcaverunt.<verse eID="esdrae-4.8.57" />
+        <verse sID="esdrae-4.8.58" osisID="esdrae-4.8.58" />Et dixerunt in corde suo non esse Deum, et quidem scientes quoniam moriuntur.<verse eID="esdrae-4.8.58" />
+        <verse sID="esdrae-4.8.59" osisID="esdrae-4.8.59" />Sicut enim vos suscipient quae praedicta sunt, sic eos sitis et cruciatus quae praeparata sunt. Non enim Altissimus voluit hominem disperdi,<verse eID="esdrae-4.8.59" />
+        <verse sID="esdrae-4.8.60" osisID="esdrae-4.8.60" />sed ipsi qui creati sunt coinquinaverunt nomen eius qui fecit eos, et ingrati fuerunt ei qui praeparavit eis nunc vitam.<verse eID="esdrae-4.8.60" />
+        <verse sID="esdrae-4.8.61" osisID="esdrae-4.8.61" />Quapropter iudicium meum modo adpropinquat,<verse eID="esdrae-4.8.61" />
+        <verse sID="esdrae-4.8.62" osisID="esdrae-4.8.62" />quod non omnibus demonstravi nisi tibi et tibi similibus paucis.
+Et respondi et dixi:<verse eID="esdrae-4.8.62" />
+        <verse sID="esdrae-4.8.63" osisID="esdrae-4.8.63" />Ecce nunc, Domine, demonstrasti mihi multitudinem signorum quae incipies facere in novissimis, sed non demonstrasti mihi quo tempore.<verse eID="esdrae-4.8.63" />
+      </p>
+      <chapter eID="esdrae-4.8" />
+      <chapter sID="esdrae-4.9" osisID="esdrae-4.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="esdrae-4.9.1" osisID="esdrae-4.9.1" />Et respondit ad me et dixit: Metiens metire in temet ipso, et erit cum videris, quoniam transivit pars quaedam signorum quae praedicta sunt,<verse eID="esdrae-4.9.1" />
+        <verse sID="esdrae-4.9.2" osisID="esdrae-4.9.2" />tunc intelleges, quoniam ipsud est tempus, in quo incipiet Altissimus visitare saeculum qui ab eo factus est.<verse eID="esdrae-4.9.2" />
+        <verse sID="esdrae-4.9.3" osisID="esdrae-4.9.3" />Et quando videbitur in saeculo motio locorum, populorum turbatio, gentium cogitationes, ducum inconstantia, principum turbatio,<verse eID="esdrae-4.9.3" />
+        <verse sID="esdrae-4.9.4" osisID="esdrae-4.9.4" />et tunc intelleges, quoniam de his erat Altissimus locutus a diebus qui fuerunt ante ab initio.<verse eID="esdrae-4.9.4" />
+        <verse sID="esdrae-4.9.5" osisID="esdrae-4.9.5" />Sicut enim omne quod factum est in saeculo, initium per consummationem et consummatio manifesta,<verse eID="esdrae-4.9.5" />
+        <verse sID="esdrae-4.9.6" osisID="esdrae-4.9.6" />sic et Altissimi tempora, initia manifesta in prodigiis et virtutibus, et consummatio in actu et in signis.<verse eID="esdrae-4.9.6" />
+        <verse sID="esdrae-4.9.7" osisID="esdrae-4.9.7" />Et erit, omnis qui salvus factus fuerit et qui poterit effugere per opera sua vel per fidem in qua credidit, is<verse eID="esdrae-4.9.7" />
+        <verse sID="esdrae-4.9.8" osisID="esdrae-4.9.8" />relinquetur de praedictis periculis et videbit salutare meum in terra mea et in finibus meis, quae sanctificavi mihi a saeculo.<verse eID="esdrae-4.9.8" />
+        <verse sID="esdrae-4.9.9" osisID="esdrae-4.9.9" />Et tunc mirabuntur qui nunc abusi sunt vias meas, et in cruciamentis commorabuntur hii qui eos proiecerunt in contemptu.<verse eID="esdrae-4.9.9" />
+        <verse sID="esdrae-4.9.10" osisID="esdrae-4.9.10" />Quotquot enim non cognoverunt me viventes beneficia consecuti,<verse eID="esdrae-4.9.10" />
+        <verse sID="esdrae-4.9.11" osisID="esdrae-4.9.11" />et quotquot fastidierunt legem meam, cum adhuc erant habentes libertatem,<verse eID="esdrae-4.9.11" />
+        <verse sID="esdrae-4.9.12" osisID="esdrae-4.9.12" />et cum adhuc esset eis apertum paenitentiae locus non intellexerunt sed spreverunt, hos oportet post mortem in cruciamento cognoscere.<verse eID="esdrae-4.9.12" />
+        <verse sID="esdrae-4.9.13" osisID="esdrae-4.9.13" />Tu ergo adhuc noli curiosus esse quomodo impii cruciabuntur, sed inquire quomodo iusti salvabuntur, et quorum saeculum et propter quos saeculum et quando.<verse eID="esdrae-4.9.13" />
+        <verse sID="esdrae-4.9.14" osisID="esdrae-4.9.14" />Respondi et dixi:<verse eID="esdrae-4.9.14" />
+        <verse sID="esdrae-4.9.15" osisID="esdrae-4.9.15" />Olim locutus sum et nunc dico et postea dicam, quoniam plures sunt qui pereunt quam qui salvabuntur,<verse eID="esdrae-4.9.15" />
+        <verse sID="esdrae-4.9.16" osisID="esdrae-4.9.16" />sicut multiplicat fluctus super guttam. Et respondit ad me et dixit:<verse eID="esdrae-4.9.16" />
+        <verse sID="esdrae-4.9.17" osisID="esdrae-4.9.17" />Qualis ager, talia et semina, et quales flores, tales et tincturae, et qualis opera, talis et creatio, et qualis agricola, talis et area. Quoniam tempus erat saeculi,<verse eID="esdrae-4.9.17" />
+        <verse sID="esdrae-4.9.18" osisID="esdrae-4.9.18" />et tunc cum essem parans eis, his qui nunc, antequam fieret illis saeculum in quo inhabitarent, et nemo contradixit mihi<verse eID="esdrae-4.9.18" />
+        <verse sID="esdrae-4.9.19" osisID="esdrae-4.9.19" />tunc, nec enim erat quisquam, et nunc creati in hoc mundo parato et mensa indeficienti et lege investigabili, corrupti sunt moribus eorum.<verse eID="esdrae-4.9.19" />
+        <verse sID="esdrae-4.9.20" osisID="esdrae-4.9.20" />Et consideravi saeculum meum, et ecce erat perditum et orbem meum, et ecce erat periculi propter cogitationes quae in eo advenerunt.<verse eID="esdrae-4.9.20" />
+        <verse sID="esdrae-4.9.21" osisID="esdrae-4.9.21" />Et vidi et peperci eis vix valde, et salvavi mihi acinum de botru et plantationem de tribu multa.<verse eID="esdrae-4.9.21" />
+        <verse sID="esdrae-4.9.22" osisID="esdrae-4.9.22" />Pereat ergo multitudo quae sine causa nata est, et servetur acinus meus et plantatio mea, quia cum multo labore perfeci haec.<verse eID="esdrae-4.9.22" />
+        <verse sID="esdrae-4.9.23" osisID="esdrae-4.9.23" />Tu autem si adhuc intermittas septem dies alios, sed non ieiunabis in eis,<verse eID="esdrae-4.9.23" />
+        <verse sID="esdrae-4.9.24" osisID="esdrae-4.9.24" />ibis autem in campum florum, ubi domus non est aedificata, et manduca solummodo de floribus campi, et carnem non gustabis et vinum non bibes sed solummodo flores,<verse eID="esdrae-4.9.24" />
+        <verse sID="esdrae-4.9.25" osisID="esdrae-4.9.25" />et deprecare Altissimum sine intermissione, et veniam et loquar tecum.<verse eID="esdrae-4.9.25" />
+        <verse sID="esdrae-4.9.26" osisID="esdrae-4.9.26" />Et profectus sum, sicut dixit mihi, in campum quod vocatur Ardat, et sedi ibi in floribus et de herbis agri manducavi et facta est esca earum mihi in saturitatem.<verse eID="esdrae-4.9.26" />
+        <verse sID="esdrae-4.9.27" osisID="esdrae-4.9.27" />Et factum est post dies septem, et ego discumbebam supra faenum et cor meum iterum turbabatur sicut et ante.<verse eID="esdrae-4.9.27" />
+        <verse sID="esdrae-4.9.28" osisID="esdrae-4.9.28" />Et apertum est os meum et inchoavi dicere coram Altissimo et dixi:<verse eID="esdrae-4.9.28" />
+        <verse sID="esdrae-4.9.29" osisID="esdrae-4.9.29" />O Domine, in nobis ostendens ostensus es patribus nostris in deserto, quando erant exientes de Aegypto et quando veniebant in deserto quod non calcatur et infructuoso, et dicens dixisti:<verse eID="esdrae-4.9.29" />
+        <verse sID="esdrae-4.9.30" osisID="esdrae-4.9.30" />Tu Israhel audi me, et semen Iacob intendite sermonibus meis.<verse eID="esdrae-4.9.30" />
+        <verse sID="esdrae-4.9.31" osisID="esdrae-4.9.31" />Ecce enim ego semino in vobis legem meam, et faciet in vobis fructum, et glorificamini in eo per saeculum.<verse eID="esdrae-4.9.31" />
+        <verse sID="esdrae-4.9.32" osisID="esdrae-4.9.32" />Nam patres nostri accipientes legem non servaverunt et legitima mea non custodierunt. Et factum est fructum legis non periens; nec enim poterat, quoniam tuus erat.<verse eID="esdrae-4.9.32" />
+        <verse sID="esdrae-4.9.33" osisID="esdrae-4.9.33" />Nam qui acceperunt perierunt, non custodientes quod in eis seminatum fuerat.<verse eID="esdrae-4.9.33" />
+        <verse sID="esdrae-4.9.34" osisID="esdrae-4.9.34" />Et ecce consuetudo est ut, cum acceperit terra semen vel navem mare vel vas aliud escas vel potus, et cum fuerit ut exterminetur<verse eID="esdrae-4.9.34" />
+        <verse sID="esdrae-4.9.35" osisID="esdrae-4.9.35" />quod seminatum est vel quod missum est vel quae suscepta sunt, exterminentur haec, susceptoria vero manent. Apud nos si enim non sic factum est.<verse eID="esdrae-4.9.35" />
+        <verse sID="esdrae-4.9.36" osisID="esdrae-4.9.36" />Nos quidem qui legem accepimus peccantes peribimus et cor nostrum quod suscepit eam,<verse eID="esdrae-4.9.36" />
+        <verse sID="esdrae-4.9.37" osisID="esdrae-4.9.37" />nam lex non perit sed permanet in suo honore.<verse eID="esdrae-4.9.37" />
+        <verse sID="esdrae-4.9.38" osisID="esdrae-4.9.38" />Et cum loquor haec in corde meo, et respexi oculis meis et vidi mulierem in dextera parte, et ecce haec lugebat et plorabat cum voce magna, et animo dolebat valde, et vestimenta eius discisa, et cinis super caput eius.<verse eID="esdrae-4.9.38" />
+        <verse sID="esdrae-4.9.39" osisID="esdrae-4.9.39" />Et dimisi cogitatus in quibus eram cogitans et conversus sum ad eam et dixi ei:<verse eID="esdrae-4.9.39" />
+        <verse sID="esdrae-4.9.40" osisID="esdrae-4.9.40" />Ut quid fles et quid doles animo? Et dixit ad me:<verse eID="esdrae-4.9.40" />
+        <verse sID="esdrae-4.9.41" osisID="esdrae-4.9.41" />Dimitte me, dominus meus, ut defleam me et adiciam dolorem, quoniam valde amara sum animo et humiliata sum valde.<verse eID="esdrae-4.9.41" />
+        <verse sID="esdrae-4.9.42" osisID="esdrae-4.9.42" />Et dixi ei: Quid passa es, dic mihi.
+Et dixit ad me:<verse eID="esdrae-4.9.42" />
+        <verse sID="esdrae-4.9.43" osisID="esdrae-4.9.43" />Sterilis fui ego famula tua et non peperi habens maritum annis triginta.<verse eID="esdrae-4.9.43" />
+        <verse sID="esdrae-4.9.44" osisID="esdrae-4.9.44" />Ego enim per singulas horas et per singulos dies in annis triginta his deprecabar Altissimum nocte ac die.<verse eID="esdrae-4.9.44" />
+        <verse sID="esdrae-4.9.45" osisID="esdrae-4.9.45" />Et factum est post triginta annos, exaudivit me Deus ancillae tuae et pervidit humilitatem meam et adtendit tribulationi meae et dedit mihi filium. Et iucundata sum super eum valde ego et vir meus et omnes cives mei, et honorificabamus valde Fortem.<verse eID="esdrae-4.9.45" />
+        <verse sID="esdrae-4.9.46" osisID="esdrae-4.9.46" />Et nutrivi eum cum labore multo.<verse eID="esdrae-4.9.46" />
+        <verse sID="esdrae-4.9.47" osisID="esdrae-4.9.47" />Et factum est cum crevisset et venissem accipere illi uxorem, et feci diem epuli.<verse eID="esdrae-4.9.47" />
+      </p>
+      <chapter eID="esdrae-4.9" />
+      <chapter sID="esdrae-4.10" osisID="esdrae-4.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="esdrae-4.10.1" osisID="esdrae-4.10.1" />Et factum est cum introisset filius meus in thalamo suo, cecidit et mortuus est.<verse eID="esdrae-4.10.1" />
+        <verse sID="esdrae-4.10.2" osisID="esdrae-4.10.2" />Et evertimus omnes lumina, et surrexerunt omnes cives mei ad consolandam me, et quievi usque in alium diem usque noctem.<verse eID="esdrae-4.10.2" />
+        <verse sID="esdrae-4.10.3" osisID="esdrae-4.10.3" />Et factum est cum omnes quievissent ut me consolarentur ut quiescerem, et surrexi nocte et fugi et veni, sicut vides, in hoc campo.<verse eID="esdrae-4.10.3" />
+        <verse sID="esdrae-4.10.4" osisID="esdrae-4.10.4" />Et cogito iam non reverti in civitatem sed hic consistere, et neque manducabo neque bibam, sed sine intermissione lugere et ieiunare, usque dum moriar.<verse eID="esdrae-4.10.4" />
+        <verse sID="esdrae-4.10.5" osisID="esdrae-4.10.5" />Et dereliqui adhuc sermones in quibus eram et respondi cum iracundia ad eam et dixi:<verse eID="esdrae-4.10.5" />
+        <verse sID="esdrae-4.10.6" osisID="esdrae-4.10.6" />Stulta super omnes mulieres, non vides luctum nostrum et quae nobis contigerunt?<verse eID="esdrae-4.10.6" />
+        <verse sID="esdrae-4.10.7" osisID="esdrae-4.10.7" />Quoniam Sion mater nostra omnium in tristitia contristatur et humilitate humiliata est. Lugete validissime<verse eID="esdrae-4.10.7" />
+        <verse sID="esdrae-4.10.8" osisID="esdrae-4.10.8" />et nunc quoniam omnes lugemus, et tristes este quoniam omnes contristati sumus. Tu autem contristaris in uno filio.<verse eID="esdrae-4.10.8" />
+        <verse sID="esdrae-4.10.9" osisID="esdrae-4.10.9" />Interroga enim terram et dicet tibi, quoniam haec est quae debeat lugere tantorum superstes germinantium.<verse eID="esdrae-4.10.9" />
+        <verse sID="esdrae-4.10.10" osisID="esdrae-4.10.10" />Et ex ipsa initio omnes nati et alii venient, et ecce paene omnes in perditionem ambulant et in exterminium fit multitudo eorum.<verse eID="esdrae-4.10.10" />
+        <verse sID="esdrae-4.10.11" osisID="esdrae-4.10.11" />Et quis ergo debet lugere magis nisi haec quae tam magnam multitudinem perdidit, quam tu quae pro uno doles? Si autem dices mihi<verse eID="esdrae-4.10.11" />
+        <verse sID="esdrae-4.10.12" osisID="esdrae-4.10.12" />quoniam non est similis planctus meus terrae, quoniam fructum ventris mei perdidi, quem cum maeroribus peperi et cum doloribus genui,<verse eID="esdrae-4.10.12" />
+        <verse sID="esdrae-4.10.13" osisID="esdrae-4.10.13" />terra autem secundum viam terrae, abiit quae in ea multitudo praesens quomodo et venit et ego tibi dico:<verse eID="esdrae-4.10.13" />
+        <verse sID="esdrae-4.10.14" osisID="esdrae-4.10.14" />Sicut tu cum dolore peperisti, sic et terra dedit fructum suum hominem ab initio ei qui fecit eam.<verse eID="esdrae-4.10.14" />
+        <verse sID="esdrae-4.10.15" osisID="esdrae-4.10.15" />Nunc ergo retine apud temet ipsam dolorem tuum et fortiter fer quae tibi contigerunt casus.<verse eID="esdrae-4.10.15" />
+        <verse sID="esdrae-4.10.16" osisID="esdrae-4.10.16" />Si enim iustificaveris terminum Dei, et filium tuum recipies in tempore et in mulieribus conlaudaberis.<verse eID="esdrae-4.10.16" />
+        <verse sID="esdrae-4.10.17" osisID="esdrae-4.10.17" />Ingredere ergo in civitatem ad virum tuum.
+Et dixit ad me:<verse eID="esdrae-4.10.17" />
+        <verse sID="esdrae-4.10.18" osisID="esdrae-4.10.18" />Non faciam neque ingrediar civitatem, sed hic moriar.<verse eID="esdrae-4.10.18" />
+        <verse sID="esdrae-4.10.19" osisID="esdrae-4.10.19" />Et adposui adhuc loqui ad eam et dixi:<verse eID="esdrae-4.10.19" />
+        <verse sID="esdrae-4.10.20" osisID="esdrae-4.10.20" />Noli facere sermonem hunc, sed consenti persuaderi – quid enim casus Sion – et consolare propter dolorem Hierusalem.<verse eID="esdrae-4.10.20" />
+        <verse sID="esdrae-4.10.21" osisID="esdrae-4.10.21" />Vides enim, quoniam sanctificatio nostra deserta effecta est et altare nostrum demolitum est et templum nostrum destructum est,<verse eID="esdrae-4.10.21" />
+        <verse sID="esdrae-4.10.22" osisID="esdrae-4.10.22" />et psalterium nostrum humiliatum est et hymnus noster conticuit et exultatio nostra dissoluta est, et lumen candelabri nostri extinctum est et arca testamenti nostri direpta est et sancta nostra contaminata sunt, et nomen quod nominatum est super nos paene profanatum est, et liberi nostri contumeliam passi sunt, et sacerdotes nostri succensi sunt et Levitae nostri in captivitate abierunt, et virgines nostrae coinquinatae sunt et mulieres nostrae vim passae sunt, et iusti nostri rapti sunt et parvuli nostri proditi sunt, et iuvenes nostri servierunt et fortes nostri invalidi facti sunt.<verse eID="esdrae-4.10.22" />
+        <verse sID="esdrae-4.10.23" osisID="esdrae-4.10.23" />Et quod omnium maius, signaculum Sion, quoniam resignata est de gloria sua nunc et tradita est in manibus eorum qui nos oderunt.<verse eID="esdrae-4.10.23" />
+        <verse sID="esdrae-4.10.24" osisID="esdrae-4.10.24" />Tu ergo excute tuam multam tristitiam et depone abs te multitudinem dolorum, ut tibi repropitietur Fortis et requiem faciat tibi Altissimus, requietionem laborum.<verse eID="esdrae-4.10.24" />
+        <verse sID="esdrae-4.10.25" osisID="esdrae-4.10.25" />Et factum est cum loquebar ad eam, et ecce facies eius fulgebat valde subito, et species coruscus fiebat visus eius, ut etiam paverem valde ad eam et cogitarem, quid esset hoc.<verse eID="esdrae-4.10.25" />
+        <verse sID="esdrae-4.10.26" osisID="esdrae-4.10.26" />Et ecce subito emisit sonum vocis magnum timore plenum, ut commoveretur terra a sono. Et vidi,<verse eID="esdrae-4.10.26" />
+        <verse sID="esdrae-4.10.27" osisID="esdrae-4.10.27" />et ecce amplius mulier non conparebat mihi, sed civitas aedificabatur et locus demonstrabatur de fundamentis magnis. Et timui et clamavi voce magna et dixi:<verse eID="esdrae-4.10.27" />
+        <verse sID="esdrae-4.10.28" osisID="esdrae-4.10.28" />Ubi est Urihel angelus, qui a principio venit ad me? Quoniam ipse me fecit venire in multitudinem excessus mentis huius, et factus est finis meus in corruptionem et oratio mea in inproperium.<verse eID="esdrae-4.10.28" />
+        <verse sID="esdrae-4.10.29" osisID="esdrae-4.10.29" />Et cum essem loquens ego haec, et ecce venit ad me angelus qui in principio venerat ad me et vidit me,<verse eID="esdrae-4.10.29" />
+        <verse sID="esdrae-4.10.30" osisID="esdrae-4.10.30" />et ecce eram positus ut mortuus et intellectus meus alienatus erat, et tenuit dexteram meam et confortavit me et statuit me super pedes meos et dixit mihi:<verse eID="esdrae-4.10.30" />
+        <verse sID="esdrae-4.10.31" osisID="esdrae-4.10.31" />Quid tibi est et quare conturbaris et quid conturbatum est intellectum tuum et sensus cordis tui? Et dixi:<verse eID="esdrae-4.10.31" />
+        <verse sID="esdrae-4.10.32" osisID="esdrae-4.10.32" />Quoniam derelinquens dereliquisti me. Ego quidem feci secundum sermones tuos et exivi in campum, et ecce vidi et video quod non possum enarrare. Et dixit ad me:<verse eID="esdrae-4.10.32" />
+        <verse sID="esdrae-4.10.33" osisID="esdrae-4.10.33" />Sta ut vir, et commonebo te. Et dixi:<verse eID="esdrae-4.10.33" />
+        <verse sID="esdrae-4.10.34" osisID="esdrae-4.10.34" />Loquere, dominus meus, tantum me noli derelinquere, ut non frustra moriar,<verse eID="esdrae-4.10.34" />
+        <verse sID="esdrae-4.10.35" osisID="esdrae-4.10.35" />quoniam vidi quae non sciebam, et audio quae non scio.<verse eID="esdrae-4.10.35" />
+        <verse sID="esdrae-4.10.36" osisID="esdrae-4.10.36" />Aut numquid sensus meus fallitur et anima mea somniat?<verse eID="esdrae-4.10.36" />
+        <verse sID="esdrae-4.10.37" osisID="esdrae-4.10.37" />Nunc ergo deprecor te, ut demonstres servo tuo de excessu hoc.
+Et respondit ad me et dixit:<verse eID="esdrae-4.10.37" />
+        <verse sID="esdrae-4.10.38" osisID="esdrae-4.10.38" />Audi me, et doceam te et dicam tibi de quibus times, quoniam Altissimus revelavit tibi mysteria multa.<verse eID="esdrae-4.10.38" />
+        <verse sID="esdrae-4.10.39" osisID="esdrae-4.10.39" />Vidit rectam viam tuam, quoniam sine intermissione contristabaris pro populo tuo et valde lugebas propter Sion.<verse eID="esdrae-4.10.39" />
+        <verse sID="esdrae-4.10.40" osisID="esdrae-4.10.40" />Hic ergo intellectus visionis: Mulier quae tibi apparuit ante paululum,<verse eID="esdrae-4.10.40" />
+        <verse sID="esdrae-4.10.41" osisID="esdrae-4.10.41" />quam vidisti lugentem et inchoasti consolare eam,<verse eID="esdrae-4.10.41" />
+        <verse sID="esdrae-4.10.42" osisID="esdrae-4.10.42" />nunc autem iam non speciem mulieris vides, sed apparuit tibi civitas aedificari.<verse eID="esdrae-4.10.42" />
+        <verse sID="esdrae-4.10.43" osisID="esdrae-4.10.43" />Et quoniam enarrabat tibi de casu filii sui, haec absolutio est:<verse eID="esdrae-4.10.43" />
+        <verse sID="esdrae-4.10.44" osisID="esdrae-4.10.44" />Haec mulier quam vidisti haec est Sion, quam nunc conspicis ut civitatem aedificatam.<verse eID="esdrae-4.10.44" />
+        <verse sID="esdrae-4.10.45" osisID="esdrae-4.10.45" />Et quoniam dixit tibi, quia sterilis fuit annis triginta, propter quod erant anni saeculo tria milia, quando non erat in ea adhuc oblatio oblata.<verse eID="esdrae-4.10.45" />
+        <verse sID="esdrae-4.10.46" osisID="esdrae-4.10.46" />Et factum est post annos tres, et aedificavit Salomon civitatem et obtulit oblationes. Tunc fuit quando peperit sterilis filium.<verse eID="esdrae-4.10.46" />
+        <verse sID="esdrae-4.10.47" osisID="esdrae-4.10.47" />Et quod tibi dixit quoniam nutrivi eum cum labore, haec erat habitatio Hierusalem.<verse eID="esdrae-4.10.47" />
+        <verse sID="esdrae-4.10.48" osisID="esdrae-4.10.48" />Et quoniam dixit tibi quod filius meus veniens in suo thalamo mortuus esset et contigisset ei casus, haec erat quae facta est ruina Hierusalem.<verse eID="esdrae-4.10.48" />
+        <verse sID="esdrae-4.10.49" osisID="esdrae-4.10.49" />Et ecce vidisti similitudinem eius, quomodo filium luget, et tu inchoasti consolare eam de his quae contigerunt. Haec erant tibi aperienda.<verse eID="esdrae-4.10.49" />
+        <verse sID="esdrae-4.10.50" osisID="esdrae-4.10.50" />Et nunc videns Altissimus, quoniam ex animo contristatus es et quoniam ex toto corde pateris pro ea, ostendit tibi claritatem gloriae eius et pulchritudinem decoris eius.<verse eID="esdrae-4.10.50" />
+        <verse sID="esdrae-4.10.51" osisID="esdrae-4.10.51" />Propterea enim dixi tibi, ut maneres in campo, ubi domus non est aedificata.<verse eID="esdrae-4.10.51" />
+        <verse sID="esdrae-4.10.52" osisID="esdrae-4.10.52" />Sciebam enim ego, quoniam Altissimus incipiebat tibi ostendere haec.<verse eID="esdrae-4.10.52" />
+        <verse sID="esdrae-4.10.53" osisID="esdrae-4.10.53" />Propterea dixi tibi, ut venires in agrum, ubi non est fundamentum aedificii.<verse eID="esdrae-4.10.53" />
+        <verse sID="esdrae-4.10.54" osisID="esdrae-4.10.54" />Nec enim poterat opus aedificii hominis sustinere in loco, ubi incipiebat Altissimi civitas ostendi.<verse eID="esdrae-4.10.54" />
+        <verse sID="esdrae-4.10.55" osisID="esdrae-4.10.55" />Tu ergo noli timere neque expavescat cor tuum, sed ingredere et vide splendorem vel magnitudinem aedificii, quantum capax est tibi visu oculorum videre.<verse eID="esdrae-4.10.55" />
+        <verse sID="esdrae-4.10.56" osisID="esdrae-4.10.56" />Et post haec audies, quantum capit auditus aurium tuarum audire.<verse eID="esdrae-4.10.56" />
+        <verse sID="esdrae-4.10.57" osisID="esdrae-4.10.57" />Tu enim beatus es prae multis et vocatus es apud Altissimum sicut et pauci.<verse eID="esdrae-4.10.57" />
+        <verse sID="esdrae-4.10.58" osisID="esdrae-4.10.58" />Nocte autem quae in crastinum futura est manebis hic,<verse eID="esdrae-4.10.58" />
+        <verse sID="esdrae-4.10.59" osisID="esdrae-4.10.59" />et ostendet tibi Altissimus eas visiones somniorum, quae faciet Altissimus his qui inhabitant super terram a novissimis diebus.<verse eID="esdrae-4.10.59" />
+        <verse sID="esdrae-4.10.60" osisID="esdrae-4.10.60" />Et dormivi illam noctem et aliam sicut dixerat mihi.<verse eID="esdrae-4.10.60" />
+      </p>
+      <chapter eID="esdrae-4.10" />
+      <chapter sID="esdrae-4.11" osisID="esdrae-4.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="esdrae-4.11.1" osisID="esdrae-4.11.1" />Et factum est secunda nocte, et vidi somnium, et ecce ascendebat de mari aquila, cui erant duodecim alae pinnarum et capita tria.<verse eID="esdrae-4.11.1" />
+        <verse sID="esdrae-4.11.2" osisID="esdrae-4.11.2" />Et vidi, et ecce expandebat alas suas in omnem terram, et omnes venti caeli insuflabant ad eam et nubes ad eam colligebantur.<verse eID="esdrae-4.11.2" />
+        <verse sID="esdrae-4.11.3" osisID="esdrae-4.11.3" />Et vidi, et de pinnis eius nascebantur contrariae pinnae, et ipsae fiebant in pinnaculis minutis et modicis.<verse eID="esdrae-4.11.3" />
+        <verse sID="esdrae-4.11.4" osisID="esdrae-4.11.4" />Nam capita eius erant quiescentia, et de medium caput erat maius aliorum capitum, sed et ipsa quiescebat cum eis.<verse eID="esdrae-4.11.4" />
+        <verse sID="esdrae-4.11.5" osisID="esdrae-4.11.5" />Et vidi, et ecce aquila volavit in pinnis suis et regnavit super terram et super eos qui inhabitant in ea.<verse eID="esdrae-4.11.5" />
+        <verse sID="esdrae-4.11.6" osisID="esdrae-4.11.6" />Et vidi, quomodo subiecta erant ei omnia quae sub caelo, et nemo illi contradicebat, neque unus de creatura quae est super terram.<verse eID="esdrae-4.11.6" />
+        <verse sID="esdrae-4.11.7" osisID="esdrae-4.11.7" />Et vidi, et ecce surrexit aquila super ungues suos et emisit vocem pinnis suis dicens:<verse eID="esdrae-4.11.7" />
+        <verse sID="esdrae-4.11.8" osisID="esdrae-4.11.8" />Nolite omnes simul vigilare, dormite unusquisque in loco suo et per tempus vigilate,<verse eID="esdrae-4.11.8" />
+        <verse sID="esdrae-4.11.9" osisID="esdrae-4.11.9" />capita autem in novissimo serventur.<verse eID="esdrae-4.11.9" />
+        <verse sID="esdrae-4.11.10" osisID="esdrae-4.11.10" />Et vidi, et ecce vox non exiebat de capitibus eius, sed de medietate corporis eius.<verse eID="esdrae-4.11.10" />
+        <verse sID="esdrae-4.11.11" osisID="esdrae-4.11.11" />Et numeravi contrarias pinnas eius, et ecce ipsae erant octo.<verse eID="esdrae-4.11.11" />
+        <verse sID="esdrae-4.11.12" osisID="esdrae-4.11.12" />Et vidi, et ecce a dextera parte surrexit una pinna et regnavit super omnem terram.<verse eID="esdrae-4.11.12" />
+        <verse sID="esdrae-4.11.13" osisID="esdrae-4.11.13" />Et factum est cum regnaret, et venit ei finis et non apparuit, ita ut non appareret locus eius. Et sequens exsurrexit et regnabat et ipsa multum tenuit tempus.<verse eID="esdrae-4.11.13" />
+        <verse sID="esdrae-4.11.14" osisID="esdrae-4.11.14" />Et factum est cum regnaret, et veniebat finis eius, ut non appareret sicut prior.<verse eID="esdrae-4.11.14" />
+        <verse sID="esdrae-4.11.15" osisID="esdrae-4.11.15" />Et ecce vox emissa est illi dicens:<verse eID="esdrae-4.11.15" />
+        <verse sID="esdrae-4.11.16" osisID="esdrae-4.11.16" />Audi, tu quae toto tempore tenuisti terram, hoc adnuntii, antequam incipias non parere:<verse eID="esdrae-4.11.16" />
+        <verse sID="esdrae-4.11.17" osisID="esdrae-4.11.17" />Nemo post te tenebit tempus tuum, sed nec dimidium eius.<verse eID="esdrae-4.11.17" />
+        <verse sID="esdrae-4.11.18" osisID="esdrae-4.11.18" />Et levavit se tertia et tenuit principatum sicut priores, et non apparuit et ipsa.<verse eID="esdrae-4.11.18" />
+        <verse sID="esdrae-4.11.19" osisID="esdrae-4.11.19" />Et sic contingebat omnibus alis singillatim principatum gerere et iterum nusquam conparere.<verse eID="esdrae-4.11.19" />
+        <verse sID="esdrae-4.11.20" osisID="esdrae-4.11.20" />Et vidi, et ecce in tempore sequentes pinnae erigebantur et ipsae a dextera parte, ut tenerent et ipsae principatum; et ex his erant quae tenebant, sed tamen statim non conparescebant.<verse eID="esdrae-4.11.20" />
+        <verse sID="esdrae-4.11.21" osisID="esdrae-4.11.21" />Nam et aliquae ex eis erigebantur, sed non tenebant principatum.<verse eID="esdrae-4.11.21" />
+        <verse sID="esdrae-4.11.22" osisID="esdrae-4.11.22" />Et vidi post haec, et ecce non conparuerunt duodecim pinnae et duo pinnacula.<verse eID="esdrae-4.11.22" />
+        <verse sID="esdrae-4.11.23" osisID="esdrae-4.11.23" />Et nihil superavit in corpore aquilae nisi tria capita quiescentia et sex pinnacula.<verse eID="esdrae-4.11.23" />
+        <verse sID="esdrae-4.11.24" osisID="esdrae-4.11.24" />Et vidi, et ecce de sex pinnaculis divisa sunt duo et manserunt sub capite quod est ad dexteram partem; nam quattuor manserunt in loco suo.<verse eID="esdrae-4.11.24" />
+        <verse sID="esdrae-4.11.25" osisID="esdrae-4.11.25" />Et vidi, et ecce hae subalares cogitabant se erigere et tenere principatus.<verse eID="esdrae-4.11.25" />
+        <verse sID="esdrae-4.11.26" osisID="esdrae-4.11.26" />Et vidi, et ecce una erecta est, sed statim non conparuit.<verse eID="esdrae-4.11.26" />
+        <verse sID="esdrae-4.11.27" osisID="esdrae-4.11.27" />Et secunda, et haec velocius quam prior non conparuit.<verse eID="esdrae-4.11.27" />
+        <verse sID="esdrae-4.11.28" osisID="esdrae-4.11.28" />Et vidi, et ecce duae quae superaverunt apud semet ipsas cogitabant et ipsae regnare.<verse eID="esdrae-4.11.28" />
+        <verse sID="esdrae-4.11.29" osisID="esdrae-4.11.29" />Et in eo cum cogitarent, et ecce unum de quiescentium capitum, quod erat medium, evigilabat, hoc enim erat duorum capitum maior.<verse eID="esdrae-4.11.29" />
+        <verse sID="esdrae-4.11.30" osisID="esdrae-4.11.30" />Et vidi, quomodo conplexa est duo capita secum,<verse eID="esdrae-4.11.30" />
+        <verse sID="esdrae-4.11.31" osisID="esdrae-4.11.31" />et ecce conversum est caput cum his qui cum ea erant et comedit duas subalares quae cogitabant regnare.<verse eID="esdrae-4.11.31" />
+        <verse sID="esdrae-4.11.32" osisID="esdrae-4.11.32" />Hoc autem caput percontinuit omnem terram et dominavit qui inhabitant in ea cum labore multo, et potentatum tenuit orbem terrarum super omnes alas quae fuerunt.<verse eID="esdrae-4.11.32" />
+        <verse sID="esdrae-4.11.33" osisID="esdrae-4.11.33" />Et vidi post haec, et ecce medium caput subito non conparuit, et hoc sicut alae.<verse eID="esdrae-4.11.33" />
+        <verse sID="esdrae-4.11.34" osisID="esdrae-4.11.34" />Superaverunt autem duo capita, quae et ipsa similiter regnaverunt super terram et super eos qui habitant in ea.<verse eID="esdrae-4.11.34" />
+        <verse sID="esdrae-4.11.35" osisID="esdrae-4.11.35" />Et vidi, et ecce devoravit caput a dextera parte illud quod est a leva.<verse eID="esdrae-4.11.35" />
+        <verse sID="esdrae-4.11.36" osisID="esdrae-4.11.36" />Et audivi vocem dicentem mihi: Conspice contra te et considera quod vides.<verse eID="esdrae-4.11.36" />
+        <verse sID="esdrae-4.11.37" osisID="esdrae-4.11.37" />Et vidi, et ecce sicut leo suscitatus de silva mugiens, et audivi quomodo emisit vocem hominis ad aquilam et dixit dicens:<verse eID="esdrae-4.11.37" />
+        <verse sID="esdrae-4.11.38" osisID="esdrae-4.11.38" />Audi tu, et loquar ad te, et dicit Altissimus tibi:<verse eID="esdrae-4.11.38" />
+        <verse sID="esdrae-4.11.39" osisID="esdrae-4.11.39" />Nonne tu es, quae superasti de quattuor animalibus quae feceram regnare saeculi mei, et ut per eos veniret finis temporum meorum?<verse eID="esdrae-4.11.39" />
+        <verse sID="esdrae-4.11.40" osisID="esdrae-4.11.40" />Et quartus veniens devicit omnia animalia quae transierunt, et potentatum tenens saeculum cum tremore multo et omnem orbem cum labore pessimo, et inhabitabant tot temporibus orbem terrarum cum dolo.<verse eID="esdrae-4.11.40" />
+        <verse sID="esdrae-4.11.41" osisID="esdrae-4.11.41" />Et iudicasti terram non cum veritate.<verse eID="esdrae-4.11.41" />
+        <verse sID="esdrae-4.11.42" osisID="esdrae-4.11.42" />Tribulasti enim mansuetos et laesisti quiescentes, odisti verum dicentes et dilexisti mendaces, et destruxisti habitationes eorum qui fructificabant, et humiliasti muros eorum qui te non nocuerunt.<verse eID="esdrae-4.11.42" />
+        <verse sID="esdrae-4.11.43" osisID="esdrae-4.11.43" />Et ascendit contumelia ad Altissimum et superbia tua ad Fortem.<verse eID="esdrae-4.11.43" />
+        <verse sID="esdrae-4.11.44" osisID="esdrae-4.11.44" />Et respexit Altissimus super sua tempora, et ecce finita sunt et saecula eius conpleta sunt.<verse eID="esdrae-4.11.44" />
+        <verse sID="esdrae-4.11.45" osisID="esdrae-4.11.45" />Propterea non apparens non appareas, tu aquila et alae tuae horribiles et pinnacula tua pessima et capita tua maligna et ungues tui pessimi et omne corpus tuum vanum,<verse eID="esdrae-4.11.45" />
+        <verse sID="esdrae-4.11.46" osisID="esdrae-4.11.46" />uti refrigeret omnis terra et relevetur liberata de tua vi et speret iudicium et misericordiam eius qui fecit eam.<verse eID="esdrae-4.11.46" />
+      </p>
+      <chapter eID="esdrae-4.11" />
+      <chapter sID="esdrae-4.12" osisID="esdrae-4.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="esdrae-4.12.1" osisID="esdrae-4.12.1" />Et factum est dum loqueretur leo verba haec ad aquilam, et vidi,<verse eID="esdrae-4.12.1" />
+        <verse sID="esdrae-4.12.2" osisID="esdrae-4.12.2" />et ecce quod superaverat caput et non conparuit, et alae duae quae ad eum transierunt et erectae sunt ut regnarent, et erat regnum eorum exile et tumultu plenum.<verse eID="esdrae-4.12.2" />
+        <verse sID="esdrae-4.12.3" osisID="esdrae-4.12.3" />Et vidi, et ecce ipsa non apparescebant, et omne corpus aquilae incendebatur, et expavescebat terra valde.
+Et ego a multo excessu mentis et a magno timore vigilavi, et dixi spiritui meo:<verse eID="esdrae-4.12.3" />
+        <verse sID="esdrae-4.12.4" osisID="esdrae-4.12.4" />Ecce tu mihi praestitisti haec, in eo quod scrutas vias Altissimi.<verse eID="esdrae-4.12.4" />
+        <verse sID="esdrae-4.12.5" osisID="esdrae-4.12.5" />Ecce adhuc fatigatus sum animo et spiritu meo invalidus sum valde, et nec modica est in me virtus a multo timore quem expavi nocte hac.<verse eID="esdrae-4.12.5" />
+        <verse sID="esdrae-4.12.6" osisID="esdrae-4.12.6" />Nunc ergo orabo Altissimum, ut me confortet usque in finem.<verse eID="esdrae-4.12.6" />
+        <verse sID="esdrae-4.12.7" osisID="esdrae-4.12.7" />Et dixi: Dominator Domine, si inveni gratiam ante oculos tuos, et si iustificatus sum apud te prae multis, et si certum ascendit deprecatio mea ante faciem tuam,<verse eID="esdrae-4.12.7" />
+        <verse sID="esdrae-4.12.8" osisID="esdrae-4.12.8" />conforta me et ostende servo tuo mihi interpretationem et distinctionem visus horribilis huius, ut plenissime consoles animam meam.<verse eID="esdrae-4.12.8" />
+        <verse sID="esdrae-4.12.9" osisID="esdrae-4.12.9" />Dignum enim me habuisti ostendere mihi temporum finem et temporum novissima.
+Et dixit ad me:<verse eID="esdrae-4.12.9" />
+        <verse sID="esdrae-4.12.10" osisID="esdrae-4.12.10" />Haec est interpretatio visionis huius quam vidisti:<verse eID="esdrae-4.12.10" />
+        <verse sID="esdrae-4.12.11" osisID="esdrae-4.12.11" />Aquilam quam vidisti ascendentem de mari, hoc est regnum quartum, quod visum est in visu Danihelo fratri tuo,<verse eID="esdrae-4.12.11" />
+        <verse sID="esdrae-4.12.12" osisID="esdrae-4.12.12" />sed non est illi interpretatum, quomodo ego nunc tibi interpretor vel interpretavi.<verse eID="esdrae-4.12.12" />
+        <verse sID="esdrae-4.12.13" osisID="esdrae-4.12.13" />Ecce dies veniunt, et exsurget regnum super terram et erit timoratior omnium regnorum quae fuerunt ante eam.<verse eID="esdrae-4.12.13" />
+        <verse sID="esdrae-4.12.14" osisID="esdrae-4.12.14" />Regnabunt autem in ea duodecim reges, unus post unum.<verse eID="esdrae-4.12.14" />
+        <verse sID="esdrae-4.12.15" osisID="esdrae-4.12.15" />Nam secundus qui incipiet regnare, ipse tenebit amplius tempus prae duodecim.<verse eID="esdrae-4.12.15" />
+        <verse sID="esdrae-4.12.16" osisID="esdrae-4.12.16" />Haec est interpretatio duodecim alarum quas vidisti.<verse eID="esdrae-4.12.16" />
+        <verse sID="esdrae-4.12.17" osisID="esdrae-4.12.17" />Et quoniam audisti vocem quae locuta est non de capitibus eius exientem, sed de medio corpore eius,<verse eID="esdrae-4.12.17" />
+        <verse sID="esdrae-4.12.18" osisID="esdrae-4.12.18" />haec est interpretatio, quoniam post tempus regni illius nascentur contentiones non modicae, et periclitabitur ut cadat, et non cadet tunc, sed iterum constituetur in suum initium.<verse eID="esdrae-4.12.18" />
+        <verse sID="esdrae-4.12.19" osisID="esdrae-4.12.19" />Et quoniam vidisti subalares octo coherentes alis eius,<verse eID="esdrae-4.12.19" />
+        <verse sID="esdrae-4.12.20" osisID="esdrae-4.12.20" />haec est interpretatio: Exsurgent enim in ipso octo reges, quorum erunt tempora levia et anni citati, et duo quidem ex ipsis perient<verse eID="esdrae-4.12.20" />
+        <verse sID="esdrae-4.12.21" osisID="esdrae-4.12.21" />adpropinquante tempore medio, quattuor autem servabuntur in tempore, cum incipiet adpropinquare tempus eius ut finiatur, duo vero in finem servabuntur.<verse eID="esdrae-4.12.21" />
+        <verse sID="esdrae-4.12.22" osisID="esdrae-4.12.22" />Et quoniam vidisti tria capita quiescentia,<verse eID="esdrae-4.12.22" />
+        <verse sID="esdrae-4.12.23" osisID="esdrae-4.12.23" />haec est interpretatio: In novissimis eius suscitabit Altissimus tria regna et renovabit in ea multa, et dominabunt terram<verse eID="esdrae-4.12.23" />
+        <verse sID="esdrae-4.12.24" osisID="esdrae-4.12.24" />et qui inhabitant in ea cum labore multo super omnes qui fuerunt ante hos. Propter hoc ipsi vocati sunt capita aquilae.<verse eID="esdrae-4.12.24" />
+        <verse sID="esdrae-4.12.25" osisID="esdrae-4.12.25" />Isti enim erunt qui recapitulabunt impietates eius et qui perficient novissima eius.<verse eID="esdrae-4.12.25" />
+        <verse sID="esdrae-4.12.26" osisID="esdrae-4.12.26" />Et quoniam vidisti caput maius non apparescentem, quoniam unus ex eis super lectum suum morietur, et tamen cum tormentis.<verse eID="esdrae-4.12.26" />
+        <verse sID="esdrae-4.12.27" osisID="esdrae-4.12.27" />Nam duo qui perseveraverunt, gladius eos comedet.<verse eID="esdrae-4.12.27" />
+        <verse sID="esdrae-4.12.28" osisID="esdrae-4.12.28" />Unius enim gladius comedet qui cum eo, sed tamen et hic gladio in novissimis cadet.<verse eID="esdrae-4.12.28" />
+        <verse sID="esdrae-4.12.29" osisID="esdrae-4.12.29" />Et quoniam vidisti duas subalares treicientes super caput quod est a dextera parte,<verse eID="esdrae-4.12.29" />
+        <verse sID="esdrae-4.12.30" osisID="esdrae-4.12.30" />haec est interpretatio: Hii sunt quos conservavit Altissimus in finem suam, hoc erat regnum exile et turbationis plenum,<verse eID="esdrae-4.12.30" />
+        <verse sID="esdrae-4.12.31" osisID="esdrae-4.12.31" />sicut vidisti.
+Et leonem quem vidisti de silva evigilantem mugientem et loquentem ad aquilam et arguentem eam iniustitias ipsius per omnes sermones eius, sicut audisti,<verse eID="esdrae-4.12.31" />
+        <verse sID="esdrae-4.12.32" osisID="esdrae-4.12.32" />hic est unctus, quem reservavit Altissimus in finem ad eos et impietates ipsorum. Arguet illos de iniustitiis ipsorum et infulciet coram ipsis spretiones eorum.<verse eID="esdrae-4.12.32" />
+        <verse sID="esdrae-4.12.33" osisID="esdrae-4.12.33" />Statuet enim eos primum in iudicium vivos, et erit cum arguerit eos, tunc corrumpet eos.<verse eID="esdrae-4.12.33" />
+        <verse sID="esdrae-4.12.34" osisID="esdrae-4.12.34" />Nam residuum populum meum liberabit cum misericordia, qui salvati sunt super fines meos, et iucundabit eos, quoadusque veniat finis, dies iudicii, de quo locutus sum tibi ab initio.<verse eID="esdrae-4.12.34" />
+        <verse sID="esdrae-4.12.35" osisID="esdrae-4.12.35" />Hoc somnium quod vidisti, et haec interpretatio eius.<verse eID="esdrae-4.12.35" />
+        <verse sID="esdrae-4.12.36" osisID="esdrae-4.12.36" />Tu ergo solus dignus fuisti scire Altissimi secretum hoc.<verse eID="esdrae-4.12.36" />
+        <verse sID="esdrae-4.12.37" osisID="esdrae-4.12.37" />Scribe ergo omnia ista in libro quae vidisti, et pones ea in loco abscondito.<verse eID="esdrae-4.12.37" />
+        <verse sID="esdrae-4.12.38" osisID="esdrae-4.12.38" />Et docebis ea sapientes de populo tuo, quorum scis corda posse capere et servare secreta haec.<verse eID="esdrae-4.12.38" />
+        <verse sID="esdrae-4.12.39" osisID="esdrae-4.12.39" />Tu autem adhuc sustine hic alios dies septem, ut tibi ostendatur quicquid visum fuerit Altissimo ostendere tibi.<verse eID="esdrae-4.12.39" />
+        <verse sID="esdrae-4.12.40" osisID="esdrae-4.12.40" />Et profectus est a me.
+Et factum est cum audisset omnis populus, quoniam pertransierunt septem dies, et ego non fuissem reversus in civitatem, et congregavit se omnis a minimo usque ad maximum et venit ad me, et dixerunt mihi dicentes:<verse eID="esdrae-4.12.40" />
+        <verse sID="esdrae-4.12.41" osisID="esdrae-4.12.41" />Quid peccavimus tibi et quid iniuste egimus in te, quoniam derelinquens nos sedisti in loco hoc?<verse eID="esdrae-4.12.41" />
+        <verse sID="esdrae-4.12.42" osisID="esdrae-4.12.42" />Tu enim nobis superasti ex omnibus prophetis, sicut botrus de vindemia, et sicut lucerna in loco obscuro, et sicut portus navi salvatae a tempestate.<verse eID="esdrae-4.12.42" />
+        <verse sID="esdrae-4.12.43" osisID="esdrae-4.12.43" />Aut non sufficiunt nobis mala quae contigerunt?<verse eID="esdrae-4.12.43" />
+        <verse sID="esdrae-4.12.44" osisID="esdrae-4.12.44" />Si ergo tu nos dereliqueris, quanto erat nobis melius, si essemus succensi et nos incendio Sion.<verse eID="esdrae-4.12.44" />
+        <verse sID="esdrae-4.12.45" osisID="esdrae-4.12.45" />Nec enim nos meliores sumus eorum, qui ibi mortui sunt. Et ploraverunt voce magna.
+Et respondi ad eos et dixi:<verse eID="esdrae-4.12.45" />
+        <verse sID="esdrae-4.12.46" osisID="esdrae-4.12.46" />Confide, Israhel, et noli tristari, tu domus Iacob.<verse eID="esdrae-4.12.46" />
+        <verse sID="esdrae-4.12.47" osisID="esdrae-4.12.47" />Est enim memoria vestri coram Altissimo, et Fortis non est oblitus vestri in contentione.<verse eID="esdrae-4.12.47" />
+        <verse sID="esdrae-4.12.48" osisID="esdrae-4.12.48" />Ego enim non dereliqui vos neque excessi a vobis, sed veni in hunc locum, ut deprecarer pro desolatione Sion, et ut quaererem misericordiam pro humilitate sanctificationis vestrae.<verse eID="esdrae-4.12.48" />
+        <verse sID="esdrae-4.12.49" osisID="esdrae-4.12.49" />Et nunc ite unusquisque vestrum in domum suam, et ego veniam ad vos post dies istos.<verse eID="esdrae-4.12.49" />
+        <verse sID="esdrae-4.12.50" osisID="esdrae-4.12.50" />Et profectus est populus, sicut dixi ei, in civitatem.<verse eID="esdrae-4.12.50" />
+        <verse sID="esdrae-4.12.51" osisID="esdrae-4.12.51" />Ego autem sedi in campo septem diebus, sicut mihi mandavit, et manducabam de floribus solummodo agri, de herbis facta est mihi esca in diebus illis.<verse eID="esdrae-4.12.51" />
+      </p>
+      <chapter eID="esdrae-4.12" />
+      <chapter sID="esdrae-4.13" osisID="esdrae-4.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="esdrae-4.13.1" osisID="esdrae-4.13.1" />Et factum est post dies septem, et somniavi somnium nocte.<verse eID="esdrae-4.13.1" />
+        <verse sID="esdrae-4.13.2" osisID="esdrae-4.13.2" />Et ecce de mari ventus exsurgebat, ut conturbaret omnes fluctus eius.<verse eID="esdrae-4.13.2" />
+        <verse sID="esdrae-4.13.3" osisID="esdrae-4.13.3" />Et vidi, et ecce convolabat ipse homo cum nubibus caeli. Et ubi vultum suum convertebat ut consideraret, tremebant omnia quae sub eo videbantur.<verse eID="esdrae-4.13.3" />
+        <verse sID="esdrae-4.13.4" osisID="esdrae-4.13.4" />Et ubicumque exiebat vox de ore eius, ardescebant omnes qui audiebant voces eius, sicut liquescit cera quando senserit ignem.<verse eID="esdrae-4.13.4" />
+        <verse sID="esdrae-4.13.5" osisID="esdrae-4.13.5" />Et vidi post haec, et ecce congregabatur multitudo hominum, quorum non erat numerus, de quattuor ventis caeli, ut debellarent hominem qui ascenderat de mari.<verse eID="esdrae-4.13.5" />
+        <verse sID="esdrae-4.13.6" osisID="esdrae-4.13.6" />Et vidi, et ecce sibimet ipso sculpsit montem magnum et volavit super eum.<verse eID="esdrae-4.13.6" />
+        <verse sID="esdrae-4.13.7" osisID="esdrae-4.13.7" />Ego autem quaesivi videre regionem vel locum, unde sculptus esset mons, et non potui.<verse eID="esdrae-4.13.7" />
+        <verse sID="esdrae-4.13.8" osisID="esdrae-4.13.8" />Et post haec vidi, et ecce omnes, qui congregati sunt ad eum ut expugnarent eum, timebant valde, tamen audebant pugnare.<verse eID="esdrae-4.13.8" />
+        <verse sID="esdrae-4.13.9" osisID="esdrae-4.13.9" />Et ecce ut vidit impetum multitudinis venientis, non levavit manum suam neque frameam tenebat neque aliquod vas bellicosum, nisi solummodo vidi,<verse eID="esdrae-4.13.9" />
+        <verse sID="esdrae-4.13.10" osisID="esdrae-4.13.10" />quomodo emittit de ore suo sicut fluctum ignis, et de labiis eius spiritum flammae, et de lingua eius emittebat scintillas tempestatis. Et commixta sunt simul omnia haec, fluctus ignis et spiritus flammae et multitudo tempestatis.<verse eID="esdrae-4.13.10" />
+        <verse sID="esdrae-4.13.11" osisID="esdrae-4.13.11" />Et concidit super multitudinis impetum quod paratum erat pugnare, et succendit omnes, ut subito nihil videretur de innumerabili multitudine nisi solummodo pulvis cineris et fumi odor. Et vidi et extiti.<verse eID="esdrae-4.13.11" />
+        <verse sID="esdrae-4.13.12" osisID="esdrae-4.13.12" />Et post haec vidi ipsum hominem descendentem de monte et advocantem ad se multitudinem aliam pacificam.<verse eID="esdrae-4.13.12" />
+        <verse sID="esdrae-4.13.13" osisID="esdrae-4.13.13" />Et accedebant ad eum vultus hominum multorum, quorumdam gaudentium, quorumdam tristantium, aliqui vero alligati, aliqui adducentes ex eis qui offerebantur. Et ego a multitudine pavoris expergefactus sum et deprecatus sum Altissimum et dixi:<verse eID="esdrae-4.13.13" />
+        <verse sID="esdrae-4.13.14" osisID="esdrae-4.13.14" />Tu ab initio demonstrasti servo tuo mirabilia haec et dignum me habuisti, ut susciperes deprecationem meam.<verse eID="esdrae-4.13.14" />
+        <verse sID="esdrae-4.13.15" osisID="esdrae-4.13.15" />Et nunc demonstra mihi adhuc et interpretationem somnii huius.<verse eID="esdrae-4.13.15" />
+        <verse sID="esdrae-4.13.16" osisID="esdrae-4.13.16" />Sicut enim existimo in sensu meo, vae qui derelicti fuerint in diebus illis, et multo plus vae his qui non sunt derelicti.<verse eID="esdrae-4.13.16" />
+        <verse sID="esdrae-4.13.17" osisID="esdrae-4.13.17" />Qui enim non sunt derelicti, tristes erunt<verse eID="esdrae-4.13.17" />
+        <verse sID="esdrae-4.13.18" osisID="esdrae-4.13.18" />intellegentes quae sunt reposita in novissimis diebus, et non occurrentes eis. Sed et qui derelicti sunt<verse eID="esdrae-4.13.18" />
+        <verse sID="esdrae-4.13.19" osisID="esdrae-4.13.19" />propter hoc vae, viderunt enim pericula magna et necessitates multas, sicut ostendunt somnia haec.<verse eID="esdrae-4.13.19" />
+        <verse sID="esdrae-4.13.20" osisID="esdrae-4.13.20" />Attamen facilius est periclitantem venire in haec, quam pertransire sicut nubem a saeculo et non videre quae contigerunt in novissimo.
+Et respondit ad me et dixit:<verse eID="esdrae-4.13.20" />
+        <verse sID="esdrae-4.13.21" osisID="esdrae-4.13.21" />Et visionis interpretationem dicam tibi, sed et de quibus locutus es adaperiam tibi.<verse eID="esdrae-4.13.21" />
+        <verse sID="esdrae-4.13.22" osisID="esdrae-4.13.22" />Quoniam dixisti de his qui derelicti sunt et de his qui non derelicti sunt, haec interpretatio:<verse eID="esdrae-4.13.22" />
+        <verse sID="esdrae-4.13.23" osisID="esdrae-4.13.23" />Qui adferet periculum in illo tempore, ipse custodibit qui in periculo inciderint, qui habent operas et fidem ad Fortissimum.<verse eID="esdrae-4.13.23" />
+        <verse sID="esdrae-4.13.24" osisID="esdrae-4.13.24" />Scito ergo, quoniam magis beatificati sunt qui derelicti super eos qui mortui sunt.<verse eID="esdrae-4.13.24" />
+        <verse sID="esdrae-4.13.25" osisID="esdrae-4.13.25" />Interpretatio enim visionis haec: Quia vidisti virum ascendentem de corde maris,<verse eID="esdrae-4.13.25" />
+        <verse sID="esdrae-4.13.26" osisID="esdrae-4.13.26" />ipse est quem conservat Altissimus multis temporibus, qui per semet ipsum liberabit creaturam suam, et ipse disponet qui derelicti sunt.<verse eID="esdrae-4.13.26" />
+        <verse sID="esdrae-4.13.27" osisID="esdrae-4.13.27" />Et quoniam vidisti de ore eius exire ut spiritum et ignem et tempestatem,<verse eID="esdrae-4.13.27" />
+        <verse sID="esdrae-4.13.28" osisID="esdrae-4.13.28" />et quoniam non tenebat frameam neque vas bellicosum, corrumpit enim impetum eius multitudinis quae venerat ad expugnare eum, haec interpretatio:<verse eID="esdrae-4.13.28" />
+        <verse sID="esdrae-4.13.29" osisID="esdrae-4.13.29" />Ecce dies veniunt, quando incipiet Altissimus liberare eos qui super terram sunt.<verse eID="esdrae-4.13.29" />
+        <verse sID="esdrae-4.13.30" osisID="esdrae-4.13.30" />Et veniet excessus mentis super eos qui inhabitant terram.<verse eID="esdrae-4.13.30" />
+        <verse sID="esdrae-4.13.31" osisID="esdrae-4.13.31" />Et in alisalio cogitabunt bellare, civitates civitatem et locus locum et gens ad gentem et regnum adversus regnum.<verse eID="esdrae-4.13.31" />
+        <verse sID="esdrae-4.13.32" osisID="esdrae-4.13.32" />Et erit cum fient haec et contingent signa quae ante ostendi tibi, et tunc revelabitur Filius meus quem vidisti virum ascendentem.<verse eID="esdrae-4.13.32" />
+        <verse sID="esdrae-4.13.33" osisID="esdrae-4.13.33" />Et erit quando audierint omnes gentes vocem eius, et derelinquet unusquisque regionem suam et bellum quod habent in alterutro,<verse eID="esdrae-4.13.33" />
+        <verse sID="esdrae-4.13.34" osisID="esdrae-4.13.34" />et colligetur in unum multitudo innumerabilis, sicut vidisti volentes venire et expugnare eum.<verse eID="esdrae-4.13.34" />
+        <verse sID="esdrae-4.13.35" osisID="esdrae-4.13.35" />Ipse autem stabit super cacumen montis Sion.<verse eID="esdrae-4.13.35" />
+        <verse sID="esdrae-4.13.36" osisID="esdrae-4.13.36" />Sion autem veniet et ostendetur omnibus parata et aedificata, sicut vidisti montem sculpi sine manibus.<verse eID="esdrae-4.13.36" />
+        <verse sID="esdrae-4.13.37" osisID="esdrae-4.13.37" />Ipse autem Filius meus arguet quae advenerunt gentes impietates eorum, has quae tempestati adpropiaverunt, et inproperabit coram eis mala cogitamenta eorum et cruciamenta quibus incipient cruciari,<verse eID="esdrae-4.13.37" />
+        <verse sID="esdrae-4.13.38" osisID="esdrae-4.13.38" />quae adsimilatae sunt flammae, et perdet eos sine labore et legem quae igni adsimilata est.<verse eID="esdrae-4.13.38" />
+        <verse sID="esdrae-4.13.39" osisID="esdrae-4.13.39" />Et quoniam vidisti eum colligentem ad se aliam multitudinem pacificam,<verse eID="esdrae-4.13.39" />
+        <verse sID="esdrae-4.13.40" osisID="esdrae-4.13.40" />haec sunt novem tribus, quae captivae factae sunt de terra sua in diebus Iosiae regis, quem captivum duxit Salmanassar rex Assyriorum, et transtulit eos trans Flumen, et translati sunt in terram aliam.<verse eID="esdrae-4.13.40" />
+        <verse sID="esdrae-4.13.41" osisID="esdrae-4.13.41" />Ipsi autem sibi dederunt consilium hoc, ut derelinquerent multitudinem gentium, et proficiscerentur in ulteriorem regionem, ubi numquam quisquam inhabitavit ibi genus humanum,<verse eID="esdrae-4.13.41" />
+        <verse sID="esdrae-4.13.42" osisID="esdrae-4.13.42" />ut vel ibi observarent legitima sua, quae non fuerant servantes in regione sua.<verse eID="esdrae-4.13.42" />
+        <verse sID="esdrae-4.13.43" osisID="esdrae-4.13.43" />Per introitus autem angustos fluminis Eufraten introierunt.<verse eID="esdrae-4.13.43" />
+        <verse sID="esdrae-4.13.44" osisID="esdrae-4.13.44" />Fecit enim eis tunc Altissimus signa, et statuit venas Fluminis usquequo transirent.<verse eID="esdrae-4.13.44" />
+        <verse sID="esdrae-4.13.45" osisID="esdrae-4.13.45" />Per eam enim regionem erat via multa itineris anni unius et dimidii, nam regio illa vocatur Arzar, et<verse eID="esdrae-4.13.45" />
+        <verse sID="esdrae-4.13.46" osisID="esdrae-4.13.46" />tunc inhabitaverunt ibi usque in novissimo tempore. Et nunc iterum coeperunt venire,<verse eID="esdrae-4.13.46" />
+        <verse sID="esdrae-4.13.47" osisID="esdrae-4.13.47" />iterum Altissimus statuit venas Fluminis, ut possint transire, propter hoc vidisti multitudinem collectam cum pace,<verse eID="esdrae-4.13.47" />
+        <verse sID="esdrae-4.13.48" osisID="esdrae-4.13.48" />sed et qui derelicti sunt de populo tuo, qui invenientur intra terminum meum<verse eID="esdrae-4.13.48" />
+        <verse sID="esdrae-4.13.49" osisID="esdrae-4.13.49" />sanctum. Erit ergo quando incipiet perdere multitudinem earum quae collectae sunt gentes, proteget qui superaverit populum.<verse eID="esdrae-4.13.49" />
+        <verse sID="esdrae-4.13.50" osisID="esdrae-4.13.50" />Et tunc ostendet eis multa plurima portenta.<verse eID="esdrae-4.13.50" />
+        <verse sID="esdrae-4.13.51" osisID="esdrae-4.13.51" />Et dixi ego: Dominator Domine, hoc mihi ostende, propter quod vidi virum ascendentem de corde maris. Et dixit mihi:<verse eID="esdrae-4.13.51" />
+        <verse sID="esdrae-4.13.52" osisID="esdrae-4.13.52" />Sicut non potest hoc vel scrutinare vel scire quis, quid sit in profundo maris, sic non poterit quisquam super terram videre Filium meum vel eos qui cum eo sunt nisi in tempore diei.<verse eID="esdrae-4.13.52" />
+        <verse sID="esdrae-4.13.53" osisID="esdrae-4.13.53" />Haec est interpretatio somnii quem vidisti, et propter quod inluminatus es haec solus.<verse eID="esdrae-4.13.53" />
+        <verse sID="esdrae-4.13.54" osisID="esdrae-4.13.54" />Dereliquisti enim tua et circa mea vacasti et legem meam exquisisti.<verse eID="esdrae-4.13.54" />
+        <verse sID="esdrae-4.13.55" osisID="esdrae-4.13.55" />Vitam enim tuam disposuisti in sapientiam, et sensum tuum vocasti matrem.<verse eID="esdrae-4.13.55" />
+        <verse sID="esdrae-4.13.56" osisID="esdrae-4.13.56" />Et propter hoc ostendi tibi haec, merces apud Altissimum. Erit enim post alios tres dies, ad te alia loquar et exponam tibi gravia et mirabilia.<verse eID="esdrae-4.13.56" />
+        <verse sID="esdrae-4.13.57" osisID="esdrae-4.13.57" />Et profectus sum et transii in campum, multum glorificans et laudans Altissimum de mirabilibus, quae per tempus faciebat,<verse eID="esdrae-4.13.57" />
+        <verse sID="esdrae-4.13.58" osisID="esdrae-4.13.58" />et quoniam gubernat tempora et quae sunt in temporibus inlata. Et sedi ibi tribus diebus.<verse eID="esdrae-4.13.58" />
+      </p>
+      <chapter eID="esdrae-4.13" />
+      <chapter sID="esdrae-4.14" osisID="esdrae-4.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="esdrae-4.14.1" osisID="esdrae-4.14.1" />Et factum est tertio die, et ego sedebam sub quercu,<verse eID="esdrae-4.14.1" />
+        <verse sID="esdrae-4.14.2" osisID="esdrae-4.14.2" />et ecce vox exivit contra me de rubo et dixit: Ezra, Ezra. Et dixi: Ecce ego, Domine. Et surrexi super pedes meos. Et dixit ad me:<verse eID="esdrae-4.14.2" />
+        <verse sID="esdrae-4.14.3" osisID="esdrae-4.14.3" />Revelans revelatus sum super rubum et locutus sum Moysi, quando populus meus serviebat in Aegypto.<verse eID="esdrae-4.14.3" />
+        <verse sID="esdrae-4.14.4" osisID="esdrae-4.14.4" />Et misi eum et eduxi populum meum de Aegypto, et adduxi eum super montem Sina et detinebam eum apud me diebus multis,<verse eID="esdrae-4.14.4" />
+        <verse sID="esdrae-4.14.5" osisID="esdrae-4.14.5" />et enarravi ei mirabilia multa, et ostendi ei temporum secreta et temporum finem. Et praecepi ei dicens:<verse eID="esdrae-4.14.5" />
+        <verse sID="esdrae-4.14.6" osisID="esdrae-4.14.6" />Haec in palam facies verba et haec abscondes.<verse eID="esdrae-4.14.6" />
+        <verse sID="esdrae-4.14.7" osisID="esdrae-4.14.7" />Et nunc tibi dico:<verse eID="esdrae-4.14.7" />
+        <verse sID="esdrae-4.14.8" osisID="esdrae-4.14.8" />Signa quae demonstravi et somnia quae vidisti et interpretationes quas tu audisti, in corde tuo repone ea.<verse eID="esdrae-4.14.8" />
+        <verse sID="esdrae-4.14.9" osisID="esdrae-4.14.9" />Tu enim recipieris ab hominibus, et converteris residuum cum Filio meo et cum similibus tuis, usquequo finiantur tempora,<verse eID="esdrae-4.14.9" />
+        <verse sID="esdrae-4.14.10" osisID="esdrae-4.14.10" />quoniam saeculum perdidit iuventutem suam et tempora adpropinquant senescere.<verse eID="esdrae-4.14.10" />
+        <verse sID="esdrae-4.14.11" osisID="esdrae-4.14.11" />Duodecim enim partibus divisum est saeculum, et transierunt eius decem iam et dimidium decimae partis,<verse eID="esdrae-4.14.11" />
+        <verse sID="esdrae-4.14.12" osisID="esdrae-4.14.12" />superant autem eius duae prae medium decimae partis.<verse eID="esdrae-4.14.12" />
+        <verse sID="esdrae-4.14.13" osisID="esdrae-4.14.13" />Nunc ergo dispone domum tuam, et corripe populum tuum, et consolare humiles eorum, et renuntia iam corruptae vitae,<verse eID="esdrae-4.14.13" />
+        <verse sID="esdrae-4.14.14" osisID="esdrae-4.14.14" />et dimitte abs te mortales cogitationes, et proice abs te pondera humana, et exue te iam infirmam naturam, et repone in unam partem molestissima tibi cogitamenta, et festina transmigrare a temporibus his.<verse eID="esdrae-4.14.14" />
+        <verse sID="esdrae-4.14.15" osisID="esdrae-4.14.15" />Quae enim vidisti nunc contigisse mala, iterum horum deteriora facientur,<verse eID="esdrae-4.14.15" />
+        <verse sID="esdrae-4.14.16" osisID="esdrae-4.14.16" />quantum enim invalidum fieri saeculum a senectute, tantum multiplicabunt super inhabitantes mala.<verse eID="esdrae-4.14.16" />
+        <verse sID="esdrae-4.14.17" osisID="esdrae-4.14.17" />Prolongavit enim magis veritas et adpropinquavit mendacium. Iam enim festinat aquila venire, quam vidisti in visionem.<verse eID="esdrae-4.14.17" />
+        <verse sID="esdrae-4.14.18" osisID="esdrae-4.14.18" />Et respondi: Dixi coram te, Domine.<verse eID="esdrae-4.14.18" />
+        <verse sID="esdrae-4.14.19" osisID="esdrae-4.14.19" />Ecce enim ego abibo sicut praecepisti mihi, et corripiam praesentem populum. Qui autem iterum nati fuerint, quis commonebit?<verse eID="esdrae-4.14.19" />
+        <verse sID="esdrae-4.14.20" osisID="esdrae-4.14.20" />Positum est ergo saeculum in tenebris, et qui inhabitant in eo sine lumine,<verse eID="esdrae-4.14.20" />
+        <verse sID="esdrae-4.14.21" osisID="esdrae-4.14.21" />quoniam lex tua incensa est, propter quod nemo scit quae a te facta sunt vel quae incipient operae.<verse eID="esdrae-4.14.21" />
+        <verse sID="esdrae-4.14.22" osisID="esdrae-4.14.22" />Si enim inveni gratiam coram te, inmitte in me spiritum sanctum, et scribam omne quod factum est in saeculo ab initio, quae erant in lege tua scripta, ut possint homines invenire semitam, et qui voluerint vivere in novissimis vivant.<verse eID="esdrae-4.14.22" />
+        <verse sID="esdrae-4.14.23" osisID="esdrae-4.14.23" />Et respondit ad me et dixit: Vadens congrega populum et dices ad eos, ut non te quaerant diebus quadraginta.<verse eID="esdrae-4.14.23" />
+        <verse sID="esdrae-4.14.24" osisID="esdrae-4.14.24" />Tu autem praepara tibi buxos multos et accipe tecum Saream, Dabriam, Selemiam, Ethanum et Asihel, quinque hos qui parati sunt ad scribendum velociter.<verse eID="esdrae-4.14.24" />
+        <verse sID="esdrae-4.14.25" osisID="esdrae-4.14.25" />Et venies hic, et ego accendam in corde tuo lucernam intellectus, quae non extinguetur quoadusque finiantur quae incipies scribere.<verse eID="esdrae-4.14.25" />
+        <verse sID="esdrae-4.14.26" osisID="esdrae-4.14.26" />Et cum perfeceris, quaedam palam facies, quaedam sapientibus absconse trades. In crastinum enim hac hora incipies scribere.<verse eID="esdrae-4.14.26" />
+        <verse sID="esdrae-4.14.27" osisID="esdrae-4.14.27" />Et profectus sum, sicut mihi praecepit, et congregavi omnem populum et dixi:<verse eID="esdrae-4.14.27" />
+        <verse sID="esdrae-4.14.28" osisID="esdrae-4.14.28" />Audi, Israhel, verba haec:<verse eID="esdrae-4.14.28" />
+        <verse sID="esdrae-4.14.29" osisID="esdrae-4.14.29" />Peregrinantes peregrinati sunt patres nostri ab initio in Aegypto, et liberati sunt inde.<verse eID="esdrae-4.14.29" />
+        <verse sID="esdrae-4.14.30" osisID="esdrae-4.14.30" />Et acceperunt legem vitae, quem non custodierunt, quem et vos post eos transgressi estis.<verse eID="esdrae-4.14.30" />
+        <verse sID="esdrae-4.14.31" osisID="esdrae-4.14.31" />Et data est vobis terra in sortem in terra Sion, et vos et patres vestri iniquitatem fecistis et non servastis vias, quas vobis praecepit Altissimus.<verse eID="esdrae-4.14.31" />
+        <verse sID="esdrae-4.14.32" osisID="esdrae-4.14.32" />Iustus iudex cum sit, abstulit a vobis in tempore quod donaverat.<verse eID="esdrae-4.14.32" />
+        <verse sID="esdrae-4.14.33" osisID="esdrae-4.14.33" />Et nunc vos hic estis, et fratres vestri introrsus vestrum sunt.<verse eID="esdrae-4.14.33" />
+        <verse sID="esdrae-4.14.34" osisID="esdrae-4.14.34" />Si ergo imperaveritis sensui vestro et erudieritis cor vestrum, vivi conservati eritis et post mortem misericordiam consequemini.<verse eID="esdrae-4.14.34" />
+        <verse sID="esdrae-4.14.35" osisID="esdrae-4.14.35" />Iudicium enim post mortem veniet, quando iterum revivescemus, et tunc iustorum nomina parebunt et impiorum facta ostendentur.<verse eID="esdrae-4.14.35" />
+        <verse sID="esdrae-4.14.36" osisID="esdrae-4.14.36" />Ad me autem nemo accedat nunc, neque requirent me usque diebus quadraginta.<verse eID="esdrae-4.14.36" />
+        <verse sID="esdrae-4.14.37" osisID="esdrae-4.14.37" />Et accepi quinque viros, sicut mandavit mihi, et profecti sumus in campo et mansimus ibi.<verse eID="esdrae-4.14.37" />
+        <verse sID="esdrae-4.14.38" osisID="esdrae-4.14.38" />Et factus sum in crastinum, et ecce vox vocavit me dicens: Ezra, aperi os tuum et bibe quod te potiono.<verse eID="esdrae-4.14.38" />
+        <verse sID="esdrae-4.14.39" osisID="esdrae-4.14.39" />Et aperui os meum, et ecce calix plenus porrigebatur mihi; hoc erat plenum sicut aqua, color autem eius ut ignis similis.<verse eID="esdrae-4.14.39" />
+        <verse sID="esdrae-4.14.40" osisID="esdrae-4.14.40" />Et accepi et bibi, et in eo cum bibissem cor meum eructabatur intellectum et in pectus meum increscebat sapientia. Nam spiritus meus conservabat memoriam,<verse eID="esdrae-4.14.40" />
+        <verse sID="esdrae-4.14.41" osisID="esdrae-4.14.41" />et apertum est os meum et non est clausum amplius.<verse eID="esdrae-4.14.41" />
+        <verse sID="esdrae-4.14.42" osisID="esdrae-4.14.42" />Altissimus autem dedit intellectum quinque viris, et scripserunt quae dicebantur ex successione notis quas non sciebant, et sederunt quadraginta diebus. Ipsi autem per diem scribebant,<verse eID="esdrae-4.14.42" />
+        <verse sID="esdrae-4.14.43" osisID="esdrae-4.14.43" />nocte autem manducabant panem; ego autem per diem loquebar et nocte non tacebam.<verse eID="esdrae-4.14.43" />
+        <verse sID="esdrae-4.14.44" osisID="esdrae-4.14.44" />Scripti sunt autem in quadraginta diebus libri nongenti quattuor.<verse eID="esdrae-4.14.44" />
+        <verse sID="esdrae-4.14.45" osisID="esdrae-4.14.45" />Et factum est cum conpleti essent quadraginta dies, et locutus est Altissimus dicens: Priora quae scripsisti in palam pone, et legant digni et indigni.<verse eID="esdrae-4.14.45" />
+        <verse sID="esdrae-4.14.46" osisID="esdrae-4.14.46" />Novissimos autem septuaginta conservabis, ut tradas eos sapientibus de populo tuo.<verse eID="esdrae-4.14.46" />
+        <verse sID="esdrae-4.14.47" osisID="esdrae-4.14.47" />In his enim est vena intellectus et sapientiae fons et scientiae flumen. Et feci sic.<verse eID="esdrae-4.14.47" />
+      </p>
+      <chapter eID="esdrae-4.14" />
+      <chapter sID="esdrae-4.15" osisID="esdrae-4.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="esdrae-4.15.1" osisID="esdrae-4.15.1" />Ecce loquere in aures plebi meae sermones prophetiae quos inmisero in os tuum, dicit Dominus,<verse eID="esdrae-4.15.1" />
+        <verse sID="esdrae-4.15.2" osisID="esdrae-4.15.2" />et fac in carta scribi eos, quoniam fideles et veri sunt.<verse eID="esdrae-4.15.2" />
+        <verse sID="esdrae-4.15.3" osisID="esdrae-4.15.3" />Ne timeas a cogitationibus adversum te, nec conturbent te incredulitates dicentium,<verse eID="esdrae-4.15.3" />
+        <verse sID="esdrae-4.15.4" osisID="esdrae-4.15.4" />quoniam omnis incredulus in incredulitate sua morietur.<verse eID="esdrae-4.15.4" />
+        <verse sID="esdrae-4.15.5" osisID="esdrae-4.15.5" />Ecce ego induco, dicit Dominus, super orbem terrarum mala, gladium et famem et mortem et interitum,<verse eID="esdrae-4.15.5" />
+        <verse sID="esdrae-4.15.6" osisID="esdrae-4.15.6" />propter quod superposuit iniquitas omnem terram et adimpletae sunt operationes eorum.<verse eID="esdrae-4.15.6" />
+        <verse sID="esdrae-4.15.7" osisID="esdrae-4.15.7" />Propterea dicit Dominus:<verse eID="esdrae-4.15.7" />
+        <verse sID="esdrae-4.15.8" osisID="esdrae-4.15.8" />Iam non silebo impietates eorum quae inreligiose agunt, nec sustinebo in his quae inique exercent. Ecce sanguis innoxius et iustus clamat ad me, et animae iustorum clamant perseveranter.<verse eID="esdrae-4.15.8" />
+        <verse sID="esdrae-4.15.9" osisID="esdrae-4.15.9" />Vindicans vindicabo illos, dicit Dominus, et accipiam omnem sanguinem innocuum ex illis ad me.<verse eID="esdrae-4.15.9" />
+        <verse sID="esdrae-4.15.10" osisID="esdrae-4.15.10" />Ecce populus meus quasi grex ad occisionem ducitur. Iam non patiar illum habitare in terra Aegypti,<verse eID="esdrae-4.15.10" />
+        <verse sID="esdrae-4.15.11" osisID="esdrae-4.15.11" />sed educam eum in manu potenti et brachio excelso, et percutiam Aegyptum plaga sicut prius, et corrumpam terram omnem eius.<verse eID="esdrae-4.15.11" />
+        <verse sID="esdrae-4.15.12" osisID="esdrae-4.15.12" />Lugeat Aegyptus et fundamenta eius a plaga verberati et mastigati quam inducet Dominus.<verse eID="esdrae-4.15.12" />
+        <verse sID="esdrae-4.15.13" osisID="esdrae-4.15.13" />Lugeant cultores operantes terram, quoniam deficient semina eorum et vastabuntur ligna eorum ab uredine et grandine et a sidus terribile.<verse eID="esdrae-4.15.13" />
+        <verse sID="esdrae-4.15.14" osisID="esdrae-4.15.14" />Vae saeculo et qui habitant in eum,<verse eID="esdrae-4.15.14" />
+        <verse sID="esdrae-4.15.15" osisID="esdrae-4.15.15" />quia adpropinquavit gladius et extritio illorum, et exsurget gens contra gentem ad pugnam, et romphea in manibus eorum.<verse eID="esdrae-4.15.15" />
+        <verse sID="esdrae-4.15.16" osisID="esdrae-4.15.16" />Erit enim inconstabilitio hominibus, alisalios supervalescentes non curabunt regem suum et principem megestanorum suorum in potentia sua.<verse eID="esdrae-4.15.16" />
+        <verse sID="esdrae-4.15.17" osisID="esdrae-4.15.17" />Concupiscet enim homo in civitatem ire et non poterit.<verse eID="esdrae-4.15.17" />
+        <verse sID="esdrae-4.15.18" osisID="esdrae-4.15.18" />Propter superbiam enim eorum civitates turbabuntur, domus exterentur, homines metuent.<verse eID="esdrae-4.15.18" />
+        <verse sID="esdrae-4.15.19" osisID="esdrae-4.15.19" />Non miserebitur homo proximo suo ad irritum faciendum in domos eorum in gladium, ad diripiendas substantias eorum propter famem panis et tribulationem multam.<verse eID="esdrae-4.15.19" />
+        <verse sID="esdrae-4.15.20" osisID="esdrae-4.15.20" />Ecce ego convoco, dicit Deus, omnes reges terrae ad movendum, qui sunt a borea et a noto et ab euro et a libano, ad convertendos in se et reddere quae dederunt illis.<verse eID="esdrae-4.15.20" />
+        <verse sID="esdrae-4.15.21" osisID="esdrae-4.15.21" />Sicut faciunt usque hodie electis meis, sic faciam et reddam in sinum ipsorum. Haec dicit Dominus Deus:<verse eID="esdrae-4.15.21" />
+        <verse sID="esdrae-4.15.22" osisID="esdrae-4.15.22" />Non parcet dextera mea super peccantes nec cessabit romphea super effundentes sanguinem innocuum super terram.<verse eID="esdrae-4.15.22" />
+        <verse sID="esdrae-4.15.23" osisID="esdrae-4.15.23" />Et exiit ignis ab ira eius et devoravit fundamenta terrae et peccatores quasi stramen incensum.<verse eID="esdrae-4.15.23" />
+        <verse sID="esdrae-4.15.24" osisID="esdrae-4.15.24" />Vae eis qui peccant et non observant mandata mea, dicit Dominus,<verse eID="esdrae-4.15.24" />
+        <verse sID="esdrae-4.15.25" osisID="esdrae-4.15.25" />non parcam illis. Discedite, filii apostatae, nolite contaminare sanctificationem meam.<verse eID="esdrae-4.15.25" />
+        <verse sID="esdrae-4.15.26" osisID="esdrae-4.15.26" />Novit Deus qui peccant in eum, propterea tradet eos in mortem et in occisionem.<verse eID="esdrae-4.15.26" />
+        <verse sID="esdrae-4.15.27" osisID="esdrae-4.15.27" />Iam enim venerunt super orbem terrarum mala, et manebitis in illis; non enim liberabit vos Deus, propter quod peccastis in eum.<verse eID="esdrae-4.15.27" />
+        <verse sID="esdrae-4.15.28" osisID="esdrae-4.15.28" />Ecce visio horribilis, et facies illius ab oriente.<verse eID="esdrae-4.15.28" />
+        <verse sID="esdrae-4.15.29" osisID="esdrae-4.15.29" />Et exient nationes draconum Arabum in curris multis, et sibilatus eorum a die itineris fertur super terram, ut etiam timeant et trepidentur omnes qui illos audient.<verse eID="esdrae-4.15.29" />
+        <verse sID="esdrae-4.15.30" osisID="esdrae-4.15.30" />Carmonii insanientes in ira exient de silva et advenient in virtute magna et constabunt in pugnam cum illis et vastabunt portionem terrae Assyriorum in dentibus suis.<verse eID="esdrae-4.15.30" />
+        <verse sID="esdrae-4.15.31" osisID="esdrae-4.15.31" />Et post haec supervalescet draco nativitatis memoria suae, et si converterint se conspirantes in virtute magna ad persequendos eos,<verse eID="esdrae-4.15.31" />
+        <verse sID="esdrae-4.15.32" osisID="esdrae-4.15.32" />et isti turbabuntur et silebunt in virtute illorum et convertent pedes suos in fugam,<verse eID="esdrae-4.15.32" />
+        <verse sID="esdrae-4.15.33" osisID="esdrae-4.15.33" />et a territorio Assyriorum subsessor subsedebit eos et consumet unum ex illis, et erit timor et tremor in exercitum illorum et inconstabilitio in regno illorum.<verse eID="esdrae-4.15.33" />
+        <verse sID="esdrae-4.15.34" osisID="esdrae-4.15.34" />Ecce nubs ab oriente et a septentrione usque ad meridianum, et facies illorum horrida valde, plena irae et procellae.<verse eID="esdrae-4.15.34" />
+        <verse sID="esdrae-4.15.35" osisID="esdrae-4.15.35" />Et conlident se invicem et effundent sidus copiosum super terram et sidus illorum, et erit sanguis a gladio usque ad ventrem equi<verse eID="esdrae-4.15.35" />
+        <verse sID="esdrae-4.15.36" osisID="esdrae-4.15.36" />et femur hominis et suffraginem cameli. Et erit timor et tremor multus super terram,<verse eID="esdrae-4.15.36" />
+        <verse sID="esdrae-4.15.37" osisID="esdrae-4.15.37" />et horrebunt qui videbunt iram illam, et tremor adprehendet illos. Et post haec movebuntur nimbi copiosi<verse eID="esdrae-4.15.37" />
+        <verse sID="esdrae-4.15.38" osisID="esdrae-4.15.38" />a meridiano et septentrione, et portio alia ab occidente.<verse eID="esdrae-4.15.38" />
+        <verse sID="esdrae-4.15.39" osisID="esdrae-4.15.39" />Et superinvalescent venti ab oriente et recludent eum et nubem quam suscitavit in ira, et sidus ad faciendam exteritionem ab orientalem notum et occidentem violabitur.<verse eID="esdrae-4.15.39" />
+        <verse sID="esdrae-4.15.40" osisID="esdrae-4.15.40" />Et exaltabuntur nubes magnae et validae plenae irae et sidus, ut exterant omnem terram et inhabitantes eam, et fundent super omnem altum et eminentem sidus terribile,<verse eID="esdrae-4.15.40" />
+        <verse sID="esdrae-4.15.41" osisID="esdrae-4.15.41" />ignem et grandinem et rompheas volantes et aquas multas, ut etiam impleantur omnes campi et omnes rivi a plenitudine aquarum illarum.<verse eID="esdrae-4.15.41" />
+        <verse sID="esdrae-4.15.42" osisID="esdrae-4.15.42" />Et demolient civitates et muros et montes et colles et ligna silvarum et faena pratorum et frumenta eorum.<verse eID="esdrae-4.15.42" />
+        <verse sID="esdrae-4.15.43" osisID="esdrae-4.15.43" />Et transibunt constanter usque Babylonem et exterent eam.<verse eID="esdrae-4.15.43" />
+        <verse sID="esdrae-4.15.44" osisID="esdrae-4.15.44" />Convenient ad ipsam et circuibunt eam et effundent sidus et omnem iram super eam, et subibit pulvis et fumus usque ad caelum, et omnes in circuitu lugebunt eam,<verse eID="esdrae-4.15.44" />
+        <verse sID="esdrae-4.15.45" osisID="esdrae-4.15.45" />et qui subremanserint servientes his qui eam exteruerunt.<verse eID="esdrae-4.15.45" />
+        <verse sID="esdrae-4.15.46" osisID="esdrae-4.15.46" />Et tu Asia, consors in specie Babylonis et gloria personae eius,<verse eID="esdrae-4.15.46" />
+        <verse sID="esdrae-4.15.47" osisID="esdrae-4.15.47" />vae tibi, misera, propter quod adsimilasti ei, ornasti filias tuas in fornicatione ad placendum et gloriandum in amatoribus tuis, qui te cupierunt semper fornicari.<verse eID="esdrae-4.15.47" />
+        <verse sID="esdrae-4.15.48" osisID="esdrae-4.15.48" />Odibilem imitata es in omnibus operibus eius et adinventionibus eius. Propterea dicit Deus:<verse eID="esdrae-4.15.48" />
+        <verse sID="esdrae-4.15.49" osisID="esdrae-4.15.49" />Inmittam tibi mala, viduitatem, paupertatem et famem et gladium et pestem ad devastandas domos tuas, ad violationem et mortem. Et gloria virtutis tuae<verse eID="esdrae-4.15.49" />
+        <verse sID="esdrae-4.15.50" osisID="esdrae-4.15.50" />sicut flos siccabitur, cum exsurget ardor qui emissus est super te.<verse eID="esdrae-4.15.50" />
+        <verse sID="esdrae-4.15.51" osisID="esdrae-4.15.51" />Et infirmaberis et paupera a plaga et mastigata a vulneribus, ut non possis tuos suscipere potentes et amatores.<verse eID="esdrae-4.15.51" />
+        <verse sID="esdrae-4.15.52" osisID="esdrae-4.15.52" />Numquid ego sic zelabo te, dicit Dominus,<verse eID="esdrae-4.15.52" />
+        <verse sID="esdrae-4.15.53" osisID="esdrae-4.15.53" />nisi occidisses electos meos in omni tempore, exultans percussione manuum et dicens, super mortem eorum cum inebriata es:<verse eID="esdrae-4.15.53" />
+        <verse sID="esdrae-4.15.54" osisID="esdrae-4.15.54" />Exorna speciem vultus tui?<verse eID="esdrae-4.15.54" />
+        <verse sID="esdrae-4.15.55" osisID="esdrae-4.15.55" />Merces fornicariae in sinus tuos, propterea redditionem percipies.<verse eID="esdrae-4.15.55" />
+        <verse sID="esdrae-4.15.56" osisID="esdrae-4.15.56" />Sicut facies electis meis, dicit Dominus, sic faciet tibi Deus et tradet te in malis.<verse eID="esdrae-4.15.56" />
+        <verse sID="esdrae-4.15.57" osisID="esdrae-4.15.57" />Et nati tui fame interient, et tu romphea cades, et civitates tuae conterentur, et omnes tui in campo gladio cadent.<verse eID="esdrae-4.15.57" />
+        <verse sID="esdrae-4.15.58" osisID="esdrae-4.15.58" />Et qui sunt in montibus fame peribunt, et manducabunt carnes suas et sanguinem bibent a fame panis et siti aquae.<verse eID="esdrae-4.15.58" />
+        <verse sID="esdrae-4.15.59" osisID="esdrae-4.15.59" />Propter priora misera es et iterum excipies mala.<verse eID="esdrae-4.15.59" />
+        <verse sID="esdrae-4.15.60" osisID="esdrae-4.15.60" />Et in transitum allident civitatem oditam et exterent eam, portionem aliquam gloriae tuae et territorii tui, dum revertuntur a Babylonia.<verse eID="esdrae-4.15.60" />
+        <verse sID="esdrae-4.15.61" osisID="esdrae-4.15.61" />Extrita illis eris in stramine, et ipsi tibi erunt ignis.<verse eID="esdrae-4.15.61" />
+        <verse sID="esdrae-4.15.62" osisID="esdrae-4.15.62" />Omnes hii comedunt te et civitates tuas et territoria tua et montes, et omnem silvam tuam et ligna pomifera igne consument.<verse eID="esdrae-4.15.62" />
+        <verse sID="esdrae-4.15.63" osisID="esdrae-4.15.63" />Et natos tuos captivabunt et honestatem tuam spoliabunt et gloriam faciei tuae exterminabunt.<verse eID="esdrae-4.15.63" />
+      </p>
+      <chapter eID="esdrae-4.15" />
+      <chapter sID="esdrae-4.16" osisID="esdrae-4.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="esdrae-4.16.1" osisID="esdrae-4.16.1" />Vae tibi, Babylon et Asia, vae tibi, Aegypte et Syria.<verse eID="esdrae-4.16.1" />
+        <verse sID="esdrae-4.16.2" osisID="esdrae-4.16.2" />Praecingite vos saccos, plangite filios vestros et dolete de his, quia adpropinquavit contritio vestra.<verse eID="esdrae-4.16.2" />
+        <verse sID="esdrae-4.16.3" osisID="esdrae-4.16.3" />Inmissus est gladius vobis, et quis est qui avertat eum?<verse eID="esdrae-4.16.3" />
+        <verse sID="esdrae-4.16.4" osisID="esdrae-4.16.4" />Inmissus est vobis ignis, et quis est qui extinguat eum?<verse eID="esdrae-4.16.4" />
+        <verse sID="esdrae-4.16.5" osisID="esdrae-4.16.5" />Inmissa sunt vobis mala, et quis est qui recutiet ea?<verse eID="esdrae-4.16.5" />
+        <verse sID="esdrae-4.16.6" osisID="esdrae-4.16.6" />Numquid recutiet aliquis leonem esurientem in silva? Aut numquid extinguet ignem, cum stramen incensum fuerit?<verse eID="esdrae-4.16.6" />
+        <verse sID="esdrae-4.16.7" osisID="esdrae-4.16.7" />Aut numquid recutiet sagittam inmissam a sagittario forte?<verse eID="esdrae-4.16.7" />
+        <verse sID="esdrae-4.16.8" osisID="esdrae-4.16.8" />Dominus Deus mittit mala, et quis recutiet ea?<verse eID="esdrae-4.16.8" />
+        <verse sID="esdrae-4.16.9" osisID="esdrae-4.16.9" />Et exiet ignis ex iracundia eius, et quis est qui extinguat eum?<verse eID="esdrae-4.16.9" />
+        <verse sID="esdrae-4.16.10" osisID="esdrae-4.16.10" />Coruscabit, et quis non timebit? Tonabit, et quis non horrebit?<verse eID="esdrae-4.16.10" />
+        <verse sID="esdrae-4.16.11" osisID="esdrae-4.16.11" />Dominus comminatur, quis non conterretur a facie eius?<verse eID="esdrae-4.16.11" />
+        <verse sID="esdrae-4.16.12" osisID="esdrae-4.16.12" />Tremet terra a fundamento eius, mare fluctuatur de profundo, et fluctus eius turbabuntur et pisces eius a facie Domini et a gloria virtutis eius,<verse eID="esdrae-4.16.12" />
+        <verse sID="esdrae-4.16.13" osisID="esdrae-4.16.13" />quoniam fortis gloriae qui tendit sagittam, et acumen eius acutum, quae dimissa est ab eo, non deficiet missa super fines terrae.<verse eID="esdrae-4.16.13" />
+        <verse sID="esdrae-4.16.14" osisID="esdrae-4.16.14" />Ecce mittuntur mala et non revertentur, donec venient super terram.<verse eID="esdrae-4.16.14" />
+        <verse sID="esdrae-4.16.15" osisID="esdrae-4.16.15" />Et ignis incendetur et non extinguetur, donec excomedat frumenta terrae.<verse eID="esdrae-4.16.15" />
+        <verse sID="esdrae-4.16.16" osisID="esdrae-4.16.16" />Quomodo non revertitur sagitta missa a sagittario valido, sic non revertentur mala quae fuerint emissa in terram.<verse eID="esdrae-4.16.16" />
+        <verse sID="esdrae-4.16.17" osisID="esdrae-4.16.17" />Vae mihi, vae mihi, quis me liberabit in diebus illis?<verse eID="esdrae-4.16.17" />
+        <verse sID="esdrae-4.16.18" osisID="esdrae-4.16.18" />Initium gemitus et copiosi suspirantium, initium famis et multi disperient, initium belli et timebunt potestates, initium malorum et trepidabunt<verse eID="esdrae-4.16.18" />
+        <verse sID="esdrae-4.16.19" osisID="esdrae-4.16.19" />ab eis; quid facient, cum venerint mala?<verse eID="esdrae-4.16.19" />
+        <verse sID="esdrae-4.16.20" osisID="esdrae-4.16.20" />Ecce famis plaga dimissa est, et tribulatio eius tamquam mastix, castigatio in disciplina.<verse eID="esdrae-4.16.20" />
+        <verse sID="esdrae-4.16.21" osisID="esdrae-4.16.21" />Et super his omnibus non se avertent ab iniquitatibus suis nec super has plagas memorantur sempiterna.<verse eID="esdrae-4.16.21" />
+        <verse sID="esdrae-4.16.22" osisID="esdrae-4.16.22" />Ecce erit annonae vilitas in brevi super terram, ut putent sibi esse directam pacem. Tunc superflorescent mala super terram, gladius et famis.<verse eID="esdrae-4.16.22" />
+        <verse sID="esdrae-4.16.23" osisID="esdrae-4.16.23" />Et aporiant vitam super terram, et gladius dispersit quae superaverint a fame.<verse eID="esdrae-4.16.23" />
+        <verse sID="esdrae-4.16.24" osisID="esdrae-4.16.24" />Et mortui quasi stercora proicientur, et non habent qui consolentur eos. Et derelinquetur deserta terra, et civitates eius demolientur.<verse eID="esdrae-4.16.24" />
+        <verse sID="esdrae-4.16.25" osisID="esdrae-4.16.25" />Non derelinquetur agricola, qui colit terram et qui seminat eam.<verse eID="esdrae-4.16.25" />
+        <verse sID="esdrae-4.16.26" osisID="esdrae-4.16.26" />Ligna fructiferabunt, et quis vindemiet illa?<verse eID="esdrae-4.16.26" />
+        <verse sID="esdrae-4.16.27" osisID="esdrae-4.16.27" />Et uva tradet se ad vindemiam, et quis adligabit eam? Erit enim et locis desertio multa.<verse eID="esdrae-4.16.27" />
+        <verse sID="esdrae-4.16.28" osisID="esdrae-4.16.28" />Concupiscet enim homo hominem videre vel certe vocem eius audire.<verse eID="esdrae-4.16.28" />
+        <verse sID="esdrae-4.16.29" osisID="esdrae-4.16.29" />Relinquentur enim decem de civitate et duo ex agro, qui absconderint se in silva et in fissuras petrarum.<verse eID="esdrae-4.16.29" />
+        <verse sID="esdrae-4.16.30" osisID="esdrae-4.16.30" />Quemadmodum relinquentur in oliveto tres vel quattuor olivae,<verse eID="esdrae-4.16.30" />
+        <verse sID="esdrae-4.16.31" osisID="esdrae-4.16.31" />aut sicut in vinea vindemiata et subremanet racemus patens ab scrutantibus vindemiam diligenter,<verse eID="esdrae-4.16.31" />
+        <verse sID="esdrae-4.16.32" osisID="esdrae-4.16.32" />sic remanebunt in diebus illis tres vel quattuor ab scrutantibus domos eorum in romphea.<verse eID="esdrae-4.16.32" />
+        <verse sID="esdrae-4.16.33" osisID="esdrae-4.16.33" />Et relinquetur deserta terra, et agri eius inveteraverunt, et viae eius et omnes semitae germinabunt spinas, eo quod non transient oves per eam.<verse eID="esdrae-4.16.33" />
+        <verse sID="esdrae-4.16.34" osisID="esdrae-4.16.34" />Lugebunt virgines non habentes sponsos, lugebunt mulieres non habentes viros, lugebunt filiae earum non habentes adiutorium.<verse eID="esdrae-4.16.34" />
+        <verse sID="esdrae-4.16.35" osisID="esdrae-4.16.35" />Sponsi earum in bello consumentur, et viri earum in fame exterentur.<verse eID="esdrae-4.16.35" />
+        <verse sID="esdrae-4.16.36" osisID="esdrae-4.16.36" />Audite vero ista et cognoscite ea, servi Domini.<verse eID="esdrae-4.16.36" />
+        <verse sID="esdrae-4.16.37" osisID="esdrae-4.16.37" />Ecce verbum Domini, excipite eum, ne discredatis de quibus dicit Dominus:<verse eID="esdrae-4.16.37" />
+        <verse sID="esdrae-4.16.38" osisID="esdrae-4.16.38" />Ecce adpropinquant mala et non tardantur.<verse eID="esdrae-4.16.38" />
+        <verse sID="esdrae-4.16.39" osisID="esdrae-4.16.39" />Quemadmodum praegnans in nono mense filium suum in adpropinquante hora partus eius, ante horas duas vel tres gementes dolores circum ventrem eius, et prodiente infante de ventre non tardabit uno puncto,<verse eID="esdrae-4.16.39" />
+        <verse sID="esdrae-4.16.40" osisID="esdrae-4.16.40" />sic non morabuntur mala ad prodiendum super terram, et saeculum gemet et dolores circumtenent illum.<verse eID="esdrae-4.16.40" />
+        <verse sID="esdrae-4.16.41" osisID="esdrae-4.16.41" />Audite verbum, plebs mea, parate vos ad pugnam in malis. Sic estote quasi advenae terrae:<verse eID="esdrae-4.16.41" />
+        <verse sID="esdrae-4.16.42" osisID="esdrae-4.16.42" />Qui vendit, quasi qui fugiet; et qui emit, quasi qui perditurus;<verse eID="esdrae-4.16.42" />
+        <verse sID="esdrae-4.16.43" osisID="esdrae-4.16.43" />qui mercatur, quasi qui fructum non capiat; et qui aedificat, quasi non habitaturus;<verse eID="esdrae-4.16.43" />
+        <verse sID="esdrae-4.16.44" osisID="esdrae-4.16.44" />qui seminat, quasi non messem facturus; et qui putat, quasi non vindemiaturus;<verse eID="esdrae-4.16.44" />
+        <verse sID="esdrae-4.16.45" osisID="esdrae-4.16.45" />qui nubunt, sic quasi filios non facturi; et qui non nubunt, sic quasi vidui.<verse eID="esdrae-4.16.45" />
+        <verse sID="esdrae-4.16.46" osisID="esdrae-4.16.46" />Propter quod qui laborant sine causa laborant,<verse eID="esdrae-4.16.46" />
+        <verse sID="esdrae-4.16.47" osisID="esdrae-4.16.47" />fructus enim illorum alienigenae metent et substantiam illorum rapient et domos evertent et filios eorum captivabunt, quia in captivitate et fame generant natos suos<verse eID="esdrae-4.16.47" />
+        <verse sID="esdrae-4.16.48" osisID="esdrae-4.16.48" />et qui negotiantur negotiantur in rapina. Quamdiu exornant civitates et domos suas et possessiones et personas suas,<verse eID="esdrae-4.16.48" />
+        <verse sID="esdrae-4.16.49" osisID="esdrae-4.16.49" />tanto magis adzelabor eos super peccata, dicit Dominus.<verse eID="esdrae-4.16.49" />
+        <verse sID="esdrae-4.16.50" osisID="esdrae-4.16.50" />Quomodo zelatur fornicaria mulierem idoneam et bonam valde,<verse eID="esdrae-4.16.50" />
+        <verse sID="esdrae-4.16.51" osisID="esdrae-4.16.51" />sic zelabitur iustitia iniquitatem cum exornat se, et accusat eam in faciem, cum venerit qui defendat exquirentem omnem peccatum super terram.<verse eID="esdrae-4.16.51" />
+        <verse sID="esdrae-4.16.52" osisID="esdrae-4.16.52" />Propterea nolite similari eam nec operibus eius,<verse eID="esdrae-4.16.52" />
+        <verse sID="esdrae-4.16.53" osisID="esdrae-4.16.53" />quoniam ecce adhuc pusillum, et tolletur iniquitas a terra et iustitia regnabit in nos.<verse eID="esdrae-4.16.53" />
+        <verse sID="esdrae-4.16.54" osisID="esdrae-4.16.54" />Non dicat peccator non se peccasse, quoniam carbones ignis conburet super caput eius qui dicit: Non peccavi coram Deo et gloria ipsius.<verse eID="esdrae-4.16.54" />
+        <verse sID="esdrae-4.16.55" osisID="esdrae-4.16.55" />Ecce Dominus cognoscit omnia opera hominis et adinventiones illorum et cogitatum illorum et corda illorum.<verse eID="esdrae-4.16.55" />
+        <verse sID="esdrae-4.16.56" osisID="esdrae-4.16.56" />Qui dixit: Fiat terra, et facta est, fiat caelum, et factum est,<verse eID="esdrae-4.16.56" />
+        <verse sID="esdrae-4.16.57" osisID="esdrae-4.16.57" />et in verbo illius stellae fundatae sunt, et novit numerum stellarum,<verse eID="esdrae-4.16.57" />
+        <verse sID="esdrae-4.16.58" osisID="esdrae-4.16.58" />qui scrutat abyssum et thesauros illorum, qui metitus est mare et conceptum eius,<verse eID="esdrae-4.16.58" />
+        <verse sID="esdrae-4.16.59" osisID="esdrae-4.16.59" />qui conclusit mare in medio aquarum et suspendit terram super aquam verbo suo,<verse eID="esdrae-4.16.59" />
+        <verse sID="esdrae-4.16.60" osisID="esdrae-4.16.60" />qui extendit caelum quasi cameram et super aquas fundavit eum,<verse eID="esdrae-4.16.60" />
+        <verse sID="esdrae-4.16.61" osisID="esdrae-4.16.61" />qui posuit in deserto fontes aquarum et super vertices montium lacus ad emittendum flumina ab eminenti ut potaret terra,<verse eID="esdrae-4.16.61" />
+        <verse sID="esdrae-4.16.62" osisID="esdrae-4.16.62" />qui finxit hominem et posuit cor in medio corporis et misit ei spiritum et vitam et intellectum<verse eID="esdrae-4.16.62" />
+        <verse sID="esdrae-4.16.63" osisID="esdrae-4.16.63" />et spiramentum Dei omnipotentis, qui fecit omnia et scrutinat absconsa in absconsis; certe<verse eID="esdrae-4.16.63" />
+        <verse sID="esdrae-4.16.64" osisID="esdrae-4.16.64" />hic novit adinventionem vestram et quae cogitatis in cordibus vestris.
+Vae peccantibus et volentibus occultare peccata sua.<verse eID="esdrae-4.16.64" />
+        <verse sID="esdrae-4.16.65" osisID="esdrae-4.16.65" />Propter quod Dominus scrutinando scrutinabit omnia opera eorum et traducet vos omnes.<verse eID="esdrae-4.16.65" />
+        <verse sID="esdrae-4.16.66" osisID="esdrae-4.16.66" />Et vos confusi eritis, cum processerint peccata vestra coram hominibus, et iniquitates erint quae accusatores stabunt in die illo.<verse eID="esdrae-4.16.66" />
+        <verse sID="esdrae-4.16.67" osisID="esdrae-4.16.67" />Quid facietis aut quomodo abscondetis peccata vestra coram Domino et gloria eius?<verse eID="esdrae-4.16.67" />
+        <verse sID="esdrae-4.16.68" osisID="esdrae-4.16.68" />Ecce iudex Deus, timete eum, et desinite a peccatis vestris et obliviscimini iniquitates vestras iam agere eas sempiterno, et Deus educabit vos et liberabit de omni tribulatione.<verse eID="esdrae-4.16.68" />
+        <verse sID="esdrae-4.16.69" osisID="esdrae-4.16.69" />Ecce enim incenditur ardor super vos turbae copiosae, et rapient quosdam ex vobis et cibabunt idolis occisam.<verse eID="esdrae-4.16.69" />
+        <verse sID="esdrae-4.16.70" osisID="esdrae-4.16.70" />Et qui consenserint eis, erunt illis in derisum et in inproperium et in conculcationem.<verse eID="esdrae-4.16.70" />
+        <verse sID="esdrae-4.16.71" osisID="esdrae-4.16.71" />Erit enim Lociis et in vicinas civitates exsurrectio multa super timentes Dominum.<verse eID="esdrae-4.16.71" />
+        <verse sID="esdrae-4.16.72" osisID="esdrae-4.16.72" />Erunt quasi insani neminem parcentes ad diripiendum et devastandum adhuc timentes Dominum,<verse eID="esdrae-4.16.72" />
+        <verse sID="esdrae-4.16.73" osisID="esdrae-4.16.73" />quia devastabunt et diripient substantias eorum et de domo sua eos eicient.<verse eID="esdrae-4.16.73" />
+        <verse sID="esdrae-4.16.74" osisID="esdrae-4.16.74" />Tunc parebit probatio electorum meorum, ut aurum quod probatur ab igne.<verse eID="esdrae-4.16.74" />
+        <verse sID="esdrae-4.16.75" osisID="esdrae-4.16.75" />Audite, electi mei, dicit Dominus, ecce adsunt dies tribulationis, et de his liberabo vos.<verse eID="esdrae-4.16.75" />
+        <verse sID="esdrae-4.16.76" osisID="esdrae-4.16.76" />Ne timeatis nec haesitemini, quoniam Deus dux vester est.<verse eID="esdrae-4.16.76" />
+        <verse sID="esdrae-4.16.77" osisID="esdrae-4.16.77" />Et qui servatis mandata et praecepta mea, dicit Dominus Deus, ne praeponderent vos peccata vestra nec superelevent se iniquitates vestrae.<verse eID="esdrae-4.16.77" />
+        <verse sID="esdrae-4.16.78" osisID="esdrae-4.16.78" />Vae qui constringuntur a peccatis suis et obteguntur ab iniquitatibus suis, quemadmodum ager constringitur a silva et spinis tegitur semita eius, per quam non transiet homo, et excluditur et mittitur ad devorationem ignis.<verse eID="esdrae-4.16.78" />
+      </p>
+      <chapter eID="esdrae-4.16" />
+    </div>
+  </osisText>
+</osis>

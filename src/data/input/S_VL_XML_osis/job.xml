@@ -1,0 +1,1301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Job" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Job">
+        <title>job</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Job</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>job</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Job">
+      <title>job</title>
+      <chapter sID="Job.1" osisID="Job.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Job.1.1" osisID="Job.1.1" />Homo quidam erat in regione Ausitide, nomine Iob, erant homo ille verax, sine crimine, iustus, Dei cultor, abstinens se ab omni re mala.<verse eID="Job.1.1" />
+        <verse sID="Job.1.2" osisID="Job.1.2" />Habuit autem septem filios, et tres filias.<verse eID="Job.1.2" />
+        <verse sID="Job.1.3" osisID="Job.1.3" />Et erant pecora eius multa nimis, oves septem millia, cameli tria millia, iuga boum quinquaginta, et asinae gregales quinquagentae, et ministerium copiosum nimis. Et opera magna erant ei super terram, et erat homo ille nobilis de filiis Orientis.<verse eID="Job.1.3" />
+        <verse sID="Job.1.4" osisID="Job.1.4" />Convenientes autem filii eius ad invicem, faciebant convivium quotidie. Convocatis secum sororibus suis, ut secum vescerentur et biberent.<verse eID="Job.1.4" />
+        <verse sID="Job.1.5" osisID="Job.1.5" />Et cum finiti essent dies convivii, mittebat Iob, et purificabat eos, consurgens mane, et offerebat pro eis victimas secundum numerum eorum, et vitulum unum pro peccato animarum ipsorum. Dicebat enim Iob, Ne forte peccaverint filii mei, et maledixerint Domino in cordibus suis. Sic faciebat Iob omnibus diebus.<verse eID="Job.1.5" />
+        <verse sID="Job.1.6" osisID="Job.1.6" />Factum est in his diebus, et ecce venerunt angeli, ut adstarent coram Domino. Et venit equidem diabolus cum eis.<verse eID="Job.1.6" />
+        <verse sID="Job.1.7" osisID="Job.1.7" />Et dixit Dominus diabolo, Unde ades? Et respondens diabolus Domino, dixit, Circumiens terram, et peregrans quae sub coelo sunt, adsum.<verse eID="Job.1.7" />
+        <verse sID="Job.1.8" osisID="Job.1.8" />Et dixit ei Dominus, Animadvertisti in puerum meum Iob, quia non est quisquam similis illi super terram, homo sine crimine, verax, Dei cultor, abstinens se ab omni malo?<verse eID="Job.1.8" />
+        <verse sID="Job.1.9" osisID="Job.1.9" />Respondens diabolus Domino, dixit, Nunquid gratis colit Iob Dominum?<verse eID="Job.1.9" />
+        <verse sID="Job.1.10" osisID="Job.1.10" />Non tu circumsepisti quae sunt extra domum eius, et intra domum eius, et quae foris sunt omnia in circuitu eius, operibus manuum eius benedixisti, et pecora eius multa fecisti super terram?<verse eID="Job.1.10" />
+        <verse sID="Job.1.11" osisID="Job.1.11" />Sed mitte manum tuam, et tange omnia quae habet, nisi in facie tua benedixerit tibi.<verse eID="Job.1.11" />
+        <verse sID="Job.1.12" osisID="Job.1.12" />Tunc dixit Dominus diabolo, Ecce, omnia quaecunque habet, do in manu tua, sed ipsum noli tangere. Et discessit diabolus a facie Domini.<verse eID="Job.1.12" />
+        <verse sID="Job.1.13" osisID="Job.1.13" />In eo die filii Iob et filiae eius comedebant et bibebant vinum in domo fratris sui senioris,<verse eID="Job.1.13" />
+        <verse sID="Job.1.14" osisID="Job.1.14" />et ecce nuncius venit ad Iob, et dixit ei, Iuga boum arabant, et asinae pascebantur iuxta eos,<verse eID="Job.1.14" />
+        <verse sID="Job.1.15" osisID="Job.1.15" />et venerunt hostes, et ceperunt eas, et servos occiderunt gladiis, et liberatus ego solus veni ut renuntiarem tibi.<verse eID="Job.1.15" />
+        <verse sID="Job.1.16" osisID="Job.1.16" />Adhuc eo loquente, venit et alius nuncius, et dixit ad Iob, Ignis Dei cecidit de coelo, et concremavit oves, et pastores consumpsit similiter. Et liberatus sum ego solus, et veni ut nunciarem tibi.<verse eID="Job.1.16" />
+        <verse sID="Job.1.17" osisID="Job.1.17" />Adhuc eo loquente, venit alius nuncius, et dixit ad Iob, Equites fecerunt nobis tres ordines, et cinxerunt camelos, et ceperunt eos, et servos occiderunt gladiis, et liberatus ego solus veni ut nunciarem tibi.<verse eID="Job.1.17" />
+        <verse sID="Job.1.18" osisID="Job.1.18" />Adhuc eo loquente, alius nuncius venit, dicens Iob, Filii tui et filiae tuae dum comedunt et bibunt vinum apud fratrem suum seniorem,<verse eID="Job.1.18" />
+        <verse sID="Job.1.19" osisID="Job.1.19" />subito spiritus malignus irruit a deserto, et tetigit quatuor angulos domus, et ruit, et liberatus sum ego solus, et veni ut nunciarem tibi.<verse eID="Job.1.19" />
+        <verse sID="Job.1.20" osisID="Job.1.20" />Tunc surrexit Iob, et conscidit vestimenta sua, et totondit comam capitis sui, et procidens in terram, oravit,<verse eID="Job.1.20" />
+        <verse sID="Job.1.21" osisID="Job.1.21" />et dixit, Nudus exii de utero matris meae, et nudus vadam illuc, Dominus dedit, Dominus abstulit, sicut Domino placuit, ita factum est, sit nomen Domini benedictum.<verse eID="Job.1.21" />
+        <verse sID="Job.1.22" osisID="Job.1.22" />In omnibus his, quae contigerunt ei, non peccavit Iob coram Domino, et non dedit insipientiam Deo.<verse eID="Job.1.22" />
+      </p>
+      <chapter eID="Job.1" />
+      <chapter sID="Job.2" osisID="Job.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Job.2.1" osisID="Job.2.1" />Et factum est in illis diebus, venerunt filii Dei, ut adstarent ante Dominum. Et venit diabolus in medio eorum, ut staret coram Domino,<verse eID="Job.2.1" />
+        <verse sID="Job.2.2" osisID="Job.2.2" />et dixit Dominus diabolo, Unde tu venis? Et respondit diabolus Domino, et dixit, Circuivi quae sub coelo sunt, et peragrato toto orbe, adsum.<verse eID="Job.2.2" />
+        <verse sID="Job.2.3" osisID="Job.2.3" />Et dixit Dominus ad diabolum, Animadvertisti ergo famulum meum Iob, quia non est quisquam similis illii super terram, homo innocens, verax, Dei cultor, abstinens se ab omni malo. Et adhuc perseverat in innocentia? Tu vero dixisti ut substantiam eius frustra perderem.<verse eID="Job.2.3" />
+        <verse sID="Job.2.4" osisID="Job.2.4" />Respondens autem diabolus Domino, dixit, Corium pro corio, et omnia quaecunque habuerit homo, dabit pro anima sua,<verse eID="Job.2.4" />
+        <verse sID="Job.2.5" osisID="Job.2.5" />sed extende manum tuam, et tange ossa et carnes eius, nisi in facie tua benedixerit tibi.<verse eID="Job.2.5" />
+        <verse sID="Job.2.6" osisID="Job.2.6" />Dixit autem Dominus diabolo, Ecce trado illum tibi, tantum animam eius custodi.<verse eID="Job.2.6" />
+        <verse sID="Job.2.7" osisID="Job.2.7" />Et egressus diabolus a facie Domini, percussit Iob vulnere pessimo, a pedibus usque ad caput.<verse eID="Job.2.7" />
+        <verse sID="Job.2.8" osisID="Job.2.8" />Et tulit sibi testam, ut raderet saniem. Et ipse sedebat in stercore, extra civitatem.<verse eID="Job.2.8" />
+        <verse sID="Job.2.9" osisID="Job.2.9" />Tempore vero multo iniecto, dixit illi uxor sua, Quousque sustinebis, dicens, Ecce exspecto parvo, sustinens spem salutis? Ecce enim exterminata est memoria tua a terra, filii et filiae, mei ventris dolores et gemitus, quos frustra portavi cum labore, tuque in putredine vermium sedes, pernoctans sub divo, et oberrans et deprecans de loco in locum, et de domo in domum, expectans quando sol occidat, et requiem agam laborum et gemituum, qui me nunc agunt, sed dic aliquod verbum in Dominum, et morere.<verse eID="Job.2.9" />
+        <verse sID="Job.2.10" osisID="Job.2.10" />At ille intuens, dixit ad eam, Tanquam una de stultis mulieribus locuta es, si bona suscepimus de manu Domini, mala quare non sustineamus? In omnibus his quae acciderunt illi, nihil peccavit Iob labiis suis ante Dominum.<verse eID="Job.2.10" />
+        <verse sID="Job.2.11" osisID="Job.2.11" />Ut audierunt tres amici eius omnia mala haec, quae acciderunt illi, convenerunt unusquisque de regione sua ad eum, Eliphaz Themanites rex, Baldad Sauchites tyrannus, et Sophor Namathites Mineorum rex. Et venerunt ad eum simul, ut visitarent, et consolarentur.<verse eID="Job.2.11" />
+        <verse sID="Job.2.12" osisID="Job.2.12" />Videntes autem eum procul, non agnoverunt. Et exclamantes voce magna, fleverunt, scindentes singuli vestimenta sua, spargentes singuli pulverem super caput suum in coelum.<verse eID="Job.2.12" />
+        <verse sID="Job.2.13" osisID="Job.2.13" />Sederunt cum eo in terra septem diebus et septem noctibus, et nemo eorum locutus est ad eum verbum, videbant enim vulnera eius atrocia, et magnum dolorem valde.<verse eID="Job.2.13" />
+      </p>
+      <chapter eID="Job.2" />
+      <chapter sID="Job.3" osisID="Job.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Job.3.1" osisID="Job.3.1" />Post haec Iob aperuit os suum, et maledixit diei suae.<verse eID="Job.3.1" />
+        <verse sID="Job.3.2" osisID="Job.3.2" />Et respondens Iob, dixit,<verse eID="Job.3.2" />
+        <verse sID="Job.3.3" osisID="Job.3.3" />Pereat dies ille in quo natus sum in eo, et nox in qua dictum est, Conceptus est homo.<verse eID="Job.3.3" />
+        <verse sID="Job.3.4" osisID="Job.3.4" />Nox illa sit tenebrae, nec requirat Dominus eam desuper, nec inveniat eam lumen.<verse eID="Job.3.4" />
+        <verse sID="Job.3.5" osisID="Job.3.5" />Sed excipiant eam tenebrae, eeiis. Veniat super illam caligo, et conturbent eam quasi amaritudines diei.<verse eID="Job.3.5" />
+        <verse sID="Job.3.6" osisID="Job.3.6" />Et noctem illam suscipiant tenebrae. Non sit in diebus anni, neque numeretur in diebus mensium.<verse eID="Job.3.6" />
+        <verse sID="Job.3.7" osisID="Job.3.7" />Sed nox illa sit dolor, nec veniat iocunditas, neque gaudium in ea,<verse eID="Job.3.7" />
+        <verse sID="Job.3.8" osisID="Job.3.8" />Sed maledicat illi maledicens diei illi, qui magnum cetum capturus est,<verse eID="Job.3.8" />
+        <verse sID="Job.3.9" osisID="Job.3.9" />Tenebrescant sidera noctis illius, permaneat, et in lucem non veniat, neque videat luciferum orientem,<verse eID="Job.3.9" />
+        <verse sID="Job.3.10" osisID="Job.3.10" />Quia non conclusit portas ventris matris meae, abscondisset enim laborem ab oculis meis.<verse eID="Job.3.10" />
+        <verse sID="Job.3.11" osisID="Job.3.11" />Quare enim in ventre non obii. Ex utero exiens, et non protinus perii?<verse eID="Job.3.11" />
+        <verse sID="Job.3.12" osisID="Job.3.12" />Et ut quid constiterunt mihi genua? Quare ubera suxi?<verse eID="Job.3.12" />
+        <verse sID="Job.3.13" osisID="Job.3.13" />Nunc itaque, nunc dormiens quiescerem, et somni securitate fruerer,<verse eID="Job.3.13" />
+        <verse sID="Job.3.14" osisID="Job.3.14" />Cum regibus honoratis terrae, qui gloriabantur in malis,<verse eID="Job.3.14" />
+        <verse sID="Job.3.15" osisID="Job.3.15" />Aut cum principibus, quibus multum fuit aurum, qui compleverunt domos suas argento,<verse eID="Job.3.15" />
+        <verse sID="Job.3.16" osisID="Job.3.16" />Aut tanquam abortivum prolapsum de vulva matris, aut tanquam infantes qui non viderunt lucem.<verse eID="Job.3.16" />
+        <verse sID="Job.3.17" osisID="Job.3.17" />Ibi impii deposuerunt furorem suum, ibi requieverunt fatigati corpore,<verse eID="Job.3.17" />
+        <verse sID="Job.3.18" osisID="Job.3.18" />Simulque in aeternum abundaverunt, nec audierunt vocem exactoris.<verse eID="Job.3.18" />
+        <verse sID="Job.3.19" osisID="Job.3.19" />Pusillus et magnus ibi est, et servus metuens dominum suum.<verse eID="Job.3.19" />
+        <verse sID="Job.3.20" osisID="Job.3.20" />Ut quid enim datur eis, qui in amaritudine sunt, lux, et vita animabus, quae sunt in doloribus?<verse eID="Job.3.20" />
+        <verse sID="Job.3.21" osisID="Job.3.21" />Quae desiderant mortem, et non contingit illis, quaerentes eam tanquam thesaurum,<verse eID="Job.3.21" />
+        <verse sID="Job.3.22" osisID="Job.3.22" />Et gaudio afficiuntur.<verse eID="Job.3.22" />
+        <verse sID="Job.3.23" osisID="Job.3.23" />Mors viro requies, cuius via abscondita est, conclusit enim Deus adversus eum.<verse eID="Job.3.23" />
+        <verse sID="Job.3.24" osisID="Job.3.24" />Ante escas quippe meas gemitus ad Dominum, et fleo coarctatus timore,<verse eID="Job.3.24" />
+        <verse sID="Job.3.25" osisID="Job.3.25" />Timor enim, quem verebar, venit mihi, et quem timebam, comprehendit me.<verse eID="Job.3.25" />
+        <verse sID="Job.3.26" osisID="Job.3.26" />Neque in pace sui, neque in silentio, neque in requie, venit autem mihi ira.<verse eID="Job.3.26" />
+      </p>
+      <chapter eID="Job.3" />
+      <chapter sID="Job.4" osisID="Job.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Job.4.1" osisID="Job.4.1" />Respondens autem Eliphaz Themanites, dixit,<verse eID="Job.4.1" />
+        <verse sID="Job.4.2" osisID="Job.4.2" />Ne forte loquamur tibi in molestia, pondus autem verborum tuorum quis sustinebit?<verse eID="Job.4.2" />
+        <verse sID="Job.4.3" osisID="Job.4.3" />Quod si tu monuisti multos, et manus infirmium consolatus es,<verse eID="Job.4.3" />
+        <verse sID="Job.4.4" osisID="Job.4.4" />Et aegros corroborasti sermonibus, genibusque infirmium valetudinem praestitisti,<verse eID="Job.4.4" />
+        <verse sID="Job.4.5" osisID="Job.4.5" />Et nunc venit in te dolor, et penetravit te. Tu autem conturbatus es,<verse eID="Job.4.5" />
+        <verse sID="Job.4.6" osisID="Job.4.6" />Nonne timor tuus stultus est, et spes tua, et simplicitas vitae tuae?<verse eID="Job.4.6" />
+        <verse sID="Job.4.7" osisID="Job.4.7" />Recordare itaque quis mundus perierit? Vel quando veraces radicitus interierint?<verse eID="Job.4.7" />
+        <verse sID="Job.4.8" osisID="Job.4.8" />Quemadmodum vidi arantes pessima, et qui ferunt ea, dolores metunt sibi,<verse eID="Job.4.8" />
+        <verse sID="Job.4.9" osisID="Job.4.9" />Praecepto Domini peribunt, et spiritu irae eius demolientur,<verse eID="Job.4.9" />
+        <verse sID="Job.4.10" osisID="Job.4.10" />Fremitus leonis, et vox leaenae, et gladius draconum extinctus est.<verse eID="Job.4.10" />
+        <verse sID="Job.4.11" osisID="Job.4.11" />Myrmicoleon periit, eo quod non habet escam, et catuli leonum divisi sunt ab invicem.<verse eID="Job.4.11" />
+        <verse sID="Job.4.12" osisID="Job.4.12" />Quod si aliquod verbum verum fuisset in sermonibus tuis, nihil horum tibi accidisset, nunquid non capit auris mea magnifica ab eo?<verse eID="Job.4.12" />
+        <verse sID="Job.4.13" osisID="Job.4.13" />Somnum et timorem nocturnum? Decidente timore in homines,<verse eID="Job.4.13" />
+        <verse sID="Job.4.14" osisID="Job.4.14" />Horror mihi accidit, et tremor, et valide ossa mea commovit,<verse eID="Job.4.14" />
+        <verse sID="Job.4.15" osisID="Job.4.15" />Et spiritus in faciem mihi occurrit, horruerunt capilli mei et carnes.<verse eID="Job.4.15" />
+        <verse sID="Job.4.16" osisID="Job.4.16" />Exsurrexi, et non cognovi. Inspexi, et non erat figura ante faciem meam. Sed auram tantum et vocem audiebam.<verse eID="Job.4.16" />
+        <verse sID="Job.4.17" osisID="Job.4.17" />Quid enim? Nunquid homo coram Domino mundus erit, aut ab operibus suis sine macula vir?<verse eID="Job.4.17" />
+        <verse sID="Job.4.18" osisID="Job.4.18" />Si contra servos suos non credit, et adversus angelos suos pravum quid reperit,<verse eID="Job.4.18" />
+        <verse sID="Job.4.19" osisID="Job.4.19" />Habitantes autem domos luteas, de quibus et nos ex eodem luto sumus, percussit illos tanquam tinea,<verse eID="Job.4.19" />
+        <verse sID="Job.4.20" osisID="Job.4.20" />Et a mane usque ad vesperam ultra non sunt, et quod non possent sibi ipsi subvenire, perierunt.<verse eID="Job.4.20" />
+        <verse sID="Job.4.21" osisID="Job.4.21" />Afflavit enim eos, et aruerunt, interierunt, quia non habebant sapientiam.<verse eID="Job.4.21" />
+      </p>
+      <chapter eID="Job.4" />
+      <chapter sID="Job.5" osisID="Job.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Job.5.1" osisID="Job.5.1" />Invoca autem, si quis tibi respondeat, aut si quem sanctorum angelorum videas.<verse eID="Job.5.1" />
+        <verse sID="Job.5.2" osisID="Job.5.2" />Etenim stultum interimit ira, errantem autem occidit zelus.<verse eID="Job.5.2" />
+        <verse sID="Job.5.3" osisID="Job.5.3" />Ego autem vidi stultos radicem mittentes, sed protinus comesta est eorum conversatio.<verse eID="Job.5.3" />
+        <verse sID="Job.5.4" osisID="Job.5.4" />Longe fiant filii eorum a salute, et conterantur ante ianuas impiorum, et non sit qui eruat.<verse eID="Job.5.4" />
+        <verse sID="Job.5.5" osisID="Job.5.5" />Quae enim illi congregaverunt, iusti comedent. Ipsi vero de malis non liberabuntur, exhauriatur fortitudo eorum.<verse eID="Job.5.5" />
+        <verse sID="Job.5.6" osisID="Job.5.6" />Non enim prodiet de terra labor, nec de montibus germinabit dolor.<verse eID="Job.5.6" />
+        <verse sID="Job.5.7" osisID="Job.5.7" />Sed homo in labore nascitur, pulli autem vulturis altissime volant.<verse eID="Job.5.7" />
+        <verse sID="Job.5.8" osisID="Job.5.8" />Unde et ego deprecabor Dominum, et Dominum omnium dominatorem invocabo,<verse eID="Job.5.8" />
+        <verse sID="Job.5.9" osisID="Job.5.9" />Qui facit magna et investigabilia, glorifica et ingentia, quorum non est numerus,<verse eID="Job.5.9" />
+        <verse sID="Job.5.10" osisID="Job.5.10" />Qui dat pluviam super faciem terrae, et mittit aquam sub coelo,<verse eID="Job.5.10" />
+        <verse sID="Job.5.11" osisID="Job.5.11" />Qui facit infirmos in excelso, et qui impeditos excitat in salutem,<verse eID="Job.5.11" />
+        <verse sID="Job.5.12" osisID="Job.5.12" />Qui mutat consilia astutorum, ut non faciat manus eorum veritatem,<verse eID="Job.5.12" />
+        <verse sID="Job.5.13" osisID="Job.5.13" />Qui comprehendit sapientes in prudentia, et consilium versutorum exterret.<verse eID="Job.5.13" />
+        <verse sID="Job.5.14" osisID="Job.5.14" />In die occurrent illis tenebrae, et tanquam nocte palpabunt in meridie.<verse eID="Job.5.14" />
+        <verse sID="Job.5.15" osisID="Job.5.15" />Et pereant in bello, et egrediatur de manu potentis infirmus.<verse eID="Job.5.15" />
+        <verse sID="Job.5.16" osisID="Job.5.16" />Sit autem infirmo spes, et iniquus obstruatur.<verse eID="Job.5.16" />
+        <verse sID="Job.5.17" osisID="Job.5.17" />Beatus autem vir, quem arguit Dominus, correptionem ergo Omnipotentis ne abnueris,<verse eID="Job.5.17" />
+        <verse sID="Job.5.18" osisID="Job.5.18" />Ipse enim dolorem facit, et rursum medetur, percutit, et manus eius sanat.<verse eID="Job.5.18" />
+        <verse sID="Job.5.19" osisID="Job.5.19" />Sexies de necessitatibus liberabit te, et in septimo non te tanget malum.<verse eID="Job.5.19" />
+        <verse sID="Job.5.20" osisID="Job.5.20" />In fame liberabit te a morte, in praelio vero de manu inferni solvet te.<verse eID="Job.5.20" />
+        <verse sID="Job.5.21" osisID="Job.5.21" />A flagello linguae abscondet te, neque timebis, neque supervenient tibi mala.<verse eID="Job.5.21" />
+        <verse sID="Job.5.22" osisID="Job.5.22" />Iniustos et iniquos deridebis, et ferocientes bestias non timebis.<verse eID="Job.5.22" />
+        <verse sID="Job.5.23" osisID="Job.5.23" />Quia cum lapidibus agri habebis foedus, bestiae enim ferae pacatae erunt tibi.<verse eID="Job.5.23" />
+        <verse sID="Job.5.24" osisID="Job.5.24" />Deinde scies quod in pace erit domus tua, et tabernaculi tui conversatio non peccabit.<verse eID="Job.5.24" />
+        <verse sID="Job.5.25" osisID="Job.5.25" />Et scies quod multum erit semen tuum, et filii tui erunt tanquam herba omnis in campo.<verse eID="Job.5.25" />
+        <verse sID="Job.5.26" osisID="Job.5.26" />Et venies in sepulcrum tanquam frumentum maturum, quod in tempore suo metetur, aut tanquam acervus areae in tempore suo congregatus.<verse eID="Job.5.26" />
+        <verse sID="Job.5.27" osisID="Job.5.27" />Ecce, haec ita exquisivimus. Haec sunt quae audivimus, tu vero scito temetipsum, quid egeris.<verse eID="Job.5.27" />
+      </p>
+      <chapter eID="Job.5" />
+      <chapter sID="Job.6" osisID="Job.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Job.6.1" osisID="Job.6.1" />Respondens autem Iob, dixit,<verse eID="Job.6.1" />
+        <verse sID="Job.6.2" osisID="Job.6.2" />Si quis appendens ponderet iram meam, et sermones meos ponat in statera simul,<verse eID="Job.6.2" />
+        <verse sID="Job.6.3" osisID="Job.6.3" />Arena littorum inveniet graviores, sed, ut videtur, verba mea sunt mala,<verse eID="Job.6.3" />
+        <verse sID="Job.6.4" osisID="Job.6.4" />Sagittae enim Dei in corpore meo sunt, quarum furor bibit sanguinem meum. Cum enim incipio loqui, stimulant me.<verse eID="Job.6.4" />
+        <verse sID="Job.6.5" osisID="Job.6.5" />Quid enim? Nunquid frustra onager clamabit nisi escam quaerens? Aut bos mugiet cum habeat in praesepe cibos?<verse eID="Job.6.5" />
+        <verse sID="Job.6.6" osisID="Job.6.6" />Nunquid potest sine sale edi panis? Aut est sapor in sermonibus vanis?<verse eID="Job.6.6" />
+        <verse sID="Job.6.7" osisID="Job.6.7" />Sic nec anima mea potest cessare, foetidas enim video escas meas, sicut est odor leonis.<verse eID="Job.6.7" />
+        <verse sID="Job.6.8" osisID="Job.6.8" />Quod si det, et veniat postulatio mea, et spem meam det Dominus,<verse eID="Job.6.8" />
+        <verse sID="Job.6.9" osisID="Job.6.9" />Incipiens Dominus vulneret me. Sed non in perpetuum me interficiat.<verse eID="Job.6.9" />
+        <verse sID="Job.6.10" osisID="Job.6.10" />Sit mihi, non parcam, non enim mentitus sum verba sancti Dei mei.<verse eID="Job.6.10" />
+        <verse sID="Job.6.11" osisID="Job.6.11" />Quae est enim virtus mea, ut sufferam? Aut quod tempus meum, ut sustineat anima mea?<verse eID="Job.6.11" />
+        <verse sID="Job.6.12" osisID="Job.6.12" />Nunquid virtus lapidum virtus mea, aut carnes meae sunt areae?<verse eID="Job.6.12" />
+        <verse sID="Job.6.13" osisID="Job.6.13" />Aut non in ipso confidebam? Sed adiutorium a me recessit,<verse eID="Job.6.13" />
+        <verse sID="Job.6.14" osisID="Job.6.14" />Aversa est a me misericordia, et visitatio Domini me despexit.<verse eID="Job.6.14" />
+        <verse sID="Job.6.15" osisID="Job.6.15" />Propinqui mei non respexerunt me. Tanquam torrens deficiens, aut sicut fluctus transierunt me.<verse eID="Job.6.15" />
+        <verse sID="Job.6.16" osisID="Job.6.16" />Qui me metuebant, nunc irruerunt super me.<verse eID="Job.6.16" />
+        <verse sID="Job.6.17" osisID="Job.6.17" />Sicut nix aut glacies constricta, cum tabuerit in calore, non apparet quid fuerit,<verse eID="Job.6.17" />
+        <verse sID="Job.6.18" osisID="Job.6.18" />Sic et ego derelictus sum ab omnibus, perii, et exul de domo mea factus sum.<verse eID="Job.6.18" />
+        <verse sID="Job.6.19" osisID="Job.6.19" />Videte vias Themanorum, semitas Sabaeorum intuemini,<verse eID="Job.6.19" />
+        <verse sID="Job.6.20" osisID="Job.6.20" />Quia confusionem consequentur, qui in civitatibus, et in divitiis confidunt.<verse eID="Job.6.20" />
+        <verse sID="Job.6.21" osisID="Job.6.21" />Nunc autem et vos insurrexistis in me sine misericordia, sed videntes vulnus meum, timete.<verse eID="Job.6.21" />
+        <verse sID="Job.6.22" osisID="Job.6.22" />Quid enim? Nunquid aliquid vos petii? Aut fortitudine vestra indigeo,<verse eID="Job.6.22" />
+        <verse sID="Job.6.23" osisID="Job.6.23" />Ut me salvetis ab inimicis, aut de manu potentium eripiatis me?<verse eID="Job.6.23" />
+        <verse sID="Job.6.24" osisID="Job.6.24" />Docete me, et ego obmutescam, si quid erravi, dicite mihi.<verse eID="Job.6.24" />
+        <verse sID="Job.6.25" osisID="Job.6.25" />Sed ut video, prava veri hominis esse dicitis. Non enim a vobis auxilium peto.<verse eID="Job.6.25" />
+        <verse sID="Job.6.26" osisID="Job.6.26" />Neque increpatio vestra silentium imponit mihi, neque enim elocutionem sermonis vestri sustinebo.<verse eID="Job.6.26" />
+        <verse sID="Job.6.27" osisID="Job.6.27" />Veruntamen super pupillum irruistis, et insilistis in amicum vestrum.<verse eID="Job.6.27" />
+        <verse sID="Job.6.28" osisID="Job.6.28" />Nunc autem aspicientes vacate mihi, in facie vestra non mentiar.<verse eID="Job.6.28" />
+        <verse sID="Job.6.29" osisID="Job.6.29" />Sedete, et non sit iniquitas, et rursum iustitiae adestote.<verse eID="Job.6.29" />
+        <verse sID="Job.6.30" osisID="Job.6.30" />Non est enim in ore meo iniquitas, et fauces meae nonne sapientiam meditantur?<verse eID="Job.6.30" />
+      </p>
+      <chapter eID="Job.6" />
+      <chapter sID="Job.7" osisID="Job.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Job.7.1" osisID="Job.7.1" />Nunquid non tentatio est vita humana super terram. Et sicut quotidiani mercenarii, vita eius?<verse eID="Job.7.1" />
+        <verse sID="Job.7.2" osisID="Job.7.2" />Aut tanquam servus metuens dominum suum, et consecutus umbram? Aut tanquam mercenarius, qui exspectat mercedem operis sui?<verse eID="Job.7.2" />
+        <verse sID="Job.7.3" osisID="Job.7.3" />Sic et ego exspectavi menses vanos, et noctes dolorum datae sunt mihi.<verse eID="Job.7.3" />
+        <verse sID="Job.7.4" osisID="Job.7.4" />Si dormiero, dico, Quando dies? Et si surrexero, rursum, Quando vespera? Replebor autem doloribus a vespera usque ad mane.<verse eID="Job.7.4" />
+        <verse sID="Job.7.5" osisID="Job.7.5" />Et concrescit corpus meum putredine vermium. Insundo glebas terrae, radens saniem.<verse eID="Job.7.5" />
+        <verse sID="Job.7.6" osisID="Job.7.6" />Et vita exilior est quam loquela, et periit in vacuum spes.<verse eID="Job.7.6" />
+        <verse sID="Job.7.7" osisID="Job.7.7" />Recordare itaque quia spiritus est vita mea, et non amplius revertetur oculus meus videre bona.<verse eID="Job.7.7" />
+        <verse sID="Job.7.8" osisID="Job.7.8" />Nonne cognoscit oculus videntis? Oculi tui in me, et non subsisto.<verse eID="Job.7.8" />
+        <verse sID="Job.7.9" osisID="Job.7.9" />Tanquam nubes expurgata de coelo, si enim homo descenderit ad inferos, ultra non ascendet.<verse eID="Job.7.9" />
+        <verse sID="Job.7.10" osisID="Job.7.10" />Et non revertetur amplius domum suam, neque cognoscet illum ultra locus suus.<verse eID="Job.7.10" />
+        <verse sID="Job.7.11" osisID="Job.7.11" />Propterea itaque et ego non parcam ori meo, loquar in angustia positus spiritus mei, aperiam amaritudinem animae meae coarctatus.<verse eID="Job.7.11" />
+        <verse sID="Job.7.12" osisID="Job.7.12" />Utrumne mare sum ego, aut draco, quia statui super me custodiam?<verse eID="Job.7.12" />
+        <verse sID="Job.7.13" osisID="Job.7.13" />Quia dixi, Consolabitur me lectulus meus, et referam ad me ipsum consolationem in thoro meo,<verse eID="Job.7.13" />
+        <verse sID="Job.7.14" osisID="Job.7.14" />Exterres me per somnia, et per visionem obstupefacis,<verse eID="Job.7.14" />
+        <verse sID="Job.7.15" osisID="Job.7.15" />Absolvens a spiritu meo animam meam, et a morte ossa mea.<verse eID="Job.7.15" />
+        <verse sID="Job.7.16" osisID="Job.7.16" />Repuli non enim in sempiternum vivam, ut patienter feram, discede a me, vana est enim vita mea.<verse eID="Job.7.16" />
+        <verse sID="Job.7.17" osisID="Job.7.17" />Quid est enim homo, quod exaltasti eum? Aut quia sensu tuo intendisti ad eum?<verse eID="Job.7.17" />
+        <verse sID="Job.7.18" osisID="Job.7.18" />Ut visitationem eius facies in mane, et in requie iudicabis eum.<verse eID="Job.7.18" />
+        <verse sID="Job.7.19" osisID="Job.7.19" />Usquequo me non dimittis, neque deseris, donec glutiam salivam meam in dolore?<verse eID="Job.7.19" />
+        <verse sID="Job.7.20" osisID="Job.7.20" />Ego peccavi, quid possum tibi facere? Tu qui scis sensum humanum, quare posuisti me ut loquar adversum te, et sum tibi oneri?<verse eID="Job.7.20" />
+        <verse sID="Job.7.21" osisID="Job.7.21" />Et quare non es oblitus iniquitatis meae, et purgasti peccatum meum? Nunc autem in terram ibo, mane vigilabo, et ultra non ero.<verse eID="Job.7.21" />
+      </p>
+      <chapter eID="Job.7" />
+      <chapter sID="Job.8" osisID="Job.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Job.8.1" osisID="Job.8.1" />Ad haec Baldad Sauchites dixit,<verse eID="Job.8.1" />
+        <verse sID="Job.8.2" osisID="Job.8.2" />Quousque loqueris haec, spiritus multiloquax est ori tuo?<verse eID="Job.8.2" />
+        <verse sID="Job.8.3" osisID="Job.8.3" />Nunquid Dominus iniuste agit cum iudicat? Aut qui fecit omnia, turbabit quod iustum est?<verse eID="Job.8.3" />
+        <verse sID="Job.8.4" osisID="Job.8.4" />Si filii tui peccaverunt coram eo, misit in manu iniquitates eorum.<verse eID="Job.8.4" />
+        <verse sID="Job.8.5" osisID="Job.8.5" />Tu autem consurge diluculo ad Dominum omnipotentem, et precare,<verse eID="Job.8.5" />
+        <verse sID="Job.8.6" osisID="Job.8.6" />Si mundus et verax es tu, precem exaudiet tuam, et restituet tibi vitam iustitiae,<verse eID="Job.8.6" />
+        <verse sID="Job.8.7" osisID="Job.8.7" />Et erunt priora tua, minima. Novissima autem tua, infinita.<verse eID="Job.8.7" />
+        <verse sID="Job.8.8" osisID="Job.8.8" />Interroga enim generationem priorem, et exquire genus parentum,<verse eID="Job.8.8" />
+        <verse sID="Job.8.9" osisID="Job.8.9" />(Et hesterni sumus, et nescimus. Et umbra est vita nostra super terram.)<verse eID="Job.8.9" />
+        <verse sID="Job.8.10" osisID="Job.8.10" />Aut nunquid non hi docebunt te, et referent tibi. Et ex corde suo proferent sermones?<verse eID="Job.8.10" />
+        <verse sID="Job.8.11" osisID="Job.8.11" />Nunquid virescit scirpus sine aqua? Aut crescit iuncus nisi irrigetur?<verse eID="Job.8.11" />
+        <verse sID="Job.8.12" osisID="Job.8.12" />Adhuc in sua radice consistit, et non metetur, antequam vivat omnis herba, nonne arescit?<verse eID="Job.8.12" />
+        <verse sID="Job.8.13" osisID="Job.8.13" />Sic igitur erunt novissima hominum, qui obliviscuntur Dominum, spes enim impii peribit,<verse eID="Job.8.13" />
+        <verse sID="Job.8.14" osisID="Job.8.14" />Et non habitabilis erit domus eius, atque araneis complebitur tabernaculum eius,<verse eID="Job.8.14" />
+        <verse sID="Job.8.15" osisID="Job.8.15" />Quod et si suffulserit domum suam, non stabit. Et cum ceperit, non permanebit,<verse eID="Job.8.15" />
+        <verse sID="Job.8.16" osisID="Job.8.16" />Humidus est enim ante solem, et de putredine germen eius ascendet.<verse eID="Job.8.16" />
+        <verse sID="Job.8.17" osisID="Job.8.17" />In congregationibus lapidum dormit, et in medio lapillorum vivet.<verse eID="Job.8.17" />
+        <verse sID="Job.8.18" osisID="Job.8.18" />Si deglutierit, locus mentietur eum, non enim advertisti haec,<verse eID="Job.8.18" />
+        <verse sID="Job.8.19" osisID="Job.8.19" />Quia eversio imputabilis est, de terra autem alterutrum germinavit.<verse eID="Job.8.19" />
+        <verse sID="Job.8.20" osisID="Job.8.20" />Dominus enim non reprobabit innocentem, nec ullum munus impii accipiet.<verse eID="Job.8.20" />
+        <verse sID="Job.8.21" osisID="Job.8.21" />Veracium autem os implebit risu, et labia eorum confessione,<verse eID="Job.8.21" />
+        <verse sID="Job.8.22" osisID="Job.8.22" />Inimici autem eorum induentur confusione, et tabernaculum impii non manebit.<verse eID="Job.8.22" />
+      </p>
+      <chapter eID="Job.8" />
+      <chapter sID="Job.9" osisID="Job.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Job.9.1" osisID="Job.9.1" />Et respondens Iob, dixit,<verse eID="Job.9.1" />
+        <verse sID="Job.9.2" osisID="Job.9.2" />Vere scio quia ita est, quomodo enim poterit quis iustus esse ante Dominum?<verse eID="Job.9.2" />
+        <verse sID="Job.9.3" osisID="Job.9.3" />Si enim velit iudicio contendere cum eo, non respondebit ei unum de mille.<verse eID="Job.9.3" />
+        <verse sID="Job.9.4" osisID="Job.9.4" />Sapiens est enim sensu, et fortis, et magnus, quis durus fuit coram eo, et mansit?<verse eID="Job.9.4" />
+        <verse sID="Job.9.5" osisID="Job.9.5" />Qui in vetustate perducet montes, et nesciunt. Qui vertit eos in ira.<verse eID="Job.9.5" />
+        <verse sID="Job.9.6" osisID="Job.9.6" />Qui commovet orbem a fundamentis, et columnae eius movebuntur.<verse eID="Job.9.6" />
+        <verse sID="Job.9.7" osisID="Job.9.7" />Qui praecepit soli, et non oritur, et caetera sidera signat.<verse eID="Job.9.7" />
+        <verse sID="Job.9.8" osisID="Job.9.8" />Qui extendit coelum solus, et ambulat, tanquam super terram, super mare.<verse eID="Job.9.8" />
+        <verse sID="Job.9.9" osisID="Job.9.9" />Qui facit Arcturum, et Vespertinum, et Pleiadas, et interiora austri.<verse eID="Job.9.9" />
+        <verse sID="Job.9.10" osisID="Job.9.10" />Qui facit magna, atque investigabilia, glorifica, et ingentia, quorum non est numerus.<verse eID="Job.9.10" />
+        <verse sID="Job.9.11" osisID="Job.9.11" />Si transgressus me fuerit, non videbo, et si transierit me, nec sic sciam.<verse eID="Job.9.11" />
+        <verse sID="Job.9.12" osisID="Job.9.12" />Si enim morti tradiderit, quis avertet? Aut quis dicet illi, Quid fecisti?<verse eID="Job.9.12" />
+        <verse sID="Job.9.13" osisID="Job.9.13" />Ipsius enim inavertibilis ira, ab ipso subdita sunt caetera sub coelo.<verse eID="Job.9.13" />
+        <verse sID="Job.9.14" osisID="Job.9.14" />Quod si audiat me, et discernat sermones meos secum.<verse eID="Job.9.14" />
+        <verse sID="Job.9.15" osisID="Job.9.15" />Quod si etiam iustus fuero, non exaudiet me, iudicium eius rogabo.<verse eID="Job.9.15" />
+        <verse sID="Job.9.16" osisID="Job.9.16" />Si vero invocavero, et exaudierit, non credam quod exaudivit vocem meam.<verse eID="Job.9.16" />
+        <verse sID="Job.9.17" osisID="Job.9.17" />Ne forte in turbine me conterat, multas enim tribulationes meas fecit sine causa.<verse eID="Job.9.17" />
+        <verse sID="Job.9.18" osisID="Job.9.18" />Non enim sinit me respirare, sed implevit me amaritudine.<verse eID="Job.9.18" />
+        <verse sID="Job.9.19" osisID="Job.9.19" />Etenim quia potest, obtinet, nam iudicio eius quis adversabitur?<verse eID="Job.9.19" />
+        <verse sID="Job.9.20" osisID="Job.9.20" />Quod et si fuero iustus, os meum impia loquetur, quod et si fuero sine crimine, pravus inveniar.<verse eID="Job.9.20" />
+        <verse sID="Job.9.21" osisID="Job.9.21" />Si enim et impie egi in animam meam, nescio. Verum autem aufertur vita mea.<verse eID="Job.9.21" />
+        <verse sID="Job.9.22" osisID="Job.9.22" />Unum est propter quod et dixi, Magnum et potentem disperdidit ira.<verse eID="Job.9.22" />
+        <verse sID="Job.9.23" osisID="Job.9.23" />Quia nequam homines in magna morte erunt. Sed iusti hi deridentur.<verse eID="Job.9.23" />
+        <verse sID="Job.9.24" osisID="Job.9.24" />Terra tradita est in manus impii, facies iudicum eius operit, quod si non est, quis ergo est?<verse eID="Job.9.24" />
+        <verse sID="Job.9.25" osisID="Job.9.25" />Vita autem mea levior est cursore, fugerunt, et non viderunt bonitatem.<verse eID="Job.9.25" />
+        <verse sID="Job.9.26" osisID="Job.9.26" />Abierunt quasi vestigium navis, aut quasi aquilae volantes, et quaerentes escam.<verse eID="Job.9.26" />
+        <verse sID="Job.9.27" osisID="Job.9.27" />Quod si et locutus fuero, obliviscor dum loquor. Declinans in facie, ingemiscam.<verse eID="Job.9.27" />
+        <verse sID="Job.9.28" osisID="Job.9.28" />Commoveor omnibus membris, scio enim quia impunitum me non dimittis.<verse eID="Job.9.28" />
+        <verse sID="Job.9.29" osisID="Job.9.29" />Et quia sum impius, quare non sum mortuus, sed laboro?<verse eID="Job.9.29" />
+        <verse sID="Job.9.30" osisID="Job.9.30" />Quod si purificatus fuero in nive, et mundatus fuero mundis manibus,<verse eID="Job.9.30" />
+        <verse sID="Job.9.31" osisID="Job.9.31" />Satis in sorde me tinxi, et exsecratum me est vestimentum meum.<verse eID="Job.9.31" />
+        <verse sID="Job.9.32" osisID="Job.9.32" />Non est enim homo sicut ego cui contradicam, ut veniamus pariter ad iudicium.<verse eID="Job.9.32" />
+        <verse sID="Job.9.33" osisID="Job.9.33" />Utinam esset nobis arbiter, et qui argueret, et qui audiret inter utrosque.<verse eID="Job.9.33" />
+        <verse sID="Job.9.34" osisID="Job.9.34" />Avertat a me virgam suam, et timor eius non me terreat.<verse eID="Job.9.34" />
+        <verse sID="Job.9.35" osisID="Job.9.35" />Loquar, et non timeam eum, non enim nunc sum mecum.<verse eID="Job.9.35" />
+      </p>
+      <chapter eID="Job.9" />
+      <chapter sID="Job.10" osisID="Job.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Job.10.1" osisID="Job.10.1" />Defecit anima mea in vita mea, proferam contra me sermones meos, loquar in amaritudine animae coarctatus,<verse eID="Job.10.1" />
+        <verse sID="Job.10.2" osisID="Job.10.2" />Et dicam ad Dominum, Noli me docere impium esse, quare me taliter iudicasti?<verse eID="Job.10.2" />
+        <verse sID="Job.10.3" osisID="Job.10.3" />Aut bonum est tibi si inique egero? Quia despicis opus quod manus tuae fecerunt, et ad consilium impiorum animadvertisti.<verse eID="Job.10.3" />
+        <verse sID="Job.10.4" osisID="Job.10.4" />Aut sicut homo perspicit, perspicis, aut sicut videt homo, videbis?<verse eID="Job.10.4" />
+        <verse sID="Job.10.5" osisID="Job.10.5" />Aut humana est vita tua, aut anni tui sunt tanquam dies hominis?<verse eID="Job.10.5" />
+        <verse sID="Job.10.6" osisID="Job.10.6" />Quia perquisisti iniquitatem meam, et peccata mea investigasti.<verse eID="Job.10.6" />
+        <verse sID="Job.10.7" osisID="Job.10.7" />Scis enim me nihil impii fecisse, sed quis est qui de manibus tuis eripiat?<verse eID="Job.10.7" />
+        <verse sID="Job.10.8" osisID="Job.10.8" />Manus tuae fecerunt me, et finxerunt me. Postea vero mutatus percussisti me.<verse eID="Job.10.8" />
+        <verse sID="Job.10.9" osisID="Job.10.9" />Memor esto quod de luto finxisti me, et in terram tantum me convertes.<verse eID="Job.10.9" />
+        <verse sID="Job.10.10" osisID="Job.10.10" />Nonne tanquam lac mulsisti me, et coagulasti me ut caseum?<verse eID="Job.10.10" />
+        <verse sID="Job.10.11" osisID="Job.10.11" />Et pelle et carne me induisti, ossibus et nervis me inseruisti,<verse eID="Job.10.11" />
+        <verse sID="Job.10.12" osisID="Job.10.12" />Vitam et misericordiam mihi dedisti, et inspectio tua custodivit spiritum meum.<verse eID="Job.10.12" />
+        <verse sID="Job.10.13" osisID="Job.10.13" />Haec ergo cum in te sint, scio quia omnia potes, nec est tibi impossibile quidquam.<verse eID="Job.10.13" />
+        <verse sID="Job.10.14" osisID="Job.10.14" />Quod si peccavero, custodies me. Ab iniquitate autem non impunitum fecisti me.<verse eID="Job.10.14" />
+        <verse sID="Job.10.15" osisID="Job.10.15" />Quod si et impie fecero, vae mihi, et si iustus fuero, non possum respirare. Plenus enim sum opprobrio.<verse eID="Job.10.15" />
+        <verse sID="Job.10.16" osisID="Job.10.16" />Et capior sicut leo ad occisionem, iterum autem commutatus saevissime crucias me.<verse eID="Job.10.16" />
+        <verse sID="Job.10.17" osisID="Job.10.17" />Restauras in me tormenta mea, ira magna usus es in me, et importasti mihi tentationes.<verse eID="Job.10.17" />
+        <verse sID="Job.10.18" osisID="Job.10.18" />Quare ergo de ventre eduxisti me, et non sum mortuus, ut nullius oculi me viderent,<verse eID="Job.10.18" />
+        <verse sID="Job.10.19" osisID="Job.10.19" />Et essem tanquam non fuissem? Quare autem a ventre non sum sepultus protinus?<verse eID="Job.10.19" />
+        <verse sID="Job.10.20" osisID="Job.10.20" />Aut nunquid non est parum tempus vitae meae? Attere me, ut requiescam pusillum,<verse eID="Job.10.20" />
+        <verse sID="Job.10.21" osisID="Job.10.21" />Antequam eam unde non revertar, in terram tenebrosam, et caliginosam.<verse eID="Job.10.21" />
+        <verse sID="Job.10.22" osisID="Job.10.22" />In terram noctis aeternae, ubi non est lux, nec est videre vitam hominum.<verse eID="Job.10.22" />
+      </p>
+      <chapter eID="Job.10" />
+      <chapter sID="Job.11" osisID="Job.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Job.11.1" osisID="Job.11.1" />Respondens Sofar Minaeus, dixit,<verse eID="Job.11.1" />
+        <verse sID="Job.11.2" osisID="Job.11.2" />Qui multa dicit, et audire debet, aut nunquid eloquens videbitur iustus esse?<verse eID="Job.11.2" />
+        <verse sID="Job.11.3" osisID="Job.11.3" />Beatus homo natus, homo brevis vitae. Noli multus esse in verbis, cum nemo sit qui contradicat tibi,<verse eID="Job.11.3" />
+        <verse sID="Job.11.4" osisID="Job.11.4" />Neque dicas, Iustus sum operibus, et sine crimine fui ante eum.<verse eID="Job.11.4" />
+        <verse sID="Job.11.5" osisID="Job.11.5" />Sed quomodo Dominus loquatur ad te, et aperiat labia sua tecum,<verse eID="Job.11.5" />
+        <verse sID="Job.11.6" osisID="Job.11.6" />Et doceat te virtutem sapientiae? Quia duplex erit super te, et tunc scies quia digne reddita sunt tibi a Deo pro eis quae peccasti.<verse eID="Job.11.6" />
+        <verse sID="Job.11.7" osisID="Job.11.7" />Aut vestigium Domini invenies, vel ad ultima venisti eorum, quae fecit Omnipotens?<verse eID="Job.11.7" />
+        <verse sID="Job.11.8" osisID="Job.11.8" />Sublimior est coelo, et quid facies? Profundior vero inferis, quid scis?<verse eID="Job.11.8" />
+        <verse sID="Job.11.9" osisID="Job.11.9" />Aut longior a spatio, vel altitudine maris.<verse eID="Job.11.9" />
+        <verse sID="Job.11.10" osisID="Job.11.10" />Quod si everterit omnia, aut congregaverit, quis dicet illi, Quid fecisti?<verse eID="Job.11.10" />
+        <verse sID="Job.11.11" osisID="Job.11.11" />Ipse enim novit opera iniquorum, et videns iniusta, non negliget.<verse eID="Job.11.11" />
+        <verse sID="Job.11.12" osisID="Job.11.12" />Homo aliter nutat sermonibus, et vir natus mulieris tanquam onager erit in deserto.<verse eID="Job.11.12" />
+        <verse sID="Job.11.13" osisID="Job.11.13" />Si enim tu mundum posuisti cor tuum, et extendes ad eum manus tuas.<verse eID="Job.11.13" />
+        <verse sID="Job.11.14" osisID="Job.11.14" />Si iniquum quid est in manu tua, longe facito illud a te, et iniquitas in domo tua non maneat,<verse eID="Job.11.14" />
+        <verse sID="Job.11.15" osisID="Job.11.15" />Sic enim fulgebit facies tua tanquam aqua pura, et expoliabis sorde, et non timebis.<verse eID="Job.11.15" />
+        <verse sID="Job.11.16" osisID="Job.11.16" />Et laboris oblivisceris, tanquam fluctus qui praeterit, et non terreberis.<verse eID="Job.11.16" />
+        <verse sID="Job.11.17" osisID="Job.11.17" />Et oratio tua tanquam lucifer erit, et a meridiano orietur tibi vita.<verse eID="Job.11.17" />
+        <verse sID="Job.11.18" osisID="Job.11.18" />Et confides quia est tibi spes. Et pro sollicitudinibus et curis, apparebit tibi pax.<verse eID="Job.11.18" />
+        <verse sID="Job.11.19" osisID="Job.11.19" />Requiesces enim, et non erit qui te expugnet. Et rogabunt faciem tuam multi.<verse eID="Job.11.19" />
+        <verse sID="Job.11.20" osisID="Job.11.20" />Oculi autem impiorum tabescent, salus autem relinquet eos. Spes enim eorum perditio est animae.<verse eID="Job.11.20" />
+      </p>
+      <chapter eID="Job.11" />
+      <chapter sID="Job.12" osisID="Job.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Job.12.1" osisID="Job.12.1" />Respondens autem Iob, dixit,<verse eID="Job.12.1" />
+        <verse sID="Job.12.2" osisID="Job.12.2" />Ergo vos estis soli homines? An vobiscum morietur sapientia?<verse eID="Job.12.2" />
+        <verse sID="Job.12.3" osisID="Job.12.3" />Et mihi quoque est cor, sicut et vobis.<verse eID="Job.12.3" />
+        <verse sID="Job.12.4" osisID="Job.12.4" />Sed iustus vir, et sine crimine, venit ad risum,<verse eID="Job.12.4" />
+        <verse sID="Job.12.5" osisID="Job.12.5" />In tempus enim certum praeparatus erat, ut succumberet alius. Et domus eius, ut devastaretur ab iniquis. Imo vero nullus considat, cum sit nequam, se impunitum futurum,<verse eID="Job.12.5" />
+        <verse sID="Job.12.6" osisID="Job.12.6" />Quod in iracundiam provocat Deum. Tanquam inquisitio in eo non sit futura.<verse eID="Job.12.6" />
+        <verse sID="Job.12.7" osisID="Job.12.7" />Sed tamen interroga quadrupedia, si tibi responderint, aut volatilia coeli, si renuntiaverint tibi.<verse eID="Job.12.7" />
+        <verse sID="Job.12.8" osisID="Job.12.8" />Et narra terrae, si loquetur ad te, et referent tibi pisces maris.<verse eID="Job.12.8" />
+        <verse sID="Job.12.9" osisID="Job.12.9" />Quis nescit in his omnibus, quia manus Domini fecit haec?<verse eID="Job.12.9" />
+        <verse sID="Job.12.10" osisID="Job.12.10" />Si non in manus eius est anima omnium viventium, et spiritus omnis carnis hominis?<verse eID="Job.12.10" />
+        <verse sID="Job.12.11" osisID="Job.12.11" />Auris enim sermones diiudicat, fauces autem gustant escas sibi.<verse eID="Job.12.11" />
+        <verse sID="Job.12.12" osisID="Job.12.12" />In multo tempore sapientia est, et in longa vita est scientia.<verse eID="Job.12.12" />
+        <verse sID="Job.12.13" osisID="Job.12.13" />Apud eum est sapientia et virtus, ipsius est consilium et intellectus.<verse eID="Job.12.13" />
+        <verse sID="Job.12.14" osisID="Job.12.14" />Si destruxerit, quis aedificat? Si cluserit circum hominem, quis aperit?<verse eID="Job.12.14" />
+        <verse sID="Job.12.15" osisID="Job.12.15" />Si prohibuerit aquam, siccabit terram, quod si emiserit, prodiet evertens terram.<verse eID="Job.12.15" />
+        <verse sID="Job.12.16" osisID="Job.12.16" />Apud ipsum imperium et fortitudo, et disciplina, et intelligentia.<verse eID="Job.12.16" />
+        <verse sID="Job.12.17" osisID="Job.12.17" />Qui ducit consiliarios captivos, iudices autem terrae in pavorem mittit.<verse eID="Job.12.17" />
+        <verse sID="Job.12.18" osisID="Job.12.18" />Qui collocat reges super sedes, et circumdedit balteo renes eorum.<verse eID="Job.12.18" />
+        <verse sID="Job.12.19" osisID="Job.12.19" />Qui emittit sacerdotes captivos, et potentes terrae evertit.<verse eID="Job.12.19" />
+        <verse sID="Job.12.20" osisID="Job.12.20" />Qui permutat labia fidelium, et intelligentiam senum cognovit,<verse eID="Job.12.20" />
+        <verse sID="Job.12.21" osisID="Job.12.21" />Effundens ignobilitatem super principes, et humiles sanans.<verse eID="Job.12.21" />
+        <verse sID="Job.12.22" osisID="Job.12.22" />Qui revelat profunda de tenebris, et perduxit in lucem umbram mortis,<verse eID="Job.12.22" />
+        <verse sID="Job.12.23" osisID="Job.12.23" />Decipiens gentes, et perdens eas. Sternens gentes, et in via deducens eas,<verse eID="Job.12.23" />
+        <verse sID="Job.12.24" osisID="Job.12.24" />Reconcilians corda principum populi terrae. Seduxit autem illos in via quam non noverant.<verse eID="Job.12.24" />
+        <verse sID="Job.12.25" osisID="Job.12.25" />Tractabit tenebras, et non lucem. Et errabunt sicut ebrius.<verse eID="Job.12.25" />
+      </p>
+      <chapter eID="Job.12" />
+      <chapter sID="Job.13" osisID="Job.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Job.13.1" osisID="Job.13.1" />Ecce haec omnia vidit oculus meus, et audivit auris mea.<verse eID="Job.13.1" />
+        <verse sID="Job.13.2" osisID="Job.13.2" />Et novi quae et vos nostis, et quidem ego non sum vobis insipientior.<verse eID="Job.13.2" />
+        <verse sID="Job.13.3" osisID="Job.13.3" />Imo vero et ego ad Dominum loquar, et arguam in conspectu eius, si voluerit.<verse eID="Job.13.3" />
+        <verse sID="Job.13.4" osisID="Job.13.4" />Vos autem estis medici iniqui, et curatores malorum omnes vos.<verse eID="Job.13.4" />
+        <verse sID="Job.13.5" osisID="Job.13.5" />Utinam contingat vobis obmutescere, et reputabitur vobis in sapientiam.<verse eID="Job.13.5" />
+        <verse sID="Job.13.6" osisID="Job.13.6" />Audite ergo obiurgationem oris mei, iudicio autem labiorum meorum intendite.<verse eID="Job.13.6" />
+        <verse sID="Job.13.7" osisID="Job.13.7" />Nonne ante conspectum Domini loquimini, et ante conspectum eius profertis dolum?<verse eID="Job.13.7" />
+        <verse sID="Job.13.8" osisID="Job.13.8" />An subtrahitis vos ipsos iudices fieri?<verse eID="Job.13.8" />
+        <verse sID="Job.13.9" osisID="Job.13.9" />Optimum erit, si discusserit vos, si enim omnia facientes adiiciemini ei,<verse eID="Job.13.9" />
+        <verse sID="Job.13.10" osisID="Job.13.10" />Hic nihilominus quia arguet vos. Quod si et occulte personas mirati fueritis,<verse eID="Job.13.10" />
+        <verse sID="Job.13.11" osisID="Job.13.11" />Nonne censura eius terrebit vos, et timor eius decidet in vos?<verse eID="Job.13.11" />
+        <verse sID="Job.13.12" osisID="Job.13.12" />Et erit gaudium vestrum in cinere, corpus autem luteum..<verse eID="Job.13.12" />
+        <verse sID="Job.13.13" osisID="Job.13.13" />Obmutescite, ut loquar ego, et requiescam ab ira,<verse eID="Job.13.13" />
+        <verse sID="Job.13.14" osisID="Job.13.14" />Apprehendens carnes meas dentibus meis, et animam meam ponam in manu.<verse eID="Job.13.14" />
+        <verse sID="Job.13.15" osisID="Job.13.15" />Licet occidat me ille qui potens est, quia et coepit. Tamen loquar, et coram eo arguam.<verse eID="Job.13.15" />
+        <verse sID="Job.13.16" osisID="Job.13.16" />Et hoc mihi eveniet in salutem, non enim ante conspectum eius dolus introibit.<verse eID="Job.13.16" />
+        <verse sID="Job.13.17" osisID="Job.13.17" />Audite, audite sermones meos, quos reseram vobis audientibus.<verse eID="Job.13.17" />
+        <verse sID="Job.13.18" osisID="Job.13.18" />Ecce ego appropinquo iudicio meo. Scio ego iustus inveniar.<verse eID="Job.13.18" />
+        <verse sID="Job.13.19" osisID="Job.13.19" />Quis est qui diiudicetur mecum, ut nunc obmutescam, et desinam?<verse eID="Job.13.19" />
+        <verse sID="Job.13.20" osisID="Job.13.20" />Duo concede mihi. Tunc a facie tua non abscondar,<verse eID="Job.13.20" />
+        <verse sID="Job.13.21" osisID="Job.13.21" />Manum aufer a me, et timor tuus non me terreat.<verse eID="Job.13.21" />
+        <verse sID="Job.13.22" osisID="Job.13.22" />Deinde vocabis, et ego audiam, loqueris, et ego respondebo tibi.<verse eID="Job.13.22" />
+        <verse sID="Job.13.23" osisID="Job.13.23" />Quot sunt iniquitates meae, et peccata mea quae sunt, doce me.<verse eID="Job.13.23" />
+        <verse sID="Job.13.24" osisID="Job.13.24" />Quare a me abscondis, aut putas me esse contrarium tibi?<verse eID="Job.13.24" />
+        <verse sID="Job.13.25" osisID="Job.13.25" />Et quasi solium, quod a vento movetur, vereris? An tanquam foeno, quod rapitur, contrarius es?<verse eID="Job.13.25" />
+        <verse sID="Job.13.26" osisID="Job.13.26" />Quia conscripsisti adversum me mala, et imposuisti mihi peccata iuventutis.<verse eID="Job.13.26" />
+        <verse sID="Job.13.27" osisID="Job.13.27" />Et imposuisti in compedes pedem meum, et observasti omnia opera mea. Radices pedum meorum contemplatus es,<verse eID="Job.13.27" />
+        <verse sID="Job.13.28" osisID="Job.13.28" />Qui veterasco sicut uter, aut velut vestimentum, quod a tineis comestum est.<verse eID="Job.13.28" />
+      </p>
+      <chapter eID="Job.13" />
+      <chapter sID="Job.14" osisID="Job.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Job.14.1" osisID="Job.14.1" />Homo natus de muliere, brevis vitae, et plenus iracundiae.<verse eID="Job.14.1" />
+        <verse sID="Job.14.2" osisID="Job.14.2" />Et sicut flos cum floruerit, decidet. Fugitque ut umbra, et non permanet.<verse eID="Job.14.2" />
+        <verse sID="Job.14.3" osisID="Job.14.3" />Nonne etiam huius curam habuisti, et hunc venire fecisti in iudicium coram te?<verse eID="Job.14.3" />
+        <verse sID="Job.14.4" osisID="Job.14.4" />Quis enim erit mundus absque forde? Nec unus quidem, etiam si unius diei fuerit vita eius super terram.<verse eID="Job.14.4" />
+        <verse sID="Job.14.5" osisID="Job.14.5" />Dinumerati enim sunt menses eius apud te, tempus definisti, et non transit.<verse eID="Job.14.5" />
+        <verse sID="Job.14.6" osisID="Job.14.6" />Discede ab eo, sine requiescat, et placeat ei tanquam mercenario dies sua.<verse eID="Job.14.6" />
+        <verse sID="Job.14.7" osisID="Job.14.7" />Est enim arboris spes, quia si excidatur, iterum floriet, et germen eius non deficiet.<verse eID="Job.14.7" />
+        <verse sID="Job.14.8" osisID="Job.14.8" />Nam si senuerit radix eius in terra, atque in petra fuerit mortuus truncus eius,<verse eID="Job.14.8" />
+        <verse sID="Job.14.9" osisID="Job.14.9" />Ab odore aquae florebit, et faciet fructum sicut novella.<verse eID="Job.14.9" />
+        <verse sID="Job.14.10" osisID="Job.14.10" />Vir vero cum mortuus fuerit, abiit. Et cum ceciderit homo, iam non erit.<verse eID="Job.14.10" />
+        <verse sID="Job.14.11" osisID="Job.14.11" />Tempore enim minuetur mare, et flumen deseritur, et siccatur,<verse eID="Job.14.11" />
+        <verse sID="Job.14.12" osisID="Job.14.12" />Homo autem cum dormierit, non exsurget. Usquequo coelum est, non consuetur, et non suscitabitur de somno suo.<verse eID="Job.14.12" />
+        <verse sID="Job.14.13" osisID="Job.14.13" />Atque utinam apud inferos me custodisses, et abscondisses me, donec requiesceret ira tua, et statuisses mihi tempus, in quo memoriam mei faceres,<verse eID="Job.14.13" />
+        <verse sID="Job.14.14" osisID="Job.14.14" />Si enim mortuus fuerit homo, vivet, consummatis diebus vitae suae. Sustinebo, usquequo denuo faciam,<verse eID="Job.14.14" />
+        <verse sID="Job.14.15" osisID="Job.14.15" />Deinde vocabis, et ego respondebo tibi, opera autem manuum tuarum ne improbes.<verse eID="Job.14.15" />
+        <verse sID="Job.14.16" osisID="Job.14.16" />Cogitationes meas dinumerasti, et nihil te latuit peccatorum meorum.<verse eID="Job.14.16" />
+        <verse sID="Job.14.17" osisID="Job.14.17" />Signasti in sacculo iniquitates meas, adnotasti, si quid invitus erravi.<verse eID="Job.14.17" />
+        <verse sID="Job.14.18" osisID="Job.14.18" />Equidem mons cadens defluit, et petra veterascit in loco suo,<verse eID="Job.14.18" />
+        <verse sID="Job.14.19" osisID="Job.14.19" />Lapides consumuntur aquis, et alluvione frequentium gurgitum minuitur arena terrae, spem vero hominis perdidisti.<verse eID="Job.14.19" />
+        <verse sID="Job.14.20" osisID="Job.14.20" />Impulisti enim in finem, et abiit. Mutasti faciem eius, dimisisti eum,<verse eID="Job.14.20" />
+        <verse sID="Job.14.21" osisID="Job.14.21" />Et cum multi fuerint filii eius, nescit, si autem et pauci, ignorat de eis,<verse eID="Job.14.21" />
+        <verse sID="Job.14.22" osisID="Job.14.22" />Sed carnes eius super eum doluerunt, et anima eius super eum luxit.<verse eID="Job.14.22" />
+      </p>
+      <chapter eID="Job.14" />
+      <chapter sID="Job.15" osisID="Job.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Job.15.1" osisID="Job.15.1" />Respondens autem Eliphaz Themanites, dixit,<verse eID="Job.15.1" />
+        <verse sID="Job.15.2" osisID="Job.15.2" />Nunquid sapiens respondebit in spiritu scientiae, et implebit dolore ventrem,<verse eID="Job.15.2" />
+        <verse sID="Job.15.3" osisID="Job.15.3" />Arguens in verbis quibus non oportet, in sermonibus quibus nihil proderit in eis?<verse eID="Job.15.3" />
+        <verse sID="Job.15.4" osisID="Job.15.4" />Nonne tu repulisti timorem, et locutus es tales sermones ante conspectum Domini?<verse eID="Job.15.4" />
+        <verse sID="Job.15.5" osisID="Job.15.5" />Quia reus es sermonibus oris tui, et elegisti linguam malorum,<verse eID="Job.15.5" />
+        <verse sID="Job.15.6" osisID="Job.15.6" />Arguat te os tuum, et non ego, et labia tua contradicant tibi.<verse eID="Job.15.6" />
+        <verse sID="Job.15.7" osisID="Job.15.7" />Quid enim? Nunquid primus homo natus es, aut ante colles concretus es?<verse eID="Job.15.7" />
+        <verse sID="Job.15.8" osisID="Job.15.8" />Aut arcana Domini audisti, aut in te solo est sapientia?<verse eID="Job.15.8" />
+        <verse sID="Job.15.9" osisID="Job.15.9" />Quid enim nosti quod non novimus? Aut quid intelligis quod non nobiscum est?<verse eID="Job.15.9" />
+        <verse sID="Job.15.10" osisID="Job.15.10" />Sed et senex, et decrepitus in nobis est, antiquior patris tui diebus.<verse eID="Job.15.10" />
+        <verse sID="Job.15.11" osisID="Job.15.11" />Nunquid parum peccasti, et vulneratus es graviter? Nimis elate locutus es.<verse eID="Job.15.11" />
+        <verse sID="Job.15.12" osisID="Job.15.12" />Quid ausum fuit cor tuum, et quid sustinuerunt oculi tui.<verse eID="Job.15.12" />
+        <verse sID="Job.15.13" osisID="Job.15.13" />Quia in furore erupisti contra Dominum, et protulisti ex ore tuo sermones tales?<verse eID="Job.15.13" />
+        <verse sID="Job.15.14" osisID="Job.15.14" />Quid enim est homo, ut sit sine crimine, aut sit natus iustus ex muliere?<verse eID="Job.15.14" />
+        <verse sID="Job.15.15" osisID="Job.15.15" />Si in sanctis eius non est fides, et coelum non est mundum ante eum.<verse eID="Job.15.15" />
+        <verse sID="Job.15.16" osisID="Job.15.16" />Quanto magis abominabilis vir, bibens iniquitates ut potum?<verse eID="Job.15.16" />
+        <verse sID="Job.15.17" osisID="Job.15.17" />Narrabo tibi, audi me, et quae vidi annuntiabo tibi.<verse eID="Job.15.17" />
+        <verse sID="Job.15.18" osisID="Job.15.18" />Quae sapientes dixerunt, et non celaverunt parentes suos.<verse eID="Job.15.18" />
+        <verse sID="Job.15.19" osisID="Job.15.19" />Ipsis solis data est terra, nec supervenit illis quisquam extraneus.<verse eID="Job.15.19" />
+        <verse sID="Job.15.20" osisID="Job.15.20" />Omnis vita impii in sollicitudine est, et numerati anni dati sunt potenti.<verse eID="Job.15.20" />
+        <verse sID="Job.15.21" osisID="Job.15.21" />Et timor in auribus eius, cum putaverit se esse iam in pace, tunc eversio veniet ei.<verse eID="Job.15.21" />
+        <verse sID="Job.15.22" osisID="Job.15.22" />Non credet converti a tenebris. Iam enim traditus est in manibus ferri, et decretus est in esca vulturum.<verse eID="Job.15.22" />
+        <verse sID="Job.15.23" osisID="Job.15.23" />Et novit in semetipso quod servatur ad ruinam.<verse eID="Job.15.23" />
+        <verse sID="Job.15.24" osisID="Job.15.24" />Dies enim tenebrarum terrebit eum. Necessitas, et tribulatio tenebit eum. Sicut dux in prima acie decidet,<verse eID="Job.15.24" />
+        <verse sID="Job.15.25" osisID="Job.15.25" />Qui elevavit manus contra Dominum, et contra Dominum omnipotentem contumax fuit,<verse eID="Job.15.25" />
+        <verse sID="Job.15.26" osisID="Job.15.26" />Et cucurrit contra eum contumeliose, in crassa cervice scuti sui.<verse eID="Job.15.26" />
+        <verse sID="Job.15.27" osisID="Job.15.27" />Quia operuit faciem eius in adipe suo, et fecit capistrum super femora.<verse eID="Job.15.27" />
+        <verse sID="Job.15.28" osisID="Job.15.28" />Habitet civitates desertas, intret in domos quae non habitantur, quae enim ille paravit, alli auferent.<verse eID="Job.15.28" />
+        <verse sID="Job.15.29" osisID="Job.15.29" />Et non ditabitur, nec permanebit substantia eius. Non mittet super terram umbram,<verse eID="Job.15.29" />
+        <verse sID="Job.15.30" osisID="Job.15.30" />Nec effugiet tenebras, sed stirpem eius arefaciet ventus, et decidet eius flos.<verse eID="Job.15.30" />
+        <verse sID="Job.15.31" osisID="Job.15.31" />Non speret se permanere, vana enim eveniet ei.<verse eID="Job.15.31" />
+        <verse sID="Job.15.32" osisID="Job.15.32" />Praecisio eius ante horam corrumpetur, et germen eius non videbitur.<verse eID="Job.15.32" />
+        <verse sID="Job.15.33" osisID="Job.15.33" />Vindemietur tanquam uva acerba ante tempus, decidat tanquam flos olivae.<verse eID="Job.15.33" />
+        <verse sID="Job.15.34" osisID="Job.15.34" />Testimonium enim impii, mors. Et ignis comburet domos eorum, qui munera accipiunt.<verse eID="Job.15.34" />
+        <verse sID="Job.15.35" osisID="Job.15.35" />Concipiet in ventre gemitus, et evenient ei vana, et venter eius portabit dolum.<verse eID="Job.15.35" />
+      </p>
+      <chapter eID="Job.15" />
+      <chapter sID="Job.16" osisID="Job.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Job.16.1" osisID="Job.16.1" />Respondens autem Iob, ait,<verse eID="Job.16.1" />
+        <verse sID="Job.16.2" osisID="Job.16.2" />Audivi talia multa, consolatores mali vos omnes.<verse eID="Job.16.2" />
+        <verse sID="Job.16.3" osisID="Job.16.3" />Quid enim? Nunquid ordo est in sermonibus spiritus? Aut in quo molestum tibi erit, quia respondebis?<verse eID="Job.16.3" />
+        <verse sID="Job.16.4" osisID="Job.16.4" />Et ego secundum vos loquar. Si subiecta esset anima vestra pro mea,<verse eID="Job.16.4" />
+        <verse sID="Job.16.5" osisID="Job.16.5" />Loquerer vobis sermonibus, et moverem super vos caput meum,<verse eID="Job.16.5" />
+        <verse sID="Job.16.6" osisID="Job.16.6" />Esset virtus in ore meo, et labia moverem, et non parcerem.<verse eID="Job.16.6" />
+        <verse sID="Job.16.7" osisID="Job.16.7" />Si enim loquar, non delebo vulnera, quod si taceam, nihilominus terebrabor.<verse eID="Job.16.7" />
+        <verse sID="Job.16.8" osisID="Job.16.8" />Nunc autem lassavit me dolor, et fecit stultum, et putrem.<verse eID="Job.16.8" />
+        <verse sID="Job.16.9" osisID="Job.16.9" />Apprehendisti me, et in testimonium factus sum, et surrexit super me mendacium meum. Contra faciem meam respondebit.<verse eID="Job.16.9" />
+        <verse sID="Job.16.10" osisID="Job.16.10" />Iracundia enim usus defecit me, fremuit super me dentibus, sagittae piratarum eius super me deciderunt, acie oculorum irruit.<verse eID="Job.16.10" />
+        <verse sID="Job.16.11" osisID="Job.16.11" />Acriter percussit me in genibus, et simul concurrerunt in me.<verse eID="Job.16.11" />
+        <verse sID="Job.16.12" osisID="Job.16.12" />Tradidit enim me Dominus in manus iniqui, et inter impios proiecit me.<verse eID="Job.16.12" />
+        <verse sID="Job.16.13" osisID="Job.16.13" />In pace cum essem, discerpsit me, et tenens comam meam divellit. Statuit me sicut signum.<verse eID="Job.16.13" />
+        <verse sID="Job.16.14" osisID="Job.16.14" />Circumdederunt, lanceas emittentes in renes meos, et non pepercerunt. Effuderunt in terra sel meum.<verse eID="Job.16.14" />
+        <verse sID="Job.16.15" osisID="Job.16.15" />Deiecerunt me prostratione magna. Cucurrerunt ad me potentes.<verse eID="Job.16.15" />
+        <verse sID="Job.16.16" osisID="Job.16.16" />Cilicium assuerunt corio meo, virtus enim mea in terra exstincta est.<verse eID="Job.16.16" />
+        <verse sID="Job.16.17" osisID="Job.16.17" />Venter meus combustus est a fletu, et super palpebras meas umbra mortis.<verse eID="Job.16.17" />
+        <verse sID="Job.16.18" osisID="Job.16.18" />Iniquitas nulla erat in manibus meis, sed oratio mea munda.<verse eID="Job.16.18" />
+        <verse sID="Job.16.19" osisID="Job.16.19" />Terra ne operiat super sanguinem carnis meae, nec sit locus clamori meo.<verse eID="Job.16.19" />
+        <verse sID="Job.16.20" osisID="Job.16.20" />Et nunc ecce in coelis est testis meus, et conscius meus in excelsis.<verse eID="Job.16.20" />
+        <verse sID="Job.16.21" osisID="Job.16.21" />Ascendat deprecatio mea ad Dominum, et ante conspectum eius distillet oculus meus.<verse eID="Job.16.21" />
+        <verse sID="Job.16.22" osisID="Job.16.22" />Diiudicetur vir cum Domino, sicut filius hominis ad proximum suum.<verse eID="Job.16.22" />
+        <verse sID="Job.16.23" osisID="Job.16.23" />Anni enim dinumerati venerunt mihi, et viam, qua non revertar, ingrediar.<verse eID="Job.16.23" />
+      </p>
+      <chapter eID="Job.16" />
+      <chapter sID="Job.17" osisID="Job.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Job.17.1" osisID="Job.17.1" />Defeci agitatus spiritu, oro ut sepeliar, et non contingit mihi. Preces adhibeo cum labore.<verse eID="Job.17.1" />
+        <verse sID="Job.17.2" osisID="Job.17.2" />Et quid feci? Furati sunt externi bona mea.<verse eID="Job.17.2" />
+        <verse sID="Job.17.3" osisID="Job.17.3" />Quis est iste? Ad manum meam ligetur.<verse eID="Job.17.3" />
+        <verse sID="Job.17.4" osisID="Job.17.4" />Quia cor eorum abscondisti a prudentia, propter hoc non exaltabis eos.<verse eID="Job.17.4" />
+        <verse sID="Job.17.5" osisID="Job.17.5" />Parti annuntiantur mala, et oculi super filios eorum tabuerunt.<verse eID="Job.17.5" />
+        <verse sID="Job.17.6" osisID="Job.17.6" />Posuisti autem me in loquelam nationibus, et in risum illis deveni.<verse eID="Job.17.6" />
+        <verse sID="Job.17.7" osisID="Job.17.7" />Obscurati sunt ab ira oculi mei, et expugnatus sum valde ab omnibus.<verse eID="Job.17.7" />
+        <verse sID="Job.17.8" osisID="Job.17.8" />Et mirati sunt super haec veraces, iustus autem super inimicum consurgat.<verse eID="Job.17.8" />
+        <verse sID="Job.17.9" osisID="Job.17.9" />Et obtineat fidelis viam suam, et purus manibus sumat audaciam.<verse eID="Job.17.9" />
+        <verse sID="Job.17.10" osisID="Job.17.10" />Quapropter omnes convertimini, et venite. Non enim invenio in vobis veritatem.<verse eID="Job.17.10" />
+        <verse sID="Job.17.11" osisID="Job.17.11" />Dies mei transierunt in calamitatibus, et concussae sunt compages cordis mei.<verse eID="Job.17.11" />
+        <verse sID="Job.17.12" osisID="Job.17.12" />Noctem in diem posuerunt. Lux prope faciem tenebrarum.<verse eID="Job.17.12" />
+        <verse sID="Job.17.13" osisID="Job.17.13" />Si sustinuero, inferi erunt domus mea. In tenebris stratus est lectus meus.<verse eID="Job.17.13" />
+        <verse sID="Job.17.14" osisID="Job.17.14" />Interitum appellavi patrem meum. Matrem meum, et sororem, tabem.<verse eID="Job.17.14" />
+        <verse sID="Job.17.15" osisID="Job.17.15" />Quae est enim mihi iam spes? Aut bona mea videbo?<verse eID="Job.17.15" />
+        <verse sID="Job.17.16" osisID="Job.17.16" />Aut mecum ad inferos descendent? Aut pariter in cinerem descendemus?<verse eID="Job.17.16" />
+      </p>
+      <chapter eID="Job.17" />
+      <chapter sID="Job.18" osisID="Job.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Job.18.1" osisID="Job.18.1" />Respondens autem Baldad Sauchites, dixit,<verse eID="Job.18.1" />
+        <verse sID="Job.18.2" osisID="Job.18.2" />Quousque non es taciturus? Cohibe te, ut et nos loquamur.<verse eID="Job.18.2" />
+        <verse sID="Job.18.3" osisID="Job.18.3" />Cur ut quadrupedia tacuimus coram te?<verse eID="Job.18.3" />
+        <verse sID="Job.18.4" osisID="Job.18.4" />Abutitur te iracundia, quid enim? Si tu mortuus fueris, sub coelo non habitabitur, aut subvertentur montes a fundamentis?<verse eID="Job.18.4" />
+        <verse sID="Job.18.5" osisID="Job.18.5" />Et lumen impiorum exstinguetur, nec splendebit flamma eorum.<verse eID="Job.18.5" />
+        <verse sID="Job.18.6" osisID="Job.18.6" />Lux eius erit tenebrae in domo, et lucerna super eum exstinguetur.<verse eID="Job.18.6" />
+        <verse sID="Job.18.7" osisID="Job.18.7" />Capiant infirmi substantiam eius, et erret consilium eius.<verse eID="Job.18.7" />
+        <verse sID="Job.18.8" osisID="Job.18.8" />Immissus est enim pes eius in laqueo, et in rete implicabitur.<verse eID="Job.18.8" />
+        <verse sID="Job.18.9" osisID="Job.18.9" />Veniant super eum laquei, confortabit super eum sitientes.<verse eID="Job.18.9" />
+        <verse sID="Job.18.10" osisID="Job.18.10" />Absconditus est super terram funiculus eius, et captio eius in semitis.<verse eID="Job.18.10" />
+        <verse sID="Job.18.11" osisID="Job.18.11" />Per circuitum perdant eum dolores, et multi circa pedes eius veniant.<verse eID="Job.18.11" />
+        <verse sID="Job.18.12" osisID="Job.18.12" />In angustia famis, ruina enim ei praeparata est magna.<verse eID="Job.18.12" />
+        <verse sID="Job.18.13" osisID="Job.18.13" />Comedantur rami pedum eius, et devoret decora eius matura mors.<verse eID="Job.18.13" />
+        <verse sID="Job.18.14" osisID="Job.18.14" />Rumpatur de habitaculo eius sanitas, et teneat eum necessitas causae regalis.<verse eID="Job.18.14" />
+        <verse sID="Job.18.15" osisID="Job.18.15" />Habitet in tabernaculo eius in nocte eius, aspergentur speciosa eius sulphure.<verse eID="Job.18.15" />
+        <verse sID="Job.18.16" osisID="Job.18.16" />Subter radices eius siccabuntur, et desursum irruet messio eius.<verse eID="Job.18.16" />
+        <verse sID="Job.18.17" osisID="Job.18.17" />Memoria eius pereat de terra, et non sit nomen eius in facie platearum.<verse eID="Job.18.17" />
+        <verse sID="Job.18.18" osisID="Job.18.18" />Et pellatur de lumine in tenebras.<verse eID="Job.18.18" />
+        <verse sID="Job.18.19" osisID="Job.18.19" />Et non sit cognoscibilis in populo suo, nec resalvetur sub coelo domus eius. Sed in populo eius vivant alteri.<verse eID="Job.18.19" />
+        <verse sID="Job.18.20" osisID="Job.18.20" />Super eum gemuerunt infimi, et proceres tenuit miraculum.<verse eID="Job.18.20" />
+        <verse sID="Job.18.21" osisID="Job.18.21" />Haec sunt domus impiorum, et hic est locus ignorantium Deum.<verse eID="Job.18.21" />
+      </p>
+      <chapter eID="Job.18" />
+      <chapter sID="Job.19" osisID="Job.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Job.19.1" osisID="Job.19.1" />Respondens autem Iob, dixit,<verse eID="Job.19.1" />
+        <verse sID="Job.19.2" osisID="Job.19.2" />Quousque fatigatis animam meam, et destruitis me verbis? Scitote tantum, quia Dominus fecit mihi sic.<verse eID="Job.19.2" />
+        <verse sID="Job.19.3" osisID="Job.19.3" />Detrahitis me, et non erubescitis incumbere mihi.<verse eID="Job.19.3" />
+        <verse sID="Job.19.4" osisID="Job.19.4" />Sed esto, vero ego erravi, et apud me habitat error, ut loquerer verbum quod non oportebat. Et sermones mei errant, et non sunt in tempore.<verse eID="Job.19.4" />
+        <verse sID="Job.19.5" osisID="Job.19.5" />Cur autem vos in me exaltamini, et exprobratis mihi opprobrium?<verse eID="Job.19.5" />
+        <verse sID="Job.19.6" osisID="Job.19.6" />Scitote ergo quia Dominus est, qui me turbavit, et vallum suum circa me circumdedit.<verse eID="Job.19.6" />
+        <verse sID="Job.19.7" osisID="Job.19.7" />Ecce rideor opprobrio, et non loquar, clamabo, et nusquam est iudicium.<verse eID="Job.19.7" />
+        <verse sID="Job.19.8" osisID="Job.19.8" />Circumseptus sum, nec evado, in vultu meo tenebras posuit.<verse eID="Job.19.8" />
+        <verse sID="Job.19.9" osisID="Job.19.9" />Et gloria me exuit, et abstulit coronam de capite meo.<verse eID="Job.19.9" />
+        <verse sID="Job.19.10" osisID="Job.19.10" />Et disrupit me undique, et abiit. Excidit tanquam arborem spem meam.<verse eID="Job.19.10" />
+        <verse sID="Job.19.11" osisID="Job.19.11" />Saevissime abusus est me in iracundia, et arbitratus est me tanquam inimicum.<verse eID="Job.19.11" />
+        <verse sID="Job.19.12" osisID="Job.19.12" />Simul venerunt tentationes eius, et fecerunt per me viam suam, et circumdederunt tabernaculum meum.<verse eID="Job.19.12" />
+        <verse sID="Job.19.13" osisID="Job.19.13" />Fratres mei recesserunt, cognoverunt alienos magis quam me. Et amici mei immisericordes facit sunt.<verse eID="Job.19.13" />
+        <verse sID="Job.19.14" osisID="Job.19.14" />Non curaverunt me proximi mei, et scientes nomen meum, obliti sunt me.<verse eID="Job.19.14" />
+        <verse sID="Job.19.15" osisID="Job.19.15" />Vicini domus, atque ancillae meae, quasi alienum reputaverunt me. Extraneus eram coram eis.<verse eID="Job.19.15" />
+        <verse sID="Job.19.16" osisID="Job.19.16" />Servum meum vocavi, et non respondit. Os meum deprecabatur.<verse eID="Job.19.16" />
+        <verse sID="Job.19.17" osisID="Job.19.17" />Et rogabam uxorem meam. Invocabam blandiens filios uteri mei,<verse eID="Job.19.17" />
+        <verse sID="Job.19.18" osisID="Job.19.18" />Et illi in perpetuum despexerunt me, cum surrexero, loquentur ad me.<verse eID="Job.19.18" />
+        <verse sID="Job.19.19" osisID="Job.19.19" />Abominati sunt me, qui noverant me. Et quos dilexeram, consurrexerunt in me.<verse eID="Job.19.19" />
+        <verse sID="Job.19.20" osisID="Job.19.20" />In cute computruerunt carnes meae, et ossa mea in dentibus meis sunt.<verse eID="Job.19.20" />
+        <verse sID="Job.19.21" osisID="Job.19.21" />Miseremini mihi, miseremini mei, o amici, manus enim Domini est, quae me tetigit.<verse eID="Job.19.21" />
+        <verse sID="Job.19.22" osisID="Job.19.22" />Quare me persequimini sicut et Dominus. De carnibus meis non satiamini?<verse eID="Job.19.22" />
+        <verse sID="Job.19.23" osisID="Job.19.23" />Quis mihi tribuat ut scribantur sermones mei, et ponantur in libro in perpetuum<verse eID="Job.19.23" />
+        <verse sID="Job.19.24" osisID="Job.19.24" />In stylo ferreo, et plumbo. Aut in testimoniis in petris sculpantur?<verse eID="Job.19.24" />
+        <verse sID="Job.19.25" osisID="Job.19.25" />Scio enim quia aeternus est, qui me resoluturus est, super terram,<verse eID="Job.19.25" />
+        <verse sID="Job.19.26" osisID="Job.19.26" />Resurget cutis mea, quae haec patitur, a Domino enim mihi haec contigerunt,<verse eID="Job.19.26" />
+        <verse sID="Job.19.27" osisID="Job.19.27" />Quorum ego mihi conscius sum. Quae oculus meus vidit, et non alius, et omnia mihi consummata sunt in sinu.<verse eID="Job.19.27" />
+        <verse sID="Job.19.28" osisID="Job.19.28" />Quod et si dixeritis, Quid dicemus contra eum, et radicem sermonis inveniemus in eo?<verse eID="Job.19.28" />
+        <verse sID="Job.19.29" osisID="Job.19.29" />Timete et vos a gladio, ira enim super iniquos veniet, et tunc cognoscetis quia est iudicium.<verse eID="Job.19.29" />
+      </p>
+      <chapter eID="Job.19" />
+      <chapter sID="Job.20" osisID="Job.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Job.20.1" osisID="Job.20.1" />Respondens autem Sophar Minaeus, ait,<verse eID="Job.20.1" />
+        <verse sID="Job.20.2" osisID="Job.20.2" />Non sic sperabam contradicturum te haec. Nec enim intelligis magis quam ego.<verse eID="Job.20.2" />
+        <verse sID="Job.20.3" osisID="Job.20.3" />Eruditionem confusionis meae audiam, et spiritus sapientiae respondebit mihi?<verse eID="Job.20.3" />
+        <verse sID="Job.20.4" osisID="Job.20.4" />Nunquid haec nosti a saeculis, ex quo positus est homo super terram?<verse eID="Job.20.4" />
+        <verse sID="Job.20.5" osisID="Job.20.5" />Iocunditas impiorum ruina magna est, et gaudium iniquorum perditio est.<verse eID="Job.20.5" />
+        <verse sID="Job.20.6" osisID="Job.20.6" />Si ascenderint in coelum munera eius, et victima eius nubes tetigerit.<verse eID="Job.20.6" />
+        <verse sID="Job.20.7" osisID="Job.20.7" />Cum putaverit se iam stabilem esse, in sine peribit, et qui noverunt eum, dicent, Ubi est?<verse eID="Job.20.7" />
+        <verse sID="Job.20.8" osisID="Job.20.8" />Tanquam somnus avolans nusquam comparet, et volavit velut phantasma nocturnum.<verse eID="Job.20.8" />
+        <verse sID="Job.20.9" osisID="Job.20.9" />Oculus videbit, et non adiiciet. Et ultra non cernet eum locus eius.<verse eID="Job.20.9" />
+        <verse sID="Job.20.10" osisID="Job.20.10" />Filios eius disperdat impius, et manus eius succendantur doloribus.<verse eID="Job.20.10" />
+        <verse sID="Job.20.11" osisID="Job.20.11" />Ossa eius repleta sunt in iuventute eius, et cum illo in cinere dormient.<verse eID="Job.20.11" />
+        <verse sID="Job.20.12" osisID="Job.20.12" />Si dulcis fuerit in ore eius malitia, abscondet eam sub lingua sua.<verse eID="Job.20.12" />
+        <verse sID="Job.20.13" osisID="Job.20.13" />Parcet ei, et non relinquet eam, et tenebit eam in medio gutture suo,<verse eID="Job.20.13" />
+        <verse sID="Job.20.14" osisID="Job.20.14" />Et non poterit subvenire sibi, fel aspidis in ventre eius.<verse eID="Job.20.14" />
+        <verse sID="Job.20.15" osisID="Job.20.15" />Divitiae inique congregatae evomentur, de domo eius protrahet eum angelus.<verse eID="Job.20.15" />
+        <verse sID="Job.20.16" osisID="Job.20.16" />Et furorem draconem mulcebit, interficiat illum lingua colubri.<verse eID="Job.20.16" />
+        <verse sID="Job.20.17" osisID="Job.20.17" />Et non videat mulcturam pecorum, neque pabula, mellis, et butyri.<verse eID="Job.20.17" />
+        <verse sID="Job.20.18" osisID="Job.20.18" />In vanum et frustra laboravit, divitias, de quibus non est gustaturus. Quae egerentur, ut durum quid, quod mandi non potest, nec glutiri.<verse eID="Job.20.18" />
+        <verse sID="Job.20.19" osisID="Job.20.19" />Multorum enim validorum domos confregit, et habitacula diruit, nec instauravit.<verse eID="Job.20.19" />
+        <verse sID="Job.20.20" osisID="Job.20.20" />Non est falus substantiae eius, in desiderio suo non salvabitur.<verse eID="Job.20.20" />
+        <verse sID="Job.20.21" osisID="Job.20.21" />Non erunt reliquiae de cibis eius. Ideo non florebunt bona eius.<verse eID="Job.20.21" />
+        <verse sID="Job.20.22" osisID="Job.20.22" />Cum putaverit se repletum esse, coarctabitur, et omnis necessitas super eum veniet.<verse eID="Job.20.22" />
+        <verse sID="Job.20.23" osisID="Job.20.23" />Si quomodo impleat ventrem suum, et emittet super eum furorem iracundiae, pluet super eum dolorem,<verse eID="Job.20.23" />
+        <verse sID="Job.20.24" osisID="Job.20.24" />Et non liberabitur de manu gladii, vulneret eum sagitta aerea.<verse eID="Job.20.24" />
+        <verse sID="Job.20.25" osisID="Job.20.25" />Pertranseat corpus eius iaculum. Fulgura in habitaculis eius discurrant super eum terribiliter,<verse eID="Job.20.25" />
+        <verse sID="Job.20.26" osisID="Job.20.26" />Et omnes tenebrae in eo maneant, comedat eum ignis inexstinguibilis. Laedat advena domum eius,<verse eID="Job.20.26" />
+        <verse sID="Job.20.27" osisID="Job.20.27" />Et detegat coelum iniquitates eius, terra adversetur ei.<verse eID="Job.20.27" />
+        <verse sID="Job.20.28" osisID="Job.20.28" />Trahat domum eius perditio in finem. Dies irae superveniat illi.<verse eID="Job.20.28" />
+        <verse sID="Job.20.29" osisID="Job.20.29" />Haec pars hominis impii a Domino et possessio bonorum eius ab episcopo.<verse eID="Job.20.29" />
+      </p>
+      <chapter eID="Job.20" />
+      <chapter sID="Job.21" osisID="Job.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Job.21.1" osisID="Job.21.1" />Respondens autem Iob, ait,<verse eID="Job.21.1" />
+        <verse sID="Job.21.2" osisID="Job.21.2" />Audite, audite sermones meos, et non sit mihi a vobis haec consolatio.<verse eID="Job.21.2" />
+        <verse sID="Job.21.3" osisID="Job.21.3" />Sufferte me, ego autem loquar, et ita demum ridebitis me.<verse eID="Job.21.3" />
+        <verse sID="Job.21.4" osisID="Job.21.4" />Quid enim? Nunquid humana est castigatio mea? Aut quare non irascar?<verse eID="Job.21.4" />
+        <verse sID="Job.21.5" osisID="Job.21.5" />Respicite ad me, et admiramini, et ponite manum sub mento,<verse eID="Job.21.5" />
+        <verse sID="Job.21.6" osisID="Job.21.6" />Si enim recorder, perturbor, et tenentur carnes meae doloribus.<verse eID="Job.21.6" />
+        <verse sID="Job.21.7" osisID="Job.21.7" />Quare impii vivunt, et senuerunt in divitiis?<verse eID="Job.21.7" />
+        <verse sID="Job.21.8" osisID="Job.21.8" />Semen eorum secundum desiderium animae, et nepotes eorum ante oculos.<verse eID="Job.21.8" />
+        <verse sID="Job.21.9" osisID="Job.21.9" />Domus eorum abundantes, et timor nusquam, nec flagellum Domini est super eos.<verse eID="Job.21.9" />
+        <verse sID="Job.21.10" osisID="Job.21.10" />Vaccae eorum concipientes non abortant, et feta eorum salvavit, et peperit.<verse eID="Job.21.10" />
+        <verse sID="Job.21.11" osisID="Job.21.11" />Et mittunt sicut infantes suos, et permanent sicut vetustae oves eorum. Et parvuli eorum ludo se provocant.<verse eID="Job.21.11" />
+        <verse sID="Job.21.12" osisID="Job.21.12" />Tenent psalterium et citharam, et laetantur ad vocem organi.<verse eID="Job.21.12" />
+        <verse sID="Job.21.13" osisID="Job.21.13" />Et finierunt in bonis vitam suam, atque in requie inferi dormierunt.<verse eID="Job.21.13" />
+        <verse sID="Job.21.14" osisID="Job.21.14" />Dicunt autem Domino, Discede a nobis, noste vias tuas nolumus.<verse eID="Job.21.14" />
+        <verse sID="Job.21.15" osisID="Job.21.15" />Quid est Dominus quia serviemus ei? Aut quae utilitas quia obediemus ei?<verse eID="Job.21.15" />
+        <verse sID="Job.21.16" osisID="Job.21.16" />Erant autem in manibus eorum bona. Sed facta impiorum non respicit.<verse eID="Job.21.16" />
+        <verse sID="Job.21.17" osisID="Job.21.17" />Imo vero lucerna impiorum exstinguetur, et superveniet eis eversio. Dolores autem tenebunt eos ab ira.<verse eID="Job.21.17" />
+        <verse sID="Job.21.18" osisID="Job.21.18" />Et erunt sicut palea in vento, et sicut pulvis quem abstulit turbo.<verse eID="Job.21.18" />
+        <verse sID="Job.21.19" osisID="Job.21.19" />Deus, deficiant filii eius, bona eius. Redde ei, et sciet.<verse eID="Job.21.19" />
+        <verse sID="Job.21.20" osisID="Job.21.20" />Videant oculi eius necem suam, et a Domino non salvetur.<verse eID="Job.21.20" />
+        <verse sID="Job.21.21" osisID="Job.21.21" />Quia nulla voluntas eius in domo sua post eum, licet numerus mensium eius dimidiatus sit.<verse eID="Job.21.21" />
+        <verse sID="Job.21.22" osisID="Job.21.22" />Nunquid non Dominus, qui docet sensum et scientiam? Ipse etiam homicidas iudicat.<verse eID="Job.21.22" />
+        <verse sID="Job.21.23" osisID="Job.21.23" />Hic morietur in robore simplicitatis suae, totus in abundantia et felicitate.<verse eID="Job.21.23" />
+        <verse sID="Job.21.24" osisID="Job.21.24" />Intestina eius plena sunt adipe, et medulla eorum diffunditur,<verse eID="Job.21.24" />
+        <verse sID="Job.21.25" osisID="Job.21.25" />Alius vero moritur ab amaritudine animae suae, non comedens quidquam boni.<verse eID="Job.21.25" />
+        <verse sID="Job.21.26" osisID="Job.21.26" />Et simul terra dormient, et putredo operiet eos.<verse eID="Job.21.26" />
+        <verse sID="Job.21.27" osisID="Job.21.27" />Itaque scio vos audaciter mihi insistere.<verse eID="Job.21.27" />
+        <verse sID="Job.21.28" osisID="Job.21.28" />Quia dicitis, Ubi est domus principis? Et ubi est velamen in tabernaculis impiorum?<verse eID="Job.21.28" />
+        <verse sID="Job.21.29" osisID="Job.21.29" />Interrogate eos qui transeunt per viam, et signa eorum non ignorabitis.<verse eID="Job.21.29" />
+        <verse sID="Job.21.30" osisID="Job.21.30" />Quia in die perditionis salvatur malus, in diem ira deducentur.<verse eID="Job.21.30" />
+        <verse sID="Job.21.31" osisID="Job.21.31" />Quis annuntiabit coram eo viam eius? Et quae ipse fecit, qui reddet ei?<verse eID="Job.21.31" />
+        <verse sID="Job.21.32" osisID="Job.21.32" />Et ipse in sepulcra deductus est, et super acervum vigilavit.<verse eID="Job.21.32" />
+        <verse sID="Job.21.33" osisID="Job.21.33" />Dulces ei fuerunt lapillitorrentis, et post eum omnis homo sequitur, et ante eum innumerabiles.<verse eID="Job.21.33" />
+        <verse sID="Job.21.34" osisID="Job.21.34" />Quomodo ergo consolamini me inaniter? Requies enim mihi a vobis nulla est.<verse eID="Job.21.34" />
+      </p>
+      <chapter eID="Job.21" />
+      <chapter sID="Job.22" osisID="Job.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Job.22.1" osisID="Job.22.1" />Respondit autem Eliphaz Themanites, et dixit,<verse eID="Job.22.1" />
+        <verse sID="Job.22.2" osisID="Job.22.2" />Nonne Dominus est, qui docet sensum et scientiam, et habitare facit super nos intelligentiam?<verse eID="Job.22.2" />
+        <verse sID="Job.22.3" osisID="Job.22.3" />Quid enim pertinet ad Dominum, si tu sis in operibus absque crimine? Aut quid ei prodest, quia simplex est via tua?<verse eID="Job.22.3" />
+        <verse sID="Job.22.4" osisID="Job.22.4" />Aut timens te arguet te, et veniet tecum in iudicium?<verse eID="Job.22.4" />
+        <verse sID="Job.22.5" osisID="Job.22.5" />Nonne malitia tua est multa, et innumerabilia peccata tua?<verse eID="Job.22.5" />
+        <verse sID="Job.22.6" osisID="Job.22.6" />Quia pignus tulisti fratrum tuorum sine causa, et vestimentum pauperum abstulisti.<verse eID="Job.22.6" />
+        <verse sID="Job.22.7" osisID="Job.22.7" />Aquam sitientibus non dedisti, et efurientes privasti pane.<verse eID="Job.22.7" />
+        <verse sID="Job.22.8" osisID="Job.22.8" />Habitare fecisti quemquam super terram, aut miratus es personam aliquorum.<verse eID="Job.22.8" />
+        <verse sID="Job.22.9" osisID="Job.22.9" />Viduas dimisisti vacuas, et pupillos afflixisti.<verse eID="Job.22.9" />
+        <verse sID="Job.22.10" osisID="Job.22.10" />Igitur circumvenerunt te laquei, et contrivit te bellum magnum.<verse eID="Job.22.10" />
+        <verse sID="Job.22.11" osisID="Job.22.11" />Lumen tuum in tenebris conversum est, et dormientem te aqua operuit.<verse eID="Job.22.11" />
+        <verse sID="Job.22.12" osisID="Job.22.12" />Nonne qui in excelso manet, respicit, et iniuriam facientes humiliat?<verse eID="Job.22.12" />
+        <verse sID="Job.22.13" osisID="Job.22.13" />Et dixisti, Quid novit Deus? An per nebulam iudicat?<verse eID="Job.22.13" />
+        <verse sID="Job.22.14" osisID="Job.22.14" />Nubes latibulum eius, non videbitur, et ambitum coeli percurrit.<verse eID="Job.22.14" />
+        <verse sID="Job.22.15" osisID="Job.22.15" />Ergone semitam saeculi custodis, quam calcaverunt viri iniqui,<verse eID="Job.22.15" />
+        <verse sID="Job.22.16" osisID="Job.22.16" />Qui capti sunt immaturi? Fluminis decurrentis fundamenta eorum,<verse eID="Job.22.16" />
+        <verse sID="Job.22.17" osisID="Job.22.17" />Qui dicunt, Dominus quid faciet nobis? Vel quid nobis importabit Omnipotens?<verse eID="Job.22.17" />
+        <verse sID="Job.22.18" osisID="Job.22.18" />Et ipse implevit domos eorum bonis, et cogitatio impii longe est ab eo.<verse eID="Job.22.18" />
+        <verse sID="Job.22.19" osisID="Job.22.19" />Videntes iusti reserunt, et inculpabilis subsannabit eos.<verse eID="Job.22.19" />
+        <verse sID="Job.22.20" osisID="Job.22.20" />Nunquid non demolita est substantia eorum, et reliquias eorum comedit ignis?<verse eID="Job.22.20" />
+        <verse sID="Job.22.21" osisID="Job.22.21" />Esto durus, si sustinueris, deinde fructus tuus erit in bonis.<verse eID="Job.22.21" />
+        <verse sID="Job.22.22" osisID="Job.22.22" />Accipe magis ex ore eius edictum, et suscipe verba eius in corde tuo.<verse eID="Job.22.22" />
+        <verse sID="Job.22.23" osisID="Job.22.23" />Quod si reversus fueris, et humiliaveris te coram Domino, procul facies iniquitatem a tabernaculo tuo.<verse eID="Job.22.23" />
+        <verse sID="Job.22.24" osisID="Job.22.24" />Et pones illud super aggerem in petram, et in saxa torrentis Ophir.<verse eID="Job.22.24" />
+        <verse sID="Job.22.25" osisID="Job.22.25" />Erit Omnipotens adiutor tuus contra inimicos, et quasi argentum mundum igni probatum faciet te.<verse eID="Job.22.25" />
+        <verse sID="Job.22.26" osisID="Job.22.26" />Tunc coram Domino habebis fiduciam, suspiciens coelum cum hilaritate.<verse eID="Job.22.26" />
+        <verse sID="Job.22.27" osisID="Job.22.27" />Et cum oraveris ad eum, exaudiet te, votaque tua reddes.<verse eID="Job.22.27" />
+        <verse sID="Job.22.28" osisID="Job.22.28" />Et restituet tibi conversationem iustitiae, et in viis tuis erit lumen.<verse eID="Job.22.28" />
+        <verse sID="Job.22.29" osisID="Job.22.29" />Quia humiliavit semetipsum, et dices, Elevatus es superbia. Et inclinatum oculis salvabit.<verse eID="Job.22.29" />
+        <verse sID="Job.22.30" osisID="Job.22.30" />Erue innocentem, et salvaberis in munditia manuum tuarum.<verse eID="Job.22.30" />
+      </p>
+      <chapter eID="Job.22" />
+      <chapter sID="Job.23" osisID="Job.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Job.23.1" osisID="Job.23.1" />Respondens autem Iob, dixit,<verse eID="Job.23.1" />
+        <verse sID="Job.23.2" osisID="Job.23.2" />Et quidem scio quia de manu mea est increpatio, et manus eius gravis facta est super gemitum meum.<verse eID="Job.23.2" />
+        <verse sID="Job.23.3" osisID="Job.23.3" />Quis dabit scire me, et invenire eum, et venire usque ad solium eius?<verse eID="Job.23.3" />
+        <verse sID="Job.23.4" osisID="Job.23.4" />Ut dicam coram eo causam meam, et os meum impleam increpationibus?<verse eID="Job.23.4" />
+        <verse sID="Job.23.5" osisID="Job.23.5" />Et cognoscam causationes quas loquetur mihi, et sentiam quae annuntiat mihi.<verse eID="Job.23.5" />
+        <verse sID="Job.23.6" osisID="Job.23.6" />An in multa virtute diiudicabitur mecum? Nequaquam, tantum in terrore non abutatur me.<verse eID="Job.23.6" />
+        <verse sID="Job.23.7" osisID="Job.23.7" />Veritas enim et increpatio ab eo est, educet in fine iudicium meum.<verse eID="Job.23.7" />
+        <verse sID="Job.23.8" osisID="Job.23.8" />Nam et si primus ambulavero, ultra non ero, et in novissimis quomodo sciam eum?<verse eID="Job.23.8" />
+        <verse sID="Job.23.9" osisID="Job.23.9" />Ad laevam quid agam? Non apprehendam, convertetur ad dexteram, et non videbo.<verse eID="Job.23.9" />
+        <verse sID="Job.23.10" osisID="Job.23.10" />Sed scit ipse viam meam, et probabit me sicut aurum.<verse eID="Job.23.10" />
+        <verse sID="Job.23.11" osisID="Job.23.11" />Egrediar in praeceptis eius, tenuit pes meus vias eius. Custodivit, non declinabo.<verse eID="Job.23.11" />
+        <verse sID="Job.23.12" osisID="Job.23.12" />A praeceptis eius non discedam. In sinu autem meo abscondi verba eius.<verse eID="Job.23.12" />
+        <verse sID="Job.23.13" osisID="Job.23.13" />Si autem ipse iudicavit sic, quis est qui contradicat ei? Quod enim ipse voluit, et fecit.<verse eID="Job.23.13" />
+        <verse sID="Job.23.14" osisID="Job.23.14" />Propterea ad eum festinavi, et commonitus, sollicitus fui de eo.<verse eID="Job.23.14" />
+        <verse sID="Job.23.15" osisID="Job.23.15" />Idcirco a facie eius turbabor. Considerabo, et timebo ab eo.<verse eID="Job.23.15" />
+        <verse sID="Job.23.16" osisID="Job.23.16" />Et Dominus mollivit cor meum, et Omnipotens conturbavit me.<verse eID="Job.23.16" />
+        <verse sID="Job.23.17" osisID="Job.23.17" />Nec enim sciebam quod supervenirent mihi tenebrae, et ante faciem meam tegeret caligo.<verse eID="Job.23.17" />
+      </p>
+      <chapter eID="Job.23" />
+      <chapter sID="Job.24" osisID="Job.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Job.24.1" osisID="Job.24.1" />Quare Dominum non latuerunt horae, impii autem nescierunt dies eius?<verse eID="Job.24.1" />
+        <verse sID="Job.24.2" osisID="Job.24.2" />Finem transgressi sunt, gregem cum pastore rapientes paverunt.<verse eID="Job.24.2" />
+        <verse sID="Job.24.3" osisID="Job.24.3" />Iumentum pupillorum abegerunt, et bovem viduae pignoraverunt.<verse eID="Job.24.3" />
+        <verse sID="Job.24.4" osisID="Job.24.4" />Et inclinaverunt pauperes via iusta, simul abscondit sunt mites terrae.<verse eID="Job.24.4" />
+        <verse sID="Job.24.5" osisID="Job.24.5" />Et irruerunt sicut asini feri in agro super me, exeuntes ad opus suum, suavis factus est eis panis in adolescentes.<verse eID="Job.24.5" />
+        <verse sID="Job.24.6" osisID="Job.24.6" />Agrum ante tempus non suum demessuerunt, infirmi vineas impiorum absque mercede et cibo coluerunt.<verse eID="Job.24.6" />
+        <verse sID="Job.24.7" osisID="Job.24.7" />Nudos multos fecerunt domire sine vestimentis, et tegumen in frigore abstulerunt.<verse eID="Job.24.7" />
+        <verse sID="Job.24.8" osisID="Job.24.8" />De stillicidiis montium madescent, qui cum tegumen non haberent, petra operti sunt.<verse eID="Job.24.8" />
+        <verse sID="Job.24.9" osisID="Job.24.9" />Rapuerunt ab ubere pupillu, et eum qui ceciderat humiliaverunt.<verse eID="Job.24.9" />
+        <verse sID="Job.24.10" osisID="Job.24.10" />Nudos fecerunt dormire inique, et esurientium abstulerunt panem.<verse eID="Job.24.10" />
+        <verse sID="Job.24.11" osisID="Job.24.11" />In angustiis inique insidiati sunt, viam autem iustitiae ignoraverunt.<verse eID="Job.24.11" />
+        <verse sID="Job.24.12" osisID="Job.24.12" />De civitate, et de domibus vi eiiciebantur. Anima vero parvulorum in gemitu valde, ipse autem Deus eorum curam non habuit.<verse eID="Job.24.12" />
+        <verse sID="Job.24.13" osisID="Job.24.13" />Cum essent super terram, et ignorarent viam iustitiae, non ambulaverunt in semitis eius,<verse eID="Job.24.13" />
+        <verse sID="Job.24.14" osisID="Job.24.14" />Et sciens eorum opera, tradidit eos in tenebras. Et nocte erit sicut fur.<verse eID="Job.24.14" />
+        <verse sID="Job.24.15" osisID="Job.24.15" />Oculus adulteri observat tenebras, dicens, Non videbit me oculus, et latibulum faciei posuit.<verse eID="Job.24.15" />
+        <verse sID="Job.24.16" osisID="Job.24.16" />Suffodit in tenebris domos, per diem obsignaverunt semetipsos. Non cognorverunt lucem,<verse eID="Job.24.16" />
+        <verse sID="Job.24.17" osisID="Job.24.17" />Quia simul eis mane umbra mortis.<verse eID="Job.24.17" />
+        <verse sID="Job.24.18" osisID="Job.24.18" />Levis est super faciem aquae, maledicatur pars eorum super terram. Appareant plantationes eorum super terram aridae.<verse eID="Job.24.18" />
+        <verse sID="Job.24.19" osisID="Job.24.19" />De sinu enim pupillorum rapuerunt. Deinde rememoratum est peccatum eius.<verse eID="Job.24.19" />
+        <verse sID="Job.24.20" osisID="Job.24.20" />Sicut nebula roris, nusquam comparuit. Retribuatur illi sicut egit, conteratur sicut lignum insanabile omnis iniquus.<verse eID="Job.24.20" />
+        <verse sID="Job.24.21" osisID="Job.24.21" />Sterili enim non fecit bene, et mulieris non est misertus.<verse eID="Job.24.21" />
+        <verse sID="Job.24.22" osisID="Job.24.22" />In ira evertit infirmos, consurgens ergo non credit contra vitam suam.<verse eID="Job.24.22" />
+        <verse sID="Job.24.23" osisID="Job.24.23" />Cum infirmari coeperit, non speret sanitatem, sed cadet in languore.<verse eID="Job.24.23" />
+        <verse sID="Job.24.24" osisID="Job.24.24" />Multos enim afflixit altitudo eius, emarcuit sicut malva in aestu, aut sicut de stipula spica sponte decidens.<verse eID="Job.24.24" />
+        <verse sID="Job.24.25" osisID="Job.24.25" />Alioquin, quis est qui loquatur mendacium me dicere, et ponet in nihilum verba mea?<verse eID="Job.24.25" />
+      </p>
+      <chapter eID="Job.24" />
+      <chapter sID="Job.25" osisID="Job.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Job.25.1" osisID="Job.25.1" />Respondens autem Baldad Sauchites, dixit,<verse eID="Job.25.1" />
+        <verse sID="Job.25.2" osisID="Job.25.2" />Quid enim exordium quam timor ab eo qui facit universa in excelso?<verse eID="Job.25.2" />
+        <verse sID="Job.25.3" osisID="Job.25.3" />Nemo enim puret esse moram piratis, in quem enim non venient insidiae ab eo?<verse eID="Job.25.3" />
+        <verse sID="Job.25.4" osisID="Job.25.4" />Aut quomodo erit homo iustus coram Domino? Vel quomodo se mundabit natus ex muliere?<verse eID="Job.25.4" />
+        <verse sID="Job.25.5" osisID="Job.25.5" />Si lunae praecipit, et non lucet, nec stellae sunt mundae ante eum.<verse eID="Job.25.5" />
+        <verse sID="Job.25.6" osisID="Job.25.6" />Quanto magis homo putredo, aut filius hominis vermis?<verse eID="Job.25.6" />
+      </p>
+      <chapter eID="Job.25" />
+      <chapter sID="Job.26" osisID="Job.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Job.26.1" osisID="Job.26.1" />Respondens autem Iob, dixit,<verse eID="Job.26.1" />
+        <verse sID="Job.26.2" osisID="Job.26.2" />Cui ades, vel quem adiuturus es? Nonne eum, cui multa virtus est, et brachium forte?<verse eID="Job.26.2" />
+        <verse sID="Job.26.3" osisID="Job.26.3" />Cui tu das consilium? Nonne cui omnis est sapientia? Vel quem sequeris? Nonne eum, cui magna est fortitudo?<verse eID="Job.26.3" />
+        <verse sID="Job.26.4" osisID="Job.26.4" />Cui annuntiasti sermones? Aut spiramen cuius est, quod exit a te?<verse eID="Job.26.4" />
+        <verse sID="Job.26.5" osisID="Job.26.5" />Nunquid gigantes redigentur in nibilum subter aquam, et proximi eorum?<verse eID="Job.26.5" />
+        <verse sID="Job.26.6" osisID="Job.26.6" />Nudus infernus coram eo, et non est velamen perditioni.<verse eID="Job.26.6" />
+        <verse sID="Job.26.7" osisID="Job.26.7" />Extendens aquilonem super nibilum, suspendens terram super nibilum in aerem,<verse eID="Job.26.7" />
+        <verse sID="Job.26.8" osisID="Job.26.8" />Ligans aquam in nubibus suis, et non est scissa nubes ab eo.<verse eID="Job.26.8" />
+        <verse sID="Job.26.9" osisID="Job.26.9" />Qui tenet faciem solii, et extendens super eum nubem suam.<verse eID="Job.26.9" />
+        <verse sID="Job.26.10" osisID="Job.26.10" />Praeceptum circumdedit super faciem aquae, usque ad consummationem lucis.<verse eID="Job.26.10" />
+        <verse sID="Job.26.11" osisID="Job.26.11" />Columnae (lucis) coeli intremuerunt, et obstupuerunt ab increpatione eius.<verse eID="Job.26.11" />
+        <verse sID="Job.26.12" osisID="Job.26.12" />Virtute sua sedavit mare. Prudentia eius vulneratus est cetus,<verse eID="Job.26.12" />
+        <verse sID="Job.26.13" osisID="Job.26.13" />Et claustra coeli metuunt eum, praecepto autem peremit draconem desertorem.<verse eID="Job.26.13" />
+        <verse sID="Job.26.14" osisID="Job.26.14" />Ecce, hae partes eius viae eius, et adhuc stillam sermonis audivimus de eo. Virtutem autem tonitrui eius quis sciet quando faciet?<verse eID="Job.26.14" />
+      </p>
+      <chapter eID="Job.26" />
+      <chapter sID="Job.27" osisID="Job.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Job.27.1" osisID="Job.27.1" />Et adiecit Iob ab prooemium suum, et dixit,<verse eID="Job.27.1" />
+        <verse sID="Job.27.2" osisID="Job.27.2" />Vivit Dominus, qui sic me iudicavit, et Omnipotens, qui amaricavit animam meam,<verse eID="Job.27.2" />
+        <verse sID="Job.27.3" osisID="Job.27.3" />Quia donec spiratio mea est in me, et spiritus divinus in naribus meis,<verse eID="Job.27.3" />
+        <verse sID="Job.27.4" osisID="Job.27.4" />Non loquentur labia mea iniusta, nec anima mea meditabitur iniqua.<verse eID="Job.27.4" />
+        <verse sID="Job.27.5" osisID="Job.27.5" />Absit a me iustos vos dicere, donec moriar, nec enim separabo innocentiam meam a me.<verse eID="Job.27.5" />
+        <verse sID="Job.27.6" osisID="Job.27.6" />Iustitiam meam tenebo, et non dimittam, nec enim conscius sum mihi iniquum quid commisisse.<verse eID="Job.27.6" />
+        <verse sID="Job.27.7" osisID="Job.27.7" />Itaque sunt inimici mei sicut eversio impiorum, et qui in me insurgunt, sicut perditio iniquorum.<verse eID="Job.27.7" />
+        <verse sID="Job.27.8" osisID="Job.27.8" />Quae enim spes est impio, quia exspectat et confidit in Domino, si forte salvatur,<verse eID="Job.27.8" />
+        <verse sID="Job.27.9" osisID="Job.27.9" />Aut preces eius exaudiat Dominus? Aut si venerit ei necessitas,<verse eID="Job.27.9" />
+        <verse sID="Job.27.10" osisID="Job.27.10" />Nunquid habet aliquam siduciam in conspectu eius? Aut cum invocaverit eum, exaudiet illum?<verse eID="Job.27.10" />
+        <verse sID="Job.27.11" osisID="Job.27.11" />Quapropter annuntiabo vobis quid sit in manu Domini. Quae sunt ab Omnipotente non mentiar.<verse eID="Job.27.11" />
+        <verse sID="Job.27.12" osisID="Job.27.12" />Ecce, omnes nostis, quia vane loquimini.<verse eID="Job.27.12" />
+        <verse sID="Job.27.13" osisID="Job.27.13" />Haec est pars hominis impii a Domino. Possessio vero potentium veniet ab Omnipotente super eos.<verse eID="Job.27.13" />
+        <verse sID="Job.27.14" osisID="Job.27.14" />Quod si multi fuerint filii eius, in occisione erunt. Si autem et iuvenes facti fuerint, indigebunt.<verse eID="Job.27.14" />
+        <verse sID="Job.27.15" osisID="Job.27.15" />Et qui circa eum sunt, morte morientur, et viduis eorum nemo miserebitur.<verse eID="Job.27.15" />
+        <verse sID="Job.27.16" osisID="Job.27.16" />Quod si et collegerit ut terram argentum, et velut lutum paraverit aurum.<verse eID="Job.27.16" />
+        <verse sID="Job.27.17" osisID="Job.27.17" />Haec omnia iusti consequentur, et substantiam eius veraces possidebunt,<verse eID="Job.27.17" />
+        <verse sID="Job.27.18" osisID="Job.27.18" />Erunt enim eorum domus sicut tinea, et aranea quae servavit.<verse eID="Job.27.18" />
+        <verse sID="Job.27.19" osisID="Job.27.19" />Dives dormiet, et non adiiciet. Oculos suos aperuit, et non est.<verse eID="Job.27.19" />
+        <verse sID="Job.27.20" osisID="Job.27.20" />Occurrent ei quasi aqua dolores, nocte auferet eum caligo.<verse eID="Job.27.20" />
+        <verse sID="Job.27.21" osisID="Job.27.21" />Tollet eum astus, et abibit, et ventilabit eum de loco suo.<verse eID="Job.27.21" />
+        <verse sID="Job.27.22" osisID="Job.27.22" />Et proiiciet super eum, et non parcet, de manu enim eius fuga fugiet.<verse eID="Job.27.22" />
+        <verse sID="Job.27.23" osisID="Job.27.23" />Plaudet super eum manibus suis, et trahet eum de loco suo.<verse eID="Job.27.23" />
+      </p>
+      <chapter eID="Job.27" />
+      <chapter sID="Job.28" osisID="Job.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="Job.28.1" osisID="Job.28.1" />Est enim argento locus, unde fit. Locus autem auro, ubi purgatur.<verse eID="Job.28.1" />
+        <verse sID="Job.28.2" osisID="Job.28.2" />Ferrum enim de terra sit. Aes autem similiter ut lapis exciditur.<verse eID="Job.28.2" />
+        <verse sID="Job.28.3" osisID="Job.28.3" />Ordinem posuit tenebris, et omnem sinem ipse invenit, lapis tenebrae, et umbrae mortis.<verse eID="Job.28.3" />
+        <verse sID="Job.28.4" osisID="Job.28.4" />Discissio torrentis a cinere, qui vero obliviscuntur viam iustitiae, firmati sunt ab hominibus, et commoti sunt.<verse eID="Job.28.4" />
+        <verse sID="Job.28.5" osisID="Job.28.5" />Terra de qua egressus est panis, super eam versus est quasi ignis.<verse eID="Job.28.5" />
+        <verse sID="Job.28.6" osisID="Job.28.6" />Locus sapphiri lapides eius, et aurum eius agger est.<verse eID="Job.28.6" />
+        <verse sID="Job.28.7" osisID="Job.28.7" />Semitam quam non cognovit avis, nec vidit eam oculus vulturis.<verse eID="Job.28.7" />
+        <verse sID="Job.28.8" osisID="Job.28.8" />Nec calcaverunt eam filii arrogantium, nec transiit super eam leo.<verse eID="Job.28.8" />
+        <verse sID="Job.28.9" osisID="Job.28.9" />In durissimo lapide extendit manum suam, vertit enim ab stirpibus montes.<verse eID="Job.28.9" />
+        <verse sID="Job.28.10" osisID="Job.28.10" />Et ripas fluminum disrupit. Omne vero pretiosum vidit oculus eius.<verse eID="Job.28.10" />
+        <verse sID="Job.28.11" osisID="Job.28.11" />Altitudines fluminum revelavit, ostenditque virtutem suam in lumine.<verse eID="Job.28.11" />
+        <verse sID="Job.28.12" osisID="Job.28.12" />Sapientia vero unde inventa est? Vel quis sit locus scientiae?<verse eID="Job.28.12" />
+        <verse sID="Job.28.13" osisID="Job.28.13" />Ignorat mortalis viam eius, nec invenietur in hominibus.<verse eID="Job.28.13" />
+        <verse sID="Job.28.14" osisID="Job.28.14" />Abyssus dixit, Non est in me, et mare dixit, Non est mecum.<verse eID="Job.28.14" />
+        <verse sID="Job.28.15" osisID="Job.28.15" />Non dabitur aurum conclusum pro ea, et non appendetur argentum in commutatione eius.<verse eID="Job.28.15" />
+        <verse sID="Job.28.16" osisID="Job.28.16" />Non erit deterior auro Ophir, onyche pretioso, et sapphiro.<verse eID="Job.28.16" />
+        <verse sID="Job.28.17" osisID="Job.28.17" />Non aquabitur ei aurum et vitrum, nec commutatio eius vasa aurea.<verse eID="Job.28.17" />
+        <verse sID="Job.28.18" osisID="Job.28.18" />Et excelsa, et Gabis non erunt in memoria, et trabes sapientiam de occultis.<verse eID="Job.28.18" />
+        <verse sID="Job.28.19" osisID="Job.28.19" />Non componetur ei topazium Aethiopiae, auro mundo non comparabitur.<verse eID="Job.28.19" />
+        <verse sID="Job.28.20" osisID="Job.28.20" />Sapientia unde inventa est? Quis autem locus est intellectus?<verse eID="Job.28.20" />
+        <verse sID="Job.28.21" osisID="Job.28.21" />Latet ab oculis omnis hominis, et a volucrum coeli abscondita est.<verse eID="Job.28.21" />
+        <verse sID="Job.28.22" osisID="Job.28.22" />Perditio et mors dixerunt, Audivimus eius gloriam.<verse eID="Job.28.22" />
+        <verse sID="Job.28.23" osisID="Job.28.23" />Dominus commendavit viam eius, et ipse novit locum eius,<verse eID="Job.28.23" />
+        <verse sID="Job.28.24" osisID="Job.28.24" />Ipse enim omne, quod est sub coelo, perfecit. Et novit quae sunt in terra,<verse eID="Job.28.24" />
+        <verse sID="Job.28.25" osisID="Job.28.25" />Qui omnia fecit Ventorum libramenta, aquae mensuras,<verse eID="Job.28.25" />
+        <verse sID="Job.28.26" osisID="Job.28.26" />Quoniam haec fecit, sicut vidit, et fecit, et viam tempestatis vocibus.<verse eID="Job.28.26" />
+        <verse sID="Job.28.27" osisID="Job.28.27" />Tunc vidit eam, et exposuit eam, paravit, et investigavit.<verse eID="Job.28.27" />
+        <verse sID="Job.28.28" osisID="Job.28.28" />Dixit autem homini, Ecce pietas est sapientia. Abstinere vero a malis, scientia.<verse eID="Job.28.28" />
+      </p>
+      <chapter eID="Job.28" />
+      <chapter sID="Job.29" osisID="Job.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="Job.29.1" osisID="Job.29.1" />Et adiecit Iob ad praefationem, dicens,<verse eID="Job.29.1" />
+        <verse sID="Job.29.2" osisID="Job.29.2" />Quisnam me restituet in menses priorum dierum, in quibus Dominus custodiebat me?<verse eID="Job.29.2" />
+        <verse sID="Job.29.3" osisID="Job.29.3" />Cum lucebat lucerna eius super meum caput, cum in lumine eius ambulabam in tenebris?<verse eID="Job.29.3" />
+        <verse sID="Job.29.4" osisID="Job.29.4" />Cum eram florens in viis, cum Dominus inspiceret domum meam,<verse eID="Job.29.4" />
+        <verse sID="Job.29.5" osisID="Job.29.5" />Et essem in abundantia magna, et circum me pueri mei?<verse eID="Job.29.5" />
+        <verse sID="Job.29.6" osisID="Job.29.6" />Cum flueret per vias meas butyrum, cum montes mei abundarent lacte?<verse eID="Job.29.6" />
+        <verse sID="Job.29.7" osisID="Job.29.7" />Cum exirem matutinis in civitatem, et in plateis ponebatur mihi sella?<verse eID="Job.29.7" />
+        <verse sID="Job.29.8" osisID="Job.29.8" />Videntes me adolescentes abscondebantur. Senes autem omnes assurgebant.<verse eID="Job.29.8" />
+        <verse sID="Job.29.9" osisID="Job.29.9" />Et potentes cessaverunt loqui, digitum ponentes ad os suum.<verse eID="Job.29.9" />
+        <verse sID="Job.29.10" osisID="Job.29.10" />Et audientes me felicem dixerunt, et lingua eorum gutturi eorum adhaesit.<verse eID="Job.29.10" />
+        <verse sID="Job.29.11" osisID="Job.29.11" />Quia auris audivit, et beatificavit me. Et oculus videns me, declinavit,<verse eID="Job.29.11" />
+        <verse sID="Job.29.12" osisID="Job.29.12" />Liberavi enim pauperem de manu potentis, et pupillo, cui non erat adiutorium, auxilium detuli.<verse eID="Job.29.12" />
+        <verse sID="Job.29.13" osisID="Job.29.13" />Benedictio perituri super me veniebat, et os viduae benedixit me.<verse eID="Job.29.13" />
+        <verse sID="Job.29.14" osisID="Job.29.14" />Iustitiaque indutus eram, et vestiebar iudicio sicut chlamyde.<verse eID="Job.29.14" />
+        <verse sID="Job.29.15" osisID="Job.29.15" />Oculus eram caecorum, et pes claudorum.<verse eID="Job.29.15" />
+        <verse sID="Job.29.16" osisID="Job.29.16" />Ego eram pater invalidorum, iudicium quod non noveram, exquisivi.<verse eID="Job.29.16" />
+        <verse sID="Job.29.17" osisID="Job.29.17" />Confregi molas iniquorum, et de medio dentium eorum rapinas extorsi.<verse eID="Job.29.17" />
+        <verse sID="Job.29.18" osisID="Job.29.18" />Dixi enim, Aetas mea senescet. Sicut arbor palmae, multo vivam tempore.<verse eID="Job.29.18" />
+        <verse sID="Job.29.19" osisID="Job.29.19" />Radix mea patet ad aquas, et ros morabitur in messe mea.<verse eID="Job.29.19" />
+        <verse sID="Job.29.20" osisID="Job.29.20" />Gloria mea nova mecum, et arcus meus in manu mea gradietur.<verse eID="Job.29.20" />
+        <verse sID="Job.29.21" osisID="Job.29.21" />Me audientes intuiti sunt, et tacuerunt in meo consilio.<verse eID="Job.29.21" />
+        <verse sID="Job.29.22" osisID="Job.29.22" />Et in sermone meo non adiecerunt, sed gavisi sunt cum loquerer eis.<verse eID="Job.29.22" />
+        <verse sID="Job.29.23" osisID="Job.29.23" />Sicut terra sitiens exspectat pluviam, sic isti mecum sermonem.<verse eID="Job.29.23" />
+        <verse sID="Job.29.24" osisID="Job.29.24" />Quod si et riderem ad eos, non credebant, et lux vultus mei non concidebat.<verse eID="Job.29.24" />
+        <verse sID="Job.29.25" osisID="Job.29.25" />Elegi viam eorum, et sedi princeps. Et habitabam sicut rex cinctus fortibus, quasi tristes consolans.<verse eID="Job.29.25" />
+      </p>
+      <chapter eID="Job.29" />
+      <chapter sID="Job.30" osisID="Job.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="Job.30.1" osisID="Job.30.1" />Nunc autem derident me infimi, nunc monent me minores tempore, quorum spernens parentes,<verse eID="Job.30.1" />
+        <verse sID="Job.30.2" osisID="Job.30.2" />Et virtus manuum eorum quasi nihilum mihi erat, in eis periebat omnis vita.<verse eID="Job.30.2" />
+        <verse sID="Job.30.3" osisID="Job.30.3" />In egestate et fame instabiles. Qui fugiebant in desertum heri, propter angustias et miserias.<verse eID="Job.30.3" />
+        <verse sID="Job.30.4" osisID="Job.30.4" />Qui rodebant cortices arborum, quorum erat cibus radix herbarum.<verse eID="Job.30.4" />
+        <verse sID="Job.30.5" osisID="Job.30.5" />Inhonorati et subiecti, et egentes omni bono. Qui radices lignorum manducabant, propter famem magnam. Insurrexerunt in me fures,<verse eID="Job.30.5" />
+        <verse sID="Job.30.6" osisID="Job.30.6" />Quorum domus erant cavernae petrarum,<verse eID="Job.30.6" />
+        <verse sID="Job.30.7" osisID="Job.30.7" />Et inter arbores clamabant. Qui sub stirpibus terrae manebant.<verse eID="Job.30.7" />
+        <verse sID="Job.30.8" osisID="Job.30.8" />Filii stultorum et ignobilium, nomen et honor exstinctus a terra.<verse eID="Job.30.8" />
+        <verse sID="Job.30.9" osisID="Job.30.9" />Nunc autem cithara eorum ego sum, et me habent fabulam.<verse eID="Job.30.9" />
+        <verse sID="Job.30.10" osisID="Job.30.10" />Abominati sunt me discedentes procul, nec in faciem meam pepercerunt spuere.<verse eID="Job.30.10" />
+        <verse sID="Job.30.11" osisID="Job.30.11" />Aperiens enim pharetram suam afflixit me, et frenum in faciem meam miserunt,<verse eID="Job.30.11" />
+        <verse sID="Job.30.12" osisID="Job.30.12" />Et a dextris germinantes consurrexerunt, pedes meos vinxerunt compedibus, et aperuerunt super me semitas perditionis suae.<verse eID="Job.30.12" />
+        <verse sID="Job.30.13" osisID="Job.30.13" />Contritae sunt semitae meae, exuit me stolam, et iaculas suis vulneravit me. Abusus est me sicut voluit.<verse eID="Job.30.13" />
+        <verse sID="Job.30.14" osisID="Job.30.14" />Doloribus involutus sum, et iterantur dolores mei.<verse eID="Job.30.14" />
+        <verse sID="Job.30.15" osisID="Job.30.15" />Discedit sicut spiritus spes mea, et sicut nubes, transiit salus mea.<verse eID="Job.30.15" />
+        <verse sID="Job.30.16" osisID="Job.30.16" />Et nunc super me effundetur anima mea. Possederunt me dies dolorum.<verse eID="Job.30.16" />
+        <verse sID="Job.30.17" osisID="Job.30.17" />Nocte vero ossa mea confracta sunt, et nervi mei dissoluti sunt.<verse eID="Job.30.17" />
+        <verse sID="Job.30.18" osisID="Job.30.18" />In multa virtute apprehendit stolam meam, et quasi ora vestimenti mei circumdedit me.<verse eID="Job.30.18" />
+        <verse sID="Job.30.19" osisID="Job.30.19" />Aestimavi me sicut lutum, in terra et cinere pars mea.<verse eID="Job.30.19" />
+        <verse sID="Job.30.20" osisID="Job.30.20" />Clamavi vero ad te, et non audisti me, steterunt, et consideraverunt me.<verse eID="Job.30.20" />
+        <verse sID="Job.30.21" osisID="Job.30.21" />Aggressus es me sine misericordia. Manu potenti verberasti me,<verse eID="Job.30.21" />
+        <verse sID="Job.30.22" osisID="Job.30.22" />Et constituisti me in doloribus, et proiecisti me a salute.<verse eID="Job.30.22" />
+        <verse sID="Job.30.23" osisID="Job.30.23" />Scio enim quod mors conteret me, domus enim est omni mortali terra.<verse eID="Job.30.23" />
+        <verse sID="Job.30.24" osisID="Job.30.24" />Atque utinam possem me interficere, aut rogare alium ut faceret mihi hoc.<verse eID="Job.30.24" />
+        <verse sID="Job.30.25" osisID="Job.30.25" />Ego autem flevi super omni invalido, et suspiravi, cum viderem virum in necessitatibus.<verse eID="Job.30.25" />
+        <verse sID="Job.30.26" osisID="Job.30.26" />Ego bona praestolabar. Ecce occurrerunt mihi magis dies malorum.<verse eID="Job.30.26" />
+        <verse sID="Job.30.27" osisID="Job.30.27" />Venter meus efferbuit, et non tacebit. Occupaverunt me dies inopiae.<verse eID="Job.30.27" />
+        <verse sID="Job.30.28" osisID="Job.30.28" />Gemens incessi sine silentio, et steti in coetu clamans.<verse eID="Job.30.28" />
+        <verse sID="Job.30.29" osisID="Job.30.29" />Frater factus sum sirenarum, et amicus filiarum struthionum.<verse eID="Job.30.29" />
+        <verse sID="Job.30.30" osisID="Job.30.30" />Cutis mea innigrata est valde, et ossa mea frixa sunt ab aestu.<verse eID="Job.30.30" />
+        <verse sID="Job.30.31" osisID="Job.30.31" />Versa est in luctum cithara mea, et psalmus meus in fletum.<verse eID="Job.30.31" />
+      </p>
+      <chapter eID="Job.30" />
+      <chapter sID="Job.31" osisID="Job.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="Job.31.1" osisID="Job.31.1" />Testamentum feci oculis meis, et non cogitavi de virgine.<verse eID="Job.31.1" />
+        <verse sID="Job.31.2" osisID="Job.31.2" />Et quae est pars alia Dei desuper, et haereditas Omnipotentis de excelsis?<verse eID="Job.31.2" />
+        <verse sID="Job.31.3" osisID="Job.31.3" />Nonne perditio erit iniquo, et abalienatio facientibus iniquitatem?<verse eID="Job.31.3" />
+        <verse sID="Job.31.4" osisID="Job.31.4" />Nonne ipse videbit viam mecum, et omnes gressus meos dinumeravit?<verse eID="Job.31.4" />
+        <verse sID="Job.31.5" osisID="Job.31.5" />Si incessi cum irrisoribus, vel si festinavit ad dolum pes meus,<verse eID="Job.31.5" />
+        <verse sID="Job.31.6" osisID="Job.31.6" />Appendat me in statera aequissima, scit autem Dominus innocentiam meam.<verse eID="Job.31.6" />
+        <verse sID="Job.31.7" osisID="Job.31.7" />Si defluxit pes meus de via, et si secutum est oculum cor meum. Si manibus meis tetigi munera,<verse eID="Job.31.7" />
+        <verse sID="Job.31.8" osisID="Job.31.8" />Seram, et alii fructus meos edant, sine stirpe sim super terram.<verse eID="Job.31.8" />
+        <verse sID="Job.31.9" osisID="Job.31.9" />Si secutum est cor meum mulierem, aut si obsedi ianuas eius,<verse eID="Job.31.9" />
+        <verse sID="Job.31.10" osisID="Job.31.10" />Placeat quoque uxor mea alteri, et filii mei humilientur.<verse eID="Job.31.10" />
+        <verse sID="Job.31.11" osisID="Job.31.11" />Furor enim animi est indomitus, commaculare viri uxorem,<verse eID="Job.31.11" />
+        <verse sID="Job.31.12" osisID="Job.31.12" />Ignis ardens est in omnibus membris. Quocunque intraverit, radicitus perdet.<verse eID="Job.31.12" />
+        <verse sID="Job.31.13" osisID="Job.31.13" />Quod si et despexi iudicium famuli mei, aut ancillae, cum iudicarentur apud me.<verse eID="Job.31.13" />
+        <verse sID="Job.31.15" osisID="Job.31.15" />Nonne sicut ego conceptus sum in utero, et illi. Et fuimus similiter in ventre?<verse eID="Job.31.15" />
+        <verse sID="Job.31.16" osisID="Job.31.16" />Infirmis autem si quid opus fuit, non denegavi. Viduae oculum non excruciavi.<verse eID="Job.31.16" />
+        <verse sID="Job.31.17" osisID="Job.31.17" />Aut si panem meum comedi solus, et non dedi pupillo ex eo.<verse eID="Job.31.17" />
+        <verse sID="Job.31.18" osisID="Job.31.18" />(Quia ab adolescentia mea enutriebam quasi pater. De ventre matris meae dux eis fui.)<verse eID="Job.31.18" />
+        <verse sID="Job.31.19" osisID="Job.31.19" />Aut si despexi nudum pereuntem, et non operui non habentem velamen.<verse eID="Job.31.19" />
+        <verse sID="Job.31.20" osisID="Job.31.20" />Infirmorum vero si non benedixerunt mihi humeri, et de tonsura ovium mearum calefacti sunt.<verse eID="Job.31.20" />
+        <verse sID="Job.31.21" osisID="Job.31.21" />Si levavi super pupillum manum meam, fidens quia multum est mihi adiutorium,<verse eID="Job.31.21" />
+        <verse sID="Job.31.22" osisID="Job.31.22" />Discedat humerus meus a iugulo meo, et brachium meum a cubito meo conteratur.<verse eID="Job.31.22" />
+        <verse sID="Job.31.23" osisID="Job.31.23" />Timor enim Domini continuit me, et a pondere eius non sustinebo.<verse eID="Job.31.23" />
+        <verse sID="Job.31.24" osisID="Job.31.24" />Si posui aurum robur meum, quod et si in lapide pretioso fidebam,<verse eID="Job.31.24" />
+        <verse sID="Job.31.25" osisID="Job.31.25" />Si et laetatus sum, cum esset mihi census multus, si et in innumerabilibus posui manum meam,<verse eID="Job.31.25" />
+        <verse sID="Job.31.26" osisID="Job.31.26" />(An non videmus solem lucentem deficere, et lunam minui? Non enim in ipsis est.)<verse eID="Job.31.26" />
+        <verse sID="Job.31.27" osisID="Job.31.27" />Et deceptum est clam cor meum. Quod si osculatus sum manum meam, ponens ad os meum,<verse eID="Job.31.27" />
+        <verse sID="Job.31.28" osisID="Job.31.28" />Et hoc mihi ad magnam iniustitiam reputetur, quia mentitus sum in conspectum Domini excelsi.<verse eID="Job.31.28" />
+        <verse sID="Job.31.29" osisID="Job.31.29" />Quod si et gavisus sum super ruina inimici mei, et dixit cor meum, Benefactum est,<verse eID="Job.31.29" />
+        <verse sID="Job.31.30" osisID="Job.31.30" />Audiat auris mea maledictionem meam. Opprobrio sim in meo populo diffamatus.<verse eID="Job.31.30" />
+        <verse sID="Job.31.31" osisID="Job.31.31" />Quod si saepe dixerunt ancillae meae, Quis det nobis ut carnibus eius satiemur? Cum satis bonus essem.<verse eID="Job.31.31" />
+        <verse sID="Job.31.32" osisID="Job.31.32" />Foris non manebat hospes, ianua mea omni advenienti patebat.<verse eID="Job.31.32" />
+        <verse sID="Job.31.33" osisID="Job.31.33" />Quod si et sponte peccans, abscondi peccatum meum,<verse eID="Job.31.33" />
+        <verse sID="Job.31.34" osisID="Job.31.34" />Nec enim erubui multitudinem populi, ne confiterer coram eis, aut si dimisi infirmum sinu vacuo exire ianuam meam.<verse eID="Job.31.34" />
+        <verse sID="Job.31.35" osisID="Job.31.35" />Quis mihi tribuat auditorem? Manum Domini si non timui. Conscriptionem si quam habeo,<verse eID="Job.31.35" />
+        <verse sID="Job.31.36" osisID="Job.31.36" />Super humeros meos levans, et coronatus publice legam,<verse eID="Job.31.36" />
+        <verse sID="Job.31.37" osisID="Job.31.37" />Et si non disrupi eam, et reddidi, nihil accipiens a debitore.<verse eID="Job.31.37" />
+        <verse sID="Job.31.38" osisID="Job.31.38" />Si super me unquam terra gemuit, at sulci eius ploraverunt simul.<verse eID="Job.31.38" />
+        <verse sID="Job.31.39" osisID="Job.31.39" />Aut si et virtutem eius comedi solus sine pretio. Aut si animam domini terrae decipiens contristavi,<verse eID="Job.31.39" />
+        <verse sID="Job.31.40" osisID="Job.31.40" />Pro tritico germinet mihi urticam, et pro hordeo spinam. Et quieverunt verba Iob.<verse eID="Job.31.40" />
+      </p>
+      <chapter eID="Job.31" />
+      <chapter sID="Job.32" osisID="Job.32" />
+      <title>Chatper 32</title>
+      <p>
+        <verse sID="Job.32.1" osisID="Job.32.1" />Cessaverunt autem et tres amici eius ultra contradicere Iob, erat enim Iob in conspectu suo iustus.<verse eID="Job.32.1" />
+        <verse sID="Job.32.2" osisID="Job.32.2" />Et iratus est furore Elius filius Barachiel Buzites, de cognatione Ram, Ausitidis regionis, Iob, iratus autem valde, quia se dixerit iustum ante Deum.<verse eID="Job.32.2" />
+        <verse sID="Job.32.3" osisID="Job.32.3" />Et tribus amicis iratus est valde, quod non potuerunt respondere contraria Iob, et aestimaverunt eum esse impium.<verse eID="Job.32.3" />
+        <verse sID="Job.32.4" osisID="Job.32.4" />Elius autem sustinuit ut daret responsum Iob, quia seniores se erant in diebus.<verse eID="Job.32.4" />
+        <verse sID="Job.32.5" osisID="Job.32.5" />Et vidit Elius quia non est responsio in ore trium virorum, et iratus est furor eius.<verse eID="Job.32.5" />
+        <verse sID="Job.32.6" osisID="Job.32.6" />Et respondens Elius filius Barachiel Buzites, dixit, Iuvenis quidem sum aetate, vos autem estis seniores, propterea tacui, timens referre vobis eruditionem meam.<verse eID="Job.32.6" />
+        <verse sID="Job.32.7" osisID="Job.32.7" />Dixi autem quia non est aetas quae loquatur, neque in multis annis noverunt sapientiam,<verse eID="Job.32.7" />
+        <verse sID="Job.32.8" osisID="Job.32.8" />Sed Spiritus est in hominibus, et inspiratio Omnipotentis qui docet eos.<verse eID="Job.32.8" />
+        <verse sID="Job.32.9" osisID="Job.32.9" />Nec enim longaevi sunt sapientes, neque senes noverunt iudicium.<verse eID="Job.32.9" />
+        <verse sID="Job.32.10" osisID="Job.32.10" />Propter quod dico, Audite me, ut referam vobis quae novi.<verse eID="Job.32.10" />
+        <verse sID="Job.32.11" osisID="Job.32.11" />Ecce patiens fui in verba vestra, et audivi vestram prudentiam, usquequo discuteretis sermones,<verse eID="Job.32.11" />
+        <verse sID="Job.32.12" osisID="Job.32.12" />Et donec intelligerem vos, et ecce non est qui arguat Iob, et respondeat sermonibus eius ex vobis.<verse eID="Job.32.12" />
+        <verse sID="Job.32.13" osisID="Job.32.13" />Ne dicatis, Invenimus sapientiam Domini, Dominus abiecit eum, et non vir.<verse eID="Job.32.13" />
+        <verse sID="Job.32.14" osisID="Job.32.14" />Necdum ad me locutus est, et in sermonibus vestris non respondebo ei.<verse eID="Job.32.14" />
+        <verse sID="Job.32.15" osisID="Job.32.15" />Obstapuerunt, non responderunt ultra. Defecerunt ab eis sermones.<verse eID="Job.32.15" />
+        <verse sID="Job.32.16" osisID="Job.32.16" />Quia ego exspectavi, et non sunt locuti, et steterunt, et non responderunt ultra.<verse eID="Job.32.16" />
+        <verse sID="Job.32.17" osisID="Job.32.17" />Respondebo et ego partem meam, et annuntiabo scientiam meam. Homini vero permisisiis loqui talia verba.<verse eID="Job.32.17" />
+        <verse sID="Job.32.18" osisID="Job.32.18" />Et adiiciens Elius, ait, Iterum loquar, plenus enim sum verborum, et angit me spiritus ventris mei.<verse eID="Job.32.18" />
+        <verse sID="Job.32.19" osisID="Job.32.19" />Venter enim meus sicut uter musto plenus, fervens, et ligatus. Et veluti follis aerarii disruptus.<verse eID="Job.32.19" />
+        <verse sID="Job.32.20" osisID="Job.32.20" />Loquar, et requiescam, aperiens labia, respondebo.<verse eID="Job.32.20" />
+        <verse sID="Job.32.21" osisID="Job.32.21" />Neque enim erubescam faciem viri, nec mortale confundar,<verse eID="Job.32.21" />
+        <verse sID="Job.32.22" osisID="Job.32.22" />Non enim scio mirari faciem. Alioquin et me tineae edunt.<verse eID="Job.32.22" />
+      </p>
+      <chapter eID="Job.32" />
+      <chapter sID="Job.33" osisID="Job.33" />
+      <title>Chatper 33</title>
+      <p>
+        <verse sID="Job.33.1" osisID="Job.33.1" />Nunc ergo Iob, audi verba mea, et loquelam meam auribus percipe.<verse eID="Job.33.1" />
+        <verse sID="Job.33.2" osisID="Job.33.2" />Ecce aperui os meum, et locuta est lingua mea in gutture meo.<verse eID="Job.33.2" />
+        <verse sID="Job.33.3" osisID="Job.33.3" />Mundum est cor meum in verbis, et sensus labiorum meorum pura intelligit.<verse eID="Job.33.3" />
+        <verse sID="Job.33.4" osisID="Job.33.4" />Spiritus divinus qui fecit me, et inspiratio Omnipotentis quae docet me.<verse eID="Job.33.4" />
+        <verse sID="Job.33.5" osisID="Job.33.5" />Si potes, da mihi responsum ad haec, sustine ista contra me, et ego contra te.<verse eID="Job.33.5" />
+        <verse sID="Job.33.6" osisID="Job.33.6" />De luto factus es tu, sicut et ego. Ex eodem facti sumus.<verse eID="Job.33.6" />
+        <verse sID="Job.33.7" osisID="Job.33.7" />Nec timor meus terrebit te, nec manus mea erit gravis super te.<verse eID="Job.33.7" />
+        <verse sID="Job.33.8" osisID="Job.33.8" />Verumtamen dixisti in auribus meis, vocem verborum tuorum audivi, qua dicis,<verse eID="Job.33.8" />
+        <verse sID="Job.33.9" osisID="Job.33.9" />Mundus sum a peccato, et sine crimine, non enim deliqui.<verse eID="Job.33.9" />
+        <verse sID="Job.33.10" osisID="Job.33.10" />Ecce querelam contra me reperit, et putat me quasi contrarium sibi.<verse eID="Job.33.10" />
+        <verse sID="Job.33.11" osisID="Job.33.11" />Posuit enim in ligno pedem meum, et custodivit omnes vias meas.<verse eID="Job.33.11" />
+        <verse sID="Job.33.12" osisID="Job.33.12" />Quomodo ergo iustus sum, et non exaudivit me? Aeternus enim est, qui est super homines.<verse eID="Job.33.12" />
+        <verse sID="Job.33.13" osisID="Job.33.13" />Dices autem, Quare iudicium non audivit, et omnem sermonem?<verse eID="Job.33.13" />
+        <verse sID="Job.33.14" osisID="Job.33.14" />Semel enim loquitur Dominus, et in secundo non consideravit illud.<verse eID="Job.33.14" />
+        <verse sID="Job.33.15" osisID="Job.33.15" />Per somnium, aut in visitatione nocturna, aut sicut incidit saevus timor in homines, cum dormiunt in cubili,<verse eID="Job.33.15" />
+        <verse sID="Job.33.16" osisID="Job.33.16" />Tunc adaperit aurem hominum. In figuris talibus horrorum illos perterrens,<verse eID="Job.33.16" />
+        <verse sID="Job.33.17" osisID="Job.33.17" />Ut avertat hominem ab iniquitate, et corpus eius a ruina eruat,<verse eID="Job.33.17" />
+        <verse sID="Job.33.18" osisID="Job.33.18" />Et pepercit animae eius a morte.<verse eID="Job.33.18" />
+        <verse sID="Job.33.19" osisID="Job.33.19" />Et iterum arguet eum in infirmitate in cubili, et multitudo ossium eius emarcuit.<verse eID="Job.33.19" />
+        <verse sID="Job.33.20" osisID="Job.33.20" />Omnemque escam non poterit sumere, et anima eius desiderabit cibum.<verse eID="Job.33.20" />
+        <verse sID="Job.33.21" osisID="Job.33.21" />Donec carnes eius tabescant, et ostendantur ossa eius inania,<verse eID="Job.33.21" />
+        <verse sID="Job.33.22" osisID="Job.33.22" />Accessitque ad mortem anima eius, et vita eius ad inferos.<verse eID="Job.33.22" />
+        <verse sID="Job.33.23" osisID="Job.33.23" />Quod si fuerint angeli mortiferi, non respondebit ei. Unus ex eis non vulnerabit eum. Si intellexerit corde converti ad Dominum, et nunciaverit homini viam suam, stultitiam suam ostenderit.<verse eID="Job.33.23" />
+        <verse sID="Job.33.24" osisID="Job.33.24" />Subveniet sibi, ut non cadat in morte, et renovabit corpus suum sicut litura in pariete, et ossa sua implebit medulla,<verse eID="Job.33.24" />
+        <verse sID="Job.33.25" osisID="Job.33.25" />Et molliet carnes suas sicut parvuli, et restituet se sortem in hominibus.<verse eID="Job.33.25" />
+        <verse sID="Job.33.26" osisID="Job.33.26" />Orabit ad Dominum, et in acceptum refertur ei. Et intrabit facie hilari cum professione, et reddet hominibus iustitiam.<verse eID="Job.33.26" />
+        <verse sID="Job.33.27" osisID="Job.33.27" />Et tunc increpabit homo semetipsum, dicens, Qualia faciebam? Et non me digne castigavi, et peccavi.<verse eID="Job.33.27" />
+        <verse sID="Job.33.28" osisID="Job.33.28" />Salva animam meam, ne veniam in corruptionem, et vita mea lucem videbit.<verse eID="Job.33.28" />
+        <verse sID="Job.33.29" osisID="Job.33.29" />Ecce, haec omnia faciet Deus, vices tres cum viro.<verse eID="Job.33.29" />
+        <verse sID="Job.33.30" osisID="Job.33.30" />Sed et eruet animam meam de morte, ut anima mea in lumine collaudet eum.<verse eID="Job.33.30" />
+        <verse sID="Job.33.31" osisID="Job.33.31" />Auribus percipe Iob, et audi me. Tace, et ego loquar.<verse eID="Job.33.31" />
+        <verse sID="Job.33.32" osisID="Job.33.32" />Si est tibi sermo, responde mihi, loquere. Volo enim iustificare te,<verse eID="Job.33.32" />
+        <verse sID="Job.33.33" osisID="Job.33.33" />Alioquin audi me, tace, et docebo te sapientiam.<verse eID="Job.33.33" />
+      </p>
+      <chapter eID="Job.33" />
+      <chapter sID="Job.34" osisID="Job.34" />
+      <title>Chatper 34</title>
+      <p>
+        <verse sID="Job.34.1" osisID="Job.34.1" />Respondens autem Elius, dixit,<verse eID="Job.34.1" />
+        <verse sID="Job.34.2" osisID="Job.34.2" />Audite sapientes verba mea, et qui habetis sapientiam, auribus percipite,<verse eID="Job.34.2" />
+        <verse sID="Job.34.3" osisID="Job.34.3" />Quia auris verba probat, et guttur gustabit cibum.<verse eID="Job.34.3" />
+        <verse sID="Job.34.4" osisID="Job.34.4" />Iudicium eligamus nobis, sententiam inter nosmetipsos, quid est bonum.<verse eID="Job.34.4" />
+        <verse sID="Job.34.5" osisID="Job.34.5" />Quia dixit Iob, Iustus sum, et Dominus abstulit iudicium meum,<verse eID="Job.34.5" />
+        <verse sID="Job.34.6" osisID="Job.34.6" />Et in iudicio meo mentitus est, violentum iaculum meum absque iniquitate.<verse eID="Job.34.6" />
+        <verse sID="Job.34.7" osisID="Job.34.7" />Quis est vir ut Iob, bibens subsannationem quasi aquam.<verse eID="Job.34.7" />
+        <verse sID="Job.34.8" osisID="Job.34.8" />Non peccans, neque impie agens, neque omnino parcens eorum, qui faciebant iniquitatem, ut iret cum viris impiis?<verse eID="Job.34.8" />
+        <verse sID="Job.34.9" osisID="Job.34.9" />Dixit enim, Non visitabitur vir, qui ambulaverit cum Deo.<verse eID="Job.34.9" />
+        <verse sID="Job.34.10" osisID="Job.34.10" />Idcirco prudentes corde audite me, Absit a Domino impietas, et ab Omnipotente turbare quod iustum est,<verse eID="Job.34.10" />
+        <verse sID="Job.34.11" osisID="Job.34.11" />Quia reddit homini opus suum, et iuxta viam suam unusquisque reperiet.<verse eID="Job.34.11" />
+        <verse sID="Job.34.12" osisID="Job.34.12" />Putas Dominum iniqua facturum, et Omnipotentem turbaturum iudicium, qui fecit terram?<verse eID="Job.34.12" />
+        <verse sID="Job.34.13" osisID="Job.34.13" />Quis est qui reficit orbem sub coelo, et quae sunt in eo omnia?<verse eID="Job.34.13" />
+        <verse sID="Job.34.14" osisID="Job.34.14" />Si enim voluerit inhibere, et spiritum eius apud se tenere,<verse eID="Job.34.14" />
+        <verse sID="Job.34.15" osisID="Job.34.15" />Morietur omnis caro simul, et omnis homo ibit in terram unde formatus est.<verse eID="Job.34.15" />
+        <verse sID="Job.34.16" osisID="Job.34.16" />Quod si non es commotus, audi haec. Percipe vocem verborum meorum.<verse eID="Job.34.16" />
+        <verse sID="Job.34.17" osisID="Job.34.17" />Videro odientem iniqua, et interficientem malos, qui est aeternus et iustus.<verse eID="Job.34.17" />
+        <verse sID="Job.34.18" osisID="Job.34.18" />Impius est qui dicit regi, Inique agis. Impiissime, principibus.<verse eID="Job.34.18" />
+        <verse sID="Job.34.19" osisID="Job.34.19" />Qui non erubuit faciem inhonorati. Nesciunt honorem deferre principibus, et admirari facies eorum.<verse eID="Job.34.19" />
+        <verse sID="Job.34.20" osisID="Job.34.20" />Vana eis evenient, ut clament, et rogent virum, abusi sunt enim inique, cum excluderentur infirmi.<verse eID="Job.34.20" />
+        <verse sID="Job.34.21" osisID="Job.34.21" />Ipse enim perspicit opera hominum, nec latet eum quicquam eorum quae faciunt.<verse eID="Job.34.21" />
+        <verse sID="Job.34.22" osisID="Job.34.22" />Neque erit locus, et non est umbra mortis, ut latitent qui faciunt iniqua,<verse eID="Job.34.22" />
+        <verse sID="Job.34.23" osisID="Job.34.23" />Quia non in homine positum est ultra. Dominus enim omnes respicit,<verse eID="Job.34.23" />
+        <verse sID="Job.34.24" osisID="Job.34.24" />Qui comprehendit investigabilia, glorifica, et admiranda, quorum non est numerus.<verse eID="Job.34.24" />
+        <verse sID="Job.34.25" osisID="Job.34.25" />Qui cognoscit opera eorum, evertet noctem, et humiliabuntur,<verse eID="Job.34.25" />
+        <verse sID="Job.34.26" osisID="Job.34.26" />Et exstinxit impios, et gloriosos coram inimicis suis,<verse eID="Job.34.26" />
+        <verse sID="Job.34.27" osisID="Job.34.27" />Quia declinaverunt a lege Dei, et iustitias eius non cognoverunt,<verse eID="Job.34.27" />
+        <verse sID="Job.34.28" osisID="Job.34.28" />Ut perseratur ad eum clamor pauperis, et clamorem pauperum exaudiet.<verse eID="Job.34.28" />
+        <verse sID="Job.34.29" osisID="Job.34.29" />Ipse quietem dabit, et quis poterit condemnare? Abscondet faciem, et quis videbit eum, et contra gentem, et contra hominem simul?<verse eID="Job.34.29" />
+        <verse sID="Job.34.30" osisID="Job.34.30" />Qui regnare facit hominem hypocritam, propter perversitatem populi.<verse eID="Job.34.30" />
+        <verse sID="Job.34.31" osisID="Job.34.31" />Quia ad Dominum loqui caepi, non cessabo.<verse eID="Job.34.31" />
+        <verse sID="Job.34.32" osisID="Job.34.32" />At quod minus video, tu ostende mihi, si iniquitatem operatus sum, non adiiciam.<verse eID="Job.34.32" />
+        <verse sID="Job.34.33" osisID="Job.34.33" />Nunquid a te exiget eam, quam repulisti? Tu enim elegisti, et non ego. Et si quid scis, loquere.<verse eID="Job.34.33" />
+        <verse sID="Job.34.34" osisID="Job.34.34" />Propterea prudentes corde dicent haec, et vir sapiens audiet verbum meum.<verse eID="Job.34.34" />
+        <verse sID="Job.34.35" osisID="Job.34.35" />Iob autem non in sapientia locutus est, et verba eius non sunt scientiae.<verse eID="Job.34.35" />
+        <verse sID="Job.34.36" osisID="Job.34.36" />Imo vero disce Iob, et noli iam respondere sicut stulti,<verse eID="Job.34.36" />
+        <verse sID="Job.34.37" osisID="Job.34.37" />Ne augeamus super peccata nostra, et iniustitia super nos reputetur, multa loquentibus verba coram Domino.<verse eID="Job.34.37" />
+      </p>
+      <chapter eID="Job.34" />
+      <chapter sID="Job.35" osisID="Job.35" />
+      <title>Chatper 35</title>
+      <p>
+        <verse sID="Job.35.1" osisID="Job.35.1" />Respondens autem Elius, ait,<verse eID="Job.35.1" />
+        <verse sID="Job.35.2" osisID="Job.35.2" />Quare hoc existimasti in iudicio? Tu quis es, quia dixisti, Iustus sum ante conspectum Dei?<verse eID="Job.35.2" />
+        <verse sID="Job.35.3" osisID="Job.35.3" />Aut dicis, Quid prodest tibi, aut quid faciam, si peccavi?<verse eID="Job.35.3" />
+        <verse sID="Job.35.4" osisID="Job.35.4" />Itaque ego dabo tibi responsum, et tribus amicis tuis.<verse eID="Job.35.4" />
+        <verse sID="Job.35.5" osisID="Job.35.5" />Aspice in coelum, et vide. Respice in nubes, quam altae sunt a te.<verse eID="Job.35.5" />
+        <verse sID="Job.35.6" osisID="Job.35.6" />Si peccasti, quid ages? Aut si multa iniusto fecisti, quid potes facere?<verse eID="Job.35.6" />
+        <verse sID="Job.35.7" osisID="Job.35.7" />Et si iustus es, quid dabis ei, aut quid de manu tua accipiet?<verse eID="Job.35.7" />
+        <verse sID="Job.35.8" osisID="Job.35.8" />Viro simili tui, impietas tua. Et filio hominis, iustitia tua.<verse eID="Job.35.8" />
+        <verse sID="Job.35.9" osisID="Job.35.9" />A multitudine calumniantium clamabunt. Vociferabuntur a brachio multorum.<verse eID="Job.35.9" />
+        <verse sID="Job.35.10" osisID="Job.35.10" />Et non dixit, Ubi est Deus, qui fecit me, qui distribuit custodias nocturnas.<verse eID="Job.35.10" />
+        <verse sID="Job.35.11" osisID="Job.35.11" />Qui separat me a quadrupedibus terrae, et a volatilibus coeli sapientiorem me fecit?<verse eID="Job.35.11" />
+        <verse sID="Job.35.12" osisID="Job.35.12" />Ibi clamabunt, et non audiet ab iniuriis malorum.<verse eID="Job.35.12" />
+        <verse sID="Job.35.13" osisID="Job.35.13" />Vana enim non vult Dominus videre, ipse enim Omnipotens perspicit eos, qui faciunt iustitiam. Et salvum me faciet.<verse eID="Job.35.13" />
+        <verse sID="Job.35.14" osisID="Job.35.14" />Iudicare itaque contra eum, si potes collaudare eum, sicuti est.<verse eID="Job.35.14" />
+        <verse sID="Job.35.15" osisID="Job.35.15" />Et nunc, quia non est visitans iram suam, nec cognovit delicta vehementer,<verse eID="Job.35.15" />
+        <verse sID="Job.35.16" osisID="Job.35.16" />Et Iob vane aperit os suum, in ignorantia verba multiplicat.<verse eID="Job.35.16" />
+      </p>
+      <chapter eID="Job.35" />
+      <chapter sID="Job.36" osisID="Job.36" />
+      <title>Chatper 36</title>
+      <p>
+        <verse sID="Job.36.1" osisID="Job.36.1" />Addens ergo Elius, ait,<verse eID="Job.36.1" />
+        <verse sID="Job.36.2" osisID="Job.36.2" />Sustine pusillum, ut te doceam, adhuc enim sunt in me sermones.<verse eID="Job.36.2" />
+        <verse sID="Job.36.3" osisID="Job.36.3" />Suscipiens scientiam meam de longe, operibus autem meis, quae iusta sunt, loquar<verse eID="Job.36.3" />
+        <verse sID="Job.36.4" osisID="Job.36.4" />In veritate, et non iniustitia, verba iniuste intelliges.<verse eID="Job.36.4" />
+        <verse sID="Job.36.5" osisID="Job.36.5" />Et scito quia Deus non abiiciet innocentem, fortis robore cordis,<verse eID="Job.36.5" />
+        <verse sID="Job.36.6" osisID="Job.36.6" />Non vivificabit impium, et iudicium pauperum dabit.<verse eID="Job.36.6" />
+        <verse sID="Job.36.7" osisID="Job.36.7" />Non auferet a iusto oculos suos. Et cum regibus in solio, et sedere eos facit in perpetuum, et exaltabuntur.<verse eID="Job.36.7" />
+        <verse sID="Job.36.8" osisID="Job.36.8" />Et qui compediti sunt compedibus, capientur in funibus paupertatis,<verse eID="Job.36.8" />
+        <verse sID="Job.36.9" osisID="Job.36.9" />Et annuntiabit eis opera eorum, et delicta, cum fuerint roborati.<verse eID="Job.36.9" />
+        <verse sID="Job.36.10" osisID="Job.36.10" />Sed iustum exaudiet, et dixit, quia convertentur ab iniquitate.<verse eID="Job.36.10" />
+        <verse sID="Job.36.11" osisID="Job.36.11" />Si audierint te, et servierint, complebunt dies suos in bonis, et annos suos in gloria,<verse eID="Job.36.11" />
+        <verse sID="Job.36.12" osisID="Job.36.12" />Impios vero non facit salvos, eo quod noluerint scire Dominum, et cum monerentur, inobedientes erant.<verse eID="Job.36.12" />
+        <verse sID="Job.36.13" osisID="Job.36.13" />Et hypocritae ponent furorem. Non clamabunt, quia ligabit eos.<verse eID="Job.36.13" />
+        <verse sID="Job.36.14" osisID="Job.36.14" />Moriatur ergo in iuventute anima eorum, et vita eorum vulneretur ab angelis,<verse eID="Job.36.14" />
+        <verse sID="Job.36.15" osisID="Job.36.15" />Quod tribulaverint infirmum et invalidum, iudicium vero mansuetorum statuit.<verse eID="Job.36.15" />
+        <verse sID="Job.36.16" osisID="Job.36.16" />Et quia decepit te ab ore inimici abyssus, effusi subter eam, descendet mensa tua plena pinguedine.<verse eID="Job.36.16" />
+        <verse sID="Job.36.17" osisID="Job.36.17" />Non deficiet iusto iudicium.<verse eID="Job.36.17" />
+        <verse sID="Job.36.18" osisID="Job.36.18" />Et ira super impios erit, propter impietatem munerum, quae accipiebant in iniquitatibus.<verse eID="Job.36.18" />
+        <verse sID="Job.36.19" osisID="Job.36.19" />Non te avertat voluntas animi a precibus infirmorum, cum in necessitate fuerint. Et omnes qui habent fortitudinem,<verse eID="Job.36.19" />
+        <verse sID="Job.36.20" osisID="Job.36.20" />Noli extollere per noctem, ut ascendant populi pro eis.<verse eID="Job.36.20" />
+        <verse sID="Job.36.21" osisID="Job.36.21" />Sed cura ne quid facias indecens, hoc enim elegisti super inopiam.<verse eID="Job.36.21" />
+        <verse sID="Job.36.22" osisID="Job.36.22" />Ecce, Deus roborabitur in fortitudine sua, quis enim est sicut ille potens?<verse eID="Job.36.22" />
+        <verse sID="Job.36.23" osisID="Job.36.23" />Vel quis est qui discutiat eius opera? Aut quis est qui dicat, Egit inique?<verse eID="Job.36.23" />
+        <verse sID="Job.36.24" osisID="Job.36.24" />Memento quia magna sunt opera eius, quem laudaverunt viri.<verse eID="Job.36.24" />
+        <verse sID="Job.36.25" osisID="Job.36.25" />Omnis homo respicit ad eum, quicunque compuguntur homines.<verse eID="Job.36.25" />
+        <verse sID="Job.36.26" osisID="Job.36.26" />Ecce, Deus multus, et nesciemus, numerus annorum eius infinitus.<verse eID="Job.36.26" />
+        <verse sID="Job.36.27" osisID="Job.36.27" />Innumerabiles stillae pluviae, effundetur imber per semitas suas,<verse eID="Job.36.27" />
+        <verse sID="Job.36.28" osisID="Job.36.28" />Fluent nubes, et tenebrascent super homines plurimos. Horam constituit iumentis, et sciunt cubilis ordinem. In his omnibus non torpescit animus tuus, nec mutatur cor tuum a corpore.<verse eID="Job.36.28" />
+        <verse sID="Job.36.29" osisID="Job.36.29" />Si cogitaverit extendere nebulam, aeque ad tabernaculum expandit eam.<verse eID="Job.36.29" />
+        <verse sID="Job.36.30" osisID="Job.36.30" />Ecce effundit super eum lucem suam, et radices maris contexit.<verse eID="Job.36.30" />
+        <verse sID="Job.36.31" osisID="Job.36.31" />In eis iudicabit populos, dabit escam plurimis.<verse eID="Job.36.31" />
+        <verse sID="Job.36.32" osisID="Job.36.32" />In manibus contexit lumen, et mandavit de eo in contrarium,<verse eID="Job.36.32" />
+        <verse sID="Job.36.33" osisID="Job.36.33" />Ut nunciaret super illo amico suo possessionem, contra eum qui ascendere nititur.<verse eID="Job.36.33" />
+      </p>
+      <chapter eID="Job.36" />
+      <chapter sID="Job.37" osisID="Job.37" />
+      <title>Chatper 37</title>
+      <p>
+        <verse sID="Job.37.1" osisID="Job.37.1" />Sed et in his obstupuit cor meum, et evulsum est de loco suo.<verse eID="Job.37.1" />
+        <verse sID="Job.37.2" osisID="Job.37.2" />Audite sonitum terroris, et strepitum oris ipsius exeuntem.<verse eID="Job.37.2" />
+        <verse sID="Job.37.3" osisID="Job.37.3" />Subter universum coelum circuit, et lumen eius in finibus terrae.<verse eID="Job.37.3" />
+        <verse sID="Job.37.4" osisID="Job.37.4" />Post eum fremet vox, tonabit in sonitu superbiae suae. Et non poterit investigari, cum audita fuerit vox eius.<verse eID="Job.37.4" />
+        <verse sID="Job.37.5" osisID="Job.37.5" />Tonabit fortis in voce sua mirabiliter, fecit enim magna quae nesciebamus.<verse eID="Job.37.5" />
+        <verse sID="Job.37.6" osisID="Job.37.6" />Praecipiens nivi, Esto super terram, et tempestas pluviae, et tempestas imbrium, potestas eius.<verse eID="Job.37.6" />
+        <verse sID="Job.37.7" osisID="Job.37.7" />In manu omnis hominis signatur, ut sciat omnis homo infirmitatem suam.<verse eID="Job.37.7" />
+        <verse sID="Job.37.8" osisID="Job.37.8" />Introierunt autem bestiae sub protectione, et quieverunt in cubili.<verse eID="Job.37.8" />
+        <verse sID="Job.37.9" osisID="Job.37.9" />De promptuariis supervenit tempestas, et de promptuariis friguas.<verse eID="Job.37.9" />
+        <verse sID="Job.37.10" osisID="Job.37.10" />Et a spiritu Dei dabitur glacies. Gubernat autem qualiter illi placuerit aquam,<verse eID="Job.37.10" />
+        <verse sID="Job.37.11" osisID="Job.37.11" />Et frumentum irrigabit nubibus, disseminabit nubes lucem suam,<verse eID="Job.37.11" />
+        <verse sID="Job.37.12" osisID="Job.37.12" />Et ipsa per circuitum vertitur in gubernaculis, ad operanda omnia quae mandaverit eis, haec constituta sunt ab eo super terram.<verse eID="Job.37.12" />
+        <verse sID="Job.37.13" osisID="Job.37.13" />Sive in tribu, sive in terra sua, sive in misericordia inveniri voluerit eam.<verse eID="Job.37.13" />
+        <verse sID="Job.37.14" osisID="Job.37.14" />Auribus percipe haec Iob, sta, et commonere virtute Domini.<verse eID="Job.37.14" />
+        <verse sID="Job.37.15" osisID="Job.37.15" />Scimus quia Deus posuit opera sua, cum faceret lucem de tenebris.<verse eID="Job.37.15" />
+        <verse sID="Job.37.16" osisID="Job.37.16" />Scis differentiam nubium, et ingentes lapsus malorum?<verse eID="Job.37.16" />
+        <verse sID="Job.37.17" osisID="Job.37.17" />Tua vero stola est valida, quiescente terra ab austro.<verse eID="Job.37.17" />
+        <verse sID="Job.37.18" osisID="Job.37.18" />Firmabit cum eo coelos, qui aqualiter ad videndum fusi sunt.<verse eID="Job.37.18" />
+        <verse sID="Job.37.19" osisID="Job.37.19" />Quare doce nos quid dicamus ei, et requiescamus multa dicentes.<verse eID="Job.37.19" />
+        <verse sID="Job.37.20" osisID="Job.37.20" />Nunquid liber, aut scriba adsistit mihi, aut hic stans faciam hominem tacere?<verse eID="Job.37.20" />
+        <verse sID="Job.37.21" osisID="Job.37.21" />Omnibus autem non est visibile lumen, quod refulget in nubibus, et spiritus transiens emundabit eas.<verse eID="Job.37.21" />
+        <verse sID="Job.37.22" osisID="Job.37.22" />Ab aquilone nubes coloris aurei, in his est magna gloria, et honor Omnipotentis.<verse eID="Job.37.22" />
+        <verse sID="Job.37.23" osisID="Job.37.23" />Et non invenimus alium similem virtuti eius. Qui iuste iudicat, non putas exaudire eum?<verse eID="Job.37.23" />
+        <verse sID="Job.37.24" osisID="Job.37.24" />Propterea timebunt eum homines, timebunt quoque eum et sapientes corde.<verse eID="Job.37.24" />
+      </p>
+      <chapter eID="Job.37" />
+      <chapter sID="Job.38" osisID="Job.38" />
+      <title>Chatper 38</title>
+      <p>
+        <verse sID="Job.38.1" osisID="Job.38.1" />Et postquam quievit Elius loqui, dixit Dominus ad Iob per turbinem nubis,<verse eID="Job.38.1" />
+        <verse sID="Job.38.2" osisID="Job.38.2" />Quis est qui celat me consilium, continens sermones in corde, et putat me latere?<verse eID="Job.38.2" />
+        <verse sID="Job.38.3" osisID="Job.38.3" />Accinge tanquam vir lumbum tuum, interrogabo te, tu autem responde mihi.<verse eID="Job.38.3" />
+        <verse sID="Job.38.4" osisID="Job.38.4" />Ubi eras, cum fundarem terram? Indica mihi, si nosti scientiam.<verse eID="Job.38.4" />
+        <verse sID="Job.38.5" osisID="Job.38.5" />Quis posuit mensuras eius, si nosti? Aut quis est qui induxit super eam funiculum?<verse eID="Job.38.5" />
+        <verse sID="Job.38.6" osisID="Job.38.6" />Aut super quod circuli eius fusi sunt? Quis est autem qui misit lapidem angularem?<verse eID="Job.38.6" />
+        <verse sID="Job.38.7" osisID="Job.38.7" />Quando facta sunt simul sidera, laudaverunt me voce magna omnes angeli mei.<verse eID="Job.38.7" />
+        <verse sID="Job.38.8" osisID="Job.38.8" />Conclusi portis mare, cum fremeret in utero matris suae, volens progredi.<verse eID="Job.38.8" />
+        <verse sID="Job.38.9" osisID="Job.38.9" />Circumposui illi nubem operimentum, et nebula obvolvi illud,<verse eID="Job.38.9" />
+        <verse sID="Job.38.10" osisID="Job.38.10" />Et posui illi terminos, imponens claustra, et portas.<verse eID="Job.38.10" />
+        <verse sID="Job.38.11" osisID="Job.38.11" />Et dixi, Hucusque venies, et non transibis. Sed in temetipso comminuentur fluctus tui.<verse eID="Job.38.11" />
+        <verse sID="Job.38.12" osisID="Job.38.12" />Aut nunquid tecum constitui lucem matutinam, aut cognovit Lucifer ordinem suum?<verse eID="Job.38.12" />
+        <verse sID="Job.38.13" osisID="Job.38.13" />Apprehende pinnas terrae, excute impios ex ea.<verse eID="Job.38.13" />
+        <verse sID="Job.38.14" osisID="Job.38.14" />Et tu sumens terrae lutum, figurasti animae, et famosum eum fecisti super terram?<verse eID="Job.38.14" />
+        <verse sID="Job.38.15" osisID="Job.38.15" />Et abstulisti ab impiis lucem, aut brachium superborum comminuisti?<verse eID="Job.38.15" />
+        <verse sID="Job.38.16" osisID="Job.38.16" />Aut venisti ad fontem maris, aut in vestigiis abyssi deambulasti?<verse eID="Job.38.16" />
+        <verse sID="Job.38.17" osisID="Job.38.17" />Aut tibi aperiuntur metu portae mortis, aut ianitores inferni videntes te timuerunt?<verse eID="Job.38.17" />
+        <verse sID="Job.38.18" osisID="Job.38.18" />Aut cognovisti latitudinem sub coelo? Narra ergo mihi quanta sit.<verse eID="Job.38.18" />
+        <verse sID="Job.38.19" osisID="Job.38.19" />Aut in qua terra habitet lux, aut quis tenebrarum locus sit.<verse eID="Job.38.19" />
+        <verse sID="Job.38.20" osisID="Job.38.20" />Duces me in fines eorum, quod si et nosti semitas eorum.<verse eID="Job.38.20" />
+        <verse sID="Job.38.21" osisID="Job.38.21" />Nunquid scis quia tunc natus eras, et numerus annorum tuorum multus?<verse eID="Job.38.21" />
+        <verse sID="Job.38.22" osisID="Job.38.22" />Aut venisti in thesauris nivis, aut thesauros grandinis vidisti,<verse eID="Job.38.22" />
+        <verse sID="Job.38.23" osisID="Job.38.23" />Quae reposita sunt in tempus inimicorum, et in die pugnae et belli?<verse eID="Job.38.23" />
+        <verse sID="Job.38.24" osisID="Job.38.24" />Unde autem procedit pruina, et dispergitur auster sub coelo?<verse eID="Job.38.24" />
+        <verse sID="Job.38.25" osisID="Job.38.25" />Quis praeparavit pluviae validae flumen, et viam vocibus tempestatis,<verse eID="Job.38.25" />
+        <verse sID="Job.38.26" osisID="Job.38.26" />Ut et pluat super terram, ubi non est vir. In deserto, ubi non est homo.<verse eID="Job.38.26" />
+        <verse sID="Job.38.27" osisID="Job.38.27" />Ut satiet inviam et inhabitabilem, et ut germinet herbae viror?<verse eID="Job.38.27" />
+        <verse sID="Job.38.28" osisID="Job.38.28" />Quis est pluviae pater? Vel quis est qui genuit stillas roris?<verse eID="Job.38.28" />
+        <verse sID="Job.38.29" osisID="Job.38.29" />De cuius utero procedit glacies? Aut pruinam in coelo quis genuit,<verse eID="Job.38.29" />
+        <verse sID="Job.38.30" osisID="Job.38.30" />Quae descendit sicut aquae flumen? Aut faciem impii quis tabefecit?<verse eID="Job.38.30" />
+        <verse sID="Job.38.31" osisID="Job.38.31" />Aut intellexisti nexus Pleiadis, et septum Orionis aperuisti?<verse eID="Job.38.31" />
+        <verse sID="Job.38.32" osisID="Job.38.32" />An aperies Mazuroth in tempore suo, et Vesperum super aedificationem eius induces?<verse eID="Job.38.32" />
+        <verse sID="Job.38.33" osisID="Job.38.33" />Scis commotiones coeli, aut omnium quae sub coelo pariter fiunt?<verse eID="Job.38.33" />
+        <verse sID="Job.38.34" osisID="Job.38.34" />Vocabis nubem voce, et in tremore aquae validae obediunt tibi?<verse eID="Job.38.34" />
+        <verse sID="Job.38.35" osisID="Job.38.35" />Mittes vi fulmina, et ibunt? Aut dicent tibi, Quid est?<verse eID="Job.38.35" />
+        <verse sID="Job.38.36" osisID="Job.38.36" />Quis dedit mulieribus texturae sapientiam, et varietatum scientiam?<verse eID="Job.38.36" />
+        <verse sID="Job.38.37" osisID="Job.38.37" />Aut quis numeret nubes sapientia, et organa coeli in terram declinet?<verse eID="Job.38.37" />
+        <verse sID="Job.38.38" osisID="Job.38.38" />Diffusus est autem sicut terra cinis, et adglutinavit eum sicut lapidibus cubum.<verse eID="Job.38.38" />
+        <verse sID="Job.38.39" osisID="Job.38.39" />Aut capies leonibus escas, aut animas draconum replebis?<verse eID="Job.38.39" />
+        <verse sID="Job.38.40" osisID="Job.38.40" />Pavidi enim sunt in cubilibus suis, et sedent in silvis insidiantes.<verse eID="Job.38.40" />
+        <verse sID="Job.38.41" osisID="Job.38.41" />Quis autem praeparavit corvo escam? Pulli enim eius ad Dominum clamant, errantes, et escam quaerentes.<verse eID="Job.38.41" />
+      </p>
+      <chapter eID="Job.38" />
+      <chapter sID="Job.39" osisID="Job.39" />
+      <title>Chatper 39</title>
+      <p>
+        <verse sID="Job.39.1" osisID="Job.39.1" />Si cognovisti tempus pariendi tragelaphorum in petris, aut partus cervarum custodisti?<verse eID="Job.39.1" />
+        <verse sID="Job.39.2" osisID="Job.39.2" />Et numerasti menses partus earum, et dolores earum solvisti?<verse eID="Job.39.2" />
+        <verse sID="Job.39.3" osisID="Job.39.3" />Et nutristi hinnulos earum sine metu? Partus earum emittes?<verse eID="Job.39.3" />
+        <verse sID="Job.39.4" osisID="Job.39.4" />Abrumpent filii earum, multiplicabuntur in tritico, et ibunt, et non revertentur ad eas.<verse eID="Job.39.4" />
+        <verse sID="Job.39.5" osisID="Job.39.5" />Quis autem est, qui dimisit onagrum liberum, et vincula eius quis resolvit?<verse eID="Job.39.5" />
+        <verse sID="Job.39.6" osisID="Job.39.6" />Posui enim tabernaculum eius desertum, et habitacula eius salsuginem.<verse eID="Job.39.6" />
+        <verse sID="Job.39.7" osisID="Job.39.7" />Irridens multitudinem civitatis, et querelam exactoris non audiens,<verse eID="Job.39.7" />
+        <verse sID="Job.39.8" osisID="Job.39.8" />Consideravit montes pascuae suae, et post omne viride quaerit.<verse eID="Job.39.8" />
+        <verse sID="Job.39.9" osisID="Job.39.9" />Volet autem monoceros servire tibi, aut dormire super praesepe tuum?<verse eID="Job.39.9" />
+        <verse sID="Job.39.10" osisID="Job.39.10" />Aut alligabis in loris iugum suum, aut ducet tibi sulcos in campo?<verse eID="Job.39.10" />
+        <verse sID="Job.39.11" osisID="Job.39.11" />Confidis autem in eo, quia mutata est virtus eius. Aut dimittis ei opera tua?<verse eID="Job.39.11" />
+        <verse sID="Job.39.12" osisID="Job.39.12" />Aut credes ei, quia reddet tibi sementem, et in aream tuam inferet?<verse eID="Job.39.12" />
+        <verse sID="Job.39.13" osisID="Job.39.13" />Penna struthionum mista est alis herodionis, et accipitris.<verse eID="Job.39.13" />
+        <verse sID="Job.39.14" osisID="Job.39.14" />Et relinquit in terra ova sua, et in pulvere calefiunt.<verse eID="Job.39.14" />
+        <verse sID="Job.39.15" osisID="Job.39.15" />Et oblita est quia pes dispergit ea, et bestiae conculcabunt ea.<verse eID="Job.39.15" />
+        <verse sID="Job.39.16" osisID="Job.39.16" />Obduruit contra filios suos, ne sint eius. Frustra laboravit absque ullo timore,<verse eID="Job.39.16" />
+        <verse sID="Job.39.17" osisID="Job.39.17" />Quia despexit eam Dominus in sapientia, et non distribuit ei intellectum.<verse eID="Job.39.17" />
+        <verse sID="Job.39.18" osisID="Job.39.18" />Cum tempus fuerit, in altum levabit, et deridebit equitem et ascensorem.<verse eID="Job.39.18" />
+        <verse sID="Job.39.19" osisID="Job.39.19" />An tu circumdedisti equo virtutem, et inseruisti collo eius hinnitum?<verse eID="Job.39.19" />
+        <verse sID="Job.39.20" osisID="Job.39.20" />Et circumposuisti ei arma? Et gloria pectoris eius, audacia,<verse eID="Job.39.20" />
+        <verse sID="Job.39.21" osisID="Job.39.21" />Prodiens in campo luxuriat, et procedit in praelio cum virtute.<verse eID="Job.39.21" />
+        <verse sID="Job.39.22" osisID="Job.39.22" />Occurensque iaculo, contemnit, nec se avertit a ferro.<verse eID="Job.39.22" />
+        <verse sID="Job.39.23" osisID="Job.39.23" />Super ipsum autem gaudet arcus et gladius, lanceae hastaeque tremore.<verse eID="Job.39.23" />
+        <verse sID="Job.39.24" osisID="Job.39.24" />Et iracundia vertit terram, nec credet, donec elanguerit tuba.<verse eID="Job.39.24" />
+        <verse sID="Job.39.25" osisID="Job.39.25" />Cum autem tuba cecinerit, dicet, Euge. Et procul odoratur pugnam, tonitruum ducum et clamorem.<verse eID="Job.39.25" />
+        <verse sID="Job.39.26" osisID="Job.39.26" />Nunquid in sapientia tua plumescit accipiter, expansis pennis immobilis, et respiciens ad austrum?<verse eID="Job.39.26" />
+        <verse sID="Job.39.27" osisID="Job.39.27" />Aut tuo praecepto exaltatur aquila. Et vultur super nidum suum in petra sedens,<verse eID="Job.39.27" />
+        <verse sID="Job.39.28" osisID="Job.39.28" />Morabitur in summitate petrae, et in caverna?<verse eID="Job.39.28" />
+        <verse sID="Job.39.29" osisID="Job.39.29" />Et cum ibi fuerit, quaerit escas, longe oculi eius prospiciunt.<verse eID="Job.39.29" />
+        <verse sID="Job.39.30" osisID="Job.39.30" />Et pulli eius voluntantur in sanguine, ubicunque fuerint cadavera, statim reperiuntur.<verse eID="Job.39.30" />
+        <verse sID="Job.39.31" osisID="Job.39.31" />Et adiecit Dominus, et locutus est ad Iob,<verse eID="Job.39.31" />
+        <verse sID="Job.39.32" osisID="Job.39.32" />Nunquid quid disputat cum Omnipotente, quiescet. Arguens Dominum, respondebit ita?<verse eID="Job.39.32" />
+        <verse sID="Job.39.33" osisID="Job.39.33" />Respondens autem Iob, Domino dixit,<verse eID="Job.39.33" />
+        <verse sID="Job.39.34" osisID="Job.39.34" />Quid ergo iudicor, commonitus et increpatus a Domino? Audiens talia, cum nihil sim, quod responsum dabo? Manum ponam ad os meum.<verse eID="Job.39.34" />
+        <verse sID="Job.39.35" osisID="Job.39.35" />Semel locutus sum, iterum non adiiciam.<verse eID="Job.39.35" />
+      </p>
+      <chapter eID="Job.39" />
+      <chapter sID="Job.40" osisID="Job.40" />
+      <title>Chatper 40</title>
+      <p>
+        <verse sID="Job.40.1" osisID="Job.40.1" />Respondens autem Dominus Iob de turbine, ait,<verse eID="Job.40.1" />
+        <verse sID="Job.40.2" osisID="Job.40.2" />Nequaquam. Sed accinge tanquam vir lumbos tuos, interrogabo te, tu vero responde mihi.<verse eID="Job.40.2" />
+        <verse sID="Job.40.3" osisID="Job.40.3" />An abnuis iudicium meum? Aut putas me aliter tibi locutum fuisse, quam ut appareres iustus?<verse eID="Job.40.3" />
+        <verse sID="Job.40.4" osisID="Job.40.4" />An brachium contra Dominum tibi est, aut vocibus contra illum tonas?<verse eID="Job.40.4" />
+        <verse sID="Job.40.5" osisID="Job.40.5" />Assume igitur altitudinem et virtutem, gloriam et honorem vestire.<verse eID="Job.40.5" />
+        <verse sID="Job.40.6" osisID="Job.40.6" />Emitte in iracundia angelos, et omnem iniuriosum humilia.<verse eID="Job.40.6" />
+        <verse sID="Job.40.7" osisID="Job.40.7" />Videns omnem superbum, exstinguito. Contere impios statim,<verse eID="Job.40.7" />
+        <verse sID="Job.40.8" osisID="Job.40.8" />Et absconde sub terra simul, faciesque eorum imple ignominia.<verse eID="Job.40.8" />
+        <verse sID="Job.40.9" osisID="Job.40.9" />Ita demum confitebor, quia salvare te potest dextera tua.<verse eID="Job.40.9" />
+        <verse sID="Job.40.10" osisID="Job.40.10" />Sed ecce, bestia, quam feci apud te, foenum sicut boves edit,<verse eID="Job.40.10" />
+        <verse sID="Job.40.11" osisID="Job.40.11" />Ecce virtus eius in lumbis eius, et potentia eius super umbilicum ventris,<verse eID="Job.40.11" />
+        <verse sID="Job.40.12" osisID="Job.40.12" />Et erexit caudam sicut cypressus, et nervi eius implicati sunt,<verse eID="Job.40.12" />
+        <verse sID="Job.40.13" osisID="Job.40.13" />Et costae eius costae aereae, et spina eius ferrum est fusile.<verse eID="Job.40.13" />
+        <verse sID="Job.40.14" osisID="Job.40.14" />Hoc est initium figmenti Domini, quod fecit, ut illudatur ab angelis eius.<verse eID="Job.40.14" />
+        <verse sID="Job.40.15" osisID="Job.40.15" />Ascendens autem in montem praeruptum, fecit gaudium quadrupedibus in tartaro.<verse eID="Job.40.15" />
+        <verse sID="Job.40.16" osisID="Job.40.16" />Sub omnimodis arboribus dormit, secus iuncum, et calamum, et caricem.<verse eID="Job.40.16" />
+        <verse sID="Job.40.17" osisID="Job.40.17" />Et obumbrantur in eo arbores magnae, cum stirpibus et virgultis torrentis.<verse eID="Job.40.17" />
+        <verse sID="Job.40.18" osisID="Job.40.18" />Si fuerit inundatio, non timebit. Securus est, cum illisus fuerit Iordanis in os eius.<verse eID="Job.40.18" />
+        <verse sID="Job.40.19" osisID="Job.40.19" />In oculo suo suscipiet eum. Torto vertice, pertundit nares.<verse eID="Job.40.19" />
+        <verse sID="Job.40.20" osisID="Job.40.20" />Adduces autem draconem in hamo, pones capistrum circa nares eius?<verse eID="Job.40.20" />
+        <verse sID="Job.40.21" osisID="Job.40.21" />Sigillabis circulum in ore eius, et forcipe pertundes labium eius?<verse eID="Job.40.21" />
+        <verse sID="Job.40.22" osisID="Job.40.22" />Loquetur autem tibi preces et obsecrationes blande,<verse eID="Job.40.22" />
+        <verse sID="Job.40.23" osisID="Job.40.23" />Et ponet testamentum tecum, et accipies eum servum sempiternum?<verse eID="Job.40.23" />
+        <verse sID="Job.40.24" osisID="Job.40.24" />Et ludes de eo sicut de ave, aut alligabis eum sicut passerem infantulo?<verse eID="Job.40.24" />
+        <verse sID="Job.40.25" osisID="Job.40.25" />Saginantur in eo nationes, et partiuntur eum Phoenicum gentes?<verse eID="Job.40.25" />
+        <verse sID="Job.40.26" osisID="Job.40.26" />Et omnes naves si conveniant, non portabunt corium caudae eius, et in navibus piscatorum caput eius.<verse eID="Job.40.26" />
+        <verse sID="Job.40.27" osisID="Job.40.27" />Impones autem ei manum, recordatus pugnae quae sit in eius corpore, et amplius non fiat.<verse eID="Job.40.27" />
+        <verse sID="Job.40.28" osisID="Job.40.28" />Non vidisti eum, neque in his quae dicuntur miratus es?<verse eID="Job.40.28" />
+      </p>
+      <chapter eID="Job.40" />
+      <chapter sID="Job.41" osisID="Job.41" />
+      <title>Chatper 41</title>
+      <p>
+        <verse sID="Job.41.1" osisID="Job.41.1" />Nec timuisti quod praeparatum est mihi? Quis enim est qui mihi resistat? Aut quis mihi resistet, et sustinebit,<verse eID="Job.41.1" />
+        <verse sID="Job.41.2" osisID="Job.41.2" />Si omne quod sub coelo est, meum est?<verse eID="Job.41.2" />
+        <verse sID="Job.41.3" osisID="Job.41.3" />Non tacebo propter eum, et sermo virtutum miseretur aequalis sui.<verse eID="Job.41.3" />
+        <verse sID="Job.41.4" osisID="Job.41.4" />Quis denudabit faciem vestitus eius? Aut in duplicatione thoracis eius quis intrabit?<verse eID="Job.41.4" />
+        <verse sID="Job.41.5" osisID="Job.41.5" />Portas vultus eius quis aperiet? Circa dentes eius est timor,<verse eID="Job.41.5" />
+        <verse sID="Job.41.6" osisID="Job.41.6" />Et in praecordiis eius scuta aerea. Colligatio eius sicut zirimitis lapis.<verse eID="Job.41.6" />
+        <verse sID="Job.41.7" osisID="Job.41.7" />Unus uni adhaeret, et spiritus non pertransibit ad eum.<verse eID="Job.41.7" />
+        <verse sID="Job.41.8" osisID="Job.41.8" />Vir fratri suo agglutinabitur. Continebuntur, et non divellentur.<verse eID="Job.41.8" />
+        <verse sID="Job.41.9" osisID="Job.41.9" />In sternutamentis eius illucescit lux, et oculi eius species Luciferi.<verse eID="Job.41.9" />
+        <verse sID="Job.41.10" osisID="Job.41.10" />De ore eius lampades ardentes exibunt, et craticulae ignis dispergentur.<verse eID="Job.41.10" />
+        <verse sID="Job.41.11" osisID="Job.41.11" />De naribus eius exit fumus fornacis ardentis igne carbonum.<verse eID="Job.41.11" />
+        <verse sID="Job.41.12" osisID="Job.41.12" />Anima eius carbones accendet, et flamma de ore eius procedet.<verse eID="Job.41.12" />
+        <verse sID="Job.41.13" osisID="Job.41.13" />In collo eius habitat fortitudo, et ante eum currit perditio.<verse eID="Job.41.13" />
+        <verse sID="Job.41.14" osisID="Job.41.14" />Carnes corpori eius adhaerent, circumfusae ei, et immobiles.<verse eID="Job.41.14" />
+        <verse sID="Job.41.15" osisID="Job.41.15" />Cor eius obduruit sicut lapis, et stat sicut incudo infatigabilis.<verse eID="Job.41.15" />
+        <verse sID="Job.41.16" osisID="Job.41.16" />Et cum se converterit, timor est bestiis quadrupedibus saevientibus super terram.<verse eID="Job.41.16" />
+        <verse sID="Job.41.17" osisID="Job.41.17" />Si occurrerint ei lanceae, nihil facient ei, hastae elevatio et thoracis,<verse eID="Job.41.17" />
+        <verse sID="Job.41.18" osisID="Job.41.18" />Reputat enim paleas ferrum, et sicut lignum putre, aes.<verse eID="Job.41.18" />
+        <verse sID="Job.41.19" osisID="Job.41.19" />Non vulnerabit eum sagitta aerea, ducit balistam tanquam foenum.<verse eID="Job.41.19" />
+        <verse sID="Job.41.20" osisID="Job.41.20" />Sicut stipulam aestimabit malleum. Aquas aestimat lapides, fundae iactus ut foenum, et deridet trementem hastam.<verse eID="Job.41.20" />
+        <verse sID="Job.41.21" osisID="Job.41.21" />Cubile eius sudibus ferreis praeacutis, et omne aurum maris sub eo est sicut lutum immensum.<verse eID="Job.41.21" />
+        <verse sID="Job.41.22" osisID="Job.41.22" />Fervescere facit abyssum sicut vas aeneum. Aestimat mare sicut deletum, et tartarum abyssi sicut captivum,<verse eID="Job.41.22" />
+        <verse sID="Job.41.23" osisID="Job.41.23" />Computavit abyssum quasi in deambulacrum.<verse eID="Job.41.23" />
+        <verse sID="Job.41.24" osisID="Job.41.24" />Non est quidquam super terram simile ei factum, ad illudendum ab angelis meis.<verse eID="Job.41.24" />
+        <verse sID="Job.41.25" osisID="Job.41.25" />Omne altum videt, et ipse rex omnium quae in aquis sunt.<verse eID="Job.41.25" />
+      </p>
+      <chapter eID="Job.41" />
+      <chapter sID="Job.42" osisID="Job.42" />
+      <title>Chatper 42</title>
+      <p>
+        <verse sID="Job.42.1" osisID="Job.42.1" />Respondens autem Iob, Domino dixit,<verse eID="Job.42.1" />
+        <verse sID="Job.42.2" osisID="Job.42.2" />Scio quia omnia potes, et impossibile tibi est nihil.<verse eID="Job.42.2" />
+        <verse sID="Job.42.3" osisID="Job.42.3" />Quis est enim qui abscondat a te consilium. Parcens verbis, te putet celare? Quis vero nunciavit mihi quae nesciebam, magna et mirifica quae non noveram?<verse eID="Job.42.3" />
+        <verse sID="Job.42.4" osisID="Job.42.4" />Audi me Domine, ut et ego loquar, interogabo te, tu vero doce me.<verse eID="Job.42.4" />
+        <verse sID="Job.42.5" osisID="Job.42.5" />Auditu quidem auris audiebam te prius, nunc autem oculus meus videt te.<verse eID="Job.42.5" />
+        <verse sID="Job.42.6" osisID="Job.42.6" />Ideo despexi memetipsum, et distabui, et aestimavi terram et cinerem.<verse eID="Job.42.6" />
+        <verse sID="Job.42.7" osisID="Job.42.7" />Factum est autem postquam Dominus locutus est omnia verba haec ad Iob, dixit Dominus ad Eliphaz Themaniten, Peccasti tu, et duo amici tui, non enim locuti estis coram me verum quicquam, sicut servus meus Iob.<verse eID="Job.42.7" />
+        <verse sID="Job.42.8" osisID="Job.42.8" />Et nunc sumite vobis septem vitulos, et septem arietes, et ite ad servum meum Iob, et faciet hostias pro vobis, Iob famulus meus orabit pro vobis. Quia nisi facies eius mihi esset accepta, et nisi propter eum, perdidissem vos, non enim locuti estis ad me verum adversus famulum meum Iob.<verse eID="Job.42.8" />
+        <verse sID="Job.42.9" osisID="Job.42.9" />Et abiit Eliphaz Themanites, et Baldad Sauchites, et Sophar Minaeus, et fecerunt sicut praecepit illis Dominus, et solvit peccatum eorum propter Iob.<verse eID="Job.42.9" />
+        <verse sID="Job.42.10" osisID="Job.42.10" />Dominus vero auxit conversationem Iob. Et cum orasset etiam pro amicis, remisit illis peccatum. Et dedit Dominus duplicia omnia, quae habuerat prius Iob.<verse eID="Job.42.10" />
+        <verse sID="Job.42.11" osisID="Job.42.11" />Audierunt autem omnes fratres eius, et sorores, omnia quae acciderant ei. Et venerunt ad eum, et omnes qui eum noverant a principio. Et cum bibissent, et comedissent apud eum panem in domo eius, consolati sunt eum, et mirati sunt in omnibus malis quae induxerat Dominus super eum, et dedit ei unusquisque agnam unam, et vir inaurem auream unam.<verse eID="Job.42.11" />
+        <verse sID="Job.42.12" osisID="Job.42.12" />Dominus autem benedixit novissima Iob magis quam priora. Et erant pecora eius, oves quatuordecim millia, cameli sex millia, iuga boum mille, asinae pascuales mille.<verse eID="Job.42.12" />
+        <verse sID="Job.42.13" osisID="Job.42.13" />Et nati sunt illi filii septem, et filiae tres.<verse eID="Job.42.13" />
+        <verse sID="Job.42.14" osisID="Job.42.14" />Et vocavit primam quidem Diem, secundam vero Cassiam, tertiam autem Cornu Amaltheae.<verse eID="Job.42.14" />
+        <verse sID="Job.42.15" osisID="Job.42.15" />Et non sunt inventae mulieres a filiabus Iob sub coelo, et dedit eis pater haereditatem inter fratres.<verse eID="Job.42.15" />
+        <verse sID="Job.42.16" osisID="Job.42.16" />Vixit autem Iob post plagam centum quadraginta annis. Et omnes anni vitae eius fuerunt ducenti quadraginta octo. Et vidit Iob filios suos, et filios filiorum suorum quarta generatione, et defunctus est Iob senex plenus dierum.<verse eID="Job.42.16" />
+      </p>
+      <chapter eID="Job.42" />
+    </div>
+  </osisText>
+</osis>

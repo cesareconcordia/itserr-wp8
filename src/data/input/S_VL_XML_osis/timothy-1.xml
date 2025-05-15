@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="timothy-1" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="timothy-1">
+        <title>Timothy-1</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">timothy-1</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Timothy-1</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="timothy-1">
+      <title>Timothy-1</title>
+      <chapter sID="timothy-1.1" osisID="timothy-1.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="timothy-1.1.1" osisID="timothy-1.1.1" />PAULUS Apostolus Iesu Christi secundum imperium Dei Salutaris nostri, et Christi Iesu spei nostrae:<verse eID="timothy-1.1.1" />
+        <verse sID="timothy-1.1.2" osisID="timothy-1.1.2" />Timotheo carissimo filio in fide. Gratia, misericordia, pax a Deo Patre, et Christo Iesu Domino nostro.<verse eID="timothy-1.1.2" />
+        <verse sID="timothy-1.1.3" osisID="timothy-1.1.3" />Sicut rogavi te remanere Ephesi cum irem in Macedoniam, ut denunciares quibusdam ne aliter doceant,<verse eID="timothy-1.1.3" />
+        <verse sID="timothy-1.1.4" osisID="timothy-1.1.4" />neque intendant fabulis, et genealogus infinitis: quae quaestionem praestant magis quam aedificationem Dei, quae in fide est.<verse eID="timothy-1.1.4" />
+        <verse sID="timothy-1.1.5" osisID="timothy-1.1.5" />Finis autem praecepti est caritas de puro corde, et conscientia bona, et fide non ficta.<verse eID="timothy-1.1.5" />
+        <verse sID="timothy-1.1.6" osisID="timothy-1.1.6" />A quibus quidam excidentes, conversi sunt in vaniloquium,<verse eID="timothy-1.1.6" />
+        <verse sID="timothy-1.1.7" osisID="timothy-1.1.7" />volentes esse legis doctores, non intelligentes * neque quae dicunt,* neque de quibus affirmant.<verse eID="timothy-1.1.7" />
+        <verse sID="timothy-1.1.8" osisID="timothy-1.1.8" />Scimus autem quoniam bona est lex, si quis eam legitime utatur:<verse eID="timothy-1.1.8" />
+        <verse sID="timothy-1.1.9" osisID="timothy-1.1.9" />scientes hoc, quia iusto lex non est posita, iniustis autem, et non obaudientibus, et impiis et peccatoribus est; scelestis, et profanis, patricidiis, et matricidiis, masculorum* concubitoribus,<verse eID="timothy-1.1.9" />
+        <verse sID="timothy-1.1.10" osisID="timothy-1.1.10" />homicidiis, impudicis, plagiariis, mendacibus, periuris, et si quid aliud sanae doctrinae adversatur.<verse eID="timothy-1.1.10" />
+        <verse sID="timothy-1.1.11" osisID="timothy-1.1.11" />quae secundum Evangelium est gloriae beati Dei, quod creditum est mihi.<verse eID="timothy-1.1.11" />
+        <verse sID="timothy-1.1.12" osisID="timothy-1.1.12" />Et gratias ago ei, qui confirmavit me in Christo Iesu Domino nostro, quod fidelem me aestimavit, ponens in ministerium:<verse eID="timothy-1.1.12" />
+        <verse sID="timothy-1.1.13" osisID="timothy-1.1.13" />qui prius fueram blasphemus, et persequutor, et iniuriosus: sed misericordiam consecutus sum, quod ignorans feci in incredulitatem.<verse eID="timothy-1.1.13" />
+        <verse sID="timothy-1.1.14" osisID="timothy-1.1.14" />Superabundavit autem gratia Domini nostri cum fide, et dilectione, quae est in Christo Iesu.<verse eID="timothy-1.1.14" />
+        <verse sID="timothy-1.1.15" osisID="timothy-1.1.15" />Fidelis sermo , et omni acceptione dignus : quoniam Christus Iesus venit in hunc mundum peccatores salvos facere, quorum primus sum ego.<verse eID="timothy-1.1.15" />
+        <verse sID="timothy-1.1.16" osisID="timothy-1.1.16" />Sed ideo misericordiam consecutus sum: ut in me ostenderet Christus Iesus omnem patientiam suam, ad exemplum eorum, qui credituri sunt illi, in vitam aeternam.<verse eID="timothy-1.1.16" />
+        <verse sID="timothy-1.1.17" osisID="timothy-1.1.17" />Regi autem saeculorum immortali, invisibili, solo Deo honor, et gloria in saecula saeculorum. Amen.<verse eID="timothy-1.1.17" />
+        <verse sID="timothy-1.1.18" osisID="timothy-1.1.18" />Hoc praeceptum commendo tibi fili Timothee, secundum praecedentes * in te prophetias, ut milites in eis bonam militiam.<verse eID="timothy-1.1.18" />
+        <verse sID="timothy-1.1.19" osisID="timothy-1.1.19" />Habes fidem, et bonam conscientiam, quam quidam repellentes, circa fidem naufragaverunt:<verse eID="timothy-1.1.19" />
+        <verse sID="timothy-1.1.20" osisID="timothy-1.1.20" />ex quibus est Himenaeus, et Alexander: quos tradidi Satanae, ut disciplinam accipiant non blasphemare.<verse eID="timothy-1.1.20" />
+      </p>
+      <chapter eID="timothy-1.1" />
+      <chapter sID="timothy-1.2" osisID="timothy-1.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="timothy-1.2.1" osisID="timothy-1.2.1" />Obsecra igitur primum omnium fieri obsecrationes, orationes, postulationes, gratiarum actiones pro omnibus hominibus:<verse eID="timothy-1.2.1" />
+        <verse sID="timothy-1.2.2" osisID="timothy-1.2.2" />pro regibus, et omnibus, qui in sublimitate sunt, ut cum securitate et gravitate vitam transagamus in omni pietate et castitate:<verse eID="timothy-1.2.2" />
+        <verse sID="timothy-1.2.3" osisID="timothy-1.2.3" />Hoc enim bonum, et acceptum coram Salutari nostro Dei,<verse eID="timothy-1.2.3" />
+        <verse sID="timothy-1.2.4" osisID="timothy-1.2.4" />qui omnes homines vult salvos fieri, et in agnitionem veritatis venire.<verse eID="timothy-1.2.4" />
+        <verse sID="timothy-1.2.5" osisID="timothy-1.2.5" />Unus enim Deus, unus et mediator Dei et hominum homo Christus Iesus:<verse eID="timothy-1.2.5" />
+        <verse sID="timothy-1.2.6" osisID="timothy-1.2.6" />qui dedit seipsum redemptionem pro omnibus, cuius testimonium temporibus suis datum est:<verse eID="timothy-1.2.6" />
+        <verse sID="timothy-1.2.7" osisID="timothy-1.2.7" />in quod positus sum ego praedicator, et Apostolus (veritatem dico, non mentior), magister Gentium in fide, et veritate.<verse eID="timothy-1.2.7" />
+        <verse sID="timothy-1.2.8" osisID="timothy-1.2.8" />Volo itaque viros orare in omni loco, levantes sanctas manus sine ira, et disceptatione.<verse eID="timothy-1.2.8" />
+        <verse sID="timothy-1.2.9" osisID="timothy-1.2.9" />Similiter et mulieres in habitu ornato, cum pudore, et sobrietate ornantes se, non ornaturis capillorum, et auro aut margaritis, aut vestito pretioso,<verse eID="timothy-1.2.9" />
+        <verse sID="timothy-1.2.10" osisID="timothy-1.2.10" />sed quod decet mulieres, promittentes pietatem per opera bona.<verse eID="timothy-1.2.10" />
+        <verse sID="timothy-1.2.11" osisID="timothy-1.2.11" />Mulier in silentio discat cum omni obsequio.<verse eID="timothy-1.2.11" />
+        <verse sID="timothy-1.2.12" osisID="timothy-1.2.12" />Docere autem mulieri non permitto, neque dominari supra virum; sed esse in silentio.<verse eID="timothy-1.2.12" />
+        <verse sID="timothy-1.2.13" osisID="timothy-1.2.13" />Adam enim primus formatus est, deinde Eva:<verse eID="timothy-1.2.13" />
+        <verse sID="timothy-1.2.14" osisID="timothy-1.2.14" />et Adam non est seductus, sed mulier seducta in praevaricatione fuit.<verse eID="timothy-1.2.14" />
+        <verse sID="timothy-1.2.15" osisID="timothy-1.2.15" />Salva autem fiet per filiorum creationem, si perseveraverint in fide, et caritate, et sanctificatione cum sobrietate.<verse eID="timothy-1.2.15" />
+      </p>
+      <chapter eID="timothy-1.2" />
+      <chapter sID="timothy-1.3" osisID="timothy-1.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="timothy-1.3.1" osisID="timothy-1.3.1" />Humanus sermo: si quis episcopatum cupit, bonum opus desiderat.<verse eID="timothy-1.3.1" />
+        <verse sID="timothy-1.3.2" osisID="timothy-1.3.2" />Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, hospitalem, docibilem,<verse eID="timothy-1.3.2" />
+        <verse sID="timothy-1.3.3" osisID="timothy-1.3.3" />non vinolentum, non percussorem sed modestum, non litigiosum, non cupidum,<verse eID="timothy-1.3.3" />
+        <verse sID="timothy-1.3.4" osisID="timothy-1.3.4" />suam domum bene regentem, filios habentem in obsequio cum omni gravitate.<verse eID="timothy-1.3.4" />
+        <verse sID="timothy-1.3.5" osisID="timothy-1.3.5" />Si quis autem domui suae praeesse nescit, quomodo Ecclesiae Dei* diligentiam habebit?<verse eID="timothy-1.3.5" />
+        <verse sID="timothy-1.3.6" osisID="timothy-1.3.6" />Non neophytum: ne in superbia elatus, in iudicium incidat diaboli.<verse eID="timothy-1.3.6" />
+        <verse sID="timothy-1.3.7" osisID="timothy-1.3.7" />Oportet autem illum et testimonium habere bonum ab his, qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli.<verse eID="timothy-1.3.7" />
+        <verse sID="timothy-1.3.8" osisID="timothy-1.3.8" />Diaconos similiter graves, non bilingues, non vino* multo deditos, non turpilucros:<verse eID="timothy-1.3.8" />
+        <verse sID="timothy-1.3.9" osisID="timothy-1.3.9" />habentes sacramentum fidei in conscientia pura.<verse eID="timothy-1.3.9" />
+        <verse sID="timothy-1.3.10" osisID="timothy-1.3.10" />Et hi quoque probentur primum: et sic ministrent, nullum crimen habentes.<verse eID="timothy-1.3.10" />
+        <verse sID="timothy-1.3.11" osisID="timothy-1.3.11" />Mulieres similiter verecundas, non detrahentes, sobrias, fideles in omnibus.<verse eID="timothy-1.3.11" />
+        <verse sID="timothy-1.3.12" osisID="timothy-1.3.12" />Diaconi sint unius uxoris viri, filios bene regentes, et suas domos.<verse eID="timothy-1.3.12" />
+        <verse sID="timothy-1.3.13" osisID="timothy-1.3.13" />Qui enim bene ministraverint, gradum sibi bonum adquirunt, et multam fiduciam in fide, quae est in Christo Iesu.<verse eID="timothy-1.3.13" />
+        <verse sID="timothy-1.3.14" osisID="timothy-1.3.14" />Haec tibi scribo, sperans * venire ad te cito :<verse eID="timothy-1.3.14" />
+        <verse sID="timothy-1.3.15" osisID="timothy-1.3.15" />quod si tardavero, ut scias qualiter oporteat te in domo Dei conversari, quae est Ecclesia Dei vivi, columna et firmamentum veritatis.<verse eID="timothy-1.3.15" />
+        <verse sID="timothy-1.3.16" osisID="timothy-1.3.16" />Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, iustificatum est in Spiritu, apparuit angelis, praedicatum est Gentibus, creditum est in hoc mundo, absumptum est in gloria.<verse eID="timothy-1.3.16" />
+      </p>
+      <chapter eID="timothy-1.3" />
+      <chapter sID="timothy-1.4" osisID="timothy-1.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="timothy-1.4.1" osisID="timothy-1.4.1" />Spiritus autem manifeste dicit, quia in novissimis temporibus recedent quidam a veritate, attendentes spiritibus seductoribus, doctrinis daemoniorum<verse eID="timothy-1.4.1" />
+        <verse sID="timothy-1.4.2" osisID="timothy-1.4.2" />in dissimulatione mendaciloquorum, cauteriatam habentium mentem, et conscientiam suam,<verse eID="timothy-1.4.2" />
+        <verse sID="timothy-1.4.3" osisID="timothy-1.4.3" />prohibentium nubere, abstinere a cibis, quos Deus creavit ad percipiendum cum gratiarum actione fidelibus, et qui cognoverunt veritatem eius.<verse eID="timothy-1.4.3" />
+        <verse sID="timothy-1.4.4" osisID="timothy-1.4.4" />Quoniam omnis creatura Dei bona, et nihil abiiciendum quod cum gratiarum actione percipitur:<verse eID="timothy-1.4.4" />
+        <verse sID="timothy-1.4.5" osisID="timothy-1.4.5" />sanctificatur enim per verbum Dei, et orationem.<verse eID="timothy-1.4.5" />
+        <verse sID="timothy-1.4.6" osisID="timothy-1.4.6" />Haec proponens fratribus, bonus eris minister Christi Iesu, enutritus sermonibus fidei, et bonae doctrinae, quam subsecutus? est.<verse eID="timothy-1.4.6" />
+        <verse sID="timothy-1.4.7" osisID="timothy-1.4.7" />Profanas autem, et aniles fabulas devita : exerce teipsum ad pietatem.<verse eID="timothy-1.4.7" />
+        <verse sID="timothy-1.4.8" osisID="timothy-1.4.8" />Nam corporalis exercitatio, ad modicum est utilis: pietas autem ad omnia utilis est, promissionem habens vitae, quae nunc est, et futurae.<verse eID="timothy-1.4.8" />
+        <verse sID="timothy-1.4.9" osisID="timothy-1.4.9" />Fidelis sermo , et omni acceptione dignus.<verse eID="timothy-1.4.9" />
+        <verse sID="timothy-1.4.10" osisID="timothy-1.4.10" />In hoc enim laboramus, et improperamur, quoniam speramus in Deum vivum, qui est Salutaris omnium hominum, maxime fidelium.<verse eID="timothy-1.4.10" />
+        <verse sID="timothy-1.4.11" osisID="timothy-1.4.11" />Praecipe haec, et doce.<verse eID="timothy-1.4.11" />
+        <verse sID="timothy-1.4.12" osisID="timothy-1.4.12" />Nemo tuam adolescentiam contemnat: sed figura esto fidelibus in sermone, in conversatione, in caritate, in fide, in castitate.<verse eID="timothy-1.4.12" />
+        <verse sID="timothy-1.4.13" osisID="timothy-1.4.13" />Dum venio, attende lectioni , exhortationi, doctrinae.<verse eID="timothy-1.4.13" />
+        <verse sID="timothy-1.4.14" osisID="timothy-1.4.14" />Noli negligere gratiam, quae in te est, quae data est tibi per prophetiam, per impositionem manuum presbyterii.<verse eID="timothy-1.4.14" />
+        <verse sID="timothy-1.4.15" osisID="timothy-1.4.15" />Haec meditare, in his esto : ut tuis profectus manifestus sit omnibus.<verse eID="timothy-1.4.15" />
+        <verse sID="timothy-1.4.16" osisID="timothy-1.4.16" />Attende te tibi, et doctrinae: permane in illis. Hoc enim faciendo, et teipsum salvabis, et eos, qui te audiunt.<verse eID="timothy-1.4.16" />
+      </p>
+      <chapter eID="timothy-1.4" />
+      <chapter sID="timothy-1.5" osisID="timothy-1.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="timothy-1.5.1" osisID="timothy-1.5.1" />Seniorem ne increpaveris, sed obsecra ut patrem; iuniores, ut fratres;<verse eID="timothy-1.5.1" />
+        <verse sID="timothy-1.5.2" osisID="timothy-1.5.2" />anus, ut matres; adulescentulas, ut sorores in omni castitate:<verse eID="timothy-1.5.2" />
+        <verse sID="timothy-1.5.3" osisID="timothy-1.5.3" />Viduas honora, quae vere viduae sunt.<verse eID="timothy-1.5.3" />
+        <verse sID="timothy-1.5.4" osisID="timothy-1.5.4" />Si qua autem vidua filios, aut nepotes habet: discat primum domum suam colere, et remunerare parentes: hoc enim est acceptum coram Deo.<verse eID="timothy-1.5.4" />
+        <verse sID="timothy-1.5.5" osisID="timothy-1.5.5" />Nam quae vere vidua est, et desolata, sperat in Deum, et permanet in orationibus, et precationibus nocte et die.<verse eID="timothy-1.5.5" />
+        <verse sID="timothy-1.5.6" osisID="timothy-1.5.6" />Quae autem in deliciis agit, vivens mortua est.<verse eID="timothy-1.5.6" />
+        <verse sID="timothy-1.5.7" osisID="timothy-1.5.7" />Et haec praecipe, ut inreprehensibiles sint.<verse eID="timothy-1.5.7" />
+        <verse sID="timothy-1.5.8" osisID="timothy-1.5.8" />Si quis autem suorum, et maxime domesticorum* curam non habet, fidem denegavit, et est infidele deterior.<verse eID="timothy-1.5.8" />
+        <verse sID="timothy-1.5.9" osisID="timothy-1.5.9" />Vidua eligatur non minus annorum LX. quae fuerit unius viri uxor,<verse eID="timothy-1.5.9" />
+        <verse sID="timothy-1.5.10" osisID="timothy-1.5.10" />in operibus bonis testimonium habens, * filios nutrivit, si hospitio recepit, si sanctorum pedes lavit, si tribulantibus subministravit, si omne opus bonum subsecuta est.<verse eID="timothy-1.5.10" />
+        <verse sID="timothy-1.5.11" osisID="timothy-1.5.11" />Adolescentiores autem viduas devita. Cum enim in deliciis egerint in Christo, nubere volunt:<verse eID="timothy-1.5.11" />
+        <verse sID="timothy-1.5.12" osisID="timothy-1.5.12" />habentes damnationem, quia primam fidem inritam fecerunt:<verse eID="timothy-1.5.12" />
+        <verse sID="timothy-1.5.13" osisID="timothy-1.5.13" />simul autem et otiosae discunt circumire domos: non solum autem otiosae, sed etiam et verbosae, et curiosae, loquentes quae non oportet.<verse eID="timothy-1.5.13" />
+        <verse sID="timothy-1.5.14" osisID="timothy-1.5.14" />Volo ergo adolescentiores nubere, filios procreare, matresfamilias esse, nullam occasionem dare adversario maledicti gratia.<verse eID="timothy-1.5.14" />
+        <verse sID="timothy-1.5.15" osisID="timothy-1.5.15" />Iam enim quidam conversi sunt retro post satanam.<verse eID="timothy-1.5.15" />
+        <verse sID="timothy-1.5.16" osisID="timothy-1.5.16" />Si quis fidelis, vel si qua fidelis habet viduas, sufficienter tribuat illis: ut non gravetur Ecclesia, ut veris viduis sufficiat.<verse eID="timothy-1.5.16" />
+        <verse sID="timothy-1.5.17" osisID="timothy-1.5.17" />Qui bene praesunt presbyteri, duplici honore honorentur: maxime qui laborant in verbo et doctrina.<verse eID="timothy-1.5.17" />
+        <verse sID="timothy-1.5.18" osisID="timothy-1.5.18" />Dicit enim Scriptura: Bovi trituranti os non infrenabis. Et: Dignus operarius mercede sua.<verse eID="timothy-1.5.18" />
+        <verse sID="timothy-1.5.19" osisID="timothy-1.5.19" />Adversus presbyterum accusationem noli recipere, ne si duobus aut tribus * testibus.<verse eID="timothy-1.5.19" />
+        <verse sID="timothy-1.5.20" osisID="timothy-1.5.20" />Peccantes autem coram omnibus argue: ut et caeteri timore habent.<verse eID="timothy-1.5.20" />
+        <verse sID="timothy-1.5.21" osisID="timothy-1.5.21" />Testor coram Deo et Christo Iesu, et electis angelis, ut haec* custodias sine praeiudicio, nihil faciens in aliam partem declinando.<verse eID="timothy-1.5.21" />
+        <verse sID="timothy-1.5.22" osisID="timothy-1.5.22" />Manus cito nemini imposueris, neque communicaveris peccatis alienis. Teipsum castum serva.<verse eID="timothy-1.5.22" />
+        <verse sID="timothy-1.5.23" osisID="timothy-1.5.23" />Noli adhuc aquam bibere, sed vino modico utere propter stomachum, et frequentes tuas infirmitates.<verse eID="timothy-1.5.23" />
+        <verse sID="timothy-1.5.24" osisID="timothy-1.5.24" />Quorumdam hominum peccata manifesta sunt, praecedentia ad iudicium: quosdam autem et sequuntur.<verse eID="timothy-1.5.24" />
+        <verse sID="timothy-1.5.25" osisID="timothy-1.5.25" />Similiter et * facta bona manifesta sunt : et quae aliter se habent, abscondi non possunt.<verse eID="timothy-1.5.25" />
+      </p>
+      <chapter eID="timothy-1.5" />
+      <chapter sID="timothy-1.6" osisID="timothy-1.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="timothy-1.6.1" osisID="timothy-1.6.1" />Quicunque sunt sub iugo servi, suos dominos omni honore dignos habeant, ut non nomen Domini et doctrina blasphemetur.<verse eID="timothy-1.6.1" />
+        <verse sID="timothy-1.6.2" osisID="timothy-1.6.2" />Qui autem * fideles habent dominos, non contemnant, quod fratres sunt : sed magis serviant, quoniam fideles sunt et dilecti, qui beneficii participes sunt. Haec doce, et exhortare.<verse eID="timothy-1.6.2" />
+        <verse sID="timothy-1.6.3" osisID="timothy-1.6.3" />Si quis aliter docet, et non adquiescit sanis sermonibus Domini nostri Iesu Christi, et ei quae secundum pietatem est, doctrinae:<verse eID="timothy-1.6.3" />
+        <verse sID="timothy-1.6.4" osisID="timothy-1.6.4" />inflatus est autem, nihil sciens, sed aegrotat circa quaestionem, et verborum rixas:* ex quibus nascuntur invidiae, contentiones, blasphemiae suspiciones malae<verse eID="timothy-1.6.4" />
+        <verse sID="timothy-1.6.5" osisID="timothy-1.6.5" />conflictationes corruptorum hominum mente, et destitutorum a veritate, existimantium quaestum esse pietatem.<verse eID="timothy-1.6.5" />
+        <verse sID="timothy-1.6.6" osisID="timothy-1.6.6" />Est autem quaestus magnus, pietas cum sufficientia.<verse eID="timothy-1.6.6" />
+        <verse sID="timothy-1.6.7" osisID="timothy-1.6.7" />Nihil enim intulimus in hunc mundum: verum quoniam nec efferre possumus.<verse eID="timothy-1.6.7" />
+        <verse sID="timothy-1.6.8" osisID="timothy-1.6.8" />Habentes autem victum, et vestitum, his contenti sumus.<verse eID="timothy-1.6.8" />
+        <verse sID="timothy-1.6.9" osisID="timothy-1.6.9" />Nam qui volunt divites fieri, incident in tentationem, et laqueum diaboli, et desideria multa inutilia, et nociva, quae mergunt homines in interitum et perditionem.<verse eID="timothy-1.6.9" />
+        <verse sID="timothy-1.6.10" osisID="timothy-1.6.10" />Radix enim omnium malorum est cupiditas: quam quidam appetentes, erraverunt fide, et se inseruerunt doloribus multis.<verse eID="timothy-1.6.10" />
+        <verse sID="timothy-1.6.11" osisID="timothy-1.6.11" />Tu autem ô homo Dei haec fuge: * sectare vero iustitiam, pietatem, fidem, caritatem, patientiam, mansuetudinem.<verse eID="timothy-1.6.11" />
+        <verse sID="timothy-1.6.12" osisID="timothy-1.6.12" />* Certa bonum certamen fidei, adprehende vitam aeternam, ad quam vocatus? es, et confessus es bonam confessionem coram multis testibus.<verse eID="timothy-1.6.12" />
+        <verse sID="timothy-1.6.13" osisID="timothy-1.6.13" />Praecipio tibi coram Deo, qui vivificat omnia, et Christo Iesu, qui testimonium reddidit sub Pontio Pilato, bonam confessionem :<verse eID="timothy-1.6.13" />
+        <verse sID="timothy-1.6.14" osisID="timothy-1.6.14" />ut serves mandatum sine macula, inreprehensibile, usque in adventum Domini nostri Iesu Christi:<verse eID="timothy-1.6.14" />
+        <verse sID="timothy-1.6.15" osisID="timothy-1.6.15" />quem temporibus suis ostendet beatus et solus potens*, et Rex regum, et Dominus dominantium:<verse eID="timothy-1.6.15" />
+        <verse sID="timothy-1.6.16" osisID="timothy-1.6.16" />qui solus habet immortalitatem, et lucem habitat inaccessibilem: quem vidit nemo hominum, nec videre potest: cui honor, et potestas in saecula. Amen.<verse eID="timothy-1.6.16" />
+        <verse sID="timothy-1.6.17" osisID="timothy-1.6.17" />Divitibus huius saeculi praecipe non sublime sapere, neque sperare in incerto divitiarum, sed in Deo vivo (qui praestat nobis omnia abundanter ad fruendum<verse eID="timothy-1.6.17" />
+        <verse sID="timothy-1.6.18" osisID="timothy-1.6.18" />benefaciant, divites sint in operibus bonis. facile tribuant, communicent<verse eID="timothy-1.6.18" />
+        <verse sID="timothy-1.6.19" osisID="timothy-1.6.19" />thezaurizent sibi fundamentum bonum in futurum, ut apprehendant veram vitam.<verse eID="timothy-1.6.19" />
+        <verse sID="timothy-1.6.20" osisID="timothy-1.6.20" />O Timothee, depositum custodi, devitans profanas vocum novitates, et oppositiones scientiae falsi nominis,<verse eID="timothy-1.6.20" />
+        <verse sID="timothy-1.6.21" osisID="timothy-1.6.21" />quam quidam promittentes, circa fidem exciderunt. Gratia tecum. Amen.<verse eID="timothy-1.6.21" />
+      </p>
+    </div>
+  </osisText>
+</osis>

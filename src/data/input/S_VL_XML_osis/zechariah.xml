@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Zech" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Zech">
+        <title>zechariah</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Zech</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>zechariah</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Zech">
+      <title>zechariah</title>
+      <chapter sID="Zech.1" osisID="Zech.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Zech.1.1" osisID="Zech.1.1" />In octavo mense anni secundi sub Dario, factum est verbum Domini ad Zachariam Barachiae, filium Addo prophetam, dicens,<verse eID="Zech.1.1" />
+        <verse sID="Zech.1.2" osisID="Zech.1.2" />Iratus est Dominus super patres vestros ira magna.<verse eID="Zech.1.2" />
+        <verse sID="Zech.1.3" osisID="Zech.1.3" />Et dices ad eos, Haec dicit Dominus omnipotens, Convertimini ad me, dicit Dominus virtutum, et convertar ad vos, dicit Dominus virtutum.<verse eID="Zech.1.3" />
+        <verse sID="Zech.1.4" osisID="Zech.1.4" />Et nolite fieri sicut patres vestri, quos arguerunt prophetae qui prius fuerant, dicentes, Haec dicit Dominus omnipotens, Convertimini a viis vestris pessimis, et ab adinventionibus vestris malis, et non attenderunt, ut audirent me, dicit Dominus.<verse eID="Zech.1.4" />
+        <verse sID="Zech.1.5" osisID="Zech.1.5" />Patres vestri ubi sunt, et prophetae? Nunquid in sempiternum vivent?<verse eID="Zech.1.5" />
+        <verse sID="Zech.1.6" osisID="Zech.1.6" />Veruntamen sermones meos, et legitima mea suscipite, quae ego praecipio in spiritu meo servis meis prophetis, qui comprehenderunt patres vestros, et responderunt, atque dixerunt, Sicut praeparatus est Dominus omnipotens ut faceret nobis secundum vias nostras, et secundum adinventiones nostras, sic fecit nobis.<verse eID="Zech.1.6" />
+        <verse sID="Zech.1.7" osisID="Zech.1.7" />Quarta et vigesima, undecimo mense, qui est mensis Sabat, in secundo anno sub Dario, factus est sermo Domini ad Zachariam Barachiae, filium Addo prophetam, dicens,<verse eID="Zech.1.7" />
+        <verse sID="Zech.1.8" osisID="Zech.1.8" />Vidi in nocte, et ecce vir ascendens super equum rufum, et ipse stabat inter duos montes umbrosos, et post eum equi rufi, et varii, et albi.<verse eID="Zech.1.8" />
+        <verse sID="Zech.1.9" osisID="Zech.1.9" />Et dixi, Quid sunt isti, domine? Et dixit ad me angelus, qui loquebatur in me, Ego ostendam tibi quid sint haec.<verse eID="Zech.1.9" />
+        <verse sID="Zech.1.10" osisID="Zech.1.10" />Et respondit vir, qui stabat inter montes, et dixit ad me, Isti sunt quos misit Dominus ut circuirent terram.<verse eID="Zech.1.10" />
+        <verse sID="Zech.1.11" osisID="Zech.1.11" />Et responderunt angelo Domini, qui stabat inter montes, atque dixerunt, Circuivimus omnem terram, et ecce omnis terra habitatur, et quiescit.<verse eID="Zech.1.11" />
+        <verse sID="Zech.1.12" osisID="Zech.1.12" />Et respondit angelus Domini, et dixit, Domine omnipotens usquequo non misereberis Ierusalem, et urbium Iuda, quibus iratus es? Iste est septuagesimus annus.<verse eID="Zech.1.12" />
+        <verse sID="Zech.1.13" osisID="Zech.1.13" />Et respondit Dominus angelo, qui loquebatur in me, verba bona et sermones consolatorios.<verse eID="Zech.1.13" />
+        <verse sID="Zech.1.14" osisID="Zech.1.14" />Et dixit ad me angelus, qui loquebatur in me, Clama, dicens, Haec dicit Dominus omnipotens, Zelatus sum Ierusalem et Sion zelo magno.<verse eID="Zech.1.14" />
+        <verse sID="Zech.1.15" osisID="Zech.1.15" />Et ira magna ego irascor super gentes, quae superimpositae sunt, pro eo quod ego quidem iratus sum modicum, ipsi vero superpositi sunt in mala.<verse eID="Zech.1.15" />
+        <verse sID="Zech.1.16" osisID="Zech.1.16" />Propterea haec dicit Dominus, Convertar ad Ierusalem in misericordia, et domus mea instaurabitur in ea, dicit Dominus omnipotens, et mensuar extendetur super Ierusalem.<verse eID="Zech.1.16" />
+        <verse sID="Zech.1.17" osisID="Zech.1.17" />Et dixit ad me angelus, qui loquebatur in me, Adhuc clama, dicens, Haec dicit Dominus omnipotens, Adhuc diffundentur civitates in bonis, et miserebitur Dominus adhuc Sion, et eliget adhuc Ierusalem.<verse eID="Zech.1.17" />
+        <verse sID="Zech.1.18" osisID="Zech.1.18" />Et levavi oculos meos, et vidi, et ecce quatuor cornua.<verse eID="Zech.1.18" />
+        <verse sID="Zech.1.19" osisID="Zech.1.19" />Et dixi ad angelum, qui loquebatur in me, Quid sunt haec, domine? Et dixit ad me, Haec sunt cornua, quae disperserunt Iudam, et Israel, et Ierusalem.<verse eID="Zech.1.19" />
+        <verse sID="Zech.1.20" osisID="Zech.1.20" />Et ostendit mihi Dominus quatuor fabros.<verse eID="Zech.1.20" />
+        <verse sID="Zech.1.21" osisID="Zech.1.21" />Et dixi, Quid isti veniunt facere? Et dixit, Haec sunt cornua, quae disperserunt Iudam, et Israel confregerunt, et nullus eorum levavit caput, et egressi sunt isti ut exacuant ea in manibus suis, quatuor cornua gentes sunt, quae elevaverunt cornu super terram Domini ut dispergerent eam.<verse eID="Zech.1.21" />
+      </p>
+      <chapter eID="Zech.1" />
+      <chapter sID="Zech.2" osisID="Zech.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Zech.2.1" osisID="Zech.2.1" />Et levavi oculos meos, et vidi, et ecce vir, et in manu eius funiculus geometrae.<verse eID="Zech.2.1" />
+        <verse sID="Zech.2.2" osisID="Zech.2.2" />Et dixi ad eum, Quo tu vadis? Et dixit ad me, Ut dimetiar Ierusalem, et videam quanta sit latitudo eius, et quanta longitudo.<verse eID="Zech.2.2" />
+        <verse sID="Zech.2.3" osisID="Zech.2.3" />Et ecce angelus, qui loquebatur in me, stabat, et angelus alius egrediebatur in occursum eius.<verse eID="Zech.2.3" />
+        <verse sID="Zech.2.4" osisID="Zech.2.4" />Et dixit ad eum, dicens, Curre, et loquere adolescentulo illi, dicens, Frugifera habitabitur Ierusalem a multitudine hominum, et iumentorum in medio eius.<verse eID="Zech.2.4" />
+        <verse sID="Zech.2.5" osisID="Zech.2.5" />Et ego ero illi, dicit Dominus, murus ignis in circuitu, et in gloriam ero in medio eius.<verse eID="Zech.2.5" />
+        <verse sID="Zech.2.6" osisID="Zech.2.6" />O, o, o fugite de terra Aquilonis, dicit Dominus, quia de quatuor ventis coelis congregabo vos, dicit Dominus.<verse eID="Zech.2.6" />
+        <verse sID="Zech.2.7" osisID="Zech.2.7" />In Sion Salvamini, qui habitatis filiam Babylonis,<verse eID="Zech.2.7" />
+        <verse sID="Zech.2.8" osisID="Zech.2.8" />haec enim dicit Dominus omnipotens, Post gloriam misit me ad gentes, quae spoliaverunt vos, quia qui tetigerit vos, quasi tangat pupillam oculi eius,<verse eID="Zech.2.8" />
+        <verse sID="Zech.2.9" osisID="Zech.2.9" />ecce ego inferam manum meam super eos, et erunt praedae his, qui servierant eis, et cognoscetis quia Dominus omnipotens misit me.<verse eID="Zech.2.9" />
+        <verse sID="Zech.2.10" osisID="Zech.2.10" />Laetare, et gaude filia Sion, quia ecce veniam, et habitabo in medio tui, dicit Dominus.<verse eID="Zech.2.10" />
+        <verse sID="Zech.2.11" osisID="Zech.2.11" />Et confugient gentes multae ad Dominum in die illa, et erunt ei in populum, et habitabunt in medio tui, et scies quoniam Dominus omnipotens misit me ad te.<verse eID="Zech.2.11" />
+        <verse sID="Zech.2.12" osisID="Zech.2.12" />Et possidebit Dominus Iudam partem suam in terra sancta, et eliget adhuc Ierusalem.<verse eID="Zech.2.12" />
+        <verse sID="Zech.2.13" osisID="Zech.2.13" />Timeat omnis caro a facie Domini, quoniam surrexit de nubibus sanctis suis.<verse eID="Zech.2.13" />
+      </p>
+      <chapter eID="Zech.2" />
+      <chapter sID="Zech.3" osisID="Zech.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Zech.3.1" osisID="Zech.3.1" />Et ostendit mihi Dominus Iesum sacerdotem magnum stantem ante faciem angeli Domini, et diabolus stabat a dextris eius ut adversaretur ei.<verse eID="Zech.3.1" />
+        <verse sID="Zech.3.2" osisID="Zech.3.2" />Et dixit Dominus ad diabolum, Increpet Dominus in te diabole, in increpet in te Dominus, qui elegit Ierusalem, nonne iste ut torris est erutus de igne?<verse eID="Zech.3.2" />
+        <verse sID="Zech.3.3" osisID="Zech.3.3" />Et Iesus indutus erat vestibus sordidis, et stabat ante faciem angeli.<verse eID="Zech.3.3" />
+        <verse sID="Zech.3.4" osisID="Zech.3.4" />Et respondit, et ait ad astantes coram facie sua, dicens, Auferte vestimenta sordida ab eo. Et dixit ad eum, Ecce abstuli a te iniquitates tuas. Et induite eum poderem,<verse eID="Zech.3.4" />
+        <verse sID="Zech.3.5" osisID="Zech.3.5" />et imponite cidarim mundam super caput eius. Et imposuerunt cidarim mundam super caput eius, et circumdederunt eum vestimentis, et angelus Domini stabat.<verse eID="Zech.3.5" />
+        <verse sID="Zech.3.6" osisID="Zech.3.6" />Et contestabatur angelus Domini ad Iesum, dicens,<verse eID="Zech.3.6" />
+        <verse sID="Zech.3.7" osisID="Zech.3.7" />Haec dicit Dominus omnipotens, Si in viis meis ambulaveris, et praecepta mea custodieris. Et tu iudicabis domum meam, et si custodieris atrium meum, dabo tibi qui conversentur in medio stantium istorum.<verse eID="Zech.3.7" />
+        <verse sID="Zech.3.8" osisID="Zech.3.8" />Audi ergo Iesu sacerdos magnae, et proximi tui, qui sedent ante faciem tuam, quia viri portentorum spectatores sunt, quia ecce ego ADDUCAM SERVUM MEUM ORIENTEM.<verse eID="Zech.3.8" />
+        <verse sID="Zech.3.9" osisID="Zech.3.9" />Quia lapis, quem dedi ante faciem Iesu, super lapidem unum septem oculi sunt, ecce ego fodiam foveam, dicit Dominus omnipotens, et contrectabo omnem iniquitatem terrae illius in die uno.<verse eID="Zech.3.9" />
+        <verse sID="Zech.3.10" osisID="Zech.3.10" />In die illo, dicit Dominus omnipotens, vocabit unusquisque proximum suum subter vitem, et subter ficum.<verse eID="Zech.3.10" />
+      </p>
+      <chapter eID="Zech.3" />
+      <chapter sID="Zech.4" osisID="Zech.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Zech.4.1" osisID="Zech.4.1" />Et reversus est angelus, qui loquebatur in me, et suscitavit me, sicut suscitari solet homo de somno suo.<verse eID="Zech.4.1" />
+        <verse sID="Zech.4.2" osisID="Zech.4.2" />Et dixit ad me, Quid tu vides? Et dixi, Vidi, et ecce candelabrum aureum totum, et lampas super eum, et septem lucernas super illud, et septem infusoria lucernarum, quae erant super illud.<verse eID="Zech.4.2" />
+        <verse sID="Zech.4.3" osisID="Zech.4.3" />Et ecce duae olivae super illud. Una a dextris lampadis, et una a sinistris.<verse eID="Zech.4.3" />
+        <verse sID="Zech.4.4" osisID="Zech.4.4" />Et interrogavi, et dixi ad angelum, qui loquebatur in me, dicens, Quid sunt haec, domine?<verse eID="Zech.4.4" />
+        <verse sID="Zech.4.5" osisID="Zech.4.5" />Respondensque angelus, qui loquebatur in me, dixit ad me, Non cognoscis quid sunt haec? Et dixi, Non, domine.<verse eID="Zech.4.5" />
+        <verse sID="Zech.4.6" osisID="Zech.4.6" />Et respondit, et ait ad me, dicens, Iste est sermo Domini ad Zorobabel, dicens, Non in fortitudine magna, neque in robore, sed in spiritu meo, dicit Dominus omnipotens.<verse eID="Zech.4.6" />
+        <verse sID="Zech.4.7" osisID="Zech.4.7" />Quis es tu mons magne ante faciem Zorobabel, ut corrigas? Et educam lapidem haereditatis, aequalitatem gratiae gratiam eius.<verse eID="Zech.4.7" />
+        <verse sID="Zech.4.8" osisID="Zech.4.8" />Et factus est sermo Domini ad me, dicens,<verse eID="Zech.4.8" />
+        <verse sID="Zech.4.9" osisID="Zech.4.9" />Manus Zorobabel fundaverunt domum istam, et manus eius complebunt eam, et scies quoniam Dominus omnipotens misit me ad te.<verse eID="Zech.4.9" />
+        <verse sID="Zech.4.10" osisID="Zech.4.10" />Quis enim despexit in dies parvos? Et laetabuntur, et videbunt lapidem stanneum in manu Zorobabel. Septem isti oculi Domini sunt, qui respiciunt super omnem terram.<verse eID="Zech.4.10" />
+        <verse sID="Zech.4.11" osisID="Zech.4.11" />Et respondi, et dixi ad eum, Quid sunt duae olivae istae a dextris candelabri, et a sinistris?<verse eID="Zech.4.11" />
+        <verse sID="Zech.4.12" osisID="Zech.4.12" />Et interrogavi secundo, et dixi ad eum, Quid sunt duo rami olivarum, qui in manibus duarum narium aurearum sunt, et quae infundunt et retrahunt suffusoria aurea?<verse eID="Zech.4.12" />
+        <verse sID="Zech.4.13" osisID="Zech.4.13" />Et dixit ad me, Nescis quid sunt haec? Et dixi, Nequaquam, domine.<verse eID="Zech.4.13" />
+        <verse sID="Zech.4.14" osisID="Zech.4.14" />Et ait, Isti sunt duo filii pinguedinis, qui assistunt Domino universae terrae.<verse eID="Zech.4.14" />
+      </p>
+      <chapter eID="Zech.4" />
+      <chapter sID="Zech.5" osisID="Zech.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Zech.5.1" osisID="Zech.5.1" />Et conversus sum, et levavi oculos meos, et vidi falcem volantem.<verse eID="Zech.5.1" />
+        <verse sID="Zech.5.2" osisID="Zech.5.2" />Et dixit ad me, Quid tu vides? Et dixi, Ego video falcem volantem, longitudinis cubitorum viginti, et latitudinis cubitorum decem.<verse eID="Zech.5.2" />
+        <verse sID="Zech.5.3" osisID="Zech.5.3" />Et dixit ad me, Haec est maledictio, quae egreditur super faciem omnis terrae, quia omnis fur ex hoc usque ad mortem punietur, et omnis periurus ex hoc usque ad mortem cruciabitur.<verse eID="Zech.5.3" />
+        <verse sID="Zech.5.4" osisID="Zech.5.4" />Et educam illud, dicit Dominus omnipotens, et ingredietur in domum furis, et domum iurantis in nomine meo mendaciter, et requiescet in medio domus eius, et consumet eum, et ligna eius, et lapides eius.<verse eID="Zech.5.4" />
+        <verse sID="Zech.5.5" osisID="Zech.5.5" />Et egressus est angelus, qui loquebatur in me, et dixit ad me, Suspice oculis tuis, et vide quid sit quod egreditur.<verse eID="Zech.5.5" />
+        <verse sID="Zech.5.6" osisID="Zech.5.6" />Et dixi, Quid est? Et ait, Haec est mensura, quae egreditur. Et ait, Haec est iniquitas eorum in omni terra.<verse eID="Zech.5.6" />
+        <verse sID="Zech.5.7" osisID="Zech.5.7" />Et ecce talentum plumbi elevatum est, et ecce mulier una sedebat in medio mensurae.<verse eID="Zech.5.7" />
+        <verse sID="Zech.5.8" osisID="Zech.5.8" />Et dixit, Haec est iniquitas. Et proiecit eam in medio mensurae, et proiecit lapidem plumbeum in os eius.<verse eID="Zech.5.8" />
+        <verse sID="Zech.5.9" osisID="Zech.5.9" />Et levavi oculos meos, et vidi, et ecce duae mulieres egredientes, et spiritus in alis earum, et ipsae habebant alas sicut alae sunt upupae, et elevaverunt mensuram inter terram et coelum.<verse eID="Zech.5.9" />
+        <verse sID="Zech.5.10" osisID="Zech.5.10" />Et dixi ad angelum, qui loquebatur in me, Quo istae deferunt mensuram?<verse eID="Zech.5.10" />
+        <verse sID="Zech.5.11" osisID="Zech.5.11" />Et dixit ad me, Ut aedificent ei domum in terra Babylonis, et praeparent, et ponant eam ibi super sedem suam.<verse eID="Zech.5.11" />
+      </p>
+      <chapter eID="Zech.5" />
+      <chapter sID="Zech.6" osisID="Zech.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Zech.6.1" osisID="Zech.6.1" />Et conversus sum, et levavi oculos meos, et vidi, et ecce quatuor quadrigae egredientes de medio duorum montium, et montes, erant montes aenei.<verse eID="Zech.6.1" />
+        <verse sID="Zech.6.2" osisID="Zech.6.2" />In quadriga prima equi rufi, et in quadriga secunda equi nigri,<verse eID="Zech.6.2" />
+        <verse sID="Zech.6.3" osisID="Zech.6.3" />et in quadriga tertia equi albi, et in quadriga quarta equi varii, sturnini.<verse eID="Zech.6.3" />
+        <verse sID="Zech.6.4" osisID="Zech.6.4" />Et respondi, et dixi ad angelum, qui loquebatur in me, Quid sunt haec, domine?<verse eID="Zech.6.4" />
+        <verse sID="Zech.6.5" osisID="Zech.6.5" />Et respondit angelus, qui loquebatur in me, et dixit, Hi sunt quatuor venti coeli, qui egrediuntur, ut assistant Domino omnis terrae.<verse eID="Zech.6.5" />
+        <verse sID="Zech.6.6" osisID="Zech.6.6" />In quo erant equi nigri, egrediebantur super terram Aquilonis, et albi egrediebantur post eos, et varii exibant in terram Austri.<verse eID="Zech.6.6" />
+        <verse sID="Zech.6.7" osisID="Zech.6.7" />Et sturnini egrediebantur, et considerabant ut circuirent terram. Et dixit, Ite, et circuite terram, et circuierunt terram.<verse eID="Zech.6.7" />
+        <verse sID="Zech.6.8" osisID="Zech.6.8" />Et clamavit, et locutus est ad me, dicens, Ecce qui egrediuntur super terram Aquilonis, requiescere fecerunt furorem meum in terra Aquilonis.<verse eID="Zech.6.8" />
+        <verse sID="Zech.6.9" osisID="Zech.6.9" />Et factus est sermo Domini ad me, dicens,<verse eID="Zech.6.9" />
+        <verse sID="Zech.6.10" osisID="Zech.6.10" />Accipe quae de captivitate sunt, a principibus, et ab utilibus eius, et qui cognoverunt eam. Et ingredieris tu in die illa in domum Iosiae, filii Sophoniae, qui venit de Babylone.<verse eID="Zech.6.10" />
+        <verse sID="Zech.6.11" osisID="Zech.6.11" />Et accipies argentum et aurum, et facies coronas, et impones super caput Iesu Iosedec sacerdotis magni,<verse eID="Zech.6.11" />
+        <verse sID="Zech.6.12" osisID="Zech.6.12" />et dices ad eum, Haec dicit Dominus omnipotens, ECCE VIR, ORIENS NOMEN EIUS, et subter eum orietur, et aedificabit domum Domini.<verse eID="Zech.6.12" />
+        <verse sID="Zech.6.13" osisID="Zech.6.13" />Et ipse accipiet virtutem, et sedebit, et imperabit super throno suo, et erit sacerdos a dextris eius, et consilium pacis erit inter duos.<verse eID="Zech.6.13" />
+        <verse sID="Zech.6.14" osisID="Zech.6.14" />Corona autem exspectantibus, et utilibus eius, et qui cognoverunt eam, et in gratiam filii Sophoniae, et in psalmum in domo Domini.<verse eID="Zech.6.14" />
+        <verse sID="Zech.6.15" osisID="Zech.6.15" />Et qui longe sunt ab eis, venient, et aedificabunt in domo Domini, et scietis quia Dominus omnipotens misit me ad vos. Et erit, si auditu audieritis vocem Domini Dei vestri.<verse eID="Zech.6.15" />
+      </p>
+      <chapter eID="Zech.6" />
+      <chapter sID="Zech.7" osisID="Zech.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Zech.7.1" osisID="Zech.7.1" />Et factum est in quarto anno sub Dario rege, factus est sermo Domini ad Zachariam, quarta die mensis noni, qui est Chasleu.<verse eID="Zech.7.1" />
+        <verse sID="Zech.7.2" osisID="Zech.7.2" />Et misit in Bethel Sarasar, et Arabesser rex, et viri eius, ut deprecarentur Dominum,<verse eID="Zech.7.2" />
+        <verse sID="Zech.7.3" osisID="Zech.7.3" />dicens ad sacerdotes domus Domini omnipotentis, et ad prophetas, dicens, Ingressa est huc in mense quinto sanctificatio, iuxta quod fecerunt iam annis pluribus.<verse eID="Zech.7.3" />
+        <verse sID="Zech.7.4" osisID="Zech.7.4" />Et factus est sermo Domini virtutum ad me, dicens,<verse eID="Zech.7.4" />
+        <verse sID="Zech.7.5" osisID="Zech.7.5" />Dic ad omnem populum terrae, et ad sacerdotes, dicens, Si ieiunatis, et plangitis in quintis et septimis, et ecce septuaginta anni, nunquid ieiunium ieiunastis mihi?<verse eID="Zech.7.5" />
+        <verse sID="Zech.7.6" osisID="Zech.7.6" />Et si comeditis, aut bibitis, nonne vos comeditis, et vos bibitis?<verse eID="Zech.7.6" />
+        <verse sID="Zech.7.7" osisID="Zech.7.7" />Nunquid non ista sunt verba mea, quae locutus est Dominus in manibus prophetarum qui fuerunt prius, quando Ierusalem habitabatur, et erat abundans, et civitates eius per circuitum, et montana, et campestria habitabantur?<verse eID="Zech.7.7" />
+        <verse sID="Zech.7.8" osisID="Zech.7.8" />Et factus est sermo Domini ad Zachariam, dicens,<verse eID="Zech.7.8" />
+        <verse sID="Zech.7.9" osisID="Zech.7.9" />Haec dicit Dominus omnipotens, dicens, Iudicium iustum iudicate, et misericordiam et miserationem faciat unusquisque ad fratrem suum.<verse eID="Zech.7.9" />
+        <verse sID="Zech.7.10" osisID="Zech.7.10" />Et viduam, et pupillum, et pauperem non opprimatis, et malitiae unusquisque fratris sui nolite meminisse in cordibus vestris.<verse eID="Zech.7.10" />
+        <verse sID="Zech.7.11" osisID="Zech.7.11" />Et noluerunt attendere, et dederunt dorsum contemnens, et aures suas aggravaverunt ut non audirent.<verse eID="Zech.7.11" />
+        <verse sID="Zech.7.12" osisID="Zech.7.12" />Et cor suum posuerunt inobediens, ut non audirent legem meam, et verba mea quae misit Dominus omnipotens in spiritu suo in manibus prophetarum priorum, et facta est ira magna a Domino omnipotente.<verse eID="Zech.7.12" />
+        <verse sID="Zech.7.13" osisID="Zech.7.13" />Et erit sicut dixit, et non audierunt eum, sic clamabunt, et non exaudiam eos, dicit Dominus omnipotens.<verse eID="Zech.7.13" />
+        <verse sID="Zech.7.14" osisID="Zech.7.14" />Et eiiciam eos in omnes gentes, quas ignoraverunt, et terra desolata est post eos a perambulante, et revertente, et posuerunt terram electam in solitudinem.<verse eID="Zech.7.14" />
+      </p>
+      <chapter eID="Zech.7" />
+      <chapter sID="Zech.8" osisID="Zech.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Zech.8.1" osisID="Zech.8.1" />Et factus est sermo Domini omnipotentis, dicens,<verse eID="Zech.8.1" />
+        <verse sID="Zech.8.2" osisID="Zech.8.2" />Haec dicit Dominus omnipotens, Zelatus sum Ierusalem et Sion zelo magno, et furore maximo zelatus sum eam.<verse eID="Zech.8.2" />
+        <verse sID="Zech.8.3" osisID="Zech.8.3" />Haec dicit Dominus omnipotens, Revertar ad Sion, et habitabo in medio Ierusalem, et vocabitur Ierusalem Civitas vera, et Mons Domini omnipotentis mons sanctus.<verse eID="Zech.8.3" />
+        <verse sID="Zech.8.4" osisID="Zech.8.4" />Haec dicit Dominus omnipotens, Adhuc sedebunt senes et anus in plateis Ierusalem, unusquisque in manu virgam suam retinens prae multitudine dierum.<verse eID="Zech.8.4" />
+        <verse sID="Zech.8.5" osisID="Zech.8.5" />Et plateae civitatis replebuntur pueris et puellis, ludentibus in plateis eius.<verse eID="Zech.8.5" />
+        <verse sID="Zech.8.6" osisID="Zech.8.6" />Haec dicit Dominus omnipotens, Si impossibile erit coram reliquiis populi huius in diebus illis, nunquid et coram me impossibile erit, dicit Dominus omnipotens?<verse eID="Zech.8.6" />
+        <verse sID="Zech.8.7" osisID="Zech.8.7" />Haec dicit Dominus omnipotens, Ecce ego salvabo populum meum de terra Orientis, et de terra Occasus solis.<verse eID="Zech.8.7" />
+        <verse sID="Zech.8.8" osisID="Zech.8.8" />Et adducam eos, et habitabunt in medio Ierusalem, et erunt mihi in populum, et ego ero eis in Deum in veritate, et in iustitia.<verse eID="Zech.8.8" />
+        <verse sID="Zech.8.9" osisID="Zech.8.9" />Haec dicit Dominus omnipotens, Confortentur manus vestrae, qui auditis in diebus his sermones istos per os prophetarum, in die quo fundata est domus Domini omnipotentis, ut templum aedificaretur.<verse eID="Zech.8.9" />
+        <verse sID="Zech.8.10" osisID="Zech.8.10" />Quia ante dies illos merces hominum non erit in lucrum, et merces iumentorum non subsistet. Et egredienti, et ingredienti non erit pax prae tribulatione, et emittam omnes homines, unumquemque ad proximum suum.<verse eID="Zech.8.10" />
+        <verse sID="Zech.8.11" osisID="Zech.8.11" />Et nunc non iuxta dies priores ego faciam reliquiis populi huius, dicit Dominus omnipotens,<verse eID="Zech.8.11" />
+        <verse sID="Zech.8.12" osisID="Zech.8.12" />sed pacem monstrabo, vinea dabit fructum suum, et terra dabit germina sua, et coelum dabit rorem suum, et possidere faciam reliquias populi mei haec omnia.<verse eID="Zech.8.12" />
+        <verse sID="Zech.8.13" osisID="Zech.8.13" />Et erit, sicut eratis in maledictione inter gentes, domus Iuda, et domus Israel, sic salvabo vos, et eritis in benedictione, confidite, et confortamini in cordibus vestris.<verse eID="Zech.8.13" />
+        <verse sID="Zech.8.14" osisID="Zech.8.14" />Quia haec dicit Dominus omnipotens, Sicut cogitavi ut affligerem vos, in eo quod me ad iracundiam provocassent patres vestri, dicit Dominus omnipotens,<verse eID="Zech.8.14" />
+        <verse sID="Zech.8.15" osisID="Zech.8.15" />et non me poenituit, sic paratus sum, et cogitavi in diebus istis ut benefaciam Ierusalem, et domui Iuda, confidite.<verse eID="Zech.8.15" />
+        <verse sID="Zech.8.16" osisID="Zech.8.16" />Isti sermones sunt, quos facietis, Loquimini veritatem unusquisque cum proximo suo, veritatem, et iudicium pacificum et iustum iudicate in portis vestris.<verse eID="Zech.8.16" />
+        <verse sID="Zech.8.17" osisID="Zech.8.17" />Et unusquisque malum proximo suo non cogitet in cordibus vestris, et iuramentum mendax ne diligatis, quia haec omnia odi, dicit Dominus omnipotens.<verse eID="Zech.8.17" />
+        <verse sID="Zech.8.18" osisID="Zech.8.18" />Et factus est sermo Domini omnipotentis ad me, dicens,<verse eID="Zech.8.18" />
+        <verse sID="Zech.8.19" osisID="Zech.8.19" />Haec dicit Dominus omnipotens, Ieiunium quartum, et ieiunium quintum, et ieiunium septimum, et ieiunium decimum erunt domui Iuda in gaudium, et in laetitiam, et in festivitates bonas, et laetamini, et veritatem et pacem diligite.<verse eID="Zech.8.19" />
+        <verse sID="Zech.8.20" osisID="Zech.8.20" />Haec dicit Dominus omnipotens, Adhuc venient populi multi, et habitatores urbium multarum,<verse eID="Zech.8.20" />
+        <verse sID="Zech.8.21" osisID="Zech.8.21" />et congregabuntur qui habitant civitates, in una civitate, dicentes, Eamus, ut deprecemur faciem Domini, et quaeramus vultum Domini omnipotentis, vadam etiam ego.<verse eID="Zech.8.21" />
+        <verse sID="Zech.8.22" osisID="Zech.8.22" />Et venient populi multi, et gentes plurimae, ut quaerant faciem Domini omnipotentis in Ierusalem, et ut deprecentur faciem Domini.<verse eID="Zech.8.22" />
+        <verse sID="Zech.8.23" osisID="Zech.8.23" />Haec dicit Dominus omnipotens, In diebus illis, si apprehenderint decem viri de omnibus linguis gentium, et tenuerint fimbriam viri Iudaei, dicentes, Ibimus tecum, quia audivimus quod Deus vobiscum est.<verse eID="Zech.8.23" />
+      </p>
+      <chapter eID="Zech.8" />
+      <chapter sID="Zech.9" osisID="Zech.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Zech.9.1" osisID="Zech.9.1" />Assumptio verbi Domini in terra Adrach, et Damasci sacrificii eius, quia Dominus respecit homines, et omnes tribus Israel.<verse eID="Zech.9.1" />
+        <verse sID="Zech.9.2" osisID="Zech.9.2" />Emath in finibus eius, Tyrus, et Sidon, quoniam sapientes fuerunt nimis.<verse eID="Zech.9.2" />
+        <verse sID="Zech.9.3" osisID="Zech.9.3" />Et aedificavit Tyrus munitionem suam, et congregavit argentum ut humum, et aurum ut lutum viarum.<verse eID="Zech.9.3" />
+        <verse sID="Zech.9.4" osisID="Zech.9.4" />Propterea Dominus possidebit eam, et percutiet in mari fortitudinem eius, et ipsa in igne concremabitur.<verse eID="Zech.9.4" />
+        <verse sID="Zech.9.5" osisID="Zech.9.5" />Videbit Ascalon, et timebit. Et Gaza, et dolebit nimis. Et Accaron, quoniam confusa est de spe sua, et peribit rex de Gaza, et Ascalon non habitabitur.<verse eID="Zech.9.5" />
+        <verse sID="Zech.9.6" osisID="Zech.9.6" />Et habitabunt alienigenae in Azoto, et destruam iniuriam alienigenarum.<verse eID="Zech.9.6" />
+        <verse sID="Zech.9.7" osisID="Zech.9.7" />Et auferam sanguinem eorum de ore illorum, et abominationes eorum de medio dentium illorum, et remanebunt et isti Deo nostro, et erunt ut chiliarchus in Iuda, et Accaron sicut Iebusaeus.<verse eID="Zech.9.7" />
+        <verse sID="Zech.9.8" osisID="Zech.9.8" />Et ponam in domo mea elevationem, ut nemo pertranseat, sive revertatur, et nequaquam superveniat eis ultra abactor, et eminans, quia nunc vidi in oculis meis.<verse eID="Zech.9.8" />
+        <verse sID="Zech.9.9" osisID="Zech.9.9" />Gaude vehementer filia Sion, praedica filia Ierusalem, ECCE REX TUUS veniet tibi iustus, et salvans, ipse mansuetus, et ascendens super subiugalem, et pullum novum.<verse eID="Zech.9.9" />
+        <verse sID="Zech.9.10" osisID="Zech.9.10" />Et disperdet quadrigas ex Ephraim, et equum de Ierusalem, et disperdet arcus pugnantium, et multitudinem, et pacem ex gentibus, et dominabitur ab aquis usque ad mare, et a fluminibus usque ad exitus terrae.<verse eID="Zech.9.10" />
+        <verse sID="Zech.9.11" osisID="Zech.9.11" />Et tu in sanguine testamenti emisisti vinctos tuos de lacu, qui non habet aquam.<verse eID="Zech.9.11" />
+        <verse sID="Zech.9.12" osisID="Zech.9.12" />Sedebitis in munitione vincti congregationis, et pro una die peregrinationis tuae duplicia reddam tibi.<verse eID="Zech.9.12" />
+        <verse sID="Zech.9.13" osisID="Zech.9.13" />Quoniam tetendi te Iuda mihi quasi arcum, implevi Ephraim, et suscitabo filios tuos Sion super filios Graecorum, et attrectabo te quasi gladium pugnatoris.<verse eID="Zech.9.13" />
+        <verse sID="Zech.9.14" osisID="Zech.9.14" />Et Dominus Deus super ipsos apparebit. Et egredietur sicut fulgur, sagitta eius, et Dominus Deus omnipotens sonabit in tuba, et ibit in commotione terroris sui.<verse eID="Zech.9.14" />
+        <verse sID="Zech.9.15" osisID="Zech.9.15" />Dominus omnipotens proteget eos, et consument eos, et obruent in lapidibus fundae, et bibent sanguinem eorum sicut vinum, et implebunt sicut phialas altare.<verse eID="Zech.9.15" />
+        <verse sID="Zech.9.16" osisID="Zech.9.16" />Et salvabit eos Dominus in die illa, sicut oves populum suum, quia lapides sancti volventur super terram eius.<verse eID="Zech.9.16" />
+        <verse sID="Zech.9.17" osisID="Zech.9.17" />Quia si quid optimum illius, et si quid bonum ab eo, frumentum iuvenibus, et vinum boni odoris ad virgines.<verse eID="Zech.9.17" />
+      </p>
+      <chapter eID="Zech.9" />
+      <chapter sID="Zech.10" osisID="Zech.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Zech.10.1" osisID="Zech.10.1" />Petite pluviam a Domino opportunam, temporaneam, et serotinam, Dominus fecit phantasias, et pluviam hiemalem dabit eis, unicuique herbam in agro.<verse eID="Zech.10.1" />
+        <verse sID="Zech.10.2" osisID="Zech.10.2" />Quoniam hi qui loquebantur, locuti sunt labores, et divini visiones falsas, et somnia falsa locuti sunt, vane consolabantur, ideo arefacti sunt sicut oves, et afflicti sunt, quia non erat qui sanaret.<verse eID="Zech.10.2" />
+        <verse sID="Zech.10.3" osisID="Zech.10.3" />Super pastores concitatus est furor meus, et super agnos visitabo, et visitabit Dominus Deus omnipotens gregum suum, domum Iuda, et ponet eos sicut equum decorem suum in praelio.<verse eID="Zech.10.3" />
+        <verse sID="Zech.10.4" osisID="Zech.10.4" />Et ex ipso respexit, et ex ipso posuit, et ex ipso arcus in furore, ex ipso egredietur omnis qui educit simul.<verse eID="Zech.10.4" />
+        <verse sID="Zech.10.5" osisID="Zech.10.5" />Et erunt quasi bellatores conculcantes lutum viarum in praelio, et praeparabuntur, quia Dominus cum eis est, et confundentur ascensores equorum.<verse eID="Zech.10.5" />
+        <verse sID="Zech.10.6" osisID="Zech.10.6" />Et confortabo domum Iuda, et domum Ioseph salvabo, et habitare eos faciam, quia dilexi eos, et erunt sicut quando non eos abieceram, quia ego Dominus Deus eorum, et exaudiam eos.<verse eID="Zech.10.6" />
+        <verse sID="Zech.10.7" osisID="Zech.10.7" />Et erunt quasi bellatores Ephraim, et laetabitur cor eorum quasi in vino, et filii eorum videbunt, et laetabuntur, et gaudebit cor eorum in Domino.<verse eID="Zech.10.7" />
+        <verse sID="Zech.10.8" osisID="Zech.10.8" />Significabo eis, et suscipiam illos, quia redimam eos, et multiplicabuntur sicut erant plurimi.<verse eID="Zech.10.8" />
+        <verse sID="Zech.10.9" osisID="Zech.10.9" />Et seminabo eos in populis. Et qui erant de longe, recordabuntur mei, nutrient filios suos, et convertentur.<verse eID="Zech.10.9" />
+        <verse sID="Zech.10.10" osisID="Zech.10.10" />Et convertam eos de terra Aegypti, et de Assyriis suscipiam illos, et in Galaaditin, et in Libanum introducam eos, et nullus ex eis deerit,<verse eID="Zech.10.10" />
+        <verse sID="Zech.10.11" osisID="Zech.10.11" />et pertransibunt in mari angusto, et percutient in mari fluctus, et siccabuntur omnia profunda fluviorum, et auferetur universa iniuria Assyriorum, et sceptrum Aegypti tolletur.<verse eID="Zech.10.11" />
+        <verse sID="Zech.10.12" osisID="Zech.10.12" />Et confortabo eos in Domino Deo suo, et in nomine eius gloriabuntur, dicit Dominus.<verse eID="Zech.10.12" />
+      </p>
+      <chapter eID="Zech.10" />
+      <chapter sID="Zech.11" osisID="Zech.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Zech.11.1" osisID="Zech.11.1" />Aperi Libane portas tuas, et comedat ignis cedros tuas.<verse eID="Zech.11.1" />
+        <verse sID="Zech.11.2" osisID="Zech.11.2" />Ululet pinus, quia cecidit cedrus, quia optimates contriti sunt, ululate quercus Basanitidis, quoniam depositus est saltus nemorosus.<verse eID="Zech.11.2" />
+        <verse sID="Zech.11.3" osisID="Zech.11.3" />Vox lugentium pastorum, quoniam misera facta est magnificentia eorum, vox rugientium leonum, quia afflictus est fremitus Iordanis.<verse eID="Zech.11.3" />
+        <verse sID="Zech.11.4" osisID="Zech.11.4" />Haec dicit Dominus omnipotens, Pasce oves occisionis,<verse eID="Zech.11.4" />
+        <verse sID="Zech.11.5" osisID="Zech.11.5" />quas qui possederunt, interficiebant, et non agebant poenitentiam, et qui vendebant eas, dicebant, Benedictus Dominus, et divites facti sumus, et pastores earum nihil patiebantur super eis.<verse eID="Zech.11.5" />
+        <verse sID="Zech.11.6" osisID="Zech.11.6" />Ideo non parcam ultra super habitatores terrae, dicit Dominus, et ecce ego tradam homines, unumquemque in manus proximi sui, et in manu regum eius, et concident terram, et non eruam de manu eorum.<verse eID="Zech.11.6" />
+        <verse sID="Zech.11.7" osisID="Zech.11.7" />Et pascam oves occisionis in Chanaanitide. Et assumam mihi duas virgas, unam vocavi Decorem, et alteram vocavi Funiculum, et pascam oves.<verse eID="Zech.11.7" />
+        <verse sID="Zech.11.8" osisID="Zech.11.8" />Et auferam tres pastores in mense uno, et ingravescet anima mea super eos, siquidem et animae eorum rugiebant super me.<verse eID="Zech.11.8" />
+        <verse sID="Zech.11.9" osisID="Zech.11.9" />Et dixi, Non pascam eos, quod moritur, moriatur, et quod deficit, deficiat, et reliqui devorent unusquisque carnes proximi sui.<verse eID="Zech.11.9" />
+        <verse sID="Zech.11.10" osisID="Zech.11.10" />Et assumam virgam Pulchram, et proiiciam eam, ut dissipem testamentum meum, quod disposui ad omnes populos.<verse eID="Zech.11.10" />
+        <verse sID="Zech.11.11" osisID="Zech.11.11" />Et dissipabitur in die illa, et cognoscent Chananaei oves, quae custodiuntur mihi, quia verbum Domini est.<verse eID="Zech.11.11" />
+        <verse sID="Zech.11.12" osisID="Zech.11.12" />Et dicam ad eos, Si bonum est in conspectu vestro, date statuentes mercedem meam, aut renuite. Et statuerunt mercedem meam triginta argentos.<verse eID="Zech.11.12" />
+        <verse sID="Zech.11.13" osisID="Zech.11.13" />Et dixit Dominus ad me, Depone eos in conflatorium, et recogita si probatum est, sicut probatus sum pro eis. Et tuli triginta argenteos, et misi eos in domum Domini in conflatorium.<verse eID="Zech.11.13" />
+        <verse sID="Zech.11.14" osisID="Zech.11.14" />Et abieci virgam meam secundam, quae appellabatur Funiculus, ut dissiparem testamentum, quod erat inter Iudam et Israel.<verse eID="Zech.11.14" />
+        <verse sID="Zech.11.15" osisID="Zech.11.15" />Et dixit Dominus ad me, Adhuc sume tibi vasa pastoralia pastoris imperiti.<verse eID="Zech.11.15" />
+        <verse sID="Zech.11.16" osisID="Zech.11.16" />Quia ecce ego suscitabo pastorem super terram, qui derelictum non visitet, et dispersum non requirat, et fractum non sanet, et integrum non dirigat, et carnes electorum devoret, et talos eorum pervertat.<verse eID="Zech.11.16" />
+        <verse sID="Zech.11.17" osisID="Zech.11.17" />O qui pascitis vana, et qui dereliquistis oves, gladius super brachium eius, et super oculum eius dextrum, brachium eius ariditate siccabitur, et oculus dexter eius caecitate obscurabitur.<verse eID="Zech.11.17" />
+      </p>
+      <chapter eID="Zech.11" />
+      <chapter sID="Zech.12" osisID="Zech.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Zech.12.1" osisID="Zech.12.1" />Assumptio verbi Domini super Israel. Dicit Dominus extendens coelum, et fundans terram, et fingens spiritum hominis in eo,<verse eID="Zech.12.1" />
+        <verse sID="Zech.12.2" osisID="Zech.12.2" />Ecce ego ponam Ierusalem ut superliminaria, quae moventur omnibus populis in circuitu, et in Iudaea, et erit obsidio circa Ierusalem.<verse eID="Zech.12.2" />
+        <verse sID="Zech.12.3" osisID="Zech.12.3" />Et erit, In die illo ponam Ierusalem lapidem qui conculcatur a cunctis gentibus, omnis, qui conculcaverit eam, illudens illudet, et congregabo super eam omnes gentes terrae.<verse eID="Zech.12.3" />
+        <verse sID="Zech.12.4" osisID="Zech.12.4" />In die illa, dicit Dominus omnipotens, percutiam omnem equum in stupore, et ascensorem eius in amentia, super domum autem Iuda aperiam oculos meos, et omnes equos populorum percutiam in caecitate.<verse eID="Zech.12.4" />
+        <verse sID="Zech.12.5" osisID="Zech.12.5" />Et dicent tribuni Iuda in cordibus suis, Inveniemus nobis qui habitant Ierusalem, in Domino omnipotente Deo eorum.<verse eID="Zech.12.5" />
+        <verse sID="Zech.12.6" osisID="Zech.12.6" />In die illa ponam tribunos Iuda sicut torrem ignis in lignis, et sicut fenum ignis in stipula, et devorabunt a dextris et sinistris omnes populos Domini per circuitum, et habitabitur Ierusalem adhuc in semetipsa.<verse eID="Zech.12.6" />
+        <verse sID="Zech.12.7" osisID="Zech.12.7" />Et salva faciet Dominus tabernacula Iuda, sicut a principio, ut non magnificetur gloria domus David, et elatio habitatorum Ierusalem super Iudam.<verse eID="Zech.12.7" />
+        <verse sID="Zech.12.8" osisID="Zech.12.8" />Et erit in die illa, proteget Dominus habitatores Ierusalem, et qui infirmus in eis fuerit in die illa, erit quasi domus David. Et domus David quasi domus Dei, et angelus Domini in conspectu eorum.<verse eID="Zech.12.8" />
+        <verse sID="Zech.12.9" osisID="Zech.12.9" />Et erit in die illa, quaeram auferre omnes gentes, quae veniunt contra Ierusalem.<verse eID="Zech.12.9" />
+        <verse sID="Zech.12.10" osisID="Zech.12.10" />Et effundam super domum David, et super habitatores Ierusalem, spiritum gratiae et misericordiae, et aspicient ad me, pro eo quod insultaverunt, et plangent super eum planctum quasi super charissimum, et dolebunt dolore quasi super primogenito.<verse eID="Zech.12.10" />
+        <verse sID="Zech.12.11" osisID="Zech.12.11" />In die illa magnus erit planctus in Ierusalem, sicut planctus malogranati quod in campo succiditur.<verse eID="Zech.12.11" />
+        <verse sID="Zech.12.12" osisID="Zech.12.12" />Et planget terra per tribus ac tribus, tribus David seorsum, et mulieres eorum seorsum, tribus domus Iudae seorsum, et mulieres eorum seorsum,<verse eID="Zech.12.12" />
+        <verse sID="Zech.12.13" osisID="Zech.12.13" />tribus domus Nathan seorsum, et mulieres eorum seorsum, tribus domus Levi seorsum, et mulieres eorum seorsum, tribus Symeon seorsum, et mulieres eorum seorsum.<verse eID="Zech.12.13" />
+        <verse sID="Zech.12.14" osisID="Zech.12.14" />Omnes reliquae tribus seorsum, et mulieres eorum seorsum.<verse eID="Zech.12.14" />
+      </p>
+      <chapter eID="Zech.12" />
+      <chapter sID="Zech.13" osisID="Zech.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Zech.13.1" osisID="Zech.13.1" />In die illa erit omnis locus apertus in domo David, et habitantibus Ierusalem, et in transmutationem, et in aspersionem.<verse eID="Zech.13.1" />
+        <verse sID="Zech.13.2" osisID="Zech.13.2" />Et erit in die illa, dicit Dominus sabaoth, Disperdam nomina idolorum de terra, et non erit ultra eorum memoria, et pseudoprophetas, et spiritum immundum auferam de terra.<verse eID="Zech.13.2" />
+        <verse sID="Zech.13.3" osisID="Zech.13.3" />Et erit, si prophetaverit homo ultra, dicet ad eum pater suus, et mater sua, qui genuerunt eum, Non vives, quoniam mendacium locutus es in nomine Domini, et compedient eum pater eius et mater eius, qui genuerunt eum, cum prophetaverit.<verse eID="Zech.13.3" />
+        <verse sID="Zech.13.4" osisID="Zech.13.4" />Et erit, In die illa confundentur prophetae, unusquisque ex visione sua cum prophetaverit, et induentur pelle cilicina, qua mentiti sunt,<verse eID="Zech.13.4" />
+        <verse sID="Zech.13.5" osisID="Zech.13.5" />et dicet, Non sum prophetes ego, quia homo genuit me a iuventute mea.<verse eID="Zech.13.5" />
+        <verse sID="Zech.13.6" osisID="Zech.13.6" />Et dicam ad eum, Quid sunt plagae istae in medio manuum tuarum? Et dicet, Quibus percussus sum in domo diligentis me.<verse eID="Zech.13.6" />
+        <verse sID="Zech.13.7" osisID="Zech.13.7" />Framea consurge super pastorem meum, et super virum civem eius, dicit Dominus omnipotens, percute pastorem, et dispergentur oves, et inducam manum meam super pastores.<verse eID="Zech.13.7" />
+        <verse sID="Zech.13.8" osisID="Zech.13.8" />Et erit in die illa, dicit Dominus, duae partes peribunt, et deficient. Et tertia pars relinquetur in ea.<verse eID="Zech.13.8" />
+        <verse sID="Zech.13.9" osisID="Zech.13.9" />Et transducam tertiam partem per ignem, et uram eos sicut uritur argentum, et probabo eos sicut probatur aurum. Ipse invocabit nomen meum, et ego exaudiam eum. Et dicam, Populus meus iste est. Et ipse dicet, Dominus Deus meus es tu.<verse eID="Zech.13.9" />
+      </p>
+      <chapter eID="Zech.13" />
+      <chapter sID="Zech.14" osisID="Zech.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Zech.14.1" osisID="Zech.14.1" />Ecce dies Domini veniunt, et dividentur spolia tua in te.<verse eID="Zech.14.1" />
+        <verse sID="Zech.14.2" osisID="Zech.14.2" />Et congregabo omnes gentes super Ierusalem ad bellandum, et capietur civitas, et diripietur media pars civitatis in captivitatem, reliqui autem populi non peribunt de civitate.<verse eID="Zech.14.2" />
+        <verse sID="Zech.14.3" osisID="Zech.14.3" />Et egredietur Dominus, et praeliabitur contra gentes illas, sicut in die commissionis, et in die praelii.<verse eID="Zech.14.3" />
+        <verse sID="Zech.14.4" osisID="Zech.14.4" />Et stabunt pedes eius in die illa super montem olivarum, qui est contra Ierusalem ad Orientalem plagam, et scindetur mons olivarum, media pars eius ad Orientem, et media pars illius ad mare, voragine magna nimis. Et inclinabit media pars montis ad Aquilonem, et media pars eius ad Austrum.<verse eID="Zech.14.4" />
+        <verse sID="Zech.14.5" osisID="Zech.14.5" />Et obturabitur vallis montium meorum, et adiungetur vallis montium usque ad Asael, et replebitur sicut repleta est a facie terraemotus in diebus Osiae regis Iuda, et aderit Dominus Deus meus, et omnes sancti cum eo.<verse eID="Zech.14.5" />
+        <verse sID="Zech.14.6" osisID="Zech.14.6" />In die illa non erit lux, sed frigus et gelu erit una die.<verse eID="Zech.14.6" />
+        <verse sID="Zech.14.7" osisID="Zech.14.7" />Et dies illa nota erit Domino, et non dies neque nox, et ad vesperam erit lux.<verse eID="Zech.14.7" />
+        <verse sID="Zech.14.8" osisID="Zech.14.8" />In die illa egredietur aqua viva de Ierusalem, media eius pars ad mare primum, et media pars ad mare novissimum, in aestate et in vere erit sic.<verse eID="Zech.14.8" />
+        <verse sID="Zech.14.9" osisID="Zech.14.9" />Et erit Dominus in Regem super omnem terram, in die illa erit Dominus unus, et nomen eius unum,<verse eID="Zech.14.9" />
+        <verse sID="Zech.14.10" osisID="Zech.14.10" />circuiens omnem terram et desertum, a Gabaa usque Remmon ad Austrum Ierusalem, Rhama vero in loco permanebit, a porta Beniamin usque ad portam primam, usque ad portam angulorum, et usque ad turrem Anamael, usque ad torcularia regis.<verse eID="Zech.14.10" />
+        <verse sID="Zech.14.11" osisID="Zech.14.11" />Habitabunt in ea, et anathema ultra non erit, et habitabit Ierusalem confidens.<verse eID="Zech.14.11" />
+        <verse sID="Zech.14.12" osisID="Zech.14.12" />Et haec erit ruina, qua percutiet Dominus omnes populos, qui militaverunt contra Ierusalem, tabescent carnes eorum stantium super pedes suos, et oculi illorum defluent de foraminibus eorum, et lingua eorum tabescet in ore eorum.<verse eID="Zech.14.12" />
+        <verse sID="Zech.14.13" osisID="Zech.14.13" />Et erit in die illa stupor Domini magnus super eos, et apprehendet unusquisque manum proximi sui, et adhaerebit manus eius in manu proximi sui.<verse eID="Zech.14.13" />
+        <verse sID="Zech.14.14" osisID="Zech.14.14" />Et Iudas praeparabitur in Ierusalem, et congregabit robur omnium populorum per circuitum, aurum, et argentum, et vestes multas nimis.<verse eID="Zech.14.14" />
+        <verse sID="Zech.14.15" osisID="Zech.14.15" />Et haec erit ruina equorum et mulorum, camelorum et asinorum, et omnium iumentorum, quae fuerint in castris illis, iuxta ruinam hanc.<verse eID="Zech.14.15" />
+        <verse sID="Zech.14.16" osisID="Zech.14.16" />Et erit, Quicunque derelicti fuerint de cunctis gentibus, quae venerint contra Ierusalem, ascendent per annos singulos, ut adorent Regem, Dominum omnipotentem, et celebrent festivitatem tabernaculorum.<verse eID="Zech.14.16" />
+        <verse sID="Zech.14.17" osisID="Zech.14.17" />Et erit, Qui non ascenderint de familiis terrae ad Ierusalem, ut adorent Regem, Dominum omnipotentem, et isti illis apponentur.<verse eID="Zech.14.17" />
+        <verse sID="Zech.14.18" osisID="Zech.14.18" />Sin autem Aegypti tribus non ascenderit, nec venerit illuc, et super eos erit ruina, qua percutiet Dominus omnes gentes, quae non ascenderunt ut agerent solemnitatem scenopegiae.<verse eID="Zech.14.18" />
+        <verse sID="Zech.14.19" osisID="Zech.14.19" />Hoc erit peccatum Aegypti, et peccatum omnium gentium, quae non ascenderint ut celebrent festivitatem scenopegiae.<verse eID="Zech.14.19" />
+        <verse sID="Zech.14.20" osisID="Zech.14.20" />In die illa erit quod super frenum equi est, sanctum Domino omnipotenti, et erunt lebetes, qui in domo Domini sunt, sicut phialae ante domum altaris.<verse eID="Zech.14.20" />
+        <verse sID="Zech.14.21" osisID="Zech.14.21" />Et erit omnis lebes in Ierusalem et in Iuda sanctus Domino omnipotenti, et venient omnes qui immolent, et sument ex eis, et coquent in illis, et non erit Chananaeus ultra in domo Domini virtutum in die illo.<verse eID="Zech.14.21" />
+      </p>
+      <chapter eID="Zech.14" />
+    </div>
+  </osisText>
+</osis>

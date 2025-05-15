@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Hos" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Hos">
+        <title>hosea</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Hos</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>hosea</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Hos">
+      <title>hosea</title>
+      <chapter sID="Hos.1" osisID="Hos.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Hos.1.1" osisID="Hos.1.1" />Verbum Domini, quod factum est ad Osee filium Beeri, in diebus Oziae, Ioatham, Achaz, Ezechiae, regum Iuda, et in diebus Ieroboam filii Ioas regis Israel.<verse eID="Hos.1.1" />
+        <verse sID="Hos.1.2" osisID="Hos.1.2" />Principium verbi Domini ad Osee, et dixit Dominus ad Osee, Vade, tolle tibi uxorem fornicationis, et filios fornicationis, quia fornicans fornicabitur terra post Dominum.<verse eID="Hos.1.2" />
+        <verse sID="Hos.1.3" osisID="Hos.1.3" />Et abiit, et accepit Gomer filiam Debelaim, et concepit, et peperit filium.<verse eID="Hos.1.3" />
+        <verse sID="Hos.1.4" osisID="Hos.1.4" />Et dixit Dominus ad eum, Voca nomen eius Iezrael, quia adhuc modicum, et ulciscar sanguinem Iezrael super domum Iuda, et quiescere faciam regnum domus Israel.<verse eID="Hos.1.4" />
+        <verse sID="Hos.1.5" osisID="Hos.1.5" />Et in illa die conteram arcum Israel in valle Iezrael.<verse eID="Hos.1.5" />
+        <verse sID="Hos.1.6" osisID="Hos.1.6" />Et concepit adhuc, et peperit filiam. Et dixit ei, Voca nomen eius Absque misericordia, quia nequaquam addam ultra misereri domui Israel, sed adversans adversabor eis.<verse eID="Hos.1.6" />
+        <verse sID="Hos.1.7" osisID="Hos.1.7" />Filiorum autem Iuda miserebor, et salvabo eos in Domino Deo suo, et non salvabo eos in arcu, neque in gladio, neque in bello, neque in equis, neque in equitibus.<verse eID="Hos.1.7" />
+        <verse sID="Hos.1.8" osisID="Hos.1.8" />Et ablactavit eam, quae erat Absque misericordia. Et concepit, et peperit filium.<verse eID="Hos.1.8" />
+        <verse sID="Hos.1.9" osisID="Hos.1.9" />Et dixit, Voca nomen eius Non populus meus, quia vos non populus meus, et ego non ero vester.<verse eID="Hos.1.9" />
+        <verse sID="Hos.1.10" osisID="Hos.1.10" />Et erit numerus filiorum Israel sicut arena maris, quae non mensurabitur, nec numerari potest. Et erit in loco ubi dictum est eis, Non populus meus vos, vocabuntur Filii Dei viventis.<verse eID="Hos.1.10" />
+        <verse sID="Hos.1.11" osisID="Hos.1.11" />Et congregabuntur filii Iuda, et filii Israel simul, et ponent sibi principatum unum, et ascendent de terra, quoniam magnus est dies Iezrael.<verse eID="Hos.1.11" />
+      </p>
+      <chapter eID="Hos.1" />
+      <chapter sID="Hos.2" osisID="Hos.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Hos.2.1" osisID="Hos.2.1" />Dicite fratri vestro, Populus meus, et sorori vestrae, Misericordiam consecuta.<verse eID="Hos.2.1" />
+        <verse sID="Hos.2.2" osisID="Hos.2.2" />Iudicamini cum matre vestra, iudicamini, quia haec non uxor mea, et ego non vir eius, et auferam fornicationem eius a facie mea, et adulteria eius de medio uberum illius.<verse eID="Hos.2.2" />
+        <verse sID="Hos.2.3" osisID="Hos.2.3" />ut exspoliem eam nudam, et restituam eam iuxta diem nativitatis suae, et ponam eam ut desertum, et statuam eam sicut terram sine aqua, et occidam illam in siti.<verse eID="Hos.2.3" />
+        <verse sID="Hos.2.4" osisID="Hos.2.4" />Et filiorum eius non miserebor, quoniam filii fornicationis sunt,<verse eID="Hos.2.4" />
+        <verse sID="Hos.2.5" osisID="Hos.2.5" />quia fornicata est mater eorum, confusa est quae peperit eos, dixit enim, Vadam post amatores meos, qui dant mihi panes meos, et aquam meam, et vestimenta mea, et linteamina mea, et oleum meum, et omnia quae mihi necessaria sunt.<verse eID="Hos.2.5" />
+        <verse sID="Hos.2.6" osisID="Hos.2.6" />Propterea ecce ego sepiam viam eius in sudibus, et obstruam vias illius, et semitam suam non inveniet.<verse eID="Hos.2.6" />
+        <verse sID="Hos.2.7" osisID="Hos.2.7" />Et persequetur amatores suos, et non apprehendet illos, et quaeret eos, et non inveniet, et dicet, Vadam, et revertar ad virum meum priorem, quia melius mihi erat tunc quam nunc est.<verse eID="Hos.2.7" />
+        <verse sID="Hos.2.8" osisID="Hos.2.8" />Et ipsa nescivit, quia ego dedi ei frumentum, et vinum, et oleum, et argentum multiplicavi ei, haec autem argentea et aurea fecit ipsi Baal.<verse eID="Hos.2.8" />
+        <verse sID="Hos.2.9" osisID="Hos.2.9" />Propterea revertar, et tollam triticum meum in tempore suo, et vinum meum in tempore suo, et auferam vestimenta mea et linteamina mea, ne operiant ignominiam eius.<verse eID="Hos.2.9" />
+        <verse sID="Hos.2.10" osisID="Hos.2.10" />Et nunc revelabo immunditiam eius in conspectu amatorum illius, et nullus eruet eam de manu mea,<verse eID="Hos.2.10" />
+        <verse sID="Hos.2.11" osisID="Hos.2.11" />et avertam omnes laetitias eius, solemnitates illius, et neomenias, et sabbata, et cunctas festivitates illius.<verse eID="Hos.2.11" />
+        <verse sID="Hos.2.12" osisID="Hos.2.12" />Et disperdam vineam eius, et ficus illius, quae dixit, Mercedes meae, istae sunt, quas dederunt mihi amatores mei, et ponam eam in testimonium, et comedent eam bestiae agri, volatilia coeli, et reptilia terrae.<verse eID="Hos.2.12" />
+        <verse sID="Hos.2.13" osisID="Hos.2.13" />Et ulciscar super eam dies Baalim, in quibus immolabat eis, et circumdabat sibi inaures suas, et monilia, et ibat post amatores suos, mei autem oblita est, dicit Dominus.<verse eID="Hos.2.13" />
+        <verse sID="Hos.2.14" osisID="Hos.2.14" />Ideo, ecce ego seducam eam, et ponam illam quasi desertum, et loquar ad cor eius.<verse eID="Hos.2.14" />
+        <verse sID="Hos.2.15" osisID="Hos.2.15" />Et dabo ei possessiones suas inde, et vallem Achor ad aperiendam intelligentiam eius, et humiliabitur iuxta dies infantiae suae, et iuxta dies ascensionis de terra Aegypti.<verse eID="Hos.2.15" />
+        <verse sID="Hos.2.16" osisID="Hos.2.16" />Et erit in die illa, ait Dominus, vocabit me, Vir meus, et non vocabit me ultra, Baalim.<verse eID="Hos.2.16" />
+        <verse sID="Hos.2.17" osisID="Hos.2.17" />Et auferam nomina Baalim de ore eius, et non recordabitur ultra nominis eorum.<verse eID="Hos.2.17" />
+        <verse sID="Hos.2.18" osisID="Hos.2.18" />Et disponam eis testamentum in die illa, cum bestiis agri, et cum volatilibus coeli, et cum reptilibus terrae, et arcum, et gladium, et bellum conteram de terra, et habitare eos faciam in spe.<verse eID="Hos.2.18" />
+        <verse sID="Hos.2.19" osisID="Hos.2.19" />Et sponsabo te mihi in sempiternum, et sponsabo te mihi in iustitia, et iudicio, et in misericordia, et in miserationibus.<verse eID="Hos.2.19" />
+        <verse sID="Hos.2.20" osisID="Hos.2.20" />Et sponsabo te mihi in fide, et scies quia ego Dominus.<verse eID="Hos.2.20" />
+        <verse sID="Hos.2.21" osisID="Hos.2.21" />Et erit in die illa, dicit Dominus, Exaudiam coelum, et coelum exaudiet terram.<verse eID="Hos.2.21" />
+        <verse sID="Hos.2.22" osisID="Hos.2.22" />Et terra exaudiet frumentum, vinum, et oleum, et haec exaudient Iezrael.<verse eID="Hos.2.22" />
+        <verse sID="Hos.2.23" osisID="Hos.2.23" />Et seminabo eam mihi super terram, et miserebor eius, quae fuit Absque misericordia.<verse eID="Hos.2.23" />
+        <verse sID="Hos.2.24" osisID="Hos.2.24" />Et dicam non populo meo, Populus meus es tu, et ipse dicet, Dominus Deus meus es tu.<verse eID="Hos.2.24" />
+      </p>
+      <chapter eID="Hos.2" />
+      <chapter sID="Hos.3" osisID="Hos.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Hos.3.1" osisID="Hos.3.1" />Et dixit Dominus ad me, Adhuc vade, et dilige mulierem diligentem mala, et adulteram, sicut diligit Dominus filios Israel, et ipsi respiciunt ad deos alienos, et amant coctiones cum vinaciis.<verse eID="Hos.3.1" />
+        <verse sID="Hos.3.2" osisID="Hos.3.2" />Et conduxi eam mihi quindecim argentis, et gomor hordei, et nebel vini.<verse eID="Hos.3.2" />
+        <verse sID="Hos.3.3" osisID="Hos.3.3" />Et dixi ad eam, Dies multos sedebis mihi, et non fornicaberis, nec eris alteri viro, et ego tibi,<verse eID="Hos.3.3" />
+        <verse sID="Hos.3.4" osisID="Hos.3.4" />quia diebus multis sedebunt filii Israel sine rege, sine principe, sine sacrificio, sine altari, sine sacerdotio, sine manifestationibus,<verse eID="Hos.3.4" />
+        <verse sID="Hos.3.5" osisID="Hos.3.5" />et post haec revertentur filii Israel, et quaerent Dominum Deum suum, et David regem suum, et stupebunt ad Dominum, et super bonis eius in novissimo die.<verse eID="Hos.3.5" />
+      </p>
+      <chapter eID="Hos.3" />
+      <chapter sID="Hos.4" osisID="Hos.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Hos.4.1" osisID="Hos.4.1" />Audite verbum Domini filii Israel, quia iudicium Domino ad habitatores terrae, quia non est veritas, neque misericordia, neque scientia Dei super terram.<verse eID="Hos.4.1" />
+        <verse sID="Hos.4.2" osisID="Hos.4.2" />Maledictio, et mendacium, et homicidium, et furtum, et adulterium effusum est super terram, et sanguinem sanguini miscuerunt.<verse eID="Hos.4.2" />
+        <verse sID="Hos.4.3" osisID="Hos.4.3" />Ideo lugebit terra, et minuetur cum omnibus qui habitant eam, cum bestiis agri, cum serpentibus terrae, et cum volatilibus coeli, et pisces maris deficient,<verse eID="Hos.4.3" />
+        <verse sID="Hos.4.4" osisID="Hos.4.4" />ut nullus neque iudicetur, neque arguatur quisquam, populus autem meus, quasi sacerdos cui contradicitur.<verse eID="Hos.4.4" />
+        <verse sID="Hos.4.5" osisID="Hos.4.5" />Et infirmabitur per diem, et infirmabitur etiam propheta tecum, nocti assimilavi matrem tuam.<verse eID="Hos.4.5" />
+        <verse sID="Hos.4.6" osisID="Hos.4.6" />Et assimilatus est populus meus, quasi non habens scientiam, quia tu scientiam repulisti, et ego repellam te, ne sacerdotio fungaris mihi, oblita es legis Dei tui, et ego obliviscar filiorum tuorum.<verse eID="Hos.4.6" />
+        <verse sID="Hos.4.7" osisID="Hos.4.7" />Secundum multitudinem eorum sic peccaverunt mihi, gloriam eorum in ignominiam ponam.<verse eID="Hos.4.7" />
+        <verse sID="Hos.4.8" osisID="Hos.4.8" />Peccata populi mei comedent, et in iniquitatibus eorum accipient alii animas eorum.<verse eID="Hos.4.8" />
+        <verse sID="Hos.4.9" osisID="Hos.4.9" />Et erit sicut populus, sic et sacerdos, et ulciscar super eum vias eius, et cogitationes illius reddam ei.<verse eID="Hos.4.9" />
+        <verse sID="Hos.4.10" osisID="Hos.4.10" />Et comedent, et non implebuntur, fornicati sunt, et non dirigentur, quia Dominum reliquerunt ut non custodirent.<verse eID="Hos.4.10" />
+        <verse sID="Hos.4.11" osisID="Hos.4.11" />Fornicationem, et vinum, et ebrietatem suscepit cor populi mei.<verse eID="Hos.4.11" />
+        <verse sID="Hos.4.12" osisID="Hos.4.12" />In auguriis interrogabant, et in virgis suis annuntiabant ei, quoniam spiritu fornicationis seducti sunt a Deo suo.<verse eID="Hos.4.12" />
+        <verse sID="Hos.4.13" osisID="Hos.4.13" />Super verticem montium sacrificabant, et super colles immolabant. Subter quercum, et populum, et nemorosas arbores, quia bonum erat umbraculum, propterea fornicabuntur filiae vestrae, et sponsae vestrae moechabuntur.<verse eID="Hos.4.13" />
+        <verse sID="Hos.4.14" osisID="Hos.4.14" />Et non visitabo super filias vestras cum fuerint fornicatae, et super sponsas vestras cum adulteraverint, quoniam ipsi cum meretricibus miscebantur, et cum initiatis immolabant, et populus non intelligens adhaerebat meretrici.<verse eID="Hos.4.14" />
+        <verse sID="Hos.4.15" osisID="Hos.4.15" />Tu autem Israel ne ignores, et Iuda, nolite ingredi in Galgala, ne ascendatis in domum On, et ne iuretis, Vivit Dominus.<verse eID="Hos.4.15" />
+        <verse sID="Hos.4.16" osisID="Hos.4.16" />Quoniam sicut vacca asilo percussa insanivit Israel, nunc pascet eos Dominus, sicut agnum in spatioso.<verse eID="Hos.4.16" />
+        <verse sID="Hos.4.17" osisID="Hos.4.17" />Particeps idolorum Ephraim posuit sibi scandala.<verse eID="Hos.4.17" />
+        <verse sID="Hos.4.18" osisID="Hos.4.18" />Provocavit Chananaeos, fornicantes fornicati sunt, dilexerunt ignominiam ex fremitu eius.<verse eID="Hos.4.18" />
+        <verse sID="Hos.4.19" osisID="Hos.4.19" />Turbo spiritus sibilabit in alis eius, et confundentur ex altaribus suis.<verse eID="Hos.4.19" />
+      </p>
+      <chapter eID="Hos.4" />
+      <chapter sID="Hos.5" osisID="Hos.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Hos.5.1" osisID="Hos.5.1" />Audite haec sacerdotes, et attendite domus Israel, et domus regis auribus percipite, ad vos enim est iudicium, quia laqueus facti estis speculationi, et sicut rete expansum super Itabyrium,<verse eID="Hos.5.1" />
+        <verse sID="Hos.5.2" osisID="Hos.5.2" />quod, qui capiunt venationem, confixerunt, ego enim magister vester.<verse eID="Hos.5.2" />
+        <verse sID="Hos.5.3" osisID="Hos.5.3" />Ego cognovi Ephraim, et Israel non recessit a me, quia nunc fornicatus est Ephraim, commaculatus est Israel.<verse eID="Hos.5.3" />
+        <verse sID="Hos.5.4" osisID="Hos.5.4" />Non dederunt cogitationes suas ut reverterentur ad Dominum Deum suum, quia spiritus fornicationis est in eis, Dominum autem non cognoverunt.<verse eID="Hos.5.4" />
+        <verse sID="Hos.5.5" osisID="Hos.5.5" />Et humiliabitur iniuria Israel in faciem eius, et Israel, et Ephraim infirmabuntur in iniquitatibus suis, infirmabitur etiam Iudas cum eis.<verse eID="Hos.5.5" />
+        <verse sID="Hos.5.6" osisID="Hos.5.6" />Cum ovibus, et vitulis ibunt, et quaerent Dominum, et non invenient eum, declinavit ab illis.<verse eID="Hos.5.6" />
+        <verse sID="Hos.5.7" osisID="Hos.5.7" />Quia Dominum reliquerunt, quia filios alienos genuerunt sibi, nunc devorabit eos rubigo, et cleros eorum.<verse eID="Hos.5.7" />
+        <verse sID="Hos.5.8" osisID="Hos.5.8" />Clangite tuba super colles, sonate super excelsa, praedicate in domo On, mente excidit Beniamin.<verse eID="Hos.5.8" />
+        <verse sID="Hos.5.9" osisID="Hos.5.9" />Ephraim in desolatione factus est in diebus correptionis, in tribubus Israel ostendi fidelia.<verse eID="Hos.5.9" />
+        <verse sID="Hos.5.10" osisID="Hos.5.10" />Facti sunt principes Iuda quasi transferentes terminos, super eos effundam sicut aquam impetum meum.<verse eID="Hos.5.10" />
+        <verse sID="Hos.5.11" osisID="Hos.5.11" />Oppressit Ephraim adversarium suum, conculcavit iudicium, quia coepit abire post vana.<verse eID="Hos.5.11" />
+        <verse sID="Hos.5.12" osisID="Hos.5.12" />Et ego quasi conturbatio Ephraim, et quasi stimulus domui Iuda.<verse eID="Hos.5.12" />
+        <verse sID="Hos.5.13" osisID="Hos.5.13" />Et vidit Ephraim infirmitatem suam, et Iudas dolorem suum, et abiit Ephraim ad Assyrios, et misit legatos ad regem Iarib, et ipse non poterit liberare vos, nec cessare faciet a vobis dolorem.<verse eID="Hos.5.13" />
+        <verse sID="Hos.5.14" osisID="Hos.5.14" />Quia ego sum quasi panther Ephraim, et quasi leo in domo Iuda, et ego rapiam, et vadam, et tollam, et non erit qui eruat.<verse eID="Hos.5.14" />
+        <verse sID="Hos.5.15" osisID="Hos.5.15" />Ibo, et revertar in locum meum, donec dispereant, et quaerant faciem meam.<verse eID="Hos.5.15" />
+      </p>
+      <chapter eID="Hos.5" />
+      <chapter sID="Hos.6" osisID="Hos.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Hos.6.1" osisID="Hos.6.1" />In tribulatione sua mane vigilabunt ad me, dicentes, Eamus, et revertamur ad Dominum Deum nostrum,<verse eID="Hos.6.1" />
+        <verse sID="Hos.6.2" osisID="Hos.6.2" />quia ipse verberabit, et sanabit nos, percutiet, et curabit nos.<verse eID="Hos.6.2" />
+        <verse sID="Hos.6.3" osisID="Hos.6.3" />Sanos nos faciet post dies duos, in tertio resurgemus, et vivemus coram eo. Et sciemus, et persequemur ut cognoscamus Dominum, quasi mane paratum inveniemus eum, et veniet nobis quasi pluvia temporanea, et serotina terrae.<verse eID="Hos.6.3" />
+        <verse sID="Hos.6.4" osisID="Hos.6.4" />Quid faciam tibi Ephraim? Quid faciam tibi Iuda? Misericordia autem vestra quasi nubes matutina, et quasi ros mane pertransiens.<verse eID="Hos.6.4" />
+        <verse sID="Hos.6.5" osisID="Hos.6.5" />Propterea succidi prophetas vestros, occidi eos in verbo oris mei, et iudicium tuum quasi lux egredietur.<verse eID="Hos.6.5" />
+        <verse sID="Hos.6.6" osisID="Hos.6.6" />Quia misericordiam volo, et non sacrificium. Scientiam Dei, magis quam holocausta.<verse eID="Hos.6.6" />
+        <verse sID="Hos.6.7" osisID="Hos.6.7" />Ipsi vero sunt sicut homo praeteriens testamentum, ibi enim contempsit me<verse eID="Hos.6.7" />
+        <verse sID="Hos.6.8" osisID="Hos.6.8" />Galaad civitas, quae operatur vana, et conturbat aquam.<verse eID="Hos.6.8" />
+        <verse sID="Hos.6.9" osisID="Hos.6.9" />Et fortitudo tua viri piratae, absconderunt sacerdotes viam Domini, interfecerunt Sicima, quia iniquitatem operati sunt.<verse eID="Hos.6.9" />
+        <verse sID="Hos.6.10" osisID="Hos.6.10" />In domo Israel vidi horribilia, ibi fornicationem Ephraim, contaminatus est Israel.<verse eID="Hos.6.10" />
+        <verse sID="Hos.6.11" osisID="Hos.6.11" />Et Iuda incipe vindemiam tuam, cum convertero captivitatem populi mei.<verse eID="Hos.6.11" />
+      </p>
+      <chapter eID="Hos.6" />
+      <chapter sID="Hos.7" osisID="Hos.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Hos.7.2" osisID="Hos.7.2" />Ut concinant quasi canentes in cordibus suis, omnes malitias eorum recordatus sum, nunc circumdederunt eos cogitationes suae, contra faciem meam factae sunt.<verse eID="Hos.7.2" />
+        <verse sID="Hos.7.3" osisID="Hos.7.3" />In malitiis suis laetificaverunt reges, et in mendaciis suis principes.<verse eID="Hos.7.3" />
+        <verse sID="Hos.7.4" osisID="Hos.7.4" />Omnes adulterantes, quasi clibanus ardens ad coquendum, in deustionem flammae a commistione fermenti, donec fermentaretur totum.<verse eID="Hos.7.4" />
+        <verse sID="Hos.7.5" osisID="Hos.7.5" />Dies regum vestrorum, coeperunt principes furere a vino, extendit manum suam cum pestilentibus.<verse eID="Hos.7.5" />
+        <verse sID="Hos.7.6" osisID="Hos.7.6" />Quia succensa sunt quasi clibanus corda eorum, cum praecipitarentur, tota nocte Ephraim somno repletus est. Mane factum est, incensus est quasi ignis flammae.<verse eID="Hos.7.6" />
+        <verse sID="Hos.7.7" osisID="Hos.7.7" />Omnes calefacti sunt quasi clibanus ignis ardens, et ignis devoravit iudices suos, omnes reges eorum ceciderunt, non est in eis qui invocet me.<verse eID="Hos.7.7" />
+        <verse sID="Hos.7.8" osisID="Hos.7.8" />Ephraim populis suis commiscebatur, Ephraim factus est subcinericius, qui non reversatur.<verse eID="Hos.7.8" />
+        <verse sID="Hos.7.9" osisID="Hos.7.9" />Comederunt alieni fortitudinem eius, ipse vero nescivit, et cani effloruerunt ei, et ipse ignoravit.<verse eID="Hos.7.9" />
+        <verse sID="Hos.7.10" osisID="Hos.7.10" />Et humiliabitur contumelia Israel in facie eius, et non sunt reversi ad Dominum Deum suum, et non quaesierunt eum in omnibus his.<verse eID="Hos.7.10" />
+        <verse sID="Hos.7.11" osisID="Hos.7.11" />Et erat Ephraim quasi columba insipiens non habens cor, Aegyptum invocabit, et in Assyrios abierunt.<verse eID="Hos.7.11" />
+        <verse sID="Hos.7.12" osisID="Hos.7.12" />Sicut ibunt, mittam super eos rete meum, ut volatilia coeli detraham illos, corripiam eos in auditu tribulationis eorum.<verse eID="Hos.7.12" />
+        <verse sID="Hos.7.13" osisID="Hos.7.13" />Vae eis, quoniam recesserunt a me, manifesti sunt, quoniam impie egerunt in me, ego vero redemi eos, ipsi vero locuti sunt contra me mendacium.<verse eID="Hos.7.13" />
+        <verse sID="Hos.7.14" osisID="Hos.7.14" />Et non clamaverunt ad me corda eorum, sed ululabant in cubilibus suis, super tritico et vino diffecabantur.<verse eID="Hos.7.14" />
+        <verse sID="Hos.7.15" osisID="Hos.7.15" />Eruditi sunt in me, et ego confortavi brachia eorum, et contra me cogitaverunt mala.<verse eID="Hos.7.15" />
+        <verse sID="Hos.7.16" osisID="Hos.7.16" />Conversi sunt in nihilum, facti sunt quasi arcus intentus, cadent in gladio principes eorum, propter imperitiam linguae eorum. Sic est subsannatio eorum in terra Aegypti.<verse eID="Hos.7.16" />
+      </p>
+      <chapter eID="Hos.7" />
+      <chapter sID="Hos.8" osisID="Hos.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Hos.8.1" osisID="Hos.8.1" />In sinu eorum quasi terra sicut aquila super domum Domini, pro eo quod transgressi sunt testamentum meum, et contra legem meam impie egerunt.<verse eID="Hos.8.1" />
+        <verse sID="Hos.8.2" osisID="Hos.8.2" />Me invocaverunt, Deus cognovimus te.<verse eID="Hos.8.2" />
+        <verse sID="Hos.8.3" osisID="Hos.8.3" />Quia Israel adversata est bona, inimicum persecuti sunt.<verse eID="Hos.8.3" />
+        <verse sID="Hos.8.4" osisID="Hos.8.4" />Ex semetipsis regnaverunt, et non per me, principes exstiterunt, et non indicaverunt mihi, argentum suum et aurum suum fecerunt sibi idola, ut dispereant,<verse eID="Hos.8.4" />
+        <verse sID="Hos.8.5" osisID="Hos.8.5" />proiice vitulum tuum Samaria, concitatus est furor meus super eos, usquequo non poterunt emundari<verse eID="Hos.8.5" />
+        <verse sID="Hos.8.6" osisID="Hos.8.6" />in Israel? Et hoc artifex fecit, et non est Deus, quia seducens erat vitulus tuus Samaria.<verse eID="Hos.8.6" />
+        <verse sID="Hos.8.7" osisID="Hos.8.7" />Quia corrupta vento seminaverunt, et subversio eorum suscipiet ea, manipulus non habens vires, ut faciat farinam, quod et si fecerit, alieni comedent eam.<verse eID="Hos.8.7" />
+        <verse sID="Hos.8.8" osisID="Hos.8.8" />Absorptus est Israel, nunc factus est in nationibus quasi vas inutile.<verse eID="Hos.8.8" />
+        <verse sID="Hos.8.9" osisID="Hos.8.9" />Quia ipsi ascenderunt ad Assyrios, germinavit apud semetipsum Ephraim, munera dilexerunt.<verse eID="Hos.8.9" />
+        <verse sID="Hos.8.10" osisID="Hos.8.10" />Idcirco tradentur in gentibus, nunc suscipiam eos, et quiescent parvum, ut ungant reges, et principes.<verse eID="Hos.8.10" />
+        <verse sID="Hos.8.11" osisID="Hos.8.11" />Quia multiplicavit Ephraim altaria, in peccatum sunt ei altaria dilecta.<verse eID="Hos.8.11" />
+        <verse sID="Hos.8.12" osisID="Hos.8.12" />Scribam eis multitudinem, legitima eius in aliena reputata sunt altaria.<verse eID="Hos.8.12" />
+        <verse sID="Hos.8.13" osisID="Hos.8.13" />Quia si immolaverint hostias, et comederint carnes, Dominus non suscipiet eas, nunc recordabitur iniquitates eorum, et ulciscetur iniustitias eorum, ipsi in Aegyptum conversi sunt, et in Assyriis immunda comederunt.<verse eID="Hos.8.13" />
+        <verse sID="Hos.8.14" osisID="Hos.8.14" />Et oblitus est Israel eum qui fecit illum, et aedificaverunt delubra, et Iudas multiplicavit urbes munitas, et emittam ignem in civitates eius, et devorabit fundamenta eius.<verse eID="Hos.8.14" />
+      </p>
+      <chapter eID="Hos.8" />
+      <chapter sID="Hos.9" osisID="Hos.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Hos.9.1" osisID="Hos.9.1" />Noli gaudere Israel, et noli laetari sicut populi, quia fornicatus es a Deo tuo, dilexisti munera super omnem aream tritici.<verse eID="Hos.9.1" />
+        <verse sID="Hos.9.2" osisID="Hos.9.2" />Area et torcular non cognovit eos, et vinum mentitum est illis.<verse eID="Hos.9.2" />
+        <verse sID="Hos.9.3" osisID="Hos.9.3" />Non habitaverunt in terra Domini, habitavit Ephraim in Aegypto, et in Assyriis immundum comedit.<verse eID="Hos.9.3" />
+        <verse sID="Hos.9.4" osisID="Hos.9.4" />Non libaverunt Domino vinum, nec placuerunt ei, sacrificia eorum, quasi panis luctus eius, omnes, qui manducaverint ea, contaminabuntur, quia panes animarum eorum, non intrabunt in domum Domini.<verse eID="Hos.9.4" />
+        <verse sID="Hos.9.5" osisID="Hos.9.5" />Quid facietis in die conventus, et in die solemnitatis Domini?<verse eID="Hos.9.5" />
+        <verse sID="Hos.9.6" osisID="Hos.9.6" />Ideo ecce ibunt de miseria Aegypti, et suscipiet eos Memphis, et sepeliet eos Mamachas, argentum eorum interitus possidebit, spinae in tabernaculis eorum.<verse eID="Hos.9.6" />
+        <verse sID="Hos.9.7" osisID="Hos.9.7" />Venerunt dies ultionis, venerunt dies retributionis tuae, et affligetur Israel, sicut propheta insaniens, homo qui habebat spiritum, propter multitudinem iniquitatum tuarum, multiplicata est amentia tua.<verse eID="Hos.9.7" />
+        <verse sID="Hos.9.8" osisID="Hos.9.8" />Speculator Ephraim cum Deo, propheta laqueus tortuosus super omnes vias eius, insaniam in domo Dei confixerunt.<verse eID="Hos.9.8" />
+        <verse sID="Hos.9.9" osisID="Hos.9.9" />Corrupti sunt secundum dies collis, recordabitur iniquitates eorum, ulciscetur super peccata eorum.<verse eID="Hos.9.9" />
+        <verse sID="Hos.9.10" osisID="Hos.9.10" />Sicut uvam in deserto, inveni Israel, et sicut ficum in arbore ficus temporaneam, vidi patres eorum, ipsi autem ingressi sunt Beelphegor, et abalienati sunt in confusionem, et facti sunt abominabiles, sicut dilecti.<verse eID="Hos.9.10" />
+        <verse sID="Hos.9.11" osisID="Hos.9.11" />Ephraim quasi avis avolavit, gloria eorum in partu, et in parturitionibus, et conceptu.<verse eID="Hos.9.11" />
+        <verse sID="Hos.9.12" osisID="Hos.9.12" />Quia etiamsi enutrierint filios suos, sine filiis erunt in hominibus, quia et vae eis est, caro mea ex eis.<verse eID="Hos.9.12" />
+        <verse sID="Hos.9.13" osisID="Hos.9.13" />Ephraim, sicut vidi, in captionem praebuit filios suos, et Ephraim, ut educeret ad interfectionem filios suos.<verse eID="Hos.9.13" />
+        <verse sID="Hos.9.14" osisID="Hos.9.14" />Da eis Domine. Quid dabis eis? Da eis vulvam sine filiis, et ubera arentia.<verse eID="Hos.9.14" />
+        <verse sID="Hos.9.15" osisID="Hos.9.15" />Omnes nequitiae eorum in Galgal, quia ibi exosos habui eos, propter malitiam adinventionum eorum de domo mea eiiciam eos, non addam ut diligam eos, omnes principes eorum inobedientes.<verse eID="Hos.9.15" />
+        <verse sID="Hos.9.16" osisID="Hos.9.16" />Doluit Ephraim radices suas, arefactus est, fructum nequaquam affert. Quia esti genuerint, interficiam desiderabilia uteri eorum.<verse eID="Hos.9.16" />
+        <verse sID="Hos.9.17" osisID="Hos.9.17" />Repellet eos Deus, quia non audierunt eum, et erunt vagi in nationibus.<verse eID="Hos.9.17" />
+      </p>
+      <chapter eID="Hos.9" />
+      <chapter sID="Hos.10" osisID="Hos.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Hos.10.1" osisID="Hos.10.1" />Vitis frondosa Israel, fructus abundans in ea, secundum multitudinem fructuum suorum multiplicavit altaria, iuxta bona terrae eorum aedificabunt titulos.<verse eID="Hos.10.1" />
+        <verse sID="Hos.10.2" osisID="Hos.10.2" />Diviserunt corda sua, nunc peribunt, ipse suffodiet altaria eorum, affligentur tituli eorum.<verse eID="Hos.10.2" />
+        <verse sID="Hos.10.3" osisID="Hos.10.3" />Propterea nunc dicent, Non est rex nobis, quia timuimus Dominum, rex autem quid faciet nobis?<verse eID="Hos.10.3" />
+        <verse sID="Hos.10.4" osisID="Hos.10.4" />Loquens verba, occasiones mendaces, disponet testamentum, orietur sicut gramen iudicium super desertum agri.<verse eID="Hos.10.4" />
+        <verse sID="Hos.10.5" osisID="Hos.10.5" />Apud vitulum domus On morabuntur qui habitant in Samaria, quia luxit populus eius super eum, et sicut irritaverunt illum, guadebunt super gloria eius, quia translata est ab eo.<verse eID="Hos.10.5" />
+        <verse sID="Hos.10.6" osisID="Hos.10.6" />Et ipsum in Assyrios ligantes, tulerunt munera regi Iarib, in domo Ephraim suscipiet confusionem, confundetur Israel in consilio suo.<verse eID="Hos.10.6" />
+        <verse sID="Hos.10.7" osisID="Hos.10.7" />Proiecit Samaria regem suum sicut cremium super faciem aquae.<verse eID="Hos.10.7" />
+        <verse sID="Hos.10.8" osisID="Hos.10.8" />Et auferentur arae On, peccata Israel, spinae et tribuli ascendent super altaria eorum, et dicent montibus, Operite nos. Et collibus, Cadite super nos.<verse eID="Hos.10.8" />
+        <verse sID="Hos.10.9" osisID="Hos.10.9" />Ex quo colles sunt, peccavit Israel, ibi steterunt, non comprehendit eos in colle bellum super filios iniquitatis.<verse eID="Hos.10.9" />
+        <verse sID="Hos.10.10" osisID="Hos.10.10" />Venit ut corriperet eos, et congregabuntur super illos populi, quando correpti fuerint in duabus iniquitatibus suis.<verse eID="Hos.10.10" />
+        <verse sID="Hos.10.11" osisID="Hos.10.11" />Ephraim vitula edocta diligere contentionem, ego autem veniam super pulchritudinem colli eius, supponam Ephraim, et reticebo Iudam, roborabitur sibi Iacob.<verse eID="Hos.10.11" />
+        <verse sID="Hos.10.12" osisID="Hos.10.12" />Seminate vobis in iustitia, vindemiate fructum vitae, illuminate vobis lumen scientiae, quoniam est tempus, quaerite Dominum, donec veniant fruges iustitiae vobis.<verse eID="Hos.10.12" />
+        <verse sID="Hos.10.13" osisID="Hos.10.13" />Quid reticetis impietates, et iniquitates eius vindemiastis? Comedistis fructum mendacem, quia sperasti in curribus tuis, in multitudine fortitudinis tuae.<verse eID="Hos.10.13" />
+        <verse sID="Hos.10.14" osisID="Hos.10.14" />Consurget perditio in populo tuo, et omnia murata tua abibunt, sicut principes Salmana de domo Ierobaal in diebus belli. Matrem super filios alliserunt.<verse eID="Hos.10.14" />
+        <verse sID="Hos.10.15" osisID="Hos.10.15" />Sic faciam vobis domus Israel, a facie malitiarum vestrarum.<verse eID="Hos.10.15" />
+      </p>
+      <chapter eID="Hos.10" />
+      <chapter sID="Hos.11" osisID="Hos.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Hos.11.1" osisID="Hos.11.1" />Mane proiecti sunt, proiectus est rex Israel. Quia parvulus Israel, et ego dilexi eum, et ex Aegypto vocavi filios suos.<verse eID="Hos.11.1" />
+        <verse sID="Hos.11.2" osisID="Hos.11.2" />Sicut vocavi eos, ita abierunt a facie mea ipsi, Baalim immolabant, et sculptilibus adolebant.<verse eID="Hos.11.2" />
+        <verse sID="Hos.11.3" osisID="Hos.11.3" />Et ego colligavi Ephraim, suscepi eum super brachium meum, et non cognoverunt ut sanarem illos.<verse eID="Hos.11.3" />
+        <verse sID="Hos.11.4" osisID="Hos.11.4" />In corruptione hominum extendi eos, in vinculis charitatis meae, et ero illis quasi dans alapas homo super maxillas eius, et respiciam ad eum praevalens ei.<verse eID="Hos.11.4" />
+        <verse sID="Hos.11.5" osisID="Hos.11.5" />Habitabit Ephraim in Aegypto, et Assur ipse rex eius, quia noluit converti.<verse eID="Hos.11.5" />
+        <verse sID="Hos.11.6" osisID="Hos.11.6" />Et infirmatus est gladius in civitatibus eius, et requievit in manibus illius, et comedent de cogitationibus suis.<verse eID="Hos.11.6" />
+        <verse sID="Hos.11.7" osisID="Hos.11.7" />Et populus eius suspensus est ex incolatu suo, et Deus super pretiosa eius irascetur, et non exaltabit eum.<verse eID="Hos.11.7" />
+        <verse sID="Hos.11.8" osisID="Hos.11.8" />Quid faciam tibi Ephraim? Protegam te Israel? Quid faciam tibi? Sicut Adama ponam te, et sicut Seboim. Conversum est cor meum in ipso, simul conturbata est poenitudo mea.<verse eID="Hos.11.8" />
+        <verse sID="Hos.11.9" osisID="Hos.11.9" />Non faciam iuxta iram furoris mei, non derelinquam ut deleatur Ephraim, quoniam Deus ego sum, et non homo, in te sanctus, et non ingrediar civitatem.<verse eID="Hos.11.9" />
+        <verse sID="Hos.11.10" osisID="Hos.11.10" />Post Dominum ambulabo, sicut leo rugiet, quia ipse rugiet, et formidabunt filii aquarum.<verse eID="Hos.11.10" />
+        <verse sID="Hos.11.11" osisID="Hos.11.11" />Et volabunt quasi avis ex Aegypto, et quasi columba de terra Assyriorum, et collocabo eos in domibus suis, dicit Dominus.<verse eID="Hos.11.11" />
+        <verse sID="Hos.11.12" osisID="Hos.11.12" />Circumdedit me in mendacio Ephraim, et in impietate domus Israel et Iuda, nunc cognovit eos Deus, et populus sanctus vocabitur Dei.<verse eID="Hos.11.12" />
+      </p>
+      <chapter eID="Hos.11" />
+      <chapter sID="Hos.12" osisID="Hos.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Hos.12.1" osisID="Hos.12.1" />Ephraim autem pessimus spiritus, prosecutus est aestum, tota die inania et vana multiplicavit, et testamentum cum Assyriis pepigit, et oleum in Aegypto mercabatur.<verse eID="Hos.12.1" />
+        <verse sID="Hos.12.2" osisID="Hos.12.2" />Et iudicium Domino cum Iuda, ut ulciscatur Iacob, iuxta vias eius, et iuxta adinventiones eius reddet ei.<verse eID="Hos.12.2" />
+        <verse sID="Hos.12.3" osisID="Hos.12.3" />In utero supplantavit fratrem suum, et in labore suo praevaluit Deo.<verse eID="Hos.12.3" />
+        <verse sID="Hos.12.4" osisID="Hos.12.4" />Et confortatus est cum angelo, et potuit, fleverunt, et deprecati sunt me, in domo On invenerunt me, et ibi dictum est ad eos.<verse eID="Hos.12.4" />
+        <verse sID="Hos.12.5" osisID="Hos.12.5" />Dominus autem Deus omnipotens erit memoriale eius.<verse eID="Hos.12.5" />
+        <verse sID="Hos.12.6" osisID="Hos.12.6" />Et tu in Deo tuo converteris, misericordiam et iudicium custodi, et appropinqua Deo tuo semper.<verse eID="Hos.12.6" />
+        <verse sID="Hos.12.7" osisID="Hos.12.7" />Chanaan, in manu eius statera iniquitatis, opprimere per potentiam dilexit.<verse eID="Hos.12.7" />
+        <verse sID="Hos.12.8" osisID="Hos.12.8" />Et dixit Ephraim, Veruntamen dives effectus sum, inveni requiem mihi, omnes labores eius non invenientur ei, propter iniquitates in quibus peccavit.<verse eID="Hos.12.8" />
+        <verse sID="Hos.12.9" osisID="Hos.12.9" />Ego autem Dominus Deus tuus eduxi te de terra Aegypti, adhuc habitare te faciam in tabernaculis, sicut in diebus solemnitatis.<verse eID="Hos.12.9" />
+        <verse sID="Hos.12.10" osisID="Hos.12.10" />Et loquar ad prophetas, et ego visiones multiplicavi, et in manibus prophetarum assimilatus sum.<verse eID="Hos.12.10" />
+        <verse sID="Hos.12.11" osisID="Hos.12.11" />Si non Galaad est, ergo falsi erant in Galgala principes immolantes, et altaria eorum quasi testudines super desertum agri.<verse eID="Hos.12.11" />
+        <verse sID="Hos.12.12" osisID="Hos.12.12" />Et recessit Iacob in campum Syriae, et servivit Israel in uxore, et in uxore custodivit.<verse eID="Hos.12.12" />
+        <verse sID="Hos.12.13" osisID="Hos.12.13" />Et in propheta eduxit Dominus Israel de Aegypto, et in propheta servatus est.<verse eID="Hos.12.13" />
+      </p>
+      <chapter eID="Hos.12" />
+      <chapter sID="Hos.13" osisID="Hos.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Hos.13.1" osisID="Hos.13.1" />Iuxta verbum Ephraim, iustificationes accepit ipse in Israel, et posuit Baal, et mortuus est.<verse eID="Hos.13.1" />
+        <verse sID="Hos.13.2" osisID="Hos.13.2" />Et nunc apposuit ut peccaret, et fecerunt sibi conflatile ex auro et argento suo secundum imaginem idolorum, opera artificum completa, his ipsi dicunt, Immolatae homines, vituli enim defecerunt.<verse eID="Hos.13.2" />
+        <verse sID="Hos.13.3" osisID="Hos.13.3" />Idcirco erunt quasi nubes matutina, et sicut ros matutinus pertransiens, sicut pulvis turbine raptus ex area, et sicut vapor de locustis.<verse eID="Hos.13.3" />
+        <verse sID="Hos.13.4" osisID="Hos.13.4" />Ego autem Dominus Deus tuus, firmans coelum, et creans terram. Cuius manus creavit omnem militiam coeli, et non ostendi ea tibi, ut ambulares post ea, et ego eduxi te de terra Aegypti, et Deum praeter me non cognosces, et salvator non est absque me.<verse eID="Hos.13.4" />
+        <verse sID="Hos.13.5" osisID="Hos.13.5" />Ego pascebam te in solitudine, in terra inhabitabili,<verse eID="Hos.13.5" />
+        <verse sID="Hos.13.6" osisID="Hos.13.6" />secundum pascua sua, et repleti sunt in saturitate, et elevata sunt corda eorum, idcirco obliti sunt mei.<verse eID="Hos.13.6" />
+        <verse sID="Hos.13.7" osisID="Hos.13.7" />Et ero eis quasi panther, et sicut pardus in via Assyriorum.<verse eID="Hos.13.7" />
+        <verse sID="Hos.13.8" osisID="Hos.13.8" />Occurram eis sicut ursa indigens cibo, et disrumpam interiora cordis eorum, et devorabunt eos ibi catuli silvarum, bestiae agri disrumpent eos.<verse eID="Hos.13.8" />
+        <verse sID="Hos.13.9" osisID="Hos.13.9" />Corruptioni tuae Israel quis auxiliabitur?<verse eID="Hos.13.9" />
+        <verse sID="Hos.13.10" osisID="Hos.13.10" />Ubi est rex tuus iste? Et salvam te faciat in cunctis urbibus tuis, iudicet te, de quo dixisti, Da mihi regem, et principem.<verse eID="Hos.13.10" />
+        <verse sID="Hos.13.11" osisID="Hos.13.11" />Et dedi tibi regem in ira mea, et habui in furore meo.<verse eID="Hos.13.11" />
+        <verse sID="Hos.13.12" osisID="Hos.13.12" />Congregatio iniquitatis Ephraim, absconditum est peccatum eius.<verse eID="Hos.13.12" />
+        <verse sID="Hos.13.13" osisID="Hos.13.13" />Dolores quasi parturientes venient ei, iste est filius tuus sapiens, quia nunc non fustinebit in contritione filiorum.<verse eID="Hos.13.13" />
+        <verse sID="Hos.13.14" osisID="Hos.13.14" />De manu inferni liberabo eos, de morte redimam illos, ubi est causa tua mors? Ubi est aculeus tuus inferne? Consolatio abscondita est ab oculis meis.<verse eID="Hos.13.14" />
+        <verse sID="Hos.13.15" osisID="Hos.13.15" />Quia ipse inter fratres dividet, adducet urentem ventum Dominus de deserto super eos, et siccabit venas eius, desolabit fontes illius. Iste arefaciet terram eius, et omnia vasa desiderabilia.<verse eID="Hos.13.15" />
+      </p>
+      <chapter eID="Hos.13" />
+      <chapter sID="Hos.14" osisID="Hos.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Hos.14.1" osisID="Hos.14.1" />Disperdetur Samaria, quoniam restitit Deo suo, in gladio corruent, et lactentes eorum elidentur ad petram, et habentes in utero disrumpentur.<verse eID="Hos.14.1" />
+        <verse sID="Hos.14.2" osisID="Hos.14.2" />Convertere Israel ad Dominum Deum tuum, quia infirmatus es in iniquitatibus tuis.<verse eID="Hos.14.2" />
+        <verse sID="Hos.14.3" osisID="Hos.14.3" />Sumite vobiscum sermones, et revertimini ad Dominum, dicite ei, ut non tollatis iniquitatem, sed assumatis bona, et reddemus fructum labiorum nostrorum.<verse eID="Hos.14.3" />
+        <verse sID="Hos.14.4" osisID="Hos.14.4" />Assur non salvabit nos, super equum non ascendemus, nequaquam ultra dicemus, Dii nostri, operibus manuum nostrarum, qui in te est, miserebitur pupilli.<verse eID="Hos.14.4" />
+        <verse sID="Hos.14.5" osisID="Hos.14.5" />Sanabo habitatores eorum, diligam eos manifeste, quia aversa est ira mea ab eis.<verse eID="Hos.14.5" />
+        <verse sID="Hos.14.6" osisID="Hos.14.6" />Ero quasi ros Israel, florebit ut lilium, et mittet radices suas quasi Libanus.<verse eID="Hos.14.6" />
+        <verse sID="Hos.14.7" osisID="Hos.14.7" />Ibunt rami eius, et erit quasi oliva fructifera, et odor illius quasi Libani.<verse eID="Hos.14.7" />
+        <verse sID="Hos.14.8" osisID="Hos.14.8" />Convertentur, et sedebunt sub umbra eius, bibent, et inebriabuntur frumento, et efflorebit ut vinea, memoriale eius quasi vinum Libani<verse eID="Hos.14.8" />
+        <verse sID="Hos.14.9" osisID="Hos.14.9" />Ephraim. Quid ei ultra et idolis? Ego humiliavi eum, et ego confortabo illum, ego sicut iuniperus condensa, ex me fructus tuus inventus est.<verse eID="Hos.14.9" />
+        <verse sID="Hos.14.10" osisID="Hos.14.10" />Quis sapiens, et intelliget haec? Aut intelligens, et cognoscet ea? Quia rectae viae Domini, et iusti ambulabunt in eis, qui autem impii sunt, infirmabuntur in illis.<verse eID="Hos.14.10" />
+      </p>
+      <chapter eID="Hos.14" />
+    </div>
+  </osisText>
+</osis>

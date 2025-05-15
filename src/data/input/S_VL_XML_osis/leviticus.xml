@@ -1,0 +1,479 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Lev" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Lev">
+        <title>leviticus</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Lev</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>leviticus</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Lev">
+      <title>leviticus</title>
+      <chapter sID="Lev.1" osisID="Lev.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Lev.1.2" osisID="Lev.1.2" />... Homo ex vobis, si obtulerit dona Domino a pecoribus, a bobus et ab ovibus offeretis ...<verse eID="Lev.1.2" />
+      </p>
+      <chapter eID="Lev.1" />
+      <chapter sID="Lev.2" osisID="Lev.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Lev.2.6" osisID="Lev.2.6" />Et confringes ea fragmenta, et fundes super eam oleum, sacrificium est Domino.<verse eID="Lev.2.6" />
+        <verse sID="Lev.2.13" osisID="Lev.2.13" />Omne sacrificium vestrum sale salietur. Non cessabit sal testamenti Domini de sacrificiis vestris. In cunctis muneribus vestris sal offeretis.<verse eID="Lev.2.13" />
+      </p>
+      <chapter eID="Lev.2" />
+      <chapter sID="Lev.3" osisID="Lev.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Lev.3.3" osisID="Lev.3.3" />... adipem qui operit ventrem, et omnem adipem qui in ventre est.<verse eID="Lev.3.3" />
+        <verse sID="Lev.3.16" osisID="Lev.3.16" />offeret illud sacerdos ad altare, extra, odorem suavitatis. Omnis adeps, Domino,<verse eID="Lev.3.16" />
+      </p>
+      <chapter eID="Lev.3" />
+      <chapter sID="Lev.4" osisID="Lev.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Lev.4.2" osisID="Lev.4.2" />... Anima, si peccaverit in conspectu Domini non sponte, ex omnibus praeceptis Domini, quae non oportet fieri, feceritque unum ex eis,<verse eID="Lev.4.2" />
+        <verse sID="Lev.4.13" osisID="Lev.4.13" />Si autem omnis synagoga filiorum Israel ignoraverit, et latuerit verbum ab oculis synagogae, et fecerit unum ab omnibus mandatis Domini quod non fiet, et deliquerint,<verse eID="Lev.4.13" />
+        <verse sID="Lev.4.14" osisID="Lev.4.14" />et cognitum illis fuerit peccatum, quod peccaverunt in eo ...<verse eID="Lev.4.14" />
+        <verse sID="Lev.4.22" osisID="Lev.4.22" />Si autem princeps peccaverit, et fecerit unum ab omnibus praeceptis Domini Dei sui quod non fiet, nolens, et deliquerit,<verse eID="Lev.4.22" />
+        <verse sID="Lev.4.23" osisID="Lev.4.23" />et cognitum ei fuerit peccatum, quod peccavit in eo ... offeret munus, hircum de capris, masculum immaculatum.<verse eID="Lev.4.23" />
+        <verse sID="Lev.4.24" osisID="Lev.4.24" />Et ponet manus suas super caput eius, interficietque illum in loco, ubi mactantur holocausta coram Domino, quia pro peccato est.<verse eID="Lev.4.24" />
+        <verse sID="Lev.4.27" osisID="Lev.4.27" />Si autem anima una peccaverit nolens de populo terrae, in eo quod facit ab omnibus praeceptis Domini quod non fiet, et deliquerit,<verse eID="Lev.4.27" />
+        <verse sID="Lev.4.28" osisID="Lev.4.28" />et cognitum fuerit ei peccatum, quod peccavit in ipso ...<verse eID="Lev.4.28" />
+        <verse sID="Lev.4.30" osisID="Lev.4.30" />Et tollet, et ponet sacerdos sanguinem peccati digito super cornua altaris holocaustomatis.<verse eID="Lev.4.30" />
+        <verse sID="Lev.4.35" osisID="Lev.4.35" />... et superponet illud sacerdos super altare, super holocaustoma Domini. Et exorabit pro eo sacerdos pro peccato quod peccavit, et dimittetur illi.<verse eID="Lev.4.35" />
+      </p>
+      <chapter eID="Lev.4" />
+      <chapter sID="Lev.5" osisID="Lev.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Lev.5.1" osisID="Lev.5.1" />Si autem anima peccaverit, et audierit vocem iurationes, et ipse testis fuerit, aut viderit, aut conscius fuerit, si non nunciaverit, et accipiet peccatum.<verse eID="Lev.5.1" />
+        <verse sID="Lev.5.2" osisID="Lev.5.2" />Anima, quaecunque tetigerit omnem rem immundam, aut morticini, aut a fera capti immundi, aut eorum quae sunt morticina abominationum immundarum, morticinum iumentorum immundorum,<verse eID="Lev.5.2" />
+        <verse sID="Lev.5.3" osisID="Lev.5.3" />aut tetigerit ab immunditia hominis, ab omni immunditia eius, quam si tetigerit, inquinabitur. Et latuerit eum, post hoc autem cognoverit, et deliquerit.<verse eID="Lev.5.3" />
+        <verse sID="Lev.5.4" osisID="Lev.5.4" />Anima, quaecunque iuraverit distinguens labiis malefacere, aut benefacere, secundum omnia quaecunque distinxerit homo cum iureiurando, et latuerit eum, et id cognoverit, et peccaverit unum ex his,<verse eID="Lev.5.4" />
+        <verse sID="Lev.5.5" osisID="Lev.5.5" />et confessus fuerit peccatum, pro quo peccavit adversus ipsum,<verse eID="Lev.5.5" />
+        <verse sID="Lev.5.6" osisID="Lev.5.6" />et offeret pro iis quae deliquit Domino, pro peccato quo peccavit, feminam ab ovibus agnam, aut capram de capris pro peccato, et exorabit, pro eo sacerdos pro peccato, et remittetur illi peccatum.<verse eID="Lev.5.6" />
+        <verse sID="Lev.5.7" osisID="Lev.5.7" />Si autem non valet manus eius quod satis est in ovem, offeret pro peccato suo quod peccavit, duos turtures, aut duos pullos columbinos, Domino, unum pro peccato, et unum in holocaustoma,<verse eID="Lev.5.7" />
+        <verse sID="Lev.5.8" osisID="Lev.5.8" />et portabit ea ad sacerdotem. Et offeret sacerdos id quod pro peccato est primum, et erumpet sacerdos caput eius a sphondylo ...<verse eID="Lev.5.8" />
+        <verse sID="Lev.5.10" osisID="Lev.5.10" />... et in ipso reconciliabitur pro peccato quod peccavit, et dimittetur ei.<verse eID="Lev.5.10" />
+        <verse sID="Lev.5.13" osisID="Lev.5.13" />Et orabit pro eo sacerdos et pro peccato eius quod peccavit, et dimittetur ei. Quod autem reliquum fuerit, sit sacerdotis ...<verse eID="Lev.5.13" />
+        <verse sID="Lev.5.14" osisID="Lev.5.14" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Lev.5.14" />
+        <verse sID="Lev.5.15" osisID="Lev.5.15" />Anima, si latuerit eum oblivione, et peccaverit nolens a sanctis Domini, offeret delicti sui Domino arietem sine macula de ovibus, pretio argenti siclorum, siclo sancto,<verse eID="Lev.5.15" />
+        <verse sID="Lev.5.16" osisID="Lev.5.16" />pro quo deliquit, et pro quo peccavit a sanctis, restituet, et quintas adiiciet super illud, et dabit illud sacerdoti. Et sacerdos exorabit pro eo in ariete delicti, et remittetur illi.<verse eID="Lev.5.16" />
+        <verse sID="Lev.5.17" osisID="Lev.5.17" />Et anima quaecunque peccaverit, et fecerit unum ab omnibus praeceptis Domini quae non oportet fieri, et non cognoverit, et deliquerit, et acceperit peccatum suum,<verse eID="Lev.5.17" />
+        <verse sID="Lev.5.18" osisID="Lev.5.18" />et afferet arietem de ovibus pretio argenti in delictum ad sacerdotum. Exorabitque pro eo sacerdos pro ignorantia eius quam ignoravit, et ipse non scivit, et remittetur illi.<verse eID="Lev.5.18" />
+        <verse sID="Lev.5.19" osisID="Lev.5.19" />Deliquit enim delicto delictum ante Dominum.<verse eID="Lev.5.19" />
+      </p>
+      <chapter eID="Lev.5" />
+      <chapter sID="Lev.6" osisID="Lev.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Lev.6.1" osisID="Lev.6.1" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Lev.6.1" />
+        <verse sID="Lev.6.2" osisID="Lev.6.2" />Anima quaecunque peccaverit, et despiciens despexerit praecepta Domini, et mentitus fuerit quae sunt ad proximum de commendatione, aut de societate, aut de rapina, aut iniuriam fecerit aliquam proximo,<verse eID="Lev.6.2" />
+        <verse sID="Lev.6.3" osisID="Lev.6.3" />aut invenerit perditionem, et mentitus fuerit de eo, et iuraverit iniuste de uno ab omnibus quaecunque fecerit homo, ita ut peccet in his,<verse eID="Lev.6.3" />
+        <verse sID="Lev.6.4" osisID="Lev.6.4" />et erit cum peccaverit, et deliquerit, et reddet<verse eID="Lev.6.4" />
+        <verse sID="Lev.6.5" osisID="Lev.6.5" />rapinam quam rapuit, aut iniuriam quam nocuit, aut commendatum quod depositum est apud eum, aut perditionem quam invenit, ab omni re, quam iuravit pro ea iniuste, et restituet ipsum, et quintas eius adiiciet ad illud, cuius est, ipsi reddet, qua die convictus fuerit.<verse eID="Lev.6.5" />
+        <verse sID="Lev.6.6" osisID="Lev.6.6" />Et delicti sui offeret Domino arietem ab ovibus sine macula, pretio in quod deliquit.<verse eID="Lev.6.6" />
+        <verse sID="Lev.6.7" osisID="Lev.6.7" />Et exorabit pro eo sacerdos ante Dominum, et remittetur illi de uno ab omnibus quae fecit, et deliquit in eo.<verse eID="Lev.6.7" />
+        <verse sID="Lev.6.9" osisID="Lev.6.9" />... Ista lex holocausti. Ista holocaustosis super incensionem eius super altare totam noctem usque in mane. Et ignis altaris ardebit super illud. Non extinquetur.<verse eID="Lev.6.9" />
+        <verse sID="Lev.6.10" osisID="Lev.6.10" />... et auferet holocarpoma, quod consumpserit ignis, illam holocaustosim ab altari,<verse eID="Lev.6.10" />
+        <verse sID="Lev.6.11" osisID="Lev.6.11" />... et induet stolam aliam, et abiiciet holocarpoma extra castra in locum mundum.<verse eID="Lev.6.11" />
+        <verse sID="Lev.6.12" osisID="Lev.6.12" />Et ignis super altare semper ardebit ab eo, et non extinguetur. Et exuret super illud sacerdos ligna mane, mane, et stipabit super illud holocaustum, et superponet super illud adipem salutaris.<verse eID="Lev.6.12" />
+        <verse sID="Lev.6.13" osisID="Lev.6.13" />Et ignis semper ardebit super altare. Non extinguetur.<verse eID="Lev.6.13" />
+        <verse sID="Lev.6.14" osisID="Lev.6.14" />Ista lex sacrificii, quod offerent illud filii Aaron sacerdotes ante Dominum ...<verse eID="Lev.6.14" />
+        <verse sID="Lev.6.17" osisID="Lev.6.17" />... Sancta sanctorum est ...<verse eID="Lev.6.17" />
+        <verse sID="Lev.6.19" osisID="Lev.6.19" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Lev.6.19" />
+        <verse sID="Lev.6.20" osisID="Lev.6.20" />Istud donum Aaron, et filiorum eius, quod offerunt Domino in die quacunque unxeris eum. Decimam partem oephi similaginis in sacrificium sempiternum, dimidium eius mane, et dimidium eius post meridiem.<verse eID="Lev.6.20" />
+        <verse sID="Lev.6.21" osisID="Lev.6.21" />In sartagine in oleo fiet. Conspersam offeret eam fresa sacrificium de fragmentis, sacrificium in odorem suavitatis Domino,<verse eID="Lev.6.21" />
+        <verse sID="Lev.6.22" osisID="Lev.6.22" />sacerdos unctus, qui pro eo ex filiis eius faciet illud. Lex aeterna. Omne consummabitur.<verse eID="Lev.6.22" />
+        <verse sID="Lev.6.23" osisID="Lev.6.23" />Et omne sacrificium sacerdotis holocaustum erit, et non edetur.<verse eID="Lev.6.23" />
+        <verse sID="Lev.6.26" osisID="Lev.6.26" />Sacerdos qui imponet illud, manducabit illud ...<verse eID="Lev.6.26" />
+        <verse sID="Lev.6.30" osisID="Lev.6.30" />Omnia quae pro peccato sunt, ex quibus illatum fuerit a sanguine eorum in tabernaculum testimonii exorari in sancto, non edetur, sed igni concremabitur.<verse eID="Lev.6.30" />
+      </p>
+      <chapter eID="Lev.6" />
+      <chapter sID="Lev.7" osisID="Lev.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Lev.7.1" osisID="Lev.7.1" />Et ista est lex arietis, qui pro delicto est, sancta sanctorum sunt,<verse eID="Lev.7.1" />
+        <verse sID="Lev.7.2" osisID="Lev.7.2" />... occident arietem, qui pro delicto est ante Dominum ...<verse eID="Lev.7.2" />
+        <verse sID="Lev.7.6" osisID="Lev.7.6" />... in loco sancto edent ea ...<verse eID="Lev.7.6" />
+        <verse sID="Lev.7.7" osisID="Lev.7.7" />Quomodo quod pro peccato, ita et id quod pro delicto. Lex una est eorum.<verse eID="Lev.7.7" />
+        <verse sID="Lev.7.12" osisID="Lev.7.12" />... et similam conspersam oleo, in collyridis panum azymorum.<verse eID="Lev.7.12" />
+        <verse sID="Lev.7.13" osisID="Lev.7.13" />Offeret munera super altare laudationis salutaris.<verse eID="Lev.7.13" />
+        <verse sID="Lev.7.14" osisID="Lev.7.14" />Et offeret de omnibus muneribus suis laudationem Deo. Sacerdoti profundenti sanguinem salutaris illius erit.<verse eID="Lev.7.14" />
+        <verse sID="Lev.7.15" osisID="Lev.7.15" />Et carnes sacrificii laudis salutaris ipsi erunt, et in quacunque die donabit, comedetur. Non relinquent ex eo usque mane.<verse eID="Lev.7.15" />
+        <verse sID="Lev.7.16" osisID="Lev.7.16" />Et si votum, aut voluntarium sacrificaverit donum suum, quacunque die obtulerit sacrificium, edetur crastina die.<verse eID="Lev.7.16" />
+        <verse sID="Lev.7.19" osisID="Lev.7.19" />... omnis mundus manducabit carnem.<verse eID="Lev.7.19" />
+        <verse sID="Lev.7.20" osisID="Lev.7.20" />Et anima quaecunque manducaverit ex carne sacrificii salutaris, quod est Domini, et immunditia ipsius super ipsum est, peribit anima illa de populo suo.<verse eID="Lev.7.20" />
+        <verse sID="Lev.7.23" osisID="Lev.7.23" />... Omnem adipem boum, et ovium, et caprarum, non edetis.<verse eID="Lev.7.23" />
+        <verse sID="Lev.7.24" osisID="Lev.7.24" />Et adeps morticinorum, et a fera captorum, fiet in omne opus, et cibo non edetur.<verse eID="Lev.7.24" />
+        <verse sID="Lev.7.25" osisID="Lev.7.25" />Omnis qui ederit adipem a pecoribus, quae offeretis ab eis hostiam Domino, peribit anima illa de populo suo.<verse eID="Lev.7.25" />
+        <verse sID="Lev.7.29" osisID="Lev.7.29" />Et filiis Israel loqueris, dicens, Offerens sacrificium salutare Domino, offeret munus suum Domino de sacrificio salutari eius.<verse eID="Lev.7.29" />
+        <verse sID="Lev.7.30" osisID="Lev.7.30" />Manus eius offerent exta Domino. Offeret adipem qui est super pectusculum, et pinnam iecoris. Et offeret ea, ut imponatur in conspectu Domini.<verse eID="Lev.7.30" />
+      </p>
+      <chapter eID="Lev.7" />
+      <chapter sID="Lev.8" osisID="Lev.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Lev.8.6" osisID="Lev.8.6" />Et applicuit Moyses Aaron et filios eius, et lavit eos aqua.<verse eID="Lev.8.6" />
+        <verse sID="Lev.8.7" osisID="Lev.8.7" />Et vestivit eum tunica, et cinxit eum zona, et vestivit eum subtunicali, et imposuit ei superhumerale.<verse eID="Lev.8.7" />
+        <verse sID="Lev.8.8" osisID="Lev.8.8" />Et cinxit eum secundum facturam superhumeralis, et constrinxit eam in ipso ... et imposuit super logium Ostensionem et Veritatem.<verse eID="Lev.8.8" />
+        <verse sID="Lev.8.9" osisID="Lev.8.9" />Et posuit super caput eius mitram ...<verse eID="Lev.8.9" />
+        <verse sID="Lev.8.21" osisID="Lev.8.21" />Obtulit Moyses arietem secundum explicationis ...<verse eID="Lev.8.21" />
+        <verse sID="Lev.8.31" osisID="Lev.8.31" />... Coquite carnes in atrio tabernaculi testimonii in loco sancto, et ibi edetis eas. Et panes, qui sunt in canistro consummationis, quomodo praeceptum est mihi, dicens, Aaron et filii eius edent eam.<verse eID="Lev.8.31" />
+        <verse sID="Lev.8.33" osisID="Lev.8.33" />... usque ad diem completionis quinquaginta dierum ...<verse eID="Lev.8.33" />
+        <verse sID="Lev.8.34" osisID="Lev.8.34" />in die hoc sic praecepit Dominus facere, ut detis pro vobis.<verse eID="Lev.8.34" />
+        <verse sID="Lev.8.35" osisID="Lev.8.35" />Et ad ostium tabernaculi testimonii sedebitis septem dies, die et nocte ... ne moriamini ...<verse eID="Lev.8.35" />
+      </p>
+      <chapter eID="Lev.8" />
+      <chapter sID="Lev.9" osisID="Lev.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Lev.9.1" osisID="Lev.9.1" />Et factum est die octavo, vocavit Moyses Aaron et filios eius, et senatum Israel, et dixit ad Aaron (Moyses),<verse eID="Lev.9.1" />
+        <verse sID="Lev.9.2" osisID="Lev.9.2" />Tolle vitulum de bobus pro peccatis, et arietem in holocaustum immaculatum, et offeres eos in conspectu Domini.<verse eID="Lev.9.2" />
+        <verse sID="Lev.9.3" osisID="Lev.9.3" />Et senatui Israel loquere, dicens, Accipite hircum ex capris unum pro peccato, et arietem, et vitulum, et agnum anniculum, in holocarposim, sine macula,<verse eID="Lev.9.3" />
+        <verse sID="Lev.9.4" osisID="Lev.9.4" />et vitulum a bobus, et arietem in sacrificium salutaris ante Dominum, et similam conspersam in oleo, quoniam hodie videbitur Dominus in vobis.<verse eID="Lev.9.4" />
+        <verse sID="Lev.9.5" osisID="Lev.9.5" />... ante tabernaculum testimonii ...<verse eID="Lev.9.5" />
+        <verse sID="Lev.9.7" osisID="Lev.9.7" />Et ait Moyses ad Aaron, Accede ad altare, et fac quod pro peccato tuo, et holocaustum. Et exora pro te et domo tua, et fac dona populi, et exora pro eis, quomodo praecepit Dominus Moysi.<verse eID="Lev.9.7" />
+        <verse sID="Lev.9.18" osisID="Lev.9.18" />Et occidit vitulum, et arietem sacrificii salutaris populi. Et obtulerunt filii Aaron sanguinem ad eum, et adfudit ad altare in circuitu.<verse eID="Lev.9.18" />
+        <verse sID="Lev.9.19" osisID="Lev.9.19" />Et adipem qui a vitulo et ab ariete, lumbum, et adipem tegentem super ventrem, et duos renes, et adipem qui super ipsos est, et pinnam quae est in iocinere.<verse eID="Lev.9.19" />
+        <verse sID="Lev.9.20" osisID="Lev.9.20" />Et posuit adipes super pectuscula, et imposuit adipes super altare.<verse eID="Lev.9.20" />
+        <verse sID="Lev.9.21" osisID="Lev.9.21" />Et pectusculum, et brachium dextrum abstulit Aaron ablationem ante Dominum, quomodo praecepit Dominus Moysi.<verse eID="Lev.9.21" />
+        <verse sID="Lev.9.22" osisID="Lev.9.22" />Cum extulisset Aaron manus super populum, benedixit eos. Et descendit cum fecisset quod pro peccato, et holocaustomata, et quae salutaris.<verse eID="Lev.9.22" />
+        <verse sID="Lev.9.24" osisID="Lev.9.24" />Et exiit ignis a Domino, et devoravit quae erant super altare, holocaustomata, et adipes. Et vidit omnis populus, et amens factus est ...<verse eID="Lev.9.24" />
+      </p>
+      <chapter eID="Lev.9" />
+      <chapter sID="Lev.10" osisID="Lev.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Lev.10.3" osisID="Lev.10.3" />Ait Moyses, Hoc est quod dixit Dominus, dicens, In eis qui mihi appropinquant sanctificabor, et in omni synagoga glorificabor. Et compunctus est Aaron.<verse eID="Lev.10.3" />
+        <verse sID="Lev.10.6" osisID="Lev.10.6" />Et dixit Moyses ad Aaron, et Eleazar, et Ithamar filios eius qui relicti erant, Caput vestrum non denudabitis, et vestimenta vestra non scindetis, ne moriamini, et super omnem synagogam veniat ira. Fratres autem vestri, omnis domus Israel plorabunt incendium, quo incensi sunt a Domino.<verse eID="Lev.10.6" />
+        <verse sID="Lev.10.7" osisID="Lev.10.7" />Et ab ostio tabernaculi testimonii non exibitis, ne moriamini. Oleum enim unctionis, quod est a Domino, super vos est ...<verse eID="Lev.10.7" />
+        <verse sID="Lev.10.8" osisID="Lev.10.8" />Et locutus est Dominus ad Aaron, dicens,<verse eID="Lev.10.8" />
+        <verse sID="Lev.10.9" osisID="Lev.10.9" />Vinum, et siceram non bibetis, tu et filii tui tecum, cum intrabitis in tabernaculum testimonii, aut cum accedetis ad altare, et non moriemini. Legitimum aeternum in progenies vestras.<verse eID="Lev.10.9" />
+        <verse sID="Lev.10.10" osisID="Lev.10.10" />Distinguere inter medium sanctorum et contaminatorum, et inter medium mundorum et immundorum.<verse eID="Lev.10.10" />
+        <verse sID="Lev.10.11" osisID="Lev.10.11" />Et instruere filios Israel omnia legitima quae locutus est Dominus ad eos per manum Moysi.<verse eID="Lev.10.11" />
+        <verse sID="Lev.10.14" osisID="Lev.10.14" />... pectusculum segregationis, et brachium ablationis, manducabitis in loco sancto ... a sacrificiis salutarium filiorum Israel.<verse eID="Lev.10.14" />
+        <verse sID="Lev.10.15" osisID="Lev.10.15" />Brachium ablationis, et pectusculum segregationis super hostias adipum offerent, segregationem segregare ante Deum. Et erit tibi, et filiis tuis, et filiabus tuis tecum legitimum aeternum ...<verse eID="Lev.10.15" />
+        <verse sID="Lev.10.16" osisID="Lev.10.16" />... Et iratus est Moyses ad filios Aaron Eleazar et Ithamar, qui superfuerant, dicens,<verse eID="Lev.10.16" />
+        <verse sID="Lev.10.17" osisID="Lev.10.17" />Quare non comedistis illud quod fuit pro peccato in loco sancto? Quoniam enim sancta sanctorum sunt, hoc vobis dedit edere, ut auferatis peccatum synagogae, et exoretis pro eo ante Dominum.<verse eID="Lev.10.17" />
+        <verse sID="Lev.10.18" osisID="Lev.10.18" />Non enim illatum est a sanguine eius in sanctum ante faciem intus. Edetis illud in loco sancto, quomodo mihi constituit Dominus.<verse eID="Lev.10.18" />
+        <verse sID="Lev.10.19" osisID="Lev.10.19" />... Si hodie obtulerunt ea quae pro peccato illorum sunt, et holocausta sua ante Dominum, et contigerunt mihi talia, et comedam quod est pro peccato hodie, nunquid placitum erit Domino?<verse eID="Lev.10.19" />
+        <verse sID="Lev.10.20" osisID="Lev.10.20" />Et audivit Moyses, et placuit illi.<verse eID="Lev.10.20" />
+      </p>
+      <chapter eID="Lev.10" />
+      <chapter sID="Lev.11" osisID="Lev.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Lev.11.9" osisID="Lev.11.9" />... in aquis, et in mari, et in torrentibus ...<verse eID="Lev.11.9" />
+        <verse sID="Lev.11.21" osisID="Lev.11.21" />Sed haec edetis a repentibus volatilibus, quae ambulant super quatuor, quae habent crura superiora pedum eius ...<verse eID="Lev.11.21" />
+        <verse sID="Lev.11.33" osisID="Lev.11.33" />Et omne vas fictile, in quo ceciderit ex eis intus, quaecunque sunt intus, immunda erunt, et illud conteretur.<verse eID="Lev.11.33" />
+        <verse sID="Lev.11.34" osisID="Lev.11.34" />Et omnis cibus qui manducatur, in quemcunque venerit super illum aqua, immundus erit vobis ...<verse eID="Lev.11.34" />
+        <verse sID="Lev.11.36" osisID="Lev.11.36" />... Qui vero tetigerit omnem immunditiam animae morticinorum ipsorum, immundus erit.<verse eID="Lev.11.36" />
+        <verse sID="Lev.11.44" osisID="Lev.11.44" />... sancti estote, quoniam et ego sanctus sum Dominus Deus vester ...<verse eID="Lev.11.44" />
+        <verse sID="Lev.11.45" osisID="Lev.11.45" />... Sancti eritis, quia ego sanctus sum ...<verse eID="Lev.11.45" />
+        <verse sID="Lev.11.47" osisID="Lev.11.47" />instruere filios Israel ... inter vivificantia quae manducantur, et inter vivificantia quae non manducantur.<verse eID="Lev.11.47" />
+      </p>
+      <chapter eID="Lev.11" />
+      <chapter sID="Lev.12" osisID="Lev.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Lev.12.1" osisID="Lev.12.1" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Lev.12.1" />
+        <verse sID="Lev.12.2" osisID="Lev.12.2" />Loquere filiis Israel, et dicens ad eos, Mulier quaecunque semen receperit, et pepererit masculum, et immunda erit septem dies, secundum dies secessionis purgationis eius, immunda erit.<verse eID="Lev.12.2" />
+        <verse sID="Lev.12.3" osisID="Lev.12.3" />Et in die octavo circumcidet carnem praeputii eius.<verse eID="Lev.12.3" />
+        <verse sID="Lev.12.4" osisID="Lev.12.4" />Et triginta et tres dies sedebit in sanguine suo mundo. Omne quod sanctum est non continget, et in sanctuarium non introibit ...<verse eID="Lev.12.4" />
+        <verse sID="Lev.12.5" osisID="Lev.12.5" />... sexaginta sex diebus sedebit in sanguine mundo suo.<verse eID="Lev.12.5" />
+        <verse sID="Lev.12.6" osisID="Lev.12.6" />Et cum adimpleti fuerint dies purgationis eius, super filio, aut super filia, offeret agnum anniculum sine macula in holocaustum, et pullum columbinum aut turturem pro peccato, ad ostium tabernaculi testimonii ad sacerdotem.<verse eID="Lev.12.6" />
+        <verse sID="Lev.12.7" osisID="Lev.12.7" />Et offeret eum ante Dominum, et exorabit pro ea sacerdos, et purgabit eam a fonte sanguinis eius. Ista lex eius quae peperit masculum aut feminam.<verse eID="Lev.12.7" />
+        <verse sID="Lev.12.8" osisID="Lev.12.8" />Si autem non invenerit manus eius quod satis est in agnum, et accipiet duos turtures aut duos pullos columbinos, unum in holocaustum, et unum pro peccato, et exorabit pro ea sacerdos, et purgabitur.<verse eID="Lev.12.8" />
+      </p>
+      <chapter eID="Lev.12" />
+      <chapter sID="Lev.13" osisID="Lev.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Lev.13.1" osisID="Lev.13.1" />Et locutus est Dominus ad Moysen et Aaron, dicens,<verse eID="Lev.13.1" />
+        <verse sID="Lev.13.2" osisID="Lev.13.2" />Homini, si cui facta fuerit in cute corporis eius cicatrix signi lucida, et fuerit in cute coloris eius tactus leprae, et venerit ad Aaron sacerdotem, aut unum filiorum eius sacerdotem,<verse eID="Lev.13.2" />
+        <verse sID="Lev.13.3" osisID="Lev.13.3" />et viderit sacerdos maculam in pellicula corporis, et pilum in macula mutaverit album, et aspectus maculae humilior a pellicula corporis, macula leprae est. Et videbit sacerdos, et contaminabit eum.<verse eID="Lev.13.3" />
+        <verse sID="Lev.13.4" osisID="Lev.13.4" />Si autem lucidus albus fuerit in cute coloris eius, et humilis non fuerit aspectus eius a cute, et pilus non erit conversus in album, ipse autem est obscurus, et segregabit sacerdos tactum septem dies.<verse eID="Lev.13.4" />
+        <verse sID="Lev.13.5" osisID="Lev.13.5" />Et videbit sacerdos tactum die septimo. Et ecce tactus manet ante eum, non commutatus est tactus in cute, et segregabit illum sacerdos septem dies in secundo.<verse eID="Lev.13.5" />
+        <verse sID="Lev.13.6" osisID="Lev.13.6" />Et videbit illum sacerdos die septimo in secundo. Et ecce obscurus tactus, non est mutatus tactus in cute, et purgabit eum sacerdos, signum est enim. Lavabit vestimenta sua, et mundus erit.<verse eID="Lev.13.6" />
+        <verse sID="Lev.13.7" osisID="Lev.13.7" />Si autem conversa mutata fuerit significatio in cute, posteaquam vidit illum sacerdos ut purgaret illum, et visus fuerit in secundo sacerdoti,<verse eID="Lev.13.7" />
+        <verse sID="Lev.13.8" osisID="Lev.13.8" />et viderit eum sacerdos, et ecce commutata est significatio in cute, et inquinabit illum sacerdos, lepra est.<verse eID="Lev.13.8" />
+        <verse sID="Lev.13.9" osisID="Lev.13.9" />Et tactus leprae si fuerit in homine, veniet ad sacerdotem,<verse eID="Lev.13.9" />
+        <verse sID="Lev.13.10" osisID="Lev.13.10" />et videbit sacerdos. Et ecce cicatrix alba in cute, et haec mutavit capillum album, et a sano carnis vivae in cicatrice.<verse eID="Lev.13.10" />
+        <verse sID="Lev.13.11" osisID="Lev.13.11" />Lepra veterascens est in cute coloris eius. Et inquinabit eum sacerdos. Non segregabit eum, quia immundus est.<verse eID="Lev.13.11" />
+        <verse sID="Lev.13.12" osisID="Lev.13.12" />Si autem varietas effloruerit in cutem, et totam cutem texerit a capite usque ad pedes, per omnem conspectum,<verse eID="Lev.13.12" />
+        <verse sID="Lev.13.13" osisID="Lev.13.13" />et sacerdos cum viderit, emundabit eum, quoniam convertit in album, mundus.<verse eID="Lev.13.13" />
+        <verse sID="Lev.13.14" osisID="Lev.13.14" />Et quacunque die visus fuerit in eo color vivus, inquinabitur,<verse eID="Lev.13.14" />
+        <verse sID="Lev.13.15" osisID="Lev.13.15" />et videbit sacerdos corpus sanum, immundus est, lepra est.<verse eID="Lev.13.15" />
+        <verse sID="Lev.13.16" osisID="Lev.13.16" />Si autem restitutus fuerit color sanus, et conversus fuerit albus, et veniet ad sacerdotem,<verse eID="Lev.13.16" />
+        <verse sID="Lev.13.17" osisID="Lev.13.17" />et videbit sacerdos, et ecce conversus tactus in album, et purgabit sacerdos tactum, mundus est.<verse eID="Lev.13.17" />
+        <verse sID="Lev.13.45" osisID="Lev.13.45" />... et immundus, immundus vocabitur.<verse eID="Lev.13.45" />
+        <verse sID="Lev.13.46" osisID="Lev.13.46" />... cum sit immundus, immundus erit ...<verse eID="Lev.13.46" />
+        <verse sID="Lev.13.47" osisID="Lev.13.47" />Et vestimento si fuerit in eo tactus leprae, aut in vestimento laneo, aut in vestimento stuppeo,<verse eID="Lev.13.47" />
+        <verse sID="Lev.13.48" osisID="Lev.13.48" />aut in stamine, aut in lana, aut in lineis, aut in laneis ... in omni operaria pelle ... in omni vase operario pellis ...<verse eID="Lev.13.48" />
+        <verse sID="Lev.13.51" osisID="Lev.13.51" />... aut in omni vase pelliceo, in quocunque fuerit in eo tactus ...<verse eID="Lev.13.51" />
+        <verse sID="Lev.13.55" osisID="Lev.13.55" />... et ecce non commutavit tactus adspectum suum ...<verse eID="Lev.13.55" />
+      </p>
+      <chapter eID="Lev.13" />
+      <chapter sID="Lev.14" osisID="Lev.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Lev.14.15" osisID="Lev.14.15" />Et accipiens sacerdos de hemina olei, superfundet in manum sacerdotis sinistram.<verse eID="Lev.14.15" />
+      </p>
+      <chapter eID="Lev.14" />
+      <chapter sID="Lev.15" osisID="Lev.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Lev.15.2" osisID="Lev.15.2" />... Viro, si fuerit profluvium seminis ex corpore eius, ex quo consistit corpus eius, segregandum est.<verse eID="Lev.15.2" />
+        <verse sID="Lev.15.3" osisID="Lev.15.3" />Omnes dies profluvii corporis eius, in quibus consistit corpus eius, in profluvium immunditia eius est.<verse eID="Lev.15.3" />
+        <verse sID="Lev.15.11" osisID="Lev.15.11" />Et quemcunque tetigerit, qui fluorem seminis patitur, et manus suas non lavit aqua, lavabit vestimenta, et lavabit corpus suum aqua, et immundus erit usque in vesperam.<verse eID="Lev.15.11" />
+        <verse sID="Lev.15.16" osisID="Lev.15.16" />Et homo, cuicunque exierit ex eo concubitus seminis ...<verse eID="Lev.15.16" />
+        <verse sID="Lev.15.21" osisID="Lev.15.21" />Et omne super quodcunque dormit super illud ... et omne super quod sederit super illud, immundum erit.<verse eID="Lev.15.21" />
+        <verse sID="Lev.15.25" osisID="Lev.15.25" />Mulier, si fluat profluvium sanguinis dies complures ...<verse eID="Lev.15.25" />
+        <verse sID="Lev.15.26" osisID="Lev.15.26" />... immundum erit secundum dies profluvii eius.<verse eID="Lev.15.26" />
+        <verse sID="Lev.15.31" osisID="Lev.15.31" />Timoratos facite filios Israel ab immunditiis suis, et non morientur pro peccato suo, si contaminaverint tabernaculum testamenti.<verse eID="Lev.15.31" />
+      </p>
+      <chapter eID="Lev.15" />
+      <chapter sID="Lev.16" osisID="Lev.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Lev.16.2" osisID="Lev.16.2" />... non ingredatur omni in tempore in sanctum interius velaminis, coram facie propitiatorii ...<verse eID="Lev.16.2" />
+        <verse sID="Lev.16.3" osisID="Lev.16.3" />... Offerat vitulum pro peccato, et arietem in holocaustum.<verse eID="Lev.16.3" />
+        <verse sID="Lev.16.5" osisID="Lev.16.5" />Duos hircos accipiat ab universo populo. Unum ex eis offerat pro peccato suo, et unum pro peccato populi, et arietem in holocaustum.<verse eID="Lev.16.5" />
+        <verse sID="Lev.16.12" osisID="Lev.16.12" />... et implebit manus suas thymiamate, compositionis subtilis. Et offeret interius in interiora velaminis.<verse eID="Lev.16.12" />
+        <verse sID="Lev.16.14" osisID="Lev.16.14" />... asperget digito suo super propitiatorium ad orientem, ante faciem propitiatorii asperget septies digito suo.<verse eID="Lev.16.14" />
+        <verse sID="Lev.16.16" osisID="Lev.16.16" />Et exorabit pro sanctis ab immunditiis filiorum Israel, et ab iniustitiis eorum, et de omnibus peccatis eorum. Et ita faciet tabernaculo testimonii, quod creatum est in eis in medio immunditiae eorum.<verse eID="Lev.16.16" />
+        <verse sID="Lev.16.19" osisID="Lev.16.19" />Et asperget super illud de sanguine ... Et mundabit illud, et sanctificabit ab immunditiis filiorum Israel.<verse eID="Lev.16.19" />
+        <verse sID="Lev.16.20" osisID="Lev.16.20" />Definietque exorans sanctum, et tabernaculum testimonii, et altarium, et pro sacerdotibus purgabit.<verse eID="Lev.16.20" />
+        <verse sID="Lev.16.21" osisID="Lev.16.21" />... et emittet in manu hominis parati in eremum.<verse eID="Lev.16.21" />
+        <verse sID="Lev.16.32" osisID="Lev.16.32" />Deprecabitur sacerdos quaecunque unxerit, et quicunque consummatus fuerit manus suas consecrare ad patrem suum ...<verse eID="Lev.16.32" />
+        <verse sID="Lev.16.33" osisID="Lev.16.33" />Et exorabit sanctum sancti, et tabernaculum testimonii, et altare exorabit, et pro sacerdotibus, et pro omni synagoga exorabit.<verse eID="Lev.16.33" />
+      </p>
+      <chapter eID="Lev.16" />
+      <chapter sID="Lev.17" osisID="Lev.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Lev.17.1" osisID="Lev.17.1" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Lev.17.1" />
+        <verse sID="Lev.17.2" osisID="Lev.17.2" />Loquere ad Aaron, et ad filios eius, et ad omnes filios Israel, et dices ad eos ...<verse eID="Lev.17.2" />
+        <verse sID="Lev.17.3" osisID="Lev.17.3" />Homo homo a filius Israel, et a proselytis qui sunt appositi vobis, quicunque occiderit vitulum, aut ovem, aut capram in castris, et quicunque occiderit extra castra,<verse eID="Lev.17.3" />
+        <verse sID="Lev.17.4" osisID="Lev.17.4" />et ad ostium tabernaculi testimonii non adtulerit ...<verse eID="Lev.17.4" />
+        <verse sID="Lev.17.7" osisID="Lev.17.7" />et non immolabunt ultra sacrificia sua supervacuis ...<verse eID="Lev.17.7" />
+        <verse sID="Lev.17.10" osisID="Lev.17.10" />Et homo homo filiorum Israel, aut de proselytis qui appositi sunt in vobis, quicunque ederit omnem sanguinem, et statuam faciem meam super animam quae manducat sanguinem, et perdam illam de populo suo.<verse eID="Lev.17.10" />
+        <verse sID="Lev.17.11" osisID="Lev.17.11" />Anima enim omnis carnis sanguis eius est. Et ego dedi illud vobis, exorare pro animabus vestris. Sanguis enim eius pro anima exorabit.<verse eID="Lev.17.11" />
+        <verse sID="Lev.17.12" osisID="Lev.17.12" />Propterea dixi filiis Israel, Omnis anima ex vobis non edet sanguinem. Et proselytus qui appositus est in vobis, non edet sanguinem.<verse eID="Lev.17.12" />
+        <verse sID="Lev.17.14" osisID="Lev.17.14" />Anima omnis carnis sanguis eius ...<verse eID="Lev.17.14" />
+      </p>
+      <chapter eID="Lev.17" />
+      <chapter sID="Lev.18" osisID="Lev.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Lev.18.2" osisID="Lev.18.2" />Loquere filiis Israel, et dices ad eos, Ego Dominus Deus vester.<verse eID="Lev.18.2" />
+        <verse sID="Lev.18.3" osisID="Lev.18.3" />Secundum studia terrae Aegypti, in qua inhabitastis in ea, non facietis. Et secundum studia terrae Chananaeorum, in quam ego induxero vos ibi, non facietis, et in legitima eorum non ambulabitis.<verse eID="Lev.18.3" />
+        <verse sID="Lev.18.4" osisID="Lev.18.4" />Iudicia mea facietis, et praecepta mea custodite, et ambulate in eis. Ego Dominus Deus vester.<verse eID="Lev.18.4" />
+        <verse sID="Lev.18.5" osisID="Lev.18.5" />Custodite omnia praecepta mea, et omnia iudicia mea, et facietis ea. Qui fecerit ea homo, vivet in ipsis. Ego Dominus Deus vester.<verse eID="Lev.18.5" />
+        <verse sID="Lev.18.7" osisID="Lev.18.7" />Turpitudinem patris tui et turpitudinem matris tuae non revelabis. Turpitudo enim eorum est ...<verse eID="Lev.18.7" />
+        <verse sID="Lev.18.8" osisID="Lev.18.8" />Turpitudinem uxoris patris tui non revelabis. Turpitudo enim patris tui est.<verse eID="Lev.18.8" />
+        <verse sID="Lev.18.9" osisID="Lev.18.9" />Turpitudinem sororis tuae ex patre tuo, aut ex matre tua, quae domi est nata, vel quae foris nata est, non revelabis turpitudinem earum.<verse eID="Lev.18.9" />
+        <verse sID="Lev.18.11" osisID="Lev.18.11" />Turpitudinem filiae uxoris patris tui non revelabis. Ex eodem patre soror tua est, non revelabis turpitudinem eius.<verse eID="Lev.18.11" />
+        <verse sID="Lev.18.14" osisID="Lev.18.14" />Turpitudinem fratris patris tui non revelabis, et ad uxorem eius non introibis. Propinqua enim tua est.<verse eID="Lev.18.14" />
+        <verse sID="Lev.18.16" osisID="Lev.18.16" />Turpitudinem uxoris fratris tui non revelabis. Turpitudo fratris tui est.<verse eID="Lev.18.16" />
+        <verse sID="Lev.18.17" osisID="Lev.18.17" />Turpitudinem mulieris et filiae eius non revelabis. Filiam filii eius, et filiam filiae eius non accipies ...<verse eID="Lev.18.17" />
+        <verse sID="Lev.18.18" osisID="Lev.18.18" />Uxorem super sororem eius non accipies in zelum ...<verse eID="Lev.18.18" />
+        <verse sID="Lev.18.19" osisID="Lev.18.19" />Et ad mulierem in segregatione immunditiae eius, non accedes revelare turpitudinem eius.<verse eID="Lev.18.19" />
+        <verse sID="Lev.18.20" osisID="Lev.18.20" />Et ad uxorem proximi tui non dabis concubitum seminis tui, inquinari ad eam.<verse eID="Lev.18.20" />
+        <verse sID="Lev.18.21" osisID="Lev.18.21" />Et a semine tuo non dabis servire principi, et non profanabis nomen sanctum. Ego Dominus.<verse eID="Lev.18.21" />
+        <verse sID="Lev.18.25" osisID="Lev.18.25" />... et exhorruit terra eos, qui insident super eam.<verse eID="Lev.18.25" />
+      </p>
+      <chapter eID="Lev.18" />
+      <chapter sID="Lev.19" osisID="Lev.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Lev.19.2" osisID="Lev.19.2" />... Sancti estote, quoniam ego sanctus sum, Dominus Deus vester.<verse eID="Lev.19.2" />
+        <verse sID="Lev.19.4" osisID="Lev.19.4" />Non sequemini idola, et deos fusiles non facietis vobis. Ego Dominus Deus vester.<verse eID="Lev.19.4" />
+        <verse sID="Lev.19.9" osisID="Lev.19.9" />Et permetentibus vobis messem terrae vestrae, non perficietis messem vestram agri tui permetere ...<verse eID="Lev.19.9" />
+        <verse sID="Lev.19.11" osisID="Lev.19.11" />Non furtum facietis, neque mentiemini, neque calumniam faciet unusquisque proximo.<verse eID="Lev.19.11" />
+        <verse sID="Lev.19.12" osisID="Lev.19.12" />... Et non profanabitis nomen Domini Dei vestri. Ego sum Dominus Deus vester.<verse eID="Lev.19.12" />
+        <verse sID="Lev.19.13" osisID="Lev.19.13" />Non nocebis proximo. Non rapies. Non dormiet merces mercenarii tui apud te usque in mane.<verse eID="Lev.19.13" />
+        <verse sID="Lev.19.14" osisID="Lev.19.14" />... Et timebis Dominum Deum. Ego sum Dominus Deus tuus.<verse eID="Lev.19.14" />
+        <verse sID="Lev.19.15" osisID="Lev.19.15" />Non facies iniquum in iudicio. Non accipias personam pauperis, neque miratus fueris ad personam potentis. In iustitia iudicabis proximum tuum.<verse eID="Lev.19.15" />
+        <verse sID="Lev.19.16" osisID="Lev.19.16" />Non ambulabis in dolo in gente tua. Non consenties in sanguinem proximi tui. Ego sum Dominus Deus vester.<verse eID="Lev.19.16" />
+        <verse sID="Lev.19.17" osisID="Lev.19.17" />Non odio habebis fratrem tuum in animo tuo. Arguendo argues proximum tuum, et non accipies propter ipsum peccatum.<verse eID="Lev.19.17" />
+        <verse sID="Lev.19.18" osisID="Lev.19.18" />Et non vindicatur manus tua. Non irasceris filiis populi tui. Et diliges proximum tuum sicut teipsum. Ego Dominus Deus vester.<verse eID="Lev.19.18" />
+        <verse sID="Lev.19.19" osisID="Lev.19.19" />Legem meam custodite ...<verse eID="Lev.19.19" />
+        <verse sID="Lev.19.23" osisID="Lev.19.23" />... fructus terrae tres annos erit vobis immundus. Non comedetis ex eo.<verse eID="Lev.19.23" />
+        <verse sID="Lev.19.24" osisID="Lev.19.24" />At anno quarto erit omnis fructus eius sanctus, et laudabilis Domino.<verse eID="Lev.19.24" />
+        <verse sID="Lev.19.27" osisID="Lev.19.27" />Non facietis cirrum ex coma capitis vestri. Non corrumpetis effigiem barbae vestrae.<verse eID="Lev.19.27" />
+        <verse sID="Lev.19.28" osisID="Lev.19.28" />Et incisiones super animam non facietis in corpore vestro ...<verse eID="Lev.19.28" />
+        <verse sID="Lev.19.29" osisID="Lev.19.29" />Non profanabis filiam tuam in moechandum (al. in moechiam) ...<verse eID="Lev.19.29" />
+        <verse sID="Lev.19.30" osisID="Lev.19.30" />... sancta mea timebitis ...<verse eID="Lev.19.30" />
+        <verse sID="Lev.19.31" osisID="Lev.19.31" />Non sequemini ventriloquos, venesicis non adiungamini, ut polluamini in eis ...<verse eID="Lev.19.31" />
+        <verse sID="Lev.19.32" osisID="Lev.19.32" />A facie senioris exsurges, et honorabis personam presbyteri. Et timebis Dominum Deum tuum. Ego sum Dominus Deus tuus.<verse eID="Lev.19.32" />
+        <verse sID="Lev.19.35" osisID="Lev.19.35" />Non facietis iniuste in iudicio, in mensura, et in penso, et in stateris.<verse eID="Lev.19.35" />
+        <verse sID="Lev.19.36" osisID="Lev.19.36" />Statera iusta pensabitis ...<verse eID="Lev.19.36" />
+      </p>
+      <chapter eID="Lev.19" />
+      <chapter sID="Lev.20" osisID="Lev.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Lev.20.2" osisID="Lev.20.2" />Et filiis Israel loquere ...<verse eID="Lev.20.2" />
+        <verse sID="Lev.20.5" osisID="Lev.20.5" />... ita ut fornicentur in principes de populo suo.<verse eID="Lev.20.5" />
+        <verse sID="Lev.20.6" osisID="Lev.20.6" />... Anima, quae secuta fuerit ventriloquos, vel incantatores, ut fornicetur post eos, obfirmabo faciem meam contra animam illam, et perdam illam de populo suo.<verse eID="Lev.20.6" />
+        <verse sID="Lev.20.7" osisID="Lev.20.7" />... Sancti estote, quoniam et ego sanctus sum, Dominus Deus vester.<verse eID="Lev.20.7" />
+        <verse sID="Lev.20.9" osisID="Lev.20.9" />Qui maledixerit patri, aut matri, morte moriatur ...<verse eID="Lev.20.9" />
+        <verse sID="Lev.20.10" osisID="Lev.20.10" />Homo homo quicunque adulteraverit uxorem viri, aut quicunque adulteraverit uxorem proximi sui, morte moriantur qui adulteravit, et quae adulterata est.<verse eID="Lev.20.10" />
+        <verse sID="Lev.20.11" osisID="Lev.20.11" />Cum uxore patris qui dormierit ... ambo moriantur ...<verse eID="Lev.20.11" />
+        <verse sID="Lev.20.12" osisID="Lev.20.12" />Si quis manserit cum nuru sua, ambo moriantur ...<verse eID="Lev.20.12" />
+        <verse sID="Lev.20.13" osisID="Lev.20.13" />Quicunque manserit cum masculo concubito muliebri ... ambo moriantur ...<verse eID="Lev.20.13" />
+        <verse sID="Lev.20.14" osisID="Lev.20.14" />Quicunque acceperit mulierem et matrem eius ... igni cremabuntur ...<verse eID="Lev.20.14" />
+        <verse sID="Lev.20.15" osisID="Lev.20.15" />Quicunque dederit concubitum in quadrupede, moratur. Et quadrupedem occidetis.<verse eID="Lev.20.15" />
+        <verse sID="Lev.20.16" osisID="Lev.20.16" />Et mulier quae accesserit ad omne pecus, ascendi ab eo, interficietis mulierem et pecus. Morte moriantur, rei sunt.<verse eID="Lev.20.16" />
+        <verse sID="Lev.20.17" osisID="Lev.20.17" />Qui acceperit sororem suam de patre suo, vel de matre sua, et viderit turpitudinem eius, et ipsa viderit turpitudinem illius, opprobrium est. Et exterminabuntur coram filiis generis sui. Turpitudinem sororis suae detexit, peccatum suum recipiet.<verse eID="Lev.20.17" />
+        <verse sID="Lev.20.20" osisID="Lev.20.20" />Quicunque dormerit cum cognata sua, turpitudinem cognationis suae revelavit. Sine filiis morientur.<verse eID="Lev.20.20" />
+        <verse sID="Lev.20.21" osisID="Lev.20.21" />Quicunque sumpserit fratris uxorem, immunditia est, turpitudo. Sine liberis morientur.<verse eID="Lev.20.21" />
+        <verse sID="Lev.20.25" osisID="Lev.20.25" />Et segregabitis vosmetipsos inter medium pecorum mundorum, et inter medium pecorum immundorum, et inter medium volucrum mundatum, et immundatum. Et non exsecrabiles facietis animas, et in pecoribus, et in volucribus, et in omnibus serpentibus terrae, quae ego segregavi vobis in immunditiam.<verse eID="Lev.20.25" />
+        <verse sID="Lev.20.26" osisID="Lev.20.26" />Eritis mihi sancti, quia ego sanctus sum Dominus Deus vester, qui segregavi vos ab omnibus gentibus, esse mihi.<verse eID="Lev.20.26" />
+        <verse sID="Lev.20.27" osisID="Lev.20.27" />Et vir, aut mulier, si forte fuerit illi ventriloquus, aut incantator, morte moriantur ambo. Lapidibus lapidabitis eos, rei sunt.<verse eID="Lev.20.27" />
+      </p>
+      <chapter eID="Lev.20" />
+      <chapter sID="Lev.21" osisID="Lev.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Lev.21.1" osisID="Lev.21.1" />Et ait Dominus ad Moysen, dicens, Dic sacerdotibus filiis Aaron, et dices ad eos, In animabus non contaminabuntur in gente sua.<verse eID="Lev.21.1" />
+        <verse sID="Lev.21.2" osisID="Lev.21.2" />Sed in cognatis, qui appropinquant eis, super matre, et super patre, et super filiis, et filiabus, et super fratre,<verse eID="Lev.21.2" />
+        <verse sID="Lev.21.3" osisID="Lev.21.3" />et sorore sua virgine, quae appropinquat ei, et non est tradita viro, super his contaminabitur.<verse eID="Lev.21.3" />
+        <verse sID="Lev.21.4" osisID="Lev.21.4" />Et non polluetur repente in populo suo in contaminationem sui.<verse eID="Lev.21.4" />
+        <verse sID="Lev.21.5" osisID="Lev.21.5" />Et calvitium non rademini super mortuum ... et super carnes suas non secabunt sectiones.<verse eID="Lev.21.5" />
+        <verse sID="Lev.21.6" osisID="Lev.21.6" />... dona Domini vestri ipse offeret ...<verse eID="Lev.21.6" />
+        <verse sID="Lev.21.7" osisID="Lev.21.7" />Mulierem fornicariam et profanam non accipient, et mulierem eiectam a viro suo, quoniam sanctus est Domino Deo suo, et sanctificabis eum.<verse eID="Lev.21.7" />
+        <verse sID="Lev.21.8" osisID="Lev.21.8" />Dona Domini Dei vestri iste offeret. Sanctus est, quoniam sanctus ego, Dominus, qui sanctifico eos.<verse eID="Lev.21.8" />
+        <verse sID="Lev.21.9" osisID="Lev.21.9" />Filia viri sacerdotis si prostituatur ad fornicandum ... igne cremabitur.<verse eID="Lev.21.9" />
+        <verse sID="Lev.21.10" osisID="Lev.21.10" />Et sacerdos magnus e fratribus suis, cui fusum est super caput ex oleo christo, et consummatus manus induere vestimenta sua non scindet.<verse eID="Lev.21.10" />
+        <verse sID="Lev.21.11" osisID="Lev.21.11" />Et super omnem animam mortuam non introibit. Super patrem suum, et super matrem suam non inquinabitur.<verse eID="Lev.21.11" />
+        <verse sID="Lev.21.12" osisID="Lev.21.12" />Et de sanctis non exiet, et non contaminabitur sanctificario Dei eius, quia sanctum oleum unctionis a Deo super eum est ...<verse eID="Lev.21.12" />
+        <verse sID="Lev.21.13" osisID="Lev.21.13" />Uxorem virginem accipiet.<verse eID="Lev.21.13" />
+        <verse sID="Lev.21.14" osisID="Lev.21.14" />Viduam autem et eiectam, et meretricem non accipiet, sed virginem de genere suo ...<verse eID="Lev.21.14" />
+        <verse sID="Lev.21.15" osisID="Lev.21.15" />Et non contaminabit semen suum in populo. Ego Dominus qui sanctifico eum.<verse eID="Lev.21.15" />
+        <verse sID="Lev.21.17" osisID="Lev.21.17" />... Homo in quo fuerit macula et vitium, non accedet offerre dona Deo.<verse eID="Lev.21.17" />
+      </p>
+      <chapter eID="Lev.21" />
+      <chapter sID="Lev.22" osisID="Lev.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Lev.22.1" osisID="Lev.22.1" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Lev.22.1" />
+        <verse sID="Lev.22.2" osisID="Lev.22.2" />Dic Aaron et filiis eius, et adtendant a sanctis filiorum Israel, et non profanabunt nomen sanctum meum, quanta ipsi sanctificant mihi. Ego Dominus.<verse eID="Lev.22.2" />
+        <verse sID="Lev.22.3" osisID="Lev.22.3" />Et dices illis, In progenies vestras omnis homo, quicunque accesserit ab omni semine vestro ad sancta, quaecunque sanctificaverint filii Israel Domino, et erit immunditia eius in illo, exterminabitur anmia illa a me. Ego Dominus Deus vester.<verse eID="Lev.22.3" />
+        <verse sID="Lev.22.4" osisID="Lev.22.4" />... et qui tetigerit omnem immunditiam animae ...<verse eID="Lev.22.4" />
+        <verse sID="Lev.22.5" osisID="Lev.22.5" />... aut supra hominem, in quo inquinavit illum, secundum omnem immunditiam ipsius ...<verse eID="Lev.22.5" />
+        <verse sID="Lev.22.11" osisID="Lev.22.11" />Si autem sacerdos possederit animam emptam pecunia, hic edet de panibus eius ...<verse eID="Lev.22.11" />
+        <verse sID="Lev.22.12" osisID="Lev.22.12" />Et filia hominis sacerdotis si fuerit viro alienigenae ...<verse eID="Lev.22.12" />
+        <verse sID="Lev.22.22" osisID="Lev.22.22" />... non offerent haec Domino, et super altare non dabitur de eis super altare Domino.<verse eID="Lev.22.22" />
+        <verse sID="Lev.22.26" osisID="Lev.22.26" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Lev.22.26" />
+        <verse sID="Lev.22.27" osisID="Lev.22.27" />Vitulum, aut ovem, aut capram, cum natum fuerit, et erit septem dies sub matre sua ...<verse eID="Lev.22.27" />
+        <verse sID="Lev.22.32" osisID="Lev.22.32" />... et sanctificabor in medio filiorum Israel ...<verse eID="Lev.22.32" />
+      </p>
+      <chapter eID="Lev.22" />
+      <chapter sID="Lev.23" osisID="Lev.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Lev.23.2" osisID="Lev.23.2" />Loquere ad filios Israel, et dices ad eos, Solemnia Domini, quae vocabitis vocata sancta, ista sunt solemnia mea.<verse eID="Lev.23.2" />
+        <verse sID="Lev.23.3" osisID="Lev.23.3" />Sex diebus facies opera ...<verse eID="Lev.23.3" />
+        <verse sID="Lev.23.4" osisID="Lev.23.4" />Hae vocatae sanctae, quas vocabitis eas in festivitatibus vestris.<verse eID="Lev.23.4" />
+        <verse sID="Lev.23.8" osisID="Lev.23.8" />Offeretis holocaustomata Domino septem diebus. Dies autem septimus erit celebrior et sanctior. Nullumque opus servile facietis in eo.<verse eID="Lev.23.8" />
+        <verse sID="Lev.23.14" osisID="Lev.23.14" />... et fricta cedrinea non manducabitis, usque in illam ipsam diem, quousque offeretis munera Deo vestro. Legitimum aeternum in progenies vestras ...<verse eID="Lev.23.14" />
+        <verse sID="Lev.23.15" osisID="Lev.23.15" />Et numerabitis vobis a die crastino sabbati, qua obtulerit gremium superpositionis. Septem septimanas integras numerabis.<verse eID="Lev.23.15" />
+        <verse sID="Lev.23.20" osisID="Lev.23.20" />Et separabit ea sacerdos separatione cum panibus primitiarum ante Dominum, cum duobus agnis ... cedentque in usus eius sacerdotis offerentis ea.<verse eID="Lev.23.20" />
+        <verse sID="Lev.23.24" osisID="Lev.23.24" />Loquere filiis Israel, dicens, Mense septimo, una mensis, erit vobis requies in memoriale tubarum. Vocata sancta erit vobis.<verse eID="Lev.23.24" />
+        <verse sID="Lev.23.25" osisID="Lev.23.25" />Omne opus servile non facietis, et accendetis holocaustum Domino.<verse eID="Lev.23.25" />
+        <verse sID="Lev.23.27" osisID="Lev.23.27" />Septimi mensis dies decimus, dies propitiationis. Sancta erit vobis dies, et vexabitis animas vestras ...<verse eID="Lev.23.27" />
+        <verse sID="Lev.23.29" osisID="Lev.23.29" />Et omnis anima, quae vexata non fuerit in illa die, exterminabitur de populo suo.<verse eID="Lev.23.29" />
+        <verse sID="Lev.23.32" osisID="Lev.23.32" />Sabbata sabbatorum erunt vobis ...<verse eID="Lev.23.32" />
+        <verse sID="Lev.23.34" osisID="Lev.23.34" />... Mense septimo, quintadecima die mensis, tabernaculorum solemnitas ...<verse eID="Lev.23.34" />
+        <verse sID="Lev.23.36" osisID="Lev.23.36" />... dies octavus vocalis sanctus erit ... egressus est ...<verse eID="Lev.23.36" />
+        <verse sID="Lev.23.41" osisID="Lev.23.41" />... Mense septimo festa celebrabitis,<verse eID="Lev.23.41" />
+        <verse sID="Lev.23.43" osisID="Lev.23.43" />... cum in tabernaculis habitare fecerim filios Israel, cum educerem eos de terra Aegypti. Ego Dominus Deus vester.<verse eID="Lev.23.43" />
+      </p>
+      <chapter eID="Lev.23" />
+      <chapter sID="Lev.24" osisID="Lev.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Lev.24.3" osisID="Lev.24.3" />... Incendent eas Aaron, et filii eius, a vespera usque mane ...<verse eID="Lev.24.3" />
+        <verse sID="Lev.24.4" osisID="Lev.24.4" />Incendent lucernas ante Dominum usque mane.<verse eID="Lev.24.4" />
+        <verse sID="Lev.24.11" osisID="Lev.24.11" />Et cum nominasset filius mulieris Israelitidis nomen, maledixit ...<verse eID="Lev.24.11" />
+        <verse sID="Lev.24.13" osisID="Lev.24.13" />Et locutus est Dominus ad Moysen,<verse eID="Lev.24.13" />
+        <verse sID="Lev.24.14" osisID="Lev.24.14" />dicens, Produc eum qui maledixerit, foras extra castra, et imponent omnes qui audierunt, manus suas super caput eius, et lapidabit eum omnis synagoga filiorum Israel.<verse eID="Lev.24.14" />
+        <verse sID="Lev.24.15" osisID="Lev.24.15" />... Homo homo, si maledixerit Deum suum, peccatum accipiet.<verse eID="Lev.24.15" />
+        <verse sID="Lev.24.16" osisID="Lev.24.16" />Nominans autem nomen Domini, morte moriatur ...<verse eID="Lev.24.16" />
+        <verse sID="Lev.24.17" osisID="Lev.24.17" />Et homo, qui percusserit omnem animam hominis, et mortuus fuerit, morte moriatur.<verse eID="Lev.24.17" />
+        <verse sID="Lev.24.20" osisID="Lev.24.20" />contritionem pro contritione, oculum pro oculo ...<verse eID="Lev.24.20" />
+      </p>
+      <chapter eID="Lev.24" />
+      <chapter sID="Lev.25" osisID="Lev.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Lev.25.2" osisID="Lev.25.2" />... Cum introieritis in terram quam ego do vobis, et requieverit terra quam ego do vobis, sabbata Domini.<verse eID="Lev.25.2" />
+        <verse sID="Lev.25.3" osisID="Lev.25.3" />Sex annis seminabis agrum tuum, et sex annis putabis vineam tuam, et congregabis fructum eius.<verse eID="Lev.25.3" />
+        <verse sID="Lev.25.4" osisID="Lev.25.4" />Anno autem septimo, sabbata, requies erit terrae, sabbata Domino. Agrum tuum non seminabis, et vineam tuam non putabis.<verse eID="Lev.25.4" />
+        <verse sID="Lev.25.5" osisID="Lev.25.5" />Quae ab se surgunt agrum tuum, non metes. Et uvam sanctificationis tuae non vindemiabis. Annus requiescendi erit terrae.<verse eID="Lev.25.5" />
+        <verse sID="Lev.25.6" osisID="Lev.25.6" />Et erunt sabbata terrae esca tibi, et puero tuo, et puellae tuae, et mercenario tuo, et inquilino, qui applicitus est ad te.<verse eID="Lev.25.6" />
+        <verse sID="Lev.25.7" osisID="Lev.25.7" />Et pecoribus tuis, et bestiis, quae sunt in terra tua. Omne quod nascetur ex eo, in escam.<verse eID="Lev.25.7" />
+        <verse sID="Lev.25.8" osisID="Lev.25.8" />Septem numerabis tibi requies annorum ...<verse eID="Lev.25.8" />
+        <verse sID="Lev.25.10" osisID="Lev.25.10" />... annus remissionis erit vobis ... et unusquisque ad patriam suam ...<verse eID="Lev.25.10" />
+        <verse sID="Lev.25.12" osisID="Lev.25.12" />... de campis comedetis, quae nascuntur in ea.<verse eID="Lev.25.12" />
+        <verse sID="Lev.25.13" osisID="Lev.25.13" />Anno remissionis significationis ...<verse eID="Lev.25.13" />
+        <verse sID="Lev.25.14" osisID="Lev.25.14" />... secundum numerum annorum post significationem possidebis a proximo.<verse eID="Lev.25.14" />
+        <verse sID="Lev.25.22" osisID="Lev.25.22" />... comedetis vetera veterum.<verse eID="Lev.25.22" />
+        <verse sID="Lev.25.23" osisID="Lev.25.23" />Et terra non venundabitur in profanationem. Mea enim est terra, propter quod proselyti et incolae vos estis ante me.<verse eID="Lev.25.23" />
+        <verse sID="Lev.25.24" osisID="Lev.25.24" />Et per omnem terram possessionis vestrae mercedem dabitis terrae.<verse eID="Lev.25.24" />
+        <verse sID="Lev.25.31" osisID="Lev.25.31" />... ad agrum terrae aestimabuntur ...<verse eID="Lev.25.31" />
+        <verse sID="Lev.25.35" osisID="Lev.25.35" />... et vivet frater tuus tecum.<verse eID="Lev.25.35" />
+        <verse sID="Lev.25.37" osisID="Lev.25.37" />Pecuniam tuam non dabis illi in usuram, et in amplius recipiendum non dabis illi escas tuas.<verse eID="Lev.25.37" />
+        <verse sID="Lev.25.46" osisID="Lev.25.46" />... et erunt vobis in possessionem in aeternum ...<verse eID="Lev.25.46" />
+        <verse sID="Lev.25.50" osisID="Lev.25.50" />... erit pecunia venditionis eius, anno sicut dies mercenarii erit cum eo.<verse eID="Lev.25.50" />
+        <verse sID="Lev.25.55" osisID="Lev.25.55" />... filii Israel famuli, pueri mei hi sunt, quos eduxi de terra Aegypti.<verse eID="Lev.25.55" />
+      </p>
+      <chapter eID="Lev.25" />
+      <chapter sID="Lev.26" osisID="Lev.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Lev.26.1" osisID="Lev.26.1" />Ego Dominus Deus vester. Non facietis vobis manufacta nec sculptile, nec staticulum statuetis vobis, nec lapidem scopum ponetis in terra vestra. Ego Dominus Deus vester.<verse eID="Lev.26.1" />
+        <verse sID="Lev.26.3" osisID="Lev.26.3" />Si in praeceptis meis ambulaveritis, et mandata mea observaveritis, et feceritis ea, et dabo pluviam vobis in tempore suo,<verse eID="Lev.26.3" />
+        <verse sID="Lev.26.4" osisID="Lev.26.4" />et producet terra fructus suos, et arbores poma.<verse eID="Lev.26.4" />
+        <verse sID="Lev.26.5" osisID="Lev.26.5" />Et vindemiae tuae messibus succedent, et satio vindemiis. Et saturabimini ...<verse eID="Lev.26.5" />
+        <verse sID="Lev.26.6" osisID="Lev.26.6" />Et sedebitis in pace in terra vestra. Et dormietis, et non erit qui vos terreat. Et perdam omnem belluam ex terra vestra.<verse eID="Lev.26.6" />
+        <verse sID="Lev.26.7" osisID="Lev.26.7" />Et persequemini inimicos vestros, et cadent ante vos in gladio.<verse eID="Lev.26.7" />
+        <verse sID="Lev.26.8" osisID="Lev.26.8" />Et insequentur quinque ex vobis centum, et centum ex vobis persequentur decem millia. Et concident inimici vestri ante vos in gladio.<verse eID="Lev.26.8" />
+        <verse sID="Lev.26.9" osisID="Lev.26.9" />Et veniam, et benedicam vos. Et multiplicabo vos, et disponam vos.<verse eID="Lev.26.9" />
+        <verse sID="Lev.26.10" osisID="Lev.26.10" />Manducabitis vetus quod inveteravit, et proiicietis vetus ante novum.<verse eID="Lev.26.10" />
+        <verse sID="Lev.26.11" osisID="Lev.26.11" />Et ponam tabernaculum meum in vobis, et non abominabitur anima mea vos.<verse eID="Lev.26.11" />
+        <verse sID="Lev.26.16" osisID="Lev.26.16" />... scabiem et morbum regium consumentes oculos vestros ... obfirmabo super vos,<verse eID="Lev.26.16" />
+        <verse sID="Lev.26.18" osisID="Lev.26.18" />Et si usque adhuc non obedieritis mihi, et apponam castigare vos septies in peccatis vestris,<verse eID="Lev.26.18" />
+        <verse sID="Lev.26.19" osisID="Lev.26.19" />... Ponam coelum vobis ferreum, et terram aeneam.<verse eID="Lev.26.19" />
+        <verse sID="Lev.26.33" osisID="Lev.26.33" />... et consumet vos perambulans gladius, et terra vestra deserta, et civitates vestrae erunt desertae.<verse eID="Lev.26.33" />
+        <verse sID="Lev.26.34" osisID="Lev.26.34" />Tunc bene sentiet terra sabbata sua omnes dies desolationis suae. Et vos eritis<verse eID="Lev.26.34" />
+        <verse sID="Lev.26.35" osisID="Lev.26.35" />in terra inimicorum vestrorum ...<verse eID="Lev.26.35" />
+        <verse sID="Lev.26.36" osisID="Lev.26.36" />Et eis qui residui sunt ex vobis, superducam formidinem in cor eorum ... et persequetur eos sonus folii volantis ...<verse eID="Lev.26.36" />
+        <verse sID="Lev.26.41" osisID="Lev.26.41" />... et peccata sua placita habebunt.<verse eID="Lev.26.41" />
+        <verse sID="Lev.26.42" osisID="Lev.26.42" />Et recordabor testamentum Iacob, et testamentum Isaac, et testamentum Abraham ...<verse eID="Lev.26.42" />
+      </p>
+      <chapter eID="Lev.26" />
+      <chapter sID="Lev.27" osisID="Lev.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Lev.27.23" osisID="Lev.27.23" />... et reddet pretium in die illo sanctum Domino.<verse eID="Lev.27.23" />
+        <verse sID="Lev.27.30" osisID="Lev.27.30" />Omnis decima terrae ... et a fructu ligneo, Domino est.<verse eID="Lev.27.30" />
+        <verse sID="Lev.27.32" osisID="Lev.27.32" />Et omnis decima boum, et ovium, et omne quod venerit in numero sub virga, decima erit sancta Domino.<verse eID="Lev.27.32" />
+        <verse sID="Lev.27.33" osisID="Lev.27.33" />Non mutabis illud bonum malo, neque malum bono ...<verse eID="Lev.27.33" />
+      </p>
+      <chapter eID="Lev.27" />
+    </div>
+  </osisText>
+</osis>

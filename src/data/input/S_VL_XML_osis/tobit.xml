@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Tob" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Tob">
+        <title>tobit</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Tob</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>tobit</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Tob">
+      <title>tobit</title>
+      <chapter sID="Tob.1" osisID="Tob.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Tob.1.1" osisID="Tob.1.1" />Liber sermonum Thobi, filii Thobiel, filii Ananihel, filii Gabahel, filii Asihel, ex tribu Nepthalim,<verse eID="Tob.1.1" />
+        <verse sID="Tob.1.2" osisID="Tob.1.2" />qui captivus abductus est in diebus Salmanassar regis Assyriorum, ex Bihel civitate, quae est in dextera parte Edisse civitatis Nepthalim, in superioribus Galilaeae contra Naasson, post viam quae ducit in occidentem, ex sinistra parte Raphain. Ego Thobis in via veritatis ambulavi et iustitiae, omnibus diebus vitae meae,<verse eID="Tob.1.2" />
+        <verse sID="Tob.1.3" osisID="Tob.1.3" />et eleemosynas feci multas fratribus meis, et nationi meae, et omnibus qui fuerunt mecum in captivitatem, in terra Assyriorum in Ninive.<verse eID="Tob.1.3" />
+        <verse sID="Tob.1.4" osisID="Tob.1.4" />Et cum essem in terra mea Israel inter omnes iunior, omnis tribus Nepthalim patris mei recessit de domo David, et ab Hierusalem civitate, quae est electa ex omnibus tribubus Israel, ubi altare constitutum est omnibus tribubus Israel, quod sanctificatum est in saecula. Tunc cum templum habitationis excelsi Dei aedificatum esset in Hierusalem, ut sacrificaret in ipso omnis progenies in aeternum,<verse eID="Tob.1.4" />
+        <verse sID="Tob.1.5" osisID="Tob.1.5" />et omnes fratres mei, omnisque domus Nepthalim patris mei, sacrificabant in Dan vitulo aureo, quem fecit Hieroboam rex Israel, et omnibus altissimis montibus Galilaeae,<verse eID="Tob.1.5" />
+        <verse sID="Tob.1.6" osisID="Tob.1.6" />ego autem solus ibam aliquoties in Hierusalem diebus festis, sicut scriptum est in toto Israel in praecepto sempiterno, primitias, et decimas armentorum et pecorum, et initia tonsurae pecorum meorum, haec habens mecum, dabam sacerdotibus filiis Aaron, et quod moris erat, de tritico, vino, et oleo, et ficu, malorum granarorum, et caeterorum pomorum dividebam Levitis et servientibus Domino, qui praesto erant in Hierusalem. Et secundam decimationem commutans in pecunia sex annorum, ibam, et consummabam illam in Hierusalem, in loco sancto unoquoque anno,<verse eID="Tob.1.6" />
+        <verse sID="Tob.1.7" osisID="Tob.1.7" />et tertii ad decimationem ferebam proselytis, et orphanis, et viduis, faciens omnia quae praecepta sunt in Israel. Et dabam illis in tertio anno,<verse eID="Tob.1.7" />
+        <verse sID="Tob.1.8" osisID="Tob.1.8" />et manducabam illud secundum praeceptum quod scriptum est de eis in lege Moysi, et sicut praecepit Debbora mater patris mei Thobihel, matri meae et patri meo, qui orfanum me reliquit, et mortuus est.<verse eID="Tob.1.8" />
+        <verse sID="Tob.1.9" osisID="Tob.1.9" />Et postquam iuvenis factus sum, accepi uxorem nomine Annam ex natione mea, et genui ex illa filium, et vocavi nomen eius Thobiam.<verse eID="Tob.1.9" />
+        <verse sID="Tob.1.11" osisID="Tob.1.11" />Et postquam in captivitatem deveni ad Assyrios in Niniven,<verse eID="Tob.1.11" />
+        <verse sID="Tob.1.12" osisID="Tob.1.12" />et omnes fratres mei qui de genere meo erant, manducabant de panibus gentium. Ego autem custodivi animam meam, ut ne manducarem de escis illorum.<verse eID="Tob.1.12" />
+        <verse sID="Tob.1.13" osisID="Tob.1.13" />Et quoniam memor eram Dei in toto corde meo, dedit mihi Dominus summus gratiam penes Salmannassar regem Assyriorum,<verse eID="Tob.1.13" />
+        <verse sID="Tob.1.14" osisID="Tob.1.14" />et comparabam illi omnia quaecunque volebat in usu suo,<verse eID="Tob.1.14" />
+        <verse sID="Tob.1.16" osisID="Tob.1.16" />iens in regionem Mediam usque dum moreretur.<verse eID="Tob.1.16" />
+        <verse sID="Tob.1.17" osisID="Tob.1.17" />Et commendavi Gabelo fratri meo filio Gabahel, in Rages civitate regionis Medorum, decem talenta argenti.<verse eID="Tob.1.17" />
+        <verse sID="Tob.1.18" osisID="Tob.1.18" />Et postquam mortuus est Salmannassar rex Assyriorum, regnavit Sennacherim filius eius pro eo. Et viae terrae Medorum constantes erant, et nemo poterat illuc ire postea.<verse eID="Tob.1.18" />
+        <verse sID="Tob.1.19" osisID="Tob.1.19" />Et in diebus Salmannassar regis, multas eleemosynas feci omnibus de natione mea,<verse eID="Tob.1.19" />
+        <verse sID="Tob.1.20" osisID="Tob.1.20" />panem meum dividens esurientibus, et nudos vestiens. Et qui proiecti erant post murum Ninive ex natione mea mortui, sepeliebam illos,<verse eID="Tob.1.20" />
+        <verse sID="Tob.1.21" osisID="Tob.1.21" />quos occidisset Sennacherim rex, de Iudaea fugiens propter defensionem, quam fecit Dominus coeli de illo, ob blasphemias illius. Multos enim filiorum Israel occidit in ira sua. Ego corpora illorum involvebam, et sepeliebam. Et quaerebat illa rex, et non inveniebat.<verse eID="Tob.1.21" />
+        <verse sID="Tob.1.22" osisID="Tob.1.22" />Et renuntiatum est illi, quoniam ego sepeliebam illos, et quaerebat me occidere.<verse eID="Tob.1.22" />
+        <verse sID="Tob.1.23" osisID="Tob.1.23" />Ego autem fugi, et direpta est omnis substantia mea. Et nihil mihi remansit plus quam uxor mea Anna, et Thobias filius meus.<verse eID="Tob.1.23" />
+        <verse sID="Tob.1.24" osisID="Tob.1.24" />Et contigit dum laterem, post dies quadraginta quinque occiderunt regem illum duo filii sui, et fugerunt in montem Ararath. Et regnavit post eum Archedonassar filius eius pro illo, et constituit Achicarum filium fratris mei Annanihel, super omnem curam regni. Et ipse habebat potestatem super omnem regionem. Tunc petiit Achicarus regem pro me, erat enim consobrinus meus.<verse eID="Tob.1.24" />
+        <verse sID="Tob.1.25" osisID="Tob.1.25" />Et descendi in Ninive in domum meam, et reddita est mihi uxor mea Anna, et filius meus Thobias.<verse eID="Tob.1.25" />
+      </p>
+      <chapter eID="Tob.1" />
+      <chapter sID="Tob.2" osisID="Tob.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Tob.2.1" osisID="Tob.2.1" />In pentecosten die festo nostro, qui est sanctus a septem annis, et factum est mihi prandium bonum, et discubui ut pranderem. Et posita est mihi mensa, et vidi pulmentaria complura,<verse eID="Tob.2.1" />
+        <verse sID="Tob.2.2" osisID="Tob.2.2" />et dixi Thobiae filio meo, Vade, et adduc quemcunque pauperem inveneris ex fratribus nostris, qui sunt captivi in Ninive, qui tamen habet Deum in mente in toto corde suo. Hunc adduc, ut manducet pariter nobiscum prandium hoc, ecce sustineo te fili, donec venias.<verse eID="Tob.2.2" />
+        <verse sID="Tob.2.3" osisID="Tob.2.3" />Et abiit Thobias quaerere aliquem pauperem captivum ex fratribus nostris. Et reversus, dixit mihi, Pater, et ego dixi, Quid est fili? Et ait mihi, Ecce unus ex fratribus nostris occisus laqueo circumdato, proiectus iacet in publico. Et exsilivi relicto prandio meo, antequam quicquam ex illo gustarem,<verse eID="Tob.2.3" />
+        <verse sID="Tob.2.4" osisID="Tob.2.4" />et sustuli illum de platea in domum apud me, donec sol occideret, ut illum sepelirem.<verse eID="Tob.2.4" />
+        <verse sID="Tob.2.5" osisID="Tob.2.5" />Et reversus, lavi, et manducavi prandium meum cum luctu,<verse eID="Tob.2.5" />
+        <verse sID="Tob.2.6" osisID="Tob.2.6" />et rememoratus sum sermonum prophetae Amos, quod locutus est in Bethleem, dicens, Convertentur omnes dies festi vestri in luctum, et omnia cantica vestra in lamentationem, et lacrymatus sum.<verse eID="Tob.2.6" />
+        <verse sID="Tob.2.7" osisID="Tob.2.7" />Et postquam sol occidit, abii, et fodi, et sepelivi eum.<verse eID="Tob.2.7" />
+        <verse sID="Tob.2.8" osisID="Tob.2.8" />Et omnes proximi mei deridebant me, dicentes, Quomodo non timet hic homo? Iam enim inquisitus est huius rei causa ut occideretur, et fugit, et perdidit substantiam suam, et iterum sepelire coepit mortuos.<verse eID="Tob.2.8" />
+        <verse sID="Tob.2.9" osisID="Tob.2.9" />Et iterum lavi ea hora, postquam sepelivi.<verse eID="Tob.2.9" />
+        <verse sID="Tob.2.10" osisID="Tob.2.10" />Et introivi in domum meam, et dormivi circa parietem, facie nuda propter aestum.<verse eID="Tob.2.10" />
+        <verse sID="Tob.2.11" osisID="Tob.2.11" />Et ignorabam quoniam passeres in pariete super me residebant, quorum stercora oculis meis calida et induxerunt albugines. Et ibam caecus ad medicos ut curarer, et quanto mihi medicamenta imponebant, tanto magis excaecabantur oculi mei maculis, donec perexcaecatus sum. Et eram inutilis oculis meis, annis quatuor.<verse eID="Tob.2.11" />
+        <verse sID="Tob.2.15" osisID="Tob.2.15" />Et omnes fratres et amici mei dolebant pro me, Achicarus autem pascebat me annis duobus, priusquam iret in Limaidam.<verse eID="Tob.2.15" />
+        <verse sID="Tob.2.19" osisID="Tob.2.19" />In illo tempore, Anna uxor mea deserviebat operibus mulierum, lanam faciens et telam, et ex mercedibus suis pascebat me, et mittebant, et adducebant illam ad texendum, et dabant ei mercedem suam. Septima autem die mensis Distri consummavit texturam, et reddidit dominis suis. Et dederunt illi mercedem suam totam,<verse eID="Tob.2.19" />
+        <verse sID="Tob.2.20" osisID="Tob.2.20" />et insuper dederunt ei pro dextero, ad manducandum, hoedum de capris.<verse eID="Tob.2.20" />
+        <verse sID="Tob.2.21" osisID="Tob.2.21" />Et cum introisset ad me hoedus, coepit clamare. Et vocavi ad me uxorem, et dixi illi, Unde est hic hoedus qui balat? Vide, ne forte furtivus sit, redde illum dominis suis. Nobis enim non licet manducare nihil furtivum. Et respondit mihi, et dixit, Munere mihi datus est supra mercedem. Et ego non credebam, sed magis dicebam illi, Furtivus est, redde illum dominis suis, et contendebam, et erubescebam coram illa, huius rei causa.<verse eID="Tob.2.21" />
+        <verse sID="Tob.2.22" osisID="Tob.2.22" />Et irata est, quoniam non credebam illi. Et respondens, dixit mihi, Ubi sunt iustitiae tuae?<verse eID="Tob.2.22" />
+        <verse sID="Tob.2.23" osisID="Tob.2.23" />Ecce quae pateris, omnibus nota sunt.<verse eID="Tob.2.23" />
+      </p>
+      <chapter eID="Tob.2" />
+      <chapter sID="Tob.3" osisID="Tob.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Tob.3.1" osisID="Tob.3.1" />Et contristatus animo, ingemui lacrymans. Et introivi in atrium meum, et coepi orare cum gemitu animae meae,<verse eID="Tob.3.1" />
+        <verse sID="Tob.3.2" osisID="Tob.3.2" />et dixi, Iustus es Domine, et omnia opera tua magna sunt, et omnes viae tuae misericordiae et veritatis plenae sunt, et iudicium verum iudicas in saecula.<verse eID="Tob.3.2" />
+        <verse sID="Tob.3.3" osisID="Tob.3.3" />Et nunc Domine memor esto mei, et respice in me, ne vindictam sumas de peccatis meis, et de negligentia mea, et parentum meorum qui peccaverunt ante te.<verse eID="Tob.3.3" />
+        <verse sID="Tob.3.4" osisID="Tob.3.4" />Quoniam non obedierunt praeceptis tuis, et tradidisti nos in direptionem, et captivitatem, et mortem, in exemplum, et fabulas, et improperium omnibus nationibus, in quibus nos dispersisti.<verse eID="Tob.3.4" />
+        <verse sID="Tob.3.5" osisID="Tob.3.5" />Et nunc Domine, multa sunt iudicia tua et vera, quae de me exigas, et de peccatis meis, et parentum meorum, quia non egimus secundum praecepta tua, et non ambulavimus sinceriter coram te.<verse eID="Tob.3.5" />
+        <verse sID="Tob.3.6" osisID="Tob.3.6" />Et nunc Domine, secundum quod tibi placet, fac mecum, et praecipe recipi spiritum meum, ut iam dimittar desuper terra, quia expedit mihi mori magis quam vivere, quoniam improperia falsa audio, et in magno sum taedio. Praecipe ergo Domine ut dimittar ab hac necessitate, et da mihi refrigerium in locum aeternum, et noli avertere a me faciem tuam, quia expedit mihi mori magis quam vivere, et patri tantam necessitatem in vita mea, ne iam improperium audiam hominum.<verse eID="Tob.3.6" />
+        <verse sID="Tob.3.7" osisID="Tob.3.7" />Eadem die contigit ut et Sarra filia Raguhelis, quae erat Exbatanis civitate Medorum, ut et ipsa audiret improperium ab una ex ancillis patris sui,<verse eID="Tob.3.7" />
+        <verse sID="Tob.3.8" osisID="Tob.3.8" />quoniam iam tradita erat viris septem, et Asmodaeus daemonium nequissimum occidebat eos, ea hora qua ad illam introiebant ad concumbendum, sicut est solitum mulieribus.<verse eID="Tob.3.8" />
+        <verse sID="Tob.3.9" osisID="Tob.3.9" />Et dixit illi ancilla sua, Tu es quae suffocas viros tuos. Ecce iam tradita es viris septem, et nullo eorum fruita es. Quid nos flagellas, aut causa virorum tuorum, qui mortui sunt? Vade et tu cum illis, et nunquam ex te videamus filium, neque filiam in perpetuum.<verse eID="Tob.3.9" />
+        <verse sID="Tob.3.10" osisID="Tob.3.10" />Eadem hora contristata est anima puellae, et lacrymans, ascendit in locum superiorem patris sui, et voluit laqueo vitam finire, et cogitavit, Ne forte improperent patri meo, et dicant, Unicam habuisti filiam carissimam, et haec collum sibi ligavit, et incipiam deducere senectutem patris mei cum tristitia animi ad inferos. Non est utile animam laqueo fugare,<verse eID="Tob.3.10" />
+        <verse sID="Tob.3.11" osisID="Tob.3.11" />at bonum est potius deprecari Dominum, ut moriar, et iam nullum improperium audiam in vita mea, neque ego, neque pater meus.<verse eID="Tob.3.11" />
+        <verse sID="Tob.3.12" osisID="Tob.3.12" />Eodem tempore, exporrectis manibus ad fenestram, deprecata est,<verse eID="Tob.3.12" />
+        <verse sID="Tob.3.13" osisID="Tob.3.13" />et dixit, Benedictus es Domine Deus misericordiarum, et benedictum est nomen tuum sanctum, et honorabile in omnia saecula. Benedicant tibi omnia opera tua in aeternum.<verse eID="Tob.3.13" />
+        <verse sID="Tob.3.14" osisID="Tob.3.14" />Et nunc Domine, ad te faciem meam levo, et oculos meos dirigo.<verse eID="Tob.3.14" />
+        <verse sID="Tob.3.15" osisID="Tob.3.15" />Iube iam me dimitti desuper terra, ne audiam improperia hominum.<verse eID="Tob.3.15" />
+        <verse sID="Tob.3.16" osisID="Tob.3.16" />Tu scis Domine, quia munda sum ab omni immunditia viri, et non coinquinavi corpus meum, neque dehonestavi nomen patris mei in terra captivitatis meae. Unica sum patri meo, et non habet alium filium, vel filiam, qui possideat haereditatem illius, neque frater est illi quisquam, vel proximus aut propinquus, ut custodiat me illi uxorem. Iam perierunt mihi viri septem. Et quo mihi adhuc vivere? Et si non tibi videtur Domine perdere me, aspice in me, et miserere mei, ut nullum iam improperium audiam.<verse eID="Tob.3.16" />
+        <verse sID="Tob.3.24" osisID="Tob.3.24" />In illo tempore exauditae sunt preces amborum ab ipsa claritate summi Dei,<verse eID="Tob.3.24" />
+        <verse sID="Tob.3.25" osisID="Tob.3.25" />et missus est Raphahel angelus sanare duos, id est, Thobin curare a maculis oculorum, et reddere ei aspectum luminis. Et Sarram filiam Raguhelis dare Thobiae filio Thobis uxorem, et colligare Asmodaeum daemonium nequissimum ab illa, quoniam Thobiae destinara erat haereditas eius, super omnes qui illam concupierant. Uno igitur tempore, reversus est Thobi de atrio in domum suam, et Sarra filia Raguhelis descendit et ipsa de loco superiori.<verse eID="Tob.3.25" />
+      </p>
+      <chapter eID="Tob.3" />
+      <chapter sID="Tob.4" osisID="Tob.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Tob.4.1" osisID="Tob.4.1" />Eadem die rememoratus est Thobis commendasse se pecuniam Gabelo, in rages civitate Medorum, et dixit in corde suo cogitans, Ecce ego postulavi mortem, cur non voco Thobian filium meum, et indicabo illi de hac pecunia quam commendavi, antequam moriar? Et vocavit filium suum,<verse eID="Tob.4.1" />
+        <verse sID="Tob.4.2" osisID="Tob.4.2" />et dixit illi, Fili, et ille respondit, Quid est, pater? Et Thobis dixit,<verse eID="Tob.4.2" />
+        <verse sID="Tob.4.3" osisID="Tob.4.3" />Fili, cum mortuus fuero, sepeli me diligenter, et honorem habe matri tuae, et noli derelinquere illam omnibus diebus vitae suae. Et quod illi placet, hoc fac in conspectu eius, et noli contristari spiritum eius in ulla re.<verse eID="Tob.4.3" />
+        <verse sID="Tob.4.4" osisID="Tob.4.4" />Memor esto fili, quanta pericula passa sit pro te in utero suo,<verse eID="Tob.4.4" />
+        <verse sID="Tob.4.5" osisID="Tob.4.5" />et cum mortua fuerit, sepeli illam circa me in uno sepulcro.<verse eID="Tob.4.5" />
+        <verse sID="Tob.4.6" osisID="Tob.4.6" />Et omnibus diebus vitae tuae fili, Deum in mente habe, et noli velle peccare, vel praeterire praecepta illius. Iustitiam fac omnibus diebus vitae tuae, et noli ire in viam iniquitatis, quoniam agente te ex veritate, erit respectus in operibus tuis, et omnibus qui faciunt iustitiam.<verse eID="Tob.4.6" />
+        <verse sID="Tob.4.7" osisID="Tob.4.7" />Ex substantia tua fili, fac eleemosynam, et noli avertere faciem tuam ab ullo paupere, et ita fiet, ut nec avertatur a te facies Dei.<verse eID="Tob.4.7" />
+        <verse sID="Tob.4.8" osisID="Tob.4.8" />Quomodo habueris fili, sic fac eleemosynam.<verse eID="Tob.4.8" />
+        <verse sID="Tob.4.9" osisID="Tob.4.9" />Si tibi largior fuerit substantia, plus ex illa fac eleemosynam, si exignum habueris, ex hoc ipso exiguo communica. Et ne timueris tili, cum facies eleemosynam.<verse eID="Tob.4.9" />
+        <verse sID="Tob.4.10" osisID="Tob.4.10" />Praemium bonum repones tibi in die necessitatis,<verse eID="Tob.4.10" />
+        <verse sID="Tob.4.11" osisID="Tob.4.11" />quoniam eleemosyna a morte liberat, et non patitur ire in tenebras.<verse eID="Tob.4.11" />
+        <verse sID="Tob.4.12" osisID="Tob.4.12" />Munus bonum est eleemosyna omnibus qui faciunt illam, coram summo Deo.<verse eID="Tob.4.12" />
+        <verse sID="Tob.4.13" osisID="Tob.4.13" />Adtende tibi fili ab omni fornicatione, uxorem proximam accipe ex semine parentum tuorum, et noli sumere uxorem alienam, quae non est ex tribu parentum tuorum, quoniam filii prophetarum sumus, qui in veritate prophetaverunt priores. Noe prophetavit prior, et Abraham, et Isaac, et Iacob, parentes nostri a principio saeculi. Rememorare fili, quoniam hi omnes acceperunt uxores ex genere patrum suorum, et benedicti sunt in filiis suis, et semen filiorum possidebit haereditatem terrae.<verse eID="Tob.4.13" />
+        <verse sID="Tob.4.14" osisID="Tob.4.14" />Et tu fili, dilige fratres tuos. Et noli superbo corde agere cum filiabus filiorum populi tui, ut non accipias unam ex illis, quoniam superbia, perditio et inconstantia magna est. Et luxuria, diminutio et impietas magna est.<verse eID="Tob.4.14" />
+        <verse sID="Tob.4.15" osisID="Tob.4.15" />Mercedem omni homini, quicunque penes te operatus fuerit, redde eadem die, et non maneat penes te merces hominis, et non minorabitur merces tua, si servieris Deo in veritate.<verse eID="Tob.4.15" />
+        <verse sID="Tob.4.16" osisID="Tob.4.16" />Adtende tibi fili in omnibus operibus tuis, et esto sapiens in omnibus sermonibus tuis, et quod oderis, alio ne feceris. Noli bibere vinum in ebrietate, et non comitetur tecum ulla nequitia in omni vita tua.<verse eID="Tob.4.16" />
+        <verse sID="Tob.4.17" osisID="Tob.4.17" />De pane tuo communica esurientibus, et vestimentis tuis nudos tege. Ex omnibus quaecunque tibi abundaverint fili, fac eleemosynam. Et non videat oculus tuus, cum facis eleemosynam.<verse eID="Tob.4.17" />
+        <verse sID="Tob.4.18" osisID="Tob.4.18" />Funde vinum tuum et panem tuum super sepulcra iustorum, et noli illud dare peccatoribus.<verse eID="Tob.4.18" />
+        <verse sID="Tob.4.19" osisID="Tob.4.19" />Consilium ab homine sapiente inquire, et noli contemnere. Quoniam omne consilium utile est.<verse eID="Tob.4.19" />
+        <verse sID="Tob.4.20" osisID="Tob.4.20" />Omni tempore benedic Deo, et postula ab illo, ut dirigantur viae tuae, et omnes semitae tuae et cogitationes bene disponantur, quoniam caeterae nationes non habent bonum cogitationem. Quem ergo voluerit, ipse allevat. Et quem voluerit, ipse demergit usque ad inferos deorsum, et nunc fili mi, memor esto praeceptorum meorum, et non deleantur de corde tuo.<verse eID="Tob.4.20" />
+        <verse sID="Tob.4.21" osisID="Tob.4.21" />Nunc igitur fili, indico tibi commendasse me decem talenta argenti Gabelo filio Gabahel, in Rages civitate Medorum.<verse eID="Tob.4.21" />
+        <verse sID="Tob.4.23" osisID="Tob.4.23" />Noli ergo vereri fili, quia pauperem vitam gessimus, habebis multa bona, si timueris Deum, et recesseris ab omni peccato, et bene egeris.<verse eID="Tob.4.23" />
+      </p>
+      <chapter eID="Tob.4" />
+      <chapter sID="Tob.5" osisID="Tob.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Tob.5.1" osisID="Tob.5.1" />Tunc Thobias respondit Thobi patri suo, dicens, Omnia quaecunque praecepisti mihi pater, sic faciam.<verse eID="Tob.5.1" />
+        <verse sID="Tob.5.2" osisID="Tob.5.2" />Quomodo autem potero hanc pecuniam recipere ab illo? Neque enim me ille novit, neque ego illum, vel quod signum dabo illi, ut me cognoscat, et credat, et det mihi hanc pecuniam? Sed neque vias regionis illius novi.<verse eID="Tob.5.2" />
+        <verse sID="Tob.5.3" osisID="Tob.5.3" />Et respondit Thobi filio suo, dicens, Chirographum suum dedit mihi, et meum similiter accepit, et divisit in duas partes, unum accepi ego, et alium posui cum ipsa pecunia. Et iam anni sunt viginti, ex quo penes illum deposui hanc pecuniam.<verse eID="Tob.5.3" />
+        <verse sID="Tob.5.4" osisID="Tob.5.4" />Nunc itaque fili, inquire aliquem hominem fidelem, qui eat tecum accepta mercede, et dum adhuc vivo, recipe pecuniam ab illo.<verse eID="Tob.5.4" />
+        <verse sID="Tob.5.5" osisID="Tob.5.5" />Et exiit Thobias quaerere hominem, qui eum duceret in regionem Mediam, et qui maxime haberet notitiam viae regionis illius, et invenit Raphahel angelum stantem.<verse eID="Tob.5.5" />
+        <verse sID="Tob.5.6" osisID="Tob.5.6" />Et ignorans illum angelum Dei esse, dixit illi, Unde es iuvenis?<verse eID="Tob.5.6" />
+        <verse sID="Tob.5.7" osisID="Tob.5.7" />Et ille respondit, dicens, Ex filiis Israel fratrum tuorum veni huc, ut operer. Et dixit illi Thobias, Nosti viam, quae ducit in regionem Mediam?<verse eID="Tob.5.7" />
+        <verse sID="Tob.5.8" osisID="Tob.5.8" />Et ille dixit, Multa ego novi, et teneo vias omnes, et aliquoties ivi in illam regionem. Et mansi apud Gabelum fratrem nostrum, qui commoratur in Rages civitate Medorum, et est itet bidui ex Bathanis, usque Rages civitatem Phagar, quae posita est in monte. Et est Bathanu in medio campo.<verse eID="Tob.5.8" />
+        <verse sID="Tob.5.9" osisID="Tob.5.9" />Et dixit illi Thobias, Sustine iuvenis, donec intrem, et hoc ipsum patri meo nunciem, necessarium est enim ut eas mecum, et dabo tibi mercedem tuam. Et respondens Raphahel angelus, dixit, Ecce sustineo te, noli tardare.<verse eID="Tob.5.9" />
+        <verse sID="Tob.5.10" osisID="Tob.5.10" />Et introivit Thobias, et renuntiavit Tobi patri suo, dicens, Ecce inveni hominem ex fratribus nostris, qui eat mecum. Et ille dixit, Roga mihi hominem fili, ut sciam ex qua tribu sit. Et an fidelis sit, cui tu committaris. Et exiit Thobias, et vocavit illum, dicens, Iuvenis intra, pater meus te rogat.<verse eID="Tob.5.10" />
+        <verse sID="Tob.5.11" osisID="Tob.5.11" />Et cum intrasset, prior Thobis salutavit eum. Et ille dixit, Gaudium tibi semper sit, frater.<verse eID="Tob.5.11" />
+        <verse sID="Tob.5.12" osisID="Tob.5.12" />Et respondit Thobis, et dixit, Ut quid mihi gaudium? Homo sum invalidus oculis, et non video lumen coelorum, sed in tenebris positus sum, sicut mortuus inter vivos, vocem hominum audio, et ipsos non video.<verse eID="Tob.5.12" />
+        <verse sID="Tob.5.13" osisID="Tob.5.13" />Et dixit illi Raphahel angelus, Forti animo esto, in proximo est ut a Deo cureris.<verse eID="Tob.5.13" />
+        <verse sID="Tob.5.14" osisID="Tob.5.14" />Et respondit illi Thobis, Thobias filius meus vult ire in regionem Mediam. Si poteris ire cum illo, et deducere illum, dabo tibi mercedem tuam, frater.<verse eID="Tob.5.14" />
+        <verse sID="Tob.5.15" osisID="Tob.5.15" />Et dixit Raphahel angelus, Potero ire cum illo, quoniam novi omnes vias, et aliquoties ivi in regionem Mediam. Et perambulavi omnes campos eius, et montes, et omnes commeatos eius bene teneo.<verse eID="Tob.5.15" />
+        <verse sID="Tob.5.16" osisID="Tob.5.16" />Et dixit Thobis, Frater, ex quo genere es, et ex qua tribu? Narra mihi.<verse eID="Tob.5.16" />
+        <verse sID="Tob.5.17" osisID="Tob.5.17" />Et ille dixit, Quid necesse est te scire genus meum, vel tribum meam? Mercenarium desideras. Genus et tribum meam cur quaeris?<verse eID="Tob.5.17" />
+        <verse sID="Tob.5.18" osisID="Tob.5.18" />Sed si valde exigis, ego sum Azarias Annaniae magni filius, ex fratribus tuis.<verse eID="Tob.5.18" />
+        <verse sID="Tob.5.19" osisID="Tob.5.19" />Et dixit illi Thobis, Salvus et sanus venias frater. Sed peto ne irascaris quod voluerim vere scire de genere tuo. Tu ergo ex fratribus meis es, de genere bono et optimo, Nosti Annaniam et Nathan, duos filios Semeiae magni viri, qui et ipsi mecum ibant in Hierusalem, et adorabunt ibi mecum, et non exarraverunt? Hi omnes fratres nostri, optimi sunt. Ex bona radice es frater, salvus eas, et salvus venias. Et adiecit, dicens, Ego tibi dabo mercedis nomine, didragmam diurnam, et quaecunque necessaria sunt tibi, et filio meo similiter, et vade cum illo, et adiiciam tibi ad mercedem tuam.<verse eID="Tob.5.19" />
+        <verse sID="Tob.5.20" osisID="Tob.5.20" />Et dixit illi Raphahel angelus, Ibo cum illo, ne timueris, salvi ibimus, et salvi revertemur ad te cum pace, quoniam via tuta est.<verse eID="Tob.5.20" />
+        <verse sID="Tob.5.21" osisID="Tob.5.21" />Et Thobis dixit, Bene iter age frater, et contingat tibi. Et vocavit Thobiam filium suum, et dixit illi, Praepara te, et exi cum fratre tuo, Deus autem qui in coelo est, perducat vos ibi cum pace, et reducat salvos, et angelus illius comitetur vobiscum cum sanitate.<verse eID="Tob.5.21" />
+        <verse sID="Tob.5.22" osisID="Tob.5.22" />Et praeparavit se ad viam Thobias, et exiit ut iret, et osculatus est patrem suum et matrem. Et dixit illi Thobis pater suus, Vade fili, salvus et sanus venias.<verse eID="Tob.5.22" />
+        <verse sID="Tob.5.23" osisID="Tob.5.23" />Et lacrymata est mater illius, et dixit patri eius, Quo misisti filium nostrum? Nonne ipsa est virga manus nostrae, et ipse intrat et exit coram nobis?<verse eID="Tob.5.23" />
+        <verse sID="Tob.5.24" osisID="Tob.5.24" />Nunquam esset pecunia illa, sed purgamento sit.<verse eID="Tob.5.24" />
+        <verse sID="Tob.5.25" osisID="Tob.5.25" />Quo modo datum est a Domino vivere, hoc sufficiebat nobis.<verse eID="Tob.5.25" />
+        <verse sID="Tob.5.26" osisID="Tob.5.26" />Et dixit illis Thobis, Noli vereri, salvus ibit filius noster, et salvus revertetur ad nos, et oculi tui videbunt illum illa die qua venerit.<verse eID="Tob.5.26" />
+        <verse sID="Tob.5.27" osisID="Tob.5.27" />Nihil timueris de illo soror, angelus bonus comitatur cum illo, et bene disponet viam illius, et revertetur sanus.<verse eID="Tob.5.27" />
+        <verse sID="Tob.5.28" osisID="Tob.5.28" />Et cessavit plorare.<verse eID="Tob.5.28" />
+      </p>
+      <chapter eID="Tob.5" />
+      <chapter sID="Tob.6" osisID="Tob.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Tob.6.1" osisID="Tob.6.1" />Et profectus est filius illorum, et angelus cum illo, et canis secutus est eos, et ibant pariter, et comprehendit illos proxima nox, et manserunt super flumen Tigrim.<verse eID="Tob.6.1" />
+        <verse sID="Tob.6.2" osisID="Tob.6.2" />Et descendit Thobias lavare pedes suos in flumine, et exsilivit piscis de aqua magnus, et circumplexus est pedes eius, pene puerum devoraverat.<verse eID="Tob.6.2" />
+        <verse sID="Tob.6.3" osisID="Tob.6.3" />Et exclamavit puer.<verse eID="Tob.6.3" />
+        <verse sID="Tob.6.4" osisID="Tob.6.4" />Et dixit illi angelus, Comprehende et tene illum. Et comprehendit puer piscem, et eduxit illum in terram.<verse eID="Tob.6.4" />
+        <verse sID="Tob.6.5" osisID="Tob.6.5" />Et dixit angelus puero, Exintera hunc piscem, et tolle fel, et cor, et iecor illius, et repone et habe tecum, sunt enim necessaria haec ad medicamenta utilia, et caetera interanea proiice.<verse eID="Tob.6.5" />
+        <verse sID="Tob.6.6" osisID="Tob.6.6" />Et exinteravit puer piscem illum, et tulit fel, et cor, et iecor, et partem piscis assaverunt, et tulerunt in via. Caetera autem salierunt, et coeperunt iter agere, donec pervenirent in regionem Medorum.<verse eID="Tob.6.6" />
+        <verse sID="Tob.6.7" osisID="Tob.6.7" />Et interrogavit puer angelum, dicens, Azarias frater, quod remedium est hoc fel, cor, et iecor piscis?<verse eID="Tob.6.7" />
+        <verse sID="Tob.6.8" osisID="Tob.6.8" />Et angelus dixit, Cor et iecor fumigatur coram viro, et muliere, qui incursum daemonis, aut spiritum immundum habet. Et fugiet ab illo omnis incursus, et non apparebit in aeternum.<verse eID="Tob.6.8" />
+        <verse sID="Tob.6.9" osisID="Tob.6.9" />Et fel facit ad unguendos oculos homini, cui fuerint albugines, vel ad flandum in ipsis oculorum maculis, ut ad sanitatem perveniat.<verse eID="Tob.6.9" />
+        <verse sID="Tob.6.10" osisID="Tob.6.10" />Et postquam intraverunt in regionem Mediam, adpropinquaverunt civitati Bathanis.<verse eID="Tob.6.10" />
+        <verse sID="Tob.6.11" osisID="Tob.6.11" />Et dixit Raphahel angelus, Raguhel, penes quem hac nocte manere nos oportet, homo est propinquus tuus, et habet filiam speciosam nomine Sarram, sed neque masculum ullum, neque feminam aliam praeter illam habet.<verse eID="Tob.6.11" />
+        <verse sID="Tob.6.12" osisID="Tob.6.12" />Et tu proximus es illius super omnes homines, ut possideas eam, et haereditatem illius, et omnem substantiam patris eius, accipe illam uxorem. Etenim puella haec sapiens, fortis et bona valde, et constabilita. Et pater ipsius diligit illam, et quaecunque possedit, illi tradet. Tibi ergo destinata est haereditas patris eius, et te oportet accipere illam.<verse eID="Tob.6.12" />
+        <verse sID="Tob.6.13" osisID="Tob.6.13" />Et nunc audi me frater, et loquere de illa hac nocte, et accipiemus tibi illam uxorem, et cum regressi fuerimus ex Rages, faciemus nuptias eius. Scio autem quia Raguhel non negabit illam tibi, novit enim quia si dederit illam viro alio, morte periet secundum iudicium libri Moysi, et quia scit tibi maxime aptam esse haereditatem illius, magis quam alicui homini. Nunc ergo frater audi me, et loquamur de hac puella, et desponsemus illam tibi, et reversi ex Rages, ducemus eam nobiscum in domum tuam.<verse eID="Tob.6.13" />
+        <verse sID="Tob.6.14" osisID="Tob.6.14" />Tunc respondit Thobias Raphahel angelo, et dixit, Azarias frater, audivi quoniam iam tradita est viris septem, et mortui sunt in cubiculo nocte, ea hora qua cum illa fuerunt, audivi etiam quosdam dicentes, quoniam daemonium est quod illos occidit.<verse eID="Tob.6.14" />
+        <verse sID="Tob.6.15" osisID="Tob.6.15" />Et nunc timeo hoc daemonium, quoniam diligit illam, et ipsam quidem non vexat, sed eum qui illi adplicitus fuerit, ipsum occidit. Unicus sum patri meo. Ne forte moriar, et deducam patris mei vitam, et matris meae cum dolore ad inferos, sed neque habent alium filium, qui sepeliat illos, et possideat haereditatem illorum.<verse eID="Tob.6.15" />
+        <verse sID="Tob.6.16" osisID="Tob.6.16" />Et dixit Raphahel angelus, Memor esto mandatorum patris tui, quoniam praecepit tibi accipere te debere uxorem de domo patris tui. Et nunc audi me frater, noli computare daemonium illud, sed postula illam, et scio quoniam dabitur tibi hac nocte uxor.<verse eID="Tob.6.16" />
+        <verse sID="Tob.6.18" osisID="Tob.6.18" />[19] Et cum intraveris in cubiculum, tolle iecor et cor piscis illius, et pone super carbones, et odor manabit, et odorabitur illud daemonium, et fugiet, et non apparebit circa illam omnino in perpetuum.<verse eID="Tob.6.18" />
+        <verse sID="Tob.6.19" osisID="Tob.6.19" />[18] Et cum coeperis velle esse cum illa, surgite primo ambo, et deprecamini Dominum coeli, ut detur vobis misericordia et sanitas.<verse eID="Tob.6.19" />
+        <verse sID="Tob.6.20" osisID="Tob.6.20" />Noli timere, tibi enim destinata est ante saecula, et tu illam sanabis, et ibit tecum.<verse eID="Tob.6.20" />
+        <verse sID="Tob.6.21" osisID="Tob.6.21" />Et credo quoniam habebis ex illa filios, et erunt tibi sicut fratres.<verse eID="Tob.6.21" />
+        <verse sID="Tob.6.22" osisID="Tob.6.22" />Et cum audisset Thobias sermones Raphahel angeli, quoniam soror est illius, et de domo seminis patris illius, haesit cordi eius.<verse eID="Tob.6.22" />
+      </p>
+      <chapter eID="Tob.6" />
+      <chapter sID="Tob.7" osisID="Tob.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Tob.7.1" osisID="Tob.7.1" />Et cum venissent in civitatem Ecbatanan, dicit Thobias angelo, Azarias frater, duc me viam rectam ad Raguhelem. Et venerunt, et invenerunt illum sedentem in atrio, circa ostium domus suae, et salutaverunt illum priores. Et dixit Raguhel, Bene valeatis fratres, intrate salvi et sani, et induxit illos in domum suam.<verse eID="Tob.7.1" />
+        <verse sID="Tob.7.2" osisID="Tob.7.2" />Et dixit Annae uxori suae, Quam similis est hic iuvenis Thobis consobrini mei!<verse eID="Tob.7.2" />
+        <verse sID="Tob.7.3" osisID="Tob.7.3" />Et interrogavit illos Anna, dicens, Unde estis fratres? Et illi dixerunt, Ex filiis Nepthalim nos sumus, ex captivis Ninive.<verse eID="Tob.7.3" />
+        <verse sID="Tob.7.4" osisID="Tob.7.4" />Tunc illa dixit, Nostis Thobin fratrem nostrum? Et dixerunt, Novimus. Et illa dixit, Fortis est? Et illi dixerunt, Fortis est et vivit.<verse eID="Tob.7.4" />
+        <verse sID="Tob.7.5" osisID="Tob.7.5" />Tunc Thobias dixit, Pater meus est, de quo quaeris.<verse eID="Tob.7.5" />
+        <verse sID="Tob.7.6" osisID="Tob.7.6" />Et exsiliit Raguhel, et osculatus est illum lacrymans,<verse eID="Tob.7.6" />
+        <verse sID="Tob.7.7" osisID="Tob.7.7" />et dixit, Benedictio tibi sit fili, quoniam boni et optimi viri filius es tu. O infelicitas malorum, quia excaecatus est vir iustus, et faciens eleemosynas! Et incubuit lacrymans super collum Thobiae filii fratris sui.<verse eID="Tob.7.7" />
+        <verse sID="Tob.7.8" osisID="Tob.7.8" />Et Anna uxor eius, et Sarra filia eorum, lacrymatae sunt.<verse eID="Tob.7.8" />
+        <verse sID="Tob.7.9" osisID="Tob.7.9" />Et occiderunt arietem, et susceperunt illos libenter, et postquam laverunt, discubuerunt ad coenandum.<verse eID="Tob.7.9" />
+        <verse sID="Tob.7.10" osisID="Tob.7.10" />Et dixit Thobias ad Raphahel angelum, Azarias frater, dic Raguheli ut det mihi Sarram sororem meam. Et audivit Raguhel hunc sermonem, et dixit illi, Manduca et bibe, et suaviter tibi sit hac nocte, non est enim alius cui oporteat accipere Sarram filiam meam, quam tu. Similiter et mihi non licet illam dare alio viro, quam tibi, tu proximus mihi es, et tibi Sarra.<verse eID="Tob.7.10" />
+        <verse sID="Tob.7.11" osisID="Tob.7.11" />Verum autem tibi dicam fili, tradidi illam iam viris septem, fratribus nostris. Et omnes mortui sunt, dum eum illa secedunt. Nunc ergo fili, manduca et bibe. Et dixit Thobias, Hic ego non edam quicquam neque bibam, donec mecum rem confirmes.<verse eID="Tob.7.11" />
+        <verse sID="Tob.7.13" osisID="Tob.7.13" />Et Raguhel dixit, Ne dubites fili, facio quod vis. Et his dictis adiecit, dicens,<verse eID="Tob.7.13" />
+        <verse sID="Tob.7.14" osisID="Tob.7.14" />Tibi Sarra destinata est secundum iudicium libri Moysi, et de coelo iudicatum est tibi illam dari. Accipe sororem tuam, amodo tu illius frater es, et haec tua soror est, datur tibi ex hodierno et in aeternum. Et Dominus coeli bene disponat vobis hanc noctem, et faciat vobis misericordiam et pacem.<verse eID="Tob.7.14" />
+        <verse sID="Tob.7.15" osisID="Tob.7.15" />Et accersivit Raguhel Sarram filiam suam, et accessit ad illum, et adprehensa manu virginis, tradidit eam illi, et dixit, Ecce, accipe secundum legem et iudicium quod scriptum est in lege Moysi, dare tibi hanc uxorem. Habe itaque, et duc illam ad patrem tuum fili, salvus et sanus, et Deus de coelo det vobis bonum iter, et pacem.<verse eID="Tob.7.15" />
+        <verse sID="Tob.7.16" osisID="Tob.7.16" />Et vocavit matrem et puellam, et praecepit afferri chartam, ut faceret conscriptionem coniugii, quemadmodum tradidit illam uxorem secundum iudicium libri Moysi. Et attulit mater illius chartam, et ille scripsit, et signavit.<verse eID="Tob.7.16" />
+        <verse sID="Tob.7.17" osisID="Tob.7.17" />Et ex illa hora coeperunt manducare et bibere.<verse eID="Tob.7.17" />
+        <verse sID="Tob.7.18" osisID="Tob.7.18" />Et vocavit Raguhel Annam uxorem suam, et dixit illi, Praepara cubiculum aliud, et introduc illuc puellam. Et abiit in cubiculum, et stravit sicut illi dictum est.<verse eID="Tob.7.18" />
+        <verse sID="Tob.7.19" osisID="Tob.7.19" />Et introduxit filiam suam, et lacrymata est causa illius, et extersit lacrymas,<verse eID="Tob.7.19" />
+        <verse sID="Tob.7.20" osisID="Tob.7.20" />et dixit illi, Forti animo esto filia, Dominus coeli det tibi gaudium pro taedio tuo. Et exiit inde.<verse eID="Tob.7.20" />
+      </p>
+      <chapter eID="Tob.7" />
+      <chapter sID="Tob.8" osisID="Tob.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Tob.8.1" osisID="Tob.8.1" />Et postquam consummaverunt coenam, voluerunt dormire. Et deduxerunt iuvenem, et induxerunt illum in cubiculum.<verse eID="Tob.8.1" />
+        <verse sID="Tob.8.2" osisID="Tob.8.2" />Et rememoratus est Thobias sermonum Raphahel angeli, et sustulit de sacculo quem habebat, cor et iecor piscis, et imposuit super carbones vivos.<verse eID="Tob.8.2" />
+        <verse sID="Tob.8.3" osisID="Tob.8.3" />Et odor piscis prohibuit daemonium, et refugit in superiores partes Aegypti. Et abiit Raphahel angelus, et congligavit eum ibi, et reversus est continuo.<verse eID="Tob.8.3" />
+        <verse sID="Tob.8.4" osisID="Tob.8.4" />Et exierunt, et clauserunt ostium cubiculi. Et surrexit Thobias de lecto, et dixit Sarrae, Surge soror, oremus et deprecemur Deum, ut faciat misericordiam nobiscum.<verse eID="Tob.8.4" />
+        <verse sID="Tob.8.6" osisID="Tob.8.6" />Et surrexerunt, et coeperunt orare et deprecari Dominum, ut daretur illis sanitas.<verse eID="Tob.8.6" />
+        <verse sID="Tob.8.7" osisID="Tob.8.7" />Et dixerunt, Benedictus es Dominus Deus patrum nostrorum, et benedictum nomen tuum in omnia saecula saeculorum, et benedicant tibi coeli, et omnis creatura tua.<verse eID="Tob.8.7" />
+        <verse sID="Tob.8.8" osisID="Tob.8.8" />Tu fecisti Adam, et dedisti illi adiutorium Evam, et ex his multiplicasti semen hominum.<verse eID="Tob.8.8" />
+        <verse sID="Tob.8.9" osisID="Tob.8.9" />Et nunc Domine tu scis, quoniam non luxuriae causa accipio uxorem sororem meam, sed ipsa veritate,<verse eID="Tob.8.9" />
+        <verse sID="Tob.8.10" osisID="Tob.8.10" />ut miserearis nostri Domine, et conseneseamus pariter sani cum pace. Et da nobis filios in benedictione. Et dixerunt, Amen, et receperunt se.<verse eID="Tob.8.10" />
+        <verse sID="Tob.8.11" osisID="Tob.8.11" />Et surrexit Raguhel, et accersivit servos suos, et abierunt cum illo, et foderunt foveam per noctem.<verse eID="Tob.8.11" />
+        <verse sID="Tob.8.12" osisID="Tob.8.12" />Dicebat enim, Ne forte moriatur Thobias, et omnibus fiam derisio et opprobrium.<verse eID="Tob.8.12" />
+        <verse sID="Tob.8.13" osisID="Tob.8.13" />Et consummaverunt fossuram. Reversus est Raguhel domum, et vocavit uxorem suam, et dixit,<verse eID="Tob.8.13" />
+        <verse sID="Tob.8.14" osisID="Tob.8.14" />Mitte unam ex ancillis ad cubiculum, et videat si vivit, an mortuus est, ut sepeliamus illum nemine sciente.<verse eID="Tob.8.14" />
+        <verse sID="Tob.8.15" osisID="Tob.8.15" />Et misit unam ex ancillis. Et accensa lucerna, aperuit ostium, et intravit, et invenit illos pariter dormientes.<verse eID="Tob.8.15" />
+        <verse sID="Tob.8.16" osisID="Tob.8.16" />Et reversa, nunciavit illum vivere, et nihil mali passum, et benedixit Raguhel Deum coeli,<verse eID="Tob.8.16" />
+        <verse sID="Tob.8.17" osisID="Tob.8.17" />dicens, Benedictus es Domine omni benedictione sancta et munda, et benedicant tibi omnes electi tui, et omnis creatura tua benedicat tibi, in omnia saecula saeculorum. Benedictus es, quoniam laetificasti me, et non contigit mihi sicut putabam.<verse eID="Tob.8.17" />
+        <verse sID="Tob.8.18" osisID="Tob.8.18" />Sed secundum magnam misericordiam tuam egisti nobiscum.<verse eID="Tob.8.18" />
+        <verse sID="Tob.8.19" osisID="Tob.8.19" />Benedictus es, quia misertus es duorum unicorum. Fac cum illis Domine misericordiam, et da sanitatem, et consumma vitam eorum cum misericordia, et laetitia.<verse eID="Tob.8.19" />
+        <verse sID="Tob.8.20" osisID="Tob.8.20" />Et praecepit servis suis, ut replerent fossam quam fecerant, priusquam lucesceret.<verse eID="Tob.8.20" />
+        <verse sID="Tob.8.21" osisID="Tob.8.21" />Et praecepit uxori suae, ut faceret panes multos.<verse eID="Tob.8.21" />
+        <verse sID="Tob.8.22" osisID="Tob.8.22" />Et abiit ipse ad gregem, et adduxit vaccas duas, et quatuor arietes, et iussit praeparari.<verse eID="Tob.8.22" />
+        <verse sID="Tob.8.23" osisID="Tob.8.23" />Et vocavit Thobiam, et iuravit illi, dicens, His diebus quatuordecim hinc non recedes. Sed hic eris manducans et bibens mecum, et laetificabis animam filiae meae, multis adflictam doloribus.<verse eID="Tob.8.23" />
+        <verse sID="Tob.8.24" osisID="Tob.8.24" />Et ex eo quod possideo, accipe partem dimidiam, et vade salvus et sanus cum pace ad patrem tuum. Et alia dimidia pars, cum mortui fuerimus, ego, et uxor mea, vestra erit. Forti animo esto fili, ego pater tuus sum, et Anna mater tua. Tui sumus nos, et sororis tuae, amodo, et in perpetuo.<verse eID="Tob.8.24" />
+      </p>
+      <chapter eID="Tob.8" />
+      <chapter sID="Tob.9" osisID="Tob.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Tob.9.1" osisID="Tob.9.1" />Tunc accersivit Thobias Raphahel angelum, et dixit illi,<verse eID="Tob.9.1" />
+        <verse sID="Tob.9.3" osisID="Tob.9.3" />Azarias frater, adsume tecum hinc servos quatuor, et camelos duos, et perveni in civitatem Rages ad Gabelum, et da illi chirographum suum, et recipe pecuniam, et accersi illum ad nuptias.<verse eID="Tob.9.3" />
+        <verse sID="Tob.9.4" osisID="Tob.9.4" />Scis enim quoniam numerat dies pater meus, et si tardavero una plus die, contristabo animam eius.<verse eID="Tob.9.4" />
+        <verse sID="Tob.9.5" osisID="Tob.9.5" />Sed vides quomodo Raguhel iuraverit, cuius iusiurandum spernere non possumus.<verse eID="Tob.9.5" />
+        <verse sID="Tob.9.6" osisID="Tob.9.6" />Et abiit Raphahel angelus cum quatuor servis, et duobus camelis, in civitatem Rages, et manserunt penes Gabelum, et dedit illi Raphahel chirographum suum.<verse eID="Tob.9.6" />
+        <verse sID="Tob.9.7" osisID="Tob.9.7" />Et indicavit illi de Thobia filio Thobi, quoniam accepit uxorem filiam Raguhel, et rogat illum ad nuptias. Et continuo surrexti, et adsignavit illi saccos cum suis sigillis, et composuerunt illos supra camelos. Et vigilaverunt simul, et venerunt ad nuptias.<verse eID="Tob.9.7" />
+        <verse sID="Tob.9.8" osisID="Tob.9.8" />Et invenit Gabelus Thobiam discumbentem, et exsilivit, et salutavit, et osculatus est eum, et lacrymatus est Gabelus, et benedixit Deum,<verse eID="Tob.9.8" />
+        <verse sID="Tob.9.9" osisID="Tob.9.9" />dicens, Benedictus Dominus qui dedit tibi pacem, bone et optime vir, quoniam boni, et optimi, iusti viri, eleemosynas facientis filius es, et benedictus tu fili.<verse eID="Tob.9.9" />
+        <verse sID="Tob.9.10" osisID="Tob.9.10" />Det tibi benedictionem Dominus coeli, et uxori tuae, et patri et matri uxoris tuae, et benedictus Deus, quoniam video Thobi consubrini mei similem.<verse eID="Tob.9.10" />
+      </p>
+      <chapter eID="Tob.9" />
+      <chapter sID="Tob.10" osisID="Tob.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Tob.10.1" osisID="Tob.10.1" />Et quotidie computabat Thobis dies, quibus iret et reverteretur filius eius. Et postquam consummati sunt dies, et filius eius non veniebat, dixit, Nunquid detentus est Thobias?<verse eID="Tob.10.1" />
+        <verse sID="Tob.10.2" osisID="Tob.10.2" />Aut forte Gabelus mortuus est, et nemo illi reddidit pecuniam.<verse eID="Tob.10.2" />
+        <verse sID="Tob.10.3" osisID="Tob.10.3" />Et contristari coepit. Et Anna uxor illius dicebat, Periit filius meus, et iam non est inter vivos, quare tardat?<verse eID="Tob.10.3" />
+        <verse sID="Tob.10.4" osisID="Tob.10.4" />Et coepit plorare, et lugere filium suum, dicens, Vae mihi fili, quae te dimisi ire, lumen oculorum meorum.<verse eID="Tob.10.4" />
+        <verse sID="Tob.10.6" osisID="Tob.10.6" />Cui Thobis dicebat, Tace, noli contristari soror, salvus est filius noster. Sed aliqua forsitan mora detinet illos, homo enim, qui cum illo ivit, fidelis est, et ex fratribus nostris. Noli taediari pro illo soror, iam venit.<verse eID="Tob.10.6" />
+        <verse sID="Tob.10.7" osisID="Tob.10.7" />Et illa dicebat, Tace, molestus es mihi, noli me seducere, periit filius meus. Et exsiliens circumspiciebat viam, qua filius eius profectus erat, et nihil gustabat, et cum occidisset sol, introibat, et lugebat lacrymans tota nocte, et non dormiebat.<verse eID="Tob.10.7" />
+        <verse sID="Tob.10.8" osisID="Tob.10.8" />[9] Et ut consummati sunt quatuordecim dies nuptiarum, de quibus iuraverat Raguhel, exiit ad illum Thobias, et dixit illi, Dimitte me. Scio enim, quia pater meus et mater mea non credunt se visuros me. Nunc itaque peto pater, et dimittas me, ut eam ad patrem meum, iam tibi indicavi quomodo illum reliquerim.<verse eID="Tob.10.8" />
+        <verse sID="Tob.10.9" osisID="Tob.10.9" />[8] Et dixit Raguhel Thobiae, Remane hic penes me, et ego nuncios mittam patri tuo, et indicabunt illi de te. Et ille dixit, In totum pater peto, ut dimittas me hinc ad patrem meum.<verse eID="Tob.10.9" />
+        <verse sID="Tob.10.10" osisID="Tob.10.10" />Et continuo surgens Raguhel, tradidit Thobiae Sarram filiam suam, et dimidiam partem substantiae suae, pueros et puellas, oves et boves, asinos et camelos, vestem, vasa, et pecuniam, et dimisit illum salvum sanum, et vale illi fecit,<verse eID="Tob.10.10" />
+        <verse sID="Tob.10.11" osisID="Tob.10.11" />et dixit, Vade fili salvus sanus, Dominus coeli bene disponat iter tuum, et Sarrae uxori tuae, et videam ex vobis filios antequam moriar.<verse eID="Tob.10.11" />
+        <verse sID="Tob.10.12" osisID="Tob.10.12" />Et adprehendit illam, et salutans osculatus est Sarram filiam suam,<verse eID="Tob.10.12" />
+        <verse sID="Tob.10.13" osisID="Tob.10.13" />et dixit illi, Filia, honorem habe socero tuo, et socrui tuae, ipsi amodo sunt parentes tui, tanquam pater tuus et mater tua, qui te genuerunt. Vade salva filia, audiam de te auditionem bonam in vita mea, et gaudium, et osculatus est eam, et dimisit illam. Et Anna dixit Thobiae, Fili et frater dilecte, salvum te perducat Dominus coeli, et det mihi ut videam filios de Sarra filia mea antequam moriar, ut delecter coram Domino coeli. Ego trado tibi Sarram filiam meam, tanquam bonum depositum. Et non vexes eam omnibus diebus vitae tuae. Vade fili salvus et sanus, ego mater tua amodo, et Sarra uxor tua. Diligat te Dominus et illam, ut sitis in loco sanctitatis omnibus diebus vitae vestrae. Et osculata est utrosque, et dimisit illos sanos. Et discessit Thobias a Raguhele, gaudens et benedicens Deum coeli et terrae, regem omnium, quia direxit viam eius, et benedixit Raguheli, et Annae uxori illius, et dixit, Iniunctum est mihi a Domino, honorari vos omnibus diebus vitae vestrae.<verse eID="Tob.10.13" />
+      </p>
+      <chapter eID="Tob.10" />
+      <chapter sID="Tob.11" osisID="Tob.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Tob.11.1" osisID="Tob.11.1" />Et profecti sunt, et ibant donec venirent Charam, quae civitas est contra Niniven.<verse eID="Tob.11.1" />
+        <verse sID="Tob.11.2" osisID="Tob.11.2" />Tunc dixit Raphahel, Thobias frater, nescis quomodo reliqueris patrem tuum?<verse eID="Tob.11.2" />
+        <verse sID="Tob.11.3" osisID="Tob.11.3" />Praecedamus uxorem tuam, et eamus, et praeparemus domum, dum prosequitur nos puella.<verse eID="Tob.11.3" />
+        <verse sID="Tob.11.4" osisID="Tob.11.4" />Et praecesserunt pariter, et dixit illi angelus, Tolle tecum de felle illos, et habe. Et abiit cum illis et canis.<verse eID="Tob.11.4" />
+        <verse sID="Tob.11.5" osisID="Tob.11.5" />Et Abba sedebat in via, circumspiciens adventum filii sui.<verse eID="Tob.11.5" />
+        <verse sID="Tob.11.6" osisID="Tob.11.6" />Et cognovit illum venientem, et dixit patri eius, Ecce filius tuus venit, et homo qui cum illo erat.<verse eID="Tob.11.6" />
+        <verse sID="Tob.11.7" osisID="Tob.11.7" />Et Raphahel dixit Thobiae, Antequam adpropinquemus patri tuo, scio enim quia oculi eius aperientur.<verse eID="Tob.11.7" />
+        <verse sID="Tob.11.8" osisID="Tob.11.8" />Adsperge ergo oculis eius fel piscis, et insidet medicamentum. Et decoriabis albugines ab oculis eius, et respiciet pater tuus, et videbit lumen.<verse eID="Tob.11.8" />
+        <verse sID="Tob.11.9" osisID="Tob.11.9" />Et adcurrit ei mater sua, et irruit collo filii sui, et dixit illi, Fili video te, amodo libenter moriar. Et lacrymata est, Thobias etiam lacrymatus est.<verse eID="Tob.11.9" />
+        <verse sID="Tob.11.10" osisID="Tob.11.10" />Et surrexit Thobis, et offendebat pedibus, et egressus est atrium, et occurrit illi Thobias, ferens fel piscis in manibus suis.<verse eID="Tob.11.10" />
+        <verse sID="Tob.11.13" osisID="Tob.11.13" />Et insufflavit in oculis Thobis patris sui, et adprehendit eum, et dixit illi, Forti animo esto pater, et iniecit medicamentum in oculis eius, et morsum illi praebebat.<verse eID="Tob.11.13" />
+        <verse sID="Tob.11.14" osisID="Tob.11.14" />Et decoriavit duabus manibus albugines oculorum illius,<verse eID="Tob.11.14" />
+        <verse sID="Tob.11.15" osisID="Tob.11.15" />et vidit filium suum, et irruit collo eius, et lacrymatus est.<verse eID="Tob.11.15" />
+        <verse sID="Tob.11.16" osisID="Tob.11.16" />Et benedixit Deum,<verse eID="Tob.11.16" />
+        <verse sID="Tob.11.17" osisID="Tob.11.17" />et dixit, Video te fili, Benedictus Deus, et benedictum nomen illius magnum, et benedicti omnes sancti angeli eius. Sit nomen illius sanctum in omnia saecula saeculorum, quoniam ipse flagellavit me, et ipse misertus est mei, ecce ego video Thobiam filium meum.<verse eID="Tob.11.17" />
+        <verse sID="Tob.11.18" osisID="Tob.11.18" />Et introivit Thobias, et Anna uxor eius in domum, gaudentes, et benedicentes Deum toto ore suo, pro omnibus quae sibi evenerant.<verse eID="Tob.11.18" />
+        <verse sID="Tob.11.19" osisID="Tob.11.19" />Et indicavit patri suo Thobias, quoniam perfecta est via illius bene a Domino Deo, et quia adtulit pecuniam. Et quemadmodum accepit Sarram filiam Raguhelis uxorem, et quia venit et ipsa, et iam proximo est portae Ninive. Et gavisi sunt Thobis et Anna, et exierunt in obviam nurui suae, et videbant Thobin, qui erant in porta Ninive, venientem, et ambulantem cum omni virtute sua, nemine dante ei manum. Et mirabantur. Et confitebatur Thobis, et benedicebat magna voce Deum, et ambulabat cum gaudio coram omnibus, quoniam misertus est illius Deus, et aperuit oculos eius. Et ut adpropinquavit Thobias, adducens Sarram uxorem suam, benedixit illi Thobis, dicens, Intra sana Sarra filia. Benedictus Deus, qui adduxit te ad nos, et benedictus pater tuus, et mater tua, et benedictus Thobias filius meus, et benedicta tu filia. Intra in domum tuam sana, in benedictione et gaudio. In illa die erat gaudium magnum omnibus Iudaeis, qui erant in Ninive.<verse eID="Tob.11.19" />
+        <verse sID="Tob.11.20" osisID="Tob.11.20" />Et venit Achicarus, et Nabal avunculus illius, gaudentes ad Thobin.<verse eID="Tob.11.20" />
+        <verse sID="Tob.11.21" osisID="Tob.11.21" />Et consummatae sunt nuptiae cum gaudio septem diebus, et data sunt illi munera multa.<verse eID="Tob.11.21" />
+      </p>
+      <chapter eID="Tob.11" />
+      <chapter sID="Tob.12" osisID="Tob.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Tob.12.1" osisID="Tob.12.1" />Et postquam consummatae sunt nuptiae, vocavit Thobis Thobiam filium suum, et dixit illi, Homini illi qui tecum fuit, reddamus honorem suum, et adiiciamus illi ad mercedem.<verse eID="Tob.12.1" />
+        <verse sID="Tob.12.2" osisID="Tob.12.2" />Et ille dixit, Pater, quantum illi dabo? Non enim satis est, si dedero illi ex his quae mecum adtuli, dimidiam partem.<verse eID="Tob.12.2" />
+        <verse sID="Tob.12.3" osisID="Tob.12.3" />Duxit enim me sanum et reduxit, et uxorem meam curavit, et pecuniam mecum adtulit, et te curavit. Quantum illi dabo mercedem?<verse eID="Tob.12.3" />
+        <verse sID="Tob.12.4" osisID="Tob.12.4" />Et dixit Thobis, Iustum est illum fili, dimidium horum quae tecum attulit, accipere.<verse eID="Tob.12.4" />
+        <verse sID="Tob.12.5" osisID="Tob.12.5" />Et vocavit illum Thobias, et dixit ei, Accipe dimidium horum quae tecum adtulisti, haec erit merces tua, et vade sanus.<verse eID="Tob.12.5" />
+        <verse sID="Tob.12.6" osisID="Tob.12.6" />Tunc Raphahel vocavit ambos abscondite, et dixit illis, Deum benedicite, et illi confitemini, et ipsius maiestati date honorem, et confitemini illi coram omnibus viventibus, quia fecit vobiscum bona, ut benedicatis Deo, et decantetis nomini eius. Et sermones de operibus eius honorifice ostendite, et confitemini illi.<verse eID="Tob.12.6" />
+        <verse sID="Tob.12.7" osisID="Tob.12.7" />Quoniam sacramentum regis bonum est abscondere, opera autem Dei revelare et confiteri honorificum est.<verse eID="Tob.12.7" />
+        <verse sID="Tob.12.8" osisID="Tob.12.8" />Bona est oratio cum ieiunio, et eleemosyna cum iustitia, super utrumque autem melius est modicum cum iustitia, quam plurimum cum iniquitate. Bonum est facere eleemosynam magis quam rhesauros auri condere,<verse eID="Tob.12.8" />
+        <verse sID="Tob.12.9" osisID="Tob.12.9" />quia eleemosyna a morte liberat, et ipsa purgat peccata. Qui faciunt eleemosynam, et miserationem, et iustitiam, saturabuntur vita aeterna.<verse eID="Tob.12.9" />
+        <verse sID="Tob.12.10" osisID="Tob.12.10" />Qui faciunt peccatum, et iniquitatem, hostes sunt animae suae.<verse eID="Tob.12.10" />
+        <verse sID="Tob.12.11" osisID="Tob.12.11" />Omnem veritatem vobis manifestabo, et non abscondam a vobis ullum sermonem. Et iam vobis demonstravi et dixi, quia sacramentum regis bonum abscondere, opera autem Dei revelare et confiteri honorificum est.<verse eID="Tob.12.11" />
+        <verse sID="Tob.12.12" osisID="Tob.12.12" />Et tunc quando orabas tu, et Sarra, ego obtuli memoriam orationis vestrae in conspectu claritatis Dei, et legi, et cum sepelires mortuos, similiter. Et quia non es cunctatus exsurgere, et relinquere prandium tuum, et abiisti, et sepelisti mortuum.<verse eID="Tob.12.12" />
+        <verse sID="Tob.12.14" osisID="Tob.12.14" />Et missus sum tentare te, et Sarram nutum tuam.<verse eID="Tob.12.14" />
+        <verse sID="Tob.12.15" osisID="Tob.12.15" />Ego enim sum Raphahel, unus de septem angelis sanctis, qui adsistimus et conversamur ante claritatem Dei.<verse eID="Tob.12.15" />
+        <verse sID="Tob.12.16" osisID="Tob.12.16" />Et conturbati sunt utrique, et ceciderunt in faciem, et timuerunt.<verse eID="Tob.12.16" />
+        <verse sID="Tob.12.17" osisID="Tob.12.17" />Et dixit illis Raphahel, Nolite timere, pax vobiscum, Deum benedicite in omni aevo.<verse eID="Tob.12.17" />
+        <verse sID="Tob.12.18" osisID="Tob.12.18" />Etenim cum essem vobiscum, non mea gratia eram, sed voluntate Dei, ipsi ergo benedicite, et omnibus diebus decantate ei.<verse eID="Tob.12.18" />
+        <verse sID="Tob.12.19" osisID="Tob.12.19" />Et videbatis me quia manducabam. Sed visu vestro videbatis.<verse eID="Tob.12.19" />
+        <verse sID="Tob.12.20" osisID="Tob.12.20" />Et nunc surgite a terra, et confitemini Deo. Ecce ego ascendo ad eum, qui me misit, scribite ergo omnia quae contigerunt vobis.<verse eID="Tob.12.20" />
+        <verse sID="Tob.12.21" osisID="Tob.12.21" />Et ascendit, et surrexerunt, et non potuerunt illum videre.<verse eID="Tob.12.21" />
+        <verse sID="Tob.12.22" osisID="Tob.12.22" />Et benedicebant et decantabant Deo, et confitebantur illi in omnibus operibus magnis illius, quia apparuit illis angelus Dei.<verse eID="Tob.12.22" />
+      </p>
+      <chapter eID="Tob.12" />
+      <chapter sID="Tob.13" osisID="Tob.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Tob.13.1" osisID="Tob.13.1" />Tunc locutus est Thobis, et scripsit orationem in laetitia, et dixit, Benedictus es Deus, quia magnus es, et vivis in aeternum. Quoniam in omnia saecula regnum est illius,<verse eID="Tob.13.1" />
+        <verse sID="Tob.13.2" osisID="Tob.13.2" />quia ipse flagellat et miseretur, deducet usque ad inferos deorsum, et reducet a perditione maiestate sua, et non est qui effugiat manum eius.<verse eID="Tob.13.2" />
+        <verse sID="Tob.13.3" osisID="Tob.13.3" />Confitemini illi filii Israel coram nationibus,<verse eID="Tob.13.3" />
+        <verse sID="Tob.13.4" osisID="Tob.13.4" />quia ipse dispersit vos in illis. Et ibi adnuntiate misericordiam eius, et exaltate illum coram omni vivente, quoniam ipse est Dominus Deus noster, et ipse pater noster, et Deus in omnia saecula saeculorum.<verse eID="Tob.13.4" />
+        <verse sID="Tob.13.5" osisID="Tob.13.5" />Flagellavit vos ob iniquitates vestras, et omnium miserebitur vestrum, et colliget vos ab omnibus nationibus ubicunque dispersi fueritis. Cum conversi fueritis ad illum ex toto corde vestro, ut faciatis coram illo veritatem. Tunc revertetur ad vos, et non avertet faciem suam a vobis amplius.<verse eID="Tob.13.5" />
+        <verse sID="Tob.13.6" osisID="Tob.13.6" />Et nunc aspicite quae fecit Dominus vobis, et confitemini illi ex toto corde vestro, ut faciatis coram illo veritatem, et benedicite Domino in iustitia, et exaltate regem saeculorum.<verse eID="Tob.13.6" />
+        <verse sID="Tob.13.7" osisID="Tob.13.7" />Ego in terra captivitatis meae confiteor illi, et ostendo virtutem ipsius, et maiestatem eius coram natione peccatrice.<verse eID="Tob.13.7" />
+        <verse sID="Tob.13.8" osisID="Tob.13.8" />Convertimini peccatores, et facite iustitiam coram illo, qui scit si velit ut faciat vobiscum misericordiam?<verse eID="Tob.13.8" />
+        <verse sID="Tob.13.9" osisID="Tob.13.9" />Ego, et anima mea, regi coeli laetationem dicimus, et anima mea laetabitur omnibus diebus vitae meae.<verse eID="Tob.13.9" />
+        <verse sID="Tob.13.10" osisID="Tob.13.10" />Benedicite Domino omnes electi, et omnes laudate maiestatem eius, agite dies laetitiae, et confitemini illi.<verse eID="Tob.13.10" />
+        <verse sID="Tob.13.11" osisID="Tob.13.11" />Hierusalem civitas sancta, flagellavit te in operibus manuum tuarum.<verse eID="Tob.13.11" />
+        <verse sID="Tob.13.12" osisID="Tob.13.12" />Confitere Domino in bono, et benedic Domino saeculorum, ut iterum tabernaculum tuum aedificetur in te cum gaudio, et laetos faciat in te omnes captivos, et diligat omnes miseros in omnia saecula saeculorum.<verse eID="Tob.13.12" />
+        <verse sID="Tob.13.13" osisID="Tob.13.13" />Luce splendida fulgebunt, in omnibus finibus terrae.<verse eID="Tob.13.13" />
+        <verse sID="Tob.13.14" osisID="Tob.13.14" />Nationes multae venient tibi ex longinquo, habitare a novissimis partibus terrae ad nomen Dei mei. Et munera sua in manibus habentes, regi coeli et terrae in laetitia offerentes.<verse eID="Tob.13.14" />
+        <verse sID="Tob.13.15" osisID="Tob.13.15" />Et nomen magnum erit in saecula saeculorum.<verse eID="Tob.13.15" />
+        <verse sID="Tob.13.16" osisID="Tob.13.16" />Maledicti omnes qui spernunt te, et omnes qui blasphemant te, maledicti erunt omnes qui odiunt te, et omnes qui dixerint verbum durum, et omnes qui deponunt te, et destruunt muros tuos, et omnes qui subvertunt turres tuas, et omnes qui incendunt habitationes tuas, et benedicti erunt omnes qui aedificant te, in aevum.<verse eID="Tob.13.16" />
+        <verse sID="Tob.13.17" osisID="Tob.13.17" />Tunc gaude et laetare in filiis iustorum, quoniam omnes colligentur, et benedicent Domino aeterno.<verse eID="Tob.13.17" />
+        <verse sID="Tob.13.18" osisID="Tob.13.18" />Felices qui diligunt te, et qui gaudent in pace tua. Beati omnes homines qui contristabuntur in omnibus flagellis tuis, quoniam in te gaudebunt, et videbunt omne gaudium tuum in aeternum.<verse eID="Tob.13.18" />
+        <verse sID="Tob.13.19" osisID="Tob.13.19" />Anima mea benedic Domino regi magno, quia liberavit Hierusalem, et aedificabit iterum domus illius in omnia saecula saeculorum.<verse eID="Tob.13.19" />
+        <verse sID="Tob.13.20" osisID="Tob.13.20" />Felix ero, si fuerint reliquiae de semine meo ad videndam claritatem tuam, et confitendum nomini regis coeli.<verse eID="Tob.13.20" />
+        <verse sID="Tob.13.21" osisID="Tob.13.21" />Ostia Hierusalem sapphiro et zmaragdo aedificabuntur, ex lapide pretioso omnes muri tui, et turres Hierusalem auro aedificabuntur, et propugnacula eius auro mundo.<verse eID="Tob.13.21" />
+        <verse sID="Tob.13.22" osisID="Tob.13.22" />Et plateae Hierusalem carbunculo lapide sternentur, et ostia illius canticum laetitiae dicent, et omnes vici eius loquentur.<verse eID="Tob.13.22" />
+        <verse sID="Tob.13.23" osisID="Tob.13.23" />Benedictus Dominus, qui exaltat te, et benedictus in omnia saecula saeculorum, quoniam in te benedicet nomen sanctum suum in aeternum.<verse eID="Tob.13.23" />
+      </p>
+      <chapter eID="Tob.13" />
+      <chapter sID="Tob.14" osisID="Tob.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Tob.14.1" osisID="Tob.14.1" />Et tu consummati sunt sermones confessionis Thobi,<verse eID="Tob.14.1" />
+        <verse sID="Tob.14.2" osisID="Tob.14.2" />mortuus est in pace, annorum centum duodecim, et sepultus est praeclare in Ninive.<verse eID="Tob.14.2" />
+        <verse sID="Tob.14.3" osisID="Tob.14.3" />Quinquaginta autem et octo annorum erat, cum oculis captus est. Et quinquaginta quatuor annis, postquam lucem recepit, vixit, in omnibus faciens eleemosynas.<verse eID="Tob.14.3" />
+        <verse sID="Tob.14.4" osisID="Tob.14.4" />Et proposuit magis Deum colere, et confiteri magnitudinem eius.<verse eID="Tob.14.4" />
+        <verse sID="Tob.14.5" osisID="Tob.14.5" />Et cum moriretur Thobis, accersiit Thobiam filium suum, et septem filios eius, et praecepit illis, dicens,<verse eID="Tob.14.5" />
+        <verse sID="Tob.14.6" osisID="Tob.14.6" />Fili, dilige filios tuos, et recurre in regionem Medorum, quoniam credo ego verbo Dei, quod locutus est in Niniven. Quia omnia erunt, et veniet adhuc super Assur et Niniven, quae locuti sunt prophetae Israel, quos misit Dominus. Omnia evenient, nihilque minuetur ex omnibus verbis, sed omnia contingent temporibus suis, et in Media erit salus, magis quam in Assyriis, et quam in Babylone, quia scio ego, et credo quoniam omnia quae dixit Dominus, erunt, et perficientur. Et non excedet verbum de sermonibus Dei. Et fratres nostri, qui habitant in terra Israel, omnes dispergentur, et ex illis captivi ducentur ad terram optimam.<verse eID="Tob.14.6" />
+        <verse sID="Tob.14.7" osisID="Tob.14.7" />Et erit omnis terra Israel deserta, et domus Deu, quae in illa est, incendetur. Et erit deserta usque in tempus. Et iterum miserebitur illorum Deus in terra Israel, et iterum aedificabunt domum, sed non ut prius. Quoadusque repleatur tempus maledictionum. Et postea revertentur a captivitate sua, et omnes aedificabunt Hierusalem honorifice, et domus Dei aedificabitur in ea, et in omnia saecula saeculorum aedificabitur, sicut locuti sunt de illa omnes prophetae Israel. Et tunc omnes nationes terrae convertentur ad timendum Deum vere,<verse eID="Tob.14.7" />
+        <verse sID="Tob.14.8" osisID="Tob.14.8" />et relinquent omnia idola sua, quae seducunt illos falso errore, et omnes benedicent Dominum in aeternum, et in iustitia. Et omnes filii Israel, qui liberabuntur in diebus illis, memores erunt Dei in veritate, et colligentur, et venient in Hierusalem, et habitabunt in aeternum. In die illa, cum diligentia et omnis iustitia in illis erit,<verse eID="Tob.14.8" />
+        <verse sID="Tob.14.9" osisID="Tob.14.9" />et gaudeunt qui diligunt Deum verum, qui autem faciunt iniquitatem et peccatum, deficient de terris omnibus.<verse eID="Tob.14.9" />
+        <verse sID="Tob.14.10" osisID="Tob.14.10" />Et nunc filii, vobis mando, Servite Domino in veritate, et facite coram illo quod ipsi placet,<verse eID="Tob.14.10" />
+        <verse sID="Tob.14.11" osisID="Tob.14.11" />et filiis vestris mandate, ut faciant iustitias et eleemosynas, et sint memores, et benedicant nomini ipsius in omni tempore, in veritate, in toto corde suo, et in tota virtute sua.<verse eID="Tob.14.11" />
+        <verse sID="Tob.14.12" osisID="Tob.14.12" />Nunc vero fili exi a Ninive, et noli manere hic, sed quacunque die sepelieris matrem tuam circa me, eodem die noli manere in finibus eius,<verse eID="Tob.14.12" />
+        <verse sID="Tob.14.13" osisID="Tob.14.13" />video enim quia multa iniquitas est in illa, et fictio multa perficitur, et non confunduntur. Ecce filius Nabad, quid fecit Achicaro qui eum nutrivit, quem vivum deduxit in terram deorsum? Sed reddidit Deus malitiam illius ante faciem ipsius, et Achicar exiit ad lucem, Nabad autem intravit in tenebras aeternas, quia quaesivit Nabad Achicarum occidere.<verse eID="Tob.14.13" />
+        <verse sID="Tob.14.14" osisID="Tob.14.14" />Et abiit Thobias, postquam sepelivit parentes suos, et uxor eius, et filii in regionem Medorum, et habitavit in civitate Ecbathana, cum Raguhele socero suo,<verse eID="Tob.14.14" />
+        <verse sID="Tob.14.15" osisID="Tob.14.15" />et curam habebat senectutis eorum honorifice, et sepelivit illos Ecbathanis in regione Media, et haereditatem percepit domus Raguhel, et Thobis patris sui.<verse eID="Tob.14.15" />
+        <verse sID="Tob.14.16" osisID="Tob.14.16" />Et mortuus est annorum centum decem et septem cum claritate.<verse eID="Tob.14.16" />
+        <verse sID="Tob.14.17" osisID="Tob.14.17" />Et antequam moriretur, audivit perditionem Ninives. Et vidit captivitatem illius adductam in civitatem Medorum, quam adduxit Achicar rex Medorum, et benedixit Dominum, in omnibus quae fecit in filiis Ninive et Assur, et gavisus est antequam moriretur in terra Ninive.<verse eID="Tob.14.17" />
+      </p>
+      <chapter eID="Tob.14" />
+    </div>
+  </osisText>
+</osis>

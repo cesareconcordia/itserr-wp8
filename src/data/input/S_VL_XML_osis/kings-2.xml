@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="2Kings" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="2Kings">
+        <title>kings-2</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">2Kings</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>kings-2</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="2Kings">
+      <title>kings-2</title>
+      <chapter sID="2Kings.1" osisID="2Kings.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="2Kings.1.1" osisID="2Kings.1.1" />Delinquit Moab in Israel, post mortem Ahab.<verse eID="2Kings.1.1" />
+        <verse sID="2Kings.1.2" osisID="2Kings.1.2" />Et ascendit Ohosias in superioribus domus suae in Samariam, et languebat. Misit itaque nuncios, dicens, Ite, interrogate per Baal muscam deam regionis Accaron, si futurum est ut vivam ex hac infirmitate mea. Et abierunt interrogare per eam.<verse eID="2Kings.1.2" />
+        <verse sID="2Kings.1.9" osisID="2Kings.1.9" />... Homo Dei, rex vocat te ...<verse eID="2Kings.1.9" />
+        <verse sID="2Kings.1.10" osisID="2Kings.1.10" />... Si homo Dei ego sum, descendat ignis de coelo, et comedat te, et quinquaginta viros tuos ...<verse eID="2Kings.1.10" />
+      </p>
+      <chapter eID="2Kings.1" />
+      <chapter sID="2Kings.2" osisID="2Kings.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="2Kings.2.4" osisID="2Kings.2.4" />... Vivit Dominus, et vivit anima tua, si dimisero te quocunque ieris ...<verse eID="2Kings.2.4" />
+        <verse sID="2Kings.2.9" osisID="2Kings.2.9" />... Pete tibi aliquam petitionem, priusquam tollar a te. At ille ait, Volo ut spiritus, qui in te est, duplex in me sit.<verse eID="2Kings.2.9" />
+        <verse sID="2Kings.2.10" osisID="2Kings.2.10" />Dixitque ei Elias, Dure petisti, veruntamen si me respexeris euntem, fiet tibi ...<verse eID="2Kings.2.10" />
+        <verse sID="2Kings.2.11" osisID="2Kings.2.11" />Euntibus autem illis, et loquentibus, ecce currus igneus, et equi ignei, et separavit inter utrosque, et ascendit Helias in commotione quasi in coelum.<verse eID="2Kings.2.11" />
+        <verse sID="2Kings.2.12" osisID="2Kings.2.12" />Et Elisaeus videbat, et ipse clamabat, et dixit, Pater, pater, agitator Israel. Et non vidit eum amplius ...<verse eID="2Kings.2.12" />
+        <verse sID="2Kings.2.14" osisID="2Kings.2.14" />... Ubi est Deus Eliae? ...<verse eID="2Kings.2.14" />
+      </p>
+      <chapter eID="2Kings.2" />
+      <chapter sID="2Kings.4" osisID="2Kings.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="2Kings.4.26" osisID="2Kings.4.26" />... Pax viro tuo, pax filio tuo? ...<verse eID="2Kings.4.26" />
+        <verse sID="2Kings.4.27" osisID="2Kings.4.27" />... Dimitte eam, quia anima eius in amaritudine est, et Dominus abscondit a me, et non nunciavit mihi.<verse eID="2Kings.4.27" />
+        <verse sID="2Kings.4.29" osisID="2Kings.4.29" />... Accinge lumbos tuos, et sume bacillum meum in manum, et vade. Quemcunque conveneris in vi, ne benedixeris eum, et qui te benedixerit, ne responderis ei ...<verse eID="2Kings.4.29" />
+        <verse sID="2Kings.4.43" osisID="2Kings.4.43" />Et dixit minister, Quid dabo hoc in conspectu centum viroroum? Et respondit, Da, et manducent, quoniam haec dicit Dominus, Manducabunt, et relinquent.<verse eID="2Kings.4.43" />
+      </p>
+      <chapter eID="2Kings.4" />
+      <chapter sID="2Kings.5" osisID="2Kings.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="2Kings.5.12" osisID="2Kings.5.12" />Nonne boni Abana et Pharphar, fluvii Damasci, prae Iordane ...<verse eID="2Kings.5.12" />
+        <verse sID="2Kings.5.26" osisID="2Kings.5.26" />... Nonne cor meum iit tecum, quando conversus est vir de curru suo in obviam tibi? Et accepisti pecuniam, et possidebis ex ea agrum, et vineam, et oliveta, et greges.<verse eID="2Kings.5.26" />
+        <verse sID="2Kings.5.27" osisID="2Kings.5.27" />Et lepra Naaman applicabit se in te, et semini tuo, usque in aeternum. Et statim discessit ab eo leprosus sicut nix.<verse eID="2Kings.5.27" />
+      </p>
+      <chapter eID="2Kings.5" />
+      <chapter sID="2Kings.6" osisID="2Kings.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="2Kings.6.15" osisID="2Kings.6.15" />... O domine, quid faciemus?<verse eID="2Kings.6.15" />
+        <verse sID="2Kings.6.16" osisID="2Kings.6.16" />Et dixit Eliseus, Noli timere, quia plures sunt nobiscum, quam cum illis.<verse eID="2Kings.6.16" />
+        <verse sID="2Kings.6.17" osisID="2Kings.6.17" />Et oravit Eliseus ad Dominum, et dixit, Adaperi Domine, oculos pueri huius, et videat. Et adaperuit Dominus oculos pueri, et vidit, et ecce mons erat plenus equis, et curribus, in gyro Elisei.<verse eID="2Kings.6.17" />
+        <verse sID="2Kings.6.18" osisID="2Kings.6.18" />Et descenderunt ad eos ... Percute, Deus, caecitate exercitum Syriae ...<verse eID="2Kings.6.18" />
+        <verse sID="2Kings.6.19" osisID="2Kings.6.19" />... venite post me, et ducam vos ad hominem quem quaeritis ...<verse eID="2Kings.6.19" />
+        <verse sID="2Kings.6.20" osisID="2Kings.6.20" />... Domine aperi oculos eorum, ut videant ... et viderunt ...<verse eID="2Kings.6.20" />
+        <verse sID="2Kings.6.22" osisID="2Kings.6.22" />... Non percuties, quos non captivasti in lancea et in gladio tuo, pone eis panem et aquam, ut manducent et bibant, et remittantur, et eant ad dominum suum.<verse eID="2Kings.6.22" />
+        <verse sID="2Kings.6.32" osisID="2Kings.6.32" />... ait ad seniores viros, Si vidistis quoniam filius homicidae illius misit, auferre caput meum? ...<verse eID="2Kings.6.32" />
+      </p>
+      <chapter eID="2Kings.6" />
+      <chapter sID="2Kings.7" osisID="2Kings.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="2Kings.7.1" osisID="2Kings.7.1" />... Hac hora die crastina mensura similaginis siclo, et duae mensurae hordei siclo, in porta Samariae.<verse eID="2Kings.7.1" />
+      </p>
+      <chapter eID="2Kings.7" />
+      <chapter sID="2Kings.9" osisID="2Kings.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="2Kings.9.11" osisID="2Kings.9.11" />... quid venit ad te iste vesanus? ...<verse eID="2Kings.9.11" />
+      </p>
+      <chapter eID="2Kings.9" />
+      <chapter sID="2Kings.10" osisID="2Kings.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="2Kings.10.30" osisID="2Kings.10.30" />... Eapropter quod fecisti bona coram me, et fecisti secundum cor meum, et secundum animam meam domui Achab, filii tui quarta progenie sedebunt tibi in throno Israel.<verse eID="2Kings.10.30" />
+      </p>
+      <chapter eID="2Kings.10" />
+      <chapter sID="2Kings.14" osisID="2Kings.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="2Kings.14.5" osisID="2Kings.14.5" />... Factum est, postquam stabilitum est regnum in manibus eius, occidit pueros suos, qui occiderant patrem suum,<verse eID="2Kings.14.5" />
+        <verse sID="2Kings.14.6" osisID="2Kings.14.6" />sed filios eorum non occidit, secundum testamentum legis Domini, quo praeceptum est, Non morientur patres pro filiis, nec filii pro patribus, unusquisque in peccato suo morietur.<verse eID="2Kings.14.6" />
+        <verse sID="2Kings.14.10" osisID="2Kings.14.10" />... nunc sede in domo tua, quid provocas in malum, et cadis tu et Iuda tecum?<verse eID="2Kings.14.10" />
+        <verse sID="2Kings.14.23" osisID="2Kings.14.23" />Anno quintodecimo Amasiae filii Ioas regis Iuda, regnavit Ieroboam filius Ioas regis Israel in Samaria, quadraginta annis et uno,<verse eID="2Kings.14.23" />
+        <verse sID="2Kings.14.24" osisID="2Kings.14.24" />fecitque malum coram Domino. Et non recessit ab universis peccatis Ieroboam filii Nabath, qui peccare fecit Israel.<verse eID="2Kings.14.24" />
+        <verse sID="2Kings.14.25" osisID="2Kings.14.25" />Ipse convertit fines Israel in Samaria, ab introitu Emath, usque ad mare solitudinis, iuxta verbum Domini Dei Israel, quod locutus est in manu servi sui Ionae filii Amathi, prophetae, qui fuit de Geth, quae est in Opher.<verse eID="2Kings.14.25" />
+      </p>
+      <chapter eID="2Kings.14" />
+      <chapter sID="2Kings.16" osisID="2Kings.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="2Kings.16.7" osisID="2Kings.16.7" />Misit nuncios ad regem Assyriorum, dicens, Servus tuus ego sum, ascende, et libera me de manu regis Syriae, et de manu regis Israel, qui consurrexerunt adversum me.<verse eID="2Kings.16.7" />
+      </p>
+      <chapter eID="2Kings.16" />
+      <chapter sID="2Kings.17" osisID="2Kings.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="2Kings.17.20" osisID="2Kings.17.20" />Et indignatus est Dominus in omni semine Israel, et dimovit eos, et dedit eos in direptionem, donec abiiceret eos a facie sua,<verse eID="2Kings.17.20" />
+        <verse sID="2Kings.17.21" osisID="2Kings.17.21" />quia dissipatus est Israel a domo David, et constituerunt sibi regem Hieroboam filium Nabath ...<verse eID="2Kings.17.21" />
+      </p>
+      <chapter eID="2Kings.17" />
+      <chapter sID="2Kings.18" osisID="2Kings.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="2Kings.18.3" osisID="2Kings.18.3" />... fecit quod rectum est in conspectu Domini, secundum omnia quae fecit David pater suus.<verse eID="2Kings.18.3" />
+        <verse sID="2Kings.18.4" osisID="2Kings.18.4" />... destruxit excelsa, et comminuit omnia simulachra, et abscidit lucos, et comminuit serpentem illum aereum, quem fecit Moyses, cui filii Israel ad illud tempus sacrificabant ...<verse eID="2Kings.18.4" />
+        <verse sID="2Kings.18.5" osisID="2Kings.18.5" />Hic in Domino Deo Israel speravit, et post eum non fuit ei similis quisquam in regibus Iuda, et in his, qui fuerunt ante ipsum,<verse eID="2Kings.18.5" />
+        <verse sID="2Kings.18.6" osisID="2Kings.18.6" />et adhaesit Domino, nec recessit ab ipso, et custodivit mandata eius, quaecunque mandavit Moysi.<verse eID="2Kings.18.6" />
+        <verse sID="2Kings.18.7" osisID="2Kings.18.7" />Et erat Dominus cum eo, et in omnibus, in quibus incedebat, sapienter agebat ...<verse eID="2Kings.18.7" />
+        <verse sID="2Kings.18.8" osisID="2Kings.18.8" />Ipse percussit Philisthiim usque ad Gazan, et usque ad terminos eius, a turre custodum usque ad urbes munitas.<verse eID="2Kings.18.8" />
+        <verse sID="2Kings.18.14" osisID="2Kings.18.14" />Misit ad eum Ezechias in Lachis, dicens, Peccavi, recede a me, quodcunque iusseris, dabo. Imposuitque rex Assyriorum Ezechiae trecenta talenta argenti, et triginta talenta auri.<verse eID="2Kings.18.14" />
+        <verse sID="2Kings.18.15" osisID="2Kings.18.15" />Et dedit Ezechias omnem pecuniam, quae inventa est in domo Domini, et in thesauris domus regis.<verse eID="2Kings.18.15" />
+        <verse sID="2Kings.18.16" osisID="2Kings.18.16" />In tempore illo concidit valvas templi Domini, et clypeos, quos deauraverat, et omnia dedit regi Assyriorum.<verse eID="2Kings.18.16" />
+        <verse sID="2Kings.18.21" osisID="2Kings.18.21" />ecce considis super baculum arundineum confractum, super Aegyptum, cui, si innixus fuerit homo, intrabit in manum eius, et perforabit eam ...<verse eID="2Kings.18.21" />
+        <verse sID="2Kings.18.35" osisID="2Kings.18.35" />Quis deorum gentium istarum liberabit terram suam de manu mea, quoniam liberabit Dominus Deus tuus Hierusalem de manu mea?<verse eID="2Kings.18.35" />
+      </p>
+      <chapter eID="2Kings.18" />
+      <chapter sID="2Kings.19" osisID="2Kings.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="2Kings.19.8" osisID="2Kings.19.8" />Reversus autem Rapsaces, invenit regem Assyriorum praeliantem adversus Lobnam, audierat enim quia profectus esset de Lachis.<verse eID="2Kings.19.8" />
+        <verse sID="2Kings.19.9" osisID="2Kings.19.9" />Et audivit de Tharaca rege Aethiopiae, dicentes, Egressus est ut pugnet contra te ...<verse eID="2Kings.19.9" />
+        <verse sID="2Kings.19.19" osisID="2Kings.19.19" />... ut sciant omnes, quia tu es Deus solus.<verse eID="2Kings.19.19" />
+        <verse sID="2Kings.19.35" osisID="2Kings.19.35" />... egressus est angelus Domini, et percussit in castris Assyriorum centum octoginta quinque millia. Et surrexerunt mane, et ecce omnes, cadavera mortuorum, et egressus est, et abiit,<verse eID="2Kings.19.35" />
+        <verse sID="2Kings.19.36" osisID="2Kings.19.36" />et reversus est Sennacherib rex Assyriorum, et habitavit in Ninive.<verse eID="2Kings.19.36" />
+      </p>
+      <chapter eID="2Kings.19" />
+      <chapter sID="2Kings.20" osisID="2Kings.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="2Kings.20.1" osisID="2Kings.20.1" />... aegrotavit Ezechias usque ad mortem, venitque ad eum Isaias filius Amos, dicens, Praecipe domui tuae, quia morieris tu.<verse eID="2Kings.20.1" />
+        <verse sID="2Kings.20.2" osisID="2Kings.20.2" />Qui convertit faciem suam ad parietem, et oravit ad Dominum, dicens,<verse eID="2Kings.20.2" />
+        <verse sID="2Kings.20.3" osisID="2Kings.20.3" />Obsecro Domine, memento quomodo ambulaverim in conspectu tuo in veritate, et corde perfecto, et bonum in oculis tuis fecerim. Flevitque Ezechias fletu magno.<verse eID="2Kings.20.3" />
+        <verse sID="2Kings.20.4" osisID="2Kings.20.4" />Cumque flevisset, factus est sermo Domini ad Isaiam prophetam, dicens,<verse eID="2Kings.20.4" />
+        <verse sID="2Kings.20.5" osisID="2Kings.20.5" />Revertere, et dic Ezechiae duci meo, Haec dicit Dominus Deus David patris tui, Audivi orationem tuam, et vidi lacrymas tuas ...<verse eID="2Kings.20.5" />
+        <verse sID="2Kings.20.6" osisID="2Kings.20.6" />... ego custodiam civitatem hanc propter me, et propter David servum meum.<verse eID="2Kings.20.6" />
+        <verse sID="2Kings.20.13" osisID="2Kings.20.13" />... Non fuit res quam non ostenderet eis Ezechias in domo Domini, et in omni potestate sua.<verse eID="2Kings.20.13" />
+        <verse sID="2Kings.20.18" osisID="2Kings.20.18" />Et de filiis tuis qui nascentur ex te, tollent, et facient eunuchos in domo regis ...<verse eID="2Kings.20.18" />
+        <verse sID="2Kings.20.19" osisID="2Kings.20.19" />... Bonum verbum, quod locutus est Dominus, fiat pax et fides in diebus meis.<verse eID="2Kings.20.19" />
+        <verse sID="2Kings.20.21" osisID="2Kings.20.21" />Et dormivit Ezechias cum patribus suis, et sepultus est in civitate David, et regnavit Manasses filius eius pro eo.<verse eID="2Kings.20.21" />
+      </p>
+      <chapter eID="2Kings.20" />
+      <chapter sID="2Kings.21" osisID="2Kings.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="2Kings.21.1" osisID="2Kings.21.1" />Cum esset rex sedecim annorum Manasses cum regnaret, et quinquaginta septem annis regnavit in Ierusalem, et nomen erat matris eius Ebsibas.<verse eID="2Kings.21.1" />
+        <verse sID="2Kings.21.2" osisID="2Kings.21.2" />Et fecit quod malignum est ante conspectum Domini, secundum abominationes gentium, quas eiecit Dominus a facie filiorum Israel.<verse eID="2Kings.21.2" />
+        <verse sID="2Kings.21.3" osisID="2Kings.21.3" />Et aedificavit excelsa, quae destruxerat Ezechias pater ipsius, et aedificavit sacrarium Baal, et fecit lucos sicut fecit Achab rex Israel, et adoravit omnem militiam coeli, et servivit illis.<verse eID="2Kings.21.3" />
+        <verse sID="2Kings.21.5" osisID="2Kings.21.5" />Et aedificavit sacrarium in duabus aedibus domus Domini.<verse eID="2Kings.21.5" />
+        <verse sID="2Kings.21.6" osisID="2Kings.21.6" />Et induxit filios suos in ignem, et augurabatur, et fecit pythones, et divinos multos, ut faceret quod malignum est in oculis animae suae, et exacerbaret Dominum Deum.<verse eID="2Kings.21.6" />
+        <verse sID="2Kings.21.7" osisID="2Kings.21.7" />Et fecit sculptilia lucorum, quae fecit in domo, quam dixit Dominus ad David, et ad Salomonem filium eius, In domo ista, et in Ierusalem, quam elegi ex omnibus tribubus Israel, ponere nomen meum in aeternum.<verse eID="2Kings.21.7" />
+        <verse sID="2Kings.21.8" osisID="2Kings.21.8" />Et non apponam pedem in Israel movere a terra, quam dedi, sed si audierint me per omnia quae mandavi eis, et secundum legem, quam mandavit eis puer meus Moyses.<verse eID="2Kings.21.8" />
+        <verse sID="2Kings.21.9" osisID="2Kings.21.9" />Et non audierunt, et quoniam valide aspernatus est Manasses, et seduxit eos Manasses, ut facerent quod malignum est, super omnes gentes, quas abstulit Dominus a facie Israel.<verse eID="2Kings.21.9" />
+        <verse sID="2Kings.21.10" osisID="2Kings.21.10" />Et locutus est Dominus in manu puerorum suorum prophetarum,<verse eID="2Kings.21.10" />
+        <verse sID="2Kings.21.11" osisID="2Kings.21.11" />Quae fecit Manasses rex Iuda simulacra, secundum omnia quae fecit Amorrhaeus, qui erat ante faciem eius, et peccare fecit Iuda in idolis suis,<verse eID="2Kings.21.11" />
+        <verse sID="2Kings.21.12" osisID="2Kings.21.12" />propter hoc haec dicit Dominus Deus Israel, Ecce ego adduco mala in Ierusalem et in Iuda, omnes qui audierint haec, tinnibunt aures eorum utraeque.<verse eID="2Kings.21.12" />
+        <verse sID="2Kings.21.13" osisID="2Kings.21.13" />Et extendam in Ierusalem mensuram Samariae, et pondus domus Achab, et delebo Ierusalem, quemadmodum deletur buxum de poste, ante faciem eius.<verse eID="2Kings.21.13" />
+        <verse sID="2Kings.21.14" osisID="2Kings.21.14" />Et dabo eos in manus inimicorum ipsius, et erunt in direptionem, et combustionem omnibus inimicis eorum,<verse eID="2Kings.21.14" />
+        <verse sID="2Kings.21.15" osisID="2Kings.21.15" />quoniam proiecti sunt de post me, et erant deexacerbantes me, ex qua die exierunt patres eorum de terra Aegypti, usque in hunc diem.<verse eID="2Kings.21.15" />
+        <verse sID="2Kings.21.16" osisID="2Kings.21.16" />[17] Et caetera verborum Manasse, et omnia quae fecit, quemadmodum peccare fecit Israel, nonne haec scripta sunt in libro verborum dierum regum Iuda?<verse eID="2Kings.21.16" />
+        <verse sID="2Kings.21.17" osisID="2Kings.21.17" />[16] Et quemadmodum sanguinem innocentium fudit multum valde, usque dum impleret Ierusalem super os, extra peccatum, quod peccare fecit Iuda, ut faceret quod malignum est in conspectu Domini Dei.<verse eID="2Kings.21.17" />
+        <verse sID="2Kings.21.18" osisID="2Kings.21.18" />Et dormivit Manasses cum patribus suis, et regnavit filius eius pro eo.<verse eID="2Kings.21.18" />
+        <verse sID="2Kings.21.19" osisID="2Kings.21.19" />Cum esset annorum viginti duos Amos ...<verse eID="2Kings.21.19" />
+      </p>
+      <chapter eID="2Kings.21" />
+      <chapter sID="2Kings.22" osisID="2Kings.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="2Kings.22.2" osisID="2Kings.22.2" />... Fecit quod rectum est ante conspectum Domini, et ambulavit in via patris sui David. Et non declinavit dextra, aut sinistra.<verse eID="2Kings.22.2" />
+        <verse sID="2Kings.22.11" osisID="2Kings.22.11" />Et factum est, cum audisset rex verba libri legis, conscidit vestimenta sua.<verse eID="2Kings.22.11" />
+        <verse sID="2Kings.22.12" osisID="2Kings.22.12" />Et mandavit rex Helciae sacerdoti, et Alchinae filio Iosaphat, et Achiliae filio Melchiae, et Sapham scribae, et Ioas filio regis, dicens,<verse eID="2Kings.22.12" />
+        <verse sID="2Kings.22.13" osisID="2Kings.22.13" />Quaerite a Domino pro me, et pro omnibus Iuda, de verbis libri huius inventi, quoniam magna ira Domini accensa est in nobis, quoniam non audierunt patres nostri verba libri huius, secundum omnia scripta ut facerent.<verse eID="2Kings.22.13" />
+        <verse sID="2Kings.22.14" osisID="2Kings.22.14" />Et abiit Helchias sacerdos, et Ahican, et Saphan, et Ioas, ad Oldam prophetissam, uxorem Sellae, filii Tacuellarum, vestis custodem, et ipsa habitabat in Ierusalem, et locuti sunt ad eam secundum haec.<verse eID="2Kings.22.14" />
+        <verse sID="2Kings.22.15" osisID="2Kings.22.15" />Et dixit eis, Haec dicit Dominus Deus Israel, Dicite viro, qui misit vos ad me,<verse eID="2Kings.22.15" />
+        <verse sID="2Kings.22.16" osisID="2Kings.22.16" />Haec dicit Dominus, Ecce, adducam mala super hunc locum, et super inhabitantes in eum, secundum omnia verba libri huius, quae legit rex Iuda,<verse eID="2Kings.22.16" />
+        <verse sID="2Kings.22.17" osisID="2Kings.22.17" />pro quibus dereliquerunt me, et intenderunt diis alienis, et exacerbaverunt me in operibus manuum suarum, et incensa est ira mea in hoc loco, et non extinguetur.<verse eID="2Kings.22.17" />
+        <verse sID="2Kings.22.18" osisID="2Kings.22.18" />Et ad regem Iuda, qui misit vos ut quaereretis a Domino, haec dicetis, Haec dicit Dominus Deus Israel, Verba mea quae audisti,<verse eID="2Kings.22.18" />
+        <verse sID="2Kings.22.19" osisID="2Kings.22.19" />et reveritus es a facie mea, quia audisti quae locutus sum in loco isto, et inhabitantes in illo, fieri in stuporem et in maledictionem, et scidisti vestimenta tua, et plorasti ante conspectum meum, et ego audivi, dixit Dominus virtutum,<verse eID="2Kings.22.19" />
+        <verse sID="2Kings.22.20" osisID="2Kings.22.20" />propter hoc ego colligam te apud patres tuos, et colligeris ad sepulcrum tuum in pace, et non videbunt oculi tui omnia mala quae ego inducam in locum istum, et super inhabitantes in illo.<verse eID="2Kings.22.20" />
+      </p>
+      <chapter eID="2Kings.22" />
+      <chapter sID="2Kings.23" osisID="2Kings.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="2Kings.23.1" osisID="2Kings.23.1" />Et respondit regi verbum. Et misit rex Iosias, et collegit ad se omnes presbyteros Iuda in Ierusalem.<verse eID="2Kings.23.1" />
+        <verse sID="2Kings.23.2" osisID="2Kings.23.2" />Et ascendit ad Dominum, et omnes viri Iuda, et sacerdotes et levitae, et omnis populus a pusillo usque ad maiorem, et legit re in auribus populi omnia verba libri testamenti, qui inventus est in domo Domini.<verse eID="2Kings.23.2" />
+        <verse sID="2Kings.23.3" osisID="2Kings.23.3" />Et stetit rex ad columnam, et disposuit testamentum quod inventum est in domo Domini, ante conspectum Domini, ut irent post Dominum, et observarent mandata eius, et testificationes, et praecepta eius, in toto corde suo, et tota anima, statuerent omnia verba testamenti istius, scripta in libro isto, et transivit omnis populus in testamentum quod disposuit rex ex libro.<verse eID="2Kings.23.3" />
+        <verse sID="2Kings.23.4" osisID="2Kings.23.4" />Et mandavit rex Helchiae sacerdoti magno, et sacerdotibus secundariis, et custodientibus ephod, ut eiicerent de domo Domini omnia vasa, quae fecit ad Baal, et Asera, et omni militiae coeli, et combussit illa foras extra Ierusalem in convalle Cedron, et sumpsit cineres illorum, et sparsit in rivum, et abiit in Bethel.<verse eID="2Kings.23.4" />
+        <verse sID="2Kings.23.5" osisID="2Kings.23.5" />Et combussit sacerdotes, quos constituerant reges Iuda ut incenderent in excelsis civitatum Iuda, et circa Ierusalem, incendebant Baali, et soli, et lunae, et omni militiae coeli.<verse eID="2Kings.23.5" />
+        <verse sID="2Kings.23.6" osisID="2Kings.23.6" />Et extulerunt de domo Domini foras Ierusalem in convalle Cedron, et extenuavit cinerem, et proiecit in monumentum filiorum plebis.<verse eID="2Kings.23.6" />
+        <verse sID="2Kings.23.7" osisID="2Kings.23.7" />Et extraxit filios illorum, qui erant in domo Domini, quorum mulieres officiabantur ibi ad stolas.<verse eID="2Kings.23.7" />
+        <verse sID="2Kings.23.8" osisID="2Kings.23.8" />Et introduxit omnes sacerdotes ex civitatibus Iuda, et coinquinavit sancta, ubi incendebant sacerdotes, de Gabaa usque Bersabee, et destruxit excelsos illorum ...<verse eID="2Kings.23.8" />
+        <verse sID="2Kings.23.10" osisID="2Kings.23.10" />Et coinquinavit Phem, quod erat in Cepenam, quoniam perduxerat quisque filium suum et filiam suam in ignem, Moloch.<verse eID="2Kings.23.10" />
+        <verse sID="2Kings.23.11" osisID="2Kings.23.11" />Abstulit quoque equos, quos dederant reges Iuda, Soli, in introitu templi Domini iuxta exedram Nathanmelech eunuchi, qui erat in Pharurim, currus autem solis combussit igni.<verse eID="2Kings.23.11" />
+        <verse sID="2Kings.23.12" osisID="2Kings.23.12" />Altaria quoque, quae erant super tecta coenaculi Achaz, quae fecerant reges Iuda, et altaria quae fecerat Manasses in duobus atriis templi Domini, destruxit rex, et expulit illa inde, et proiecit cineres illorum in torrentem Cedron.<verse eID="2Kings.23.12" />
+        <verse sID="2Kings.23.13" osisID="2Kings.23.13" />Et excelsa, quae erant in Ierusalem ad dexteram partem montis Amissa, quae aedificaverat Salomon rex Astarte simulacro Sidoniorum, et Chamos idolo, et Mulcro simulacro filiorum Ammon, polluit rex.<verse eID="2Kings.23.13" />
+        <verse sID="2Kings.23.14" osisID="2Kings.23.14" />Et contribulavit titulos, et implebat loca illorum ossibus hominum.<verse eID="2Kings.23.14" />
+        <verse sID="2Kings.23.15" osisID="2Kings.23.15" />Et sacrarium, quod erat in Bethel, excelsum, quod fecit Ieroboam filius Natae, in quo fecit peccare Israel, et sacrarium illud, excelsum detraxit, et contribulavit lapides illius, et attenuavit in pulverem, et accendit lucos eorum.<verse eID="2Kings.23.15" />
+        <verse sID="2Kings.23.16" osisID="2Kings.23.16" />Et reversus est Iosias rex, et vidit monumenta, quae erant ibi in monte, et sumpsit ossa de monumento, et combussit super sacrarium, et polluit illud secundum verbum, quod locutus est homo Dei, cum staret Ieroboam in die festo ad aram ...<verse eID="2Kings.23.16" />
+        <verse sID="2Kings.23.34" osisID="2Kings.23.34" />Et imperavit Pharao super Israel, Ioachim filio Iosiae regnante in Iudea pro Iosia patre suo, et convertit nomen Ioachim ...<verse eID="2Kings.23.34" />
+        <verse sID="2Kings.23.36" osisID="2Kings.23.36" />... in regnando, et undecim annos regnavit in Ierusalem ...<verse eID="2Kings.23.36" />
+      </p>
+      <chapter eID="2Kings.23" />
+      <chapter sID="2Kings.24" osisID="2Kings.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="2Kings.24.5" osisID="2Kings.24.5" />Et reliqua verborum Ioachim, et omnia quae fecit, nonne scripta sunt in libro verborum, et in diebus eorum qui regnaverunt in Iudea? Et dormivit Ioachim cum patribus suis,<verse eID="2Kings.24.5" />
+        <verse sID="2Kings.24.6" osisID="2Kings.24.6" />et regnavit Ioachim filius eius pro eo.<verse eID="2Kings.24.6" />
+        <verse sID="2Kings.24.8" osisID="2Kings.24.8" />Filius decem et octo annorum erat Ioachim, et cum regnaret, tribus mensibus regnavit in Ierusalem, nomen matris eius Mesola ...<verse eID="2Kings.24.8" />
+        <verse sID="2Kings.24.9" osisID="2Kings.24.9" />Et omnia quae fecit sub oculis Domini pater eius, et ipse fecit.<verse eID="2Kings.24.9" />
+        <verse sID="2Kings.24.10" osisID="2Kings.24.10" />Et in diebus eius ascendit Nabuchodonosor rex Babylonis in Ierusalem ...<verse eID="2Kings.24.10" />
+        <verse sID="2Kings.24.11" osisID="2Kings.24.11" />Venit Nabuchodonosor rex Babyloniae in Ierusalem, et expugnabat eam.<verse eID="2Kings.24.11" />
+      </p>
+      <chapter eID="2Kings.24" />
+      <chapter sID="2Kings.25" osisID="2Kings.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="2Kings.25.24" osisID="2Kings.25.24" />... Nolite timere Chaldaeos, habitate in terra, et servite regi Babylonis, et bene erit vobis.<verse eID="2Kings.25.24" />
+      </p>
+      <chapter eID="2Kings.25" />
+    </div>
+  </osisText>
+</osis>

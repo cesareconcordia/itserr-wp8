@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Eccl" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Eccl">
+        <title>ecclesiastes</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Eccl</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>ecclesiastes</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Eccl">
+      <title>ecclesiastes</title>
+      <chapter sID="Eccl.1" osisID="Eccl.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Eccl.1.1" osisID="Eccl.1.1" />Verba Ecclesiastes, filii David, regis Israel in Ierusalem.<verse eID="Eccl.1.1" />
+        <verse sID="Eccl.1.2" osisID="Eccl.1.2" />Vanitas vanitatum, dixit Ecclesiastes, vanitas vanitatum, omnia vanitas.<verse eID="Eccl.1.2" />
+        <verse sID="Eccl.1.3" osisID="Eccl.1.3" />Quid superest homini in omni labore suo, quo laborat sub sole?<verse eID="Eccl.1.3" />
+        <verse sID="Eccl.1.4" osisID="Eccl.1.4" />Generatio vadit, et generatio venit, et terra in saeculo stat.<verse eID="Eccl.1.4" />
+        <verse sID="Eccl.1.5" osisID="Eccl.1.5" />Oritur sol, et occidit sol, et ad locum suum ducit, et oritur ipse ibi,<verse eID="Eccl.1.5" />
+        <verse sID="Eccl.1.6" osisID="Eccl.1.6" />vadit ad austrum, et gyrat ad aquilonem, gyrans gyrando vadit spiritus, et in circulos suos revertitur spiritus.<verse eID="Eccl.1.6" />
+        <verse sID="Eccl.1.7" osisID="Eccl.1.7" />Omnes torrentes vadunt in mare, et mare non impletur, ad locum, de quo torrentes exeunt, illic ipsi revertuntur ut abeant.<verse eID="Eccl.1.7" />
+        <verse sID="Eccl.1.8" osisID="Eccl.1.8" />Omnes sermones graves, non poterit vir loqui. Non satiabitur oculos videndo, et non implebitur auris auditu.<verse eID="Eccl.1.8" />
+        <verse sID="Eccl.1.9" osisID="Eccl.1.9" />Quid est quod fuit? Ipsum quod erit, et quid est quod factum est? Ipsum quod fiet.<verse eID="Eccl.1.9" />
+        <verse sID="Eccl.1.10" osisID="Eccl.1.10" />Et non est omne recens sub sole quod loquatur, et dicat, Ecce hoc novum est, iam fuit in saeculis, quae fuerunt ante nos.<verse eID="Eccl.1.10" />
+        <verse sID="Eccl.1.11" osisID="Eccl.1.11" />Non est memoria primis, et quidem novissimis, qui futuri sunt, non erit eis memoria cum his, qui futuri sunt in novissimo.<verse eID="Eccl.1.11" />
+        <verse sID="Eccl.1.12" osisID="Eccl.1.12" />Ego Ecclesiastes fui rex super Israel in Ierusalem,<verse eID="Eccl.1.12" />
+        <verse sID="Eccl.1.13" osisID="Eccl.1.13" />et dedi cor meum ad inquirendum et considerandum in sapientia de omnibus, quae fiunt sub sole. Hanc distentionem malam dedit Deus filiis hominum, ut distendantur in ea.<verse eID="Eccl.1.13" />
+        <verse sID="Eccl.1.14" osisID="Eccl.1.14" />Vidi universa opera, quae facta sunt sub sole, et ecce omnia vanitas, et praesumptio spiritus.<verse eID="Eccl.1.14" />
+        <verse sID="Eccl.1.15" osisID="Eccl.1.15" />Perversus non poterit adornari, et imminutio non poterit numerari.<verse eID="Eccl.1.15" />
+        <verse sID="Eccl.1.16" osisID="Eccl.1.16" />Locutus sum ego cum corde meo, dicens, Ecce ego magnificatus sum, et adieci sapientiam super omnes, qui fuerunt ante me in Ierusalem, et cor meum vidit multam sapientiam, et scientiam.<verse eID="Eccl.1.16" />
+        <verse sID="Eccl.1.17" osisID="Eccl.1.17" />Et dedi cor meum ut nossem sapientiam et scientiam, errores et stultitiam, cognovi quia et hoc est praesumptio spiritus,<verse eID="Eccl.1.17" />
+        <verse sID="Eccl.1.18" osisID="Eccl.1.18" />Quia in multitudine sapientiae, multitudo furoris, et qui apponit scientiam, apponit dolorem.<verse eID="Eccl.1.18" />
+      </p>
+      <chapter eID="Eccl.1" />
+      <chapter sID="Eccl.2" osisID="Eccl.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Eccl.2.1" osisID="Eccl.2.1" />Dixi ego in corde meo, Veni nunc, tentabo te in laetitia, et videbo in bono. Et ecce etiam hoc vanitas.<verse eID="Eccl.2.1" />
+        <verse sID="Eccl.2.2" osisID="Eccl.2.2" />Risui dixi amentiam, et iocunditati, Quid hoc facis?<verse eID="Eccl.2.2" />
+        <verse sID="Eccl.2.3" osisID="Eccl.2.3" />Consideravi in corde meo ut traherem in vino carnem meam, et cor meam deduxit me in sapientiam. Et ut obtinerem in stultitiam, donec viderem quid esset bonum filiis hominum, quod facerent sub sole numero dierum vitae suae.<verse eID="Eccl.2.3" />
+        <verse sID="Eccl.2.4" osisID="Eccl.2.4" />Magnificavi opera mea, aedificavi mihi domos, plantavi mihi vineas,<verse eID="Eccl.2.4" />
+        <verse sID="Eccl.2.5" osisID="Eccl.2.5" />feci mihi hortos, et pomaria, plantavi in illis lignum omne fructiferum,<verse eID="Eccl.2.5" />
+        <verse sID="Eccl.2.6" osisID="Eccl.2.6" />feci mihi piscinas aquarum, ad irrigandum ex eis saltum germinantem lignum,<verse eID="Eccl.2.6" />
+        <verse sID="Eccl.2.7" osisID="Eccl.2.7" />mercatus sum servos et ancillas, et vernaculi fuerunt mihi, et quidem possessio armenti et ovium multa fuit mihi, super omnes qui fuerunt ante me in Ierusalem,<verse eID="Eccl.2.7" />
+        <verse sID="Eccl.2.8" osisID="Eccl.2.8" />congregavi mihi argentum, et aurum, et substantias regum, et provinciarum, feci mihi cantores, et cantatrices, et delicias filiorum hominum, ministros vini et ministras,<verse eID="Eccl.2.8" />
+        <verse sID="Eccl.2.9" osisID="Eccl.2.9" />et magnificatus sum, et adieci super omnes, qui fuerunt ante me in Ierusalem, et quidem sapientia mea stetit mihi.<verse eID="Eccl.2.9" />
+        <verse sID="Eccl.2.10" osisID="Eccl.2.10" />Et omne, quod postulaverunt oculi mei, non tuli ab eis, nec prohibui cor meum ab omni laetitia, quia cor meum laetatum est in omni labore meo, et haec fuit portio mea ex omni labore meo.<verse eID="Eccl.2.10" />
+        <verse sID="Eccl.2.11" osisID="Eccl.2.11" />Et respexi ego ad omnia opera mea, quae fecerant manus meae, et in labore, quo laboraveram faciens, et ecce omnia vanitas et voluntas spiritus, et non est abundantia sub sole.<verse eID="Eccl.2.11" />
+        <verse sID="Eccl.2.12" osisID="Eccl.2.12" />Et respexi ego ut viderem sapientiam, et errores, et stultitiam (quia quis est hominum, qui possit ire post regem atque Factorem suum?)<verse eID="Eccl.2.12" />
+        <verse sID="Eccl.2.13" osisID="Eccl.2.13" />Et vidi ego quia est abundantia sapientiae super stultitiam, sicut abundantia lucis super tenebras.<verse eID="Eccl.2.13" />
+        <verse sID="Eccl.2.14" osisID="Eccl.2.14" />Sapientis oculi in capite eius, et stultus in tenebris ambulat, et cognovi ego quia eventus unus eveniet omnibus eis.<verse eID="Eccl.2.14" />
+        <verse sID="Eccl.2.15" osisID="Eccl.2.15" />Et dixi ego in corde meo, Sicut eventus stulti, ita et mihi eveniet. Et ut quid sapiens factus sum ego? Tunc abundanter locutus sum in corde meo, quoniam insipiens ex abundantia loquitur. Quoniam hoc quoque vanitas.<verse eID="Eccl.2.15" />
+        <verse sID="Eccl.2.16" osisID="Eccl.2.16" />Quia non est memoria sapientis cum stulto in aeternum, eo quod ecce diebus qui supervenient universa oblivio cooperiet, et quomodo morietur sapiens cum stulto?<verse eID="Eccl.2.16" />
+        <verse sID="Eccl.2.17" osisID="Eccl.2.17" />Et odivi vitam, quia malum super me opus quod factum est sub sole, quia omnia vanitas et praesumptio spiritus.<verse eID="Eccl.2.17" />
+        <verse sID="Eccl.2.18" osisID="Eccl.2.18" />Et odivi ego omnem laborem meum, quem ego laboro sub sole, quia dimitto illum homini qui futurus est post me,<verse eID="Eccl.2.18" />
+        <verse sID="Eccl.2.19" osisID="Eccl.2.19" />et quis scit utrum sapiens sit, an stultus? Et dominabitur in omni labore meo, quo laboravi, et in quo sapiens factus sum sub sole, sed et hoc vanitas.<verse eID="Eccl.2.19" />
+        <verse sID="Eccl.2.20" osisID="Eccl.2.20" />Et conversus sum ego ut renuntiarem cordi meo in omni labore meo, quo laboravi sub sole.<verse eID="Eccl.2.20" />
+        <verse sID="Eccl.2.21" osisID="Eccl.2.21" />Quia est homo, cui labor eius est in sapientia, et scientia, et virtute. Et homini qui non laboravit, illi dabit partem suam, et quidem hoc vanitas, et nequitia multa.<verse eID="Eccl.2.21" />
+        <verse sID="Eccl.2.22" osisID="Eccl.2.22" />Quid enim fit homini in omni labore suo, et in voluntate cordis sui, quia ipse laborat sub sole?<verse eID="Eccl.2.22" />
+        <verse sID="Eccl.2.23" osisID="Eccl.2.23" />Quia omnes dies eius dolorum, et iracundiae, curarumque. Et quidem in nocte non dormit cor eius, sed et hoc vanitas.<verse eID="Eccl.2.23" />
+        <verse sID="Eccl.2.24" osisID="Eccl.2.24" />Non est bonum homini, nisi quod comedat et bibat, et ostendat animae suae bonum in labore suo, et quidem hoc vidi ego, quia de manu Dei est.<verse eID="Eccl.2.24" />
+        <verse sID="Eccl.2.25" osisID="Eccl.2.25" />Quis enim comedet, et quis parcet sine illo?<verse eID="Eccl.2.25" />
+        <verse sID="Eccl.2.26" osisID="Eccl.2.26" />Quia homini bono coram se dedit sapientiam, et scientiam, et laetitiam. Et peccanti dedit sollicitudinem, ut augeat, et congreget quae dantur bono ante faciem Dei, sed et hoc vanitas, et praesumptio spiritus.<verse eID="Eccl.2.26" />
+      </p>
+      <chapter eID="Eccl.2" />
+      <chapter sID="Eccl.3" osisID="Eccl.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Eccl.3.1" osisID="Eccl.3.1" />Omnibus tempus est, et tempus omni rei sub coelo.<verse eID="Eccl.3.1" />
+        <verse sID="Eccl.3.2" osisID="Eccl.3.2" />Tempus pariendi, et tempus moriendi. Tempus plantadi, et tempus evellendi quod plantatum est.<verse eID="Eccl.3.2" />
+        <verse sID="Eccl.3.3" osisID="Eccl.3.3" />Tempus occidendi, et tempus sanandi. Tempus destruendi, et tempus aedificandi.<verse eID="Eccl.3.3" />
+        <verse sID="Eccl.3.4" osisID="Eccl.3.4" />Tempus flendi, et tempus ridendi. Tempus plangendi, et tempus saltandi.<verse eID="Eccl.3.4" />
+        <verse sID="Eccl.3.5" osisID="Eccl.3.5" />Tempus mittendi lapides, et tempus colligendi. Tempus amplexandi, et tempus longe fieri ab amplexu.<verse eID="Eccl.3.5" />
+        <verse sID="Eccl.3.6" osisID="Eccl.3.6" />Tempus acquirendi, et tempus perdendi. Tempus custodiendi, et tempus proiiciendi.<verse eID="Eccl.3.6" />
+        <verse sID="Eccl.3.7" osisID="Eccl.3.7" />Tempus scindendi, et tempus consuendi. Tempus tacendi, et tempus loquendi.<verse eID="Eccl.3.7" />
+        <verse sID="Eccl.3.8" osisID="Eccl.3.8" />Tempus amandi, et tempus odiendi. Tempus belli, et tempus pacis.<verse eID="Eccl.3.8" />
+        <verse sID="Eccl.3.9" osisID="Eccl.3.9" />Quae abundantia est facienti in quibus ipse laborat?<verse eID="Eccl.3.9" />
+        <verse sID="Eccl.3.10" osisID="Eccl.3.10" />Vidi occupationem, quam dedit Deus filiis hominum, ut occupentur in ea.<verse eID="Eccl.3.10" />
+        <verse sID="Eccl.3.11" osisID="Eccl.3.11" />Universa fecit bona in tempore suo. Et quidem saeculum dedit in corda eorum, ut non inveniat homo opus, quod fecit Deus ab initio usque in finem.<verse eID="Eccl.3.11" />
+        <verse sID="Eccl.3.12" osisID="Eccl.3.12" />Cognovi quia non est bonum nisi laetari, et facere bonum in vita sua.<verse eID="Eccl.3.12" />
+        <verse sID="Eccl.3.13" osisID="Eccl.3.13" />Et quidem omnis homo, qui comedit et bibit, et ostendit bonum in omni labore suo, ex dono Dei est.<verse eID="Eccl.3.13" />
+        <verse sID="Eccl.3.14" osisID="Eccl.3.14" />Cognovi quia omnia, quae fecit Deus, ipsa erunt in aeternum, super illa non potest addi, et ab illis non potest auferri. Et Deus fecit, ut timeant a facie eius.<verse eID="Eccl.3.14" />
+        <verse sID="Eccl.3.15" osisID="Eccl.3.15" />Quid est quod fuit? Ipsum quod est, et quae futura sunt, iam fuerunt, et Deus quaeret eum qui persecutionem patitur.<verse eID="Eccl.3.15" />
+        <verse sID="Eccl.3.16" osisID="Eccl.3.16" />Et adhuc vidi sub sole locum iudicii. Ibi impietas, et locum iustitiae. Ibi iniquitas.<verse eID="Eccl.3.16" />
+        <verse sID="Eccl.3.17" osisID="Eccl.3.17" />Dixi ego in corde meo, Iustum et impium iudicabit Deus, quia tempus omni voluntati super omne factum ibi.<verse eID="Eccl.3.17" />
+        <verse sID="Eccl.3.18" osisID="Eccl.3.18" />Dixi ego in corde meo de loquela filiorum hominis, quia separat illos Deus, et ut ostenderet, quia ipsi iumenta sunt sibi.<verse eID="Eccl.3.18" />
+        <verse sID="Eccl.3.19" osisID="Eccl.3.19" />Quia eventus filiorum hominum, et eventus pecoris, eventus unus eis, sicut mors huius, ita et mors illius. Et spiritus unus omnibus, et amplius homini a pecore nihil est, quia omnia vanitas.<verse eID="Eccl.3.19" />
+        <verse sID="Eccl.3.20" osisID="Eccl.3.20" />omnia vadunt ad locum unum, omnia facta sunt de humo, et omnia revertentur ad humum.<verse eID="Eccl.3.20" />
+        <verse sID="Eccl.3.21" osisID="Eccl.3.21" />Quis scit spiritus filiorum hominis si ascendat ipse sursum, et spiritus pecoris si descendat ipse deorsum in terram?<verse eID="Eccl.3.21" />
+        <verse sID="Eccl.3.22" osisID="Eccl.3.22" />Et vidi quia non est bonum, nisi quod laetetur homo in opere suo. Quia haec est pars eius. Quis enim adducet eum, ut videat id quod futurum est post ipsum?<verse eID="Eccl.3.22" />
+      </p>
+      <chapter eID="Eccl.3" />
+      <chapter sID="Eccl.4" osisID="Eccl.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Eccl.4.1" osisID="Eccl.4.1" />Et conversus ego, et vidi universas calumnias, quae fiunt sub sole. Et ecce lacrymae eorum qui calumniam sustinent, et non est qui consoletur eos. Et in manibus calumniantium eos sortitudo, et non est eis consolator.<verse eID="Eccl.4.1" />
+        <verse sID="Eccl.4.2" osisID="Eccl.4.2" />Et laudavi ego mortuos qui iam mortui sunt, super viventes, quicunque ipsi vivunt usque nunc,<verse eID="Eccl.4.2" />
+        <verse sID="Eccl.4.3" osisID="Eccl.4.3" />et melior super hos duos, qui nondum natus est. Qui nondum vidit opus malum, quod factum est sub sole.<verse eID="Eccl.4.3" />
+        <verse sID="Eccl.4.4" osisID="Eccl.4.4" />Et vidi ego universum laborem, et simul omnem virtutem operis, quia aemulatio viro a sodali eius, et quidem hoc vanitas, et praesumptio spiritus.<verse eID="Eccl.4.4" />
+        <verse sID="Eccl.4.5" osisID="Eccl.4.5" />Stultus complexus est manus suas, et comedit carnes suas.<verse eID="Eccl.4.5" />
+        <verse sID="Eccl.4.6" osisID="Eccl.4.6" />Melior est plenus pugillus cum requie, quam plenitudo manuum laboris, et praesumptionis spiritus.<verse eID="Eccl.4.6" />
+        <verse sID="Eccl.4.7" osisID="Eccl.4.7" />Et conversus sum ego, et vidi vanitatem sub sole,<verse eID="Eccl.4.7" />
+        <verse sID="Eccl.4.8" osisID="Eccl.4.8" />est unus, et non est secundus, et quidem filius, et frater non est ei, et non est finis omni labori eius, et quidem oculus eius non satiatur divitiis, et cui ego laboro, et fraudo animam meam a bonitate? Sed et hoc vanitas, et distentio pessima est.<verse eID="Eccl.4.8" />
+        <verse sID="Eccl.4.9" osisID="Eccl.4.9" />Meliores duo, quam unus. Quibus est merces bona in labore suo,<verse eID="Eccl.4.9" />
+        <verse sID="Eccl.4.10" osisID="Eccl.4.10" />quia si ceciderit, unus eriget participem suum, et vae uni cum ceciderit, et non est secundus qui erigat eum.<verse eID="Eccl.4.10" />
+        <verse sID="Eccl.4.11" osisID="Eccl.4.11" />Et quidem si dormiant duo, etiam calor erit illis, et unus quomodo calefiet?<verse eID="Eccl.4.11" />
+        <verse sID="Eccl.4.12" osisID="Eccl.4.12" />Et si invaluerit super eum unus, duo stabunt adversus eum, et funiculus triplex non cito rumpitur.<verse eID="Eccl.4.12" />
+        <verse sID="Eccl.4.13" osisID="Eccl.4.13" />Melior est puer pauper et sapiens, quam rex senex et stultus, qui nescit providere in posterum.<verse eID="Eccl.4.13" />
+        <verse sID="Eccl.4.14" osisID="Eccl.4.14" />Quoniam de domo vinctorum egreditur in regem, quia etiam in regno eius natus est pauper.<verse eID="Eccl.4.14" />
+        <verse sID="Eccl.4.15" osisID="Eccl.4.15" />Vidi universos viventes, quia ambulant sub sole cum adolescente secundo, qui consurget pro illo.<verse eID="Eccl.4.15" />
+        <verse sID="Eccl.4.16" osisID="Eccl.4.16" />Non est finis omni populo, universis qui fuerunt ante illos, et quidem novissimi non laetabuntur in eo, sed et hoc vanitas, et praesumptio spiritus.<verse eID="Eccl.4.16" />
+        <verse sID="Eccl.4.17" osisID="Eccl.4.17" />Custodi pedem tuum cum vadis in domum Dei, et appropinqua ut audias, donum enim insipientium sacrificium, quia nesciunt quod faciunt malum.<verse eID="Eccl.4.17" />
+      </p>
+      <chapter eID="Eccl.4" />
+      <chapter sID="Eccl.5" osisID="Eccl.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Eccl.5.1" osisID="Eccl.5.1" />Noli festinare in ore tuo, et cor tuum non festinet ad perferendum verbum in conspectu Dei, quia Deus in coelo, et tu super terram, propter hoc sint verba tua pauca.<verse eID="Eccl.5.1" />
+        <verse sID="Eccl.5.2" osisID="Eccl.5.2" />Quia veniet somnium in multitudine sollicitudinis, et vox insipientis in multiplicatione sermonum.<verse eID="Eccl.5.2" />
+        <verse sID="Eccl.5.3" osisID="Eccl.5.3" />Cum votum feceris Deo, ne moreris reddere illud, quia non est voluntas in insipientibus, quaecunque voveris, redde.<verse eID="Eccl.5.3" />
+        <verse sID="Eccl.5.4" osisID="Eccl.5.4" />Melius est non vovere, quam vovere, et non reddere.<verse eID="Eccl.5.4" />
+        <verse sID="Eccl.5.5" osisID="Eccl.5.5" />Non des os tuum ut peccare facias carnem tuam, et ne dixeris in conspectu angeli, Quia ignorantia est, ne irascatur Deus super vocem tuam, et disperdat opera manuum tuarum.<verse eID="Eccl.5.5" />
+        <verse sID="Eccl.5.6" osisID="Eccl.5.6" />Qui in multitudine somniorum, et vanites, et verba plurima, sed Deum time.<verse eID="Eccl.5.6" />
+        <verse sID="Eccl.5.7" osisID="Eccl.5.7" />Si calumniam pauperis, et rapinam iudicii, et iniustitias videris in regione, ne mireris super negotio, quia excelsus super excelsum custodit, et excelsior est super illos,<verse eID="Eccl.5.7" />
+        <verse sID="Eccl.5.8" osisID="Eccl.5.8" />et amplius terrae in omnibus est rex in agro culto.<verse eID="Eccl.5.8" />
+        <verse sID="Eccl.5.9" osisID="Eccl.5.9" />Qui diligit argentum, non implebitur argento, et qui diligit divitias, non fruetur eis, sed et hoc vanitas.<verse eID="Eccl.5.9" />
+        <verse sID="Eccl.5.10" osisID="Eccl.5.10" />In multitudine enim bonorum, multi sunt qui comedunt ea. Et quae est fortitudo habenti illa, nisi ut videat oculis suis?<verse eID="Eccl.5.10" />
+        <verse sID="Eccl.5.11" osisID="Eccl.5.11" />Dulcis somnus operanti, sive paululum, sive plus comederit, et saturitas divitis non sinit eum dormire.<verse eID="Eccl.5.11" />
+        <verse sID="Eccl.5.12" osisID="Eccl.5.12" />Est languor pessimus, quem vidi sub sole, divitias custodiri a domino in malum eius.<verse eID="Eccl.5.12" />
+        <verse sID="Eccl.5.13" osisID="Eccl.5.13" />Et perierunt divitiae illae in distentione pessima, et genuit filium, et non est in manibus eius quidquam.<verse eID="Eccl.5.13" />
+        <verse sID="Eccl.5.14" osisID="Eccl.5.14" />Sicut exivit de utero matris suae nudus, revertetur ut venit. Et nihil tollet laboris sui, ut vadat in manibus eius.<verse eID="Eccl.5.14" />
+        <verse sID="Eccl.5.15" osisID="Eccl.5.15" />Sed et hoc languor pessimus. Quia sicut venit, sic et vadit. Quid ergo habebit amplius quia laboravit in ventum?<verse eID="Eccl.5.15" />
+        <verse sID="Eccl.5.16" osisID="Eccl.5.16" />Et omnibus diebus suis in tenebris comedet, et in indignatione plurima, et in infirmitate, et in iracundia.<verse eID="Eccl.5.16" />
+        <verse sID="Eccl.5.17" osisID="Eccl.5.17" />Ecce quod vidi ego bonum, quod est optimum. Comedere, et bibere, et cernere iocunditatem in omni labore suo, quo laboravit sub sole, numero dierum vitae suae, quos dedit ei Deus, haec quippe est pars eius.<verse eID="Eccl.5.17" />
+        <verse sID="Eccl.5.18" osisID="Eccl.5.18" />Sed et omnis homo, cui dedit Deus divitias, et substantiam, concessitque ei ut vesceretur ex eis, et tolleret partem suam, et laetaretur de labore suo, hoc Dei donum est.<verse eID="Eccl.5.18" />
+        <verse sID="Eccl.5.19" osisID="Eccl.5.19" />Non enim multum recordabitur dierum vitae suae, quia Deus occupat in laetitia cor eius.<verse eID="Eccl.5.19" />
+      </p>
+      <chapter eID="Eccl.5" />
+      <chapter sID="Eccl.6" osisID="Eccl.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Eccl.6.1" osisID="Eccl.6.1" />Est malum, quod vidi sub sole, et frequens apud homines,<verse eID="Eccl.6.1" />
+        <verse sID="Eccl.6.2" osisID="Eccl.6.2" />Vir, cui dedit Deus divitias, et substantiam, et gloriam, et nihil deest animae eius ex omnibus, quae desideravit, et non dedit ei Deus potestatem ut manducaret ex eo, sed vir alienus comedit illud, haec vanitas est, languor pessimus.<verse eID="Eccl.6.2" />
+        <verse sID="Eccl.6.3" osisID="Eccl.6.3" />Si genuerit vir centum, et annis multis vixerit, et plures fuerint dies annorum eius, et anima eius non repleatur bonis, nec sepulcrum fuerit illi, dixi melius ab eo esse abortivum.<verse eID="Eccl.6.3" />
+        <verse sID="Eccl.6.4" osisID="Eccl.6.4" />In vanitate quippe venit, et in tenebris vadit, et in tenebris nomen eius abscondetur.<verse eID="Eccl.6.4" />
+        <verse sID="Eccl.6.5" osisID="Eccl.6.5" />Et quidem solem non vidit, nec cognovit requies huic magis quam illi,<verse eID="Eccl.6.5" />
+        <verse sID="Eccl.6.6" osisID="Eccl.6.6" />et si vixerit mille annos duplices, et bonitatem non vidit, nonne ad locum unum omnia properant?<verse eID="Eccl.6.6" />
+        <verse sID="Eccl.6.7" osisID="Eccl.6.7" />Omnis labor hominis in ore ipsius, et quidem anima non implebitur.<verse eID="Eccl.6.7" />
+        <verse sID="Eccl.6.8" osisID="Eccl.6.8" />Quid enim est amplius sapienti a stulto? Quid pauperi, nisi scire ut vadat contra vitam?<verse eID="Eccl.6.8" />
+        <verse sID="Eccl.6.9" osisID="Eccl.6.9" />Melior est aspectus oculorum super ambulantem in anima, sed et hoc vanitas, et praesumptio spiritus.<verse eID="Eccl.6.9" />
+        <verse sID="Eccl.6.10" osisID="Eccl.6.10" />Quid est quod futurum est? Iam vocatum est nomen eius, et cogitum quia homo est, et non poterit iudicari cum fortiore se.<verse eID="Eccl.6.10" />
+        <verse sID="Eccl.6.11" osisID="Eccl.6.11" />Quia sunt verba multa multiplicantia vanitatem.<verse eID="Eccl.6.11" />
+      </p>
+      <chapter eID="Eccl.6" />
+      <chapter sID="Eccl.7" osisID="Eccl.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Eccl.7.1" osisID="Eccl.7.1" />Quid est amplius homini? Quis enim cognovit quid sit bonum homini in vita, numero dierum vitae vanitatis eius? Et faciet eos quasi umbram, quia quis annuntiabit homini quid sit post eum sub sole?<verse eID="Eccl.7.1" />
+        <verse sID="Eccl.7.2" osisID="Eccl.7.2" />Bonum est nomen, super oleum bonum. Et dies mortis super diem nativitatis eius.<verse eID="Eccl.7.2" />
+        <verse sID="Eccl.7.3" osisID="Eccl.7.3" />Melius est ire ad domum luctus, quam ad domum convivii. In quo finis est omnis hominis, et qui vivit, dabit ad cor suum.<verse eID="Eccl.7.3" />
+        <verse sID="Eccl.7.4" osisID="Eccl.7.4" />Melior est ira quam risus, quia in moerore vultus emendabitur cor.<verse eID="Eccl.7.4" />
+        <verse sID="Eccl.7.5" osisID="Eccl.7.5" />Cor sapientium in domo luctus, et cor insipientium in domo laetitiae.<verse eID="Eccl.7.5" />
+        <verse sID="Eccl.7.6" osisID="Eccl.7.6" />Melius est audire correptionem sapientis, super virum audientem carmen stultorum,<verse eID="Eccl.7.6" />
+        <verse sID="Eccl.7.7" osisID="Eccl.7.7" />quia sicut vox spinarum sub olla, sic risus stulti, sed et hoc vanitas.<verse eID="Eccl.7.7" />
+        <verse sID="Eccl.7.8" osisID="Eccl.7.8" />Calumnia conturbat sapientem, et perdet cor fortitudinis eius.<verse eID="Eccl.7.8" />
+        <verse sID="Eccl.7.9" osisID="Eccl.7.9" />Melius est novissimum sermonis, quam principium eius. Melior est patiens super excelsum spiritu.<verse eID="Eccl.7.9" />
+        <verse sID="Eccl.7.10" osisID="Eccl.7.10" />Ne festines in spiritu tuo ut irascaris, quia ira in sinu stultorum requiescit.<verse eID="Eccl.7.10" />
+        <verse sID="Eccl.7.11" osisID="Eccl.7.11" />Ne dixeris, Quid factum est, quia dies priores erant meliores quam isti? Non enim sapienter interrogasti de hoc.<verse eID="Eccl.7.11" />
+        <verse sID="Eccl.7.12" osisID="Eccl.7.12" />Bona est sapientia cum haereditate, et amplius videntibus solem.<verse eID="Eccl.7.12" />
+        <verse sID="Eccl.7.13" osisID="Eccl.7.13" />Quia quomodo umbra sapientiae, sic umbra argenti. Et quod plus est, scientia sapientiae vivificabit habentem se.<verse eID="Eccl.7.13" />
+        <verse sID="Eccl.7.14" osisID="Eccl.7.14" />Vide opera Dei, quoniam quis poterit adornare quem Deus perverterit?<verse eID="Eccl.7.14" />
+        <verse sID="Eccl.7.15" osisID="Eccl.7.15" />In die bonitatis esto in bono, et in die malo vide, et quidem istud congruum huic fecit Deus ad loquendum, ut non inveniat homo post eum quidquam.<verse eID="Eccl.7.15" />
+        <verse sID="Eccl.7.16" osisID="Eccl.7.16" />Omnia vidi in diebus vanitatis meae, Est iustus periens in iustitia sua, et est impius longaevus in malitia sua.<verse eID="Eccl.7.16" />
+        <verse sID="Eccl.7.17" osisID="Eccl.7.17" />Noli esse iustus multum, et ne quaeras amplius, ne obstupescas.<verse eID="Eccl.7.17" />
+        <verse sID="Eccl.7.18" osisID="Eccl.7.18" />Ne impie agas multum, et noli esse stultus, ne moriaris in tempore non tuo.<verse eID="Eccl.7.18" />
+        <verse sID="Eccl.7.19" osisID="Eccl.7.19" />Bonum est retinere te istud, et quidem ab hoc ne dimittas manum tuam, quoniam qui timet Deum, egredietur ad omnia.<verse eID="Eccl.7.19" />
+        <verse sID="Eccl.7.20" osisID="Eccl.7.20" />Sapientia confortabit sapientem super decem potestatem habentes, qui sunt in civitate,<verse eID="Eccl.7.20" />
+        <verse sID="Eccl.7.21" osisID="Eccl.7.21" />quia non est homo iustus in terra, qui faciat bonum, et non peccet.<verse eID="Eccl.7.21" />
+        <verse sID="Eccl.7.22" osisID="Eccl.7.22" />Et quidem in omnes sermones, quos loquentur, ne dederis cor tuum, quia non audies servum tuum maledicentem tibi,<verse eID="Eccl.7.22" />
+        <verse sID="Eccl.7.23" osisID="Eccl.7.23" />etenim frequenter scit cor tuum, quia et tu maledixisti aliis.<verse eID="Eccl.7.23" />
+        <verse sID="Eccl.7.24" osisID="Eccl.7.24" />Omnia haec tentavi in sapientia. Et dixi, Sapiens efficiar, et ipsa longius facta est a me<verse eID="Eccl.7.24" />
+        <verse sID="Eccl.7.25" osisID="Eccl.7.25" />magis quam erat, et alta profunditas, quis inveniet eam?<verse eID="Eccl.7.25" />
+        <verse sID="Eccl.7.26" osisID="Eccl.7.26" />Circuivi ego, et cor meum, ut scirem, et considerarem, et quaererem sapientiam, et rationem, et ut cognoscerem impietatem stulti, et imprudentium errorem,<verse eID="Eccl.7.26" />
+        <verse sID="Eccl.7.27" osisID="Eccl.7.27" />et invenio ego amariorem morte mulierem, quae est laqueus, et sagenae cor eius, vincula manus eius, bonus coram Deo, eruetur ab ea. Et peccator capietur in illa.<verse eID="Eccl.7.27" />
+        <verse sID="Eccl.7.28" osisID="Eccl.7.28" />Ecce hoc inveni, dixit Ecclesiastes, unam ad unam, ut invenirem numerum,<verse eID="Eccl.7.28" />
+        <verse sID="Eccl.7.29" osisID="Eccl.7.29" />quem adhuc quaesivit anima mea, et non inveni. Hominem unum de mille inveni, et mulierem in omnibus his non inveni.<verse eID="Eccl.7.29" />
+        <verse sID="Eccl.7.30" osisID="Eccl.7.30" />Solummodo hoc inveni, quia fecit Deus hominem rectum, et ipsi quaesierunt cogitationes multas. Quis novit sapientes? Et quis novit solutionem verbi?<verse eID="Eccl.7.30" />
+      </p>
+      <chapter eID="Eccl.7" />
+      <chapter sID="Eccl.8" osisID="Eccl.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Eccl.8.1" osisID="Eccl.8.1" />Sapientia hominis illuminabit vultum eius, et imprudens vultu suo odietur.<verse eID="Eccl.8.1" />
+        <verse sID="Eccl.8.2" osisID="Eccl.8.2" />Os regis custodi, et de iuramento, et de verbo Dei<verse eID="Eccl.8.2" />
+        <verse sID="Eccl.8.3" osisID="Eccl.8.3" />ne festines a facie eius ambulare, et ne stes in verbo malo, quoniam omne, quod voluerit, faciet,<verse eID="Eccl.8.3" />
+        <verse sID="Eccl.8.4" osisID="Eccl.8.4" />sicut dixerit rex, potestatem habens, et quis dicet ei, Quid facis?<verse eID="Eccl.8.4" />
+        <verse sID="Eccl.8.5" osisID="Eccl.8.5" />Qui custodit mandatum, non cognoscet verbum malum. Et tempus, et iudicium cognoscit cor sapientis.<verse eID="Eccl.8.5" />
+        <verse sID="Eccl.8.6" osisID="Eccl.8.6" />Quia omni negotio est tempus, et iudicium, quia scientia hominis multa super eum,<verse eID="Eccl.8.6" />
+        <verse sID="Eccl.8.7" osisID="Eccl.8.7" />quia nescit quod futurum est. Sicut enim erit, quis annuntiabit ei?<verse eID="Eccl.8.7" />
+        <verse sID="Eccl.8.8" osisID="Eccl.8.8" />Non est homo potestatem habens in spiritum, ut prohibeat spiritum, et non est potens in die mortis, et non est emissio in bello, et non salvabit impietas habentem se.<verse eID="Eccl.8.8" />
+        <verse sID="Eccl.8.9" osisID="Eccl.8.9" />Omnia haec vidi, et dedi cor meum in omne opus, quod factum est sub sole. Et dominatus est homo homini ut affligeret eum.<verse eID="Eccl.8.9" />
+        <verse sID="Eccl.8.10" osisID="Eccl.8.10" />Et tunc vidi impios sepultos, et venerunt, et de loco sancto egressi sunt, et laudati sunt in civitate, quia sic fecerunt, sed et hoc vanitas.<verse eID="Eccl.8.10" />
+        <verse sID="Eccl.8.11" osisID="Eccl.8.11" />Quia enim non est contradictio facientibus malum cito, ideo repletum est cor filiorum hominis in eis, ut faciant malum.<verse eID="Eccl.8.11" />
+        <verse sID="Eccl.8.12" osisID="Eccl.8.12" />Quia peccator facit malum ex tunc, et elongat ei, et ego recognosco quia erit bonum timentibus Deum, ut timeant a facie eius.<verse eID="Eccl.8.12" />
+        <verse sID="Eccl.8.13" osisID="Eccl.8.13" />Et bonum non erit impio, et non prolongabit dies in umbra, quia non est timens a facie Dei.<verse eID="Eccl.8.13" />
+        <verse sID="Eccl.8.14" osisID="Eccl.8.14" />Est vanitas, quae fit super terram, quia sunt iusti, ad quos perveniunt quasi facta impiorum, et sunt impii, ad quos perveniunt quasi facta iustorum, dixi, Quia et hoc vanitas est.<verse eID="Eccl.8.14" />
+        <verse sID="Eccl.8.15" osisID="Eccl.8.15" />Et laudavi ego laetitiam, quia non est bonum homini sub sole, nisi comedere, et bibere, et laetari, et ipsum egredietur cum eo de labore suo, diebus vitae suae, quos dedit ei Deus sub sole.<verse eID="Eccl.8.15" />
+        <verse sID="Eccl.8.16" osisID="Eccl.8.16" />Quapropter dedi cor meum ut cognoscerem sapientiam, et viderem occupationem quae facta est super terram, quia et in die et in nocte somnum in oculis suis non est videns.<verse eID="Eccl.8.16" />
+        <verse sID="Eccl.8.17" osisID="Eccl.8.17" />Et vidi omnia opera Dei, quia non poterit homo invenire opus, quod factum est sub sole, in quo laboravit homo ut quaereret, et non inveniet. Siquidem, et si dixerit sapiens sapiens se cognoscere, non poterit invenire.<verse eID="Eccl.8.17" />
+      </p>
+      <chapter eID="Eccl.8" />
+      <chapter sID="Eccl.9" osisID="Eccl.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Eccl.9.1" osisID="Eccl.9.1" />Omne hoc dedi in corde meo, ut considerarem universa, Quia iusti et sapientes, et opera eorum in manu Domini, et quidem charitatem, et quidem odium non est cognoscens homo, omnia in facie eorum.<verse eID="Eccl.9.1" />
+        <verse sID="Eccl.9.2" osisID="Eccl.9.2" />In omnibus eventus unus iusto et impio, bono et malo, mundo et polluto, sacrificanti et non sacrificanti, sic bonus, ut peccator. Sic iurans, sicut iuramentum timens.<verse eID="Eccl.9.2" />
+        <verse sID="Eccl.9.3" osisID="Eccl.9.3" />Hoc est pessmimum in omni, quod factum est sub sole, quia eventus unus omnibus, sed et cor filiorum hominum repletum est malitia, et errores in corde eorum in vita sua, et post haec ad mortuos,<verse eID="Eccl.9.3" />
+        <verse sID="Eccl.9.4" osisID="Eccl.9.4" />quia quis est qui communicet in omnes viventes? Est confidentia, quoniam canis vivens melior est a leone mortuo,<verse eID="Eccl.9.4" />
+        <verse sID="Eccl.9.5" osisID="Eccl.9.5" />quia viventes sciunt quod moriantur, et mortui nesciunt quidquam, et non est eis amplius merces, in oblivione enim venit memoria eorum.<verse eID="Eccl.9.5" />
+        <verse sID="Eccl.9.6" osisID="Eccl.9.6" />Sed et dilectio eorum, et odium eorum, et zelus eorum iam periit, et pars non est eis adhuc in saeculo, in omni quod sit sub sole.<verse eID="Eccl.9.6" />
+        <verse sID="Eccl.9.7" osisID="Eccl.9.7" />Vade et comede in laetitia panem tuum, et bibe in corde bono vinum tuum, quoniam iam placuerunt Deo opera tua.<verse eID="Eccl.9.7" />
+        <verse sID="Eccl.9.8" osisID="Eccl.9.8" />In omni tempore sint vestimenta tua candida, et oleum de capite tuo non deficiat.<verse eID="Eccl.9.8" />
+        <verse sID="Eccl.9.9" osisID="Eccl.9.9" />Vide vitam cum muliere, quam dilexisti, omnibus diebus vitae vanitatis tuae, qui dati sunt tibi sub sole, quia haec est pars tua in vita, et in labore, quo tu laboras sub sole.<verse eID="Eccl.9.9" />
+        <verse sID="Eccl.9.10" osisID="Eccl.9.10" />Omnia quae invenit manus tua ut facias, in virtute tua fac, quia non est opus, et cogitatio, et scientia, et sapientia in inferno, quo tu vadis illuc.<verse eID="Eccl.9.10" />
+        <verse sID="Eccl.9.11" osisID="Eccl.9.11" />Converti me, et vidi sub sole, quoniam non est velocium cursus, nec fortium praelium, nec sapientium panis, nec prudentium divitiae, nec scientium gratia. Quoniam tempus, et eventus occurret omnibus illis.<verse eID="Eccl.9.11" />
+        <verse sID="Eccl.9.12" osisID="Eccl.9.12" />Et quidem nescit homo tempus suum, quasi pisces qui retinentur in captione pessima, sicut volucres quae colligantur laqueo, similiter corruent filii hominum in tempore malo, cum ceciderit super ipsos extemplo.<verse eID="Eccl.9.12" />
+        <verse sID="Eccl.9.13" osisID="Eccl.9.13" />Sed et hanc vidi sapientiam sub sole, et magna est apud me,<verse eID="Eccl.9.13" />
+        <verse sID="Eccl.9.14" osisID="Eccl.9.14" />Civitas parva, et viri in ea pauci, et venit ad eam rex magnus, et circumdedit eam, et aedificavit adversus eam machinam magnam.<verse eID="Eccl.9.14" />
+        <verse sID="Eccl.9.15" osisID="Eccl.9.15" />Et invenit in ea virum pauperem et sapientem, et salvavit hic civitatem in sapientia sua, et homo non recordatus est hominis pauperis illius.<verse eID="Eccl.9.15" />
+        <verse sID="Eccl.9.16" osisID="Eccl.9.16" />Et dixi ego, Melior est sapientia super fortitudinem, et sapientia pauperis quae despecta est, et verba eius quae non sunt audita.<verse eID="Eccl.9.16" />
+        <verse sID="Eccl.9.17" osisID="Eccl.9.17" />Verba sapientium in quiete audiuntur, plus quam clamor potestatem habentis in stultis.<verse eID="Eccl.9.17" />
+        <verse sID="Eccl.9.18" osisID="Eccl.9.18" />Melior est sapientia super vasa belli, et peccans unus perdet bonitatem multam.<verse eID="Eccl.9.18" />
+      </p>
+      <chapter eID="Eccl.9" />
+      <chapter sID="Eccl.10" osisID="Eccl.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Eccl.10.1" osisID="Eccl.10.1" />Muscae morientes polluunt oleum compositionis. Pretiosa est super sapientiam et gloriam stultitia parva.<verse eID="Eccl.10.1" />
+        <verse sID="Eccl.10.2" osisID="Eccl.10.2" />Cor sapientis in dextera eius, et cor stulti in sinistra illius.<verse eID="Eccl.10.2" />
+        <verse sID="Eccl.10.3" osisID="Eccl.10.3" />Sed et in via cum stultus ambulat, cor eius minuitur, et dicit, Omnis insipiens est.<verse eID="Eccl.10.3" />
+        <verse sID="Eccl.10.4" osisID="Eccl.10.4" />Si spiritus habentis potestatem ascenderit super te, locum tuum ne dimiseris, quia sanitas requiescere facit peccata magna.<verse eID="Eccl.10.4" />
+        <verse sID="Eccl.10.5" osisID="Eccl.10.5" />Est malum quod vidi sub sole, quasi non spontaneum egrediens a facie potentis,<verse eID="Eccl.10.5" />
+        <verse sID="Eccl.10.6" osisID="Eccl.10.6" />dari stultum in sublimitatibus magnis, et divites in humili sedentes.<verse eID="Eccl.10.6" />
+        <verse sID="Eccl.10.7" osisID="Eccl.10.7" />Vidi servos in equis, et principes ambulantes quasi servos super terram.<verse eID="Eccl.10.7" />
+        <verse sID="Eccl.10.8" osisID="Eccl.10.8" />Qui fodit foveam, in ipsam incidet, et qui dissipat sepem, mordebit eum serpens.<verse eID="Eccl.10.8" />
+        <verse sID="Eccl.10.9" osisID="Eccl.10.9" />Qui subtrahit lapides, dolebit in eis, et qui scindit ligna, periclitabitur in eis.<verse eID="Eccl.10.9" />
+        <verse sID="Eccl.10.10" osisID="Eccl.10.10" />Si retusum fuerit ferrum, et faciem eius turbaverit. Et fortitudine confortabitur, et reliquum fortitudinis sapientia est.<verse eID="Eccl.10.10" />
+        <verse sID="Eccl.10.11" osisID="Eccl.10.11" />Si momorderit serpens in silentio, non est amplius habenti linguam.<verse eID="Eccl.10.11" />
+        <verse sID="Eccl.10.12" osisID="Eccl.10.12" />Verba oris sapientis gratia, et labia insipientis praecipitabunt eum,<verse eID="Eccl.10.12" />
+        <verse sID="Eccl.10.13" osisID="Eccl.10.13" />Initium verborum eius insipientia, et novissimum oris eius error pessimus.<verse eID="Eccl.10.13" />
+        <verse sID="Eccl.10.14" osisID="Eccl.10.14" />Et stultus multiplicat verba. Ignorat homo, quid sit quod factum est, et quod futurum est post eum, quis annuntiabit ei?<verse eID="Eccl.10.14" />
+        <verse sID="Eccl.10.15" osisID="Eccl.10.15" />Labor stultorum affliget eos, qui nesciunt ire in civitatem.<verse eID="Eccl.10.15" />
+        <verse sID="Eccl.10.16" osisID="Eccl.10.16" />Vae tibi terra, cuius rex adolescens, et principes tui mane comedunt.<verse eID="Eccl.10.16" />
+        <verse sID="Eccl.10.17" osisID="Eccl.10.17" />Beata terra, cuius rex tuus filius ingenuorum, et principes tui in tempore comedunt, in fortitudine, et non in confusione.<verse eID="Eccl.10.17" />
+        <verse sID="Eccl.10.18" osisID="Eccl.10.18" />In pigritiis humiliabitur contignatio, et in infirmitate manuum stillabit domus.<verse eID="Eccl.10.18" />
+        <verse sID="Eccl.10.19" osisID="Eccl.10.19" />In risu faciunt panem, et vinum ut epulentur viventes, et argento obediunt omnia.<verse eID="Eccl.10.19" />
+        <verse sID="Eccl.10.20" osisID="Eccl.10.20" />In mente tua regi ne maledixeris, et in secreto cubilis tui ne maledixeris diviti, quia avis coeli auferet vocem, et habens pennas annuntiabit verbum.<verse eID="Eccl.10.20" />
+      </p>
+      <chapter eID="Eccl.10" />
+      <chapter sID="Eccl.11" osisID="Eccl.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Eccl.11.1" osisID="Eccl.11.1" />Mitte panem tuum super faciem aquae, quia in multitudine dierum invenies illum.<verse eID="Eccl.11.1" />
+        <verse sID="Eccl.11.2" osisID="Eccl.11.2" />Da partem septem, et quidem octo, quia non scis quid futurum sit malum super terram.<verse eID="Eccl.11.2" />
+        <verse sID="Eccl.11.3" osisID="Eccl.11.3" />Si repletae fuerint nubes, imbrem super terram effundent, et si ceciderit lignum ad austrum, aut ad aquilonem, in locum ubi ceciderit lignum, ibi erit.<verse eID="Eccl.11.3" />
+        <verse sID="Eccl.11.4" osisID="Eccl.11.4" />Qui observat ventum, non seminabit, et qui aspicit nubes, non metet.<verse eID="Eccl.11.4" />
+        <verse sID="Eccl.11.5" osisID="Eccl.11.5" />Quomodo non cognoscis tu quae sit via spiritus, et sicut ossa in utero praegnantis. Sic nescis opera Dei, qui facit omnia.<verse eID="Eccl.11.5" />
+        <verse sID="Eccl.11.6" osisID="Eccl.11.6" />In matutino semina semen tuum, et ad vesperum ne dimittas manum tuam, quoniam nescis quid placeat, hoc an illud. Et si utrumque, quasi unum bonum est.<verse eID="Eccl.11.6" />
+        <verse sID="Eccl.11.7" osisID="Eccl.11.7" />Et dulce lumen, et bonum oculis videre solem.<verse eID="Eccl.11.7" />
+        <verse sID="Eccl.11.8" osisID="Eccl.11.8" />Quia si annis multis vixerit homo, in omnibus his laetetur, et meminerit dies tenebrarum, quia plurimae erunt, omne quod venturum, est vanitas.<verse eID="Eccl.11.8" />
+        <verse sID="Eccl.11.9" osisID="Eccl.11.9" />Laetare adolescens in iuventute tua, et in bono sit cor tuum in diebus iuventutis tuae, et ambula in viis cordis tui, et in intuitu oculorum tuorum, et scito hoc, quia super omnibus his adducet te Deus in iudicium.<verse eID="Eccl.11.9" />
+        <verse sID="Eccl.11.10" osisID="Eccl.11.10" />Et repelle iram a corde tuo, et aufer malitiam a carne tua, quia adolescentia, et stultitia vanitas est.<verse eID="Eccl.11.10" />
+      </p>
+      <chapter eID="Eccl.11" />
+      <chapter sID="Eccl.12" osisID="Eccl.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Eccl.12.1" osisID="Eccl.12.1" />Et memento Creatoris tui in diebus iuventutis tuae, antequam veniant dies malitiae, et appropinquent anni, in quibus dices, Non est mihi in illis voluntas,<verse eID="Eccl.12.1" />
+        <verse sID="Eccl.12.2" osisID="Eccl.12.2" />antequam obtenebrescat sol, et lumen, et luna, et stellae, et revertantur nubes post pluviam,<verse eID="Eccl.12.2" />
+        <verse sID="Eccl.12.3" osisID="Eccl.12.3" />in die, quo moti fuerint custodes domus, et perierint viri fortitudinis, et cessabunt molentes, quoniam imminutae sunt, et contenebrescent quae vident in foraminibus,<verse eID="Eccl.12.3" />
+        <verse sID="Eccl.12.4" osisID="Eccl.12.4" />et claudent ostia in platea, in humilitate vocis molentis, et consurget ad vocem volucris, et obmutescent omnes filiae carminis.<verse eID="Eccl.12.4" />
+        <verse sID="Eccl.12.5" osisID="Eccl.12.5" />Sed et ab excelsis timebunt, et formidabunt in via, et florebit amygdalum, et impinguabitur locusta, et dissipabitur capparis, quoniam ibit homo in domum aeternitatis suae, et circumibunt in platea plangentes.<verse eID="Eccl.12.5" />
+        <verse sID="Eccl.12.6" osisID="Eccl.12.6" />Antequam rumpatur funiculus argenti, et recurrat vitta aurea, et conteratur hydria super fontem, et confringatur rota super lacum,<verse eID="Eccl.12.6" />
+        <verse sID="Eccl.12.7" osisID="Eccl.12.7" />et revertatur pulvis in terram suam sicut erat, et spiritus redeat ad Deum, qui dedit illum.<verse eID="Eccl.12.7" />
+        <verse sID="Eccl.12.8" osisID="Eccl.12.8" />Vanitas vanitatum, dixit Ecclesiastes, universa vanitas.<verse eID="Eccl.12.8" />
+        <verse sID="Eccl.12.9" osisID="Eccl.12.9" />Et amplius quia factus est Ecclesiastes sapiens, adhuc docuit scientiam populum, et audire eos fecit, et scrutans composuit proverbia.<verse eID="Eccl.12.9" />
+        <verse sID="Eccl.12.10" osisID="Eccl.12.10" />Multam quaesivit Ecclesiastes, ut inveniret verba voluntatis, et scriberet recte verba veritatis.<verse eID="Eccl.12.10" />
+        <verse sID="Eccl.12.11" osisID="Eccl.12.11" />Verba sapientum ut stimuli, et quasi clavi in altum defixi, habentibus coetus data sunt a pastore uno.<verse eID="Eccl.12.11" />
+        <verse sID="Eccl.12.12" osisID="Eccl.12.12" />Et amplius ab his fili mi cave. Faciendi multos libros non est finis, et meditatio plurima, labor est carnis.<verse eID="Eccl.12.12" />
+        <verse sID="Eccl.12.13" osisID="Eccl.12.13" />Finis sermonis verbi universi auditu perfacilis est. Deum time, et mandata eius custodi, hoc est enim omnis homo,<verse eID="Eccl.12.13" />
+        <verse sID="Eccl.12.14" osisID="Eccl.12.14" />quia omne factum Deus adducet in iudicium de omni contemptu, sive bonum, sive malum sit.<verse eID="Eccl.12.14" />
+      </p>
+      <chapter eID="Eccl.12" />
+    </div>
+  </osisText>
+</osis>

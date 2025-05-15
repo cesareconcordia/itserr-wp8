@@ -1,0 +1,707 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Jeremiah" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Jeremiah">
+        <title>jeremiah</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Jeremiah</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>jeremiah</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Jeremiah">
+      <title>jeremiah</title>
+      <chapter sID="Jeremiah.1" osisID="Jeremiah.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Jeremiah.1.1" osisID="Jeremiah.1.1" />Verbum Dei quod factum est ad Ieremiahsalem ...<verse eID="Jeremiah.1.1" />
+        <verse sID="Jeremiah.1.3" osisID="Jeremiah.1.3" />... usque ad captivitatem Ieremiahsalem ...<verse eID="Jeremiah.1.3" />
+        <verse sID="Jeremiah.1.5" osisID="Jeremiah.1.5" />Priusquam te formarem in utero, novi te, et priusquam exires de vulva, sanctificavi te, et prophetam in Gentibus posui te.<verse eID="Jeremiah.1.5" />
+        <verse sID="Jeremiah.1.6" osisID="Jeremiah.1.6" />Et dixi, Quis es Dominator Domine, ecce nescio loqui, quia iuvenior sum ego.<verse eID="Jeremiah.1.6" />
+        <verse sID="Jeremiah.1.7" osisID="Jeremiah.1.7" />Et dixit Dominus, Noli dicere, Quia iuvenior sum ego, quia ad omnes, quoscunque misero te, abibis, et secundum omnia quaecunque mandavero tibi, loqueris.<verse eID="Jeremiah.1.7" />
+        <verse sID="Jeremiah.1.8" osisID="Jeremiah.1.8" />Ne timeas a facie eorum, quia ego tecum sum, dicit Dominus, ut liberem te.<verse eID="Jeremiah.1.8" />
+        <verse sID="Jeremiah.1.9" osisID="Jeremiah.1.9" />Extendit Dominus manum suam ad me, et tetigit os meum, et dixit ad me, Ecce dedi verba mea in os tuum,<verse eID="Jeremiah.1.9" />
+        <verse sID="Jeremiah.1.10" osisID="Jeremiah.1.10" />ecce statui te super gentes, et regna, eradicare, et demolire, et perdere, et exterminare, et aedificare, et circumplantare.<verse eID="Jeremiah.1.10" />
+        <verse sID="Jeremiah.1.11" osisID="Jeremiah.1.11" />... Qui tu vides Ieremiahmia? ... Baculum nuceum ...<verse eID="Jeremiah.1.11" />
+        <verse sID="Jeremiah.1.12" osisID="Jeremiah.1.12" />... Bene vidisti, quia vigilabo ego super verbum meum ut faciam illud.<verse eID="Jeremiah.1.12" />
+        <verse sID="Jeremiah.1.14" osisID="Jeremiah.1.14" />... Ab Aquilone exardescent mala super omnes habitatores terrae.<verse eID="Jeremiah.1.14" />
+        <verse sID="Jeremiah.1.17" osisID="Jeremiah.1.17" />Et tu accinge lumbos tuos, et surge, et dic omnia quaecunque mandavi tibi. Ne timeas a facie eorum, nec formides in conspectu eorum, quia tecum sum, ut liberem te, dicit Dominus.<verse eID="Jeremiah.1.17" />
+        <verse sID="Jeremiah.1.18" osisID="Jeremiah.1.18" />Ecce posui te in hodierna die sicut civitatem firmatam, et sicut murum aereum firmum, omnibus regibus Iuda, et principibus eius, et plebi terrae.<verse eID="Jeremiah.1.18" />
+        <verse sID="Jeremiah.1.19" osisID="Jeremiah.1.19" />Et pugnabunt contra te, et non poterunt adversum te, quia ego tecum sum, ut liberem te, dicit Dominus.<verse eID="Jeremiah.1.19" />
+      </p>
+      <chapter eID="Jeremiah.1" />
+      <chapter sID="Jeremiah.2" osisID="Jeremiah.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Jeremiah.2.2" osisID="Jeremiah.2.2" />... Haec dicit Dominus, Recordatus sum misericordiae adolescentiae tuae, et dilectionis perfectionis tuae ...<verse eID="Jeremiah.2.2" />
+        <verse sID="Jeremiah.2.3" osisID="Jeremiah.2.3" />Sanctus Israel Domino, initium generationum eius, omnes, qui edunt eum, poenitebunt, mala inducam super eos, dicit Dominus.<verse eID="Jeremiah.2.3" />
+        <verse sID="Jeremiah.2.4" osisID="Jeremiah.2.4" />Audite verbum Domini domus Iacob, et omnis domus Israel,<verse eID="Jeremiah.2.4" />
+        <verse sID="Jeremiah.2.5" osisID="Jeremiah.2.5" />haec dicit Dominus, Quid invenerunt in me patres vestri contumaciae, quod recesserunt longe a me, et abierunt post supervacua, et frustrati sunt?<verse eID="Jeremiah.2.5" />
+        <verse sID="Jeremiah.2.6" osisID="Jeremiah.2.6" />Et non dixerunt, Ubi est Deus, qui liberavit nos de terra Aegypti, qui eduxit nos, ducatum praebens in deserto, in terra inculta et ignota, et in terra sine aqua et sine fructu, in terra, in quam nemo commeavit vir, neque commoratus est ibi filius hominis?<verse eID="Jeremiah.2.6" />
+        <verse sID="Jeremiah.2.7" osisID="Jeremiah.2.7" />Et induxit vos in Carmelum, ut manducaretis fructum eius, et bona eius, et intrastis, et coinquinastis terram, et haereditatem meam posuistis in exterminationem.<verse eID="Jeremiah.2.7" />
+        <verse sID="Jeremiah.2.8" osisID="Jeremiah.2.8" />Sacerdotes non dixerunt, Ubi est Dominus? Et seniores legis meae nescierunt me, et pastores impie egerunt in me, et prophetae prophetaverunt in Baal, et post inutilia abierunt.<verse eID="Jeremiah.2.8" />
+        <verse sID="Jeremiah.2.10" osisID="Jeremiah.2.10" />Circuite insulam Cethim, et videte, et in Cedar mittite, et intelligite vehementer, et videte si facta sunt talia.<verse eID="Jeremiah.2.10" />
+        <verse sID="Jeremiah.2.11" osisID="Jeremiah.2.11" />Si mutabunt gentes deos suos, et isti non sunt dii, populus autem meus mutavit gloriam suam, ex quo nihil proderit eis.<verse eID="Jeremiah.2.11" />
+        <verse sID="Jeremiah.2.12" osisID="Jeremiah.2.12" />Obstupuit coelum super hoc, et inhorruit extra modum et vehementer, dicit Dominus.<verse eID="Jeremiah.2.12" />
+        <verse sID="Jeremiah.2.13" osisID="Jeremiah.2.13" />Duo haec mala fecit populus, Me dereliquerunt fontem aquae vivae, foderunt sibi lacus contribulatos, qui non poterant aquam continere.<verse eID="Jeremiah.2.13" />
+        <verse sID="Jeremiah.2.18" osisID="Jeremiah.2.18" />Et nunc quid tibi est, et viae Aegypti, ut bibas aquam Geon? Et quid tibi est, et viae Assyriorum, ut bibas aquam fluminum?<verse eID="Jeremiah.2.18" />
+        <verse sID="Jeremiah.2.19" osisID="Jeremiah.2.19" />Verberavit te delictio tua, et nequitia tua accusavit te. Et scito, et vide, quia amarum tibi erit quod dereliqueris me, dicit Dominus Deus tuus, et non speraveris in me, dicit Dominus Deus tuus.<verse eID="Jeremiah.2.19" />
+        <verse sID="Jeremiah.2.20" osisID="Jeremiah.2.20" />Quia in saeculum contribulasti iugum meum, et dirupisti vincula tua, et dixisti, Non serviam, sed ibo super omnem montem excelsum, et super omnem collem altum, et super omne lignum umbrosum, ibi confundar in fornicatione.<verse eID="Jeremiah.2.20" />
+        <verse sID="Jeremiah.2.21" osisID="Jeremiah.2.21" />Ego autem plantavi te vineam frugiferam, omnem veram, quomodo conversa es in amaritudinem vitis aliena?<verse eID="Jeremiah.2.21" />
+        <verse sID="Jeremiah.2.23" osisID="Jeremiah.2.23" />... vide vias tuas in sepulcro multitudinis, scito quid feceris, ad vesperam vox eius ululavit,<verse eID="Jeremiah.2.23" />
+        <verse sID="Jeremiah.2.24" osisID="Jeremiah.2.24" />vias suas dilatavit super aquas solitudinis, in desiderio animae suae spiritu portabatur, tradita est, quis convertet eam? Omnes qui quaerunt illam, non laborabunt, et in humilitate illius reperient illam.<verse eID="Jeremiah.2.24" />
+        <verse sID="Jeremiah.2.25" osisID="Jeremiah.2.25" />Averte pedem tuum ab aspera via, et faucem tuam a siti. Quae autem dixit, Confortabor, quia dilexit exteros, et post illos abibat.<verse eID="Jeremiah.2.25" />
+        <verse sID="Jeremiah.2.26" osisID="Jeremiah.2.26" />Quemadmodum confunditur fur cum comprehensus fuerit, sic confundentur filii Israel, ipsi et reges eorum, et principes ipsorum, et sacerdotes ipsorum, et prophetae.<verse eID="Jeremiah.2.26" />
+        <verse sID="Jeremiah.2.27" osisID="Jeremiah.2.27" />Ligno et lapidi dixerunt, Quia pater meus es tu, et lapidi, Tu genuisti me, et converterunt ad me dorsum, et non faciem suam ...<verse eID="Jeremiah.2.27" />
+        <verse sID="Jeremiah.2.28" osisID="Jeremiah.2.28" />Ubi sunt dii tui, quos feceras? Resurgant, et salvam te faciant in tempore malorum tuorum ... et iuxta numerum viarum Ieremiahsalem immolabant Baal.<verse eID="Jeremiah.2.28" />
+        <verse sID="Jeremiah.2.29" osisID="Jeremiah.2.29" />Ut quid loquimini ad me? Omnes vos impie egistis, et omnes vos deliquistis in me, dicit Dominus.<verse eID="Jeremiah.2.29" />
+        <verse sID="Jeremiah.2.30" osisID="Jeremiah.2.30" />Sine causa percussi filios vestros, disciplinam non recepistis, devoravit gladius prophetas vestros quasi leo vastator,<verse eID="Jeremiah.2.30" />
+        <verse sID="Jeremiah.2.31" osisID="Jeremiah.2.31" />et non timuistis. Audite verbum Domini, haec dicit Dominus, Nunquid solitudo factus sum Israeli, aut terra plena sentium, quia dixit populus meus, Non serviemus, nec veniemus ad te?<verse eID="Jeremiah.2.31" />
+        <verse sID="Jeremiah.2.32" osisID="Jeremiah.2.32" />Si oblivisci potest sponsa ornatus sui, aut virgo fasciae pectoralis suae. Et ego obliviscar tui, dicit Dominus.<verse eID="Jeremiah.2.32" />
+        <verse sID="Jeremiah.2.33" osisID="Jeremiah.2.33" />... tu malignatus es, ut coinquinares vias tuas,<verse eID="Jeremiah.2.33" />
+        <verse sID="Jeremiah.2.34" osisID="Jeremiah.2.34" />et in manibus tuis inventus est sanguis animarum innocentium, non in foveis inveni eos, sed sub omni quercu.<verse eID="Jeremiah.2.34" />
+        <verse sID="Jeremiah.2.36" osisID="Jeremiah.2.36" />Quomodo contempsisti nimis ...<verse eID="Jeremiah.2.36" />
+      </p>
+      <chapter eID="Jeremiah.2" />
+      <chapter sID="Jeremiah.3" osisID="Jeremiah.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Jeremiah.3.1" osisID="Jeremiah.3.1" />Tantum dicitur, Si contaminata fuerit mulier, nunquid revertetur ad eam vir suus? Et tu fornicata es in pastoribus multis, et sic revertere ad me, dicit Dominus.<verse eID="Jeremiah.3.1" />
+        <verse sID="Jeremiah.3.2" osisID="Jeremiah.3.2" />... quasi cornix deserta, et interfecisti ...<verse eID="Jeremiah.3.2" />
+        <verse sID="Jeremiah.3.3" osisID="Jeremiah.3.3" />et habuisti pastores multos in offensionem tui, facies meretricis facta est tibi, sine rubore facta es ad omnes.<verse eID="Jeremiah.3.3" />
+        <verse sID="Jeremiah.3.4" osisID="Jeremiah.3.4" />Non ut Dominum me vocasti, et patrem, et principem virginitatis tuae.<verse eID="Jeremiah.3.4" />
+        <verse sID="Jeremiah.3.6" osisID="Jeremiah.3.6" />... Vidisti quae fecit mihi habitatio domus Israel? Abiit super omnem montem excelsum, et subtus omne lignum nemorosum, et fornicata est illic in idolis, et moechabatur lignum et lapidem.<verse eID="Jeremiah.3.6" />
+        <verse sID="Jeremiah.3.7" osisID="Jeremiah.3.7" />Et dixi, postquam haec omnia fornicata est, Revertere ad me, et non est conversa ...<verse eID="Jeremiah.3.7" />
+        <verse sID="Jeremiah.3.8" osisID="Jeremiah.3.8" />... et dimisi eam, et dedi ei libellum repudii ...<verse eID="Jeremiah.3.8" />
+        <verse sID="Jeremiah.3.9" osisID="Jeremiah.3.9" />... et moechata est in lignum et lapidem.<verse eID="Jeremiah.3.9" />
+        <verse sID="Jeremiah.3.10" osisID="Jeremiah.3.10" />Et in his omnibus non est reversa ad me ...<verse eID="Jeremiah.3.10" />
+        <verse sID="Jeremiah.3.12" osisID="Jeremiah.3.12" />Vade, et lege sermones istos ad Aquilonem, et dic, Convertere ad me domus Israel, dicit Dominus, et non firmabo faciem meam in vos, quia misericors ego sum, dicit Dominus, et non irascar vobis in aevum.<verse eID="Jeremiah.3.12" />
+        <verse sID="Jeremiah.3.13" osisID="Jeremiah.3.13" />Veruntamen cognosce delictum tuum, impie egisti, et posuisti vias tuas in alienos subtus omne lignum nemorosum ...<verse eID="Jeremiah.3.13" />
+        <verse sID="Jeremiah.3.14" osisID="Jeremiah.3.14" />Convertimini filii vagi et recedentes, dicit Dominus, quia ego dominator vestri, et assumam vos unum de civitate, et duos de cognatione, et introducam vos in Sion.<verse eID="Jeremiah.3.14" />
+        <verse sID="Jeremiah.3.15" osisID="Jeremiah.3.15" />Et dabo vobis pastores secundum cor meum, et pascent vos pascentes cum disciplina.<verse eID="Jeremiah.3.15" />
+        <verse sID="Jeremiah.3.19" osisID="Jeremiah.3.19" />... et dabo tibi ... haereditatem nominatam Dei omnipotentis gentium ...<verse eID="Jeremiah.3.19" />
+        <verse sID="Jeremiah.3.22" osisID="Jeremiah.3.22" />Convertimini ad me filii convertentes, et ego sanabo contritiones vestras ...<verse eID="Jeremiah.3.22" />
+      </p>
+      <chapter eID="Jeremiah.3" />
+      <chapter sID="Jeremiah.4" osisID="Jeremiah.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Jeremiah.4.1" osisID="Jeremiah.4.1" />Si conversus fuerit Israel, ait Dominus, ad me convertetur ...<verse eID="Jeremiah.4.1" />
+        <verse sID="Jeremiah.4.3" osisID="Jeremiah.4.3" />Haec dicit Dominus viris Iuda, et qui inhabitant Ieremiahsalem, Renovate inter vos novitatem, et ne seminaveritis in spinis,<verse eID="Jeremiah.4.3" />
+        <verse sID="Jeremiah.4.4" osisID="Jeremiah.4.4" />circumcidite vos Deo vestro, et circumcidite praeputium cordis vestri, ne exeat sicut ignis ira mea, et exurat, et non sit qui exstinguat a facie nequitiae adinventionum vestrarum.<verse eID="Jeremiah.4.4" />
+        <verse sID="Jeremiah.4.10" osisID="Jeremiah.4.10" />... O Domine Deus ...<verse eID="Jeremiah.4.10" />
+        <verse sID="Jeremiah.4.19" osisID="Jeremiah.4.19" />Ventrem meum doleo, ventrem meum doleo ...<verse eID="Jeremiah.4.19" />
+        <verse sID="Jeremiah.4.22" osisID="Jeremiah.4.22" />Qui praesunt populo meo, me nesciebant, filii insensati, et imprudentes sunt, sapientes sunt in malefaciendo, bene autem facere non cognoverunt.<verse eID="Jeremiah.4.22" />
+        <verse sID="Jeremiah.4.29" osisID="Jeremiah.4.29" />A voce equitis et intendentis arcum, fugit omnis regio, et ingressi sunt saltus, sive speluncas ...<verse eID="Jeremiah.4.29" />
+      </p>
+      <chapter eID="Jeremiah.4" />
+      <chapter sID="Jeremiah.5" osisID="Jeremiah.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Jeremiah.5.1" osisID="Jeremiah.5.1" />Circuite vias Ieremiahsalem, et videte, et quaerite in plateis eius, et cognoscite, si invenietis hominem facientem iustitiam, et quaerentem fidem, et propitius ero peccatis eorum.<verse eID="Jeremiah.5.1" />
+        <verse sID="Jeremiah.5.2" osisID="Jeremiah.5.2" />Quamvis enim dicant, Vivit Dominus, fraudulenter iurant, et hoc ipsum in mendacio.<verse eID="Jeremiah.5.2" />
+        <verse sID="Jeremiah.5.3" osisID="Jeremiah.5.3" />... verberasti eos, nec doluerunt, flagellasti eos, nec voluerunt accipere disciplinam ...<verse eID="Jeremiah.5.3" />
+        <verse sID="Jeremiah.5.6" osisID="Jeremiah.5.6" />... percussit eos leo de silva, et lupus usque ad domos disperdidit eos, et pardus vigilavit super civitates eorum, omnes, qui egrediuntur ex eis, capientur ...<verse eID="Jeremiah.5.6" />
+        <verse sID="Jeremiah.5.8" osisID="Jeremiah.5.8" />Equi furentes circa feminas facti sunt, Unusquisque ad uxorem proximi sui hinniebat.<verse eID="Jeremiah.5.8" />
+        <verse sID="Jeremiah.5.10" osisID="Jeremiah.5.10" />Ascendite propugnacula ... auferte sustentacula ...<verse eID="Jeremiah.5.10" />
+        <verse sID="Jeremiah.5.12" osisID="Jeremiah.5.12" />... et dixerunt, Non sunt haec ...<verse eID="Jeremiah.5.12" />
+        <verse sID="Jeremiah.5.14" osisID="Jeremiah.5.14" />... ecce do tibi in os verba mea in ignem ...<verse eID="Jeremiah.5.14" />
+        <verse sID="Jeremiah.5.16" osisID="Jeremiah.5.16" />Universi fortes.<verse eID="Jeremiah.5.16" />
+        <verse sID="Jeremiah.5.19" osisID="Jeremiah.5.19" />... servistis diis alienis ...<verse eID="Jeremiah.5.19" />
+        <verse sID="Jeremiah.5.22" osisID="Jeremiah.5.22" />Me non timebitis, dicit Dominus, et a facie mea non formidabitis? Qui posui arenas terminum mari, praeceptum sempiternum, quod non praeteribit, et turbabitur, et non poterit, et sonabunt fluctus eius ...<verse eID="Jeremiah.5.22" />
+        <verse sID="Jeremiah.5.25" osisID="Jeremiah.5.25" />Iniquitates nostrae declinaverunt ista, et peccata nostra amoverunt bona a nobis,<verse eID="Jeremiah.5.25" />
+        <verse sID="Jeremiah.5.26" osisID="Jeremiah.5.26" />Quia inventi sunt in populo meo impii, et laqueos statuerunt ad dispergendos viros, et comprehenderunt.<verse eID="Jeremiah.5.26" />
+        <verse sID="Jeremiah.5.27" osisID="Jeremiah.5.27" />Ut laqueus instans plenus volatilibus, sic domus eorum plenae dolo.<verse eID="Jeremiah.5.27" />
+        <verse sID="Jeremiah.5.30" osisID="Jeremiah.5.30" />Pavor et horrenda facta sunt super terram,<verse eID="Jeremiah.5.30" />
+        <verse sID="Jeremiah.5.31" osisID="Jeremiah.5.31" />prophetae prophetabunt iniqua, et sacerdotes plausum dederunt manibus suis, et plebs mea dilexit sic, et quid facietis in futurum?<verse eID="Jeremiah.5.31" />
+      </p>
+      <chapter eID="Jeremiah.5" />
+      <chapter sID="Jeremiah.6" osisID="Jeremiah.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Jeremiah.6.6" osisID="Jeremiah.6.6" />... Caedite ligna eius, et comportate ... civitas mendax, omnis oppressio in medio eius.<verse eID="Jeremiah.6.6" />
+        <verse sID="Jeremiah.6.7" osisID="Jeremiah.6.7" />Sicut refrigerat lacus aquam, sic refrigerat malitia habentes se, impietas et miseria audietur in ea contra faciem eius.<verse eID="Jeremiah.6.7" />
+        <verse sID="Jeremiah.6.8" osisID="Jeremiah.6.8" />Per omnem dolorem et flagellum erudieris Ieremiahsalem, ne forte recedat anima mea a te, ne faciam te inviam terram, quae non habitetur.<verse eID="Jeremiah.6.8" />
+        <verse sID="Jeremiah.6.9" osisID="Jeremiah.6.9" />Quia haec dicit Dominus virtutum, Racemate, racemate quasi in vinea reliquias Israel, revertimini quasi vindemiator in cartallum suum.<verse eID="Jeremiah.6.9" />
+        <verse sID="Jeremiah.6.10" osisID="Jeremiah.6.10" />... ecce sermo Domini factus est eis in maledictum, et non volunt illum.<verse eID="Jeremiah.6.10" />
+        <verse sID="Jeremiah.6.11" osisID="Jeremiah.6.11" />Et furorem meum implevi, et sustinui, et non consumpsi eum ...<verse eID="Jeremiah.6.11" />
+        <verse sID="Jeremiah.6.13" osisID="Jeremiah.6.13" />A pusillo eorum usque ad magnum cuncti perpetrarunt iniqua, a sacerdote usque ad pseudoprophetam universi operati sunt falsa.<verse eID="Jeremiah.6.13" />
+        <verse sID="Jeremiah.6.14" osisID="Jeremiah.6.14" />Et meditabantur obtritionem populi mei, pro nihilo constituentes, et dicentes, Pax, pax, et ubi est pax?<verse eID="Jeremiah.6.14" />
+        <verse sID="Jeremiah.6.15" osisID="Jeremiah.6.15" />Confusi sunt, quoniam defecerunt, et ne sic quidem confusionem sustinentes, convenerunt, et ignominiam suam non cognoverunt, propterea cadent in ruina sua, et in tempore visitationis infirmabuntur ...<verse eID="Jeremiah.6.15" />
+        <verse sID="Jeremiah.6.16" osisID="Jeremiah.6.16" />... State in viis, et videte, et interrogate semitas Domini sempiternas, quae sit via bona, et ambulate in ea, et invenietis purificationem animarum vestrarum. Et dixerunt, Non ibimus.<verse eID="Jeremiah.6.16" />
+        <verse sID="Jeremiah.6.17" osisID="Jeremiah.6.17" />Constitui super vos exploratores. Audite vocem tubae. Et dixerunt, Non audiemus.<verse eID="Jeremiah.6.17" />
+        <verse sID="Jeremiah.6.18" osisID="Jeremiah.6.18" />Propter hoc audierunt gentes, et qui pascunt pecora in eis.<verse eID="Jeremiah.6.18" />
+        <verse sID="Jeremiah.6.20" osisID="Jeremiah.6.20" />Quo mihi thus de Saba affertis, et cinnamomum de terra longinqua? Holocaustomata, et sacrificia vestra non delectaverunt me.<verse eID="Jeremiah.6.20" />
+        <verse sID="Jeremiah.6.21" osisID="Jeremiah.6.21" />Propterea haec dicit Dominus, Ecce ego dabo in populum istum infirmitatem, et infirmabuntur in ea ...<verse eID="Jeremiah.6.21" />
+        <verse sID="Jeremiah.6.26" osisID="Jeremiah.6.26" />Filia populi mei accingere cilicio, et conspergere cinere, luctum dilecti fac tibi, planctum miserabilem, quia repente veniet miseria super vos.<verse eID="Jeremiah.6.26" />
+        <verse sID="Jeremiah.6.28" osisID="Jeremiah.6.28" />Omnes inobedientes, ambulantes perverse, aes et ferrum, universi corrupti sunt.<verse eID="Jeremiah.6.28" />
+        <verse sID="Jeremiah.6.30" osisID="Jeremiah.6.30" />Argentum vestrum reprobum est ...<verse eID="Jeremiah.6.30" />
+      </p>
+      <chapter eID="Jeremiah.6" />
+      <chapter sID="Jeremiah.7" osisID="Jeremiah.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Jeremiah.7.2" osisID="Jeremiah.7.2" />Audite sermonem Domini omnis Iuda,<verse eID="Jeremiah.7.2" />
+        <verse sID="Jeremiah.7.3" osisID="Jeremiah.7.3" />Haec dicit Dominus Deus Israel, Dirigite vias vestras, et studia vestra, et constituam vos in loco isto.<verse eID="Jeremiah.7.3" />
+        <verse sID="Jeremiah.7.4" osisID="Jeremiah.7.4" />Ne confisi fueritis vobismet in sermonibus mendacibus, quoniam in totum non proderunt vobis, dicentes, Templum Domini, templum Domini est.<verse eID="Jeremiah.7.4" />
+        <verse sID="Jeremiah.7.5" osisID="Jeremiah.7.5" />... si emendantes emendaveritis vias vestras, et cogitationes vestras, et facientes feceritis iudicium inter virum et proximum eius,<verse eID="Jeremiah.7.5" />
+        <verse sID="Jeremiah.7.6" osisID="Jeremiah.7.6" />et proselytum, et pauperem, et viduam non potentabitis, sanguinem innocentis non effuderitis in hoc loco, et post alienos deos non abibitis ...<verse eID="Jeremiah.7.6" />
+        <verse sID="Jeremiah.7.7" osisID="Jeremiah.7.7" />et habitare vos faciam ...<verse eID="Jeremiah.7.7" />
+        <verse sID="Jeremiah.7.11" osisID="Jeremiah.7.11" />Nunquid spelunca latronum est domus mea, in qua vocatum est nomen meum ...<verse eID="Jeremiah.7.11" />
+        <verse sID="Jeremiah.7.14" osisID="Jeremiah.7.14" />Et faciam domui, ubi invocatum est nomen meum super ipsam, in qua confiditis vos. Et loco, quem dedi vobis et patribus vestris, sicut feci Selon.<verse eID="Jeremiah.7.14" />
+        <verse sID="Jeremiah.7.15" osisID="Jeremiah.7.15" />Et proiiciam vos a facie mea, sicut proieci fratres vestros, omne semen Ephraem.<verse eID="Jeremiah.7.15" />
+        <verse sID="Jeremiah.7.16" osisID="Jeremiah.7.16" />Et tu noli orare pro populo isto, et noli postulare illis misericordiam, et neque accesseris ad me pro illis, quia non exaudiam te.<verse eID="Jeremiah.7.16" />
+        <verse sID="Jeremiah.7.17" osisID="Jeremiah.7.17" />Aut non vides quid isti faciunt in civitatibus Iuda? ...<verse eID="Jeremiah.7.17" />
+        <verse sID="Jeremiah.7.21" osisID="Jeremiah.7.21" />Haec dicit Dominus, Holocaustomata vestra colligite cum sacrificiis vestris, et manducate carnes.<verse eID="Jeremiah.7.21" />
+        <verse sID="Jeremiah.7.22" osisID="Jeremiah.7.22" />Quoniam non sum locutus ad patres vestros, nec de holocaustomatibus et sacrificiis praecepi eis, qua die eduxi eos de Aegypto.<verse eID="Jeremiah.7.22" />
+        <verse sID="Jeremiah.7.23" osisID="Jeremiah.7.23" />Sed sermonem hunc praecepi eis, dicens, Audite vocem meam, et ero Deus vester, et vos eritis populus meus, et ambulate in omnibus viis meis, quascunque praecepero vobis, ut bene sit vobis.<verse eID="Jeremiah.7.23" />
+        <verse sID="Jeremiah.7.24" osisID="Jeremiah.7.24" />Et non obaudierunt, nec intenderunt, sed ambulaverunt in cogitationibus cordis malitiae suae, et facti sunt retrorsum et non ad priora.<verse eID="Jeremiah.7.24" />
+        <verse sID="Jeremiah.7.25" osisID="Jeremiah.7.25" />... Et misi ad vos omnes servos meos prophetas inter diem, et ante lucem.<verse eID="Jeremiah.7.25" />
+        <verse sID="Jeremiah.7.26" osisID="Jeremiah.7.26" />Et non obedierunt mihi, neque intenderunt aures ipsorum ...<verse eID="Jeremiah.7.26" />
+        <verse sID="Jeremiah.7.27" osisID="Jeremiah.7.27" />Et dices eis hunc sermonem,<verse eID="Jeremiah.7.27" />
+        <verse sID="Jeremiah.7.28" osisID="Jeremiah.7.28" />Hoc genus, quod non obedivit voci Domini, neque recepit disciplinam, defecit fides ex ore ipsorum.<verse eID="Jeremiah.7.28" />
+        <verse sID="Jeremiah.7.29" osisID="Jeremiah.7.29" />... reprobavit Dominus, et abiecit gentem facientem haec,<verse eID="Jeremiah.7.29" />
+        <verse sID="Jeremiah.7.30" osisID="Jeremiah.7.30" />quoniam fecerunt filii Iuda malignum in conspectu meo, dicit Dominus ...<verse eID="Jeremiah.7.30" />
+      </p>
+      <chapter eID="Jeremiah.7" />
+      <chapter sID="Jeremiah.8" osisID="Jeremiah.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Jeremiah.8.4" osisID="Jeremiah.8.4" />Haec dicit Dominus, Nunquid qui cadit, non surget? Aut qui avertitur, non convertetur?<verse eID="Jeremiah.8.4" />
+        <verse sID="Jeremiah.8.5" osisID="Jeremiah.8.5" />Quare ergo aversus est populus iste in Ieremiahsalem aversione contentiosa? Induraverunt cervices suas, noluerunt reverti.<verse eID="Jeremiah.8.5" />
+        <verse sID="Jeremiah.8.7" osisID="Jeremiah.8.7" />Cognovit milvus tempus suum, turtur, et hirundo, ruris passeres custodierunt tempora introitus sui, populus autem meus non cognovit iudicium Domini.<verse eID="Jeremiah.8.7" />
+        <verse sID="Jeremiah.8.8" osisID="Jeremiah.8.8" />Quomodo dicitis, Sapientis sumus, et lex Domini nobiscum est? Incassum facta est metatura falsa scribae.<verse eID="Jeremiah.8.8" />
+        <verse sID="Jeremiah.8.9" osisID="Jeremiah.8.9" />Confusi sunt sapientes, trepidaverunt, et capti sunt, quia verbum Domini reprobaverunt ...<verse eID="Jeremiah.8.9" />
+        <verse sID="Jeremiah.8.14" osisID="Jeremiah.8.14" />Quare sedemus? Convenite, et ingrediamur civitates munitas, et proiiciamur ibi, quia Dominus noster abiecit nos, et potum dedit nobis aquam fellis ...<verse eID="Jeremiah.8.14" />
+        <verse sID="Jeremiah.8.16" osisID="Jeremiah.8.16" />Ex Dan audiemus vocem velocitatis equorum eius, a voce hinnitus decursionis equorum eius commovebitur tota tetra, et veniet, et manducabit terram, et plenitudinem eius. Et civitatem, et qui habitant in ea.<verse eID="Jeremiah.8.16" />
+        <verse sID="Jeremiah.8.17" osisID="Jeremiah.8.17" />Quia ecce ego mittam vobis serpentes mortiferos, quibus non est incantatio, et mordebunt vos, ait Dominus, insanabiliter,<verse eID="Jeremiah.8.17" />
+        <verse sID="Jeremiah.8.18" osisID="Jeremiah.8.18" />cum dolore cordis vestri deficietis.<verse eID="Jeremiah.8.18" />
+        <verse sID="Jeremiah.8.22" osisID="Jeremiah.8.22" />Nunquid resina non est in Galaad? Aut medicus non est ibi? Quare non ascendit sanitas filiae populi mei?<verse eID="Jeremiah.8.22" />
+      </p>
+      <chapter eID="Jeremiah.8" />
+      <chapter sID="Jeremiah.9" osisID="Jeremiah.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Jeremiah.9.1" osisID="Jeremiah.9.1" />Quis dabit capiti meo aquam, et oculis meis fontem lacrymarum? Et plorabo in die et nocte interfectos populi mei.<verse eID="Jeremiah.9.1" />
+        <verse sID="Jeremiah.9.2" osisID="Jeremiah.9.2" />Quis det mihi in solitudine mansionem novissimam, ut relinquam populum meum, et recedam ab eis? ...<verse eID="Jeremiah.9.2" />
+        <verse sID="Jeremiah.9.3" osisID="Jeremiah.9.3" />Extendit linguam suam sicut arcum in falso, et fides non invaluit super terram, quia de malis mala exierunt, et me nescierunt ...<verse eID="Jeremiah.9.3" />
+        <verse sID="Jeremiah.9.5" osisID="Jeremiah.9.5" />... veritatem non loquantur, didicit lingua eorum loqui mendacium, reverti noluerunt, et non obreliquerunt.<verse eID="Jeremiah.9.5" />
+        <verse sID="Jeremiah.9.6" osisID="Jeremiah.9.6" />Usuram super usuram, dolum super dolum, noluerunt me nosse, dicit Dominus.<verse eID="Jeremiah.9.6" />
+        <verse sID="Jeremiah.9.7" osisID="Jeremiah.9.7" />Propter haec hoc dicit Dominus, Ecce ego comburo eos, et probabo eos, quia sic faciam a facie malignitatis filiae populi mei.<verse eID="Jeremiah.9.7" />
+        <verse sID="Jeremiah.9.8" osisID="Jeremiah.9.8" />Sagitta vulnerans lingua eorum, maligna verba oris eorum, proximo suo loquitur pacifica, et in semetipsum detinet inimicitiam.<verse eID="Jeremiah.9.8" />
+        <verse sID="Jeremiah.9.9" osisID="Jeremiah.9.9" />Nunquid in his visitabo, dicit Dominus? Aut in gentem talem non vindicabit anima mea?<verse eID="Jeremiah.9.9" />
+        <verse sID="Jeremiah.9.10" osisID="Jeremiah.9.10" />Super montes accipite luctum, et super semitas desertas planctum, quia defecerunt, eo quod non sint homines, non acceperunt vocem substantiae, a volatilibus usque ad iumenta expaverunt et defecerunt.<verse eID="Jeremiah.9.10" />
+        <verse sID="Jeremiah.9.11" osisID="Jeremiah.9.11" />Et dabo Ieremiahsalem in transmigrationem ...<verse eID="Jeremiah.9.11" />
+        <verse sID="Jeremiah.9.12" osisID="Jeremiah.9.12" />Quis homo sapiens, et intelligens haec? ...<verse eID="Jeremiah.9.12" />
+        <verse sID="Jeremiah.9.17" osisID="Jeremiah.9.17" />... Intelligite, et vocate lamentatrices ... et loquantur,<verse eID="Jeremiah.9.17" />
+        <verse sID="Jeremiah.9.18" osisID="Jeremiah.9.18" />et assumant super vos lamentum, et deducant oculi vestri lacrymas, et palpebrae vestrae defluant aquis.<verse eID="Jeremiah.9.18" />
+        <verse sID="Jeremiah.9.19" osisID="Jeremiah.9.19" />Quoniam vox lamentationis audita est in Sion ... abiecimus tabernacula nostra.<verse eID="Jeremiah.9.19" />
+        <verse sID="Jeremiah.9.21" osisID="Jeremiah.9.21" />... mors introivit per fenestras vestras ... disperdent parvulos deforis, iuvenes de plateis morte.<verse eID="Jeremiah.9.21" />
+        <verse sID="Jeremiah.9.22" osisID="Jeremiah.9.22" />... cadavera hominum ... super faciem campi ...<verse eID="Jeremiah.9.22" />
+        <verse sID="Jeremiah.9.23" osisID="Jeremiah.9.23" />Haec dicit Dominus, Non glorietur sapiens in sua sapientia, et non glorietur fortis in fortitudine sua, nec glorietur dives in divitis suis,<verse eID="Jeremiah.9.23" />
+        <verse sID="Jeremiah.9.24" osisID="Jeremiah.9.24" />sed in hoc glorietur, qui gloriatur, intelligere et nosse, quoniam ego sum Dominus, qui facio misericordiam, et iudicium, et iustitiam super terram, quoniam in his est voluntas mea, dicit Dominus.<verse eID="Jeremiah.9.24" />
+        <verse sID="Jeremiah.9.26" osisID="Jeremiah.9.26" />... omnes gentes incircumcisi carne, domus vero Israel incircumcisi sunt corde.<verse eID="Jeremiah.9.26" />
+      </p>
+      <chapter eID="Jeremiah.9" />
+      <chapter sID="Jeremiah.10" osisID="Jeremiah.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Jeremiah.10.2" osisID="Jeremiah.10.2" />Haec dicit Dominus, Secundum vias gentium nolite incedere ... quia timent illa in personis suis,<verse eID="Jeremiah.10.2" />
+        <verse sID="Jeremiah.10.3" osisID="Jeremiah.10.3" />quia legitima gentium vacua sunt, lignum de saltu excisum, opus fabri, et conflatum.<verse eID="Jeremiah.10.3" />
+        <verse sID="Jeremiah.10.4" osisID="Jeremiah.10.4" />Aurum et argentum speciose composita sunt, in martulis et in clavis confirmaverunt illa. Et non movebuntur,<verse eID="Jeremiah.10.4" />
+        <verse sID="Jeremiah.10.5" osisID="Jeremiah.10.5" />quia confixibilia sunt.<verse eID="Jeremiah.10.5" />
+        <verse sID="Jeremiah.10.9" osisID="Jeremiah.10.9" />Argentum appositum est a Tharsis, venit aurum Moab, opera artificum omnia, hyacinthum et purpura vestient eam. Tollentes tollent ea, quia non prodient, nolite timere ea, quia malum non faciunt, et bonum non est in illis.<verse eID="Jeremiah.10.9" />
+        <verse sID="Jeremiah.10.11" osisID="Jeremiah.10.11" />Sic dicite, Dii, qui coelum et terram non fecerunt, intereunt a terra, et de sub coelo isto.<verse eID="Jeremiah.10.11" />
+        <verse sID="Jeremiah.10.12" osisID="Jeremiah.10.12" />Dominus, qui fecit terram in virtute sua, et correxit in sapientia sua orbem, et in sua prudentia extendit coelum,<verse eID="Jeremiah.10.12" />
+        <verse sID="Jeremiah.10.13" osisID="Jeremiah.10.13" />et multitudinem aquae in coelo, et educit nebulas ab extremis terrae, fulgura in pluviam fecit, et educit ventos de thesauris suis.<verse eID="Jeremiah.10.13" />
+        <verse sID="Jeremiah.10.14" osisID="Jeremiah.10.14" />Infatuatus est homo a scientia sua ...<verse eID="Jeremiah.10.14" />
+        <verse sID="Jeremiah.10.17" osisID="Jeremiah.10.17" />Congregavit deforis substantiam suam, quae habitat in munitione,<verse eID="Jeremiah.10.17" />
+        <verse sID="Jeremiah.10.18" osisID="Jeremiah.10.18" />quia haec dicit Dominus, Ecce ego supplantabo habitatores terrae huius, et tribulabo eos ut inveniantur.<verse eID="Jeremiah.10.18" />
+        <verse sID="Jeremiah.10.19" osisID="Jeremiah.10.19" />Vae super contritione tua, pessima plaga tua. Ego autem dixi, Plane hoc est vulnus meum, et apprehendit me.<verse eID="Jeremiah.10.19" />
+        <verse sID="Jeremiah.10.20" osisID="Jeremiah.10.20" />... omnes pelles meae conscissae sunt, filii mei, et oves meae exierunt a me, non est locus ultra tabernaculo meo ...<verse eID="Jeremiah.10.20" />
+        <verse sID="Jeremiah.10.22" osisID="Jeremiah.10.22" />... cubile struthionum.<verse eID="Jeremiah.10.22" />
+        <verse sID="Jeremiah.10.23" osisID="Jeremiah.10.23" />Scio Domine quoniam non sunt hominis viae eius, neque vir ibit, et corriget cogitationem suam.<verse eID="Jeremiah.10.23" />
+        <verse sID="Jeremiah.10.24" osisID="Jeremiah.10.24" />Doce nos Domine, sed in iudicio. Et non in ira, ne paucos nos facias.<verse eID="Jeremiah.10.24" />
+        <verse sID="Jeremiah.10.25" osisID="Jeremiah.10.25" />Effunde iram tuam super gentes, quae nesciunt te. Et super regna, quae nomen tuum non invocaverunt, quia comederunt Iacob, et consumpserunt illum, et pascua eius exterminaverunt.<verse eID="Jeremiah.10.25" />
+      </p>
+      <chapter eID="Jeremiah.10" />
+      <chapter sID="Jeremiah.11" osisID="Jeremiah.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Jeremiah.11.2" osisID="Jeremiah.11.2" />Audite verba testamenti huius ...<verse eID="Jeremiah.11.2" />
+        <verse sID="Jeremiah.11.4" osisID="Jeremiah.11.4" />... quia eduxi eos de fornace ferrea, ex Aegypto, dicens, Audite vocem meam, et ero vobis in Dominum, et vos mihi in populum, et ibitis in omnibus viis meis, quascunque mandavero vobis.<verse eID="Jeremiah.11.4" />
+        <verse sID="Jeremiah.11.5" osisID="Jeremiah.11.5" />... Fiat Domine.<verse eID="Jeremiah.11.5" />
+        <verse sID="Jeremiah.11.6" osisID="Jeremiah.11.6" />Et dixit Dominus ad me, Lege omnia verba haec in civitatibus Iuda, et foris Ieremiahsalem, dicens, Audite verba testamenti huius, et facite illa, et non fecerunt.<verse eID="Jeremiah.11.6" />
+        <verse sID="Jeremiah.11.8" osisID="Jeremiah.11.8" />Et non audierunt, et non adverterunt aurem suam, sed abierunt in iis, quae concupierunt corde suo malo ...<verse eID="Jeremiah.11.8" />
+        <verse sID="Jeremiah.11.14" osisID="Jeremiah.11.14" />Et tu noli orare pro populo hoc, et noli postulare pro ipsis in prece et oratione, quia non exaudiam in tempore quo invocabunt me, in tempore afflictionis suae.<verse eID="Jeremiah.11.14" />
+        <verse sID="Jeremiah.11.15" osisID="Jeremiah.11.15" />... non enim adipes, et carnes pingues auferent a te iniustitias tuas ...<verse eID="Jeremiah.11.15" />
+        <verse sID="Jeremiah.11.16" osisID="Jeremiah.11.16" />Olivam fructiferam ... vocavit te Dominus Deus tuus ...<verse eID="Jeremiah.11.16" />
+        <verse sID="Jeremiah.11.18" osisID="Jeremiah.11.18" />Domine, significa mihi, et cognoscam, tunc vidi meditationes eorum.<verse eID="Jeremiah.11.18" />
+        <verse sID="Jeremiah.11.19" osisID="Jeremiah.11.19" />Ego sicut agnus sine malitia perductus sum ad victimam, in me cogitaverunt cogitatum, dicentes, Venite, mittamus lignum in panem eius, et eradamus a terra vitam eius, et nomen eius non erit in memoria amplius.<verse eID="Jeremiah.11.19" />
+      </p>
+      <chapter eID="Jeremiah.11" />
+      <chapter sID="Jeremiah.12" osisID="Jeremiah.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Jeremiah.12.1" osisID="Jeremiah.12.1" />Iustus es Domine, quia satisfaciam tibi, veruntamen iudicia loquar ad te, Quid est quod viae peccatorum prosperantur? ...<verse eID="Jeremiah.12.1" />
+        <verse sID="Jeremiah.12.2" osisID="Jeremiah.12.2" />... generaverunt filios, et faciunt fructum, prope es tu ori eorum, et longe a renibus eorum.<verse eID="Jeremiah.12.2" />
+        <verse sID="Jeremiah.12.4" osisID="Jeremiah.12.4" />... Non videbit Deus vias nostras.<verse eID="Jeremiah.12.4" />
+        <verse sID="Jeremiah.12.5" osisID="Jeremiah.12.5" />... quid facies in fremitu Iordanis?<verse eID="Jeremiah.12.5" />
+        <verse sID="Jeremiah.12.7" osisID="Jeremiah.12.7" />Dereliqui domum meam, dimisi haereditatem meam in manus inimicorum eius.<verse eID="Jeremiah.12.7" />
+        <verse sID="Jeremiah.12.8" osisID="Jeremiah.12.8" />Facta est haereditas mea mihi sicut leo in silva, dedit ipsa super me vocem suam, ideo odi eam.<verse eID="Jeremiah.12.8" />
+        <verse sID="Jeremiah.12.9" osisID="Jeremiah.12.9" />Nunquid spelunca hyaenae haereditas mea mihi? An spelunca in circuitu eius super eam? Pergite, congregate omnes bestias agri, et veniant, et comedant eam.<verse eID="Jeremiah.12.9" />
+        <verse sID="Jeremiah.12.10" osisID="Jeremiah.12.10" />Pastores multi disruperunt vineam meam, polluerunt partem meam, dederunt portionem meam desiderabilem in desertum invium.<verse eID="Jeremiah.12.10" />
+        <verse sID="Jeremiah.12.11" osisID="Jeremiah.12.11" />Posita est in dissipationem ... propterea dissipatione dissipata est terra ...<verse eID="Jeremiah.12.11" />
+        <verse sID="Jeremiah.12.12" osisID="Jeremiah.12.12" />... nec ulla pax universae carni.<verse eID="Jeremiah.12.12" />
+        <verse sID="Jeremiah.12.13" osisID="Jeremiah.12.13" />Seminastis triticum, et spinas messuistis, cleri eorum non proderunt eis, confundemini a gloriatione vestra, ab opprobrio in conspectu Domini.<verse eID="Jeremiah.12.13" />
+        <verse sID="Jeremiah.12.14" osisID="Jeremiah.12.14" />... Iuda eiiciam de medio eorum.<verse eID="Jeremiah.12.14" />
+        <verse sID="Jeremiah.12.15" osisID="Jeremiah.12.15" />Et cum eiecero eos, revertar ... et habitare faciam virum in haereditate sua, et virum in terra sua.<verse eID="Jeremiah.12.15" />
+      </p>
+      <chapter eID="Jeremiah.12" />
+      <chapter sID="Jeremiah.13" osisID="Jeremiah.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Jeremiah.13.1" osisID="Jeremiah.13.1" />... Vade, et posside tibi cinctorium lineum ... et per aquam non transibit.<verse eID="Jeremiah.13.1" />
+        <verse sID="Jeremiah.13.4" osisID="Jeremiah.13.4" />Tolle cinctorium ...<verse eID="Jeremiah.13.4" />
+        <verse sID="Jeremiah.13.12" osisID="Jeremiah.13.12" />... Omnis uter implebitur vino ...<verse eID="Jeremiah.13.12" />
+        <verse sID="Jeremiah.13.16" osisID="Jeremiah.13.16" />Date gloriam Domino Deo vestro antequam offendant pedes vestri ad montes tenebrosos, exspectabitis lucem, et ibi umbra mortis, et ponentur in tenebris.<verse eID="Jeremiah.13.16" />
+        <verse sID="Jeremiah.13.17" osisID="Jeremiah.13.17" />Quod si non audieritis, in abscondito plorabit anima vestra a facie superbiae ...<verse eID="Jeremiah.13.17" />
+        <verse sID="Jeremiah.13.18" osisID="Jeremiah.13.18" />Dicite regi, et potentibus ... quoniam sublata est ...<verse eID="Jeremiah.13.18" />
+        <verse sID="Jeremiah.13.19" osisID="Jeremiah.13.19" />... translatus est omnis Iuda captivitate perfecta.<verse eID="Jeremiah.13.19" />
+        <verse sID="Jeremiah.13.22" osisID="Jeremiah.13.22" />... dehonestatae sunt plantae tuae.<verse eID="Jeremiah.13.22" />
+        <verse sID="Jeremiah.13.23" osisID="Jeremiah.13.23" />Si aethiops mutaverit pellem suam, et pardus varietatem suam, et vos poteritis facere bonum, cum didiceritis mala.<verse eID="Jeremiah.13.23" />
+        <verse sID="Jeremiah.13.25" osisID="Jeremiah.13.25" />Haec sors tua, et pars inobedientiae tuae adversum me ... et sperasti in mendacio,<verse eID="Jeremiah.13.25" />
+        <verse sID="Jeremiah.13.26" osisID="Jeremiah.13.26" />et ego nudabo et revelabo posteriora tua contra faciem tuam, nunc videbitur ignominia tua,<verse eID="Jeremiah.13.26" />
+        <verse sID="Jeremiah.13.27" osisID="Jeremiah.13.27" />et adulterium tuum, et hinnitus, et alienatio fornicationis tuae, super colles in agro vidi abominationes tuas. Vae tibi Ieremiahsalem, quia non es mundata post me, usquequo adhuc?<verse eID="Jeremiah.13.27" />
+      </p>
+      <chapter eID="Jeremiah.13" />
+      <chapter sID="Jeremiah.14" osisID="Jeremiah.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Jeremiah.14.2" osisID="Jeremiah.14.2" />Luxit Iuda, et portae eius vacuae factae sunt, et contenebratae sunt super terram, et clamor Ieremiahsalem ascendit.<verse eID="Jeremiah.14.2" />
+        <verse sID="Jeremiah.14.3" osisID="Jeremiah.14.3" />Maiores eius miserunt iuniores suos ad aquam, venerunt ad puteos, et non invenerunt aquam, reportaverunt vasa sua vacua.<verse eID="Jeremiah.14.3" />
+        <verse sID="Jeremiah.14.4" osisID="Jeremiah.14.4" />Et opera terrae quoniam defecerunt, quia non erat pluvia super terram, confusi sunt agricolae, operuerunt capita sua.<verse eID="Jeremiah.14.4" />
+        <verse sID="Jeremiah.14.5" osisID="Jeremiah.14.5" />Et cervae in agro pepererunt, et reliquerunt, quia non erat herba.<verse eID="Jeremiah.14.5" />
+        <verse sID="Jeremiah.14.6" osisID="Jeremiah.14.6" />Et onagri steterunt in rupibus, traxerunt ventum quasi dracones, defecerunt oculi eorum, quia non erat fenum.<verse eID="Jeremiah.14.6" />
+        <verse sID="Jeremiah.14.7" osisID="Jeremiah.14.7" />Si iniquitates nostrae restiterint nobis ... quoniam multa sunt peccata nostra ... tibi peccavimus.<verse eID="Jeremiah.14.7" />
+        <verse sID="Jeremiah.14.8" osisID="Jeremiah.14.8" />Patientia Israel Domine ... quare factus es sicut advena in terra, et quasi indigena divertens ad manendum?<verse eID="Jeremiah.14.8" />
+        <verse sID="Jeremiah.14.9" osisID="Jeremiah.14.9" />Nunquid eris quasi homo dormiens, et quasi vir qui salvare non possit? Tu autem in nobis es Domine, et nomen tuum invocatum est super nos, ne obliviscaris nostri.<verse eID="Jeremiah.14.9" />
+        <verse sID="Jeremiah.14.10" osisID="Jeremiah.14.10" />... dilexerunt movere pedes suos, et non pepercerunt, et Deus non placuit sibi in eis ...<verse eID="Jeremiah.14.10" />
+        <verse sID="Jeremiah.14.12" osisID="Jeremiah.14.12" />Quoniam si ieiunaverint, non exaudiam obsecrationem eorum ...<verse eID="Jeremiah.14.12" />
+        <verse sID="Jeremiah.14.13" osisID="Jeremiah.14.13" />Et dixi, Quis es Domine Deus? ...<verse eID="Jeremiah.14.13" />
+        <verse sID="Jeremiah.14.15" osisID="Jeremiah.14.15" />... Haec dicit Dominus de prophetis, qui prophetant in nomine meo, et ego non misi eos ...<verse eID="Jeremiah.14.15" />
+        <verse sID="Jeremiah.14.16" osisID="Jeremiah.14.16" />... et effundam super eos mala sua.<verse eID="Jeremiah.14.16" />
+        <verse sID="Jeremiah.14.17" osisID="Jeremiah.14.17" />Et dices ad eos verbum istud, Deducant oculi vestri lacrymas per noctem et diem, et non cessent ...<verse eID="Jeremiah.14.17" />
+        <verse sID="Jeremiah.14.22" osisID="Jeremiah.14.22" />Nunquid est in idolis gentium qui pluat? Aut coeli dabunt pluviam, nisi tu volueris? ...<verse eID="Jeremiah.14.22" />
+      </p>
+      <chapter eID="Jeremiah.14" />
+      <chapter sID="Jeremiah.15" osisID="Jeremiah.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Jeremiah.15.1" osisID="Jeremiah.15.1" />... Si steterint Moyses et Samuel contra me ... emitte ...<verse eID="Jeremiah.15.1" />
+        <verse sID="Jeremiah.15.6" osisID="Jeremiah.15.6" />... nequaquam ultra dimittam eos.<verse eID="Jeremiah.15.6" />
+        <verse sID="Jeremiah.15.7" osisID="Jeremiah.15.7" />... in portis populi mei ...<verse eID="Jeremiah.15.7" />
+        <verse sID="Jeremiah.15.9" osisID="Jeremiah.15.9" />Exterrita est quae parit, et taeduit anima eius, subiit sol ei, cum adhuc medius dies esset, confusa est, et maledicta, reliquos eorum in gladio dabo in conspectu inimicorum eorum.<verse eID="Jeremiah.15.9" />
+        <verse sID="Jeremiah.15.10" osisID="Jeremiah.15.10" />Heu me mater, ut quid me peperisti, virum causam dicentem iudicii in omni terra? Non prosui, neque profuit mihi quisquam, sortitudo mea defecit in his, qui maledicunt mihi.<verse eID="Jeremiah.15.10" />
+        <verse sID="Jeremiah.15.11" osisID="Jeremiah.15.11" />Fiat Domine dirigentibus illis, si non astiti tibi in tempore afflictionis eorum, et in tempore tribulationis eorum in bona contra inimicum.<verse eID="Jeremiah.15.11" />
+        <verse sID="Jeremiah.15.12" osisID="Jeremiah.15.12" />Si cognoscet ferrum, et operimentum aeneum?<verse eID="Jeremiah.15.12" />
+        <verse sID="Jeremiah.15.14" osisID="Jeremiah.15.14" />Et servire te faciam inimicis tuis ...<verse eID="Jeremiah.15.14" />
+        <verse sID="Jeremiah.15.15" osisID="Jeremiah.15.15" />Domine memor esto mei, et visita me, et innocentem me fac ab insectantibus me, non in longanimitate, scito quomodo acceperim de te improperium<verse eID="Jeremiah.15.15" />
+        <verse sID="Jeremiah.15.16" osisID="Jeremiah.15.16" />ab his, qui spernunt sermones tuos, consumma illos, et erit verbum tuum mihi in iocunditatem et gaudium cordis mei, quoniam vocatum est nomen tuum in me, Domine omnipotens.<verse eID="Jeremiah.15.16" />
+        <verse sID="Jeremiah.15.17" osisID="Jeremiah.15.17" />Non sedi in concilio eorum laudantium, sed timebam a facie manus tuae, singulariter sedebam, quoniam amaritudine repletus sum.<verse eID="Jeremiah.15.17" />
+        <verse sID="Jeremiah.15.18" osisID="Jeremiah.15.18" />Ut quid qui me contristant, praevalent in me? Plaga mea valida est, unde sanabor? Facta est mihi ut aqua mendax, quae non habet fidem.<verse eID="Jeremiah.15.18" />
+        <verse sID="Jeremiah.15.19" osisID="Jeremiah.15.19" />... si eduxeris pretiosum a vili, quasi os meum eris ...<verse eID="Jeremiah.15.19" />
+        <verse sID="Jeremiah.15.21" osisID="Jeremiah.15.21" />... et redimam te de manu pestilentium.<verse eID="Jeremiah.15.21" />
+      </p>
+      <chapter eID="Jeremiah.15" />
+      <chapter sID="Jeremiah.16" osisID="Jeremiah.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Jeremiah.16.9" osisID="Jeremiah.16.9" />... Et auferam de civitatibus Iuda, et de quadriviis Ieremiahsalem, vocem laetantium, et vocem gaudentium, vocem sponsi, et vocem sponsae.<verse eID="Jeremiah.16.9" />
+        <verse sID="Jeremiah.16.16" osisID="Jeremiah.16.16" />Ecce ego mittam piscatores multos, et piscabuntur illos ... et multos venatores, et venabuntur eos super omnem montem, et super omnem collem ...<verse eID="Jeremiah.16.16" />
+        <verse sID="Jeremiah.16.19" osisID="Jeremiah.16.19" />Domine fortitudo mea, et adiutorium meum, et refugium meum in die malorum, ad te gentes venient ab extremo terrae, et dicent, Quam falsa possederunt patres nostri simulacra, et non est in eis utilitas!<verse eID="Jeremiah.16.19" />
+        <verse sID="Jeremiah.16.20" osisID="Jeremiah.16.20" />Si faciet homo deos, et ipsi non sunt dii.<verse eID="Jeremiah.16.20" />
+        <verse sID="Jeremiah.16.21" osisID="Jeremiah.16.21" />Propterea ecce ego ostendam illis in tempore illo, manum meam ostendam illis, et scient et virtutem meam, quoniam ego Dominus.<verse eID="Jeremiah.16.21" />
+      </p>
+      <chapter eID="Jeremiah.16" />
+      <chapter sID="Jeremiah.17" osisID="Jeremiah.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Jeremiah.17.1" osisID="Jeremiah.17.1" />Scripta est, Iuda, culpa tua graphio ferreo, et ungue adamantino, et scripta est in peccatore et in corde tuo, et in cornibus altarium ...<verse eID="Jeremiah.17.1" />
+        <verse sID="Jeremiah.17.5" osisID="Jeremiah.17.5" />Maledictus homo, qui spem habet in homine, et firmat carnem brachii sui, et a Domino discedit cor eius.<verse eID="Jeremiah.17.5" />
+        <verse sID="Jeremiah.17.6" osisID="Jeremiah.17.6" />Et erit sicut tamarix, quae in deserto est, non videbit cum venient bona, et habitabit inter iniquos in terra deserta, in terra falsa, quae non inhabitabitur.<verse eID="Jeremiah.17.6" />
+        <verse sID="Jeremiah.17.7" osisID="Jeremiah.17.7" />Benedictus homo, qui confidit in Domino, et erit Dominus spes eius.<verse eID="Jeremiah.17.7" />
+        <verse sID="Jeremiah.17.8" osisID="Jeremiah.17.8" />Eritque tanquam lignum fructiferum secus aquam, et in humore mittet radices suas, non timebit cum venerit aestus. Et erunt in eo propagines nemorosae, in anno siccitatis non timebit, et non deficiet faciendo fructum.<verse eID="Jeremiah.17.8" />
+        <verse sID="Jeremiah.17.9" osisID="Jeremiah.17.9" />Grave cor per omnia, et homo est, et quis agnoscet eum?<verse eID="Jeremiah.17.9" />
+        <verse sID="Jeremiah.17.10" osisID="Jeremiah.17.10" />Ego Dominus interrogans corda, et probans renes, ut dem unicuique secundum vias eius, et secundum fructum studiorum eius.<verse eID="Jeremiah.17.10" />
+        <verse sID="Jeremiah.17.11" osisID="Jeremiah.17.11" />Clamavit perdix, congregavit quae non peperit, faciens divitias suas non cum iudicio, indimidio dierum eius derelinquent eum, et in novissimis suis erit insipiens.<verse eID="Jeremiah.17.11" />
+        <verse sID="Jeremiah.17.12" osisID="Jeremiah.17.12" />Sedes autem gloriae exaltata est, sanctificatio nostra.<verse eID="Jeremiah.17.12" />
+        <verse sID="Jeremiah.17.13" osisID="Jeremiah.17.13" />Patientia Israel Domine, universi, qui te derelinquunt, terreantur, confundantur, qui recesserunt, in terram evertentur, quoniam dereliquerunt fontem vitae Dominum.<verse eID="Jeremiah.17.13" />
+        <verse sID="Jeremiah.17.14" osisID="Jeremiah.17.14" />Sana me Domine, et sanabor, salvum me fac, et salvus ero, quia gloria mea tu es.<verse eID="Jeremiah.17.14" />
+        <verse sID="Jeremiah.17.15" osisID="Jeremiah.17.15" />... Ubi est verbum Domini? Veniat.<verse eID="Jeremiah.17.15" />
+        <verse sID="Jeremiah.17.16" osisID="Jeremiah.17.16" />Non laboravi sequens post te, et diem hominis non concupivi, tu scis. Quod egressum est de labiis meis, ante faciem tuam est.<verse eID="Jeremiah.17.16" />
+        <verse sID="Jeremiah.17.17" osisID="Jeremiah.17.17" />Non fias mihi alienus, parcens mihi in die pessimo.<verse eID="Jeremiah.17.17" />
+        <verse sID="Jeremiah.17.18" osisID="Jeremiah.17.18" />Confundantur qui persequuntur me, et non confundar ego ...<verse eID="Jeremiah.17.18" />
+        <verse sID="Jeremiah.17.19" osisID="Jeremiah.17.19" />... Vade, et sta in portis filiorum populi tui, in quas ingrediuntur reges Iuda, et egrediuntur, et in omnibus portis Ieremiahsalem,<verse eID="Jeremiah.17.19" />
+        <verse sID="Jeremiah.17.20" osisID="Jeremiah.17.20" />et dices ad eos, Audite verbum Domini, qui intratis portas istas.<verse eID="Jeremiah.17.20" />
+        <verse sID="Jeremiah.17.21" osisID="Jeremiah.17.21" />Haec dicit Dominus, Custodite animas vestras, et nolite tollere onera in die sabbatorum, et nolite exire portas Ieremiahsalem.<verse eID="Jeremiah.17.21" />
+        <verse sID="Jeremiah.17.22" osisID="Jeremiah.17.22" />Et nolite ferre onera de domibus vestris in die sabbatorum, sicut mandavi patribus vestris.<verse eID="Jeremiah.17.22" />
+        <verse sID="Jeremiah.17.23" osisID="Jeremiah.17.23" />Et non obaudierunt in auribus suis, et induraverunt cervicem suam super patres suos, ut me non audirent, neque perciperent disciplinam.<verse eID="Jeremiah.17.23" />
+        <verse sID="Jeremiah.17.24" osisID="Jeremiah.17.24" />Eritque, Si me audieritis, dicit Dominus, ut non inferatis onera per portas civitatis huius in die sabbatorum, ut non faciatis omne opus vestrum, et sanctificetis diem sabbatorum,<verse eID="Jeremiah.17.24" />
+        <verse sID="Jeremiah.17.25" osisID="Jeremiah.17.25" />Et intrabunt per portas civitatis huius reges et principes, sedentes in sede David, et ascendentes in currus et equos, ipsi, principes eorum, viri Iuda, qui inhabitant Ieremiahsalem, et habitabitur civitas haec in aeternum.<verse eID="Jeremiah.17.25" />
+        <verse sID="Jeremiah.17.26" osisID="Jeremiah.17.26" />Et venient de civitatibus Iuda, et de civitatibus Ieremiahsalem, et de terra Beniamin, et de terra campestri, et de terra quae ad Austrum, afferentes holocausta, et incensa, et manna, et thus, ferentes laudationem in domo Domini.<verse eID="Jeremiah.17.26" />
+        <verse sID="Jeremiah.17.27" osisID="Jeremiah.17.27" />Et si me non audieritis ut sanctificetis diem sabbatorum, ut non portetis onera, neque intretis per portas Ieremiahsalem, succendam ignem in portis eius, et consumet domos Ieremiahsalem, et non exstinguetur.<verse eID="Jeremiah.17.27" />
+      </p>
+      <chapter eID="Jeremiah.17" />
+      <chapter sID="Jeremiah.18" osisID="Jeremiah.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Jeremiah.18.1" osisID="Jeremiah.18.1" />Sermo, qui factus est a Domino ad Ieremiahsalem, dicens,<verse eID="Jeremiah.18.1" />
+        <verse sID="Jeremiah.18.2" osisID="Jeremiah.18.2" />Exsurge, et descende in domum figuli, et ibi audies verba mea.<verse eID="Jeremiah.18.2" />
+        <verse sID="Jeremiah.18.3" osisID="Jeremiah.18.3" />Et descendi in domum figuli, et ecce ipse opus faciebat super lapides.<verse eID="Jeremiah.18.3" />
+        <verse sID="Jeremiah.18.4" osisID="Jeremiah.18.4" />Et cecidit vas, quod ipse faciebat in manibus suis, et iterum fecit illud vas aliud, sicut placuit coram ipso facere.<verse eID="Jeremiah.18.4" />
+        <verse sID="Jeremiah.18.5" osisID="Jeremiah.18.5" />Et factus est sermo Domini ad me, dicens,<verse eID="Jeremiah.18.5" />
+        <verse sID="Jeremiah.18.6" osisID="Jeremiah.18.6" />Sicut figulus iste, non potero vos facere, domus Israel? Ecce sicut lutum figuli, vos estis in manibus meis.<verse eID="Jeremiah.18.6" />
+        <verse sID="Jeremiah.18.7" osisID="Jeremiah.18.7" />Et tantum si loquar super gentem, aut super regnum, ut tollam eos, et ut perdam eos.<verse eID="Jeremiah.18.7" />
+        <verse sID="Jeremiah.18.8" osisID="Jeremiah.18.8" />Et si conversa fuerit gens illa a malis suis cogitationibus, poenitentiam agam pro malis, quae cogitabam ut facerem eis, et non faciam.<verse eID="Jeremiah.18.8" />
+        <verse sID="Jeremiah.18.9" osisID="Jeremiah.18.9" />Et tamen si locutus fuero super regnum aut gentem, ut reaedificetur et circumplantetur,<verse eID="Jeremiah.18.9" />
+        <verse sID="Jeremiah.18.10" osisID="Jeremiah.18.10" />et fecerit iniqua in conspectu meo, ut non exaudiat vocem meam, poenitentiam agam pro bonis, quae locutus sum ut facerem eis, et non faciam.<verse eID="Jeremiah.18.10" />
+        <verse sID="Jeremiah.18.11" osisID="Jeremiah.18.11" />Et nunc dic ad viros Iuda, et inhabitantes Ieremiahsalem, Ecce ego fingo mala super vos, et cogito super vos cogitationem, convertatur unusquisque a via sua maligna, meliores facite cogitationes vestras.<verse eID="Jeremiah.18.11" />
+        <verse sID="Jeremiah.18.13" osisID="Jeremiah.18.13" />... quanta fecit virgo Ieremiahsalem?<verse eID="Jeremiah.18.13" />
+        <verse sID="Jeremiah.18.14" osisID="Jeremiah.18.14" />Nunquid deficient de petra ubera, aut nix de Libano? Aut declinabit aqua violenter sublata vento?<verse eID="Jeremiah.18.14" />
+        <verse sID="Jeremiah.18.23" osisID="Jeremiah.18.23" />... in tempore furoris tui fac in eis.<verse eID="Jeremiah.18.23" />
+      </p>
+      <chapter eID="Jeremiah.18" />
+      <chapter sID="Jeremiah.19" osisID="Jeremiah.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Jeremiah.19.6" osisID="Jeremiah.19.6" />Idcirco ecce dies veniunt, dicit Dominus, et non vocabitur locus iste amplius Ruina, et Polyandrion filii Ennom, sed Polyandrion occisionis.<verse eID="Jeremiah.19.6" />
+      </p>
+      <chapter eID="Jeremiah.19" />
+      <chapter sID="Jeremiah.20" osisID="Jeremiah.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Jeremiah.20.1" osisID="Jeremiah.20.1" />Et audivit Phascor ...<verse eID="Jeremiah.20.1" />
+        <verse sID="Jeremiah.20.2" osisID="Jeremiah.20.2" />... et misit eum in cataracten ...<verse eID="Jeremiah.20.2" />
+        <verse sID="Jeremiah.20.5" osisID="Jeremiah.20.5" />Et dabo omnem fortitudinem ...<verse eID="Jeremiah.20.5" />
+        <verse sID="Jeremiah.20.7" osisID="Jeremiah.20.7" />Seduxisti me Domine, et seductus sum, tenuisti me, et potuisti, factus sum in derisum tota die, exivi in subsannationem.<verse eID="Jeremiah.20.7" />
+        <verse sID="Jeremiah.20.8" osisID="Jeremiah.20.8" />Quia amaro verbo meo ridebo, praevaricationem et miseriam invocabo ...<verse eID="Jeremiah.20.8" />
+        <verse sID="Jeremiah.20.9" osisID="Jeremiah.20.9" />Et dixi, Non nominabo nomen eius, et non loquar in nomine eius ultra, et factus est in corde meo ut ignis ardens, flammans in ossibus meis, et dissolutus sum undique, et ferre non possum.<verse eID="Jeremiah.20.9" />
+        <verse sID="Jeremiah.20.10" osisID="Jeremiah.20.10" />Audivi enim vituperationem multorum congregatorum undique ...<verse eID="Jeremiah.20.10" />
+        <verse sID="Jeremiah.20.11" osisID="Jeremiah.20.11" />... ideo persecuti sunt, et intelligere non potuerunt ... quia non intellexerunt ignominiam ...<verse eID="Jeremiah.20.11" />
+        <verse sID="Jeremiah.20.12" osisID="Jeremiah.20.12" />... Domine, qui probas iusta ...<verse eID="Jeremiah.20.12" />
+        <verse sID="Jeremiah.20.14" osisID="Jeremiah.20.14" />Maledicta dies, in qua genitus sum ...<verse eID="Jeremiah.20.14" />
+        <verse sID="Jeremiah.20.15" osisID="Jeremiah.20.15" />Maledictus homo, qui annuntiavit patri meo, dicens, Ecce natus est tibi puer.<verse eID="Jeremiah.20.15" />
+        <verse sID="Jeremiah.20.16" osisID="Jeremiah.20.16" />Fiat homo ille similis urbibus, quas subvertit Deus ...<verse eID="Jeremiah.20.16" />
+        <verse sID="Jeremiah.20.17" osisID="Jeremiah.20.17" />Quare enim in vulva non statim perii, et fuisset mihi sepulcrum mater mea, et vulva eius infernus sempiternus?<verse eID="Jeremiah.20.17" />
+        <verse sID="Jeremiah.20.18" osisID="Jeremiah.20.18" />Quare egressus sum ex utero, ut viderem labores et miserias, et consumerentur dies mei in aerumnis?<verse eID="Jeremiah.20.18" />
+      </p>
+      <chapter eID="Jeremiah.20" />
+      <chapter sID="Jeremiah.21" osisID="Jeremiah.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Jeremiah.21.4" osisID="Jeremiah.21.4" />... Ecce ego convertam arma bellica ...<verse eID="Jeremiah.21.4" />
+        <verse sID="Jeremiah.21.7" osisID="Jeremiah.21.7" />... non parcam, nec miserebor.<verse eID="Jeremiah.21.7" />
+        <verse sID="Jeremiah.21.13" osisID="Jeremiah.21.13" />Ecce ego ad te, qui habitas in valle Sor campestri, qui dicitis, Quis terrebit nos? ...<verse eID="Jeremiah.21.13" />
+      </p>
+      <chapter eID="Jeremiah.21" />
+      <chapter sID="Jeremiah.22" osisID="Jeremiah.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Jeremiah.22.3" osisID="Jeremiah.22.3" />... Facite iudicium et iustitiam ...<verse eID="Jeremiah.22.3" />
+        <verse sID="Jeremiah.22.6" osisID="Jeremiah.22.6" />... tu mihi principium Libani ...<verse eID="Jeremiah.22.6" />
+        <verse sID="Jeremiah.22.7" osisID="Jeremiah.22.7" />... et mittent in ignem.<verse eID="Jeremiah.22.7" />
+        <verse sID="Jeremiah.22.13" osisID="Jeremiah.22.13" />O qui aedificas domum tuam non cum iustitia, et coenacula tua non in iuidicio, apud eum proximus operatur gratis, et mercedem ei non reddit.<verse eID="Jeremiah.22.13" />
+        <verse sID="Jeremiah.22.14" osisID="Jeremiah.22.14" />Aedificasti tibi domum parvulam, coenacula perflatilia distincta fenestris, et contignata cedro, et lita sinopide.<verse eID="Jeremiah.22.14" />
+        <verse sID="Jeremiah.22.15" osisID="Jeremiah.22.15" />Nunquid regnabis, quia tu contendis contra Achaz patrem tuum? Non comedent, et non bibent, melius tibi erat facere iudicium, et iustitiam bonam.<verse eID="Jeremiah.22.15" />
+        <verse sID="Jeremiah.22.16" osisID="Jeremiah.22.16" />Non cognoverunt, non iudicaverunt iudicium humilis, neque iudicium pauperis, nonne hoc est te ignorare me, dicit Dominus?<verse eID="Jeremiah.22.16" />
+        <verse sID="Jeremiah.22.17" osisID="Jeremiah.22.17" />Ecce non sunt oculi tui recti, nec cor tuum bonum, sed ad avaritiam tuam, et ut sanguinem innocentem effundas, et ad iniquitatem, et homicidium, ut facias ea.<verse eID="Jeremiah.22.17" />
+        <verse sID="Jeremiah.22.20" osisID="Jeremiah.22.20" />... et clama trans mare ...<verse eID="Jeremiah.22.20" />
+        <verse sID="Jeremiah.22.24" osisID="Jeremiah.22.24" />Vivo ego, dicit Dominus, si factus fuerit Iechonias filius Ioachim rex Iuda, signaculum in manu dextera mea, inde abstraham eum.<verse eID="Jeremiah.22.24" />
+        <verse sID="Jeremiah.22.25" osisID="Jeremiah.22.25" />Et tradam eum in manu quaerentium animam tuam ...<verse eID="Jeremiah.22.25" />
+        <verse sID="Jeremiah.22.26" osisID="Jeremiah.22.26" />Et proiiciam te ...<verse eID="Jeremiah.22.26" />
+        <verse sID="Jeremiah.22.28" osisID="Jeremiah.22.28" />Abiectus est Iechonias ut vas, non est usus in eo, propter quod proiectus est ipse, et semen eius.<verse eID="Jeremiah.22.28" />
+        <verse sID="Jeremiah.22.29" osisID="Jeremiah.22.29" />Terra, terra, audi verbum Domini,<verse eID="Jeremiah.22.29" />
+        <verse sID="Jeremiah.22.30" osisID="Jeremiah.22.30" />Scribe virum istum abdicatum, quia non exsurget ex semine eius sedens in throno David, princeps adhuc in Iuda.<verse eID="Jeremiah.22.30" />
+      </p>
+      <chapter eID="Jeremiah.22" />
+      <chapter sID="Jeremiah.23" osisID="Jeremiah.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Jeremiah.23.1" osisID="Jeremiah.23.1" />O pastores, qui disperditis et dissipatis oves pascuae meae.<verse eID="Jeremiah.23.1" />
+        <verse sID="Jeremiah.23.3" osisID="Jeremiah.23.3" />... restituam illos ad pascua sua ...<verse eID="Jeremiah.23.3" />
+        <verse sID="Jeremiah.23.5" osisID="Jeremiah.23.5" />Ecce dies veniunt, ait Dominus, et suscitabo illis David regem, orientem iustum, et regnabit rex, et intelliget, et faciet iustitiam et iudicium super terram.<verse eID="Jeremiah.23.5" />
+        <verse sID="Jeremiah.23.6" osisID="Jeremiah.23.6" />In diebus eius salvabitur Iudas, et Israel commorabitur fidens, et hoc est nomen, quo appellabit eum Dominus, Iosedec, in prophetis,<verse eID="Jeremiah.23.6" />
+        <verse sID="Jeremiah.23.7" osisID="Jeremiah.23.7" />Ecce dies veniunt, dicit Dominus, et non dicent adhuc, Vivit Dominus, qui eduxit filios Israel ab Aquilone,<verse eID="Jeremiah.23.7" />
+        <verse sID="Jeremiah.23.8" osisID="Jeremiah.23.8" />et ab omnis regione, quo expulsi fuerant, restituet illos in terram ipsorum, quam dedit patribus ipsorum.<verse eID="Jeremiah.23.8" />
+        <verse sID="Jeremiah.23.9" osisID="Jeremiah.23.9" />Contritum est cor meum in me, commota sunt omnia ossa mea, factus sum quasi vir ebrius, et quasi homo soporatus vino a facie Domini, et a facie decoris gloriae eius.<verse eID="Jeremiah.23.9" />
+        <verse sID="Jeremiah.23.12" osisID="Jeremiah.23.12" />Et propter hoc facta est via eorum lapsinosa in tenebris, et supplantabuntur, et cadent in ea, quia inferam super eos mala ...<verse eID="Jeremiah.23.12" />
+        <verse sID="Jeremiah.23.13" osisID="Jeremiah.23.13" />Et in prophetis Samariae vidi iniquitatem ...<verse eID="Jeremiah.23.13" />
+        <verse sID="Jeremiah.23.14" osisID="Jeremiah.23.14" />Et in prophetis Ieremiahsalem vidi horribilia ... ut non converteretur unusquisque a via sua pessima, facti sunt mihi omnes quasi Sodoma, et habitatores eius quasi Gomorrha.<verse eID="Jeremiah.23.14" />
+        <verse sID="Jeremiah.23.15" osisID="Jeremiah.23.15" />... Ecce ego cibabo eos doloribus, et potabo eos aqua amara, quia egressa est a prophetis Ieremiahsalem pollutio in omnem terram.<verse eID="Jeremiah.23.15" />
+        <verse sID="Jeremiah.23.16" osisID="Jeremiah.23.16" />... Nolite audire sermones prophetarum, quoniam visiones cordis eorum frustrantur eos, loquuntur, sed non ab ore Domini.<verse eID="Jeremiah.23.16" />
+        <verse sID="Jeremiah.23.17" osisID="Jeremiah.23.17" />Dicunt eis, qui abiiciunt verbum Dei, Pax erit vobis, et omnibus ambulantibus in voluntatibus suis, Omnis, qui ambulat in errore cordis sui, non venient super eum mala.<verse eID="Jeremiah.23.17" />
+        <verse sID="Jeremiah.23.18" osisID="Jeremiah.23.18" />Quoniam quis stetit in substantia Domini, et videbit verbum Dei? Quis aurem praebuit et audivit?<verse eID="Jeremiah.23.18" />
+        <verse sID="Jeremiah.23.19" osisID="Jeremiah.23.19" />Ecce tempestas et commotio ...<verse eID="Jeremiah.23.19" />
+        <verse sID="Jeremiah.23.20" osisID="Jeremiah.23.20" />... in novissimis diebus intelligent ea.<verse eID="Jeremiah.23.20" />
+        <verse sID="Jeremiah.23.21" osisID="Jeremiah.23.21" />Non illos mittebam, et illi ibant in nomine meo prophetare, non locutus sum ad eos, et ipsi prophetaverunt.<verse eID="Jeremiah.23.21" />
+        <verse sID="Jeremiah.23.22" osisID="Jeremiah.23.22" />Si stetissent in substantia mea, et audissent verba mea, et si docuissent populum meum, convertissem eos a malis cogitationibus eorum.<verse eID="Jeremiah.23.22" />
+        <verse sID="Jeremiah.23.23" osisID="Jeremiah.23.23" />Ego Deus approximans, et non Deus de longinquo.<verse eID="Jeremiah.23.23" />
+        <verse sID="Jeremiah.23.24" osisID="Jeremiah.23.24" />Si absconditus fuerit homo in absconditis, ergo ego non videbo eum? Nonne coelum et terram ego impleo, dicit Dominus?<verse eID="Jeremiah.23.24" />
+        <verse sID="Jeremiah.23.25" osisID="Jeremiah.23.25" />... Vidi somnium.<verse eID="Jeremiah.23.25" />
+        <verse sID="Jeremiah.23.26" osisID="Jeremiah.23.26" />... et prophetantium voluntates cordis sui.<verse eID="Jeremiah.23.26" />
+        <verse sID="Jeremiah.23.27" osisID="Jeremiah.23.27" />Qui cogitant facere ...<verse eID="Jeremiah.23.27" />
+        <verse sID="Jeremiah.23.28" osisID="Jeremiah.23.28" />... quid est paleis ad triticum?<verse eID="Jeremiah.23.28" />
+        <verse sID="Jeremiah.23.29" osisID="Jeremiah.23.29" />Nonne verba mea sicut ignis, dicit Dominus, et sicut securis concidens petram?<verse eID="Jeremiah.23.29" />
+        <verse sID="Jeremiah.23.30" osisID="Jeremiah.23.30" />Propter hoc ecce ego ad prophetas, dicit Dominus, qui furantur verba mea unusquisque a proximo suo.<verse eID="Jeremiah.23.30" />
+        <verse sID="Jeremiah.23.31" osisID="Jeremiah.23.31" />... et dormitant dormitationem.<verse eID="Jeremiah.23.31" />
+        <verse sID="Jeremiah.23.32" osisID="Jeremiah.23.32" />... et seducunt populum meum in mendaciis suis, et in erroribus suis ...<verse eID="Jeremiah.23.32" />
+        <verse sID="Jeremiah.23.33" osisID="Jeremiah.23.33" />... Quae est assumptio Domini? Dices ad eos, Vos estis assumptio, allidam vos, dicit Dominus.<verse eID="Jeremiah.23.33" />
+        <verse sID="Jeremiah.23.34" osisID="Jeremiah.23.34" />... Assumptio Domini, ulciscar ...<verse eID="Jeremiah.23.34" />
+      </p>
+      <chapter eID="Jeremiah.23" />
+      <chapter sID="Jeremiah.24" osisID="Jeremiah.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Jeremiah.24.5" osisID="Jeremiah.24.5" />Haec dicit Dominus Deus Israel, Sicut ficus istas bonas, recognoscam translatos Iuda, quos emisi de loco isto in terram Chaldaeorum, in bona.<verse eID="Jeremiah.24.5" />
+        <verse sID="Jeremiah.24.6" osisID="Jeremiah.24.6" />Et confirmabo oculos meos super illos in bona, et restituam illos in terram istam, et reaedificabo eos, et non destruam, et replantabo eos, et non evellam.<verse eID="Jeremiah.24.6" />
+        <verse sID="Jeremiah.24.7" osisID="Jeremiah.24.7" />Et dabo illis cor ut sciant me, quia ego sum Dominus, et erunt mihi in populum, et ego ero illis in Deum, quia convertentur ad me ex toto corde suo.<verse eID="Jeremiah.24.7" />
+        <verse sID="Jeremiah.24.9" osisID="Jeremiah.24.9" />Et dabo eos in dispersionem ...<verse eID="Jeremiah.24.9" />
+      </p>
+      <chapter eID="Jeremiah.24" />
+      <chapter sID="Jeremiah.25" osisID="Jeremiah.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Jeremiah.25.1" osisID="Jeremiah.25.1" />Verbum, quod factum est ad Ieremiahmiam super omnem populum Iuda, in anno quarto Ioacim filii Iosiae regis Iuda.<verse eID="Jeremiah.25.1" />
+        <verse sID="Jeremiah.25.3" osisID="Jeremiah.25.3" />... ego autem locutus sum ad vos ante lucem ...<verse eID="Jeremiah.25.3" />
+        <verse sID="Jeremiah.25.4" osisID="Jeremiah.25.4" />Misi ad vos servos meos prophetas, ante lucem mittebam, et non audiebatis me, neque intendebatis auribus vestris,<verse eID="Jeremiah.25.4" />
+        <verse sID="Jeremiah.25.5" osisID="Jeremiah.25.5" />dicens, Convertatur unusquisque a via sua mala, et a nequissimis affectationibus vestris, et habitabitis in terra ista, quam dedi vobis, et patribus vestris, a saeculo et usque in saecula.<verse eID="Jeremiah.25.5" />
+        <verse sID="Jeremiah.25.6" osisID="Jeremiah.25.6" />Nolite ambulare post deos alienos, ut serviatis eis, et ne adoraveritis eos, et ne incitetis me in operibus manuum vestrarum, ad disperdendos vos.<verse eID="Jeremiah.25.6" />
+        <verse sID="Jeremiah.25.7" osisID="Jeremiah.25.7" />Et non audistis me.<verse eID="Jeremiah.25.7" />
+        <verse sID="Jeremiah.25.15" osisID="Jeremiah.25.15" />Sic dicit Dominus Deus Israel, Accipe calicem vini meri de manu tua, et potabis omnes gentes, ad quas ego mitto te.<verse eID="Jeremiah.25.15" />
+        <verse sID="Jeremiah.25.16" osisID="Jeremiah.25.16" />Et voment, et insanient a facie gladii, quem ego mitto in medio illarum.<verse eID="Jeremiah.25.16" />
+        <verse sID="Jeremiah.25.17" osisID="Jeremiah.25.17" />Et accepi calicem de manu Domini, et potavi gentes, ad quas misit me Dominus ad ipsas,<verse eID="Jeremiah.25.17" />
+        <verse sID="Jeremiah.25.18" osisID="Jeremiah.25.18" />Ieremiahsalem, et civitates Iudae, et reges eius, et principes eius, ut ponerentur in desolatione, et in devastatione, et in sibilatione,<verse eID="Jeremiah.25.18" />
+        <verse sID="Jeremiah.25.19" osisID="Jeremiah.25.19" />et Pharaonem regem Aegypti, et pueros eius, et potentes eius, universum populum eius,<verse eID="Jeremiah.25.19" />
+        <verse sID="Jeremiah.25.20" osisID="Jeremiah.25.20" />et omnes promiscuos eius, et reges omnes alienigenarum, Ascalonem, et Gazam, et Accaron, et quae contra faciem Azoti,<verse eID="Jeremiah.25.20" />
+        <verse sID="Jeremiah.25.21" osisID="Jeremiah.25.21" />et Idumaeam, et Moabitem, et filios Ammon,<verse eID="Jeremiah.25.21" />
+        <verse sID="Jeremiah.25.22" osisID="Jeremiah.25.22" />Et regem Tyri, et regem Sidonis, et reges, qui trans mare sunt,<verse eID="Jeremiah.25.22" />
+        <verse sID="Jeremiah.25.23" osisID="Jeremiah.25.23" />Et Dedan, et Theman, et Bosor, et omnem circumtunsam a facie,<verse eID="Jeremiah.25.23" />
+        <verse sID="Jeremiah.25.24" osisID="Jeremiah.25.24" />Et omnes promiscuos, qui commorantur in deserto,<verse eID="Jeremiah.25.24" />
+        <verse sID="Jeremiah.25.25" osisID="Jeremiah.25.25" />Et omnes reges Elam, et omnes reges Persarum,<verse eID="Jeremiah.25.25" />
+        <verse sID="Jeremiah.25.26" osisID="Jeremiah.25.26" />et universos reges a Subsolano, qui longe et qui iuxta sunt, unumquemque ad fratrem suum, et omnia regna terrae, quae super faciem terrae sunt,<verse eID="Jeremiah.25.26" />
+        <verse sID="Jeremiah.25.27" osisID="Jeremiah.25.27" />et dices illis, Haec dicit Dominus omnipotens, Bibite, et inebriamini, et vomite, et cadetis, et non surgetis a facie gladii, quem ego mitto in medium vestrum.<verse eID="Jeremiah.25.27" />
+        <verse sID="Jeremiah.25.28" osisID="Jeremiah.25.28" />Et ad eos qui noluerunt accipere calicem ita ut bibant, dices, Sic dicit Dominus, Bibentes bibetis,<verse eID="Jeremiah.25.28" />
+        <verse sID="Jeremiah.25.29" osisID="Jeremiah.25.29" />quia in civitate, in qua invocatum est nomen meum super ipsam, incipio vexare vos, et vos purgatione non eritis purgati, quia gladium ego invoco super inhabitantes terram.<verse eID="Jeremiah.25.29" />
+        <verse sID="Jeremiah.25.30" osisID="Jeremiah.25.30" />Et tu prophetabis ad eos omnia verba haec, et dices ad illos, Dominus de excelso responsum dabit, et de loco sancto suo dabit vocem suam, respondebit sermonem super locum suum, illi autem quasi vindemiantes respondebunt. Super omnes habitatores terrae<verse eID="Jeremiah.25.30" />
+        <verse sID="Jeremiah.25.31" osisID="Jeremiah.25.31" />pervenit interitus, super partem terrae, iudicium enim erit in gentibus, et ipse iudicabitur cum omni carne, impii autem tradentur gladio, dicit Dominus.<verse eID="Jeremiah.25.31" />
+        <verse sID="Jeremiah.25.32" osisID="Jeremiah.25.32" />... Ecce malum ... et tempestas egredietur ab extremis terrae.<verse eID="Jeremiah.25.32" />
+        <verse sID="Jeremiah.25.33" osisID="Jeremiah.25.33" />Et erunt vulnerati a Domino ...<verse eID="Jeremiah.25.33" />
+        <verse sID="Jeremiah.25.34" osisID="Jeremiah.25.34" />Iubilate pastores, et clamate, et plangite arietes ovium ... et cadetis quasi arietes electi.<verse eID="Jeremiah.25.34" />
+        <verse sID="Jeremiah.25.35" osisID="Jeremiah.25.35" />... et salvatio ab arietibus gregis.<verse eID="Jeremiah.25.35" />
+        <verse sID="Jeremiah.25.36" osisID="Jeremiah.25.36" />... iubilum arietum ...<verse eID="Jeremiah.25.36" />
+        <verse sID="Jeremiah.25.37" osisID="Jeremiah.25.37" />Et conticuerunt speciosa pacis ...<verse eID="Jeremiah.25.37" />
+        <verse sID="Jeremiah.25.38" osisID="Jeremiah.25.38" />Dereliquit quasi leo cubile suum, quia facta est terra eorum invia a facie gladii magni.<verse eID="Jeremiah.25.38" />
+      </p>
+      <chapter eID="Jeremiah.25" />
+      <chapter sID="Jeremiah.26" osisID="Jeremiah.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Jeremiah.26.1" osisID="Jeremiah.26.1" />In principio regis Ioacim filii Iosiae regis Iuda, factum est verbum istud ad Ieremiahmiam a Domino, dicens,<verse eID="Jeremiah.26.1" />
+        <verse sID="Jeremiah.26.2" osisID="Jeremiah.26.2" />... Sta in atrio domus Domini, et responsum dabis omnis Iudae, iis qui veniunt adorare in domo Domini, omnia verba, quae constitui tibi respondere illis, noli auferre verbum,<verse eID="Jeremiah.26.2" />
+        <verse sID="Jeremiah.26.3" osisID="Jeremiah.26.3" />forsitan audient et avertentur unusquisque a via sua mala, et quiescam a malo ...<verse eID="Jeremiah.26.3" />
+        <verse sID="Jeremiah.26.12" osisID="Jeremiah.26.12" />... Dominus misit me, ut prophetarum super domum istam, et super civitatem hanc omnia verba quae audistis.<verse eID="Jeremiah.26.12" />
+        <verse sID="Jeremiah.26.13" osisID="Jeremiah.26.13" />... et quiescet Dominus a malis, quae locutus est contra vos.<verse eID="Jeremiah.26.13" />
+        <verse sID="Jeremiah.26.14" osisID="Jeremiah.26.14" />... ut expedit vobis.<verse eID="Jeremiah.26.14" />
+      </p>
+      <chapter eID="Jeremiah.26" />
+      <chapter sID="Jeremiah.27" osisID="Jeremiah.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Jeremiah.27.18" osisID="Jeremiah.27.18" />Et si prophetae sunt, et est verbum Domini in eis, occurrant mihi,<verse eID="Jeremiah.27.18" />
+        <verse sID="Jeremiah.27.19" osisID="Jeremiah.27.19" />quia sic dixit Dominus, Et reliqua vasa,<verse eID="Jeremiah.27.19" />
+        <verse sID="Jeremiah.27.20" osisID="Jeremiah.27.20" />quae non tulit rex Babylonis, quando transtulit Iechoniam de Ieremiahsalem,<verse eID="Jeremiah.27.20" />
+        <verse sID="Jeremiah.27.22" osisID="Jeremiah.27.22" />in Babylonem intrabunt, dicit Dominus.<verse eID="Jeremiah.27.22" />
+      </p>
+      <chapter eID="Jeremiah.27" />
+      <chapter sID="Jeremiah.28" osisID="Jeremiah.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="Jeremiah.28.2" osisID="Jeremiah.28.2" />... Contrivi iugum regis Babylonis.<verse eID="Jeremiah.28.2" />
+        <verse sID="Jeremiah.28.3" osisID="Jeremiah.28.3" />Adhuc duo anni dierum, et ego referri faciam ad locum istum omnia vasa Domini,<verse eID="Jeremiah.28.3" />
+        <verse sID="Jeremiah.28.4" osisID="Jeremiah.28.4" />Iechoniam, et transmigrationem Iudae, quia conteram iugum regis Babylonis.<verse eID="Jeremiah.28.4" />
+        <verse sID="Jeremiah.28.17" osisID="Jeremiah.28.17" />Et mortuus est mense septimo.<verse eID="Jeremiah.28.17" />
+      </p>
+      <chapter eID="Jeremiah.28" />
+      <chapter sID="Jeremiah.29" osisID="Jeremiah.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="Jeremiah.29.5" osisID="Jeremiah.29.5" />... et plantate pomaria ...<verse eID="Jeremiah.29.5" />
+        <verse sID="Jeremiah.29.11" osisID="Jeremiah.29.11" />Ego cogito cogitationes pacis, et non afflictionis ...<verse eID="Jeremiah.29.11" />
+        <verse sID="Jeremiah.29.12" osisID="Jeremiah.29.12" />Invocabitis me, et ego exaudiam vos ...<verse eID="Jeremiah.29.12" />
+        <verse sID="Jeremiah.29.14" osisID="Jeremiah.29.14" />Et apparebo vobis, et reducam captivitatem vestram de cunctis locis.<verse eID="Jeremiah.29.14" />
+        <verse sID="Jeremiah.29.23" osisID="Jeremiah.29.23" />pro eo quod fecerunt iniquitatem in Israel ...<verse eID="Jeremiah.29.23" />
+        <verse sID="Jeremiah.29.24" osisID="Jeremiah.29.24" />Et ad Semeiam Neelamitem dices,<verse eID="Jeremiah.29.24" />
+        <verse sID="Jeremiah.29.25" osisID="Jeremiah.29.25" />Non misi te in nomine meo. Et ad Sophoniam filium Maasiae sacerdotem ...<verse eID="Jeremiah.29.25" />
+        <verse sID="Jeremiah.29.26" osisID="Jeremiah.29.26" />Dominus dedit te sacerdotem pro ... ut sis praeceptor et episcopus in domo Domini ... ut mittas eum in custodiam et in cataracten.<verse eID="Jeremiah.29.26" />
+      </p>
+      <chapter eID="Jeremiah.29" />
+      <chapter sID="Jeremiah.30" osisID="Jeremiah.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="Jeremiah.30.3" osisID="Jeremiah.30.3" />... et sedere faciam eos in terra, quam dedi patribus eorum ...<verse eID="Jeremiah.30.3" />
+        <verse sID="Jeremiah.30.6" osisID="Jeremiah.30.6" />Si itaque audistis huius modi, si peperit masculus ...<verse eID="Jeremiah.30.6" />
+        <verse sID="Jeremiah.30.8" osisID="Jeremiah.30.8" />In illa die, dicit Dominus, contribulabo iugum a cervice eorum, et vincula eorum disrumpam, et non operabuntur ipsi adhuc aliis diis,<verse eID="Jeremiah.30.8" />
+        <verse sID="Jeremiah.30.9" osisID="Jeremiah.30.9" />et operabuntur Domino Deo suo, et David regem ipsorum suscitabo illis.<verse eID="Jeremiah.30.9" />
+        <verse sID="Jeremiah.30.14" osisID="Jeremiah.30.14" />... multiplicata sunt peccata tua.<verse eID="Jeremiah.30.14" />
+      </p>
+      <chapter eID="Jeremiah.30" />
+      <chapter sID="Jeremiah.31" osisID="Jeremiah.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="Jeremiah.31.1" osisID="Jeremiah.31.1" />In tempore illo, dicit Dominus, Ero Deus generi Israel, et ipsi erunt mihi in populum.<verse eID="Jeremiah.31.1" />
+        <verse sID="Jeremiah.31.2" osisID="Jeremiah.31.2" />Sic dicit Dominus, Inveni lupinum in deserto cum his, qui perierant gladio, ite, et nolite interficere Israel.<verse eID="Jeremiah.31.2" />
+        <verse sID="Jeremiah.31.3" osisID="Jeremiah.31.3" />Longe Dominus apparuit ei. Dilectione aeterna dilexi te, propterea traxi te ad miserationem.<verse eID="Jeremiah.31.3" />
+        <verse sID="Jeremiah.31.4" osisID="Jeremiah.31.4" />Quia aedificabo te, et aedificaberis virgo Israel, adhuc assumes tympana tua ...<verse eID="Jeremiah.31.4" />
+        <verse sID="Jeremiah.31.8" osisID="Jeremiah.31.8" />... et congregabo illos ab extremis terrae in die festo, et generabit filios multos ...<verse eID="Jeremiah.31.8" />
+        <verse sID="Jeremiah.31.9" osisID="Jeremiah.31.9" />In fletu exierunt, et in consolatione revocabo eos ... et non errabunt in ea ...<verse eID="Jeremiah.31.9" />
+        <verse sID="Jeremiah.31.10" osisID="Jeremiah.31.10" />Audite verbum Domini gentes, et annuntiate insulis quae longe sunt, dicite, Quia ventilabit Deus Israel, congregabit eum, et custodiet eum sicut pascens gregem ovium suarum.<verse eID="Jeremiah.31.10" />
+        <verse sID="Jeremiah.31.11" osisID="Jeremiah.31.11" />Quoniam redemit Dominus Iacob, et eripuit eum de manu fortioris eius.<verse eID="Jeremiah.31.11" />
+        <verse sID="Jeremiah.31.12" osisID="Jeremiah.31.12" />Et venient, et laetabuntur in monte Sion, et venient ad bona, et in terram tritici, et vini, et fructuum, et animalium, et ovium, et erit anima eorum sicut lignum fructiferum, et non esurient adhuc.<verse eID="Jeremiah.31.12" />
+        <verse sID="Jeremiah.31.13" osisID="Jeremiah.31.13" />Et tunc gaudebunt virgines in congregatione iuvenum, et seniores gaudebunt, et convertam luctum eorum in gaudium, et faciam eos in exsultatione.<verse eID="Jeremiah.31.13" />
+        <verse sID="Jeremiah.31.14" osisID="Jeremiah.31.14" />Et magnificabo, et inebriabo animam sacerdotum filiorum Levi, et populus meus bonis meis adimplebitur.<verse eID="Jeremiah.31.14" />
+        <verse sID="Jeremiah.31.15" osisID="Jeremiah.31.15" />Sic dicit Dominus, Vox in Rhama audita est, lamentatio, et fletus, et luctus Rachel plorantis filios suos, et noluit conquiescere, quia non sunt.<verse eID="Jeremiah.31.15" />
+        <verse sID="Jeremiah.31.16" osisID="Jeremiah.31.16" />... et revertentur de terra inimicorum.<verse eID="Jeremiah.31.16" />
+        <verse sID="Jeremiah.31.18" osisID="Jeremiah.31.18" />Audiens audivi Ephraem lacrymantem, Castigati me, et castigatus sum. Sicut vitulus non sum edoctus, converte me, et convertar, quia tu es Dominus Deus meus.<verse eID="Jeremiah.31.18" />
+        <verse sID="Jeremiah.31.19" osisID="Jeremiah.31.19" />Quia in novissimo captivitatis meae poenitentiam egi, et postquam cognovi, ingemui super dies confusionis. Et subiectus sum tibi, quia accepi opprobrium, et demonstravi te a iuventute mea.<verse eID="Jeremiah.31.19" />
+        <verse sID="Jeremiah.31.20" osisID="Jeremiah.31.20" />Dilectus mihi est filius Ephraem, puer in deliciis, quoniam eo quod sermones mei in ipso sunt, memoria memor ero eius. Propterea festinavi super illum, misericordia miserebor eius, dicit Dominus.<verse eID="Jeremiah.31.20" />
+        <verse sID="Jeremiah.31.21" osisID="Jeremiah.31.21" />Statue tibi speculatores, fac poenam, da cor tuum in humeros tuos, viam in qua ambulasti, convertere virgo Israel, revertere in civitates tuas lugens.<verse eID="Jeremiah.31.21" />
+        <verse sID="Jeremiah.31.22" osisID="Jeremiah.31.22" />Usquequo averteris filia inhonorata? Quoniam creavit Dominus salutem in plantationem novam, in qua salute circuibunt homines.<verse eID="Jeremiah.31.22" />
+        <verse sID="Jeremiah.31.23" osisID="Jeremiah.31.23" />Sic dixit Dominus, Adhuc dicent verbum hoc in terra Iuda, et in eius civitatibus, cum revocabo captivitatem eius, Benedictus Dominus super iustum montem sanctum suum,<verse eID="Jeremiah.31.23" />
+        <verse sID="Jeremiah.31.24" osisID="Jeremiah.31.24" />et qui inhabitant in Iudaea, et in omni civitate eius simul cum agricola, et tolletur in grege.<verse eID="Jeremiah.31.24" />
+        <verse sID="Jeremiah.31.25" osisID="Jeremiah.31.25" />Quoniam inebriavi omnem animam sitientem, et omnem animam esurientem satiavi.<verse eID="Jeremiah.31.25" />
+        <verse sID="Jeremiah.31.26" osisID="Jeremiah.31.26" />Propter hoc exsurrexi, et vidi, et somnus meus dulcis mihi factus est.<verse eID="Jeremiah.31.26" />
+        <verse sID="Jeremiah.31.27" osisID="Jeremiah.31.27" />Propterea ecce dies veniunt, dicit Dominus, et seminabo Israel et Iuda semen hominis, et semen pecoris.<verse eID="Jeremiah.31.27" />
+        <verse sID="Jeremiah.31.28" osisID="Jeremiah.31.28" />Et erit, sicut vigilabam super eos deponere, et affligere, ita vigilabo super eos aedificare, et complantare, dicit Dominus.<verse eID="Jeremiah.31.28" />
+        <verse sID="Jeremiah.31.29" osisID="Jeremiah.31.29" />In diebus illis non dicent, Patres manducaverunt uvam acerbam, et dentes filiorum obstupuerunt.<verse eID="Jeremiah.31.29" />
+        <verse sID="Jeremiah.31.30" osisID="Jeremiah.31.30" />Sed unusquisque in suo peccato morietur, et eius, qui manducaverit uvam acerbam, obstupuerunt dentes ipsius.<verse eID="Jeremiah.31.30" />
+        <verse sID="Jeremiah.31.31" osisID="Jeremiah.31.31" />Ecce dies veniunt, dicit Dominus, et consummabo super domum Israel et in domo Iuda testamentum novum,<verse eID="Jeremiah.31.31" />
+        <verse sID="Jeremiah.31.32" osisID="Jeremiah.31.32" />non secundum testamentum, quod disposueram patribus eorum, in die cum apprehendi manum illorum, educere eos de terra Aegypti, quia non permanserunt in testamento meo, et ego neglexi eorum, dicit Dominus.<verse eID="Jeremiah.31.32" />
+        <verse sID="Jeremiah.31.33" osisID="Jeremiah.31.33" />Quia hoc testamentum, quod disponam domum Israel post dies illos, dicit Dominus, Dans legem meam, in sensu eorum scribam illam, et ero illis in Deum, et ipsi erunt mihi in plebem.<verse eID="Jeremiah.31.33" />
+        <verse sID="Jeremiah.31.34" osisID="Jeremiah.31.34" />Et non docebunt unusquisque fratrem suum, dicentes, Cognosce Dominum, quia omnes scient me a minore usque ad maximum eorum, quia propitius ero iniquitatibus eorum, et peccatorum eorum non ero memor amplius.<verse eID="Jeremiah.31.34" />
+        <verse sID="Jeremiah.31.37" osisID="Jeremiah.31.37" />Si exaltatum fuerit coelum in sublime, dicit Dominus, et si humiliata fuerit terra deorsum, at ego non reprobabo genus Israel, dicit Dominus, pro omnibus quae fecerunt.<verse eID="Jeremiah.31.37" />
+        <verse sID="Jeremiah.31.39" osisID="Jeremiah.31.39" />... et circuibit per gyrum de electis lapidibus.<verse eID="Jeremiah.31.39" />
+      </p>
+      <chapter eID="Jeremiah.31" />
+      <chapter sID="Jeremiah.32" osisID="Jeremiah.32" />
+      <title>Chatper 32</title>
+      <p>
+        <verse sID="Jeremiah.32.5" osisID="Jeremiah.32.5" />Et Babylonem ingredietur ...<verse eID="Jeremiah.32.5" />
+        <verse sID="Jeremiah.32.17" osisID="Jeremiah.32.17" />Quis es Domine? Tu fecisti coelum et terram in magna virtute tua, et brachio excelso, nihil apud te est absconditum,<verse eID="Jeremiah.32.17" />
+        <verse sID="Jeremiah.32.18" osisID="Jeremiah.32.18" />Qui facis misericordiam in millia, et qui reddes peccata patrum in sinu filiorum eorum post eos ... Dominus virtutum ...<verse eID="Jeremiah.32.18" />
+        <verse sID="Jeremiah.32.26" osisID="Jeremiah.32.26" />Et factus est sermo Domini ad me, dicens,<verse eID="Jeremiah.32.26" />
+        <verse sID="Jeremiah.32.27" osisID="Jeremiah.32.27" />Ego Dominus Deus universae carnis, nunquid aliquid a me occultatur?<verse eID="Jeremiah.32.27" />
+        <verse sID="Jeremiah.32.29" osisID="Jeremiah.32.29" />Et venient Chaldaei adversus urbem hanc ...<verse eID="Jeremiah.32.29" />
+        <verse sID="Jeremiah.32.30" osisID="Jeremiah.32.30" />Erant enim filii Iuda, et filii Israel soli facientes malum in oculis meis ab adolescentia sua.<verse eID="Jeremiah.32.30" />
+        <verse sID="Jeremiah.32.35" osisID="Jeremiah.32.35" />Et aedificaverunt aras Baal, quae sunt in valle filii Ennom, ut offerrent filios suos et filias suas idolo Moloch ...<verse eID="Jeremiah.32.35" />
+        <verse sID="Jeremiah.32.37" osisID="Jeremiah.32.37" />Ecce ego congregabo eos ex omni terra, qua dispersi illos in ira, et in furore meo, et in exacerbatione magna, et conteram illos in locum istum, et relinquam illos in pavore.<verse eID="Jeremiah.32.37" />
+        <verse sID="Jeremiah.32.38" osisID="Jeremiah.32.38" />Et erunt mihi in plebem, et ero illis in Deum.<verse eID="Jeremiah.32.38" />
+        <verse sID="Jeremiah.32.39" osisID="Jeremiah.32.39" />Et dabo illis viam alteram, et cor aliud, ut timeant me omnibus diebus, in bono cum filiis suis.<verse eID="Jeremiah.32.39" />
+        <verse sID="Jeremiah.32.40" osisID="Jeremiah.32.40" />Et consummabo eis testamentum aeternum, quod non avertam post illos, et timorem dabo in cor eorum ut non discedant a me.<verse eID="Jeremiah.32.40" />
+        <verse sID="Jeremiah.32.41" osisID="Jeremiah.32.41" />Et visitabo super illos benefacere illis, et plantare illos in terra sua in fide, et in omni corde, et in omni animo.<verse eID="Jeremiah.32.41" />
+        <verse sID="Jeremiah.32.44" osisID="Jeremiah.32.44" />... in civitatibus Sephela, et in civitatibus Nageb ...<verse eID="Jeremiah.32.44" />
+      </p>
+      <chapter eID="Jeremiah.32" />
+      <chapter sID="Jeremiah.33" osisID="Jeremiah.33" />
+      <title>Chatper 33</title>
+      <p>
+        <verse sID="Jeremiah.33.25" osisID="Jeremiah.33.25" />... Si non esset testamentum meum in custodia die ac nocte, praecepta coeli et terrae non dedissem.<verse eID="Jeremiah.33.25" />
+      </p>
+      <chapter eID="Jeremiah.33" />
+      <chapter sID="Jeremiah.35" osisID="Jeremiah.35" />
+      <title>Chatper 35</title>
+      <p>
+        <verse sID="Jeremiah.35.15" osisID="Jeremiah.35.15" />Et misi ad vos servos meos prophetas, dicere, Avertimini unusquisque a via nequissima, et meliora facite opera vestra ...<verse eID="Jeremiah.35.15" />
+      </p>
+      <chapter eID="Jeremiah.35" />
+      <chapter sID="Jeremiah.36" osisID="Jeremiah.36" />
+      <title>Chatper 36</title>
+      <p>
+        <verse sID="Jeremiah.36.27" osisID="Jeremiah.36.27" />Et factus est sermo Domini ad Ieremiahmiam, postquam combussit rex capitulum libri, et sermones quos scripsit Baruch ex ore Ieremiahmiae, dixit Deus ad Ieremiahmiam,<verse eID="Jeremiah.36.27" />
+        <verse sID="Jeremiah.36.28" osisID="Jeremiah.36.28" />Accipe tibi chartam alteram, et scribe omnes sermones tuos, qui tunc erant scripti in libro, quem combussit Ioachim rex Iudae.<verse eID="Jeremiah.36.28" />
+        <verse sID="Jeremiah.36.30" osisID="Jeremiah.36.30" />Propter hoc sic dicit Dominus super Ioachim patrem eius regem Iudaeae, Non enim erit ex eo sedens super thronum David, et mortificatum eius erit proiectum in aestu diei, et in glacie noctis.<verse eID="Jeremiah.36.30" />
+        <verse sID="Jeremiah.36.31" osisID="Jeremiah.36.31" />Et respiciam super eum, et super filios eius. Et inferam super eos, et super inhabitantes Ieremiahsalem, super terram Iuda omnia mala, quae locutus sum super eos ...<verse eID="Jeremiah.36.31" />
+      </p>
+      <chapter eID="Jeremiah.36" />
+      <chapter sID="Jeremiah.37" osisID="Jeremiah.37" />
+      <title>Chatper 37</title>
+      <p>
+        <verse sID="Jeremiah.37.19" osisID="Jeremiah.37.19" />Nunc ergo domine mi rex, audi deprecationem meam, et praevaleat apud te obsecratio mea, ne remittas me in domum Ionathan scribae, ne ibi peream.<verse eID="Jeremiah.37.19" />
+      </p>
+      <chapter eID="Jeremiah.37" />
+      <chapter sID="Jeremiah.42" osisID="Jeremiah.42" />
+      <title>Chatper 42</title>
+      <p>
+        <verse sID="Jeremiah.42.2" osisID="Jeremiah.42.2" />... quia relicti sumus pauci de multis, sicut oculi tui vident,<verse eID="Jeremiah.42.2" />
+        <verse sID="Jeremiah.42.3" osisID="Jeremiah.42.3" />Et ostende nobis viam, per quam incedamus, et verbum, quod faciamus.<verse eID="Jeremiah.42.3" />
+      </p>
+      <chapter eID="Jeremiah.42" />
+      <chapter sID="Jeremiah.46" osisID="Jeremiah.46" />
+      <title>Chatper 46</title>
+      <p>
+        <verse sID="Jeremiah.46.3" osisID="Jeremiah.46.3" />Assumite arma, scuta adducite in praelium.<verse eID="Jeremiah.46.3" />
+        <verse sID="Jeremiah.46.4" osisID="Jeremiah.46.4" />Sternite equos, ascendite equites ... polite lanceas ...<verse eID="Jeremiah.46.4" />
+      </p>
+      <chapter eID="Jeremiah.46" />
+      <chapter sID="Jeremiah.48" osisID="Jeremiah.48" />
+      <title>Chatper 48</title>
+      <p>
+        <verse sID="Jeremiah.48.7" osisID="Jeremiah.48.7" />... egredietur Chamos in captivitatem, sacerdotes illius, et principes eius simul.<verse eID="Jeremiah.48.7" />
+        <verse sID="Jeremiah.48.10" osisID="Jeremiah.48.10" />Maledictus, qui facit opera Dei negligenter ...<verse eID="Jeremiah.48.10" />
+        <verse sID="Jeremiah.48.13" osisID="Jeremiah.48.13" />Confundetur Moab in Chamos, sicut confusa est domus Israel in Bethel ...<verse eID="Jeremiah.48.13" />
+        <verse sID="Jeremiah.48.32" osisID="Jeremiah.48.32" />Sicut fletum Iazer deflebo te vinea, quia deserta est civitas Iazer.<verse eID="Jeremiah.48.32" />
+        <verse sID="Jeremiah.48.33" osisID="Jeremiah.48.33" />... vinum in torcularibus tuis mane non calcaverunt. Meridie autem non fecerunt.<verse eID="Jeremiah.48.33" />
+        <verse sID="Jeremiah.48.37" osisID="Jeremiah.48.37" />Omnia capita in omni loco attondentur, et omnis barba radetur.<verse eID="Jeremiah.48.37" />
+      </p>
+      <chapter eID="Jeremiah.48" />
+      <chapter sID="Jeremiah.49" osisID="Jeremiah.49" />
+      <title>Chatper 49</title>
+      <p>
+        <verse sID="Jeremiah.49.35" osisID="Jeremiah.49.35" />Haec dicit Dominus, Confringantur arcus in Aelam, principatus eorum.<verse eID="Jeremiah.49.35" />
+        <verse sID="Jeremiah.49.36" osisID="Jeremiah.49.36" />Et superducam quatuor ventos a quatuor cardinibus coeli, et dispergam illos per omnes ventos coeli, nec erit gens, quae illuc non veniat, quae expellat Aelam.<verse eID="Jeremiah.49.36" />
+        <verse sID="Jeremiah.49.37" osisID="Jeremiah.49.37" />Et terrebo illos coram inimicis eorum, qui quaerunt animas eorum, et superducam in eos secundum iram indignationis meae, et mittam post eos gladium meum, donec consumat eos.<verse eID="Jeremiah.49.37" />
+        <verse sID="Jeremiah.49.38" osisID="Jeremiah.49.38" />Et ponam sedem meam in Aelam, et perdam inde regem et potentes.<verse eID="Jeremiah.49.38" />
+        <verse sID="Jeremiah.49.39" osisID="Jeremiah.49.39" />Eritque in novissimis diebus, avertam captivitatem Aelam, dicit Dominus.<verse eID="Jeremiah.49.39" />
+      </p>
+      <chapter eID="Jeremiah.49" />
+      <chapter sID="Jeremiah.50" osisID="Jeremiah.50" />
+      <title>Chatper 50</title>
+      <p>
+        <verse sID="Jeremiah.50.17" osisID="Jeremiah.50.17" />Ovis errans Israel, leones eiecerunt eam, primus devoravit eam rex Assur, et novissimus confringet ossa illius rex Babylonis.<verse eID="Jeremiah.50.17" />
+        <verse sID="Jeremiah.50.20" osisID="Jeremiah.50.20" />... in tempore illo, dicit Dominus, quaeretur iniquitas in Israel, et non erit. Et peccatum in Iuda, et non invenietur ...<verse eID="Jeremiah.50.20" />
+        <verse sID="Jeremiah.50.23" osisID="Jeremiah.50.23" />... contritus est malleus universae terrae ...<verse eID="Jeremiah.50.23" />
+      </p>
+      <chapter eID="Jeremiah.50" />
+      <chapter sID="Jeremiah.51" osisID="Jeremiah.51" />
+      <title>Chatper 51</title>
+      <p>
+        <verse sID="Jeremiah.51.6" osisID="Jeremiah.51.6" />Fugite de medio Babylonis, et servate unusquisque animam suam ...<verse eID="Jeremiah.51.6" />
+        <verse sID="Jeremiah.51.7" osisID="Jeremiah.51.7" />Calix aureus Babylon in manu Domini, a quo inebriatae sunt gentes, a vino eius biberunt omnes gentes, ideo commotae sunt.<verse eID="Jeremiah.51.7" />
+        <verse sID="Jeremiah.51.8" osisID="Jeremiah.51.8" />Et subito cecidit Babylon, et contrita est ... accipite resinam corruptioni eius, si quomodo sanabitur.<verse eID="Jeremiah.51.8" />
+        <verse sID="Jeremiah.51.9" osisID="Jeremiah.51.9" />Curavimus Babyloniam, et sanata non est, relinquamus eam, et abeat unusquisque in terram suam ...<verse eID="Jeremiah.51.9" />
+        <verse sID="Jeremiah.51.15" osisID="Jeremiah.51.15" />Dominus, qui fecit coelum et terram in virtute, correxit orbem terrae, in sua prudentia extendit coelum,<verse eID="Jeremiah.51.15" />
+        <verse sID="Jeremiah.51.16" osisID="Jeremiah.51.16" />et multitudinem aquarum in coelo, perduxit nubes ab extremo terrae, fulgura in nubibus, et eiecit ventos de thesauris suis.<verse eID="Jeremiah.51.16" />
+        <verse sID="Jeremiah.51.17" osisID="Jeremiah.51.17" />Infatuatus est omnis homo ab scientia sua, confusus est omnis artifex in sculptilibus suis, quia falsum conflavit, non est spiritus in illis.<verse eID="Jeremiah.51.17" />
+        <verse sID="Jeremiah.51.18" osisID="Jeremiah.51.18" />Vacuata sunt opera inclusa, in tempore conspectionis illorum peribunt.<verse eID="Jeremiah.51.18" />
+        <verse sID="Jeremiah.51.25" osisID="Jeremiah.51.25" />Ecce ego ad te mons corrupte, qui corrumpis omnem terram ...<verse eID="Jeremiah.51.25" />
+      </p>
+      <chapter eID="Jeremiah.51" />
+    </div>
+  </osisText>
+</osis>

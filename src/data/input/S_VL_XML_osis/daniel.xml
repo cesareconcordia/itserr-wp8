@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Dan" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Dan">
+        <title>daniel</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Dan</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>daniel</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Dan">
+      <title>daniel</title>
+      <chapter sID="Dan.1" osisID="Dan.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Dan.1.3" osisID="Dan.1.3" />Et dixit rex Asphanez principi eunuchorum, ut introduceret de filiis captivitatis Israel, et de semine regio, et de phorthommim,<verse eID="Dan.1.3" />
+        <verse sID="Dan.1.4" osisID="Dan.1.4" />pueros, in quibus non esset macula, pulchros facie, et intelligentes sapientiam ...<verse eID="Dan.1.4" />
+      </p>
+      <chapter eID="Dan.1" />
+      <chapter sID="Dan.2" osisID="Dan.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Dan.2.20" osisID="Dan.2.20" />... quoniam sapientia, et virtus, et intellectus ipsius sunt.<verse eID="Dan.2.20" />
+        <verse sID="Dan.2.21" osisID="Dan.2.21" />Et ipse mutat tempora, et saecula ...<verse eID="Dan.2.21" />
+        <verse sID="Dan.2.31" osisID="Dan.2.31" />... et ecce imago nimis magna, et contemplatio eius imaginis metuenda, et elata stabat contra te.<verse eID="Dan.2.31" />
+        <verse sID="Dan.2.32" osisID="Dan.2.32" />Cuius caput fuit ex auro bono, pectus et brachia eius argentea, venter et femora aerea,<verse eID="Dan.2.32" />
+        <verse sID="Dan.2.33" osisID="Dan.2.33" />pedes autem ex parte quidem ferrei, ex parte autem fictiles,<verse eID="Dan.2.33" />
+        <verse sID="Dan.2.34" osisID="Dan.2.34" />quoadusque abscissus est lapis de monte sine manibus concidentium, et percussit imaginem super pedes ferreos et fictiles, et comminuit eos minutatim.<verse eID="Dan.2.34" />
+        <verse sID="Dan.2.35" osisID="Dan.2.35" />Et factum est, simul ferrum, et testa, et aeramentum, et argentum, et aurum, et facta sunt minuta quasi palea aut pulvis in area, aestate. Et ventilavit illa ventus, ita ut nihil remanserit ex illis, et lapis, qui percussit imaginem, factus est mons magnus, et implevit totam terram,<verse eID="Dan.2.35" />
+        <verse sID="Dan.2.41" osisID="Dan.2.41" />Et quoniam vidisti pedes, et digitos, partem quidem fictilem, partem autem ferream, regnum divisum erit, et a radice ferrea erit in eo, quemadmodum vidisti ferrum commistum testae.<verse eID="Dan.2.41" />
+        <verse sID="Dan.2.42" osisID="Dan.2.42" />Et digiti pedum, pars quidem aliqua ferrea, pars autem aliqua fictilis, pars aliqua regni erit fortis, et ab ipsa pars erit minuta.<verse eID="Dan.2.42" />
+        <verse sID="Dan.2.43" osisID="Dan.2.43" />Quoniam vidisti ferrum commistum testae, commistiones erunt in semine hominum, et non erunt adiuncti invicem, quemadmodum ferrum non commiscetur cum testa.<verse eID="Dan.2.43" />
+        <verse sID="Dan.2.44" osisID="Dan.2.44" />Et in diebus regum illorum, excitabit Deus coeli regnum, quod in aeternum non corrumpetur, et regnum eius alteri populo non relinquetur, comminuet, et ventilabit omnia regna, et ipsum exaltabitur in aeternum.<verse eID="Dan.2.44" />
+        <verse sID="Dan.2.45" osisID="Dan.2.45" />Quemadmodum vidisti, quoniam de monte praecisus est lapis sine manibus, et comminuit testam, ferrum, et aeramentum, et argentum, et aurum, Deus magnus significavit regi quae futura sunt post haec, et verum est somnium, et fidelis interpretatio eius.<verse eID="Dan.2.45" />
+        <verse sID="Dan.2.47" osisID="Dan.2.47" />... Vere Deus vester ipse est Deus vivus, et aperiens mysteria ...<verse eID="Dan.2.47" />
+      </p>
+      <chapter eID="Dan.2" />
+      <chapter sID="Dan.3" osisID="Dan.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Dan.3.15" osisID="Dan.3.15" />... si non feceritis, mittemini in caminum ignis ardentis ...<verse eID="Dan.3.15" />
+        <verse sID="Dan.3.16" osisID="Dan.3.16" />Responderunt autem Sidrac, Misac, et Abdenago, et dixerunt regi Nabuchodonosor, Rex, non opus est nobis de hoc verbo respondere tibi.<verse eID="Dan.3.16" />
+        <verse sID="Dan.3.17" osisID="Dan.3.17" />Est enim Deus, cui nos servimus, potens eripere nos de camino ignis ardentis, et de manibus tuis, rex, liberabit nos.<verse eID="Dan.3.17" />
+        <verse sID="Dan.3.18" osisID="Dan.3.18" />Et si non, notum sit tibi, quia diis tuis non servimus, et imaginem auream, quam statuisti, non adoramus.<verse eID="Dan.3.18" />
+        <verse sID="Dan.3.25" osisID="Dan.3.25" />Stans Azarias precatus est, et aperuit os suum, et exomologesin faciebat Deo simul cum sodalibus suis in medio ignis,<verse eID="Dan.3.25" />
+        <verse sID="Dan.3.26" osisID="Dan.3.26" />Benedictus es Domine Deus patrum nostrorum, et laudabile, et gloriosum nomen tuum in saecula,<verse eID="Dan.3.26" />
+        <verse sID="Dan.3.27" osisID="Dan.3.27" />quoniam iustus es in omnibus quae fecisti nobis, et omnia opera tua veritas.<verse eID="Dan.3.27" />
+        <verse sID="Dan.3.28" osisID="Dan.3.28" />Et iudicia veritatis fecisti secundum omnia quae adduxisti nobis, et super civitatem sanctam patrum nostrorum Ierusalem, quoniam in veritate, et iudicio fecisti haec propter iniquitates nostras.<verse eID="Dan.3.28" />
+        <verse sID="Dan.3.29" osisID="Dan.3.29" />Quoniam peccavimus, et inique egimus discedere a te. Et perquam peccavimus in omnibus,<verse eID="Dan.3.29" />
+        <verse sID="Dan.3.30" osisID="Dan.3.30" />et mandatis tuis non audivimus, neque conservavimus, neque fecimus sicut praecepisti nobis ut bene nobis esset,<verse eID="Dan.3.30" />
+        <verse sID="Dan.3.31" osisID="Dan.3.31" />et omnia, quaecunque nobis fecisti, et omnia, quaecunque adduxisti nobis, in vero iudicio fecisti,<verse eID="Dan.3.31" />
+        <verse sID="Dan.3.32" osisID="Dan.3.32" />et tradidisti nos in manus inimicorum, inimicissimorum, apostatarum, et regno iniquo, et nequissimo prae omni terra.<verse eID="Dan.3.32" />
+        <verse sID="Dan.3.33" osisID="Dan.3.33" />Et nunc non est nobis aperire os, confusio et exprobratio facta est servis tuis, et colentibus te.<verse eID="Dan.3.33" />
+        <verse sID="Dan.3.34" osisID="Dan.3.34" />Et ne tradas nos in finem propter nomen tuum, et ne destruas testamentum tuum,<verse eID="Dan.3.34" />
+        <verse sID="Dan.3.35" osisID="Dan.3.35" />et ne avertas misericordiam tuam a nobis, propter Abraham dilectum tuum, et Isaac servum tuum, et Israel sanctum tuum,<verse eID="Dan.3.35" />
+        <verse sID="Dan.3.36" osisID="Dan.3.36" />quibus locutus es adimplere semen eorum quasi stellas coeli, et quasi arenam maris quae ad oram maris est,<verse eID="Dan.3.36" />
+        <verse sID="Dan.3.37" osisID="Dan.3.37" />quoniam Domine minorati sumus prae omnibus gentibus, et sumus humiles in omni terra hodie propter iniquitates nostras.<verse eID="Dan.3.37" />
+        <verse sID="Dan.3.38" osisID="Dan.3.38" />Et non est in tempore hoc princeps, et propheta, et dux, neque holocaustomata, neque sacrificium, neque oblatio, neque incensus, nec locus ad sacrificium, neque oblatio, neque incensus, nec locus ad sacrificandum in conspectu tuo,<verse eID="Dan.3.38" />
+        <verse sID="Dan.3.39" osisID="Dan.3.39" />et invenire misericordiam, sed in anima contribulata, et spiritu humiliationis accipimus nos.<verse eID="Dan.3.39" />
+        <verse sID="Dan.3.40" osisID="Dan.3.40" />Quasi in holocausto arietum, et taurorum, et multitudine agnoru pinguium, sic fiat sacrificium nostrum in conspectu tuo hodie, et perficere subsequentes te, quoniam non est confusio confidenti in te.<verse eID="Dan.3.40" />
+        <verse sID="Dan.3.41" osisID="Dan.3.41" />Et nunc exsequimur in toto corde, et timemus te, et inquirimus faciem tuam.<verse eID="Dan.3.41" />
+        <verse sID="Dan.3.42" osisID="Dan.3.42" />Ne confundas nos, sed fac nobiscum secundum maiestatem tuam, et secundum multitudinem miserationum tuarum.<verse eID="Dan.3.42" />
+        <verse sID="Dan.3.43" osisID="Dan.3.43" />Et libera nos secundum mirabilia tua, et da gloriam nomini tuo Domine,<verse eID="Dan.3.43" />
+        <verse sID="Dan.3.44" osisID="Dan.3.44" />et confundantur omnes, qui ostendunt servis tuis mala, et confundantur ab omni potentia sua, et virtutes eorum conterantur,<verse eID="Dan.3.44" />
+        <verse sID="Dan.3.45" osisID="Dan.3.45" />et cognoscant quoniam tu Dominus Deus solus, et gloriosus in omni orbe terrarum.<verse eID="Dan.3.45" />
+        <verse sID="Dan.3.51" osisID="Dan.3.51" />Tunc hi tres quasi ex uno ore hymnum dicebant, et glorificabant Deum in fornace, dicentes,<verse eID="Dan.3.51" />
+        <verse sID="Dan.3.52" osisID="Dan.3.52" />Benedictus es Domine Deus patrum nostrorum, et laudabilis, et superexaltatus in saecula, benedictum nomen gloriae tuae, quod est sanctum, et laudabile, et superexaltatum in saecula.<verse eID="Dan.3.52" />
+        <verse sID="Dan.3.53" osisID="Dan.3.53" />Benedictus es in templo sancto gloriae tuae, et laudabilis, et gloriosus in saecula.<verse eID="Dan.3.53" />
+        <verse sID="Dan.3.54" osisID="Dan.3.54" />[55] Benedictus es cernens abyssos, sedens super cherubim, et laudabilis, et superexaltatus in saecula.<verse eID="Dan.3.54" />
+        <verse sID="Dan.3.55" osisID="Dan.3.55" />[54] Benedictus es super sedem regni tui, et laudabilis, et superexaltatus in saecula.<verse eID="Dan.3.55" />
+        <verse sID="Dan.3.56" osisID="Dan.3.56" />Benedictus es in firmamento coeli, et laudabilis et gloriosus in saecula.<verse eID="Dan.3.56" />
+        <verse sID="Dan.3.57" osisID="Dan.3.57" />Benedicite omnia opera Domini Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.57" />
+        <verse sID="Dan.3.58" osisID="Dan.3.58" />[59] Benedicite coeli Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.58" />
+        <verse sID="Dan.3.59" osisID="Dan.3.59" />[58] Benedicite angeli Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.59" />
+        <verse sID="Dan.3.60" osisID="Dan.3.60" />Bendicite aquae omnes, quae estis super coelos, Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.60" />
+        <verse sID="Dan.3.61" osisID="Dan.3.61" />Benedicite omnes virtutes Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.61" />
+        <verse sID="Dan.3.62" osisID="Dan.3.62" />Benedicite sol et luna Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.62" />
+        <verse sID="Dan.3.63" osisID="Dan.3.63" />Benedicite sidera coeli Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.63" />
+        <verse sID="Dan.3.64" osisID="Dan.3.64" />Benedicite omnis imber et ros Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.64" />
+        <verse sID="Dan.3.65" osisID="Dan.3.65" />Benedicite omnes spiritus Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.65" />
+        <verse sID="Dan.3.66" osisID="Dan.3.66" />Benedicite ignis et aestas Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.66" />
+        <verse sID="Dan.3.67" osisID="Dan.3.67" />[71] Benedicite noctes et dies Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.67" />
+        <verse sID="Dan.3.68" osisID="Dan.3.68" />[72] Benedicite lux et tenebrae Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.68" />
+        <verse sID="Dan.3.69" osisID="Dan.3.69" />[67] Benedicite hiems et aestus Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.69" />
+        <verse sID="Dan.3.70" osisID="Dan.3.70" />Benedicite glacies et nives Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.70" />
+        <verse sID="Dan.3.71" osisID="Dan.3.71" />[73] Benedicite fulgura et nubes Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.71" />
+        <verse sID="Dan.3.72" osisID="Dan.3.72" />[74] Benedicat terra Dominum, umnum dicat et superexaltet eum in saecula.<verse eID="Dan.3.72" />
+        <verse sID="Dan.3.73" osisID="Dan.3.73" />[75] Benedicite montes et colles Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.73" />
+        <verse sID="Dan.3.74" osisID="Dan.3.74" />[76] Benedicite omnia nascentia in terra, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.74" />
+        <verse sID="Dan.3.75" osisID="Dan.3.75" />[78] Benedicite maria et flumina Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.75" />
+        <verse sID="Dan.3.76" osisID="Dan.3.76" />[77] Benedicite fontes Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.76" />
+        <verse sID="Dan.3.79" osisID="Dan.3.79" />Benedicite cete, et omnia quae moventur in aquis, Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.79" />
+        <verse sID="Dan.3.80" osisID="Dan.3.80" />Benedicite volucres coeli Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.80" />
+        <verse sID="Dan.3.81" osisID="Dan.3.81" />Benedicite bestiae et iumenta Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.81" />
+        <verse sID="Dan.3.82" osisID="Dan.3.82" />Benedicite filii hominum Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.82" />
+        <verse sID="Dan.3.83" osisID="Dan.3.83" />Benedicat Israel Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.83" />
+        <verse sID="Dan.3.84" osisID="Dan.3.84" />Benedicite sacerdotes Domini Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.84" />
+        <verse sID="Dan.3.85" osisID="Dan.3.85" />Benedicite servi Domini Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.85" />
+        <verse sID="Dan.3.86" osisID="Dan.3.86" />Benedicite spiritus et animae iustorum Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.86" />
+        <verse sID="Dan.3.87" osisID="Dan.3.87" />Benedicite sancti et humiles corde Dominum, umnum dicite et superexaltate eum in saecula.<verse eID="Dan.3.87" />
+        <verse sID="Dan.3.88" osisID="Dan.3.88" />Benedicite Annanias, Azarias, Misael Dominum, umnum dicite et superexaltate eum in saecula. Benedicamus Patrem, et Filium et Spiritum Sanctum, laudem dicamus et superexaltemus eum in saecula. Quoniam eripuit nos de inferis, et de manu forti liberavit nos, et eripuit nos de medio ardentis flammae, et de medio ignis eripuit nos.<verse eID="Dan.3.88" />
+        <verse sID="Dan.3.89" osisID="Dan.3.89" />Confitemini Domini, quoniam suavis, quoniam in saeculum misericordia eius.<verse eID="Dan.3.89" />
+        <verse sID="Dan.3.90" osisID="Dan.3.90" />Benedicite omnes colentes Dominum Deum deorum, hymnum dicite et confitemini, quoniam in saeculum misericordia eius.<verse eID="Dan.3.90" />
+        <verse sID="Dan.3.91" osisID="Dan.3.91" />... Nonne tres viros misimus in fornacem vinctos? Et dixerunt ei, Vere rex.<verse eID="Dan.3.91" />
+        <verse sID="Dan.3.92" osisID="Dan.3.92" />Et dixit, Ecce ego video quatuor viros solutos, et deambulantes in medio ignis, et corruptio nulla est in eis, et aspectus quarti similis est filio Dei.<verse eID="Dan.3.92" />
+        <verse sID="Dan.3.94" osisID="Dan.3.94" />... et saraballae eorum non sunt immutatae ...<verse eID="Dan.3.94" />
+        <verse sID="Dan.3.96" osisID="Dan.3.96" />Et ego proponam decretum omnibus tribubus, et linguis in omni terra, Quicunque dixerint blasphemiam in Deum Sidrac, Misac, et Abdenago, in interitum erunt, et domus eorum in perditionem ...<verse eID="Dan.3.96" />
+        <verse sID="Dan.3.99" osisID="Dan.3.99" />Signa, et ostenta, quae fecit mihi Dominus Deus excelsus, placuit mihi in conspectu meo annuntiare,<verse eID="Dan.3.99" />
+        <verse sID="Dan.3.100" osisID="Dan.3.100" />quam magnum, et potens sit regnum eius, regnum sempiternum, et potestas eius in saecula saeculorum.<verse eID="Dan.3.100" />
+      </p>
+      <chapter eID="Dan.3" />
+      <chapter sID="Dan.4" osisID="Dan.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Dan.4.5" osisID="Dan.4.5" />... Daniel, cui nomen Baltasar secundum nomen Dei mei, spiritum sanctum Dei in se habet ...<verse eID="Dan.4.5" />
+        <verse sID="Dan.4.14" osisID="Dan.4.14" />... Dei est enim regnum, et cui vult, dabit illud ...<verse eID="Dan.4.14" />
+        <verse sID="Dan.4.15" osisID="Dan.4.15" />... omnes sapientes regni mei non potuerunt interpretationem somnii mei declarare mihi, tu autem Daniel potes, quia spiritus Dei sanctus in te est.<verse eID="Dan.4.15" />
+        <verse sID="Dan.4.24" osisID="Dan.4.24" />Propterea rex consilium meum placeat tibi, et peccata tua eleemosynis redime, et iniustitias tuas miserationibus pauperum, et erit Deus parcens peccatis tuis.<verse eID="Dan.4.24" />
+        <verse sID="Dan.4.31" osisID="Dan.4.31" />... et potestas eius potestas aeterna, et regnum eius non interibit.<verse eID="Dan.4.31" />
+      </p>
+      <chapter eID="Dan.4" />
+      <chapter sID="Dan.5" osisID="Dan.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Dan.5.11" osisID="Dan.5.11" />Ecce vir in regno tuo, in quo spiritus Dei est.<verse eID="Dan.5.11" />
+        <verse sID="Dan.5.17" osisID="Dan.5.17" />... Dona tua tecum sint, rex ...<verse eID="Dan.5.17" />
+        <verse sID="Dan.5.25" osisID="Dan.5.25" />... MANE, THECEL, PHARES.<verse eID="Dan.5.25" />
+        <verse sID="Dan.5.26" osisID="Dan.5.26" />... MANE, numeravit Deus regnum tuum, et implevit illud.<verse eID="Dan.5.26" />
+        <verse sID="Dan.5.27" osisID="Dan.5.27" />THECEL, ponderatum est in statera, et inventum est minus habens.<verse eID="Dan.5.27" />
+        <verse sID="Dan.5.28" osisID="Dan.5.28" />PHARES, divisum est regnum tuum, et datum est Medis et Persis.<verse eID="Dan.5.28" />
+      </p>
+      <chapter eID="Dan.5" />
+      <chapter sID="Dan.6" osisID="Dan.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Dan.6.3" osisID="Dan.6.3" />Et fuit Daniel praepositus illis, quoniam spiritus erat superans in eo.<verse eID="Dan.6.3" />
+        <verse sID="Dan.6.23" osisID="Dan.6.23" />Et rex vehementer gavisus est, et iussit Danielem de lacu leonum eiici, et nihil ei nocuerunt leones, quia confidebat et crediderat in Deo suo.<verse eID="Dan.6.23" />
+        <verse sID="Dan.6.24" osisID="Dan.6.24" />Et iussit rex, et perduxerunt illos homines, qui accusaverant Danielem, et miserunt illos in lacu leonum, et uxores eorum, et natos eorum, et antequam pervenirent in pavimentum lacus. Apprehensi sunt a leonibus, et omnia ossa eorum comminuerunt.<verse eID="Dan.6.24" />
+        <verse sID="Dan.6.25" osisID="Dan.6.25" />Tunc Darius rex scripsit, Omnibus gentibus, tribubus, et linguis, quae sunt in regno meo, PAX sit vobiscum.<verse eID="Dan.6.25" />
+        <verse sID="Dan.6.26" osisID="Dan.6.26" />A facie mea censeo, et ago, ut hi omnes qui sunt in regno meo, sint timentes et trementes summum Deum, cui servit Daniel. Quia ipse est Dominus vivus, et permanens in saecula, et regnum eius non transibit, et dominatio eius in perpetuum ambulat.<verse eID="Dan.6.26" />
+        <verse sID="Dan.6.27" osisID="Dan.6.27" />Et solus facit signa, et prodigia, et mirabilia in coelo et in terra, qui eripuit Danielem de lacu leonum.<verse eID="Dan.6.27" />
+      </p>
+      <chapter eID="Dan.6" />
+      <chapter sID="Dan.7" osisID="Dan.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Dan.7.1" osisID="Dan.7.1" />In primo anno Baltassar regis Chaldaeorum, Daniel somnium vidit, et visio capitis eius in cubili eius, et somnium suum scripsit,<verse eID="Dan.7.1" />
+        <verse sID="Dan.7.2" osisID="Dan.7.2" />Ego Daniel videbam, et ecce quatuor venti coeli pugnabant in mari magno.<verse eID="Dan.7.2" />
+        <verse sID="Dan.7.3" osisID="Dan.7.3" />Et quatuor bestiae grandes ascendebant de mari, altera alteram magnitudine antecedens.<verse eID="Dan.7.3" />
+        <verse sID="Dan.7.4" osisID="Dan.7.4" />Prima ut leaena, et alas habebat aquilae, aspiciebam donec evulsae sunt alae eius, et sublata est de terra, et super pedes quasi homo stetit, et cor hominis datum est ei.<verse eID="Dan.7.4" />
+        <verse sID="Dan.7.5" osisID="Dan.7.5" />Et ecce alia bestia similis urso, et in una parte stetit, et tria latera in ore eius, et in medio dentium eius, et sic dixit ei, Surge, et manduca carnes multas.<verse eID="Dan.7.5" />
+        <verse sID="Dan.7.6" osisID="Dan.7.6" />Post haec aspiciebam, et ecce bestia ut leopardus, et ei alae quatuor volucris super eam, et quatuor capita bestiae, et potestas data est ei.<verse eID="Dan.7.6" />
+        <verse sID="Dan.7.7" osisID="Dan.7.7" />Post haec aspiciebam, et ecce bestia quarta horribilis, admirabilis, et fortis vehementer, dentes eius ferrei manducabant et comminuebant, et reliqua pedibus suis conculcabat, haec bestia maior caeteris bestiis, quae antea visae sunt, et cornua decem ei.<verse eID="Dan.7.7" />
+        <verse sID="Dan.7.8" osisID="Dan.7.8" />Et intendebam in cornua eius, et ecce cornu aliud minus ascendit in medio eorum, et tria cornua eorum, quae erant ante, eradicata sunt a facie eius, et ecce oculi hominis in cornu hoc, et os loquens magna.<verse eID="Dan.7.8" />
+        <verse sID="Dan.7.9" osisID="Dan.7.9" />Videbam quoadusque sedes positae sunt, et vetustus dierum sedebat, vestitus eius albus ut nix, et capillus capitis eius ut lana munda, et sedes eius flamma ignis, rotae eius ignis ardens.<verse eID="Dan.7.9" />
+        <verse sID="Dan.7.10" osisID="Dan.7.10" />Fluvius ignis lucebat ante eum, millia millium serviebant ei, et dena millia denum millium astabant ante eum, in iudicium sedit, et libri aperti sunt.<verse eID="Dan.7.10" />
+        <verse sID="Dan.7.11" osisID="Dan.7.11" />Videbam tunc a voce sermonum magnorum, quos cornu illud loquebatur, quoadusque interiit bestia, et periit, et corpus eius datum est ut comburatur,<verse eID="Dan.7.11" />
+        <verse sID="Dan.7.12" osisID="Dan.7.12" />et reliquarum bestiarum regnum translatum est, et longitudo vitae data est eis usque ad tempus.<verse eID="Dan.7.12" />
+        <verse sID="Dan.7.13" osisID="Dan.7.13" />Videbam in visione noctis, et ecce cum nubibus coeli ut filius hominis veniens venit, usque ad vetustum dierum anticipavit, et oblatus est ei.<verse eID="Dan.7.13" />
+        <verse sID="Dan.7.14" osisID="Dan.7.14" />Et datum est ei regnum, et honor, et imperium, et omnes populi, tribus, linguae servient ei, et potestas eius, potestas perpetua, quae nunquam transibit, et imperium eius nunquam corrumpetur.<verse eID="Dan.7.14" />
+        <verse sID="Dan.7.15" osisID="Dan.7.15" />Horruit spiritus meus in habitu meo, et ego Daniel territus sum in eis, et visus capitis mei conturbabat me.<verse eID="Dan.7.15" />
+        <verse sID="Dan.7.16" osisID="Dan.7.16" />Et accessi ad unum circumstantium, et veritatem quaerebam ab eo de omnibus his. Et dixit mihi veritatem, et interpretationem sermonum declaravit mihi,<verse eID="Dan.7.16" />
+        <verse sID="Dan.7.17" osisID="Dan.7.17" />Hae bestiae quatuor magnae, quatuor sunt regna, quae surgent in terra.<verse eID="Dan.7.17" />
+        <verse sID="Dan.7.18" osisID="Dan.7.18" />Et accipient regnum sancti altissimi Dei, et obtinebunt illud usque in saeculum.<verse eID="Dan.7.18" />
+        <verse sID="Dan.7.19" osisID="Dan.7.19" />Et quaerebam diligenter de bestia quarta, quod erat praeter caeteras bestias horribilis valde, dentes et ungues eius ferrei, manducabat, et comminuebat, et reliqua pedibus suis conculcabat,<verse eID="Dan.7.19" />
+        <verse sID="Dan.7.20" osisID="Dan.7.20" />et de cornu eius decimo, quod erat in capite eius, et de altero cornu, quod ascendit, et priora tria cornua excussit, cuius oculi, et os loquens magna, et visus eius maior caeteris.<verse eID="Dan.7.20" />
+        <verse sID="Dan.7.21" osisID="Dan.7.21" />Videbatur, et cornu illud faciebat bellum cum sanctis, et praevalebat adversus eos,<verse eID="Dan.7.21" />
+        <verse sID="Dan.7.22" osisID="Dan.7.22" />quoadusque advenit vetustus dierum, et iudicium dedit sanctis altissimi Dei, et anticipavit tempus, et regnum obtinuerunt sancti.<verse eID="Dan.7.22" />
+        <verse sID="Dan.7.23" osisID="Dan.7.23" />Et dixit, Bestia quarta, quartum regnum erit in terra, quod eminebit super omnia regna, et manducabit omnem terram, et conculcabit eam, et concidet.<verse eID="Dan.7.23" />
+        <verse sID="Dan.7.24" osisID="Dan.7.24" />Decem cornua eius, decem reges exsurgent, et post eos exsurget alius, qui superabit malis omnes qui ante eum fuerunt, et tres humiles faciet.<verse eID="Dan.7.24" />
+        <verse sID="Dan.7.25" osisID="Dan.7.25" />Et verba adversus altissimum Deum loquetur, et sanctos altissimi Dei conteret, et excogitabit mutare tempore, et legem, et dabitur in manu eius usque ad tempus temporum, et dimidium temporis.<verse eID="Dan.7.25" />
+        <verse sID="Dan.7.26" osisID="Dan.7.26" />Et iudicium sedebit, et regnum transferet, ut exterminet, et perdat usque ad finem.<verse eID="Dan.7.26" />
+        <verse sID="Dan.7.27" osisID="Dan.7.27" />Et regnum, et potestas, et magnitudo regum, qui sub omni coelo sunt, data est sanctis Altissimi, et regnum eius, regnum sempiternum, et omnes principatus ipsi servient, et obaudient.<verse eID="Dan.7.27" />
+        <verse sID="Dan.7.28" osisID="Dan.7.28" />Hucusque finis sermonis. Ego Daniel multum cogitationes meae conturbabant me, et forma mea immutata est super me, et verbum in corde meo conservavi.<verse eID="Dan.7.28" />
+      </p>
+      <chapter eID="Dan.7" />
+      <chapter sID="Dan.8" osisID="Dan.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Dan.8.11" osisID="Dan.8.11" />... et sanctum desolabitur.<verse eID="Dan.8.11" />
+        <verse sID="Dan.8.12" osisID="Dan.8.12" />Et datum est in sacrificium peccatum, et proiecta est in terra iustitia, et fecit, et prospere cessit.<verse eID="Dan.8.12" />
+        <verse sID="Dan.8.15" osisID="Dan.8.15" />Et factum est cum viderem ego Daniel visum, et quaerebam intellectum, et ecce stetit in conspectu meo ut visus viri.<verse eID="Dan.8.15" />
+        <verse sID="Dan.8.16" osisID="Dan.8.16" />Et audivi vocem viri inter Ubal, et vocavit, et dixit, Fac intelligere illum visionem.<verse eID="Dan.8.16" />
+        <verse sID="Dan.8.23" osisID="Dan.8.23" />Et in novissimo regni ipsorum exsurget rex improbus facie valde, et intelligens quaestiones,<verse eID="Dan.8.23" />
+        <verse sID="Dan.8.24" osisID="Dan.8.24" />et valida virtus eius, et admirabilis, et corrumpet, et diriget, et faciet. Et exterminabit fortes, et populum sanctum,<verse eID="Dan.8.24" />
+        <verse sID="Dan.8.25" osisID="Dan.8.25" />et iugum torquis eius dirigetur, dolus in manu eius, et in corde suo exaltabitur, et dolo disperdet multos, et ad perditionem multorum stabit, et quomodo ova manu conteret.<verse eID="Dan.8.25" />
+        <verse sID="Dan.8.27" osisID="Dan.8.27" />... stupebam visionem, et non erat intelligens.<verse eID="Dan.8.27" />
+      </p>
+      <chapter eID="Dan.8" />
+      <chapter sID="Dan.9" osisID="Dan.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Dan.9.1" osisID="Dan.9.1" />In primo anno sub Dario filio Assueri ex semine Medorum, qui regnavit super regnum Chaldaeorum,<verse eID="Dan.9.1" />
+        <verse sID="Dan.9.2" osisID="Dan.9.2" />Ego Daniel intellexi in libris numerum annorum ...<verse eID="Dan.9.2" />
+        <verse sID="Dan.9.3" osisID="Dan.9.3" />Et dedi faciem meam ad Dominum Deum, ut quaererem preces et obsecrationes in ieiunationibus, et sacco.<verse eID="Dan.9.3" />
+        <verse sID="Dan.9.4" osisID="Dan.9.4" />Et precatus sum Dominum Deum meum, et confessus sum, et dixi, Domine Deus magne et mirabilis, et qui servas testamentum tuum et misericordiam diligentibus te, et servantibus praecepta tua.<verse eID="Dan.9.4" />
+        <verse sID="Dan.9.5" osisID="Dan.9.5" />Peccavimus, adversus legem fecimus, impie egimus, et recessimus, et declinavimus a praeceptis tuis, et a iudiciis tuis.<verse eID="Dan.9.5" />
+        <verse sID="Dan.9.6" osisID="Dan.9.6" />Et non exaudivimus servos tuos prophetas, qui loquebantur in nomine tuo ad reges nostros, et ad omnem populum terrae.<verse eID="Dan.9.6" />
+        <verse sID="Dan.9.7" osisID="Dan.9.7" />Tibi Domine iustitia, nobis autem confusio faciei, sicut dies hic viro Iuda, et habitantibus Ierusalem, et omni Israel, qui proximi sunt, et qui longe sunt in omni terra, in qua eos disseminasti ibi propter contumaciam eorum, quia improbaverunt te Domine.<verse eID="Dan.9.7" />
+        <verse sID="Dan.9.8" osisID="Dan.9.8" />Nobis autem confusio faciei, regibus nostris, et principibus nostris, et patribus nostris, qui peccavimus.<verse eID="Dan.9.8" />
+        <verse sID="Dan.9.9" osisID="Dan.9.9" />Tibi Domino Deo nostro miserationes, et propitiationes, quoniam recessimus,<verse eID="Dan.9.9" />
+        <verse sID="Dan.9.10" osisID="Dan.9.10" />et non audivimus vocem Domini Dei nostri, ut effemus in praeceptis legis huius, quam dedit in conspectu nostro in manu servorum eius prophetarum.<verse eID="Dan.9.10" />
+        <verse sID="Dan.9.11" osisID="Dan.9.11" />Et omnis Israel peccaverunt adversus legem tuam, et declinaverunt ne audirent vocem tuam, et supervenit nobis maledicto, et iusiurandum, quod scriptum est in lege Moysi servi Dei, quoniam peccavimus.<verse eID="Dan.9.11" />
+        <verse sID="Dan.9.12" osisID="Dan.9.12" />Et statuit sermones suos, quos locutus est ad nos, et ad iudices nostros, qui iudicabant nos, superducere in nos mala magna, quae nunquam facta sunt sub omni coelo, secundum ea quae facta sunt in Ierusalem.<verse eID="Dan.9.12" />
+        <verse sID="Dan.9.13" osisID="Dan.9.13" />Sicut scriptum est in lege Moysi, omnia mala haec venerunt ad nos, et non rogavimus Dominum Deum nostrum, ut averteret a nobis delicta nostra, et ut intelligeremus omnem veritatem tuam.<verse eID="Dan.9.13" />
+        <verse sID="Dan.9.14" osisID="Dan.9.14" />Et vigilavit Dominus Deus ad omnem sanctum suum, et perduxit ea quae fecit ad nos, quoniam iustus Dominus Deus noster in omni mundo suo, quem fecit, et non audivimus vocem eius.<verse eID="Dan.9.14" />
+        <verse sID="Dan.9.15" osisID="Dan.9.15" />Et nunc Domine Deus noster, qui eduxisti populum tuum de terra Aegypti in manu forti, et fecisti tibi nomen sicut dies hic, delicta adversus legem tuam fecimus,<verse eID="Dan.9.15" />
+        <verse sID="Dan.9.16" osisID="Dan.9.16" />Domine in omni misericordia tua, avertatur impetus tuus, et ira tua a civitate tua Ierusalem, et monte sancto tuo. Propter peccata enim nostra, et iniquitates patrum nostrorum, Ierusalem et populus tuus in confusionem venit omnibus, qui circum nos sunt.<verse eID="Dan.9.16" />
+        <verse sID="Dan.9.17" osisID="Dan.9.17" />Et nunc exaudi Deus noster preces servi tui, et orationem eius, et ostende nobis faciem tuam ad sanctificationem tuam, quae deserta est propter te.<verse eID="Dan.9.17" />
+        <verse sID="Dan.9.18" osisID="Dan.9.18" />Inclina Domine Deus meus aurem tuam, et exaudi, aperi oculos tuos, et vide interitum nostrum, et civitatis tuae Ierusalem, super quam invocatum est nomen tuum super eam, quoniam non in nostra iustitia iactavimus precem nostram in conspectu tuo, sed ad misericordiam tuam, quae multa est.<verse eID="Dan.9.18" />
+        <verse sID="Dan.9.19" osisID="Dan.9.19" />Exaudi Domine, propitiare Domine, intende Domine, et ne tardaveris propter te Deus meus, quoniam nomen tuum invocatum est in civitate tua super civitatem tuam, et populum tuum.<verse eID="Dan.9.19" />
+        <verse sID="Dan.9.20" osisID="Dan.9.20" />Et adhuc me loquente, et orante, et enumerante peccata mea, et peccata populi mei ...<verse eID="Dan.9.20" />
+        <verse sID="Dan.9.21" osisID="Dan.9.21" />Et adhuc me loquente in oratione, ecce vir Gabriel, quem vidi in visione in principio, volans et tetigit me quasi hora sacrificii vespertini.<verse eID="Dan.9.21" />
+        <verse sID="Dan.9.22" osisID="Dan.9.22" />Et intelligere fecit me, et locutus est mecum, et dixit, Daniel, nunc exivi imbuere te intelligentia.<verse eID="Dan.9.22" />
+        <verse sID="Dan.9.23" osisID="Dan.9.23" />In principio obsecrationis tuae exivit sermo, et ego veni ut annuntiem tibi, quia vir desideriorum tu es, et cogita in verbo, et intellige in visione.<verse eID="Dan.9.23" />
+        <verse sID="Dan.9.24" osisID="Dan.9.24" />Septuaginta hebdomadae breviatae sunt super plebem tuam, et super civitatem sanctam, quoadusque inveteretur delictum, et signentur peccata, et exorentur iniustitiae, et inducatur iustitia aeterna, et ut signetur visio, et prophetes, et ut ungatur Sanctus sanctorum.<verse eID="Dan.9.24" />
+        <verse sID="Dan.9.25" osisID="Dan.9.25" />Et scies, et perspicies, et intelliges a profectione sermonis, integrando et reaedificando Ierusalem, usque ad Christum ducem, hebdomadas septem et dimidiam, et sexaginta duas et dimidiam, et convertet, et aedificabitur in laetitiam et convallationem, et innovabuntur tempora.<verse eID="Dan.9.25" />
+        <verse sID="Dan.9.26" osisID="Dan.9.26" />Et post hebdomadas has sexaginta duas et exterminabitur Unctio, et non erit. Et civitatem, et sanctum exterminabit cum duce adveniente, et concidentur quomodo in cataclysmo usque ad finem belli, quod concidetur usque ad interitum.<verse eID="Dan.9.26" />
+        <verse sID="Dan.9.27" osisID="Dan.9.27" />Et confirmabit testamentum multis hebdomada una, et dimidia hebdomadis auferetur meum sacrificium, et libatio, et in sancto exsecratio vastationis, et usque ad finem temporis consummatio dabitur super hac vastatione.<verse eID="Dan.9.27" />
+      </p>
+      <chapter eID="Dan.9" />
+      <chapter sID="Dan.10" osisID="Dan.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Dan.10.2" osisID="Dan.10.2" />In illis diebus ego Daniel eram lugens per tres hebdomadas,<verse eID="Dan.10.2" />
+        <verse sID="Dan.10.3" osisID="Dan.10.3" />panem suavem non edi, caro et vinum introierunt in os meum, oleo unctus non sum, donec consummarentur tres hebdomades.<verse eID="Dan.10.3" />
+        <verse sID="Dan.10.5" osisID="Dan.10.5" />Et extuli oculos meos, et vidi, et ecce vir unus vestitus baddim, et renes eius cincti auro ophaz,<verse eID="Dan.10.5" />
+        <verse sID="Dan.10.12" osisID="Dan.10.12" />... Daniel homo es miserabilis, ne timueris, quoniam ex die prima, qua dedisti animam tuam recogitatui et humiliationi coram Deo, exauditum est verbum tuum, et ego introivi verbo tuo.<verse eID="Dan.10.12" />
+        <verse sID="Dan.10.16" osisID="Dan.10.16" />... Domine mi, in visione tua dissolutae sunt compages meae ...<verse eID="Dan.10.16" />
+        <verse sID="Dan.10.21" osisID="Dan.10.21" />... et non est qui me adiuvet, nisi Michael princeps vester.<verse eID="Dan.10.21" />
+      </p>
+      <chapter eID="Dan.10" />
+      <chapter sID="Dan.11" osisID="Dan.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Dan.11.6" osisID="Dan.11.6" />Et post annos illius commiscentur ...<verse eID="Dan.11.6" />
+        <verse sID="Dan.11.35" osisID="Dan.11.35" />Et de eruditis cadent multi ...<verse eID="Dan.11.35" />
+        <verse sID="Dan.11.36" osisID="Dan.11.36" />... et extolletur rex adversus omnem deum, et magnificabitur super omnem deum, et ad Deum deorum loquetur superbiam ...<verse eID="Dan.11.36" />
+        <verse sID="Dan.11.39" osisID="Dan.11.39" />Et aget haec ut muniat praesidia cum deo alieno, et cum eis ostenderit, multiplicabit honorem, et dominari eos multis faciet, et terram dividet gratis.<verse eID="Dan.11.39" />
+        <verse sID="Dan.11.43" osisID="Dan.11.43" />Et dominabitur in occultis auri et argenti, et in omnibus cupiditatibus Aegypti ...<verse eID="Dan.11.43" />
+        <verse sID="Dan.11.45" osisID="Dan.11.45" />Et figet tabernaculum suum in Aphedano inter maria, in monte Saba sancto, veniet usque ad partem eius ...<verse eID="Dan.11.45" />
+      </p>
+      <chapter eID="Dan.11" />
+      <chapter sID="Dan.12" osisID="Dan.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Dan.12.1" osisID="Dan.12.1" />In tempore illo consurget Michael princeps magnus, qui stat pro filiis populi tui, et erit tempus tribulationis qualis non fuit ex quo nata est gens super terram usque ad tempus illud. Et in tempore illo salvabitur populus tuus, omnis qui inventus fuerit scriptus in libro.<verse eID="Dan.12.1" />
+        <verse sID="Dan.12.2" osisID="Dan.12.2" />Et multi dormientium in terrae aggere, exsurgent, hi in vitam aeternam, et hi in opprobrium, et in confusionem aeternam.<verse eID="Dan.12.2" />
+        <verse sID="Dan.12.3" osisID="Dan.12.3" />Et intelligentes fulgebunt sicut claritas firmamenti, et ex iustis multis, sicut stellae in saecula.<verse eID="Dan.12.3" />
+        <verse sID="Dan.12.4" osisID="Dan.12.4" />... muni sermones, et signa librum usque ad tempus consummationis, quoad discant multi, et impleatur agnitio.<verse eID="Dan.12.4" />
+        <verse sID="Dan.12.7" osisID="Dan.12.7" />... quoniam in tempus temporum, et dimidium temporis, in consummanda dispersione scient omnia haec.<verse eID="Dan.12.7" />
+        <verse sID="Dan.12.9" osisID="Dan.12.9" />... Vade Daniel, quia clausi sunt, signatique sermones ...<verse eID="Dan.12.9" />
+        <verse sID="Dan.12.13" osisID="Dan.12.13" />Et tu veni, et requiesce, adhuc enim dies in completionem consummationis, et requiesces, et resurges in sorte tua in fine dierum.<verse eID="Dan.12.13" />
+      </p>
+      <chapter eID="Dan.12" />
+      <chapter sID="Dan.13" osisID="Dan.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Dan.13.1" osisID="Dan.13.1" />Fuit vir habitans in Babylonia, cui nomen erat Ioachim,<verse eID="Dan.13.1" />
+        <verse sID="Dan.13.2" osisID="Dan.13.2" />Et accepit uxorem nomine Susannam, filiam Helchiae, formosam valde, et timentem Deum,<verse eID="Dan.13.2" />
+        <verse sID="Dan.13.3" osisID="Dan.13.3" />et erant parentes eius iusti, et docuerunt filiam suam secundum legem Moysi.<verse eID="Dan.13.3" />
+        <verse sID="Dan.13.20" osisID="Dan.13.20" />Ostia viridarii clausa sunt, nemo nos videt, in concupiscentia tui sumus, propter hoc consenti nobis, et esto nobiscum,<verse eID="Dan.13.20" />
+        <verse sID="Dan.13.21" osisID="Dan.13.21" />alioquin falsum testimonium dicemus adversum te, quoniam erat tecum iuvenis, et propter hoc dimisisti puellas a te.<verse eID="Dan.13.21" />
+        <verse sID="Dan.13.22" osisID="Dan.13.22" />... Angustiae mihi undique, si enim hoc egero, mors mihi erit, si autem non fecero, non effugiam manus vestras.<verse eID="Dan.13.22" />
+        <verse sID="Dan.13.23" osisID="Dan.13.23" />Melius est mihi non facienti incidere in manus vestras, quam peccare in conspectu Domini.<verse eID="Dan.13.23" />
+        <verse sID="Dan.13.27" osisID="Dan.13.27" />... Et factum est in die altero,<verse eID="Dan.13.27" />
+        <verse sID="Dan.13.28" osisID="Dan.13.28" />ut convenit plebs ad virum eius Ioachim, venerunt duo presbyteri pleni iniquae mentis adversus Susannam, ut mortificarent eam.<verse eID="Dan.13.28" />
+        <verse sID="Dan.13.29" osisID="Dan.13.29" />Et dixerunt coram plebe, Mittite ad Susannam filiam Chelchiam, quae est uxor Ioachim. Et miserunt.<verse eID="Dan.13.29" />
+        <verse sID="Dan.13.30" osisID="Dan.13.30" />Et venit ipsa, et parentes eius, et omnes cognati eius.<verse eID="Dan.13.30" />
+        <verse sID="Dan.13.31" osisID="Dan.13.31" />Susanna autem erat tenera nimium, bonae formae.<verse eID="Dan.13.31" />
+        <verse sID="Dan.13.32" osisID="Dan.13.32" />Iniusti autem iusserunt revelari eam (erat enim velata) ut saturarentur forma eius.<verse eID="Dan.13.32" />
+        <verse sID="Dan.13.33" osisID="Dan.13.33" />Flebant autem omnes sui, et caeteri qui videbant eam.<verse eID="Dan.13.33" />
+        <verse sID="Dan.13.34" osisID="Dan.13.34" />Assurgentes igitur duo presbyteri in media plebe, posuerunt manus super caput eius.<verse eID="Dan.13.34" />
+        <verse sID="Dan.13.35" osisID="Dan.13.35" />Ipsa autem lacrymans aspexit in coelum, quoniam erat cor eius confidens in Domino.<verse eID="Dan.13.35" />
+        <verse sID="Dan.13.36" osisID="Dan.13.36" />Dixerunt autem presbyteri, Ambulantibus nobis in viridario solis, intravit haec cum puellis, et dimisit puellas, et clausit ostia viridarii.<verse eID="Dan.13.36" />
+        <verse sID="Dan.13.37" osisID="Dan.13.37" />Et venit ad eam iuvenis, qui erat absconditus, et concubuit cum ea.<verse eID="Dan.13.37" />
+        <verse sID="Dan.13.38" osisID="Dan.13.38" />Nos autem cum essemus in angulo viridarii, videntes iniquitatem, accurrimus ad eos, et vidimus concurrentes eos.<verse eID="Dan.13.38" />
+        <verse sID="Dan.13.39" osisID="Dan.13.39" />Illum quidem non potuimus apprehendere, quod fortior nobis esset, et quod aperiens ostia prosilierit,<verse eID="Dan.13.39" />
+        <verse sID="Dan.13.40" osisID="Dan.13.40" />hanc autem apprehensam interrogavimus, quis esset iuvenis, et noluit nobis dicere, haec contestamur.<verse eID="Dan.13.40" />
+        <verse sID="Dan.13.41" osisID="Dan.13.41" />Et credidit eis omnia synagoga, ut presbyteris plebis et iudicibus, et damnaverunt ut moreretur.<verse eID="Dan.13.41" />
+        <verse sID="Dan.13.42" osisID="Dan.13.42" />Exclamavit autem Susanna voce magna, et dixit, Deus aeternus, qui occultorum cognitor es, qui scis omnia ante generationem eorum,<verse eID="Dan.13.42" />
+        <verse sID="Dan.13.43" osisID="Dan.13.43" />tu scis quoniam falsum testimonium adversum me dixerunt, et ecce morior, quae nihil feci horum, quae hi maligni finxerunt adversum me.<verse eID="Dan.13.43" />
+        <verse sID="Dan.13.44" osisID="Dan.13.44" />Et exaudivit Deus vocem eius.<verse eID="Dan.13.44" />
+        <verse sID="Dan.13.45" osisID="Dan.13.45" />Et cum duceretur ut periret, excitavit Deus spiritum sanctum pueri adolescentis, cui nomen erat Daniel,<verse eID="Dan.13.45" />
+        <verse sID="Dan.13.46" osisID="Dan.13.46" />Et exclamavit voce magna, Mundus ego a sanguine huius.<verse eID="Dan.13.46" />
+        <verse sID="Dan.13.47" osisID="Dan.13.47" />Et conversa est omnis plebs ad eum, et dixerunt, Quis est iste sermo, quem tu locutus es?<verse eID="Dan.13.47" />
+        <verse sID="Dan.13.48" osisID="Dan.13.48" />At ille stans in medio eorum, dixit, Sic stulti Israel, non interrogantes, neque verum cognoscentes, damnastis filiam Israel?<verse eID="Dan.13.48" />
+        <verse sID="Dan.13.49" osisID="Dan.13.49" />Redite in iudicium, falsum enim testimonium adversum eam dixerunt.<verse eID="Dan.13.49" />
+        <verse sID="Dan.13.51" osisID="Dan.13.51" />... Separate eos ab alterutro ...<verse eID="Dan.13.51" />
+        <verse sID="Dan.13.52" osisID="Dan.13.52" />... et vocavit unum ex illis, et dixit ad illum, Inveterate dierum malorum, nunc advenere peccata tua, quae ante faciebas,<verse eID="Dan.13.52" />
+        <verse sID="Dan.13.53" osisID="Dan.13.53" />iudicans iudicia iniusta, et innocentes quidem damnabas, nocentes autem dimittebas, dicente Domino, Innocentem et iustum non occides.<verse eID="Dan.13.53" />
+        <verse sID="Dan.13.54" osisID="Dan.13.54" />Nunc tamen hanc si vidisti, dic sub qua arbore vidisti eos tractantes. Et dixit, Sub lentisco.<verse eID="Dan.13.54" />
+        <verse sID="Dan.13.55" osisID="Dan.13.55" />Dixit autem Daniel, Recte mentitus es in caput tuum, Iam enim Angelus Domini accipiens praeceptum a Deo, secabit te medium.<verse eID="Dan.13.55" />
+        <verse sID="Dan.13.56" osisID="Dan.13.56" />Et cum removisset illum, iussit admoveri alterum, et dixit ad eum, Semen Chanaan, et non Iuda, species seduxit te, et concupiscentia evertit cor tuum,<verse eID="Dan.13.56" />
+        <verse sID="Dan.13.57" osisID="Dan.13.57" />sic faciebatis filiabus Israel, et illae quidem timentes concumbebant vobiscum, sed non sustinuit filia Iuda iniustitiam vestram.<verse eID="Dan.13.57" />
+        <verse sID="Dan.13.58" osisID="Dan.13.58" />Nunc autem dic mihi, sub qua arbore comprehendisti eos invicem tractantes. Respondit, Sub ilice.<verse eID="Dan.13.58" />
+        <verse sID="Dan.13.59" osisID="Dan.13.59" />Dixit autem illi Daniel, Recte mentitus es et tu in caput tuum, manet etenim Angelus Dei, gladium habens, ad secandum te medium, ut vos perdat.<verse eID="Dan.13.59" />
+        <verse sID="Dan.13.60" osisID="Dan.13.60" />Et exclamavit omnis synagoga voce magna, et benedixit Deum, qui salvos facit sperantes in eum.<verse eID="Dan.13.60" />
+        <verse sID="Dan.13.61" osisID="Dan.13.61" />Et surrexerunt adversus duos presbyteros (quoniam comprobaverat eos Daniel ex ore ipsorum falsos testes) et fecerunt illis quemadmodum ipsi male proximo facere voluerunt,<verse eID="Dan.13.61" />
+        <verse sID="Dan.13.62" osisID="Dan.13.62" />secundum legem Moysi, et occiderunt, et salvus factus est sanguis innocentis in illo die.<verse eID="Dan.13.62" />
+      </p>
+      <chapter eID="Dan.13" />
+      <chapter sID="Dan.14" osisID="Dan.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Dan.14.3" osisID="Dan.14.3" />... Quare non adoras Bel?<verse eID="Dan.14.3" />
+        <verse sID="Dan.14.4" osisID="Dan.14.4" />... Quoniam non colo idola manufacta, sed vivum Deum, qui constituit coelum et terram, et habet omnis carnis dominationem.<verse eID="Dan.14.4" />
+      </p>
+      <chapter eID="Dan.14" />
+    </div>
+  </osisText>
+</osis>

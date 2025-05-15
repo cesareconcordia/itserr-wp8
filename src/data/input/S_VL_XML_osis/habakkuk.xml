@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Hab" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Hab">
+        <title>habakkuk</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Hab</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>habakkuk</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Hab">
+      <title>habakkuk</title>
+      <chapter sID="Hab.1" osisID="Hab.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Hab.1.1" osisID="Hab.1.1" />Assumptio, quam vidit Ambacum propheta.<verse eID="Hab.1.1" />
+        <verse sID="Hab.1.2" osisID="Hab.1.2" />Usquequo Domine clamabo, et non exaudies? Vociferabor ad te vim patiens, et non salvabis?<verse eID="Hab.1.2" />
+        <verse sID="Hab.1.3" osisID="Hab.1.3" />Quare mihi ostendisti labores et dolores, videre miseriam et impietatem? Contra me factum est iudicium, et iudex accipit.<verse eID="Hab.1.3" />
+        <verse sID="Hab.1.4" osisID="Hab.1.4" />Propterea lacerata est lex, et non pervenit ad finem iudicium, quia impius praevalet adversus iustum, propterea egreditur iudicium perversum.<verse eID="Hab.1.4" />
+        <verse sID="Hab.1.5" osisID="Hab.1.5" />Videte contemptores, et respicite, et admiramini mirabilia, et disperdimini, quia opus ego operor in diebus vestris, quod non credidistis si quis narraverit.<verse eID="Hab.1.5" />
+        <verse sID="Hab.1.6" osisID="Hab.1.6" />Quia ecce ego suscitabo Chaldaeos, gentem amarum et velocem, quae ambulat super latitudinem terrae, ut possideat tabernacula non sua.<verse eID="Hab.1.6" />
+        <verse sID="Hab.1.7" osisID="Hab.1.7" />Terribilis, et illustris est, ex semetipsa iudicium eius erit, et assumptio eius ex se egredietur.<verse eID="Hab.1.7" />
+        <verse sID="Hab.1.8" osisID="Hab.1.8" />Et exsilient super pardos equi eius, et velociores erunt lupis Arabiae. Et equitabunt equites eius, et impetu venient de longinquo, et volabunt quasi aquila prompta ad comedendum.<verse eID="Hab.1.8" />
+        <verse sID="Hab.1.9" osisID="Hab.1.9" />Consummatio in impios veniet, resistentes faciebus eorum ex adverso, et congregabit quasi arenam, captivitatem.<verse eID="Hab.1.9" />
+        <verse sID="Hab.1.10" osisID="Hab.1.10" />Et ipse in regibus delectabitur, et tyranni ludibria eius, et ipse in omnem munitionem illudet, et mittet aggerem, et obtinebit eam.<verse eID="Hab.1.10" />
+        <verse sID="Hab.1.11" osisID="Hab.1.11" />Tunc mutabit spiritum, et pertransiet, et propitiabitur, haec est fortitudo Dei mei.<verse eID="Hab.1.11" />
+        <verse sID="Hab.1.12" osisID="Hab.1.12" />Nonne tu a principio Domine Deus meus, sancte meus, et non moriemur? Domine in iudicium posuisti eum, et plasmavit me, ut arguam in disciplina eius.<verse eID="Hab.1.12" />
+        <verse sID="Hab.1.13" osisID="Hab.1.13" />Mundus oculus, ne videat mala. Et aspicere super dolorem non poteris, quare non aspicis super contemptores, tacebis cum devoraverit impius iustiorem se?<verse eID="Hab.1.13" />
+        <verse sID="Hab.1.14" osisID="Hab.1.14" />Et facies homines quasi pisces maris, et quasi reptilia non habentia ducem.<verse eID="Hab.1.14" />
+        <verse sID="Hab.1.15" osisID="Hab.1.15" />Consummationem in hamo sublevavit, et attraxit eum in reti suo, et congregavit eum in sagenis suis. Propter hoc laetabitur et gaudebit,<verse eID="Hab.1.15" />
+        <verse sID="Hab.1.16" osisID="Hab.1.16" />propterea immolavit sagenae suae, et incendet reti suo, quia in ipsis incrassavit partem suam, et escae eius electae.<verse eID="Hab.1.16" />
+        <verse sID="Hab.1.17" osisID="Hab.1.17" />Propterea expandit rete suum, et semper interficere gentes non cessat.<verse eID="Hab.1.17" />
+      </p>
+      <chapter eID="Hab.1" />
+      <chapter sID="Hab.2" osisID="Hab.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Hab.2.1" osisID="Hab.2.1" />Super custodiam meam stabo, et ascendam super petram, et contemplabor, ut videam quid loquatur in me, et quid respondeam ad correptionem meam.<verse eID="Hab.2.1" />
+        <verse sID="Hab.2.2" osisID="Hab.2.2" />Et respondit ad me Dominus, et dixit, Scribe visionem, et manifeste in buxum, ut persequatur qui legit ea.<verse eID="Hab.2.2" />
+        <verse sID="Hab.2.3" osisID="Hab.2.3" />Quia adhuc visio in tempus, et orietur in finem, et non in vacuum, si defecerit, sustine eum, quia veniens veniet, et non tardabit.<verse eID="Hab.2.3" />
+        <verse sID="Hab.2.4" osisID="Hab.2.4" />Si retraxerit se, non placebit animae meae in eo, iustus autem ex fide mea vivet.<verse eID="Hab.2.4" />
+        <verse sID="Hab.2.5" osisID="Hab.2.5" />Qui autem arrogans est et contemptor, vir superbus, nihil perducit ad finem, qui dilatavit sicut infernus animam suam, et iste quasi mors, non adimpletur, et congregabit ad se omnes gentes, et accipiet ad se omnes populos.<verse eID="Hab.2.5" />
+        <verse sID="Hab.2.6" osisID="Hab.2.6" />Nonne universa haec adversum eum parabolam sument, et propositionem ad narrationem eius, et dicent, Vae qui multiplicat sibi quae non sunt sua? Usquequo aggravat torquem suam graviter?<verse eID="Hab.2.6" />
+        <verse sID="Hab.2.7" osisID="Hab.2.7" />Quia subito consurgent mordentes eum, et vigilabunt insidiatores tui, et eris in rapinam illis.<verse eID="Hab.2.7" />
+        <verse sID="Hab.2.8" osisID="Hab.2.8" />Quia tu exspoliasti gentes multas, exspoliabunt te omnes reliqui populi, propter sanguinem hominum, et impietates terrae, et civitatis, et omnium habitatorum eius.<verse eID="Hab.2.8" />
+        <verse sID="Hab.2.9" osisID="Hab.2.9" />O qui multiplicat avaritiam malam domui suae, ut ponat in excelso nidum suum, et eruatur de manu malorum.<verse eID="Hab.2.9" />
+        <verse sID="Hab.2.10" osisID="Hab.2.10" />Cogitasti confusionem domui tuae, consumpsisti populos multos, et peccavit anima tua.<verse eID="Hab.2.10" />
+        <verse sID="Hab.2.11" osisID="Hab.2.11" />Propter quod lapis de pariete clamabit, et scarabeus de ligno loquetur ea.<verse eID="Hab.2.11" />
+        <verse sID="Hab.2.12" osisID="Hab.2.12" />Vae qui aedificat civitatem in sanguinibus, et praeparat urbem in iniquitatibus.<verse eID="Hab.2.12" />
+        <verse sID="Hab.2.13" osisID="Hab.2.13" />Nonne haec sunt a Domino omnipotente? Et defecerunt populi multi in igne, et gentes multae coangustatae sunt.<verse eID="Hab.2.13" />
+        <verse sID="Hab.2.14" osisID="Hab.2.14" />Quia replebitur terra, ut cognoscat gloriam Domini, quasi aquam ad operiendum maria.<verse eID="Hab.2.14" />
+        <verse sID="Hab.2.15" osisID="Hab.2.15" />Vae qui propinat proximo suo subversione turbida, et inebrians ut aspiciat in speluncis eorum.<verse eID="Hab.2.15" />
+        <verse sID="Hab.2.16" osisID="Hab.2.16" />Saturitatem ignominiae de gloria bibe et tu, et commovere, circumdedit te calix dexterae Domini, et congregata est ignominia super gloriam tuam.<verse eID="Hab.2.16" />
+        <verse sID="Hab.2.17" osisID="Hab.2.17" />Quia impietas Libani operiet te, et miseria bestiarum terrebit te propter sanguinem hominum, et impietates terrae, et civitatis, et omnium habitantium in ea.<verse eID="Hab.2.17" />
+        <verse sID="Hab.2.18" osisID="Hab.2.18" />Quid prodest sculptile, quia sculpserunt illud, formaverunt illud conflatile, imaginem falsam? Quia confidit fictor in figmento suo, ut faciat idola muta.<verse eID="Hab.2.18" />
+        <verse sID="Hab.2.19" osisID="Hab.2.19" />Vae qui dicit ligno, Evigila, et exsurge, et lapidi, Elevare. Et ipsum est imago, et est productio auri et argenti, et omnis spiritus non est in eo.<verse eID="Hab.2.19" />
+        <verse sID="Hab.2.20" osisID="Hab.2.20" />Dominus autem in templo sancto suo, revereatur a facie eius omnis terra.<verse eID="Hab.2.20" />
+      </p>
+      <chapter eID="Hab.2" />
+      <chapter sID="Hab.3" osisID="Hab.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Hab.3.1" osisID="Hab.3.1" />Oratio Ambacum prophetae cum cantico.<verse eID="Hab.3.1" />
+        <verse sID="Hab.3.2" osisID="Hab.3.2" />Domine audivi auditum tuum, et timui. Domine consideravi opera tua, et obstupui. In medio duorum animalium cognosceris, cum appropinquaverint anni, cognosceris, cum advenerit tempus, demonstraberis, cum turbata fuerit anima mea in ira, misericordiae recordaberis.<verse eID="Hab.3.2" />
+        <verse sID="Hab.3.3" osisID="Hab.3.3" />Deus a Theman veniet, et sanctus de monte umbroso et condenso, DIAPSALMA. Operuit coelos virtus eius, et laudis eius plena est terra.<verse eID="Hab.3.3" />
+        <verse sID="Hab.3.4" osisID="Hab.3.4" />Et splendor eius quasi lux erit, cornua in manibus eius, Et posuit dilectionem robustam fortitudinis suae,<verse eID="Hab.3.4" />
+        <verse sID="Hab.3.5" osisID="Hab.3.5" />ante faciem eius ibit verbum. Et egredietur in campum post pedes eius.<verse eID="Hab.3.5" />
+        <verse sID="Hab.3.6" osisID="Hab.3.6" />Stetit, et commota est terra. Aspexit, et distabuerunt gentes, contriti sunt montes violentia. Tabuerunt colles saeculi, itineris sempiterni eius.<verse eID="Hab.3.6" />
+        <verse sID="Hab.3.7" osisID="Hab.3.7" />Pro laboribus vidi tabernacula Aethiopum, pavebunt et tabernacula terrae Madian.<verse eID="Hab.3.7" />
+        <verse sID="Hab.3.8" osisID="Hab.3.8" />Nunquid in fluminibus iratus es Domine? Aut in fluminibus furor tuus? Vel in mari impetus tuus? Qui ascendes super equos tuos, et equitatio tua salus.<verse eID="Hab.3.8" />
+        <verse sID="Hab.3.9" osisID="Hab.3.9" />Intendens extendes arcum tuum super sceptra, dicit Dominus. DIAPSALMA. Fluviis scindetur terra,<verse eID="Hab.3.9" />
+        <verse sID="Hab.3.10" osisID="Hab.3.10" />videbunt te, et dolebunt populi, disperges aquas itineris. Dedit abyssus vocem suam, altitudinem phantasiae suae.<verse eID="Hab.3.10" />
+        <verse sID="Hab.3.11" osisID="Hab.3.11" />Elevatus est sol, et luna stetit in ordine suo, in luce iacula tua ibunt, in splendore coruscationis armorum tuorum.<verse eID="Hab.3.11" />
+        <verse sID="Hab.3.12" osisID="Hab.3.12" />In comminatione imminues terram, et in furore detrahes gentes.<verse eID="Hab.3.12" />
+        <verse sID="Hab.3.13" osisID="Hab.3.13" />Egressus es in salutem populi tui, ut salvares christos tuos. Misisti in caput impiorum mortem, suscitasti vincula usque ad collum, IN FINEM.<verse eID="Hab.3.13" />
+        <verse sID="Hab.3.14" osisID="Hab.3.14" />Divisisti in stupore capita potentium, commovebuntur in ea. Aperient frenos suos, sicut comedens pauper in absconso.<verse eID="Hab.3.14" />
+        <verse sID="Hab.3.15" osisID="Hab.3.15" />Et superduxisti in mari equos tuos, conturbantes aquas multas.<verse eID="Hab.3.15" />
+        <verse sID="Hab.3.16" osisID="Hab.3.16" />Custodivi, et extimuit venter meus a voce orationis labiorum meorum. Et ingressus est tremor in ossa mea, et subter me conturbata est fortitudo mea. Requiescam in die tribulationis meae, ut ascendam ad populum peregrinationis meae.<verse eID="Hab.3.16" />
+        <verse sID="Hab.3.17" osisID="Hab.3.17" />Quia ficus non afferet fructum, et non erunt germina in vineis. Mentietur opus olivae, et campi non facient escas. Defecerunt eo quod comederent oves, et non sunt boves in praesepibus.<verse eID="Hab.3.17" />
+        <verse sID="Hab.3.18" osisID="Hab.3.18" />Ego autem in Domino exsultabo, gaudebo super Deo salutari meo.<verse eID="Hab.3.18" />
+        <verse sID="Hab.3.19" osisID="Hab.3.19" />Dominus Deus fortitudo mea, et ponet pedes meos in consummationem. Super excelsa imponet me, ut vincam in Cantico eius.<verse eID="Hab.3.19" />
+      </p>
+      <chapter eID="Hab.3" />
+    </div>
+  </osisText>
+</osis>

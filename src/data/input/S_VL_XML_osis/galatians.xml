@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="galatians" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="galatians">
+        <title>Galatians</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">galatians</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Galatians</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="galatians">
+      <title>Galatians</title>
+      <chapter sID="galatians.1" osisID="galatians.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="galatians.1.1" osisID="galatians.1.1" />PAULUS Apostolus non ab hominibus, neque per hominem, sed per Iesum Christum, et Deo Patri, qui suscitavit eum a mortuis:<verse eID="galatians.1.1" />
+        <verse sID="galatians.1.2" osisID="galatians.1.2" />et qui mecum sunt omnes fratres, Ecclesiis Galatiaee.<verse eID="galatians.1.2" />
+        <verse sID="galatians.1.3" osisID="galatians.1.3" />Gratia vobis, et pax a Deo Patre, et Domino nostro Iesu Christo<verse eID="galatians.1.3" />
+        <verse sID="galatians.1.4" osisID="galatians.1.4" />qui dedit seipsum pro peccatis nostris, ut eriperet nos de praesenti saeculo malo, secundum voluntatem Dei, et Patri nostro,<verse eID="galatians.1.4" />
+        <verse sID="galatians.1.5" osisID="galatians.1.5" />cui est gloria in saecula saeculorum: Amen.<verse eID="galatians.1.5" />
+        <verse sID="galatians.1.6" osisID="galatians.1.6" />Miror quod sic tam cito transferimini, ab eo, qui vocavit vos in gratia Iesu Christi, in aliud Evangelium:<verse eID="galatians.1.6" />
+        <verse sID="galatians.1.7" osisID="galatians.1.7" />quod non est aliud, nisi si sunt aliqui, qui conturbant vos, et volunt convertere Evangelium Christi.<verse eID="galatians.1.7" />
+        <verse sID="galatians.1.8" osisID="galatians.1.8" />Sed licet nos, aut Angelus de coelo evangelizaverit vobis praeterquam evangelizavimus vobis, anathema sit.<verse eID="galatians.1.8" />
+        <verse sID="galatians.1.9" osisID="galatians.1.9" />Sicut praediximus, et nunc iterum dico: Si quis vobis adnuntiaverit praeterquam quod accepistis, anathema sit.<verse eID="galatians.1.9" />
+        <verse sID="galatians.1.10" osisID="galatians.1.10" />Modo enim hominibus suadeo, aut Deo? Aut quaero hominibus placere? Si adhuc hominibus* placerem, Christi servus non essem.<verse eID="galatians.1.10" />
+        <verse sID="galatians.1.11" osisID="galatians.1.11" />Notum enim vobis facio, fratres, Evangelium, quod evangelizatum est a me, quia non est secundum hominem:<verse eID="galatians.1.11" />
+        <verse sID="galatians.1.12" osisID="galatians.1.12" />neque enim ego ab homine accepi illud, neque didici, sed per revelationem Iesu Christi.<verse eID="galatians.1.12" />
+        <verse sID="galatians.1.13" osisID="galatians.1.13" />Audistis enim meam conversationem aliquando in Iudaismo: quod * supra modum persequebar Ecclesiam Dei, et expugnabam illam<verse eID="galatians.1.13" />
+        <verse sID="galatians.1.14" osisID="galatians.1.14" />et proficiebam in Iudaismo super multos coaetaneos in genere meo, abundantius aemulator existens paternarum mearum traditionum.<verse eID="galatians.1.14" />
+        <verse sID="galatians.1.15" osisID="galatians.1.15" />Cum autem placuit Deo, qui segregavit me de utero matris meae, et vocavit per gratiam suam.<verse eID="galatians.1.15" />
+        <verse sID="galatians.1.16" osisID="galatians.1.16" />ut revelaret Filium suum in me, ut evangelizarem eum in Gentibus: continuo non adquievi carni et sanguini.<verse eID="galatians.1.16" />
+        <verse sID="galatians.1.17" osisID="galatians.1.17" />neque veni in Hierosolyma ad praecessores meos Apostolos: sed abii in Arabiam: et iterum reversus sum Damasco:<verse eID="galatians.1.17" />
+        <verse sID="galatians.1.18" osisID="galatians.1.18" />deinde post annos tres veni in Hierosolyma videre Petrum, et remansi apud illum diebus quindecim:<verse eID="galatians.1.18" />
+        <verse sID="galatians.1.19" osisID="galatians.1.19" />alium autem Apostolorum vidi neminem, nisi Iacobum fratrem Domini.<verse eID="galatians.1.19" />
+        <verse sID="galatians.1.20" osisID="galatians.1.20" />Quae autem scribo vobis; ecce coram Deo, quia non mentior.<verse eID="galatians.1.20" />
+        <verse sID="galatians.1.21" osisID="galatians.1.21" />Deinde veni in partes Syriae, et Ciliciae.<verse eID="galatians.1.21" />
+        <verse sID="galatians.1.22" osisID="galatians.1.22" />Eram autem ignotus facie Ecclesiis Iudaeae, quae sunt in Christo:<verse eID="galatians.1.22" />
+        <verse sID="galatians.1.23" osisID="galatians.1.23" />tantum autem audientes erant: Quia qui persequebantur nos aliquando, nunc adnuntiant fidem, quam aliquando expugnabat: 24. et in me magnificabat Deum.<verse eID="galatians.1.23" />
+      </p>
+      <chapter eID="galatians.1" />
+      <chapter sID="galatians.2" osisID="galatians.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="galatians.2.1" osisID="galatians.2.1" />Deinde post quatuordecim annos, ascendi Diterum Hierosolyma cum Barnaba, assumpto et Tito.<verse eID="galatians.2.1" />
+        <verse sID="galatians.2.2" osisID="galatians.2.2" />Ascendi autem secundum revelationem: et contuli cum eis Evangelium, quod praedico inter Gentes, secreto autem his, qui videbantur ne forte in vacuum cucurrerem, aut cucurrissem. 3. Sed neque Titus, qui mecum erat, cum esset Graecus, coactus est circumcidi:<verse eID="galatians.2.2" />
+        <verse sID="galatians.2.4" osisID="galatians.2.4" />propter subintroductos autem falsos fratres qui subintroierunt explorare libertatem nostram quam habemus in Christo Iesu, ut nos in servitutem redigerent<verse eID="galatians.2.4" />
+        <verse sID="galatians.2.5" osisID="galatians.2.5" />ad horam cessimus subiectioni, ut veritas Evangelii permaneat apud vos:<verse eID="galatians.2.5" />
+        <verse sID="galatians.2.6" osisID="galatians.2.6" />ab his autem, qui videntur esse aliquid * quales aliquando fuerunt, nihil mea interest. Deus hominis personam non accipit) mihi enim quae videntur esse, nihil contulerunt.<verse eID="galatians.2.6" />
+        <verse sID="galatians.2.7" osisID="galatians.2.7" />Sed contra cum vidissent quia creditum mihi est Evangelium praeputii, sicut Petro circumcisionis:<verse eID="galatians.2.7" />
+        <verse sID="galatians.2.8" osisID="galatians.2.8" />(qui enim operatus est Petro in Apostolatum circumcisionis, operatus est et mihi inter Gentes<verse eID="galatians.2.8" />
+        <verse sID="galatians.2.9" osisID="galatians.2.9" />et cum cognovisset gratiam, quae data est mihi, Petrus, et Iacobus, et Iohannes, qui videbantur columnae esse, dextras dederunt mihi. ut Barnabae societatis: ut nos in Gentes, ipsi autem in circumcisionem:<verse eID="galatians.2.9" />
+        <verse sID="galatians.2.10" osisID="galatians.2.10" />tantum ut pauperum memores essemus: quod enim sollicitus fui hoc* ipsum facere.<verse eID="galatians.2.10" />
+        <verse sID="galatians.2.11" osisID="galatians.2.11" />Cum autem venisset Petrus Antiochiam, in faciem illi restiti, quia reprehensus erat.<verse eID="galatians.2.11" />
+        <verse sID="galatians.2.12" osisID="galatians.2.12" />Prius enim quam venisset quidam ab Iacobo, cum* Gentibus edebat: cum autem venisset, subtrahebat se, et segregabat, timens eos, qui ex circumcisione* erant.<verse eID="galatians.2.12" />
+        <verse sID="galatians.2.13" osisID="galatians.2.13" />Et consenserunt cum illo et caeteri Iudaei, ita et Barnabas duceretur ab his in illa simulatione.<verse eID="galatians.2.13" />
+        <verse sID="galatians.2.14" osisID="galatians.2.14" />Sed cum vidissem quod non recte ingrediuntur ad veritatem Evangelii, dixi Petro coram omnibus: Si tu, cum sis Iudaeus, gentiliter vivis: quomodo Gentes cogis Iudaeisare ?<verse eID="galatians.2.14" />
+        <verse sID="galatians.2.15" osisID="galatians.2.15" />Nos natura Iudaei, et non ex Gentibus peccatores.<verse eID="galatians.2.15" />
+        <verse sID="galatians.2.16" osisID="galatians.2.16" />Scientes autem quia non iustificatur homo ex operibus legis, nisi per fidem Iesu Christi: et nos per Iesum Christum credidimus, ut iustificemur ex fide Christi, et non ex operibus legis: quia ex operibus legis non iustificabitur omnis caro.<verse eID="galatians.2.16" />
+        <verse sID="galatians.2.17" osisID="galatians.2.17" />Si autem quaerentes iustificari in Christo inventi sumus peccatores, ergo Christus peccati minister? Absit.<verse eID="galatians.2.17" />
+        <verse sID="galatians.2.18" osisID="galatians.2.18" />Si enim quae destruxi, haec iterum aedifico: praevaricatorem me constituo.<verse eID="galatians.2.18" />
+        <verse sID="galatians.2.19" osisID="galatians.2.19" />Ego enim per legem, legi mortuus sum, ut Deo vivam: Christo cruci consixus sum.<verse eID="galatians.2.19" />
+        <verse sID="galatians.2.20" osisID="galatians.2.20" />Vivo autem, iam non ego: vivit autem in me Christus. Quod autem nunc vivo in carnem: in fide vivo Dei, et Christi, qui dilexit me , et tradidit se pro me.<verse eID="galatians.2.20" />
+        <verse sID="galatians.2.21" osisID="galatians.2.21" />Non abiicio gratiam Dei. Si enim per legem iustitia, ergo Christus gratis mortuus est.<verse eID="galatians.2.21" />
+      </p>
+      <chapter eID="galatians.2" />
+      <chapter sID="galatians.3" osisID="galatians.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="galatians.3.1" osisID="galatians.3.1" />O insensati Galatae, quis vos fascinavit? ante quorum oculos Iesus Christus proscriptus est in vobis.<verse eID="galatians.3.1" />
+        <verse sID="galatians.3.2" osisID="galatians.3.2" />Hoc solum discere volo a vobis: Ex operibus legis Spiritus accepistis, an ex auditu fidei?<verse eID="galatians.3.2" />
+        <verse sID="galatians.3.3" osisID="galatians.3.3" />Sic insensati estis, cum coeperitis spiritu nunc carne perficiamini?<verse eID="galatians.3.3" />
+        <verse sID="galatians.3.4" osisID="galatians.3.4" />Tanta passi estis sine causa? si tamen sine causa.<verse eID="galatians.3.4" />
+        <verse sID="galatians.3.5" osisID="galatians.3.5" />Qui ergo tribuit vobis Spiritum, et operatur virtutes in vobis: ex operibus legis, an ex auditu fidei?<verse eID="galatians.3.5" />
+        <verse sID="galatians.3.6" osisID="galatians.3.6" />Sicut Abraham credidit Deo, et reputatum est ei ad iustitiam.<verse eID="galatians.3.6" />
+        <verse sID="galatians.3.7" osisID="galatians.3.7" />Cognoscite ergo, quia qui ex fide sunt, hi sunt filii Abrahae.<verse eID="galatians.3.7" />
+        <verse sID="galatians.3.8" osisID="galatians.3.8" />Providens autem Scriptura, quia ex fide iustificat Gentes Deus, pronunciavit Abrahae, quia benedicuntur omnes Gentes.<verse eID="galatians.3.8" />
+        <verse sID="galatians.3.9" osisID="galatians.3.9" />Igitur qui ex fide sunt, benedicentur cum fideli Abraham.<verse eID="galatians.3.9" />
+        <verse sID="galatians.3.10" osisID="galatians.3.10" />Quotquot enim ex operibus legis sunt, sub maledicto sunt. Scriptum est enim: Quia maledictus omnis, qui non permanet in omnibus, quae scripta sunt in Libro legis, ut faciat ea.<verse eID="galatians.3.10" />
+        <verse sID="galatians.3.11" osisID="galatians.3.11" />Quoniam autem in lege nemo iustificatur apud Deum, manifestum: scriptum est: Quia iustus ex fide vivit:<verse eID="galatians.3.11" />
+        <verse sID="galatians.3.12" osisID="galatians.3.12" />Lex autem non est ex fide, sed, Qui fecerit ea, vivet in illis.<verse eID="galatians.3.12" />
+        <verse sID="galatians.3.13" osisID="galatians.3.13" />Christus nos* redemit de maledicto legis factus pro nobis maledictum: quia scriptum est: Maledictus omnis, qui pendet in ligno .<verse eID="galatians.3.13" />
+        <verse sID="galatians.3.14" osisID="galatians.3.14" />ut in Gentes benedictio Abrahae fieret in Christo Iesu, ut benedictionem Spiritus accipiamus per fidem.<verse eID="galatians.3.14" />
+        <verse sID="galatians.3.15" osisID="galatians.3.15" />Fratres (secundum hominem dico) tamen hominis confirmatum testamentum nemo irritum faciat, aut superordinat.<verse eID="galatians.3.15" />
+        <verse sID="galatians.3.16" osisID="galatians.3.16" />Abrahae dictae sunt promissiones, ut semini eius. Non dicit: Et seminibus tuis, tanquam in multis: sed sicut in uno: Et semini tuo, qui est Christus.<verse eID="galatians.3.16" />
+        <verse sID="galatians.3.17" osisID="galatians.3.17" />Hoc autem dico, testamentum confirmatum a Deo in Christo: quae post quadringentos et triginta annos facta est Lex, non irritam facit ad evacuandam repromissionem.<verse eID="galatians.3.17" />
+        <verse sID="galatians.3.18" osisID="galatians.3.18" />Si enim ex lege haereditas, iam non ex repromissione. Abrahae autem repromissionem donavit Deus.<verse eID="galatians.3.18" />
+        <verse sID="galatians.3.19" osisID="galatians.3.19" />Quid ergo lex? Factorum gratiâ posita est quoadusque veniat semen, cui repromissus est, dispositum per angelos in manu mediatoris.<verse eID="galatians.3.19" />
+        <verse sID="galatians.3.20" osisID="galatians.3.20" />Mediator autem unius non est: Deus autem unus est.<verse eID="galatians.3.20" />
+        <verse sID="galatians.3.21" osisID="galatians.3.21" />Lex ergo adversus promissa? Absit. Si enim data est lex, quae posset vivificare, pro certo ex lege iustitia.<verse eID="galatians.3.21" />
+        <verse sID="galatians.3.22" osisID="galatians.3.22" />Sed conclusit Scriptura omnia sub peccato, ut promissio ex fide Iesu Christi daretur eis, qui credunt.<verse eID="galatians.3.22" />
+        <verse sID="galatians.3.23" osisID="galatians.3.23" />Prius autem quam veniret sides, sub lege custodiebamur conclusi in eam fidem, quae postea retegebatur.<verse eID="galatians.3.23" />
+        <verse sID="galatians.3.24" osisID="galatians.3.24" />Itaque lex paedagogus noster fuit in Christum Iesum, ut ex fide iustificemur.<verse eID="galatians.3.24" />
+        <verse sID="galatians.3.25" osisID="galatians.3.25" />Veniente autem fide, iam non sub paedagogo sumus.<verse eID="galatians.3.25" />
+        <verse sID="galatians.3.26" osisID="galatians.3.26" />Omnes enim filii Dei estis per fidem in Christo Iesu.<verse eID="galatians.3.26" />
+        <verse sID="galatians.3.27" osisID="galatians.3.27" />Quicunque enim in Christo baptizati estis, Christum induistis.<verse eID="galatians.3.27" />
+        <verse sID="galatians.3.28" osisID="galatians.3.28" />Non est Iudaeus, neque Graecus: non est servus, neque liber: non est masculus, et femina. Omnes enim vos unum estis in Christo Iesu.<verse eID="galatians.3.28" />
+        <verse sID="galatians.3.29" osisID="galatians.3.29" />Si autem vos unum estis in Christo Iesu: ergo Abrahae semen estis, secundum promissionem haeredes.<verse eID="galatians.3.29" />
+      </p>
+      <chapter eID="galatians.3" />
+      <chapter sID="galatians.4" osisID="galatians.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="galatians.4.1" osisID="galatians.4.1" />Dico autem: Quandiu *haeres parvulus est, nihil differt a servo, cum dominus omnium sit:<verse eID="galatians.4.1" />
+        <verse sID="galatians.4.2" osisID="galatians.4.2" />sed sub curatore est, et *actore, usque ac praefinitum a patre:<verse eID="galatians.4.2" />
+        <verse sID="galatians.4.3" osisID="galatians.4.3" />sic et nos cum essemus parvuli, sub elementa huius mundi eramus servientes.<verse eID="galatians.4.3" />
+        <verse sID="galatians.4.4" osisID="galatians.4.4" />Postquam vero venit plenitudo temporum, misit Deus Filium suum, factum ex muliere, factum sub lege,<verse eID="galatians.4.4" />
+        <verse sID="galatians.4.5" osisID="galatians.4.5" />ut eos, qui sub lege erant, redimeret, ut adoptionem filiorum reciperemus.<verse eID="galatians.4.5" />
+        <verse sID="galatians.4.6" osisID="galatians.4.6" />Quoniam autem estis filii Dei, misit Deus Spiritum filii sui in corda nostra, clamantes: Abba, Pater.<verse eID="galatians.4.6" />
+        <verse sID="galatians.4.7" osisID="galatians.4.7" />Itaque iam non est servus, sed filius. Si autem filius: et haeres Dei per Christum.<verse eID="galatians.4.7" />
+        <verse sID="galatians.4.8" osisID="galatians.4.8" />Sed tunc quidem nescientes Deum, * his, qui non sunt dei, serviebatis.<verse eID="galatians.4.8" />
+        <verse sID="galatians.4.9" osisID="galatians.4.9" />Nunc autem uti cognovistis Deum, magis autem* cogniti estis a Deo: quomodo convertimini iterum ad infirma, et egena elementa, quibus rursus servire vultis?<verse eID="galatians.4.9" />
+        <verse sID="galatians.4.10" osisID="galatians.4.10" />Dies observatis, et menses, et annos, et tempora.<verse eID="galatians.4.10" />
+        <verse sID="galatians.4.11" osisID="galatians.4.11" />Timeo vos, ne forte sine causa laboraverim in vobis.<verse eID="galatians.4.11" />
+        <verse sID="galatians.4.12" osisID="galatians.4.12" />Estote sicut et ego, quia et ego sicut vos: fratres obsecro vos: Nihil me laesistis.<verse eID="galatians.4.12" />
+        <verse sID="galatians.4.13" osisID="galatians.4.13" />Scitis quod per infirmitatem carnis evangelizavi vobis iampridem: et tentationem vestram in carne mea<verse eID="galatians.4.13" />
+        <verse sID="galatians.4.14" osisID="galatians.4.14" />non sprevistis, neque respuistis: sed sicut Angelum Dei excepistis me, sicut Christum Iesum.<verse eID="galatians.4.14" />
+        <verse sID="galatians.4.15" osisID="galatians.4.15" />Quae ergo erat beatitudo vestra? Testimonium enim vobis perhibeo, quia, si fieri posset oculos vestros eruissetis, et dedissetis mihi.<verse eID="galatians.4.15" />
+        <verse sID="galatians.4.16" osisID="galatians.4.16" />Ergo ego inimicus vobis factus sum, verum dicens vobis?<verse eID="galatians.4.16" />
+        <verse sID="galatians.4.17" osisID="galatians.4.17" />Aemulantur vos non bene : sed excludere vos volunt, ut eos aemulemini.<verse eID="galatians.4.17" />
+        <verse sID="galatians.4.18" osisID="galatians.4.18" />Aemulamini autem meliora dona. Bonum est aemulari in bonis semper: et non solum cum praesens sum apud vos.<verse eID="galatians.4.18" />
+        <verse sID="galatians.4.19" osisID="galatians.4.19" />Filii mei, quos iterum parturio, donec formetur Christus in vobis.<verse eID="galatians.4.19" />
+        <verse sID="galatians.4.20" osisID="galatians.4.20" />* Vellem autem adesse apud vos modo, et mutare vocem meam: quoniam confundor in vobis.<verse eID="galatians.4.20" />
+        <verse sID="galatians.4.21" osisID="galatians.4.21" />Dicite mihi qui sub lege volentes esse, legem non legitis?<verse eID="galatians.4.21" />
+        <verse sID="galatians.4.22" osisID="galatians.4.22" />Scriptum est enim: Quia Abraham duos filios habuit: unum ex ancilla, et unum de libera.<verse eID="galatians.4.22" />
+        <verse sID="galatians.4.23" osisID="galatians.4.23" />Sed is quidem, qui de ancilla, secundum carnem natus est: qui autem de libera, per repromissionem:<verse eID="galatians.4.23" />
+        <verse sID="galatians.4.24" osisID="galatians.4.24" />quae sunt significantia. Haec enim sunt duo testamenta. Unum quidem a monte Sina, in servitutem generans: quae est Agar:<verse eID="galatians.4.24" />
+        <verse sID="galatians.4.25" osisID="galatians.4.25" />Agar enim mons est in Arabia, quae consonat huic, quae nunc est Hierusalem: servit enim cum filiis suis.<verse eID="galatians.4.25" />
+        <verse sID="galatians.4.26" osisID="galatians.4.26" />Quae autem susum est Hierusalem, libera est; quae est mater nostra.<verse eID="galatians.4.26" />
+        <verse sID="galatians.4.27" osisID="galatians.4.27" />Scriptum est enim: Laetare sterilis, quae non paris: erumpe, et clama, quae non parturis: quia multi filii desertae, magis quam eius, quae habet virum.<verse eID="galatians.4.27" />
+        <verse sID="galatians.4.28" osisID="galatians.4.28" />Vos autem, fratres, secundum Isac promissionis filii estis.<verse eID="galatians.4.28" />
+        <verse sID="galatians.4.29" osisID="galatians.4.29" />Sed sicut tunc qui secundum carnem natus est, persequebatur eum, qui secundum spiritum: ita et nunc.<verse eID="galatians.4.29" />
+        <verse sID="galatians.4.30" osisID="galatians.4.30" />Sed quid dicit Scriptura? Eiice ancillam. et filium eius: non enim haeres erit filius ancillae cum filio meo Isac.<verse eID="galatians.4.30" />
+        <verse sID="galatians.4.31" osisID="galatians.4.31" />Itaque, fratres, non sumus ancillae filii sed liberae: qua libertate nostra Christus liberavit.<verse eID="galatians.4.31" />
+      </p>
+      <chapter eID="galatians.4" />
+      <chapter sID="galatians.5" osisID="galatians.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="galatians.5.1" osisID="galatians.5.1" />State, et nolite iterum servituti iugo contineri.<verse eID="galatians.5.1" />
+        <verse sID="galatians.5.2" osisID="galatians.5.2" />Ecce ego Paulus dico vobis: quia si circumcidamini, Christus vobis nihil proderit.<verse eID="galatians.5.2" />
+        <verse sID="galatians.5.3" osisID="galatians.5.3" />Testificor autem omni homini circumcidenti se quoniam debitor est universae legis faciendae.<verse eID="galatians.5.3" />
+        <verse sID="galatians.5.4" osisID="galatians.5.4" />Evacuati estis a Christo, qui in lege iustificamini: a gratia excidistis.<verse eID="galatians.5.4" />
+        <verse sID="galatians.5.5" osisID="galatians.5.5" />Nos enim spiritu ex fide, spem iustitiae exspectamus.<verse eID="galatians.5.5" />
+        <verse sID="galatians.5.6" osisID="galatians.5.6" />In Christo enim Iesu neque circumcisio aliquid valet, neque praeputium: sed fides, quae per caritatem operatur.<verse eID="galatians.5.6" />
+        <verse sID="galatians.5.7" osisID="galatians.5.7" />Currebatis bene: quis vos impedivit veritati non obaudire?<verse eID="galatians.5.7" />
+        <verse sID="galatians.5.8" osisID="galatians.5.8" />Suasio ex eo est, qui vos vocat?<verse eID="galatians.5.8" />
+        <verse sID="galatians.5.9" osisID="galatians.5.9" />Modicum fermentum totam massam corrumpit.<verse eID="galatians.5.9" />
+        <verse sID="galatians.5.10" osisID="galatians.5.10" />Ego confido in vobis in Domino, quod nihil aliud sentietis: qui autem conturbat vos portabit iudicium, quicunque est ille.<verse eID="galatians.5.10" />
+        <verse sID="galatians.5.11" osisID="galatians.5.11" />Ego autem, fratres, si circumcisionem praedico: quid adhuc persecutionem patior? Ergo evacuatum est scandalum crucis.<verse eID="galatians.5.11" />
+        <verse sID="galatians.5.12" osisID="galatians.5.12" />Utinam et abscidantur qui subvertunt vos.<verse eID="galatians.5.12" />
+        <verse sID="galatians.5.13" osisID="galatians.5.13" />Vos enim in libertatem vocati estis fratres: tantum ne libertatem in occasionem carnis, sed per caritatem Spiritu servite invicem.<verse eID="galatians.5.13" />
+        <verse sID="galatians.5.14" osisID="galatians.5.14" />Omnis enim lex in vobis uno sermone impletur: Diliges proximum tuum sicut teipsum.<verse eID="galatians.5.14" />
+        <verse sID="galatians.5.15" osisID="galatians.5.15" />Quod si mordetis, et inaccusatis invicem: videte ne consumamini ab invicem.<verse eID="galatians.5.15" />
+        <verse sID="galatians.5.16" osisID="galatians.5.16" />Dico autem: * Spiritu ambulate, et concupiscentiam carnis non perficiatis.<verse eID="galatians.5.16" />
+        <verse sID="galatians.5.17" osisID="galatians.5.17" />Nam caro concupiscit adversus spiritum: spiritus autem adversus carnem: haec enim invicem adversantur: ut non quaecunque vultis, ista faciatis.<verse eID="galatians.5.17" />
+        <verse sID="galatians.5.18" osisID="galatians.5.18" />Si autem spiritu ducimini, non estis sub lege.<verse eID="galatians.5.18" />
+        <verse sID="galatians.5.19" osisID="galatians.5.19" />Manifesta autem sunt opera carnis: quae sunt adulteria, fornicationes, immunditia, impudicitia<verse eID="galatians.5.19" />
+        <verse sID="galatians.5.20" osisID="galatians.5.20" />*idolatria, veneficia, inimicitiae, contentiones, aemulationes, irae, irritationes, dissensiones, haereses<verse eID="galatians.5.20" />
+        <verse sID="galatians.5.21" osisID="galatians.5.21" />invidiae, * homicidia, ebrietates, commessationes, et similia his: quae praedico vobis, sicut et praedixi, quia qui talia agunt, regnum Dei non possidebunt.<verse eID="galatians.5.21" />
+        <verse sID="galatians.5.22" osisID="galatians.5.22" />Fructus autem Spiritus est: caritas, gaudium, pax, patientia, bonitas.<verse eID="galatians.5.22" />
+        <verse sID="galatians.5.23" osisID="galatians.5.23" />mansuetudo, fides, lenitas, continentia castitatis. Adversus huiusmodi non est lex.<verse eID="galatians.5.23" />
+        <verse sID="galatians.5.24" osisID="galatians.5.24" />Qui autem Christi, carnem crucifixerunt cum passionibus, et concupiscentiis.<verse eID="galatians.5.24" />
+        <verse sID="galatians.5.25" osisID="galatians.5.25" />Si spiritu vivimus, spiritu ambulemus.<verse eID="galatians.5.25" />
+        <verse sID="galatians.5.26" osisID="galatians.5.26" />Non efficiamur inanis gloriae cupidi, invicem provocantes, invicem invidentes.<verse eID="galatians.5.26" />
+      </p>
+      <chapter eID="galatians.5" />
+      <chapter sID="galatians.6" osisID="galatians.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="galatians.6.1" osisID="galatians.6.1" />Fratres, et si praeoccupatus fuerit homo in aliquo delicto, vos, qui spiritales estis, instruite huiusmodi in spiritu mansuetudinis, considerans unusquisque seipsum, ne et ipse tentetur.<verse eID="galatians.6.1" />
+        <verse sID="galatians.6.2" osisID="galatians.6.2" />Alter alterius * onera portate, et et. impiebitis legem Christi.<verse eID="galatians.6.2" />
+        <verse sID="galatians.6.3" osisID="galatians.6.3" />Si enim putat se quis esse aliquid, cum nihil sit, ipse se seducit.<verse eID="galatians.6.3" />
+        <verse sID="galatians.6.4" osisID="galatians.6.4" />Opus autem suum probet unusquisque, et tunc in se solum habebit gloriam, et non in alterum.<verse eID="galatians.6.4" />
+        <verse sID="galatians.6.5" osisID="galatians.6.5" />Unusquisque enim in proprium onus suum portabit.<verse eID="galatians.6.5" />
+        <verse sID="galatians.6.6" osisID="galatians.6.6" />Communicet autem is, qui cathechizatur verbum, qui catechizat, in omnibus bonis.<verse eID="galatians.6.6" />
+        <verse sID="galatians.6.7" osisID="galatians.6.7" />Nolite errare: Deus non ridetur.<verse eID="galatians.6.7" />
+        <verse sID="galatians.6.8" osisID="galatians.6.8" />Quae enim seminaverit homo, eadem et metet. Quoniam qui seminat in carne sua, de carne sua metet corruptionem: qui autem seminat in spiritu, de spiritu metet vitam aeternam.<verse eID="galatians.6.8" />
+        <verse sID="galatians.6.9" osisID="galatians.6.9" />Bonum autem facientes, non deficiamus: tempore enim suo metemus non fatigati.<verse eID="galatians.6.9" />
+        <verse sID="galatians.6.10" osisID="galatians.6.10" />Ergo dum tempus habemus, operemur bonum ad omnes, maxime autem ad domesticos fidei.<verse eID="galatians.6.10" />
+        <verse sID="galatians.6.11" osisID="galatians.6.11" />Videte qualibus litteris vobis scripsi mea manu.<verse eID="galatians.6.11" />
+        <verse sID="galatians.6.12" osisID="galatians.6.12" />Quicunque volunt placere in carne, hi compellunt vos circumcidi, tantum ut* crux Christi non fugentur.<verse eID="galatians.6.12" />
+        <verse sID="galatians.6.13" osisID="galatians.6.13" />Nec enim qui circumcisi sunt, ipsi legem custodiunt: sed volunt vos circumcidi, ut in vestra carne glorientur.<verse eID="galatians.6.13" />
+        <verse sID="galatians.6.14" osisID="galatians.6.14" />Mihi autem absit gloriari, nisi in cruce Domini nostri Iesu Christi: per quem mihi mundus crucifixus est, et ego mundo.<verse eID="galatians.6.14" />
+        <verse sID="galatians.6.15" osisID="galatians.6.15" />In Christo enim Iesu neque circumcisio aliquid est, neque praeputium, sed nova creatura.<verse eID="galatians.6.15" />
+        <verse sID="galatians.6.16" osisID="galatians.6.16" />Et quicunque regulam hanc sectantur, pax super illos, et misericordia, et super Israel Domini.<verse eID="galatians.6.16" />
+        <verse sID="galatians.6.17" osisID="galatians.6.17" />De caetero nemo mihi molestus sit: ego enim stigmata Domini Iesu Christi in corpore meo porto.<verse eID="galatians.6.17" />
+        <verse sID="galatians.6.18" osisID="galatians.6.18" />Gratia Domini nostri Iesu Christi, cum spiritu vestro, fratres. Amen.<verse eID="galatians.6.18" />
+      </p>
+    </div>
+  </osisText>
+</osis>

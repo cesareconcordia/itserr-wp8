@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="philippians" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="philippians">
+        <title>Philippians</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">philippians</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Philippians</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="philippians">
+      <title>Philippians</title>
+      <chapter sID="philippians.1" osisID="philippians.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="philippians.1.1" osisID="philippians.1.1" />PAULUS, et Timotheus servi Christi Iesu, omnibus sanctis in Christo Iesu, qui sunt Philippis, cum episcopis, et diaconibus.<verse eID="philippians.1.1" />
+        <verse sID="philippians.1.2" osisID="philippians.1.2" />Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo.<verse eID="philippians.1.2" />
+        <verse sID="philippians.1.3" osisID="philippians.1.3" />Ego quidem gratias ago Domino nostro super omni memoria vestri.<verse eID="philippians.1.3" />
+        <verse sID="philippians.1.4" osisID="philippians.1.4" />semper in omni oratione mea pro omnibus vobis, cum gaudio orationem faciens,<verse eID="philippians.1.4" />
+        <verse sID="philippians.1.5" osisID="philippians.1.5" />super communicationem vestram in Evangelium a prima die usque nunc:<verse eID="philippians.1.5" />
+        <verse sID="philippians.1.6" osisID="philippians.1.6" />confidens hoc ipsum, quia is, qui coepit in vobis opus bonum, perficiet usque in diem Christi Iesu:<verse eID="philippians.1.6" />
+        <verse sID="philippians.1.7" osisID="philippians.1.7" />sicut est iustum mihi hoc sentire pro omnibus vobis: eo quod habeam vos in corde, in vinculis meis, et in defensione, et confirmationem Evangelii, socios gaudii mei omnes vos esse.<verse eID="philippians.1.7" />
+        <verse sID="philippians.1.8" osisID="philippians.1.8" />Testis enim mihi Deus, quomodo concupisco omnes vos in visceribus Christi Iesu.<verse eID="philippians.1.8" />
+        <verse sID="philippians.1.9" osisID="philippians.1.9" />Et hoc oro ut caritas vestra adhuc magis ac magis abundet in scientia, et omni sensu:<verse eID="philippians.1.9" />
+        <verse sID="philippians.1.10" osisID="philippians.1.10" />ut probetis vos quae potiora sunt, ut sitis sinceres, et sine offensione in die Christi<verse eID="philippians.1.10" />
+        <verse sID="philippians.1.11" osisID="philippians.1.11" />repleti fructum iustitiae per Iesum Christum, in gloriam et laudem Dei.<verse eID="philippians.1.11" />
+        <verse sID="philippians.1.12" osisID="philippians.1.12" />Scire autem vos volo fratres, quia quae attinent, magis ad profectum Evangelii venerunt:<verse eID="philippians.1.12" />
+        <verse sID="philippians.1.13" osisID="philippians.1.13" />ita ut vincula mea manifesta in Christo fierent in toto praetorio, et caeteris omnibus;<verse eID="philippians.1.13" />
+        <verse sID="philippians.1.14" osisID="philippians.1.14" />et plures ex fratribus in Domino confidentes vinculis meis, abundantius auderent sine timore verbum loqui Dei.<verse eID="philippians.1.14" />
+        <verse sID="philippians.1.15" osisID="philippians.1.15" />Quidam quidem et propter invidiam et contentionem, quidam vero propter beneplacitum Christum praedicant.<verse eID="philippians.1.15" />
+        <verse sID="philippians.1.16" osisID="philippians.1.16" />quidam ex caritate, scientes quia in defensione Evangelii positus sum.<verse eID="philippians.1.16" />
+        <verse sID="philippians.1.17" osisID="philippians.1.17" />Quidam autem ex dissensione Christum adnuntiant non * sancte, existimantes tribulationem suscitare vinculis meis.<verse eID="philippians.1.17" />
+        <verse sID="philippians.1.18" osisID="philippians.1.18" />Quid enim? Dum omni modo, sive per occasionem, sive per veritatem, Christus annuntiatur; et in hoc gaudeo, sed et gaudebo.<verse eID="philippians.1.18" />
+        <verse sID="philippians.1.19" osisID="philippians.1.19" />Scio enim quod hoc mihi* procedat in salutem, per vestram obsecrationem, et * sumministrationem Spiritus Christi Iesu,<verse eID="philippians.1.19" />
+        <verse sID="philippians.1.20" osisID="philippians.1.20" />secundum exspectationem, et spem meam quia in nullo confundar: sed in omni fiducia sicut semper, et nunc magnificabitur Christus in corpore meo, sive per vitam, sive per mortem.<verse eID="philippians.1.20" />
+        <verse sID="philippians.1.21" osisID="philippians.1.21" />Mihi enim vivere Christus est, et mori lucrum.<verse eID="philippians.1.21" />
+        <verse sID="philippians.1.22" osisID="philippians.1.22" />Si autem vivere in carne, hic mihi fructus operis est, et quid eligam non adcognosco.<verse eID="philippians.1.22" />
+        <verse sID="philippians.1.23" osisID="philippians.1.23" />Contineor autem ex duobus: concupiscentiam habens dissolvi, et cum Christo esse, quanto magis melius:<verse eID="philippians.1.23" />
+        <verse sID="philippians.1.24" osisID="philippians.1.24" />permanere autem in carne, necessarium propter vos.<verse eID="philippians.1.24" />
+        <verse sID="philippians.1.25" osisID="philippians.1.25" />Et hoc confidens scio quia manebo, et permanebo omnibus vobis, ad vestrum profectum, et gaudium fidei:<verse eID="philippians.1.25" />
+        <verse sID="philippians.1.26" osisID="philippians.1.26" />ut gloriatio vestra abundet in Christo Iesu in me, per meum adventum iterum ad vos.<verse eID="philippians.1.26" />
+        <verse sID="philippians.1.27" osisID="philippians.1.27" />Tantum digne Evangelio Christi conversamini: ut sive adveniens videre vos, sive absens audiam de vobis, quia statis in uno spiritu unanimes, concertantes fide Evangelii<verse eID="philippians.1.27" />
+        <verse sID="philippians.1.28" osisID="philippians.1.28" />et non expavescentes in nullo ab adversariis: quae est illis ostensio perditionis, vestrae autem salutis, et hoc a Deo:<verse eID="philippians.1.28" />
+        <verse sID="philippians.1.29" osisID="philippians.1.29" />quia vobis donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini:<verse eID="philippians.1.29" />
+        <verse sID="philippians.1.30" osisID="philippians.1.30" />idipsum certamen habentes, quale et vidistis in me, et nunc audistis de me.<verse eID="philippians.1.30" />
+      </p>
+      <chapter eID="philippians.1" />
+      <chapter sID="philippians.2" osisID="philippians.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="philippians.2.1" osisID="philippians.2.1" />Si qua ergo consolatio in Christo, si quod solatium caritatis, si qua communicatio spiritus, si qua viscera, et miserationes:<verse eID="philippians.2.1" />
+        <verse sID="philippians.2.2" osisID="philippians.2.2" />implete gaudium meum, ut* idipsum sapiatis, eandem caritatem habentes, unanimes, unum sentientes,<verse eID="philippians.2.2" />
+        <verse sID="philippians.2.3" osisID="philippians.2.3" />nihil per contentionem, neque per inanem gloriam: sed in humilitatem invicem arbitrantes praecellentes invicem,<verse eID="philippians.2.3" />
+        <verse sID="philippians.2.4" osisID="philippians.2.4" />non sua unusquisque considerantes, sed quae aliorum* unusquisque.<verse eID="philippians.2.4" />
+        <verse sID="philippians.2.5" osisID="philippians.2.5" />Hoc enim sentite in vobis, quod et Christus Iesus:<verse eID="philippians.2.5" />
+        <verse sID="philippians.2.6" osisID="philippians.2.6" />qui cum in forma Dei constitutus, non rapinam arbitratus est esse se aequalem Deo:<verse eID="philippians.2.6" />
+        <verse sID="philippians.2.7" osisID="philippians.2.7" />sed semetipsum exinanivit formam servi accipiens, in * similitudine hominum factus, et habitu adinventus ut homo.<verse eID="philippians.2.7" />
+        <verse sID="philippians.2.8" osisID="philippians.2.8" />Humiliavit semetipsum factus obaudiens usque ad mortem, mortem autem crucis.<verse eID="philippians.2.8" />
+        <verse sID="philippians.2.9" osisID="philippians.2.9" />Propter quod et Deus illum exaltavit, et donavit illi nomen super omne nomen,<verse eID="philippians.2.9" />
+        <verse sID="philippians.2.10" osisID="philippians.2.10" />ut in nomine Iesu omne genu flectatur coelestium, et terrestrium, et infernorum;<verse eID="philippians.2.10" />
+        <verse sID="philippians.2.11" osisID="philippians.2.11" />et omnis lingua confiteatur, quoniam Dominus Iesus Christus in gloriam Dei Patris.<verse eID="philippians.2.11" />
+        <verse sID="philippians.2.12" osisID="philippians.2.12" />Propter quod dilectissimi mihi, (sicut semper obaudistis) non ut praesentia mei tantum sed multo magis nunc in absentia mea, cum timore et tremore vestram salutem operamini.<verse eID="philippians.2.12" />
+        <verse sID="philippians.2.13" osisID="philippians.2.13" />Deus enim est, qui operatur in vobis et velle , et operari, prout placet.<verse eID="philippians.2.13" />
+        <verse sID="philippians.2.14" osisID="philippians.2.14" />Omnia facite sine murmurationibus, et detractionibus:<verse eID="philippians.2.14" />
+        <verse sID="philippians.2.15" osisID="philippians.2.15" />et sitis sine crimine, et sinceres filii Dei, immaculati in medio nationis pravae, et perversae: inter quos lucetis sicut luminaria in hoc mundo,<verse eID="philippians.2.15" />
+        <verse sID="philippians.2.16" osisID="philippians.2.16" />verbum vitae continentes ad gloriam meam in diem Christi, quia non in vacuum cucurri, neque in vacuum laboravi.<verse eID="philippians.2.16" />
+        <verse sID="philippians.2.17" osisID="philippians.2.17" />Sed et * libari supra sacrificium, et servitutem fidei vestrae gaudeo, et congratulor omnibus vobis.<verse eID="philippians.2.17" />
+        <verse sID="philippians.2.18" osisID="philippians.2.18" />Idipsum autem et vos gaudete, et congratulamini mihi.<verse eID="philippians.2.18" />
+        <verse sID="philippians.2.19" osisID="philippians.2.19" />Spero autem in Christo Iesu, Timotheum cito mittere ad vos: ut ego bono animo sim, cum cognovero de vobis.<verse eID="philippians.2.19" />
+        <verse sID="philippians.2.20" osisID="philippians.2.20" />Neminem enim habeo unanimem, qui fidenter pro vobis sollicitus sit.<verse eID="philippians.2.20" />
+        <verse sID="philippians.2.21" osisID="philippians.2.21" />Omnes enim sua quaerunt, non quae Iesu Christi.<verse eID="philippians.2.21" />
+        <verse sID="philippians.2.22" osisID="philippians.2.22" />Experimentum autem eius scitis, quia sicut patri filius, servivit in Evangelium.<verse eID="philippians.2.22" />
+        <verse sID="philippians.2.23" osisID="philippians.2.23" />Hunc ergo spero me mittere, mox videro quae circa me sunt ex ipsa.<verse eID="philippians.2.23" />
+        <verse sID="philippians.2.24" osisID="philippians.2.24" />Confido autem in Domino, quoniam et ipse cito veniam.<verse eID="philippians.2.24" />
+        <verse sID="philippians.2.25" osisID="philippians.2.25" />Necessarium autem arbitratus sum, Epaphroditum fratrem, et commilitonem meum vestrum autem apostolum, et ministrum necessitatis meae, mittere ad vos:<verse eID="philippians.2.25" />
+        <verse sID="philippians.2.26" osisID="philippians.2.26" />quoniam desiderans erat omnes vos videre: et erat sollicitus, quia audieratis illum infirmatum.<verse eID="philippians.2.26" />
+        <verse sID="philippians.2.27" osisID="philippians.2.27" />Nam et infirmatus est ad desperationem mortis: sed Deus misertus est eum; non solum autem* illi, sed etiam et mei, ne tristitiam super tristitiam habeam.<verse eID="philippians.2.27" />
+        <verse sID="philippians.2.28" osisID="philippians.2.28" />Sollicitus itaque misi eum, ut viso eo iterum gaudeatis, et ego sine tristitia sim.<verse eID="philippians.2.28" />
+        <verse sID="philippians.2.29" osisID="philippians.2.29" />Excipite itaque eum in Domino cum omni gaudio, et huiusmodi honorificos habete:<verse eID="philippians.2.29" />
+        <verse sID="philippians.2.30" osisID="philippians.2.30" />quoniam propter opus Christi usque ad mortem accessit, parabolatus de anima sua, ut suppleret quod vobis deerat circa meum obsequium.<verse eID="philippians.2.30" />
+      </p>
+      <chapter eID="philippians.2" />
+      <chapter sID="philippians.3" osisID="philippians.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="philippians.3.1" osisID="philippians.3.1" />De caetero fratres mei gaudete in Domino. Eadem scribere vobis, mihi quidem non pigrum, vobis autem manifestatum est.<verse eID="philippians.3.1" />
+        <verse sID="philippians.3.2" osisID="philippians.3.2" />Videte canes, videte malos operarios, videte concisionem.<verse eID="philippians.3.2" />
+        <verse sID="philippians.3.3" osisID="philippians.3.3" />Nos enim sumus circumcisio, qui spiritu Deo servimus, et gloriamur in Christo Iesu: et non in carne confidetis:<verse eID="philippians.3.3" />
+        <verse sID="philippians.3.4" osisID="philippians.3.4" />quanquam ego habeam fiduciam in carne. Si quis alter putat se fiduciam habere in carne, ego magis<verse eID="philippians.3.4" />
+        <verse sID="philippians.3.5" osisID="philippians.3.5" />circumcisione octava die, de genere Israel, tribu Beniamin, Hebraeus ex Hebraeis; secundum legem Pharisaeus,<verse eID="philippians.3.5" />
+        <verse sID="philippians.3.6" osisID="philippians.3.6" />secundum zelum persequens Ecclesiam, secundum iustitiam, quae in lege est, cum essem sine crimine.<verse eID="philippians.3.6" />
+        <verse sID="philippians.3.7" osisID="philippians.3.7" />Quae mihi fuerunt lucra, haec existimavi propter Christum detrimenta.<verse eID="philippians.3.7" />
+        <verse sID="philippians.3.8" osisID="philippians.3.8" />Veruntamen et arbitror omnia detrimenta esse, propter eminentiam scientiae Christi Iesu Domini mei: propter quem omnia damnum feci, et arbitror stercora, ut Christum lucrifaciam<verse eID="philippians.3.8" />
+        <verse sID="philippians.3.9" osisID="philippians.3.9" />et inveniar in illo, non habens meam iustitiam, quae est ex lege, sed illam, quae per fidem Christi: quae ex Deo est iustitia in fide,<verse eID="philippians.3.9" />
+        <verse sID="philippians.3.10" osisID="philippians.3.10" />ad cognoscendum illum, et virtutem resurrectionis eius, et communicationem* passionum eius: cooneratus morti ipsius:<verse eID="philippians.3.10" />
+        <verse sID="philippians.3.11" osisID="philippians.3.11" />si quo modo occurram in resurrectionem. quae est a mortuis: 12. non quia iam acceperim, aut iam iustificatus * sim, aut iam perfectus sim: sequor autem, si apprehendam in quo et apprehensus sum a Christo.<verse eID="philippians.3.11" />
+        <verse sID="philippians.3.13" osisID="philippians.3.13" />Fratres, ego me non arbitror comprehendisse. Unum tamen, quae quidem retro sunt obliviscens, in ea autem, quae in priore sunt, me extendens,<verse eID="philippians.3.13" />
+        <verse sID="philippians.3.14" osisID="philippians.3.14" />secundum regulam consequor ad bravium superioris vocationis Dei in Domino Iesu Christo.<verse eID="philippians.3.14" />
+        <verse sID="philippians.3.15" osisID="philippians.3.15" />Quotquot ergo perfecti sumus, hoc sapiamus: et si quid aliter sapitis, et hoc Deus vobis revelabit.<verse eID="philippians.3.15" />
+        <verse sID="philippians.3.16" osisID="philippians.3.16" />Veruntamen in quo pervenimus, in ipsum sapiamus ad hoc ipsum convenire.<verse eID="philippians.3.16" />
+        <verse sID="philippians.3.17" osisID="philippians.3.17" />Coimitatores mei estote fratres, et observate qui sic ambulant, sicut habetis formam nos.<verse eID="philippians.3.17" />
+        <verse sID="philippians.3.18" osisID="philippians.3.18" />Multi enim ambulant, quos semper dicebam vobis (nunc autem et flens dico) *inimicos crucis Christi:<verse eID="philippians.3.18" />
+        <verse sID="philippians.3.19" osisID="philippians.3.19" />quorum finis est interitus: quorum Deus venter est : et gloria in confessione ipsorum, qui terrena sapiunt.<verse eID="philippians.3.19" />
+        <verse sID="philippians.3.20" osisID="philippians.3.20" />Nostra autem conversatio in coelis constituta est: unde et Salvatorem exspectamus Dominum Iesum Christum,<verse eID="philippians.3.20" />
+        <verse sID="philippians.3.21" osisID="philippians.3.21" />qui transfiguravit corpus humilitatis nostrae, conformatum corporis gloriae suae, secundum operationem, quam possit et subicere ei omnia.<verse eID="philippians.3.21" />
+      </p>
+      <chapter eID="philippians.3" />
+      <chapter sID="philippians.4" osisID="philippians.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="philippians.4.1" osisID="philippians.4.1" />Propter quod fratres mei dilectissimi, et desiderantissimi, gaudium, et corona mea: sic state in Domino.<verse eID="philippians.4.1" />
+        <verse sID="philippians.4.2" osisID="philippians.4.2" />Evhodiam rogo, et Syntichen rogo, idipsum sapere in Domino.<verse eID="philippians.4.2" />
+        <verse sID="philippians.4.3" osisID="philippians.4.3" />Ita rogo et te dilectissime coniux, adiuva illas, quae in Evangelio laboraverunt mecum cum Clemente, et caeteris adiutoribus meis, quorum nomina sunt in libro vitae.<verse eID="philippians.4.3" />
+        <verse sID="philippians.4.4" osisID="philippians.4.4" />Habete in Domino semper: iterum dicam habete.<verse eID="philippians.4.4" />
+        <verse sID="philippians.4.5" osisID="philippians.4.5" />Modestia vestra nota fiat omnibus hominibus: Dominus in proximo est.<verse eID="philippians.4.5" />
+        <verse sID="philippians.4.6" osisID="philippians.4.6" />Nihil solliciti fueritis: sed in omni oratione, et precatione, cum gratiarum * actione, postulationes vestrae innotescant apud Deum.<verse eID="philippians.4.6" />
+        <verse sID="philippians.4.7" osisID="philippians.4.7" />Et pax Dei, quae praecellit omnem sensum custodiat corda vestra, et corpora vestra, in Christo Iesu.<verse eID="philippians.4.7" />
+        <verse sID="philippians.4.8" osisID="philippians.4.8" />De caetero fratres, quaecunque sunt vera, quaecunque pudica, quaecunque iusta, quaecunque sancta, quaecunque carissima, quaecunque bonae samae, si qua virtus, et si qua laus disciplinae, haec cogitate.<verse eID="philippians.4.8" />
+        <verse sID="philippians.4.9" osisID="philippians.4.9" />Quae et didicistis, et accepistis, et audistis et vidistis in me, haec agite : et Deus pacis erit vobiscum.<verse eID="philippians.4.9" />
+        <verse sID="philippians.4.10" osisID="philippians.4.10" />Gavisus sum autem in Domino valde, quoniam tandem aliquando refloruistis pro me sapere, super quem et sapiebatis: occupati autem eratis.<verse eID="philippians.4.10" />
+        <verse sID="philippians.4.11" osisID="philippians.4.11" />Non quasi desit aliquid, dico : ego enim didici in quibus sufficiens esse.<verse eID="philippians.4.11" />
+        <verse sID="philippians.4.12" osisID="philippians.4.12" />Scio et humiliari, scio et abundare; (in omni et in omnibus imbutus sum) et satiari, et esurire; et abundare, et egere:<verse eID="philippians.4.12" />
+        <verse sID="philippians.4.13" osisID="philippians.4.13" />omnia possum in eo, qui confortat me.<verse eID="philippians.4.13" />
+        <verse sID="philippians.4.14" osisID="philippians.4.14" />Veruntamen bene fecistis, communicantes tribulationi meae.<verse eID="philippians.4.14" />
+        <verse sID="philippians.4.15" osisID="philippians.4.15" />Scitis autem et vos Philippenses, quoniam in principio Evangelii, quando profectus sum a Macedonia, quia nulla mihi Ecclesia* communicavit in verbo dati et accepti, nisi vos soli:<verse eID="philippians.4.15" />
+        <verse sID="philippians.4.16" osisID="philippians.4.16" />quia et in Tessalonicen et semel et bis in usum mihi misistis.<verse eID="philippians.4.16" />
+        <verse sID="philippians.4.17" osisID="philippians.4.17" />Non quia requiro datum, sed requiro fructum, qui abundat in verbo vestro.<verse eID="philippians.4.17" />
+        <verse sID="philippians.4.18" osisID="philippians.4.18" />Habeo autem omnia, et abundo: repletus sum, accipiens ab Epaphrodito ea, quae a vobis missa sunt, * odorem suavitatis, hostiam acceptam, placentem Deo.<verse eID="philippians.4.18" />
+        <verse sID="philippians.4.19" osisID="philippians.4.19" />Deus autem meus impleat omne desiderium vestrum, secundum divitias suas, in gloria in Christo Iesu.<verse eID="philippians.4.19" />
+        <verse sID="philippians.4.20" osisID="philippians.4.20" />Deo autem et Patri nostro gloria in saecula saeculorum: Amen.<verse eID="philippians.4.20" />
+        <verse sID="philippians.4.21" osisID="philippians.4.21" />Salutate omnem sanctum in Christo Iesu.<verse eID="philippians.4.21" />
+        <verse sID="philippians.4.22" osisID="philippians.4.22" />* Salutant vos, qui mecum sunt, fratres. Salutant vos omnes sancti, maxime autem qui de Caesaris* domo.<verse eID="philippians.4.22" />
+        <verse sID="philippians.4.23" osisID="philippians.4.23" />Gratia Domini Iesu Christi cum spiritu vestro. Amen<verse eID="philippians.4.23" />
+      </p>
+    </div>
+  </osisText>
+</osis>

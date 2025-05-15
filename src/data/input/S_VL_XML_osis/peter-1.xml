@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="peter-1" osisRefWork="bible" xml:lang="lat" canonical="true">
+    <header>
+      <work osisWork="peter-1">
+        <title>Peter-1</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">peter-1</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>Peter-1</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="peter-1">
+      <title>Peter-1</title>
+      <chapter sID="peter-1.1" osisID="peter-1.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="peter-1.1.3" osisID="peter-1.1.3" />Benedictus Deus et Pater Domini nostri Iesu Christi, secundum multitudinem misericordiae suae qui regeneravit nos in spem vitae aeternae per resurrectionem Iesu Christi,<verse eID="peter-1.1.3" />
+        <verse sID="peter-1.1.4" osisID="peter-1.1.4" />in haereditatem immortalem, et incontaminatam, florentem, servatam in coelis vobis.<verse eID="peter-1.1.4" />
+        <verse sID="peter-1.1.5" osisID="peter-1.1.5" />qui in virtute Dei conservamini per fidem in salutem, paratam palam fieri in tempore novissimo.<verse eID="peter-1.1.5" />
+        <verse sID="peter-1.1.6" osisID="peter-1.1.6" />..... exsultabitis, nunc si oportet contristari variis tentationibus:<verse eID="peter-1.1.6" />
+        <verse sID="peter-1.1.7" osisID="peter-1.1.7" />ut probatio vestrae fidei multo pretiosior auro (quod per ignem probatur) inveniatur? in laudem, et honorem Iesu Christi:<verse eID="peter-1.1.7" />
+        <verse sID="peter-1.1.8" osisID="peter-1.1.8" />quem ignorabatis: in quem modo non videntes creditis: quem cum videritis, exsultabitis gaudio inenarrabili , et honorato gaudio:<verse eID="peter-1.1.8" />
+        <verse sID="peter-1.1.9" osisID="peter-1.1.9" />percipientes testamentum fidei, salutem animarum vestrarum.<verse eID="peter-1.1.9" />
+        <verse sID="peter-1.1.10" osisID="peter-1.1.10" />De qua salute exquisierunt, atque scrutati sunt prophetae, qui de futura in vos gratia Dei prophetaverunt:<verse eID="peter-1.1.10" />
+        <verse sID="peter-1.1.11" osisID="peter-1.1.11" />scrutantes in quibus, vel quale tempus significaret, qui in eis erat, Spiritus Christi: qui praenunciabat in Christo passiones, et post haec glorias:<verse eID="peter-1.1.11" />
+        <verse sID="peter-1.1.12" osisID="peter-1.1.12" />.. nunciata sunt vobis per eos, quibus evangelizaverunt, Spiritu sancto misso de coelo, in quem concupiscunt Angeli prospicere.<verse eID="peter-1.1.12" />
+        <verse sID="peter-1.1.13" osisID="peter-1.1.13" />Propter hoc accincti lumbos mentis vestrae vigilantes perfecte sperate in eam gratiam, quae vobis deferenda est in revelatione Iesu Christi.<verse eID="peter-1.1.13" />
+        <verse sID="peter-1.1.14" osisID="peter-1.1.14" />Quasi filii obedientiae, non conformemini prioribus ignorantiae vestrae desideriis:<verse eID="peter-1.1.14" />
+        <verse sID="peter-1.1.15" osisID="peter-1.1.15" />sed secundum eum, qui vos vocavit, Sanctum, et ipsi sancti estote in omni conversatione: 16. scriptum est enim: Sancti estote, quia ego sanctus sum.<verse eID="peter-1.1.15" />
+        <verse sID="peter-1.1.17" osisID="peter-1.1.17" />..... in timore hoc incolatus vestri tempore conversamini.<verse eID="peter-1.1.17" />
+        <verse sID="peter-1.1.18" osisID="peter-1.1.18" />Scientes quod non corruptibilibus argento, vel auro redempti estis de vana vestra conversatione paternae traditionis:<verse eID="peter-1.1.18" />
+        <verse sID="peter-1.1.19" osisID="peter-1.1.19" />sed pretioso sanguine quasi agni incontaminati et immaculati Christi Iesu:<verse eID="peter-1.1.19" />
+        <verse sID="peter-1.1.20" osisID="peter-1.1.20" />praecogniti quidem ante mundi constitutionem, manifestati autem novissimis temporibus propter vos<verse eID="peter-1.1.20" />
+        <verse sID="peter-1.1.21" osisID="peter-1.1.21" />qui per ipsum fideles estis in Deum, qui suscitavit eum a mortuis, et gloriam ei dedit, ut fides vestra, et spes esset in Deo.<verse eID="peter-1.1.21" />
+        <verse sID="peter-1.1.22" osisID="peter-1.1.22" />Animas vestras sanctificate ad obediendum fidei per spiritum in charitate, in fraternitate; ex corde vero invicem diligite perseveranter:<verse eID="peter-1.1.22" />
+        <verse sID="peter-1.1.23" osisID="peter-1.1.23" />quasi renati non ex semine corruptibili, sed incorruptibili per verbum Dei vivi, et permanentis in aeternum:<verse eID="peter-1.1.23" />
+        <verse sID="peter-1.1.24" osisID="peter-1.1.24" />.... omnis caro foenum: et gloria eius sicut flos foeni..<verse eID="peter-1.1.24" />
+      </p>
+      <chapter eID="peter-1.1" />
+      <chapter sID="peter-1.2" osisID="peter-1.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="peter-1.2.1" osisID="peter-1.2.1" />Deposita ergo omni malitia, et omni dolo, et adulatione, et invidia, et detractione,<verse eID="peter-1.2.1" />
+        <verse sID="peter-1.2.2" osisID="peter-1.2.2" />tanquam modo nati infantes, rationabile, et innocens lac concupiscite; ut in illo crescatis in salutem:<verse eID="peter-1.2.2" />
+        <verse sID="peter-1.2.3" osisID="peter-1.2.3" />si gustastis quoniam dulcis est Dominus.<verse eID="peter-1.2.3" />
+        <verse sID="peter-1.2.4" osisID="peter-1.2.4" />Ad quem accedentes lapidem vivum ab hominibus reprobatum, a Deo autem electum, et honorificatum:<verse eID="peter-1.2.4" />
+        <verse sID="peter-1.2.5" osisID="peter-1.2.5" />et vos ergo tanquam lapides vivi aedificamini in domum spiritalem, in sacerdotium sanctum, offerentes spiritales victimas, acceptas Deo per Iesum Christum.<verse eID="peter-1.2.5" />
+        <verse sID="peter-1.2.6" osisID="peter-1.2.6" />Quia continet Scriptura : Ecce pono in Sion lapidem angularem, electum, pretiosum: et qui crediderit in illum, non confundetur.<verse eID="peter-1.2.6" />
+        <verse sID="peter-1.2.7" osisID="peter-1.2.7" />Nobis ergo honor, qui credimus: incredulis autem, iste lapis, qui reprobatus est a vobis aedificantibus, hic factus est in caput anguli<verse eID="peter-1.2.7" />
+        <verse sID="peter-1.2.8" osisID="peter-1.2.8" />..... lapis offensionis, et petra scandali......<verse eID="peter-1.2.8" />
+        <verse sID="peter-1.2.9" osisID="peter-1.2.9" />Vos autem genus electum, regale sacerdotium, gens sancta, populus adquisitionis: quo virtutes eius annuntietis, qui de tenebris vos vocavit in illud admirabile lumen suum.<verse eID="peter-1.2.9" />
+        <verse sID="peter-1.2.10" osisID="peter-1.2.10" />Qui aliquando non populus, nunc autem populus Dei: quorum aliquando non misertus est, nunc autem miseretur.<verse eID="peter-1.2.10" />
+        <verse sID="peter-1.2.11" osisID="peter-1.2.11" />.....sicut hospites et peregrini abstinete vos a carnalibus desideriis, quae militant adversus animam<verse eID="peter-1.2.11" />
+        <verse sID="peter-1.2.12" osisID="peter-1.2.12" />conversationem habentes inter Gentiles bonam: ut dum detrectant de vobis quasi de malignis, bona opera vestra aspicientes, magnificent Dominum....<verse eID="peter-1.2.12" />
+        <verse sID="peter-1.2.13" osisID="peter-1.2.13" />Subiecti estote omni humanae ordinationi.......<verse eID="peter-1.2.13" />
+        <verse sID="peter-1.2.15" osisID="peter-1.2.15" />quoniam sic est voluntas Dei, ut bene facientes obmutescere faciatis stultorum hominum ignorantiam:<verse eID="peter-1.2.15" />
+        <verse sID="peter-1.2.16" osisID="peter-1.2.16" />..... liberi, non sicut velamentum malitiae habentes libertatem..... Sicut servi Dei,<verse eID="peter-1.2.16" />
+        <verse sID="peter-1.2.17" osisID="peter-1.2.17" />omnes honorate : fraternitatem diligite: Deum timete: Regem autem honorificate.<verse eID="peter-1.2.17" />
+        <verse sID="peter-1.2.20" osisID="peter-1.2.20" />Quae enim gloria est, si peccantes colaphizati suffertis? Sed si bene facientes patimini, et patienter sustinetis; haec est gratia apud Deum.<verse eID="peter-1.2.20" />
+        <verse sID="peter-1.2.21" osisID="peter-1.2.21" />In hoc et vocati estis: quoniam et Christus passus est pro nobis, reliquens vobis exemplum semetipsum, ut adsequamini vestigia eius.<verse eID="peter-1.2.21" />
+        <verse sID="peter-1.2.22" osisID="peter-1.2.22" />qui peccatum non fecit, nec dolus inventus est in ore eius:<verse eID="peter-1.2.22" />
+        <verse sID="peter-1.2.23" osisID="peter-1.2.23" />qui cum malediceretur, non remaledicebat: cum pateretur, non comminabatur: tradebat autem se iudicanti se iniuste:<verse eID="peter-1.2.23" />
+        <verse sID="peter-1.2.24" osisID="peter-1.2.24" />qui peccata nostra pertulit in corpore suo super lignum: ut a peccatis nostris separati, cum iustitia vivamus: cuius vulnere plagarum sanati sumus.<verse eID="peter-1.2.24" />
+        <verse sID="peter-1.2.25" osisID="peter-1.2.25" />Qui sicut oves errabatis, sed nunc convertimini ad pastorem, et visitatorem animarum vestrarum.<verse eID="peter-1.2.25" />
+      </p>
+      <chapter eID="peter-1.2" />
+      <chapter sID="peter-1.3" osisID="peter-1.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="peter-1.3.1" osisID="peter-1.3.1" />Similiter mulieres obaudientes maritis suis: ut et si qui non credunt verbo, per mulierum conversationem sine loquela lucrifieri possint,<verse eID="peter-1.3.1" />
+        <verse sID="peter-1.3.2" osisID="peter-1.3.2" />videntes timorem, et castam conversationem vestram.<verse eID="peter-1.3.2" />
+        <verse sID="peter-1.3.3" osisID="peter-1.3.3" />Ut sint non quae a foris ornantur capillorum incrispationibus, aut circumdatae auro, aut veste decora:<verse eID="peter-1.3.3" />
+        <verse sID="peter-1.3.4" osisID="peter-1.3.4" />sed ille absconditus cordis vestri homo, in illa perpetuitate quieti, et modesti spiritus, qui et apud Dominum locuples est.<verse eID="peter-1.3.4" />
+        <verse sID="peter-1.3.5" osisID="peter-1.3.5" />Nam sic quaedam sanctae mulieres, quae in Dominum sperabant, ornabant se, obsequentes viris suis.<verse eID="peter-1.3.5" />
+        <verse sID="peter-1.3.6" osisID="peter-1.3.6" />Quomodo Sara obaudiebat Abrahae, dominum illum vocans: cuius factae estis filiae benefacientes, et non timentes ullum vanum timorem.<verse eID="peter-1.3.6" />
+        <verse sID="peter-1.3.7" osisID="peter-1.3.7" />Viri simili ratione concordes, et caste viventes cum uxoribus vestris, et tanquam vasi infirmiori, et subiecto tribuite honorem, quasi cohaeredibus gratiae: et videte ne impediantur orationes vestrae.<verse eID="peter-1.3.7" />
+        <verse sID="peter-1.3.9" osisID="peter-1.3.9" />non reddentes malum pro malo vel maledictum pro maledicto, sed econtrario benedicentes: quia in hoc vocati estis, ut benedictionem haereditatis possideatis,<verse eID="peter-1.3.9" />
+        <verse sID="peter-1.3.13" osisID="peter-1.3.13" />Et quis vobis nocere potest, si boni aemulatores fueritis?<verse eID="peter-1.3.13" />
+        <verse sID="peter-1.3.14" osisID="peter-1.3.14" />....Timorem eorum ne timeatis....<verse eID="peter-1.3.14" />
+        <verse sID="peter-1.3.15" osisID="peter-1.3.15" />Sed Dominum Iesum Christum sanctificate in cordibus vestris, parati semper ad respondendum omni poscenti vos rationem de fide, et spe, quae in vobis est.<verse eID="peter-1.3.15" />
+        <verse sID="peter-1.3.18" osisID="peter-1.3.18" />quia Christus semel pro peccatis nostris mortuus est, iustus pro iniustis, ut nos adducat Deo, mortificatus quidem carne, vivificatus autem spiritu.<verse eID="peter-1.3.18" />
+        <verse sID="peter-1.3.19" osisID="peter-1.3.19" />In quo et iis, qui in carcere conclusi erant, spiritibus adveniens praedicavit:<verse eID="peter-1.3.19" />
+        <verse sID="peter-1.3.20" osisID="peter-1.3.20" />qui increduli fuerant aliquando, quando exspectabat Dei patientia in diebus Noe, cum fabricaretur arca: in qua pauci, id est octo animae salvae factae sunt per aquam.<verse eID="peter-1.3.20" />
+        <verse sID="peter-1.3.21" osisID="peter-1.3.21" />Quod et vos nunc simili forma baptisma salvos facit: non carnis depositio sordium, sed conscientiae bonae interrogatio in Deum per resurrectionem Iesu Christi<verse eID="peter-1.3.21" />
+        <verse sID="peter-1.3.22" osisID="peter-1.3.22" />qui est in dextera Dei, deglutiens mortem, ut vitae aeternae haeredes efficeremur: profectus in coelos, subiectis sibi angelis, et potestatibus, et virtutibus.<verse eID="peter-1.3.22" />
+      </p>
+      <chapter eID="peter-1.3" />
+      <chapter sID="peter-1.4" osisID="peter-1.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="peter-1.4.1" osisID="peter-1.4.1" />Christo igitur in carne passo et vos eadem scientia armamini, quia qui passus est in carne, desiit a peccatis:<verse eID="peter-1.4.1" />
+        <verse sID="peter-1.4.2" osisID="peter-1.4.2" />In hoc ut iam non hominum desideriis, sed voluntate Dei, quod reliquum est in carne vivat tempus.<verse eID="peter-1.4.2" />
+        <verse sID="peter-1.4.3" osisID="peter-1.4.3" />Sufficit enim praeteritum tempus ad voluntatem hominum consummatum, ambulantibus in libidinibus, et concupiscentiis, et ebrietate, comessationibus, potationibus, et illicitis idolorum servitutibus.<verse eID="peter-1.4.3" />
+        <verse sID="peter-1.4.4" osisID="peter-1.4.4" />In quo stupescunt non concurrere vos in eandem luxuriae confusionem, blasphemantes.<verse eID="peter-1.4.4" />
+        <verse sID="peter-1.4.5" osisID="peter-1.4.5" />Qui reddent rationem ei, qui paratus est iudicare vivos et mortuos.<verse eID="peter-1.4.5" />
+        <verse sID="peter-1.4.6" osisID="peter-1.4.6" />Propter hoc enim et mortuis evangelizatum est: ut iudicentur quidem secundum homines in carne, vivant autem secundum Deum Spiritu.<verse eID="peter-1.4.6" />
+        <verse sID="peter-1.4.8" osisID="peter-1.4.8" />Ante omnia, mutuam inter vos charitatem perpetuam habentes: quia charitas cooperit multitudinem peccatorum.<verse eID="peter-1.4.8" />
+        <verse sID="peter-1.4.9" osisID="peter-1.4.9" />Hospitales estote inter vos sine murmuratione.<verse eID="peter-1.4.9" />
+        <verse sID="peter-1.4.10" osisID="peter-1.4.10" />Unusquisque, qualem accepit gratiam, in ter vos eam administrantes, ut boni dispensatores multiformis gratiae Dei.<verse eID="peter-1.4.10" />
+        <verse sID="peter-1.4.11" osisID="peter-1.4.11" />Si quis loquitur, tanquam sermones Dei: si quis ministrat, tanquam ex virtute, quam administrat Deus: ut in omnibus honorificetur Deus per Iesum Christum: cui est gloria, et imperium in saecula.....<verse eID="peter-1.4.11" />
+        <verse sID="peter-1.4.12" osisID="peter-1.4.12" />Charissimi, nolite mirari ardorem accidentem vobis, qui ad tentationem vestram fit: nec excidatis, tanquam novum aliquid vobis contingat:<verse eID="peter-1.4.12" />
+        <verse sID="peter-1.4.13" osisID="peter-1.4.13" />sed quotiescunque communicatis Christi passionibus, per omnia gaudete, ut et in revelatione facta claritatis eius gaudentes exsultetis.<verse eID="peter-1.4.13" />
+        <verse sID="peter-1.4.14" osisID="peter-1.4.14" />Si improperatur vobis in nomine Christi beati estis: quia maiestatis, et virtutis Domini nomen in vobis requiescit: quod quidem secundum illos blasphematur, secundum nos autem honoratur.<verse eID="peter-1.4.14" />
+        <verse sID="peter-1.4.15" osisID="peter-1.4.15" />Nemo autem vestrum patiatur quasi homicida, aut fur, aut maledicus, aut curas alienas agens.<verse eID="peter-1.4.15" />
+        <verse sID="peter-1.4.16" osisID="peter-1.4.16" />Si vero quasi Christianus, non erubescat: glorificet autem Deum in isto nomine:<verse eID="peter-1.4.16" />
+        <verse sID="peter-1.4.17" osisID="peter-1.4.17" />quia tempus inchoationis iudicii a domo Dei. Si autem initium a nobis: quis finis eorum, qui non credunt Evangelio Dei?<verse eID="peter-1.4.17" />
+        <verse sID="peter-1.4.18" osisID="peter-1.4.18" />Et si iustus quidem vix salvus fit, peccator et impius ubi parebunt?<verse eID="peter-1.4.18" />
+        <verse sID="peter-1.4.19" osisID="peter-1.4.19" />..... quasi fideli Creatori commendantes animas vestras....<verse eID="peter-1.4.19" />
+      </p>
+      <chapter eID="peter-1.4" />
+      <chapter sID="peter-1.5" osisID="peter-1.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="peter-1.5.1" osisID="peter-1.5.1" />Presbyteros ergo in vobis obsecro, compresbyter et testis Christi passionum: qui et eius gloriae, quae in futuro revelanda est, socius sum:<verse eID="peter-1.5.1" />
+        <verse sID="peter-1.5.2" osisID="peter-1.5.2" />pascite eum, qui in vobis est, gregem Domini, non quasi cum necessitate, sed voluntarie.......<verse eID="peter-1.5.2" />
+        <verse sID="peter-1.5.4" osisID="peter-1.5.4" />ut cum apparuerit princeps pastorum, accipiatis immarcessibilem coronam.<verse eID="peter-1.5.4" />
+        <verse sID="peter-1.5.5" osisID="peter-1.5.5" />..... Dominus superbis resistit, humilibus autem dat gratiam.<verse eID="peter-1.5.5" />
+        <verse sID="peter-1.5.8" osisID="peter-1.5.8" />Sobrii estote, vigilate: quia adversarius vester diabolus tanquam leo rugiens circuit, quaerens quem devoret:<verse eID="peter-1.5.8" />
+        <verse sID="peter-1.5.9" osisID="peter-1.5.9" />cui resistite firmi in fide: scientes has easdem passiones in omni hoc saeculo fraternitatem vestram perpeti.<verse eID="peter-1.5.9" />
+        <verse sID="peter-1.5.10" osisID="peter-1.5.10" />Deus autem omnis gratiae, qui vocavit nos in aeternam suam gloriam in Christo Iesu, modicum passos ipse perficiet, confirmabit, solidabitque.<verse eID="peter-1.5.10" />
+        <verse sID="peter-1.5.11" osisID="peter-1.5.11" />Cui est virtus, et potestas in saecula saeculorum. Amen.<verse eID="peter-1.5.11" />
+        <verse sID="peter-1.5.14" osisID="peter-1.5.14" />.... Gratia cum omnibus, qui invocant Iesum Christum in perpetuitate: pax vobis omnibus, qui estis in Christo.<verse eID="peter-1.5.14" />
+      </p>
+    </div>
+  </osisText>
+</osis>

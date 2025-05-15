@@ -1,0 +1,1094 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="proverbs" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="proverbs">
+        <title>proverbs</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">proverbs</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>proverbs</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="proverbs">
+      <title>proverbs</title>
+      <chapter sID="proverbs.1" osisID="proverbs.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="proverbs.1.1" osisID="proverbs.1.1" />Parabolae Salomonis filii David regis Israhel<verse eID="proverbs.1.1" />
+        <verse sID="proverbs.1.2" osisID="proverbs.1.2" />ad sciendam sapientiam et disciplinam<verse eID="proverbs.1.2" />
+        <verse sID="proverbs.1.3" osisID="proverbs.1.3" />ad intellegenda verba prudentiae et suscipiendam eruditionem doctrinae iustitiam et iudicium et aequitatem<verse eID="proverbs.1.3" />
+        <verse sID="proverbs.1.4" osisID="proverbs.1.4" />ut detur parvulis astutia adulescenti scientia et intellectus<verse eID="proverbs.1.4" />
+        <verse sID="proverbs.1.5" osisID="proverbs.1.5" />audiens sapiens sapientior erit et intellegens gubernacula possidebit<verse eID="proverbs.1.5" />
+        <verse sID="proverbs.1.6" osisID="proverbs.1.6" />animadvertet parabolam et interpretationem verba sapientium et enigmata eorum<verse eID="proverbs.1.6" />
+        <verse sID="proverbs.1.7" osisID="proverbs.1.7" />timor Domini principium scientiae sapientiam atque doctrinam stulti despiciunt<verse eID="proverbs.1.7" />
+        <verse sID="proverbs.1.8" osisID="proverbs.1.8" />audi fili mi disciplinam patris tui et ne dimittas legem matris tuae<verse eID="proverbs.1.8" />
+        <verse sID="proverbs.1.9" osisID="proverbs.1.9" />ut addatur gratia capiti tuo et torques collo tuo<verse eID="proverbs.1.9" />
+        <verse sID="proverbs.1.10" osisID="proverbs.1.10" />fili mi si te lactaverint peccatores ne adquiescas<verse eID="proverbs.1.10" />
+        <verse sID="proverbs.1.11" osisID="proverbs.1.11" />si dixerint veni nobiscum insidiemur sanguini abscondamus tendiculas contra insontem frustra<verse eID="proverbs.1.11" />
+        <verse sID="proverbs.1.12" osisID="proverbs.1.12" />degluttiamus eum sicut infernus viventem et integrum quasi descendentem in lacum<verse eID="proverbs.1.12" />
+        <verse sID="proverbs.1.13" osisID="proverbs.1.13" />omnem pretiosam substantiam repperiemus implebimus domos nostras spoliis<verse eID="proverbs.1.13" />
+        <verse sID="proverbs.1.14" osisID="proverbs.1.14" />sortem mitte nobiscum marsuppium unum sit omnium nostrum<verse eID="proverbs.1.14" />
+        <verse sID="proverbs.1.15" osisID="proverbs.1.15" />fili mi ne ambules cum eis prohibe pedem tuum a semitis eorum<verse eID="proverbs.1.15" />
+        <verse sID="proverbs.1.16" osisID="proverbs.1.16" />pedes enim illorum ad malum currunt et festinant ut effundant sanguinem<verse eID="proverbs.1.16" />
+        <verse sID="proverbs.1.17" osisID="proverbs.1.17" />frustra autem iacitur rete ante oculos pinnatorum<verse eID="proverbs.1.17" />
+        <verse sID="proverbs.1.18" osisID="proverbs.1.18" />ipsique contra sanguinem suum insidiantur et moliuntur fraudes contra animas suas<verse eID="proverbs.1.18" />
+        <verse sID="proverbs.1.19" osisID="proverbs.1.19" />sic semitae omnis avari animas possidentium rapiunt<verse eID="proverbs.1.19" />
+        <verse sID="proverbs.1.20" osisID="proverbs.1.20" />sapientia foris praedicat in plateis dat vocem suam<verse eID="proverbs.1.20" />
+        <verse sID="proverbs.1.21" osisID="proverbs.1.21" />in capite turbarum clamitat in foribus portarum urbis profert verba sua dicens<verse eID="proverbs.1.21" />
+        <verse sID="proverbs.1.22" osisID="proverbs.1.22" />usquequo parvuli diligitis infantiam et stulti ea quae sibi sunt noxia cupiunt et inprudentes odibunt scientiam<verse eID="proverbs.1.22" />
+        <verse sID="proverbs.1.23" osisID="proverbs.1.23" />convertimini ad correptionem meam en proferam vobis spiritum meum et ostendam verba mea<verse eID="proverbs.1.23" />
+        <verse sID="proverbs.1.24" osisID="proverbs.1.24" />quia vocavi et rennuistis extendi manum meam et non fuit qui aspiceret<verse eID="proverbs.1.24" />
+        <verse sID="proverbs.1.25" osisID="proverbs.1.25" />despexistis omne consilium meum et increpationes meas neglexistis<verse eID="proverbs.1.25" />
+        <verse sID="proverbs.1.26" osisID="proverbs.1.26" />ego quoque in interitu vestro ridebo et subsannabo cum vobis quod timebatis advenerit<verse eID="proverbs.1.26" />
+        <verse sID="proverbs.1.27" osisID="proverbs.1.27" />cum inruerit repentina calamitas et interitus quasi tempestas ingruerit quando venerit super vos tribulatio et angustia<verse eID="proverbs.1.27" />
+        <verse sID="proverbs.1.28" osisID="proverbs.1.28" />tunc invocabunt me et non exaudiam mane consurgent et non invenient me<verse eID="proverbs.1.28" />
+        <verse sID="proverbs.1.29" osisID="proverbs.1.29" />eo quod exosam habuerint disciplinam et timorem Domini non susceperint<verse eID="proverbs.1.29" />
+        <verse sID="proverbs.1.30" osisID="proverbs.1.30" />nec adquieverint consilio meo et detraxerint universae correptioni meae<verse eID="proverbs.1.30" />
+        <verse sID="proverbs.1.31" osisID="proverbs.1.31" />comedent igitur fructus viae suae suisque consiliis saturabuntur<verse eID="proverbs.1.31" />
+        <verse sID="proverbs.1.32" osisID="proverbs.1.32" />aversio parvulorum interficiet eos et prosperitas stultorum perdet illos<verse eID="proverbs.1.32" />
+        <verse sID="proverbs.1.33" osisID="proverbs.1.33" />qui autem me audierit absque terrore requiescet et abundantia perfruetur malorum timore sublato<verse eID="proverbs.1.33" />
+      </p>
+      <chapter eID="proverbs.1" />
+      <chapter sID="proverbs.2" osisID="proverbs.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="proverbs.2.1" osisID="proverbs.2.1" />fili mi si susceperis sermones meos et mandata mea absconderis penes te<verse eID="proverbs.2.1" />
+        <verse sID="proverbs.2.2" osisID="proverbs.2.2" />ut audiat sapientiam auris tua inclina cor tuum ad noscendam prudentiam<verse eID="proverbs.2.2" />
+        <verse sID="proverbs.2.3" osisID="proverbs.2.3" />si enim sapientiam invocaveris et inclinaveris cor tuum prudentiae<verse eID="proverbs.2.3" />
+        <verse sID="proverbs.2.4" osisID="proverbs.2.4" />si quaesieris eam quasi pecuniam et sicut thesauros effoderis illam<verse eID="proverbs.2.4" />
+        <verse sID="proverbs.2.5" osisID="proverbs.2.5" />tunc intelleges timorem Domini et scientiam Dei invenies<verse eID="proverbs.2.5" />
+        <verse sID="proverbs.2.6" osisID="proverbs.2.6" />quia Dominus dat sapientiam et ex ore eius scientia et prudentia<verse eID="proverbs.2.6" />
+        <verse sID="proverbs.2.7" osisID="proverbs.2.7" />custodiet rectorum salutem et proteget gradientes simpliciter<verse eID="proverbs.2.7" />
+        <verse sID="proverbs.2.8" osisID="proverbs.2.8" />servans semitas iustitiae et vias sanctorum custodiens<verse eID="proverbs.2.8" />
+        <verse sID="proverbs.2.9" osisID="proverbs.2.9" />tunc intelleges iustitiam et iudicium et aequitatem et omnem semitam bonam<verse eID="proverbs.2.9" />
+        <verse sID="proverbs.2.10" osisID="proverbs.2.10" />si intraverit sapientia cor tuum et scientia animae tuae placuerit<verse eID="proverbs.2.10" />
+        <verse sID="proverbs.2.11" osisID="proverbs.2.11" />consilium custodiet te prudentia servabit te<verse eID="proverbs.2.11" />
+        <verse sID="proverbs.2.12" osisID="proverbs.2.12" />ut eruaris de via mala ab homine qui perversa loquitur<verse eID="proverbs.2.12" />
+        <verse sID="proverbs.2.13" osisID="proverbs.2.13" />qui relinquunt iter rectum et ambulant per vias tenebrosas<verse eID="proverbs.2.13" />
+        <verse sID="proverbs.2.14" osisID="proverbs.2.14" />qui laetantur cum malefecerint et exultant in rebus pessimis<verse eID="proverbs.2.14" />
+        <verse sID="proverbs.2.15" osisID="proverbs.2.15" />quorum viae perversae et infames gressus eorum<verse eID="proverbs.2.15" />
+        <verse sID="proverbs.2.16" osisID="proverbs.2.16" />ut eruaris a muliere aliena et ab extranea quae mollit sermones suos<verse eID="proverbs.2.16" />
+        <verse sID="proverbs.2.17" osisID="proverbs.2.17" />et relinquit ducem pubertatis suae<verse eID="proverbs.2.17" />
+        <verse sID="proverbs.2.18" osisID="proverbs.2.18" />et pacti Dei sui oblita est inclinata est enim ad mortem domus eius et ad impios semitae ipsius<verse eID="proverbs.2.18" />
+        <verse sID="proverbs.2.19" osisID="proverbs.2.19" />omnes qui ingrediuntur ad eam non revertentur nec adprehendent semitas vitae<verse eID="proverbs.2.19" />
+        <verse sID="proverbs.2.20" osisID="proverbs.2.20" />ut ambules in via bona et calles iustorum custodias<verse eID="proverbs.2.20" />
+        <verse sID="proverbs.2.21" osisID="proverbs.2.21" />qui enim recti sunt habitabunt in terra et simplices permanebunt in ea<verse eID="proverbs.2.21" />
+        <verse sID="proverbs.2.22" osisID="proverbs.2.22" />impii vero de terra perdentur et qui inique agunt auferentur ex ea<verse eID="proverbs.2.22" />
+      </p>
+      <chapter eID="proverbs.2" />
+      <chapter sID="proverbs.3" osisID="proverbs.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="proverbs.3.1" osisID="proverbs.3.1" />fili mi ne obliviscaris legis meae et praecepta mea custodiat cor tuum<verse eID="proverbs.3.1" />
+        <verse sID="proverbs.3.2" osisID="proverbs.3.2" />longitudinem enim dierum et annos vitae et pacem adponent tibi<verse eID="proverbs.3.2" />
+        <verse sID="proverbs.3.3" osisID="proverbs.3.3" />misericordia et veritas non te deserant circumda eas gutturi tuo et describe in tabulis cordis tui<verse eID="proverbs.3.3" />
+        <verse sID="proverbs.3.4" osisID="proverbs.3.4" />et invenies gratiam et disciplinam bonam coram Deo et hominibus<verse eID="proverbs.3.4" />
+        <verse sID="proverbs.3.5" osisID="proverbs.3.5" />habe fiduciam in Domino ex toto corde tuo et ne innitaris prudentiae tuae<verse eID="proverbs.3.5" />
+        <verse sID="proverbs.3.6" osisID="proverbs.3.6" />in omnibus viis tuis cogita illum et ipse diriget gressus tuos<verse eID="proverbs.3.6" />
+        <verse sID="proverbs.3.7" osisID="proverbs.3.7" />ne sis sapiens apud temet ipsum time Dominum et recede a malo<verse eID="proverbs.3.7" />
+        <verse sID="proverbs.3.8" osisID="proverbs.3.8" />sanitas quippe erit umbilico tuo et inrigatio ossuum tuorum<verse eID="proverbs.3.8" />
+        <verse sID="proverbs.3.9" osisID="proverbs.3.9" />honora Dominum de tua substantia et de primitiis omnium frugum tuarum<verse eID="proverbs.3.9" />
+        <verse sID="proverbs.3.10" osisID="proverbs.3.10" />et implebuntur horrea tua saturitate et vino torcularia redundabunt<verse eID="proverbs.3.10" />
+        <verse sID="proverbs.3.11" osisID="proverbs.3.11" />disciplinam Domini fili mi ne abicias nec deficias cum ab eo corriperis<verse eID="proverbs.3.11" />
+        <verse sID="proverbs.3.12" osisID="proverbs.3.12" />quem enim diligit Dominus corripit et quasi pater in filio conplacet sibi<verse eID="proverbs.3.12" />
+        <verse sID="proverbs.3.13" osisID="proverbs.3.13" />beatus homo qui invenit sapientiam et qui affluit prudentia<verse eID="proverbs.3.13" />
+        <verse sID="proverbs.3.14" osisID="proverbs.3.14" />melior est adquisitio eius negotiatione argenti et auro primo fructus eius<verse eID="proverbs.3.14" />
+        <verse sID="proverbs.3.15" osisID="proverbs.3.15" />pretiosior est cunctis opibus et omnia quae desiderantur huic non valent conparari<verse eID="proverbs.3.15" />
+        <verse sID="proverbs.3.16" osisID="proverbs.3.16" />longitudo dierum in dextera eius in sinistra illius divitiae et gloria<verse eID="proverbs.3.16" />
+        <verse sID="proverbs.3.17" osisID="proverbs.3.17" />viae eius viae pulchrae et omnes semitae illius pacificae<verse eID="proverbs.3.17" />
+        <verse sID="proverbs.3.18" osisID="proverbs.3.18" />lignum vitae est his qui adprehenderint eam et qui tenuerit eam beatus<verse eID="proverbs.3.18" />
+        <verse sID="proverbs.3.19" osisID="proverbs.3.19" />Dominus sapientia fundavit terram stabilivit caelos prudentia<verse eID="proverbs.3.19" />
+        <verse sID="proverbs.3.20" osisID="proverbs.3.20" />sapientia illius eruperunt abyssi et nubes rore concrescunt<verse eID="proverbs.3.20" />
+        <verse sID="proverbs.3.21" osisID="proverbs.3.21" />fili mi ne effluant haec ab oculis tuis custodi legem atque consilium<verse eID="proverbs.3.21" />
+        <verse sID="proverbs.3.22" osisID="proverbs.3.22" />et erit vita animae tuae et gratia faucibus tuis<verse eID="proverbs.3.22" />
+        <verse sID="proverbs.3.23" osisID="proverbs.3.23" />tunc ambulabis fiducialiter in via tua et pes tuus non inpinget<verse eID="proverbs.3.23" />
+        <verse sID="proverbs.3.24" osisID="proverbs.3.24" />si dormieris non timebis quiesces et suavis erit somnus tuus<verse eID="proverbs.3.24" />
+        <verse sID="proverbs.3.25" osisID="proverbs.3.25" />ne paveas repentino terrore et inruentes tibi potentias impiorum<verse eID="proverbs.3.25" />
+        <verse sID="proverbs.3.26" osisID="proverbs.3.26" />Dominus enim erit in latere tuo et custodiet pedem tuum ne capiaris<verse eID="proverbs.3.26" />
+        <verse sID="proverbs.3.27" osisID="proverbs.3.27" />noli prohibere benefacere eum qui potest si vales et ipse benefac<verse eID="proverbs.3.27" />
+        <verse sID="proverbs.3.28" osisID="proverbs.3.28" />ne dicas amico tuo vade et revertere et cras dabo tibi cum statim possis dare<verse eID="proverbs.3.28" />
+        <verse sID="proverbs.3.29" osisID="proverbs.3.29" />ne moliaris amico tuo malum cum ille in te habeat fiduciam<verse eID="proverbs.3.29" />
+        <verse sID="proverbs.3.30" osisID="proverbs.3.30" />ne contendas adversus hominem frustra cum ipse tibi nihil mali fecerit<verse eID="proverbs.3.30" />
+        <verse sID="proverbs.3.31" osisID="proverbs.3.31" />ne aemuleris hominem iniustum nec imiteris vias eius<verse eID="proverbs.3.31" />
+        <verse sID="proverbs.3.32" osisID="proverbs.3.32" />quia abominatio Domini est omnis inlusor et cum simplicibus sermocinatio eius<verse eID="proverbs.3.32" />
+        <verse sID="proverbs.3.33" osisID="proverbs.3.33" />egestas a Domino in domo impii habitacula autem iustorum benedicentur<verse eID="proverbs.3.33" />
+        <verse sID="proverbs.3.34" osisID="proverbs.3.34" />inlusores ipse deludet et mansuetis dabit gratiam<verse eID="proverbs.3.34" />
+        <verse sID="proverbs.3.35" osisID="proverbs.3.35" />gloriam sapientes possidebunt stultorum exaltatio ignominia<verse eID="proverbs.3.35" />
+      </p>
+      <chapter eID="proverbs.3" />
+      <chapter sID="proverbs.4" osisID="proverbs.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="proverbs.4.1" osisID="proverbs.4.1" />audite filii disciplinam patris et adtendite ut sciatis prudentiam<verse eID="proverbs.4.1" />
+        <verse sID="proverbs.4.2" osisID="proverbs.4.2" />donum bonum tribuam vobis legem meam ne derelinquatis<verse eID="proverbs.4.2" />
+        <verse sID="proverbs.4.3" osisID="proverbs.4.3" />nam et ego filius fui patris mei tenellus et unigenitus coram matre mea<verse eID="proverbs.4.3" />
+        <verse sID="proverbs.4.4" osisID="proverbs.4.4" />et docebat me atque dicebat suscipiat verba mea cor tuum custodi praecepta mea et vives<verse eID="proverbs.4.4" />
+        <verse sID="proverbs.4.5" osisID="proverbs.4.5" />posside sapientiam posside prudentiam ne obliviscaris neque declines a verbis oris mei<verse eID="proverbs.4.5" />
+        <verse sID="proverbs.4.6" osisID="proverbs.4.6" />ne dimittas eam et custodiet te dilige eam et servabit te<verse eID="proverbs.4.6" />
+        <verse sID="proverbs.4.7" osisID="proverbs.4.7" />principium sapientiae posside sapientiam et in omni possessione tua adquire prudentiam<verse eID="proverbs.4.7" />
+        <verse sID="proverbs.4.8" osisID="proverbs.4.8" />arripe illam et exaltabit te glorificaberis ab ea cum eam fueris amplexatus<verse eID="proverbs.4.8" />
+        <verse sID="proverbs.4.9" osisID="proverbs.4.9" />dabit capiti tuo augmenta gratiarum et corona inclita proteget te<verse eID="proverbs.4.9" />
+        <verse sID="proverbs.4.10" osisID="proverbs.4.10" />audi fili mi et suscipe verba mea ut multiplicentur tibi anni vitae<verse eID="proverbs.4.10" />
+        <verse sID="proverbs.4.11" osisID="proverbs.4.11" />viam sapientiae monstravi tibi duxi te per semitas aequitatis<verse eID="proverbs.4.11" />
+        <verse sID="proverbs.4.12" osisID="proverbs.4.12" />quas cum ingressus fueris non artabuntur gressus tui et currens non habebis offendiculum<verse eID="proverbs.4.12" />
+        <verse sID="proverbs.4.13" osisID="proverbs.4.13" />tene disciplinam ne dimittas eam custodi illam quia ipsa est vita tua<verse eID="proverbs.4.13" />
+        <verse sID="proverbs.4.14" osisID="proverbs.4.14" />ne delecteris semitis impiorum nec tibi placeat malorum via<verse eID="proverbs.4.14" />
+        <verse sID="proverbs.4.15" osisID="proverbs.4.15" />fuge ab ea ne transeas per illam declina et desere eam<verse eID="proverbs.4.15" />
+        <verse sID="proverbs.4.16" osisID="proverbs.4.16" />non enim dormiunt nisi malefecerint et rapitur somnus ab eis nisi subplantaverint<verse eID="proverbs.4.16" />
+        <verse sID="proverbs.4.17" osisID="proverbs.4.17" />comedunt panem impietatis et vinum iniquitatis bibunt<verse eID="proverbs.4.17" />
+        <verse sID="proverbs.4.18" osisID="proverbs.4.18" />iustorum autem semita quasi lux splendens procedit et crescit usque ad perfectam diem<verse eID="proverbs.4.18" />
+        <verse sID="proverbs.4.19" osisID="proverbs.4.19" />via impiorum tenebrosa nesciunt ubi corruant<verse eID="proverbs.4.19" />
+        <verse sID="proverbs.4.20" osisID="proverbs.4.20" />fili mi ausculta sermones meos et ad eloquia mea inclina aurem tuam<verse eID="proverbs.4.20" />
+        <verse sID="proverbs.4.21" osisID="proverbs.4.21" />ne recedant ab oculis tuis custodi ea in medio cordis tui<verse eID="proverbs.4.21" />
+        <verse sID="proverbs.4.22" osisID="proverbs.4.22" />vita enim sunt invenientibus ea et universae carni sanitas<verse eID="proverbs.4.22" />
+        <verse sID="proverbs.4.23" osisID="proverbs.4.23" />omni custodia serva cor tuum quia ex ipso vita procedit<verse eID="proverbs.4.23" />
+        <verse sID="proverbs.4.24" osisID="proverbs.4.24" />remove a te os pravum et detrahentia labia sint procul a te<verse eID="proverbs.4.24" />
+        <verse sID="proverbs.4.25" osisID="proverbs.4.25" />oculi tui recta videant et palpebrae tuae praecedant gressus tuos<verse eID="proverbs.4.25" />
+        <verse sID="proverbs.4.26" osisID="proverbs.4.26" />dirige semitam pedibus tuis et omnes viae tuae stabilientur<verse eID="proverbs.4.26" />
+        <verse sID="proverbs.4.27" osisID="proverbs.4.27" />ne declines ad dexteram et ad sinistram averte pedem tuum a malo<verse eID="proverbs.4.27" />
+      </p>
+      <chapter eID="proverbs.4" />
+      <chapter sID="proverbs.5" osisID="proverbs.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="proverbs.5.1" osisID="proverbs.5.1" />fili mi adtende sapientiam meam et prudentiae meae inclina aurem tuam<verse eID="proverbs.5.1" />
+        <verse sID="proverbs.5.2" osisID="proverbs.5.2" />ut custodias cogitationes et disciplinam labia tua conservent<verse eID="proverbs.5.2" />
+        <verse sID="proverbs.5.3" osisID="proverbs.5.3" />favus enim stillans labia meretricis et nitidius oleo guttur eius<verse eID="proverbs.5.3" />
+        <verse sID="proverbs.5.4" osisID="proverbs.5.4" />novissima autem illius amara quasi absinthium et acuta quasi gladius biceps<verse eID="proverbs.5.4" />
+        <verse sID="proverbs.5.5" osisID="proverbs.5.5" />pedes eius descendunt in mortem et ad inferos gressus illius penetrant<verse eID="proverbs.5.5" />
+        <verse sID="proverbs.5.6" osisID="proverbs.5.6" />per semitam vitae non ambulat vagi sunt gressus eius et investigabiles<verse eID="proverbs.5.6" />
+        <verse sID="proverbs.5.7" osisID="proverbs.5.7" />nunc ergo fili audi me et ne recedas a verbis oris mei<verse eID="proverbs.5.7" />
+        <verse sID="proverbs.5.8" osisID="proverbs.5.8" />longe fac ab ea viam tuam et ne adpropinques foribus domus eius<verse eID="proverbs.5.8" />
+        <verse sID="proverbs.5.9" osisID="proverbs.5.9" />ne des alienis honorem tuum et annos tuos crudeli<verse eID="proverbs.5.9" />
+        <verse sID="proverbs.5.10" osisID="proverbs.5.10" />ne forte impleantur extranei viribus tuis et labores tui sint in domo aliena<verse eID="proverbs.5.10" />
+        <verse sID="proverbs.5.11" osisID="proverbs.5.11" />et gemas in novissimis quando consumpseris carnes et corpus tuum et dicas<verse eID="proverbs.5.11" />
+        <verse sID="proverbs.5.12" osisID="proverbs.5.12" />cur detestatus sum disciplinam et increpationibus non adquievit cor meum<verse eID="proverbs.5.12" />
+        <verse sID="proverbs.5.13" osisID="proverbs.5.13" />nec audivi vocem docentium me et magistris non inclinavi aurem meam<verse eID="proverbs.5.13" />
+        <verse sID="proverbs.5.14" osisID="proverbs.5.14" />paene fui in omni malo in medio ecclesiae et synagogae<verse eID="proverbs.5.14" />
+        <verse sID="proverbs.5.15" osisID="proverbs.5.15" />bibe aquam de cisterna tua et fluenta putei tui<verse eID="proverbs.5.15" />
+        <verse sID="proverbs.5.16" osisID="proverbs.5.16" />deriventur fontes tui foras et in plateis aquas tuas divide<verse eID="proverbs.5.16" />
+        <verse sID="proverbs.5.17" osisID="proverbs.5.17" />habeto eas solus nec sint alieni participes tui<verse eID="proverbs.5.17" />
+        <verse sID="proverbs.5.18" osisID="proverbs.5.18" />sit vena tua benedicta et laetare cum muliere adulescentiae tuae<verse eID="proverbs.5.18" />
+        <verse sID="proverbs.5.19" osisID="proverbs.5.19" />cerva carissima et gratissimus hinulus ubera eius inebrient te omni tempore in amore illius delectare iugiter<verse eID="proverbs.5.19" />
+        <verse sID="proverbs.5.20" osisID="proverbs.5.20" />quare seduceris fili mi ab aliena et foveris sinu alterius<verse eID="proverbs.5.20" />
+        <verse sID="proverbs.5.21" osisID="proverbs.5.21" />respicit Dominus vias hominis et omnes gressus illius considerat<verse eID="proverbs.5.21" />
+        <verse sID="proverbs.5.22" osisID="proverbs.5.22" />iniquitates suae capiunt impium et funibus peccatorum suorum constringitur<verse eID="proverbs.5.22" />
+        <verse sID="proverbs.5.23" osisID="proverbs.5.23" />ipse morietur quia non habuit disciplinam et multitudine stultitiae suae decipietur<verse eID="proverbs.5.23" />
+      </p>
+      <chapter eID="proverbs.5" />
+      <chapter sID="proverbs.6" osisID="proverbs.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="proverbs.6.1" osisID="proverbs.6.1" />fili mi si spoponderis pro amico tuo defixisti apud extraneum manum tuam<verse eID="proverbs.6.1" />
+        <verse sID="proverbs.6.2" osisID="proverbs.6.2" />inlaqueatus es verbis oris tui et captus propriis sermonibus<verse eID="proverbs.6.2" />
+        <verse sID="proverbs.6.3" osisID="proverbs.6.3" />fac ergo quod dico fili mi et temet ipsum libera quia incidisti in manu proximi tui discurre festina suscita amicum tuum<verse eID="proverbs.6.3" />
+        <verse sID="proverbs.6.4" osisID="proverbs.6.4" />ne dederis somnum oculis tuis nec dormitent palpebrae tuae<verse eID="proverbs.6.4" />
+        <verse sID="proverbs.6.5" osisID="proverbs.6.5" />eruere quasi dammula de manu et quasi avis de insidiis aucupis<verse eID="proverbs.6.5" />
+        <verse sID="proverbs.6.6" osisID="proverbs.6.6" />vade ad formicam o piger et considera vias eius et disce sapientiam<verse eID="proverbs.6.6" />
+        <verse sID="proverbs.6.7" osisID="proverbs.6.7" />quae cum non habeat ducem nec praeceptorem nec principem<verse eID="proverbs.6.7" />
+        <verse sID="proverbs.6.8" osisID="proverbs.6.8" />parat aestate cibum sibi et congregat in messe quod comedat<verse eID="proverbs.6.8" />
+        <verse sID="proverbs.6.9" osisID="proverbs.6.9" />usquequo piger dormis quando consurges ex somno tuo<verse eID="proverbs.6.9" />
+        <verse sID="proverbs.6.10" osisID="proverbs.6.10" />paululum dormies paululum dormitabis paululum conseres manus ut dormias<verse eID="proverbs.6.10" />
+        <verse sID="proverbs.6.11" osisID="proverbs.6.11" />et veniet tibi quasi viator egestas et pauperies quasi vir armatus<verse eID="proverbs.6.11" />
+        <verse sID="proverbs.6.12" osisID="proverbs.6.12" />homo apostata vir inutilis graditur ore perverso<verse eID="proverbs.6.12" />
+        <verse sID="proverbs.6.13" osisID="proverbs.6.13" />annuit oculis terit pede digito loquitur<verse eID="proverbs.6.13" />
+        <verse sID="proverbs.6.14" osisID="proverbs.6.14" />pravo corde machinatur malum et in omni tempore iurgia seminat<verse eID="proverbs.6.14" />
+        <verse sID="proverbs.6.15" osisID="proverbs.6.15" />huic extemplo veniet perditio sua et subito conteretur nec habebit ultra medicinam<verse eID="proverbs.6.15" />
+        <verse sID="proverbs.6.16" osisID="proverbs.6.16" />sex sunt quae odit Dominus et septimum detestatur anima eius<verse eID="proverbs.6.16" />
+        <verse sID="proverbs.6.17" osisID="proverbs.6.17" />oculos sublimes linguam mendacem manus effundentes innoxium sanguinem<verse eID="proverbs.6.17" />
+        <verse sID="proverbs.6.18" osisID="proverbs.6.18" />cor machinans cogitationes pessimas pedes veloces ad currendum in malum<verse eID="proverbs.6.18" />
+        <verse sID="proverbs.6.19" osisID="proverbs.6.19" />proferentem mendacia testem fallacem et eum qui seminat inter fratres discordias<verse eID="proverbs.6.19" />
+        <verse sID="proverbs.6.20" osisID="proverbs.6.20" />conserva fili mi praecepta patris tui et ne dimittas legem matris tuae<verse eID="proverbs.6.20" />
+        <verse sID="proverbs.6.21" osisID="proverbs.6.21" />liga ea in corde tuo iugiter et circumda gutturi tuo<verse eID="proverbs.6.21" />
+        <verse sID="proverbs.6.22" osisID="proverbs.6.22" />cum ambulaveris gradiantur tecum cum dormieris custodiant te et evigilans loquere cum eis<verse eID="proverbs.6.22" />
+        <verse sID="proverbs.6.23" osisID="proverbs.6.23" />quia mandatum lucerna est et lex lux et via vitae increpatio disciplinae<verse eID="proverbs.6.23" />
+        <verse sID="proverbs.6.24" osisID="proverbs.6.24" />ut custodiant te a muliere mala et a blanda lingua extraneae<verse eID="proverbs.6.24" />
+        <verse sID="proverbs.6.25" osisID="proverbs.6.25" />non concupiscat pulchritudinem eius cor tuum nec capiaris nutibus illius<verse eID="proverbs.6.25" />
+        <verse sID="proverbs.6.26" osisID="proverbs.6.26" />pretium enim scorti vix unius est panis mulier autem viri pretiosam animam capit<verse eID="proverbs.6.26" />
+        <verse sID="proverbs.6.27" osisID="proverbs.6.27" />numquid abscondere potest homo ignem in sinu suo ut vestimenta illius non ardeant<verse eID="proverbs.6.27" />
+        <verse sID="proverbs.6.28" osisID="proverbs.6.28" />aut ambulare super prunas et non conburentur plantae eius<verse eID="proverbs.6.28" />
+        <verse sID="proverbs.6.29" osisID="proverbs.6.29" />sic qui ingreditur ad mulierem proximi sui non erit mundus cum tetigerit eam<verse eID="proverbs.6.29" />
+        <verse sID="proverbs.6.30" osisID="proverbs.6.30" />non grandis est culpae cum quis furatus fuerit furatur enim ut esurientem impleat animam<verse eID="proverbs.6.30" />
+        <verse sID="proverbs.6.31" osisID="proverbs.6.31" />deprehensus quoque reddet septuplum et omnem substantiam domus suae tradet<verse eID="proverbs.6.31" />
+        <verse sID="proverbs.6.32" osisID="proverbs.6.32" />qui autem adulter est propter cordis inopiam perdet animam suam<verse eID="proverbs.6.32" />
+        <verse sID="proverbs.6.33" osisID="proverbs.6.33" />turpitudinem et ignominiam congregat sibi et obprobrium illius non delebitur<verse eID="proverbs.6.33" />
+        <verse sID="proverbs.6.34" osisID="proverbs.6.34" />quia zelus et furor viri non parcet in die vindictae<verse eID="proverbs.6.34" />
+        <verse sID="proverbs.6.35" osisID="proverbs.6.35" />nec adquiescet cuiusquam precibus nec suscipiet pro redemptione dona plurima<verse eID="proverbs.6.35" />
+      </p>
+      <chapter eID="proverbs.6" />
+      <chapter sID="proverbs.7" osisID="proverbs.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="proverbs.7.1" osisID="proverbs.7.1" />fili mi custodi sermones meos et praecepta mea reconde tibi<verse eID="proverbs.7.1" />
+        <verse sID="proverbs.7.2" osisID="proverbs.7.2" />serva mandata mea et vives et legem meam quasi pupillam oculi tui<verse eID="proverbs.7.2" />
+        <verse sID="proverbs.7.3" osisID="proverbs.7.3" />liga eam in digitis tuis scribe illam in tabulis cordis tui<verse eID="proverbs.7.3" />
+        <verse sID="proverbs.7.4" osisID="proverbs.7.4" />dic sapientiae soror mea es et prudentiam voca amicam tuam<verse eID="proverbs.7.4" />
+        <verse sID="proverbs.7.5" osisID="proverbs.7.5" />ut custodiat te a muliere extranea et ab aliena quae verba sua dulcia facit<verse eID="proverbs.7.5" />
+        <verse sID="proverbs.7.6" osisID="proverbs.7.6" />de fenestra enim domus meae per cancellos prospexi<verse eID="proverbs.7.6" />
+        <verse sID="proverbs.7.7" osisID="proverbs.7.7" />et video parvulos considero vecordem iuvenem<verse eID="proverbs.7.7" />
+        <verse sID="proverbs.7.8" osisID="proverbs.7.8" />qui transit in platea iuxta angulum et propter viam domus illius graditur<verse eID="proverbs.7.8" />
+        <verse sID="proverbs.7.9" osisID="proverbs.7.9" />in obscuro advesperascente die in noctis tenebris et caligine<verse eID="proverbs.7.9" />
+        <verse sID="proverbs.7.10" osisID="proverbs.7.10" />et ecce mulier occurrit illi ornatu meretricio praeparata ad capiendas animas garrula et vaga<verse eID="proverbs.7.10" />
+        <verse sID="proverbs.7.11" osisID="proverbs.7.11" />quietis inpatiens nec valens in domo consistere pedibus suis<verse eID="proverbs.7.11" />
+        <verse sID="proverbs.7.12" osisID="proverbs.7.12" />nunc foris nunc in plateis nunc iuxta angulos insidians<verse eID="proverbs.7.12" />
+        <verse sID="proverbs.7.13" osisID="proverbs.7.13" />adprehensumque deosculatur iuvenem et procaci vultu blanditur dicens<verse eID="proverbs.7.13" />
+        <verse sID="proverbs.7.14" osisID="proverbs.7.14" />victimas pro salute debui hodie reddidi vota mea<verse eID="proverbs.7.14" />
+        <verse sID="proverbs.7.15" osisID="proverbs.7.15" />idcirco egressa sum in occursum tuum desiderans te videre et repperi<verse eID="proverbs.7.15" />
+        <verse sID="proverbs.7.16" osisID="proverbs.7.16" />intexui funibus lectum meum stravi tapetibus pictis ex Aegypto<verse eID="proverbs.7.16" />
+        <verse sID="proverbs.7.17" osisID="proverbs.7.17" />aspersi cubile meum murra et aloe et cinnamomo<verse eID="proverbs.7.17" />
+        <verse sID="proverbs.7.18" osisID="proverbs.7.18" />veni inebriemur uberibus donec inlucescat dies et fruamur cupitis amplexibus<verse eID="proverbs.7.18" />
+        <verse sID="proverbs.7.19" osisID="proverbs.7.19" />non est enim vir in domo sua abiit via longissima<verse eID="proverbs.7.19" />
+        <verse sID="proverbs.7.20" osisID="proverbs.7.20" />sacculum pecuniae secum tulit in die plenae lunae reversurus est domum suam<verse eID="proverbs.7.20" />
+        <verse sID="proverbs.7.21" osisID="proverbs.7.21" />inretivit eum multis sermonibus et blanditiis labiorum protraxit illum<verse eID="proverbs.7.21" />
+        <verse sID="proverbs.7.22" osisID="proverbs.7.22" />statim eam sequitur quasi bos ductus ad victimam et quasi agnus lasciviens et ignorans quod ad vincula stultus trahatur<verse eID="proverbs.7.22" />
+        <verse sID="proverbs.7.23" osisID="proverbs.7.23" />donec transfigat sagitta iecur eius velut si avis festinet ad laqueum et nescit quia de periculo animae illius agitur<verse eID="proverbs.7.23" />
+        <verse sID="proverbs.7.24" osisID="proverbs.7.24" />nunc ergo fili audi me et adtende verba oris mei<verse eID="proverbs.7.24" />
+        <verse sID="proverbs.7.25" osisID="proverbs.7.25" />ne abstrahatur in viis illius mens tua neque decipiaris semitis eius<verse eID="proverbs.7.25" />
+        <verse sID="proverbs.7.26" osisID="proverbs.7.26" />multos enim vulneratos deiecit et fortissimi quique interfecti sunt ab ea<verse eID="proverbs.7.26" />
+        <verse sID="proverbs.7.27" osisID="proverbs.7.27" />viae inferi domus eius penetrantes interiora mortis<verse eID="proverbs.7.27" />
+      </p>
+      <chapter eID="proverbs.7" />
+      <chapter sID="proverbs.8" osisID="proverbs.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="proverbs.8.1" osisID="proverbs.8.1" />numquid non sapientia clamitat et prudentia dat vocem suam<verse eID="proverbs.8.1" />
+        <verse sID="proverbs.8.2" osisID="proverbs.8.2" />in summis excelsisque verticibus super viam in mediis semitis stans<verse eID="proverbs.8.2" />
+        <verse sID="proverbs.8.3" osisID="proverbs.8.3" />iuxta portas civitatis in ipsis foribus loquitur dicens<verse eID="proverbs.8.3" />
+        <verse sID="proverbs.8.4" osisID="proverbs.8.4" />o viri ad vos clamito et vox mea ad filios hominum<verse eID="proverbs.8.4" />
+        <verse sID="proverbs.8.5" osisID="proverbs.8.5" />intellegite parvuli astutiam et insipientes animadvertite<verse eID="proverbs.8.5" />
+        <verse sID="proverbs.8.6" osisID="proverbs.8.6" />audite quoniam de rebus magnis locutura sum et aperientur labia mea ut recta praedicent<verse eID="proverbs.8.6" />
+        <verse sID="proverbs.8.7" osisID="proverbs.8.7" />veritatem meditabitur guttur meum et labia mea detestabuntur impium<verse eID="proverbs.8.7" />
+        <verse sID="proverbs.8.8" osisID="proverbs.8.8" />iusti sunt omnes sermones mei non est in eis pravum quid neque perversum<verse eID="proverbs.8.8" />
+        <verse sID="proverbs.8.9" osisID="proverbs.8.9" />recti sunt intellegentibus et aequi invenientibus scientiam<verse eID="proverbs.8.9" />
+        <verse sID="proverbs.8.10" osisID="proverbs.8.10" />accipite disciplinam meam et non pecuniam doctrinam magis quam aurum eligite<verse eID="proverbs.8.10" />
+        <verse sID="proverbs.8.11" osisID="proverbs.8.11" />melior est enim sapientia cunctis pretiosissimis et omne desiderabile ei non potest conparari<verse eID="proverbs.8.11" />
+        <verse sID="proverbs.8.12" osisID="proverbs.8.12" />ego sapientia habito in consilio et eruditis intersum cogitationibus<verse eID="proverbs.8.12" />
+        <verse sID="proverbs.8.13" osisID="proverbs.8.13" />timor Domini odit malum arrogantiam et superbiam et viam pravam et os bilingue detestor<verse eID="proverbs.8.13" />
+        <verse sID="proverbs.8.14" osisID="proverbs.8.14" />meum est consilium et aequitas mea prudentia mea est fortitudo<verse eID="proverbs.8.14" />
+        <verse sID="proverbs.8.15" osisID="proverbs.8.15" />per me reges regnant et legum conditores iusta decernunt<verse eID="proverbs.8.15" />
+        <verse sID="proverbs.8.16" osisID="proverbs.8.16" />per me principes imperant et potentes decernunt iustitiam<verse eID="proverbs.8.16" />
+        <verse sID="proverbs.8.17" osisID="proverbs.8.17" />ego diligentes me diligo et qui mane vigilant ad me invenient me<verse eID="proverbs.8.17" />
+        <verse sID="proverbs.8.18" osisID="proverbs.8.18" />mecum sunt divitiae et gloria opes superbae et iustitia<verse eID="proverbs.8.18" />
+        <verse sID="proverbs.8.19" osisID="proverbs.8.19" />melior est fructus meus auro et pretioso lapide et genimina mea argento electo<verse eID="proverbs.8.19" />
+        <verse sID="proverbs.8.20" osisID="proverbs.8.20" />in viis iustitiae ambulo in medio semitarum iudicii<verse eID="proverbs.8.20" />
+        <verse sID="proverbs.8.21" osisID="proverbs.8.21" />ut ditem diligentes me et thesauros eorum repleam<verse eID="proverbs.8.21" />
+        <verse sID="proverbs.8.22" osisID="proverbs.8.22" />Dominus possedit me initium viarum suarum antequam quicquam faceret a principio<verse eID="proverbs.8.22" />
+        <verse sID="proverbs.8.23" osisID="proverbs.8.23" />ab aeterno ordita sum et ex antiquis antequam terra fieret<verse eID="proverbs.8.23" />
+        <verse sID="proverbs.8.24" osisID="proverbs.8.24" />necdum erant abyssi et ego iam concepta eram necdum fontes aquarum eruperant<verse eID="proverbs.8.24" />
+        <verse sID="proverbs.8.25" osisID="proverbs.8.25" />necdum montes gravi mole constiterant ante colles ego parturiebar<verse eID="proverbs.8.25" />
+        <verse sID="proverbs.8.26" osisID="proverbs.8.26" />adhuc terram non fecerat et flumina et cardines orbis terrae<verse eID="proverbs.8.26" />
+        <verse sID="proverbs.8.27" osisID="proverbs.8.27" />quando praeparabat caelos aderam quando certa lege et gyro vallabat abyssos<verse eID="proverbs.8.27" />
+        <verse sID="proverbs.8.28" osisID="proverbs.8.28" />quando aethera firmabat sursum et librabat fontes aquarum<verse eID="proverbs.8.28" />
+        <verse sID="proverbs.8.29" osisID="proverbs.8.29" />quando circumdabat mari terminum suum et legem ponebat aquis ne transirent fines suos quando adpendebat fundamenta terrae<verse eID="proverbs.8.29" />
+        <verse sID="proverbs.8.30" osisID="proverbs.8.30" />cum eo eram cuncta conponens et delectabar per singulos dies ludens coram eo omni tempore<verse eID="proverbs.8.30" />
+        <verse sID="proverbs.8.31" osisID="proverbs.8.31" />ludens in orbe terrarum et deliciae meae esse cum filiis hominum<verse eID="proverbs.8.31" />
+        <verse sID="proverbs.8.32" osisID="proverbs.8.32" />nunc ergo filii audite me beati qui custodiunt vias meas<verse eID="proverbs.8.32" />
+        <verse sID="proverbs.8.33" osisID="proverbs.8.33" />audite disciplinam et estote sapientes et nolite abicere eam<verse eID="proverbs.8.33" />
+        <verse sID="proverbs.8.34" osisID="proverbs.8.34" />beatus homo qui audit me qui vigilat ad fores meas cotidie et observat ad postes ostii mei<verse eID="proverbs.8.34" />
+        <verse sID="proverbs.8.35" osisID="proverbs.8.35" />qui me invenerit inveniet vitam et hauriet salutem a Domino<verse eID="proverbs.8.35" />
+        <verse sID="proverbs.8.36" osisID="proverbs.8.36" />qui autem in me peccaverit laedet animam suam omnes qui me oderunt diligunt mortem<verse eID="proverbs.8.36" />
+      </p>
+      <chapter eID="proverbs.8" />
+      <chapter sID="proverbs.9" osisID="proverbs.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="proverbs.9.1" osisID="proverbs.9.1" />sapientia aedificavit sibi domum excidit columnas septem<verse eID="proverbs.9.1" />
+        <verse sID="proverbs.9.2" osisID="proverbs.9.2" />immolavit victimas suas miscuit vinum et proposuit mensam suam<verse eID="proverbs.9.2" />
+        <verse sID="proverbs.9.3" osisID="proverbs.9.3" />misit ancillas suas ut vocarent ad arcem et ad moenia civitatis<verse eID="proverbs.9.3" />
+        <verse sID="proverbs.9.4" osisID="proverbs.9.4" />si quis est parvulus veniat ad me et insipientibus locuta est<verse eID="proverbs.9.4" />
+        <verse sID="proverbs.9.5" osisID="proverbs.9.5" />venite comedite panem meum et bibite vinum quod miscui vobis<verse eID="proverbs.9.5" />
+        <verse sID="proverbs.9.6" osisID="proverbs.9.6" />relinquite infantiam et vivite et ambulate per vias prudentiae<verse eID="proverbs.9.6" />
+        <verse sID="proverbs.9.7" osisID="proverbs.9.7" />qui erudit derisorem ipse sibi facit iniuriam et qui arguit impium generat maculam sibi<verse eID="proverbs.9.7" />
+        <verse sID="proverbs.9.8" osisID="proverbs.9.8" />noli arguere derisorem ne oderit te argue sapientem et diliget te<verse eID="proverbs.9.8" />
+        <verse sID="proverbs.9.9" osisID="proverbs.9.9" />da sapienti et addetur ei sapientia doce iustum et festinabit accipere<verse eID="proverbs.9.9" />
+        <verse sID="proverbs.9.10" osisID="proverbs.9.10" />principium sapientiae timor Domini et scientia sanctorum prudentia<verse eID="proverbs.9.10" />
+        <verse sID="proverbs.9.11" osisID="proverbs.9.11" />per me enim multiplicabuntur dies tui et addentur tibi anni vitae<verse eID="proverbs.9.11" />
+        <verse sID="proverbs.9.12" osisID="proverbs.9.12" />si sapiens fueris tibimet ipsi eris si inlusor solus portabis malum<verse eID="proverbs.9.12" />
+        <verse sID="proverbs.9.13" osisID="proverbs.9.13" />mulier stulta et clamosa plenaque inlecebris et nihil omnino sciens<verse eID="proverbs.9.13" />
+        <verse sID="proverbs.9.14" osisID="proverbs.9.14" />sedit in foribus domus suae super sellam in excelso urbis loco<verse eID="proverbs.9.14" />
+        <verse sID="proverbs.9.15" osisID="proverbs.9.15" />ut vocaret transeuntes viam et pergentes itinere suo<verse eID="proverbs.9.15" />
+        <verse sID="proverbs.9.16" osisID="proverbs.9.16" />quis est parvulus declinet ad me et vecordi locuta est<verse eID="proverbs.9.16" />
+        <verse sID="proverbs.9.17" osisID="proverbs.9.17" />aquae furtivae dulciores sunt et panis absconditus suavior<verse eID="proverbs.9.17" />
+        <verse sID="proverbs.9.18" osisID="proverbs.9.18" />et ignoravit quod gigantes ibi sint et in profundis inferni convivae eius<verse eID="proverbs.9.18" />
+      </p>
+      <chapter eID="proverbs.9" />
+      <chapter sID="proverbs.10" osisID="proverbs.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="proverbs.10.1" osisID="proverbs.10.1" />PARABOLAE SALOMONIS
+Filius sapiens laetificat patrem filius vero stultus maestitia est matris suae<verse eID="proverbs.10.1" />
+        <verse sID="proverbs.10.2" osisID="proverbs.10.2" />non proderunt thesauri impietatis iustitia vero liberabit a morte<verse eID="proverbs.10.2" />
+        <verse sID="proverbs.10.3" osisID="proverbs.10.3" />non adfliget Dominus fame animam iusti et insidias impiorum subvertet<verse eID="proverbs.10.3" />
+        <verse sID="proverbs.10.4" osisID="proverbs.10.4" />egestatem operata est manus remissa manus autem fortium divitias parat<verse eID="proverbs.10.4" />
+        <verse sID="proverbs.10.5" osisID="proverbs.10.5" />qui congregat in messe filius sapiens est qui autem stertit aestate filius confusionis<verse eID="proverbs.10.5" />
+        <verse sID="proverbs.10.6" osisID="proverbs.10.6" />benedictio super caput iusti os autem impiorum operit iniquitatem<verse eID="proverbs.10.6" />
+        <verse sID="proverbs.10.7" osisID="proverbs.10.7" />memoria iusti cum laudibus et nomen impiorum putrescet<verse eID="proverbs.10.7" />
+        <verse sID="proverbs.10.8" osisID="proverbs.10.8" />sapiens corde praecepta suscipiet stultus caeditur labiis<verse eID="proverbs.10.8" />
+        <verse sID="proverbs.10.9" osisID="proverbs.10.9" />qui ambulat simpliciter ambulat confidenter qui autem depravat vias suas manifestus erit<verse eID="proverbs.10.9" />
+        <verse sID="proverbs.10.10" osisID="proverbs.10.10" />qui annuit oculo dabit dolorem stultus labiis verberabitur<verse eID="proverbs.10.10" />
+        <verse sID="proverbs.10.11" osisID="proverbs.10.11" />vena vitae os iusti et os impiorum operiet iniquitatem<verse eID="proverbs.10.11" />
+        <verse sID="proverbs.10.12" osisID="proverbs.10.12" />odium suscitat rixas et universa delicta operit caritas<verse eID="proverbs.10.12" />
+        <verse sID="proverbs.10.13" osisID="proverbs.10.13" />in labiis sapientis invenietur sapientia et virga in dorso eius qui indiget corde<verse eID="proverbs.10.13" />
+        <verse sID="proverbs.10.14" osisID="proverbs.10.14" />sapientes abscondunt scientiam os autem stulti confusioni proximum est<verse eID="proverbs.10.14" />
+        <verse sID="proverbs.10.15" osisID="proverbs.10.15" />substantia divitis urbs fortitudinis eius pavor pauperum egestas eorum<verse eID="proverbs.10.15" />
+        <verse sID="proverbs.10.16" osisID="proverbs.10.16" />opus iusti ad vitam fructus impii ad peccatum<verse eID="proverbs.10.16" />
+        <verse sID="proverbs.10.17" osisID="proverbs.10.17" />via vitae custodienti disciplinam qui autem increpationes relinquit errat<verse eID="proverbs.10.17" />
+        <verse sID="proverbs.10.18" osisID="proverbs.10.18" />abscondunt odium labia mendacia qui profert contumeliam insipiens est<verse eID="proverbs.10.18" />
+        <verse sID="proverbs.10.19" osisID="proverbs.10.19" />in multiloquio peccatum non deerit qui autem moderatur labia sua prudentissimus est<verse eID="proverbs.10.19" />
+        <verse sID="proverbs.10.20" osisID="proverbs.10.20" />argentum electum lingua iusti cor impiorum pro nihilo<verse eID="proverbs.10.20" />
+        <verse sID="proverbs.10.21" osisID="proverbs.10.21" />labia iusti erudiunt plurimos qui autem indocti sunt in cordis egestate morientur<verse eID="proverbs.10.21" />
+        <verse sID="proverbs.10.22" osisID="proverbs.10.22" />benedictio Domini divites facit nec sociabitur ei adflictio<verse eID="proverbs.10.22" />
+        <verse sID="proverbs.10.23" osisID="proverbs.10.23" />quasi per risum stultus operatur scelus sapientia autem est viro prudentia<verse eID="proverbs.10.23" />
+        <verse sID="proverbs.10.24" osisID="proverbs.10.24" />quod timet impius veniet super eum desiderium suum iustis dabitur<verse eID="proverbs.10.24" />
+        <verse sID="proverbs.10.25" osisID="proverbs.10.25" />quasi tempestas transiens non erit impius iustus autem quasi fundamentum sempiternum<verse eID="proverbs.10.25" />
+        <verse sID="proverbs.10.26" osisID="proverbs.10.26" />sicut acetum dentibus et fumus oculis sic piger his qui miserunt eum<verse eID="proverbs.10.26" />
+        <verse sID="proverbs.10.27" osisID="proverbs.10.27" />timor Domini adponet dies et anni impiorum breviabuntur<verse eID="proverbs.10.27" />
+        <verse sID="proverbs.10.28" osisID="proverbs.10.28" />expectatio iustorum laetitia spes autem impiorum peribit<verse eID="proverbs.10.28" />
+        <verse sID="proverbs.10.29" osisID="proverbs.10.29" />fortitudo simplicis via Domini et pavor his qui operantur malum<verse eID="proverbs.10.29" />
+        <verse sID="proverbs.10.30" osisID="proverbs.10.30" />iustus in aeternum non commovebitur impii autem non habitabunt in terram<verse eID="proverbs.10.30" />
+        <verse sID="proverbs.10.31" osisID="proverbs.10.31" />os iusti parturiet sapientiam lingua pravorum peribit<verse eID="proverbs.10.31" />
+        <verse sID="proverbs.10.32" osisID="proverbs.10.32" />labia iusti considerant placita et os impiorum perversa<verse eID="proverbs.10.32" />
+      </p>
+      <chapter eID="proverbs.10" />
+      <chapter sID="proverbs.11" osisID="proverbs.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="proverbs.11.1" osisID="proverbs.11.1" />statera dolosa abominatio apud Dominum et pondus aequum voluntas eius<verse eID="proverbs.11.1" />
+        <verse sID="proverbs.11.2" osisID="proverbs.11.2" />ubi fuerit superbia ibi erit et contumelia ubi autem humilitas ibi et sapientia<verse eID="proverbs.11.2" />
+        <verse sID="proverbs.11.3" osisID="proverbs.11.3" />simplicitas iustorum diriget eos et subplantatio perversorum vastabit illos<verse eID="proverbs.11.3" />
+        <verse sID="proverbs.11.4" osisID="proverbs.11.4" />non proderunt divitiae in die ultionis iustitia autem liberabit a morte<verse eID="proverbs.11.4" />
+        <verse sID="proverbs.11.5" osisID="proverbs.11.5" />iustitia simplicis diriget viam eius et in impietate sua corruet impius<verse eID="proverbs.11.5" />
+        <verse sID="proverbs.11.6" osisID="proverbs.11.6" />iustitia rectorum liberabit eos et in insidiis suis capientur iniqui<verse eID="proverbs.11.6" />
+        <verse sID="proverbs.11.7" osisID="proverbs.11.7" />mortuo homine impio nulla erit ultra spes et expectatio sollicitorum peribit<verse eID="proverbs.11.7" />
+        <verse sID="proverbs.11.8" osisID="proverbs.11.8" />iustus de angustia liberatus est et tradetur impius pro eo<verse eID="proverbs.11.8" />
+        <verse sID="proverbs.11.9" osisID="proverbs.11.9" />simulator ore decipit amicum suum iusti autem liberabuntur scientia<verse eID="proverbs.11.9" />
+        <verse sID="proverbs.11.10" osisID="proverbs.11.10" />in bonis iustorum exultabit civitas et in perditione impiorum erit laudatio<verse eID="proverbs.11.10" />
+        <verse sID="proverbs.11.11" osisID="proverbs.11.11" />benedictione iustorum exaltabitur civitas et ore impiorum subvertetur<verse eID="proverbs.11.11" />
+        <verse sID="proverbs.11.12" osisID="proverbs.11.12" />qui despicit amicum suum indigens corde est vir autem prudens tacebit<verse eID="proverbs.11.12" />
+        <verse sID="proverbs.11.13" osisID="proverbs.11.13" />qui ambulat fraudulenter revelat arcana qui autem fidelis est animi celat commissum<verse eID="proverbs.11.13" />
+        <verse sID="proverbs.11.14" osisID="proverbs.11.14" />ubi non est gubernator populus corruet salus autem ubi multa consilia<verse eID="proverbs.11.14" />
+        <verse sID="proverbs.11.15" osisID="proverbs.11.15" />adfligetur malo qui fidem facit pro extraneo qui autem cavet laqueos securus erit<verse eID="proverbs.11.15" />
+        <verse sID="proverbs.11.16" osisID="proverbs.11.16" />mulier gratiosa inveniet gloriam et robusti habebunt divitias<verse eID="proverbs.11.16" />
+        <verse sID="proverbs.11.17" osisID="proverbs.11.17" />benefacit animae suae vir misericors qui autem crudelis est et propinquos abicit<verse eID="proverbs.11.17" />
+        <verse sID="proverbs.11.18" osisID="proverbs.11.18" />impius facit opus instabile seminanti autem iustitiam merces fidelis<verse eID="proverbs.11.18" />
+        <verse sID="proverbs.11.19" osisID="proverbs.11.19" />clementia praeparat vitam et sectatio malorum mortem<verse eID="proverbs.11.19" />
+        <verse sID="proverbs.11.20" osisID="proverbs.11.20" />abominabile Domino pravum cor et voluntas eius in his qui simpliciter ambulant<verse eID="proverbs.11.20" />
+        <verse sID="proverbs.11.21" osisID="proverbs.11.21" />manus in manu non erit innocens malus semen autem iustorum salvabitur<verse eID="proverbs.11.21" />
+        <verse sID="proverbs.11.22" osisID="proverbs.11.22" />circulus aureus in naribus suis mulier pulchra et fatua<verse eID="proverbs.11.22" />
+        <verse sID="proverbs.11.23" osisID="proverbs.11.23" />desiderium iustorum omne bonum est praestolatio impiorum furor<verse eID="proverbs.11.23" />
+        <verse sID="proverbs.11.24" osisID="proverbs.11.24" />alii dividunt propria et ditiores fiunt alii rapiunt non sua et semper in egestate sunt<verse eID="proverbs.11.24" />
+        <verse sID="proverbs.11.25" osisID="proverbs.11.25" />anima quae benedicit inpinguabitur et qui inebriat ipse quoque inebriabitur<verse eID="proverbs.11.25" />
+        <verse sID="proverbs.11.26" osisID="proverbs.11.26" />qui abscondit frumenta maledicetur in populis benedictio autem super caput vendentium<verse eID="proverbs.11.26" />
+        <verse sID="proverbs.11.27" osisID="proverbs.11.27" />bene consurgit diluculo qui quaerit bona qui autem investigator malorum est opprimetur ab eis<verse eID="proverbs.11.27" />
+        <verse sID="proverbs.11.28" osisID="proverbs.11.28" />qui confidet in divitiis suis corruet iusti autem quasi virens folium germinabunt<verse eID="proverbs.11.28" />
+        <verse sID="proverbs.11.29" osisID="proverbs.11.29" />qui conturbat domum suam possidebit ventos et qui stultus est serviet sapienti<verse eID="proverbs.11.29" />
+        <verse sID="proverbs.11.30" osisID="proverbs.11.30" />fructus iusti lignum vitae et qui suscipit animas sapiens est<verse eID="proverbs.11.30" />
+        <verse sID="proverbs.11.31" osisID="proverbs.11.31" />si iustus in terra recipit quanto magis impius et peccator<verse eID="proverbs.11.31" />
+      </p>
+      <chapter eID="proverbs.11" />
+      <chapter sID="proverbs.12" osisID="proverbs.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="proverbs.12.1" osisID="proverbs.12.1" />qui diligit disciplinam diligit scientiam qui autem odit increpationes insipiens est<verse eID="proverbs.12.1" />
+        <verse sID="proverbs.12.2" osisID="proverbs.12.2" />qui bonus est hauriet a Domino gratiam qui autem confidit cogitationibus suis impie agit<verse eID="proverbs.12.2" />
+        <verse sID="proverbs.12.3" osisID="proverbs.12.3" />non roborabitur homo ex impietate et radix iustorum non commovebitur<verse eID="proverbs.12.3" />
+        <verse sID="proverbs.12.4" osisID="proverbs.12.4" />mulier diligens corona viro suo et putredo in ossibus eius quae confusione res dignas gerit<verse eID="proverbs.12.4" />
+        <verse sID="proverbs.12.5" osisID="proverbs.12.5" />cogitationes iustorum iudicia et consilia impiorum fraudulentia<verse eID="proverbs.12.5" />
+        <verse sID="proverbs.12.6" osisID="proverbs.12.6" />verba impiorum insidiantur sanguini os iustorum liberabit eos<verse eID="proverbs.12.6" />
+        <verse sID="proverbs.12.7" osisID="proverbs.12.7" />verte impios et non erunt domus autem iustorum permanebit<verse eID="proverbs.12.7" />
+        <verse sID="proverbs.12.8" osisID="proverbs.12.8" />doctrina sua noscetur vir qui autem vanus et excors est patebit contemptui<verse eID="proverbs.12.8" />
+        <verse sID="proverbs.12.9" osisID="proverbs.12.9" />melior est pauper et sufficiens sibi quam gloriosus et indigens pane<verse eID="proverbs.12.9" />
+        <verse sID="proverbs.12.10" osisID="proverbs.12.10" />novit iustus animas iumentorum suorum viscera autem impiorum crudelia<verse eID="proverbs.12.10" />
+        <verse sID="proverbs.12.11" osisID="proverbs.12.11" />qui operatur terram suam saturabitur panibus qui autem sectatur otium stultissimus est<verse eID="proverbs.12.11" />
+        <verse sID="proverbs.12.12" osisID="proverbs.12.12" />desiderium impii munimentum est pessimorum radix autem iustorum proficiet<verse eID="proverbs.12.12" />
+        <verse sID="proverbs.12.13" osisID="proverbs.12.13" />propter peccata labiorum ruina proximat malo effugiet autem iustus de angustia<verse eID="proverbs.12.13" />
+        <verse sID="proverbs.12.14" osisID="proverbs.12.14" />de fructu oris sui unusquisque replebitur bonis et iuxta opera manuum suarum retribuetur ei<verse eID="proverbs.12.14" />
+        <verse sID="proverbs.12.15" osisID="proverbs.12.15" />via stulti recta in oculis eius qui autem sapiens est audit consilia<verse eID="proverbs.12.15" />
+        <verse sID="proverbs.12.16" osisID="proverbs.12.16" />fatuus statim indicat iram suam qui autem dissimulat iniuriam callidus est<verse eID="proverbs.12.16" />
+        <verse sID="proverbs.12.17" osisID="proverbs.12.17" />qui quod novit loquitur index iustitiae est qui autem mentitur testis est fraudulentus<verse eID="proverbs.12.17" />
+        <verse sID="proverbs.12.18" osisID="proverbs.12.18" />est qui promittit et quasi gladio pungitur conscientiae lingua autem sapientium sanitas est<verse eID="proverbs.12.18" />
+        <verse sID="proverbs.12.19" osisID="proverbs.12.19" />labium veritatis firmum erit in perpetuum qui autem testis est repentinus concinnat linguam mendacii<verse eID="proverbs.12.19" />
+        <verse sID="proverbs.12.20" osisID="proverbs.12.20" />dolus in corde cogitantium mala qui autem ineunt pacis consilia sequitur eos gaudium<verse eID="proverbs.12.20" />
+        <verse sID="proverbs.12.21" osisID="proverbs.12.21" />non contristabit iustum quicquid ei acciderit impii autem replebuntur malo<verse eID="proverbs.12.21" />
+        <verse sID="proverbs.12.22" osisID="proverbs.12.22" />abominatio Domino labia mendacia qui autem fideliter agunt placent ei<verse eID="proverbs.12.22" />
+        <verse sID="proverbs.12.23" osisID="proverbs.12.23" />homo versutus celat scientiam et cor insipientium provocabit stultitiam<verse eID="proverbs.12.23" />
+        <verse sID="proverbs.12.24" osisID="proverbs.12.24" />manus fortium dominabitur quae autem remissa est tributis serviet<verse eID="proverbs.12.24" />
+        <verse sID="proverbs.12.25" osisID="proverbs.12.25" />maeror in corde viri humiliabit illud et sermone bono laetificabitur<verse eID="proverbs.12.25" />
+        <verse sID="proverbs.12.26" osisID="proverbs.12.26" />qui neglegit damnum propter amicum iustus est iter autem impiorum decipiet eos<verse eID="proverbs.12.26" />
+        <verse sID="proverbs.12.27" osisID="proverbs.12.27" />non inveniet fraudulentus lucrum et substantia hominis erit auri pretium<verse eID="proverbs.12.27" />
+        <verse sID="proverbs.12.28" osisID="proverbs.12.28" />in semita iustitiae vita iter autem devium ducit ad mortem<verse eID="proverbs.12.28" />
+      </p>
+      <chapter eID="proverbs.12" />
+      <chapter sID="proverbs.13" osisID="proverbs.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="proverbs.13.1" osisID="proverbs.13.1" />filius sapiens doctrina patris qui autem inlusor est non audit cum arguitur<verse eID="proverbs.13.1" />
+        <verse sID="proverbs.13.2" osisID="proverbs.13.2" />de fructu oris homo saturabitur bonis anima autem praevaricatorum iniqua<verse eID="proverbs.13.2" />
+        <verse sID="proverbs.13.3" osisID="proverbs.13.3" />qui custodit os suum custodit animam suam qui autem inconsideratus est ad loquendum sentiet mala<verse eID="proverbs.13.3" />
+        <verse sID="proverbs.13.4" osisID="proverbs.13.4" />vult et non vult piger anima autem operantium inpinguabitur<verse eID="proverbs.13.4" />
+        <verse sID="proverbs.13.5" osisID="proverbs.13.5" />verbum mendax iustus detestabitur impius confundit et confundetur<verse eID="proverbs.13.5" />
+        <verse sID="proverbs.13.6" osisID="proverbs.13.6" />iustitia custodit innocentis viam impietas vero peccato subplantat<verse eID="proverbs.13.6" />
+        <verse sID="proverbs.13.7" osisID="proverbs.13.7" />est quasi dives cum nihil habeat et est quasi pauper cum in multis divitiis sit<verse eID="proverbs.13.7" />
+        <verse sID="proverbs.13.8" osisID="proverbs.13.8" />redemptio animae viri divitiae suae qui autem pauper est increpationem non sustinet<verse eID="proverbs.13.8" />
+        <verse sID="proverbs.13.9" osisID="proverbs.13.9" />lux iustorum laetificat lucerna autem impiorum extinguetur<verse eID="proverbs.13.9" />
+        <verse sID="proverbs.13.10" osisID="proverbs.13.10" />inter superbos semper iurgia sunt qui autem agunt cuncta consilio reguntur sapientia<verse eID="proverbs.13.10" />
+        <verse sID="proverbs.13.11" osisID="proverbs.13.11" />substantia festinata minuetur quae autem paulatim colligitur manu multiplicabitur<verse eID="proverbs.13.11" />
+        <verse sID="proverbs.13.12" osisID="proverbs.13.12" />spes quae differtur adfligit animam lignum vitae desiderium veniens<verse eID="proverbs.13.12" />
+        <verse sID="proverbs.13.13" osisID="proverbs.13.13" />qui detrahit alicui rei ipse se in futurum obligat qui autem timet praeceptum in pace versabitur<verse eID="proverbs.13.13" />
+        <verse sID="proverbs.13.14" osisID="proverbs.13.14" />lex sapientis fons vitae ut declinet a ruina mortis<verse eID="proverbs.13.14" />
+        <verse sID="proverbs.13.15" osisID="proverbs.13.15" />doctrina bona dabit gratiam in itinere contemptorum vorago<verse eID="proverbs.13.15" />
+        <verse sID="proverbs.13.16" osisID="proverbs.13.16" />astutus omnia agit cum consilio qui autem fatuus est aperit stultitiam<verse eID="proverbs.13.16" />
+        <verse sID="proverbs.13.17" osisID="proverbs.13.17" />nuntius impii cadet in malum legatus fidelis sanitas<verse eID="proverbs.13.17" />
+        <verse sID="proverbs.13.18" osisID="proverbs.13.18" />egestas et ignominia ei qui deserit disciplinam qui autem adquiescit arguenti glorificabitur<verse eID="proverbs.13.18" />
+        <verse sID="proverbs.13.19" osisID="proverbs.13.19" />desiderium si conpleatur delectat animam detestantur stulti eos qui fugiunt mala<verse eID="proverbs.13.19" />
+        <verse sID="proverbs.13.20" osisID="proverbs.13.20" />qui cum sapientibus graditur sapiens erit amicus stultorum efficietur similis<verse eID="proverbs.13.20" />
+        <verse sID="proverbs.13.21" osisID="proverbs.13.21" />peccatores persequetur malum et iustis retribuentur bona<verse eID="proverbs.13.21" />
+        <verse sID="proverbs.13.22" osisID="proverbs.13.22" />bonus relinquet heredes filios et nepotes et custoditur iusto substantia peccatoris<verse eID="proverbs.13.22" />
+        <verse sID="proverbs.13.23" osisID="proverbs.13.23" />multi cibi in novalibus patrum et alii congregantur absque iudicio<verse eID="proverbs.13.23" />
+        <verse sID="proverbs.13.24" osisID="proverbs.13.24" />qui parcit virgae suae odit filium suum qui autem diligit illum instanter erudit<verse eID="proverbs.13.24" />
+        <verse sID="proverbs.13.25" osisID="proverbs.13.25" />iustus comedit et replet animam suam venter autem impiorum insaturabilis<verse eID="proverbs.13.25" />
+      </p>
+      <chapter eID="proverbs.13" />
+      <chapter sID="proverbs.14" osisID="proverbs.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="proverbs.14.1" osisID="proverbs.14.1" />sapiens mulier aedificavit domum suam insipiens instructam quoque destruet manibus<verse eID="proverbs.14.1" />
+        <verse sID="proverbs.14.2" osisID="proverbs.14.2" />ambulans recto itinere et timens Deum despicitur ab eo qui infami graditur via<verse eID="proverbs.14.2" />
+        <verse sID="proverbs.14.3" osisID="proverbs.14.3" />in ore stulti virga superbiae labia sapientium custodiunt eos<verse eID="proverbs.14.3" />
+        <verse sID="proverbs.14.4" osisID="proverbs.14.4" />ubi non sunt boves praesepe vacuum est ubi autem plurimae segetes ibi manifesta fortitudo bovis<verse eID="proverbs.14.4" />
+        <verse sID="proverbs.14.5" osisID="proverbs.14.5" />testis fidelis non mentietur profert mendacium testis dolosus<verse eID="proverbs.14.5" />
+        <verse sID="proverbs.14.6" osisID="proverbs.14.6" />quaerit derisor sapientiam et non inveniet doctrina prudentium facilis<verse eID="proverbs.14.6" />
+        <verse sID="proverbs.14.7" osisID="proverbs.14.7" />vade contra virum stultum et nescito labia prudentiae<verse eID="proverbs.14.7" />
+        <verse sID="proverbs.14.8" osisID="proverbs.14.8" />sapientia callidi est intellegere viam suam et inprudentia stultorum errans<verse eID="proverbs.14.8" />
+        <verse sID="proverbs.14.9" osisID="proverbs.14.9" />stultis inludet peccatum inter iustos morabitur gratia<verse eID="proverbs.14.9" />
+        <verse sID="proverbs.14.10" osisID="proverbs.14.10" />cor quod novit amaritudinem animae suae in gaudio eius non miscebitur extraneus<verse eID="proverbs.14.10" />
+        <verse sID="proverbs.14.11" osisID="proverbs.14.11" />domus impiorum delebitur tabernacula iustorum germinabunt<verse eID="proverbs.14.11" />
+        <verse sID="proverbs.14.12" osisID="proverbs.14.12" />est via quae videtur homini iusta novissima autem eius deducunt ad mortem<verse eID="proverbs.14.12" />
+        <verse sID="proverbs.14.13" osisID="proverbs.14.13" />risus dolore miscebitur et extrema gaudii luctus occupat<verse eID="proverbs.14.13" />
+        <verse sID="proverbs.14.14" osisID="proverbs.14.14" />viis suis replebitur stultus et super eum erit vir bonus<verse eID="proverbs.14.14" />
+        <verse sID="proverbs.14.15" osisID="proverbs.14.15" />innocens credit omni verbo astutus considerat gressus suos<verse eID="proverbs.14.15" />
+        <verse sID="proverbs.14.16" osisID="proverbs.14.16" />sapiens timet et declinat malum stultus transilit et confidit<verse eID="proverbs.14.16" />
+        <verse sID="proverbs.14.17" osisID="proverbs.14.17" />inpatiens operabitur stultitiam et vir versutus odiosus est<verse eID="proverbs.14.17" />
+        <verse sID="proverbs.14.18" osisID="proverbs.14.18" />possidebunt parvuli stultitiam et astuti expectabunt scientiam<verse eID="proverbs.14.18" />
+        <verse sID="proverbs.14.19" osisID="proverbs.14.19" />iacebunt mali ante bonos et impii ante portas iustorum<verse eID="proverbs.14.19" />
+        <verse sID="proverbs.14.20" osisID="proverbs.14.20" />etiam proximo suo pauper odiosus erit amici vero divitum multi<verse eID="proverbs.14.20" />
+        <verse sID="proverbs.14.21" osisID="proverbs.14.21" />qui despicit proximum suum peccat qui autem miseretur pauperi beatus erit<verse eID="proverbs.14.21" />
+        <verse sID="proverbs.14.22" osisID="proverbs.14.22" />errant qui operantur malum misericordia et veritas praeparant bona<verse eID="proverbs.14.22" />
+        <verse sID="proverbs.14.23" osisID="proverbs.14.23" />in omni opere erit abundantia ubi autem verba sunt plurima frequenter egestas<verse eID="proverbs.14.23" />
+        <verse sID="proverbs.14.24" osisID="proverbs.14.24" />corona sapientium divitiae eorum fatuitas stultorum inprudentia<verse eID="proverbs.14.24" />
+        <verse sID="proverbs.14.25" osisID="proverbs.14.25" />liberat animas testis fidelis et profert mendacia versipellis<verse eID="proverbs.14.25" />
+        <verse sID="proverbs.14.26" osisID="proverbs.14.26" />in timore Domini fiducia fortitudinis et filiis eius erit spes<verse eID="proverbs.14.26" />
+        <verse sID="proverbs.14.27" osisID="proverbs.14.27" />timor Domini fons vitae ut declinet a ruina mortis<verse eID="proverbs.14.27" />
+        <verse sID="proverbs.14.28" osisID="proverbs.14.28" />in multitudine populi dignitas regis et in paucitate plebis ignominia principis<verse eID="proverbs.14.28" />
+        <verse sID="proverbs.14.29" osisID="proverbs.14.29" />qui patiens est multa gubernatur prudentia qui autem inpatiens exaltat stultitiam suam<verse eID="proverbs.14.29" />
+        <verse sID="proverbs.14.30" osisID="proverbs.14.30" />vita carnium sanitas cordis putredo ossuum invidia<verse eID="proverbs.14.30" />
+        <verse sID="proverbs.14.31" osisID="proverbs.14.31" />qui calumniatur egentem exprobrat factori eius honorat autem eum qui miseretur pauperis<verse eID="proverbs.14.31" />
+        <verse sID="proverbs.14.32" osisID="proverbs.14.32" />in malitia sua expelletur impius sperat autem iustus in morte sua<verse eID="proverbs.14.32" />
+        <verse sID="proverbs.14.33" osisID="proverbs.14.33" />in corde prudentis requiescit sapientia et indoctos quoque erudiet<verse eID="proverbs.14.33" />
+        <verse sID="proverbs.14.34" osisID="proverbs.14.34" />iustitia elevat gentem miseros facit populos peccatum<verse eID="proverbs.14.34" />
+        <verse sID="proverbs.14.35" osisID="proverbs.14.35" />acceptus est regi minister intellegens iracundiam eius inutilis sustinebit<verse eID="proverbs.14.35" />
+      </p>
+      <chapter eID="proverbs.14" />
+      <chapter sID="proverbs.15" osisID="proverbs.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="proverbs.15.1" osisID="proverbs.15.1" />responsio mollis frangit iram sermo durus suscitat furorem<verse eID="proverbs.15.1" />
+        <verse sID="proverbs.15.2" osisID="proverbs.15.2" />lingua sapientium ornat scientiam os fatuorum ebullit stultitiam<verse eID="proverbs.15.2" />
+        <verse sID="proverbs.15.3" osisID="proverbs.15.3" />in omni loco oculi Domini contemplantur malos et bonos<verse eID="proverbs.15.3" />
+        <verse sID="proverbs.15.4" osisID="proverbs.15.4" />lingua placabilis lignum vitae quae inmoderata est conteret spiritum<verse eID="proverbs.15.4" />
+        <verse sID="proverbs.15.5" osisID="proverbs.15.5" />stultus inridet disciplinam patris sui qui autem custodit increpationes astutior fiet<verse eID="proverbs.15.5" />
+        <verse sID="proverbs.15.6" osisID="proverbs.15.6" />domus iusti plurima fortitudo et in fructibus impii conturbatur<verse eID="proverbs.15.6" />
+        <verse sID="proverbs.15.7" osisID="proverbs.15.7" />labia sapientium disseminabunt scientiam cor stultorum dissimile erit<verse eID="proverbs.15.7" />
+        <verse sID="proverbs.15.8" osisID="proverbs.15.8" />victimae impiorum abominabiles Domino vota iustorum placabilia<verse eID="proverbs.15.8" />
+        <verse sID="proverbs.15.9" osisID="proverbs.15.9" />abominatio est Domino via impii qui sequitur iustitiam diligetur ab eo<verse eID="proverbs.15.9" />
+        <verse sID="proverbs.15.10" osisID="proverbs.15.10" />doctrina mala deserenti viam qui increpationes odit morietur<verse eID="proverbs.15.10" />
+        <verse sID="proverbs.15.11" osisID="proverbs.15.11" />infernus et perditio coram Domino quanto magis corda filiorum hominum<verse eID="proverbs.15.11" />
+        <verse sID="proverbs.15.12" osisID="proverbs.15.12" />non amat pestilens eum qui se corripit nec ad sapientes graditur<verse eID="proverbs.15.12" />
+        <verse sID="proverbs.15.13" osisID="proverbs.15.13" />cor gaudens exhilarat faciem in maerore animi deicitur spiritus<verse eID="proverbs.15.13" />
+        <verse sID="proverbs.15.14" osisID="proverbs.15.14" />cor sapientis quaerit doctrinam et os stultorum pascetur inperitia<verse eID="proverbs.15.14" />
+        <verse sID="proverbs.15.15" osisID="proverbs.15.15" />omnes dies pauperis mali secura mens quasi iuge convivium<verse eID="proverbs.15.15" />
+        <verse sID="proverbs.15.16" osisID="proverbs.15.16" />melius est parum cum timore Domini quam thesauri magni et insatiabiles<verse eID="proverbs.15.16" />
+        <verse sID="proverbs.15.17" osisID="proverbs.15.17" />melius est vocare ad holera cum caritate quam ad vitulum saginatum cum odio<verse eID="proverbs.15.17" />
+        <verse sID="proverbs.15.18" osisID="proverbs.15.18" />vir iracundus provocat rixas qui patiens est mitigat suscitatas<verse eID="proverbs.15.18" />
+        <verse sID="proverbs.15.19" osisID="proverbs.15.19" />iter pigrorum quasi sepes spinarum via iustorum absque offendiculo<verse eID="proverbs.15.19" />
+        <verse sID="proverbs.15.20" osisID="proverbs.15.20" />filius sapiens laetificat patrem et stultus homo despicit matrem suam<verse eID="proverbs.15.20" />
+        <verse sID="proverbs.15.21" osisID="proverbs.15.21" />stultitia gaudium stulto et vir prudens dirigit gressus<verse eID="proverbs.15.21" />
+        <verse sID="proverbs.15.22" osisID="proverbs.15.22" />dissipantur cogitationes ubi non est consilium ubi vero plures sunt consiliarii confirmantur<verse eID="proverbs.15.22" />
+        <verse sID="proverbs.15.23" osisID="proverbs.15.23" />laetatur homo in sententia oris sui et sermo oportunus est optimus<verse eID="proverbs.15.23" />
+        <verse sID="proverbs.15.24" osisID="proverbs.15.24" />semita vitae super eruditum ut declinet de inferno novissimo<verse eID="proverbs.15.24" />
+        <verse sID="proverbs.15.25" osisID="proverbs.15.25" />domum superborum demolietur Dominus et firmos facit terminos viduae<verse eID="proverbs.15.25" />
+        <verse sID="proverbs.15.26" osisID="proverbs.15.26" />abominatio Domini cogitationes malae et purus sermo pulcherrimus<verse eID="proverbs.15.26" />
+        <verse sID="proverbs.15.27" osisID="proverbs.15.27" />conturbat domum suam qui sectatur avaritiam qui autem odit munera vivet<verse eID="proverbs.15.27" />
+        <verse sID="proverbs.15.28" osisID="proverbs.15.28" />mens iusti meditatur oboedientiam os impiorum redundat malis<verse eID="proverbs.15.28" />
+        <verse sID="proverbs.15.29" osisID="proverbs.15.29" />longe est Dominus ab impiis et orationes iustorum exaudiet<verse eID="proverbs.15.29" />
+        <verse sID="proverbs.15.30" osisID="proverbs.15.30" />lux oculorum laetificat animam fama bona inpinguat ossa<verse eID="proverbs.15.30" />
+        <verse sID="proverbs.15.31" osisID="proverbs.15.31" />auris quae audit increpationes vitae in medio sapientium commorabitur<verse eID="proverbs.15.31" />
+        <verse sID="proverbs.15.32" osisID="proverbs.15.32" />qui abicit disciplinam despicit animam suam qui adquiescit increpationibus possessor est cordis<verse eID="proverbs.15.32" />
+        <verse sID="proverbs.15.33" osisID="proverbs.15.33" />timor Domini disciplina sapientiae et gloriam praecedit humilitas<verse eID="proverbs.15.33" />
+      </p>
+      <chapter eID="proverbs.15" />
+      <chapter sID="proverbs.16" osisID="proverbs.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="proverbs.16.1" osisID="proverbs.16.1" />hominis est animum praeparare et Dei gubernare linguam<verse eID="proverbs.16.1" />
+        <verse sID="proverbs.16.2" osisID="proverbs.16.2" />omnes viae hominum patent oculis eius spirituum ponderator est Dominus<verse eID="proverbs.16.2" />
+        <verse sID="proverbs.16.3" osisID="proverbs.16.3" />revela Domino opera tua et dirigentur cogitationes tuae<verse eID="proverbs.16.3" />
+        <verse sID="proverbs.16.4" osisID="proverbs.16.4" />universa propter semet ipsum operatus est Dominus impium quoque ad diem malum<verse eID="proverbs.16.4" />
+        <verse sID="proverbs.16.5" osisID="proverbs.16.5" />abominatio Domini omnis arrogans etiam si manus ad manum fuerit non erit innocens<verse eID="proverbs.16.5" />
+        <verse sID="proverbs.16.6" osisID="proverbs.16.6" />misericordia et veritate redimitur iniquitas et in timore Domini declinatur a malo<verse eID="proverbs.16.6" />
+        <verse sID="proverbs.16.7" osisID="proverbs.16.7" />cum placuerint Domino viae hominis inimicos quoque eius convertet ad pacem<verse eID="proverbs.16.7" />
+        <verse sID="proverbs.16.8" osisID="proverbs.16.8" />melius est parum cum iustitia quam multi fructus cum iniquitate<verse eID="proverbs.16.8" />
+        <verse sID="proverbs.16.9" osisID="proverbs.16.9" />cor hominis disponet viam suam sed Domini est dirigere gressus eius<verse eID="proverbs.16.9" />
+        <verse sID="proverbs.16.10" osisID="proverbs.16.10" />divinatio in labiis regis in iudicio non errabit os eius<verse eID="proverbs.16.10" />
+        <verse sID="proverbs.16.11" osisID="proverbs.16.11" />pondus et statera iudicia Domini sunt et opera eius omnes lapides sacculi<verse eID="proverbs.16.11" />
+        <verse sID="proverbs.16.12" osisID="proverbs.16.12" />abominabiles regi qui agunt impie quoniam iustitia firmatur solium<verse eID="proverbs.16.12" />
+        <verse sID="proverbs.16.13" osisID="proverbs.16.13" />voluntas regum labia iusta qui recta loquitur diligetur<verse eID="proverbs.16.13" />
+        <verse sID="proverbs.16.14" osisID="proverbs.16.14" />indignatio regis nuntii mortis et vir sapiens placabit eam<verse eID="proverbs.16.14" />
+        <verse sID="proverbs.16.15" osisID="proverbs.16.15" />in hilaritate vultus regis vita et clementia eius quasi imber serotinus<verse eID="proverbs.16.15" />
+        <verse sID="proverbs.16.16" osisID="proverbs.16.16" />posside sapientiam quia auro melior est et adquire prudentiam quia pretiosior est argento<verse eID="proverbs.16.16" />
+        <verse sID="proverbs.16.17" osisID="proverbs.16.17" />semita iustorum declinat mala custos animae suae servat viam suam<verse eID="proverbs.16.17" />
+        <verse sID="proverbs.16.18" osisID="proverbs.16.18" />contritionem praecedit superbia et ante ruinam exaltatur spiritus<verse eID="proverbs.16.18" />
+        <verse sID="proverbs.16.19" osisID="proverbs.16.19" />melius est humiliari cum mitibus quam dividere spolia cum superbis<verse eID="proverbs.16.19" />
+        <verse sID="proverbs.16.20" osisID="proverbs.16.20" />eruditus in verbo repperiet bona et qui in Domino sperat beatus est<verse eID="proverbs.16.20" />
+        <verse sID="proverbs.16.21" osisID="proverbs.16.21" />qui sapiens corde est appellabitur prudens et qui dulcis eloquio maiora percipiet<verse eID="proverbs.16.21" />
+        <verse sID="proverbs.16.22" osisID="proverbs.16.22" />fons vitae eruditio possidentis doctrina stultorum fatuitas<verse eID="proverbs.16.22" />
+        <verse sID="proverbs.16.23" osisID="proverbs.16.23" />cor sapientis erudiet os eius et labiis illius addet gratiam<verse eID="proverbs.16.23" />
+        <verse sID="proverbs.16.24" osisID="proverbs.16.24" />favus mellis verba conposita dulcedo animae et sanitas ossuum<verse eID="proverbs.16.24" />
+        <verse sID="proverbs.16.25" osisID="proverbs.16.25" />est via quae videtur homini recta et novissimum eius ducit ad mortem<verse eID="proverbs.16.25" />
+        <verse sID="proverbs.16.26" osisID="proverbs.16.26" />anima laborantis laborat sibi quia conpulit eum os suum<verse eID="proverbs.16.26" />
+        <verse sID="proverbs.16.27" osisID="proverbs.16.27" />vir impius fodit malum et in labiis eius ignis ardescit<verse eID="proverbs.16.27" />
+        <verse sID="proverbs.16.28" osisID="proverbs.16.28" />homo perversus suscitat lites et verbosus separat principes<verse eID="proverbs.16.28" />
+        <verse sID="proverbs.16.29" osisID="proverbs.16.29" />vir iniquus lactat amicum suum et ducit eum per viam non bonam<verse eID="proverbs.16.29" />
+        <verse sID="proverbs.16.30" osisID="proverbs.16.30" />qui adtonitis oculis cogitat prava mordens labia sua perficit malum<verse eID="proverbs.16.30" />
+        <verse sID="proverbs.16.31" osisID="proverbs.16.31" />corona dignitatis senectus in viis iustitiae repperietur<verse eID="proverbs.16.31" />
+        <verse sID="proverbs.16.32" osisID="proverbs.16.32" />melior est patiens viro forte et qui dominatur animo suo expugnatore urbium<verse eID="proverbs.16.32" />
+        <verse sID="proverbs.16.33" osisID="proverbs.16.33" />sortes mittuntur in sinu sed a Domino temperantur<verse eID="proverbs.16.33" />
+      </p>
+      <chapter eID="proverbs.16" />
+      <chapter sID="proverbs.17" osisID="proverbs.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="proverbs.17.1" osisID="proverbs.17.1" />melior est buccella sicca cum gaudio quam domus plena victimis cum iurgio<verse eID="proverbs.17.1" />
+        <verse sID="proverbs.17.2" osisID="proverbs.17.2" />servus sapiens dominabitur filiis stultis et inter fratres hereditatem dividet<verse eID="proverbs.17.2" />
+        <verse sID="proverbs.17.3" osisID="proverbs.17.3" />sicut igne probatur argentum et aurum camino ita corda probat Dominus<verse eID="proverbs.17.3" />
+        <verse sID="proverbs.17.4" osisID="proverbs.17.4" />malus oboedit linguae iniquae et fallax obtemperat labiis mendacibus<verse eID="proverbs.17.4" />
+        <verse sID="proverbs.17.5" osisID="proverbs.17.5" />qui despicit pauperem exprobrat factori eius et qui in ruina laetatur alterius non erit inpunitus<verse eID="proverbs.17.5" />
+        <verse sID="proverbs.17.6" osisID="proverbs.17.6" />corona senum filii filiorum et gloria filiorum patres sui<verse eID="proverbs.17.6" />
+        <verse sID="proverbs.17.7" osisID="proverbs.17.7" />non decent stultum verba conposita nec principem labium mentiens<verse eID="proverbs.17.7" />
+        <verse sID="proverbs.17.8" osisID="proverbs.17.8" />gemma gratissima expectatio praestolantis quocumque se verterit prudenter intellegit<verse eID="proverbs.17.8" />
+        <verse sID="proverbs.17.9" osisID="proverbs.17.9" />qui celat delictum quaerit amicitias qui altero sermone repetit separat foederatos<verse eID="proverbs.17.9" />
+        <verse sID="proverbs.17.10" osisID="proverbs.17.10" />plus proficit correptio apud prudentem quam centum plagae apud stultum<verse eID="proverbs.17.10" />
+        <verse sID="proverbs.17.11" osisID="proverbs.17.11" />semper iurgia quaerit malus angelus autem crudelis mittetur contra eum<verse eID="proverbs.17.11" />
+        <verse sID="proverbs.17.12" osisID="proverbs.17.12" />expedit magis ursae occurrere raptis fetibus quam fatuo confidenti sibi in stultitia sua<verse eID="proverbs.17.12" />
+        <verse sID="proverbs.17.13" osisID="proverbs.17.13" />qui reddit mala pro bonis non recedet malum de domo eius<verse eID="proverbs.17.13" />
+        <verse sID="proverbs.17.14" osisID="proverbs.17.14" />qui dimittit aquam caput est iurgiorum et antequam patiatur contumeliam iudicium deserit<verse eID="proverbs.17.14" />
+        <verse sID="proverbs.17.15" osisID="proverbs.17.15" />et qui iustificat impium et qui condemnat iustum abominabilis est uterque apud Dominum<verse eID="proverbs.17.15" />
+        <verse sID="proverbs.17.16" osisID="proverbs.17.16" />quid prodest habere divitias stultum cum sapientiam emere non possit<verse eID="proverbs.17.16" />
+        <verse sID="proverbs.17.17" osisID="proverbs.17.17" />omni tempore diligit qui amicus est et frater in angustiis conprobatur<verse eID="proverbs.17.17" />
+        <verse sID="proverbs.17.18" osisID="proverbs.17.18" />homo stultus plaudet manibus cum spoponderit pro amico suo<verse eID="proverbs.17.18" />
+        <verse sID="proverbs.17.19" osisID="proverbs.17.19" />qui meditatur discordiam diligit rixas et qui exaltat ostium quaerit ruinam<verse eID="proverbs.17.19" />
+        <verse sID="proverbs.17.20" osisID="proverbs.17.20" />qui perversi cordis est non inveniet bonum et qui vertit linguam incidet in malum<verse eID="proverbs.17.20" />
+        <verse sID="proverbs.17.21" osisID="proverbs.17.21" />natus est stultus in ignominiam suam sed nec pater in fatuo laetabitur<verse eID="proverbs.17.21" />
+        <verse sID="proverbs.17.22" osisID="proverbs.17.22" />animus gaudens aetatem floridam facit spiritus tristis exsiccat ossa<verse eID="proverbs.17.22" />
+        <verse sID="proverbs.17.23" osisID="proverbs.17.23" />munera de sinu impius accipit ut pervertat semitas iudicii<verse eID="proverbs.17.23" />
+        <verse sID="proverbs.17.24" osisID="proverbs.17.24" />in facie prudentis lucet sapientia oculi stultorum in finibus terrae<verse eID="proverbs.17.24" />
+        <verse sID="proverbs.17.25" osisID="proverbs.17.25" />ira patris filius stultus et dolor matris quae genuit eum<verse eID="proverbs.17.25" />
+        <verse sID="proverbs.17.26" osisID="proverbs.17.26" />non est bonum damnum inferre iusto nec percutere principem qui recta iudicat<verse eID="proverbs.17.26" />
+        <verse sID="proverbs.17.27" osisID="proverbs.17.27" />qui moderatur sermones suos doctus et prudens est et pretiosi spiritus vir eruditus<verse eID="proverbs.17.27" />
+        <verse sID="proverbs.17.28" osisID="proverbs.17.28" />stultus quoque si tacuerit sapiens putabitur et si conpresserit labia sua intellegens<verse eID="proverbs.17.28" />
+      </p>
+      <chapter eID="proverbs.17" />
+      <chapter sID="proverbs.18" osisID="proverbs.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="proverbs.18.1" osisID="proverbs.18.1" />occasiones quaerit qui vult recedere ab amico omni tempore erit exprobrabilis<verse eID="proverbs.18.1" />
+        <verse sID="proverbs.18.2" osisID="proverbs.18.2" />non recipit stultus verba prudentiae nisi ea dixeris quae versantur in corde eius<verse eID="proverbs.18.2" />
+        <verse sID="proverbs.18.3" osisID="proverbs.18.3" />impius cum in profundum venerit peccatorum contemnit sed sequitur eum ignominia et obprobrium<verse eID="proverbs.18.3" />
+        <verse sID="proverbs.18.4" osisID="proverbs.18.4" />aqua profunda verba ex ore viri et torrens redundans fons sapientiae<verse eID="proverbs.18.4" />
+        <verse sID="proverbs.18.5" osisID="proverbs.18.5" />accipere personam impii non est bonum ut declines a veritate iudicii<verse eID="proverbs.18.5" />
+        <verse sID="proverbs.18.6" osisID="proverbs.18.6" />labia stulti inmiscunt se rixis et os eius iurgia provocat<verse eID="proverbs.18.6" />
+        <verse sID="proverbs.18.7" osisID="proverbs.18.7" />os stulti contritio eius et labia illius ruina animae eius<verse eID="proverbs.18.7" />
+        <verse sID="proverbs.18.8" osisID="proverbs.18.8" />verba bilinguis quasi simplicia et ipsa perveniunt usque ad interiora ventris<verse eID="proverbs.18.8" />
+        <verse sID="proverbs.18.9" osisID="proverbs.18.9" />qui mollis et dissolutus est in opere suo frater est sua opera dissipantis<verse eID="proverbs.18.9" />
+        <verse sID="proverbs.18.10" osisID="proverbs.18.10" />turris fortissima nomen Domini ad ipsum currit iustus et exaltabitur<verse eID="proverbs.18.10" />
+        <verse sID="proverbs.18.11" osisID="proverbs.18.11" />substantia divitis urbs roboris eius et quasi murus validus circumdans eum<verse eID="proverbs.18.11" />
+        <verse sID="proverbs.18.12" osisID="proverbs.18.12" />antequam conteratur exaltatur cor hominis et antequam glorificetur humiliatur<verse eID="proverbs.18.12" />
+        <verse sID="proverbs.18.13" osisID="proverbs.18.13" />qui prius respondit quam audiat stultum se esse demonstrat et confusione dignum<verse eID="proverbs.18.13" />
+        <verse sID="proverbs.18.14" osisID="proverbs.18.14" />spiritus viri sustentat inbecillitatem suam spiritum vero ad irascendum facilem quis poterit sustinere<verse eID="proverbs.18.14" />
+        <verse sID="proverbs.18.15" osisID="proverbs.18.15" />cor prudens possidebit scientiam et auris sapientium quaerit doctrinam<verse eID="proverbs.18.15" />
+        <verse sID="proverbs.18.16" osisID="proverbs.18.16" />donum hominis dilatat viam eius et ante principes spatium ei facit<verse eID="proverbs.18.16" />
+        <verse sID="proverbs.18.17" osisID="proverbs.18.17" />iustus prior est accusator sui venit amicus eius et investigavit eum<verse eID="proverbs.18.17" />
+        <verse sID="proverbs.18.18" osisID="proverbs.18.18" />contradictiones conprimit sors et inter potentes quoque diiudicat<verse eID="proverbs.18.18" />
+        <verse sID="proverbs.18.19" osisID="proverbs.18.19" />frater qui adiuvatur a fratre quasi civitas firma et iudicia quasi vectes urbium<verse eID="proverbs.18.19" />
+        <verse sID="proverbs.18.20" osisID="proverbs.18.20" />de fructu oris viri replebitur venter eius et genimina labiorum illius saturabunt eum<verse eID="proverbs.18.20" />
+        <verse sID="proverbs.18.21" osisID="proverbs.18.21" />mors et vita in manu linguae qui diligunt eam comedent fructus eius<verse eID="proverbs.18.21" />
+        <verse sID="proverbs.18.22" osisID="proverbs.18.22" />qui invenit mulierem invenit bonum et hauriet iucunditatem a Domino<verse eID="proverbs.18.22" />
+        <verse sID="proverbs.18.23" osisID="proverbs.18.23" />cum obsecrationibus loquetur pauper et dives effabitur rigide<verse eID="proverbs.18.23" />
+        <verse sID="proverbs.18.24" osisID="proverbs.18.24" />vir amicalis ad societatem magis amicus erit quam frater<verse eID="proverbs.18.24" />
+      </p>
+      <chapter eID="proverbs.18" />
+      <chapter sID="proverbs.19" osisID="proverbs.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="proverbs.19.1" osisID="proverbs.19.1" />melior est pauper qui ambulat in simplicitate sua quam torquens labia insipiens<verse eID="proverbs.19.1" />
+        <verse sID="proverbs.19.2" osisID="proverbs.19.2" />ubi non est scientia animae non est bonum et qui festinus est pedibus offendit<verse eID="proverbs.19.2" />
+        <verse sID="proverbs.19.3" osisID="proverbs.19.3" />stultitia hominis subplantat gressus eius et contra Deum fervet animo suo<verse eID="proverbs.19.3" />
+        <verse sID="proverbs.19.4" osisID="proverbs.19.4" />divitiae addunt amicos plurimos a paupere autem et hii quos habuit separantur<verse eID="proverbs.19.4" />
+        <verse sID="proverbs.19.5" osisID="proverbs.19.5" />testis falsus non erit inpunitus et qui mendacia loquitur non effugiet<verse eID="proverbs.19.5" />
+        <verse sID="proverbs.19.6" osisID="proverbs.19.6" />multi colunt personam potentis et amici sunt dona tribuenti<verse eID="proverbs.19.6" />
+        <verse sID="proverbs.19.7" osisID="proverbs.19.7" />fratres hominis pauperis oderunt eum insuper et amici procul recesserunt ab eo qui tantum verba sectatur nihil habebit<verse eID="proverbs.19.7" />
+        <verse sID="proverbs.19.8" osisID="proverbs.19.8" />qui autem possessor est mentis diligit animam suam et custos prudentiae inveniet bona<verse eID="proverbs.19.8" />
+        <verse sID="proverbs.19.9" osisID="proverbs.19.9" />testis falsus non erit inpunitus et qui loquitur mendacia peribit<verse eID="proverbs.19.9" />
+        <verse sID="proverbs.19.10" osisID="proverbs.19.10" />non decent stultum deliciae nec servum dominari principibus<verse eID="proverbs.19.10" />
+        <verse sID="proverbs.19.11" osisID="proverbs.19.11" />doctrina viri per patientiam noscitur et gloria eius est iniqua praetergredi<verse eID="proverbs.19.11" />
+        <verse sID="proverbs.19.12" osisID="proverbs.19.12" />sicut fremitus leonis ita et regis ira et sicut ros super herbam ita hilaritas eius<verse eID="proverbs.19.12" />
+        <verse sID="proverbs.19.13" osisID="proverbs.19.13" />dolor patris filius stultus et tecta iugiter perstillantia litigiosa mulier<verse eID="proverbs.19.13" />
+        <verse sID="proverbs.19.14" osisID="proverbs.19.14" />domus et divitiae dantur a patribus a Domino autem proprie uxor prudens<verse eID="proverbs.19.14" />
+        <verse sID="proverbs.19.15" osisID="proverbs.19.15" />pigredo inmittit soporem et anima dissoluta esuriet<verse eID="proverbs.19.15" />
+        <verse sID="proverbs.19.16" osisID="proverbs.19.16" />qui custodit mandatum custodit animam suam qui autem neglegit vias suas mortificabitur<verse eID="proverbs.19.16" />
+        <verse sID="proverbs.19.17" osisID="proverbs.19.17" />feneratur Domino qui miseretur pauperis et vicissitudinem suam reddet ei<verse eID="proverbs.19.17" />
+        <verse sID="proverbs.19.18" osisID="proverbs.19.18" />erudi filium tuum ne desperes ad interfectionem autem eius ne ponas animam tuam<verse eID="proverbs.19.18" />
+        <verse sID="proverbs.19.19" osisID="proverbs.19.19" />qui inpatiens est sustinebit damnum et cum rapuerit aliud adponet<verse eID="proverbs.19.19" />
+        <verse sID="proverbs.19.20" osisID="proverbs.19.20" />audi consilium et suscipe disciplinam ut sis sapiens in novissimis tuis<verse eID="proverbs.19.20" />
+        <verse sID="proverbs.19.21" osisID="proverbs.19.21" />multae cogitationes in corde viri voluntas autem Domini permanebit<verse eID="proverbs.19.21" />
+        <verse sID="proverbs.19.22" osisID="proverbs.19.22" />homo indigens misericors est et melior pauper quam vir mendax<verse eID="proverbs.19.22" />
+        <verse sID="proverbs.19.23" osisID="proverbs.19.23" />timor Domini ad vitam et in plenitudine commorabitur absque visitatione pessimi<verse eID="proverbs.19.23" />
+        <verse sID="proverbs.19.24" osisID="proverbs.19.24" />abscondit piger manum suam sub ascella nec ad os suum adplicat eam<verse eID="proverbs.19.24" />
+        <verse sID="proverbs.19.25" osisID="proverbs.19.25" />pestilente flagellato stultus sapientior erit sin autem corripueris sapientem intelleget disciplinam<verse eID="proverbs.19.25" />
+        <verse sID="proverbs.19.26" osisID="proverbs.19.26" />qui adfligit patrem et fugat matrem ignominiosus est et infelix<verse eID="proverbs.19.26" />
+        <verse sID="proverbs.19.27" osisID="proverbs.19.27" />non cesses fili audire doctrinam nec ignores sermones scientiae<verse eID="proverbs.19.27" />
+        <verse sID="proverbs.19.28" osisID="proverbs.19.28" />testis iniquus deridet iudicium et os impiorum devorat iniquitatem<verse eID="proverbs.19.28" />
+        <verse sID="proverbs.19.29" osisID="proverbs.19.29" />parata sunt derisoribus iudicia et mallei percutientes stultorum corporibus<verse eID="proverbs.19.29" />
+      </p>
+      <chapter eID="proverbs.19" />
+      <chapter sID="proverbs.20" osisID="proverbs.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="proverbs.20.1" osisID="proverbs.20.1" />luxuriosa res vinum et tumultuosa ebrietas quicumque his delectatur non erit sapiens<verse eID="proverbs.20.1" />
+        <verse sID="proverbs.20.2" osisID="proverbs.20.2" />sicut rugitus leonis ita terror regis qui provocat eum peccat in animam suam<verse eID="proverbs.20.2" />
+        <verse sID="proverbs.20.3" osisID="proverbs.20.3" />honor est homini qui separat se a contentionibus omnes autem stulti miscentur contumeliis<verse eID="proverbs.20.3" />
+        <verse sID="proverbs.20.4" osisID="proverbs.20.4" />propter frigus piger arare noluit mendicabit ergo aestate et non dabitur ei<verse eID="proverbs.20.4" />
+        <verse sID="proverbs.20.5" osisID="proverbs.20.5" />sicut aqua profunda sic consilium in corde viri sed homo sapiens exhauriet illud<verse eID="proverbs.20.5" />
+        <verse sID="proverbs.20.6" osisID="proverbs.20.6" />multi homines misericordes vocantur virum autem fidelem quis inveniet<verse eID="proverbs.20.6" />
+        <verse sID="proverbs.20.7" osisID="proverbs.20.7" />iustus qui ambulat in simplicitate sua beatos post se filios derelinquet<verse eID="proverbs.20.7" />
+        <verse sID="proverbs.20.8" osisID="proverbs.20.8" />rex qui sedet in solio iudicii dissipat omne malum intuitu suo<verse eID="proverbs.20.8" />
+        <verse sID="proverbs.20.9" osisID="proverbs.20.9" />quis potest dicere mundum est cor meum purus sum a peccato<verse eID="proverbs.20.9" />
+        <verse sID="proverbs.20.10" osisID="proverbs.20.10" />pondus et pondus mensura et mensura utrumque abominabile est apud Deum<verse eID="proverbs.20.10" />
+        <verse sID="proverbs.20.11" osisID="proverbs.20.11" />ex studiis suis intellegitur puer si munda et si recta sint opera eius<verse eID="proverbs.20.11" />
+        <verse sID="proverbs.20.12" osisID="proverbs.20.12" />aurem audientem et oculum videntem Dominus fecit utrumque<verse eID="proverbs.20.12" />
+        <verse sID="proverbs.20.13" osisID="proverbs.20.13" />noli diligere somnum ne te egestas opprimat aperi oculos tuos et saturare panibus<verse eID="proverbs.20.13" />
+        <verse sID="proverbs.20.14" osisID="proverbs.20.14" />malum est malum est dicit omnis emptor et cum recesserit tunc gloriabitur<verse eID="proverbs.20.14" />
+        <verse sID="proverbs.20.15" osisID="proverbs.20.15" />est aurum et multitudo gemmarum vas autem pretiosum labia scientiae<verse eID="proverbs.20.15" />
+        <verse sID="proverbs.20.16" osisID="proverbs.20.16" />tolle vestimentum eius qui fideiussor extitit alieni et pro extraneis aufer pignus ab eo<verse eID="proverbs.20.16" />
+        <verse sID="proverbs.20.17" osisID="proverbs.20.17" />suavis est homini panis mendacii et postea implebitur os eius calculo<verse eID="proverbs.20.17" />
+        <verse sID="proverbs.20.18" osisID="proverbs.20.18" />cogitationes consiliis roborantur et gubernaculis tractanda sunt bella<verse eID="proverbs.20.18" />
+        <verse sID="proverbs.20.19" osisID="proverbs.20.19" />ei qui revelat mysteria et ambulat fraudulenter et dilatat labia sua ne commiscearis<verse eID="proverbs.20.19" />
+        <verse sID="proverbs.20.20" osisID="proverbs.20.20" />qui maledicit patri suo et matri extinguetur lucerna eius in mediis tenebris<verse eID="proverbs.20.20" />
+        <verse sID="proverbs.20.21" osisID="proverbs.20.21" />hereditas ad quam festinatur in principio in novissimo benedictione carebit<verse eID="proverbs.20.21" />
+        <verse sID="proverbs.20.22" osisID="proverbs.20.22" />ne dicas reddam malum expecta Dominum et liberabit te<verse eID="proverbs.20.22" />
+        <verse sID="proverbs.20.23" osisID="proverbs.20.23" />abominatio est apud Deum pondus et pondus statera dolosa non est bona<verse eID="proverbs.20.23" />
+        <verse sID="proverbs.20.24" osisID="proverbs.20.24" />a Domino diriguntur gressus viri quis autem hominum intellegere potest viam suam<verse eID="proverbs.20.24" />
+        <verse sID="proverbs.20.25" osisID="proverbs.20.25" />ruina est hominis devorare sanctos et post vota tractare<verse eID="proverbs.20.25" />
+        <verse sID="proverbs.20.26" osisID="proverbs.20.26" />dissipat impios rex sapiens et curvat super eos fornicem<verse eID="proverbs.20.26" />
+        <verse sID="proverbs.20.27" osisID="proverbs.20.27" />lucerna Domini spiraculum hominis quae investigat omnia secreta ventris<verse eID="proverbs.20.27" />
+        <verse sID="proverbs.20.28" osisID="proverbs.20.28" />misericordia et veritas custodiunt regem et roboratur clementia thronus eius<verse eID="proverbs.20.28" />
+        <verse sID="proverbs.20.29" osisID="proverbs.20.29" />exultatio iuvenum fortitudo eorum et dignitas senum canities<verse eID="proverbs.20.29" />
+        <verse sID="proverbs.20.30" osisID="proverbs.20.30" />livor vulneris absterget mala et plagae in secretioribus ventris<verse eID="proverbs.20.30" />
+      </p>
+      <chapter eID="proverbs.20" />
+      <chapter sID="proverbs.21" osisID="proverbs.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="proverbs.21.1" osisID="proverbs.21.1" />sicut divisiones aquarum ita cor regis in manu Domini quocumque voluerit inclinabit illud<verse eID="proverbs.21.1" />
+        <verse sID="proverbs.21.2" osisID="proverbs.21.2" />omnis via viri recta sibi videtur adpendit autem corda Dominus<verse eID="proverbs.21.2" />
+        <verse sID="proverbs.21.3" osisID="proverbs.21.3" />facere misericordiam et iudicium magis placent Domino quam victimae<verse eID="proverbs.21.3" />
+        <verse sID="proverbs.21.4" osisID="proverbs.21.4" />exaltatio oculorum et dilatatio cordis lucerna impiorum peccatum<verse eID="proverbs.21.4" />
+        <verse sID="proverbs.21.5" osisID="proverbs.21.5" />cogitationes robusti semper in abundantia omnis autem piger semper in egestate<verse eID="proverbs.21.5" />
+        <verse sID="proverbs.21.6" osisID="proverbs.21.6" />qui congregat thesauros lingua mendacii vanus est et inpingetur ad laqueos mortis<verse eID="proverbs.21.6" />
+        <verse sID="proverbs.21.7" osisID="proverbs.21.7" />rapinae impiorum detrahent eos quia noluerunt facere iudicium<verse eID="proverbs.21.7" />
+        <verse sID="proverbs.21.8" osisID="proverbs.21.8" />perversa via viri aliena est qui autem mundus est rectum opus eius<verse eID="proverbs.21.8" />
+        <verse sID="proverbs.21.9" osisID="proverbs.21.9" />melius est sedere in angulo domatis quam cum muliere litigiosa et in domo communi<verse eID="proverbs.21.9" />
+        <verse sID="proverbs.21.10" osisID="proverbs.21.10" />anima impii desiderat malum non miserebitur proximo suo<verse eID="proverbs.21.10" />
+        <verse sID="proverbs.21.11" osisID="proverbs.21.11" />multato pestilente sapientior erit parvulus et si sectetur sapientem sumet scientiam<verse eID="proverbs.21.11" />
+        <verse sID="proverbs.21.12" osisID="proverbs.21.12" />excogitat iustus de domo impii ut detrahat impios in malum<verse eID="proverbs.21.12" />
+        <verse sID="proverbs.21.13" osisID="proverbs.21.13" />qui obturat aurem suam ad clamorem pauperis et ipse clamabit et non exaudietur<verse eID="proverbs.21.13" />
+        <verse sID="proverbs.21.14" osisID="proverbs.21.14" />munus absconditum extinguet iras et donum in sinu indignationem maximam<verse eID="proverbs.21.14" />
+        <verse sID="proverbs.21.15" osisID="proverbs.21.15" />gaudium iusto est facere iudicium et pavor operantibus iniquitatem<verse eID="proverbs.21.15" />
+        <verse sID="proverbs.21.16" osisID="proverbs.21.16" />vir qui erraverit a via doctrinae in coetu gigantum commorabitur<verse eID="proverbs.21.16" />
+        <verse sID="proverbs.21.17" osisID="proverbs.21.17" />qui diligit epulas in egestate erit qui amat vinum et pinguia non ditabitur<verse eID="proverbs.21.17" />
+        <verse sID="proverbs.21.18" osisID="proverbs.21.18" />pro iusto datur impius et pro rectis iniquus<verse eID="proverbs.21.18" />
+        <verse sID="proverbs.21.19" osisID="proverbs.21.19" />melius est habitare in terra deserta quam cum muliere rixosa et iracunda<verse eID="proverbs.21.19" />
+        <verse sID="proverbs.21.20" osisID="proverbs.21.20" />thesaurus desiderabilis et oleum in habitaculo iusti et inprudens homo dissipabit illud<verse eID="proverbs.21.20" />
+        <verse sID="proverbs.21.21" osisID="proverbs.21.21" />qui sequitur iustitiam et misericordiam inveniet vitam et iustitiam et gloriam<verse eID="proverbs.21.21" />
+        <verse sID="proverbs.21.22" osisID="proverbs.21.22" />civitatem fortium ascendit sapiens et destruxit robur fiduciae eius<verse eID="proverbs.21.22" />
+        <verse sID="proverbs.21.23" osisID="proverbs.21.23" />qui custodit os suum et linguam suam custodit ab angustiis animam suam<verse eID="proverbs.21.23" />
+        <verse sID="proverbs.21.24" osisID="proverbs.21.24" />superbus et arrogans vocatur indoctus qui in ira operatur superbiam<verse eID="proverbs.21.24" />
+        <verse sID="proverbs.21.25" osisID="proverbs.21.25" />desideria occidunt pigrum noluerunt enim quicquam manus eius operari<verse eID="proverbs.21.25" />
+        <verse sID="proverbs.21.26" osisID="proverbs.21.26" />tota die concupiscit et desiderat qui autem iustus est tribuet et non cessabit<verse eID="proverbs.21.26" />
+        <verse sID="proverbs.21.27" osisID="proverbs.21.27" />hostiae impiorum abominabiles quia offeruntur ex scelere<verse eID="proverbs.21.27" />
+        <verse sID="proverbs.21.28" osisID="proverbs.21.28" />testis mendax peribit vir oboediens loquitur victoriam<verse eID="proverbs.21.28" />
+        <verse sID="proverbs.21.29" osisID="proverbs.21.29" />vir impius procaciter obfirmat vultum suum qui autem rectus est corrigit viam suam<verse eID="proverbs.21.29" />
+        <verse sID="proverbs.21.30" osisID="proverbs.21.30" />non est sapientia non est prudentia non est consilium contra Dominum<verse eID="proverbs.21.30" />
+        <verse sID="proverbs.21.31" osisID="proverbs.21.31" />equus paratur ad diem belli Dominus autem salutem tribuet<verse eID="proverbs.21.31" />
+      </p>
+      <chapter eID="proverbs.21" />
+      <chapter sID="proverbs.22" osisID="proverbs.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="proverbs.22.1" osisID="proverbs.22.1" />melius est nomen bonum quam divitiae multae super argentum et aurum gratia bona<verse eID="proverbs.22.1" />
+        <verse sID="proverbs.22.2" osisID="proverbs.22.2" />dives et pauper obviaverunt sibi utriusque operator est Dominus<verse eID="proverbs.22.2" />
+        <verse sID="proverbs.22.3" osisID="proverbs.22.3" />callidus vidit malum et abscondit se innocens pertransiit et adflictus est damno<verse eID="proverbs.22.3" />
+        <verse sID="proverbs.22.4" osisID="proverbs.22.4" />finis modestiae timor Domini divitiae et gloria et vita<verse eID="proverbs.22.4" />
+        <verse sID="proverbs.22.5" osisID="proverbs.22.5" />arma et gladii in via perversi custos animae suae longe recedit ab eis<verse eID="proverbs.22.5" />
+        <verse sID="proverbs.22.6" osisID="proverbs.22.6" />proverbium est adulescens iuxta viam suam etiam cum senuerit non recedet ab ea<verse eID="proverbs.22.6" />
+        <verse sID="proverbs.22.7" osisID="proverbs.22.7" />dives pauperibus imperat et qui accipit mutuum servus est fenerantis<verse eID="proverbs.22.7" />
+        <verse sID="proverbs.22.8" osisID="proverbs.22.8" />qui seminat iniquitatem metet mala et virga irae suae consummabitur<verse eID="proverbs.22.8" />
+        <verse sID="proverbs.22.9" osisID="proverbs.22.9" />qui pronus est ad misericordiam benedicetur de panibus enim suis dedit pauperi<verse eID="proverbs.22.9" />
+        <verse sID="proverbs.22.10" osisID="proverbs.22.10" />eice derisorem et exibit cum eo iurgium cessabuntque causae et contumeliae<verse eID="proverbs.22.10" />
+        <verse sID="proverbs.22.11" osisID="proverbs.22.11" />qui diligit cordis munditiam propter gratiam labiorum suorum habebit amicum regem<verse eID="proverbs.22.11" />
+        <verse sID="proverbs.22.12" osisID="proverbs.22.12" />oculi Domini custodiunt scientiam et subplantantur verba iniqui<verse eID="proverbs.22.12" />
+        <verse sID="proverbs.22.13" osisID="proverbs.22.13" />dicit piger leo foris in medio platearum occidendus sum<verse eID="proverbs.22.13" />
+        <verse sID="proverbs.22.14" osisID="proverbs.22.14" />fovea profunda os alienae cui iratus est Dominus incidet in eam<verse eID="proverbs.22.14" />
+        <verse sID="proverbs.22.15" osisID="proverbs.22.15" />stultitia conligata est in corde pueri et virga disciplinae fugabit eam<verse eID="proverbs.22.15" />
+        <verse sID="proverbs.22.16" osisID="proverbs.22.16" />qui calumniatur pauperem ut augeat divitias suas dabit ipse ditiori et egebit<verse eID="proverbs.22.16" />
+        <verse sID="proverbs.22.17" osisID="proverbs.22.17" />inclina aurem tuam et audi verba sapientium adpone autem cor ad doctrinam meam<verse eID="proverbs.22.17" />
+        <verse sID="proverbs.22.18" osisID="proverbs.22.18" />quae pulchra erit tibi cum servaveris eam in ventre tuo et redundabit in labiis tuis<verse eID="proverbs.22.18" />
+        <verse sID="proverbs.22.19" osisID="proverbs.22.19" />ut sit in Domino fiducia tua unde et ostendi eam tibi hodie<verse eID="proverbs.22.19" />
+        <verse sID="proverbs.22.20" osisID="proverbs.22.20" />ecce descripsi eam tibi tripliciter in cogitationibus et scientia<verse eID="proverbs.22.20" />
+        <verse sID="proverbs.22.21" osisID="proverbs.22.21" />ut ostenderem tibi firmitatem et eloquia veritatis respondere ex his illi qui misit te<verse eID="proverbs.22.21" />
+        <verse sID="proverbs.22.22" osisID="proverbs.22.22" />non facias violentiam pauperi quia pauper est neque conteras egenum in porta<verse eID="proverbs.22.22" />
+        <verse sID="proverbs.22.23" osisID="proverbs.22.23" />quia Dominus iudicabit causam eius et configet eos qui confixerint animam eius<verse eID="proverbs.22.23" />
+        <verse sID="proverbs.22.24" osisID="proverbs.22.24" />noli esse amicus homini iracundo neque ambules cum viro furioso<verse eID="proverbs.22.24" />
+        <verse sID="proverbs.22.25" osisID="proverbs.22.25" />ne forte discas semitas eius et sumas scandalum animae tuae<verse eID="proverbs.22.25" />
+        <verse sID="proverbs.22.26" osisID="proverbs.22.26" />noli esse cum his qui defigunt manus suas et qui vades se offerunt pro debitis<verse eID="proverbs.22.26" />
+        <verse sID="proverbs.22.27" osisID="proverbs.22.27" />si enim non habes unde restituas quid causae est ut tollat operimentum de cubili tuo<verse eID="proverbs.22.27" />
+        <verse sID="proverbs.22.28" osisID="proverbs.22.28" />ne transgrediaris terminos antiquos quos posuerunt patres tui<verse eID="proverbs.22.28" />
+        <verse sID="proverbs.22.29" osisID="proverbs.22.29" />vidisti virum velocem in opere suo coram regibus stabit nec erit ante ignobiles<verse eID="proverbs.22.29" />
+      </p>
+      <chapter eID="proverbs.22" />
+      <chapter sID="proverbs.23" osisID="proverbs.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="proverbs.23.1" osisID="proverbs.23.1" />quando sederis ut comedas cum principe diligenter adtende quae posita sunt ante faciem tuam<verse eID="proverbs.23.1" />
+        <verse sID="proverbs.23.2" osisID="proverbs.23.2" />et statue cultrum in gutture tuo si tamen habes in potestate animam tuam<verse eID="proverbs.23.2" />
+        <verse sID="proverbs.23.3" osisID="proverbs.23.3" />ne desideres de cibis eius in quo est panis mendacii<verse eID="proverbs.23.3" />
+        <verse sID="proverbs.23.4" osisID="proverbs.23.4" />noli laborare ut diteris sed prudentiae tuae pone modum<verse eID="proverbs.23.4" />
+        <verse sID="proverbs.23.5" osisID="proverbs.23.5" />ne erigas oculos tuos ad opes quas habere non potes quia facient sibi pinnas quasi aquilae et avolabunt in caelum<verse eID="proverbs.23.5" />
+        <verse sID="proverbs.23.6" osisID="proverbs.23.6" />ne comedas cum homine invido et ne desideres cibos eius<verse eID="proverbs.23.6" />
+        <verse sID="proverbs.23.7" osisID="proverbs.23.7" />quoniam in similitudinem arioli et coniectoris aestimat quod ignorat comede et bibe dicet tibi et mens eius non est tecum<verse eID="proverbs.23.7" />
+        <verse sID="proverbs.23.8" osisID="proverbs.23.8" />cibos quos comederas evomes et perdes pulchros sermones tuos<verse eID="proverbs.23.8" />
+        <verse sID="proverbs.23.9" osisID="proverbs.23.9" />in auribus insipientium ne loquaris quia despicient doctrinam eloquii tui<verse eID="proverbs.23.9" />
+        <verse sID="proverbs.23.10" osisID="proverbs.23.10" />ne adtingas terminos parvulorum et agrum pupillorum ne introeas<verse eID="proverbs.23.10" />
+        <verse sID="proverbs.23.11" osisID="proverbs.23.11" />propinquus enim eorum Fortis est et ipse iudicabit contra te causam illorum<verse eID="proverbs.23.11" />
+        <verse sID="proverbs.23.12" osisID="proverbs.23.12" />ingrediatur ad doctrinam cor tuum et aures tuae ad verba scientiae<verse eID="proverbs.23.12" />
+        <verse sID="proverbs.23.13" osisID="proverbs.23.13" />noli subtrahere a puero disciplinam si enim percusseris eum virga non morietur<verse eID="proverbs.23.13" />
+        <verse sID="proverbs.23.14" osisID="proverbs.23.14" />tu virga percuties eum et animam eius de inferno liberabis<verse eID="proverbs.23.14" />
+        <verse sID="proverbs.23.15" osisID="proverbs.23.15" />fili mi si sapiens fuerit animus tuus gaudebit tecum cor meum<verse eID="proverbs.23.15" />
+        <verse sID="proverbs.23.16" osisID="proverbs.23.16" />et exultabunt renes mei cum locuta fuerint rectum labia tua<verse eID="proverbs.23.16" />
+        <verse sID="proverbs.23.17" osisID="proverbs.23.17" />non aemuletur cor tuum peccatores sed in timore Domini esto tota die<verse eID="proverbs.23.17" />
+        <verse sID="proverbs.23.18" osisID="proverbs.23.18" />quia habebis spem in novissimo et praestolatio tua non auferetur<verse eID="proverbs.23.18" />
+        <verse sID="proverbs.23.19" osisID="proverbs.23.19" />audi fili mi et esto sapiens et dirige in via animum tuum<verse eID="proverbs.23.19" />
+        <verse sID="proverbs.23.20" osisID="proverbs.23.20" />noli esse in conviviis potatorum nec in comesationibus eorum qui carnes ad vescendum conferunt<verse eID="proverbs.23.20" />
+        <verse sID="proverbs.23.21" osisID="proverbs.23.21" />quia vacantes potibus et dantes symbola consumentur et vestietur pannis dormitatio<verse eID="proverbs.23.21" />
+        <verse sID="proverbs.23.22" osisID="proverbs.23.22" />audi patrem tuum qui genuit te et ne contemnas cum senuerit mater tua<verse eID="proverbs.23.22" />
+        <verse sID="proverbs.23.23" osisID="proverbs.23.23" />veritatem eme et noli vendere sapientiam et doctrinam et intellegentiam<verse eID="proverbs.23.23" />
+        <verse sID="proverbs.23.24" osisID="proverbs.23.24" />exultat gaudio pater iusti qui sapientem genuit laetabitur in eo<verse eID="proverbs.23.24" />
+        <verse sID="proverbs.23.25" osisID="proverbs.23.25" />gaudeat pater tuus et mater tua et exultet quae genuit te<verse eID="proverbs.23.25" />
+        <verse sID="proverbs.23.26" osisID="proverbs.23.26" />praebe fili mi cor tuum mihi et oculi tui vias meas custodiant<verse eID="proverbs.23.26" />
+        <verse sID="proverbs.23.27" osisID="proverbs.23.27" />fovea enim profunda est meretrix et puteus angustus aliena<verse eID="proverbs.23.27" />
+        <verse sID="proverbs.23.28" osisID="proverbs.23.28" />insidiatur in via quasi latro et quos incautos viderit interficit<verse eID="proverbs.23.28" />
+        <verse sID="proverbs.23.29" osisID="proverbs.23.29" />cui vae cuius patri vae cui rixae cui foveae cui sine causa vulnera cui suffusio oculorum<verse eID="proverbs.23.29" />
+        <verse sID="proverbs.23.30" osisID="proverbs.23.30" />nonne his qui morantur in vino et student calicibus epotandis<verse eID="proverbs.23.30" />
+        <verse sID="proverbs.23.31" osisID="proverbs.23.31" />ne intuearis vinum quando flavescit cum splenduerit in vitro color eius ingreditur blande<verse eID="proverbs.23.31" />
+        <verse sID="proverbs.23.32" osisID="proverbs.23.32" />sed in novissimo mordebit ut coluber et sicut regulus venena diffundet<verse eID="proverbs.23.32" />
+        <verse sID="proverbs.23.33" osisID="proverbs.23.33" />oculi tui videbunt extraneas et cor tuum loquetur perversa<verse eID="proverbs.23.33" />
+        <verse sID="proverbs.23.34" osisID="proverbs.23.34" />et eris sicut dormiens in medio mari et quasi sopitus gubernator amisso clavo<verse eID="proverbs.23.34" />
+        <verse sID="proverbs.23.35" osisID="proverbs.23.35" />et dices verberaverunt me sed non dolui traxerunt me et ego non sensi quando evigilabo et rursum vina repperiam<verse eID="proverbs.23.35" />
+      </p>
+      <chapter eID="proverbs.23" />
+      <chapter sID="proverbs.24" osisID="proverbs.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="proverbs.24.1" osisID="proverbs.24.1" />ne aemuleris viros malos nec desideres esse cum eis<verse eID="proverbs.24.1" />
+        <verse sID="proverbs.24.2" osisID="proverbs.24.2" />quia rapinas meditatur mens eorum et fraudes labia eorum loquuntur<verse eID="proverbs.24.2" />
+        <verse sID="proverbs.24.3" osisID="proverbs.24.3" />sapientia aedificabitur domus et prudentia roborabitur<verse eID="proverbs.24.3" />
+        <verse sID="proverbs.24.4" osisID="proverbs.24.4" />in doctrina replebuntur cellaria universa substantia pretiosa et pulcherrima<verse eID="proverbs.24.4" />
+        <verse sID="proverbs.24.5" osisID="proverbs.24.5" />vir sapiens et fortis est et vir doctus robustus et validus<verse eID="proverbs.24.5" />
+        <verse sID="proverbs.24.6" osisID="proverbs.24.6" />quia cum dispositione initur bellum et erit salus ubi multa consilia sunt<verse eID="proverbs.24.6" />
+        <verse sID="proverbs.24.7" osisID="proverbs.24.7" />excelsa stulto sapientia in porta non aperiet os suum<verse eID="proverbs.24.7" />
+        <verse sID="proverbs.24.8" osisID="proverbs.24.8" />qui cogitat malefacere stultus vocabitur<verse eID="proverbs.24.8" />
+        <verse sID="proverbs.24.9" osisID="proverbs.24.9" />cogitatio stulti peccatum est et abominatio hominum detractor<verse eID="proverbs.24.9" />
+        <verse sID="proverbs.24.10" osisID="proverbs.24.10" />si desperaveris lassus in die angustiae inminuetur fortitudo tua<verse eID="proverbs.24.10" />
+        <verse sID="proverbs.24.11" osisID="proverbs.24.11" />erue eos qui ducuntur ad mortem et qui trahuntur ad interitum liberare ne cesses<verse eID="proverbs.24.11" />
+        <verse sID="proverbs.24.12" osisID="proverbs.24.12" />si dixeris vires non suppetunt qui inspector est cordis ipse intellegit et servatorem animae tuae nihil fallit reddetque homini iuxta opera sua<verse eID="proverbs.24.12" />
+        <verse sID="proverbs.24.13" osisID="proverbs.24.13" />comede fili mi mel quia bonum est et favum dulcissimum gutturi tuo<verse eID="proverbs.24.13" />
+        <verse sID="proverbs.24.14" osisID="proverbs.24.14" />sic et doctrina sapientiae animae tuae quam cum inveneris habebis in novissimis et spes tua non peribit<verse eID="proverbs.24.14" />
+        <verse sID="proverbs.24.15" osisID="proverbs.24.15" />ne insidieris et quaeras impietatem in domo iusti neque vastes requiem eius<verse eID="proverbs.24.15" />
+        <verse sID="proverbs.24.16" osisID="proverbs.24.16" />septies enim cadet iustus et resurget impii autem corruent in malum<verse eID="proverbs.24.16" />
+        <verse sID="proverbs.24.17" osisID="proverbs.24.17" />cum ceciderit inimicus tuus ne gaudeas et in ruina eius ne exultet cor tuum<verse eID="proverbs.24.17" />
+        <verse sID="proverbs.24.18" osisID="proverbs.24.18" />ne forte videat Dominus et displiceat ei et auferat ab eo iram suam<verse eID="proverbs.24.18" />
+        <verse sID="proverbs.24.19" osisID="proverbs.24.19" />ne contendas cum pessimis nec aemuleris impios<verse eID="proverbs.24.19" />
+        <verse sID="proverbs.24.20" osisID="proverbs.24.20" />quoniam non habent futurorum spem mali et lucerna impiorum extinguetur<verse eID="proverbs.24.20" />
+        <verse sID="proverbs.24.21" osisID="proverbs.24.21" />time Dominum fili mi et regem et cum detractoribus non commiscearis<verse eID="proverbs.24.21" />
+        <verse sID="proverbs.24.22" osisID="proverbs.24.22" />quoniam repente consurget perditio eorum et ruinam utriusque quis novit<verse eID="proverbs.24.22" />
+        <verse sID="proverbs.24.23" osisID="proverbs.24.23" />HAEC QUOQUE SAPIENTIBUS Cognoscere personam in iudicio non est bonum<verse eID="proverbs.24.23" />
+        <verse sID="proverbs.24.24" osisID="proverbs.24.24" />qui dicit impio iustus es maledicent ei populi et detestabuntur eum tribus<verse eID="proverbs.24.24" />
+        <verse sID="proverbs.24.25" osisID="proverbs.24.25" />qui arguunt laudabuntur et super ipsos veniet benedictio<verse eID="proverbs.24.25" />
+        <verse sID="proverbs.24.26" osisID="proverbs.24.26" />labia deosculabitur qui recta verba respondet<verse eID="proverbs.24.26" />
+        <verse sID="proverbs.24.27" osisID="proverbs.24.27" />praepara foris opus tuum et diligenter exerce agrum tuum ut postea aedifices domum tuam<verse eID="proverbs.24.27" />
+        <verse sID="proverbs.24.28" osisID="proverbs.24.28" />ne sis testis frustra contra proximum tuum nec lactes quemquam labiis tuis<verse eID="proverbs.24.28" />
+        <verse sID="proverbs.24.29" osisID="proverbs.24.29" />ne dicas quomodo fecit mihi sic faciam ei reddam unicuique secundum opus suum<verse eID="proverbs.24.29" />
+        <verse sID="proverbs.24.30" osisID="proverbs.24.30" />per agrum hominis pigri transivi et per vineam viri stulti<verse eID="proverbs.24.30" />
+        <verse sID="proverbs.24.31" osisID="proverbs.24.31" />et ecce totum repleverant urticae operuerant superficiem eius spinae et maceria lapidum destructa erat<verse eID="proverbs.24.31" />
+        <verse sID="proverbs.24.32" osisID="proverbs.24.32" />quod cum vidissem posui in corde meo et exemplo didici disciplinam<verse eID="proverbs.24.32" />
+        <verse sID="proverbs.24.33" osisID="proverbs.24.33" />parum inquam dormies modicum dormitabis pauxillum manus conseres ut quiescas<verse eID="proverbs.24.33" />
+        <verse sID="proverbs.24.34" osisID="proverbs.24.34" />et veniet quasi cursor egestas tua et mendicitas quasi vir armatus<verse eID="proverbs.24.34" />
+      </p>
+      <chapter eID="proverbs.24" />
+      <chapter sID="proverbs.25" osisID="proverbs.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="proverbs.25.1" osisID="proverbs.25.1" />HAEC QUOQUE PARABOLAE SALOMONIS QUAS TRANSTULERUNT VIRI EZECHIAE REGIS IUDA<verse eID="proverbs.25.1" />
+        <verse sID="proverbs.25.2" osisID="proverbs.25.2" />Gloria Dei celare verbum et gloria regum investigare sermonem<verse eID="proverbs.25.2" />
+        <verse sID="proverbs.25.3" osisID="proverbs.25.3" />caelum sursum et terra deorsum et cor regum inscrutabile<verse eID="proverbs.25.3" />
+        <verse sID="proverbs.25.4" osisID="proverbs.25.4" />aufer robiginem de argento et egredietur vas purissimum<verse eID="proverbs.25.4" />
+        <verse sID="proverbs.25.5" osisID="proverbs.25.5" />aufer impietatem de vultu regis et firmabitur iustitia thronus eius<verse eID="proverbs.25.5" />
+        <verse sID="proverbs.25.6" osisID="proverbs.25.6" />ne gloriosus appareas coram rege et in loco magnorum ne steteris<verse eID="proverbs.25.6" />
+        <verse sID="proverbs.25.7" osisID="proverbs.25.7" />melius est enim ut dicatur tibi ascende huc quam ut humilieris coram principe<verse eID="proverbs.25.7" />
+        <verse sID="proverbs.25.8" osisID="proverbs.25.8" />quae viderunt oculi tui ne proferas in iurgio cito ne postea emendare non possis cum dehonestaveris amicum tuum<verse eID="proverbs.25.8" />
+        <verse sID="proverbs.25.9" osisID="proverbs.25.9" />causam tuam tracta cum amico tuo et secretum extraneo non reveles<verse eID="proverbs.25.9" />
+        <verse sID="proverbs.25.10" osisID="proverbs.25.10" />ne forte insultet tibi cum audierit et exprobrare non cesset<verse eID="proverbs.25.10" />
+        <verse sID="proverbs.25.11" osisID="proverbs.25.11" />mala aurea in lectis argenteis qui loquitur verbum in tempore suo<verse eID="proverbs.25.11" />
+        <verse sID="proverbs.25.12" osisID="proverbs.25.12" />inauris aurea et margaritum fulgens qui arguit sapientem et aurem oboedientem<verse eID="proverbs.25.12" />
+        <verse sID="proverbs.25.13" osisID="proverbs.25.13" />sicut frigus nivis in die messis ita legatus fidelis ei qui misit eum animam illius requiescere facit<verse eID="proverbs.25.13" />
+        <verse sID="proverbs.25.14" osisID="proverbs.25.14" />nubes et ventus et pluviae non sequentes vir gloriosus et promissa non conplens<verse eID="proverbs.25.14" />
+        <verse sID="proverbs.25.15" osisID="proverbs.25.15" />patientia lenietur princeps et lingua mollis confringet duritiam<verse eID="proverbs.25.15" />
+        <verse sID="proverbs.25.16" osisID="proverbs.25.16" />mel invenisti comede quod sufficit tibi ne forte saturatus evomas illud<verse eID="proverbs.25.16" />
+        <verse sID="proverbs.25.17" osisID="proverbs.25.17" />subtrahe pedem tuum de domo proximi tui nequando satiatus oderit te<verse eID="proverbs.25.17" />
+        <verse sID="proverbs.25.18" osisID="proverbs.25.18" />iaculum et gladius et sagitta acuta homo qui loquitur contra proximum suum testimonium falsum<verse eID="proverbs.25.18" />
+        <verse sID="proverbs.25.19" osisID="proverbs.25.19" />dens putridus et pes lapsus qui sperat super infideli in die angustiae<verse eID="proverbs.25.19" />
+        <verse sID="proverbs.25.20" osisID="proverbs.25.20" />et amittit pallium in die frigoris acetum in nitro et qui cantat carmina cordi pessimo<verse eID="proverbs.25.20" />
+        <verse sID="proverbs.25.21" osisID="proverbs.25.21" />si esurierit inimicus tuus ciba illum et si sitierit da ei aquam bibere<verse eID="proverbs.25.21" />
+        <verse sID="proverbs.25.22" osisID="proverbs.25.22" />prunam enim congregabis super caput eius et Dominus reddet tibi<verse eID="proverbs.25.22" />
+        <verse sID="proverbs.25.23" osisID="proverbs.25.23" />ventus aquilo dissipat pluvias et facies tristis linguam detrahentem<verse eID="proverbs.25.23" />
+        <verse sID="proverbs.25.24" osisID="proverbs.25.24" />melius est sedere in angulo domatis quam cum muliere litigiosa et in domo communi<verse eID="proverbs.25.24" />
+        <verse sID="proverbs.25.25" osisID="proverbs.25.25" />aqua frigida animae sitienti et nuntius bonus de terra longinqua<verse eID="proverbs.25.25" />
+        <verse sID="proverbs.25.26" osisID="proverbs.25.26" />fons turbatus pede et vena corrupta iustus cadens coram impio<verse eID="proverbs.25.26" />
+        <verse sID="proverbs.25.27" osisID="proverbs.25.27" />sicut qui mel multum comedit non est ei bonum sic qui scrutator est maiestatis opprimitur gloria<verse eID="proverbs.25.27" />
+        <verse sID="proverbs.25.28" osisID="proverbs.25.28" />sicut urbs patens et absque murorum ambitu ita vir qui non potest in loquendo cohibere spiritum suum<verse eID="proverbs.25.28" />
+      </p>
+      <chapter eID="proverbs.25" />
+      <chapter sID="proverbs.26" osisID="proverbs.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="proverbs.26.1" osisID="proverbs.26.1" />quomodo nix aestate et pluvia in messe sic indecens est stulto gloria<verse eID="proverbs.26.1" />
+        <verse sID="proverbs.26.2" osisID="proverbs.26.2" />sicut avis ad alia transvolans et passer quolibet vadens sic maledictum frustra prolatum in quempiam superveniet<verse eID="proverbs.26.2" />
+        <verse sID="proverbs.26.3" osisID="proverbs.26.3" />flagellum equo et camus asino et virga dorso inprudentium<verse eID="proverbs.26.3" />
+        <verse sID="proverbs.26.4" osisID="proverbs.26.4" />ne respondeas stulto iuxta stultitiam suam ne efficiaris ei similis<verse eID="proverbs.26.4" />
+        <verse sID="proverbs.26.5" osisID="proverbs.26.5" />responde stulto iuxta stultitiam suam ne sibi sapiens esse videatur<verse eID="proverbs.26.5" />
+        <verse sID="proverbs.26.6" osisID="proverbs.26.6" />claudus pedibus et iniquitatem bibens qui mittit verba per nuntium stultum<verse eID="proverbs.26.6" />
+        <verse sID="proverbs.26.7" osisID="proverbs.26.7" />quomodo pulchras frustra habet claudus tibias sic indecens est in ore stultorum parabola<verse eID="proverbs.26.7" />
+        <verse sID="proverbs.26.8" osisID="proverbs.26.8" />sicut qui mittit lapidem in acervum Mercurii ita qui tribuit insipienti honorem<verse eID="proverbs.26.8" />
+        <verse sID="proverbs.26.9" osisID="proverbs.26.9" />quomodo si spina nascatur in manu temulenti sic parabola in ore stultorum<verse eID="proverbs.26.9" />
+        <verse sID="proverbs.26.10" osisID="proverbs.26.10" />iudicium determinat causas et qui inponit stulto silentium iras mitigat<verse eID="proverbs.26.10" />
+        <verse sID="proverbs.26.11" osisID="proverbs.26.11" />sicut canis qui revertitur ad vomitum suum sic inprudens qui iterat stultitiam suam<verse eID="proverbs.26.11" />
+        <verse sID="proverbs.26.12" osisID="proverbs.26.12" />vidisti hominem sapientem sibi videri magis illo spem habebit stultus<verse eID="proverbs.26.12" />
+        <verse sID="proverbs.26.13" osisID="proverbs.26.13" />dicit piger leaena in via leo in itineribus<verse eID="proverbs.26.13" />
+        <verse sID="proverbs.26.14" osisID="proverbs.26.14" />sicut ostium vertitur in cardine suo ita piger in lectulo suo<verse eID="proverbs.26.14" />
+        <verse sID="proverbs.26.15" osisID="proverbs.26.15" />abscondit piger manus sub ascellas suas et laborat si ad os suum eas converterit<verse eID="proverbs.26.15" />
+        <verse sID="proverbs.26.16" osisID="proverbs.26.16" />sapientior sibi piger videtur septem viris loquentibus sententias<verse eID="proverbs.26.16" />
+        <verse sID="proverbs.26.17" osisID="proverbs.26.17" />sicut qui adprehendit auribus canem sic qui transit et inpatiens commiscetur rixae alterius<verse eID="proverbs.26.17" />
+        <verse sID="proverbs.26.18" osisID="proverbs.26.18" />sicut noxius est qui mittit lanceas et sagittas et mortem<verse eID="proverbs.26.18" />
+        <verse sID="proverbs.26.19" osisID="proverbs.26.19" />sic vir qui fraudulenter nocet amico suo et cum fuerit deprehensus dicit ludens feci<verse eID="proverbs.26.19" />
+        <verse sID="proverbs.26.20" osisID="proverbs.26.20" />cum defecerint ligna extinguetur ignis et susurrone subtracto iurgia conquiescunt<verse eID="proverbs.26.20" />
+        <verse sID="proverbs.26.21" osisID="proverbs.26.21" />sicut carbones ad prunam et ligna ad ignem sic homo iracundus suscitat rixas<verse eID="proverbs.26.21" />
+        <verse sID="proverbs.26.22" osisID="proverbs.26.22" />verba susurronis quasi simplicia et ipsa perveniunt ad intima ventris<verse eID="proverbs.26.22" />
+        <verse sID="proverbs.26.23" osisID="proverbs.26.23" />quomodo si argento sordido ornare velis vas fictile sic labia tumentia cum pessimo corde sociata<verse eID="proverbs.26.23" />
+        <verse sID="proverbs.26.24" osisID="proverbs.26.24" />labiis suis intellegitur inimicus cum in corde tractaverit dolos<verse eID="proverbs.26.24" />
+        <verse sID="proverbs.26.25" osisID="proverbs.26.25" />quando submiserit vocem suam ne credideris ei quoniam septem nequitiae sunt in corde illius<verse eID="proverbs.26.25" />
+        <verse sID="proverbs.26.26" osisID="proverbs.26.26" />qui operit odium fraudulenter revelabitur malitia eius in concilio<verse eID="proverbs.26.26" />
+        <verse sID="proverbs.26.27" osisID="proverbs.26.27" />qui fodit foveam incidet in eam et qui volvit lapidem revertetur ad eum<verse eID="proverbs.26.27" />
+        <verse sID="proverbs.26.28" osisID="proverbs.26.28" />lingua fallax non amat veritatem et os lubricum operatur ruinas<verse eID="proverbs.26.28" />
+      </p>
+      <chapter eID="proverbs.26" />
+      <chapter sID="proverbs.27" osisID="proverbs.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="proverbs.27.1" osisID="proverbs.27.1" />ne glorieris in crastinum ignorans quid superventura pariat dies<verse eID="proverbs.27.1" />
+        <verse sID="proverbs.27.2" osisID="proverbs.27.2" />laudet te alienus et non os tuum extraneus et non labia tua<verse eID="proverbs.27.2" />
+        <verse sID="proverbs.27.3" osisID="proverbs.27.3" />grave est saxum et onerosa harena sed ira stulti utroque gravior<verse eID="proverbs.27.3" />
+        <verse sID="proverbs.27.4" osisID="proverbs.27.4" />ira non habet misericordiam nec erumpens furor et impetum concitati ferre quis poterit<verse eID="proverbs.27.4" />
+        <verse sID="proverbs.27.5" osisID="proverbs.27.5" />melior est manifesta correptio quam amor absconditus<verse eID="proverbs.27.5" />
+        <verse sID="proverbs.27.6" osisID="proverbs.27.6" />meliora sunt vulnera diligentis quam fraudulenta odientis oscula<verse eID="proverbs.27.6" />
+        <verse sID="proverbs.27.7" osisID="proverbs.27.7" />anima saturata calcabit favum anima esuriens et amarum pro dulce sumet<verse eID="proverbs.27.7" />
+        <verse sID="proverbs.27.8" osisID="proverbs.27.8" />sicut avis transmigrans de nido suo sic vir qui relinquit locum suum<verse eID="proverbs.27.8" />
+        <verse sID="proverbs.27.9" osisID="proverbs.27.9" />unguento et variis odoribus delectatur cor et bonis amici consiliis anima dulcoratur<verse eID="proverbs.27.9" />
+        <verse sID="proverbs.27.10" osisID="proverbs.27.10" />amicum tuum et amicum patris tui ne dimiseris et domum fratris tui ne ingrediaris in die adflictionis tuae melior est vicinus iuxta quam frater procul<verse eID="proverbs.27.10" />
+        <verse sID="proverbs.27.11" osisID="proverbs.27.11" />stude sapientiae fili mi et laetifica cor meum ut possim exprobranti respondere sermonem<verse eID="proverbs.27.11" />
+        <verse sID="proverbs.27.12" osisID="proverbs.27.12" />astutus videns malum absconditus est parvuli transeuntes sustinuere dispendia<verse eID="proverbs.27.12" />
+        <verse sID="proverbs.27.13" osisID="proverbs.27.13" />tolle vestimentum eius qui spopondit pro extraneo et pro alienis auferto pignus<verse eID="proverbs.27.13" />
+        <verse sID="proverbs.27.14" osisID="proverbs.27.14" />qui benedicit proximo suo voce grandi de nocte consurgens maledicenti similis erit<verse eID="proverbs.27.14" />
+        <verse sID="proverbs.27.15" osisID="proverbs.27.15" />tecta perstillantia in die frigoris et litigiosa mulier conparantur<verse eID="proverbs.27.15" />
+        <verse sID="proverbs.27.16" osisID="proverbs.27.16" />qui retinet eam quasi qui ventum teneat et oleum dexterae suae vocabit<verse eID="proverbs.27.16" />
+        <verse sID="proverbs.27.17" osisID="proverbs.27.17" />ferrum ferro acuitur et homo exacuit faciem amici sui<verse eID="proverbs.27.17" />
+        <verse sID="proverbs.27.18" osisID="proverbs.27.18" />qui servat ficum comedet fructus eius et qui custos est domini sui glorificabitur<verse eID="proverbs.27.18" />
+        <verse sID="proverbs.27.19" osisID="proverbs.27.19" />quomodo in aquis resplendent vultus prospicientium sic corda hominum manifesta sunt prudentibus<verse eID="proverbs.27.19" />
+        <verse sID="proverbs.27.20" osisID="proverbs.27.20" />infernus et perditio non replentur similiter et oculi hominum insatiabiles<verse eID="proverbs.27.20" />
+        <verse sID="proverbs.27.21" osisID="proverbs.27.21" />quomodo probatur in conflatorio argentum et in fornace aurum sic probatur homo ore laudantis<verse eID="proverbs.27.21" />
+        <verse sID="proverbs.27.22" osisID="proverbs.27.22" />si contuderis stultum in pila quasi tisanas feriente desuper pilo non auferetur ab eo stultitia eius<verse eID="proverbs.27.22" />
+        <verse sID="proverbs.27.23" osisID="proverbs.27.23" />diligenter agnosce vultum pecoris tui tuosque greges considera<verse eID="proverbs.27.23" />
+        <verse sID="proverbs.27.24" osisID="proverbs.27.24" />non enim habebis iugiter potestatem sed corona tribuetur in generatione generationum<verse eID="proverbs.27.24" />
+        <verse sID="proverbs.27.25" osisID="proverbs.27.25" />aperta sunt prata et apparuerunt herbae virentes et collecta sunt faena de montibus<verse eID="proverbs.27.25" />
+        <verse sID="proverbs.27.26" osisID="proverbs.27.26" />agni ad vestimentum tuum et hedi agri pretium<verse eID="proverbs.27.26" />
+        <verse sID="proverbs.27.27" osisID="proverbs.27.27" />sufficiat tibi lac caprarum in cibos tuos in necessaria domus tuae et ad victum ancillis tuis<verse eID="proverbs.27.27" />
+      </p>
+      <chapter eID="proverbs.27" />
+      <chapter sID="proverbs.28" osisID="proverbs.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="proverbs.28.1" osisID="proverbs.28.1" />fugit impius nemine persequente iustus autem quasi leo confidens absque terrore erit<verse eID="proverbs.28.1" />
+        <verse sID="proverbs.28.2" osisID="proverbs.28.2" />propter peccata terrae multi principes eius et propter hominis sapientiam et horum scientiam quae dicuntur vita ducis longior erit<verse eID="proverbs.28.2" />
+        <verse sID="proverbs.28.3" osisID="proverbs.28.3" />vir pauper calumnians pauperes similis imbri vehementi in quo paratur fames<verse eID="proverbs.28.3" />
+        <verse sID="proverbs.28.4" osisID="proverbs.28.4" />qui derelinquunt legem laudant impium qui custodiunt succenduntur contra eum<verse eID="proverbs.28.4" />
+        <verse sID="proverbs.28.5" osisID="proverbs.28.5" />viri mali non cogitant iudicium qui autem requirunt Dominum animadvertunt omnia<verse eID="proverbs.28.5" />
+        <verse sID="proverbs.28.6" osisID="proverbs.28.6" />melior est pauper ambulans in simplicitate sua quam dives pravis itineribus<verse eID="proverbs.28.6" />
+        <verse sID="proverbs.28.7" osisID="proverbs.28.7" />qui custodit legem filius sapiens est qui pascit comesatores confundit patrem suum<verse eID="proverbs.28.7" />
+        <verse sID="proverbs.28.8" osisID="proverbs.28.8" />qui coacervat divitias usuris et fenore liberali in pauperes congregat eas<verse eID="proverbs.28.8" />
+        <verse sID="proverbs.28.9" osisID="proverbs.28.9" />qui declinat aurem suam ne audiat legem oratio eius erit execrabilis<verse eID="proverbs.28.9" />
+        <verse sID="proverbs.28.10" osisID="proverbs.28.10" />qui decipit iustos in via mala in interitu suo corruet et simplices possidebunt bona<verse eID="proverbs.28.10" />
+        <verse sID="proverbs.28.11" osisID="proverbs.28.11" />sapiens sibi videtur vir dives pauper autem prudens scrutabitur eum<verse eID="proverbs.28.11" />
+        <verse sID="proverbs.28.12" osisID="proverbs.28.12" />in exultatione iustorum multa gloria regnantibus impiis ruinae hominum<verse eID="proverbs.28.12" />
+        <verse sID="proverbs.28.13" osisID="proverbs.28.13" />qui abscondit scelera sua non dirigetur qui confessus fuerit et reliquerit ea misericordiam consequetur<verse eID="proverbs.28.13" />
+        <verse sID="proverbs.28.14" osisID="proverbs.28.14" />beatus homo qui semper est pavidus qui vero mentis est durae corruet in malum<verse eID="proverbs.28.14" />
+        <verse sID="proverbs.28.15" osisID="proverbs.28.15" />leo rugiens et ursus esuriens princeps impius super populum pauperem<verse eID="proverbs.28.15" />
+        <verse sID="proverbs.28.16" osisID="proverbs.28.16" />dux indigens prudentia multos opprimet per calumniam qui autem odit avaritiam longi fient dies eius<verse eID="proverbs.28.16" />
+        <verse sID="proverbs.28.17" osisID="proverbs.28.17" />hominem qui calumniatur animae sanguinem si usque ad lacum fugerit nemo sustentet<verse eID="proverbs.28.17" />
+        <verse sID="proverbs.28.18" osisID="proverbs.28.18" />qui ambulat simpliciter salvus erit qui perversis ingreditur viis concidet semel<verse eID="proverbs.28.18" />
+        <verse sID="proverbs.28.19" osisID="proverbs.28.19" />qui operatur terram suam saturabitur panibus qui sectatur otium replebitur egestate<verse eID="proverbs.28.19" />
+        <verse sID="proverbs.28.20" osisID="proverbs.28.20" />vir fidelis multum laudabitur qui autem festinat ditari non erit innocens<verse eID="proverbs.28.20" />
+        <verse sID="proverbs.28.21" osisID="proverbs.28.21" />qui cognoscit in iudicio faciem non facit bene iste et pro buccella panis deserit veritatem<verse eID="proverbs.28.21" />
+        <verse sID="proverbs.28.22" osisID="proverbs.28.22" />vir qui festinat ditari et aliis invidet ignorat quod egestas superveniat ei<verse eID="proverbs.28.22" />
+        <verse sID="proverbs.28.23" osisID="proverbs.28.23" />qui corripit hominem gratiam postea inveniet apud eum magis quam ille qui per linguae blandimenta decipit<verse eID="proverbs.28.23" />
+        <verse sID="proverbs.28.24" osisID="proverbs.28.24" />qui subtrahit aliquid a patre suo et matre et dicit hoc non est peccatum particeps homicidae est<verse eID="proverbs.28.24" />
+        <verse sID="proverbs.28.25" osisID="proverbs.28.25" />qui se iactat et dilatat iurgia concitat qui sperat in Domino saginabitur<verse eID="proverbs.28.25" />
+        <verse sID="proverbs.28.26" osisID="proverbs.28.26" />qui confidit in corde suo stultus est qui autem graditur sapienter iste salvabitur<verse eID="proverbs.28.26" />
+        <verse sID="proverbs.28.27" osisID="proverbs.28.27" />qui dat pauperi non indigebit qui despicit deprecantem sustinebit penuriam<verse eID="proverbs.28.27" />
+        <verse sID="proverbs.28.28" osisID="proverbs.28.28" />cum surrexerint impii abscondentur homines cum illi perierint multiplicabuntur iusti<verse eID="proverbs.28.28" />
+      </p>
+      <chapter eID="proverbs.28" />
+      <chapter sID="proverbs.29" osisID="proverbs.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="proverbs.29.1" osisID="proverbs.29.1" />viro qui corripientem dura cervice contemnit repentinus superveniet interitus et eum sanitas non sequitur<verse eID="proverbs.29.1" />
+        <verse sID="proverbs.29.2" osisID="proverbs.29.2" />in multiplicatione iustorum laetabitur vulgus cum impii sumpserint principatum gemet populus<verse eID="proverbs.29.2" />
+        <verse sID="proverbs.29.3" osisID="proverbs.29.3" />vir qui amat sapientiam laetificat patrem suum qui autem nutrit scorta perdet substantiam<verse eID="proverbs.29.3" />
+        <verse sID="proverbs.29.4" osisID="proverbs.29.4" />rex iustus erigit terram vir avarus destruet eam<verse eID="proverbs.29.4" />
+        <verse sID="proverbs.29.5" osisID="proverbs.29.5" />homo qui blandis fictisque sermonibus loquitur amico suo rete expandit gressibus eius<verse eID="proverbs.29.5" />
+        <verse sID="proverbs.29.6" osisID="proverbs.29.6" />peccantem virum iniquum involvet laqueus et iustus laudabit atque gaudebit<verse eID="proverbs.29.6" />
+        <verse sID="proverbs.29.7" osisID="proverbs.29.7" />novit iustus causam pauperum impius ignorat scientiam<verse eID="proverbs.29.7" />
+        <verse sID="proverbs.29.8" osisID="proverbs.29.8" />homines pestilentes dissipant civitatem sapientes avertunt furorem<verse eID="proverbs.29.8" />
+        <verse sID="proverbs.29.9" osisID="proverbs.29.9" />vir sapiens si cum stulto contenderit sive irascatur sive rideat non inveniet requiem<verse eID="proverbs.29.9" />
+        <verse sID="proverbs.29.10" osisID="proverbs.29.10" />viri sanguinum oderunt simplicem iusti quaerunt animam eius<verse eID="proverbs.29.10" />
+        <verse sID="proverbs.29.11" osisID="proverbs.29.11" />totum spiritum suum profert stultus sapiens differt et reservat in posterum<verse eID="proverbs.29.11" />
+        <verse sID="proverbs.29.12" osisID="proverbs.29.12" />princeps qui libenter audit verba mendacii omnes ministros habebit impios<verse eID="proverbs.29.12" />
+        <verse sID="proverbs.29.13" osisID="proverbs.29.13" />pauper et creditor obviam fuerunt sibi utriusque inluminator est Dominus<verse eID="proverbs.29.13" />
+        <verse sID="proverbs.29.14" osisID="proverbs.29.14" />rex qui iudicat in veritate pauperes thronus eius in aeternum firmabitur<verse eID="proverbs.29.14" />
+        <verse sID="proverbs.29.15" osisID="proverbs.29.15" />virga atque correptio tribuet sapientiam puer autem qui dimittitur voluntati suae confundet matrem suam<verse eID="proverbs.29.15" />
+        <verse sID="proverbs.29.16" osisID="proverbs.29.16" />in multiplicatione impiorum multiplicabuntur scelera et iusti ruinas eorum videbunt<verse eID="proverbs.29.16" />
+        <verse sID="proverbs.29.17" osisID="proverbs.29.17" />erudi filium tuum et refrigerabit te et dabit delicias animae tuae<verse eID="proverbs.29.17" />
+        <verse sID="proverbs.29.18" osisID="proverbs.29.18" />cum prophetia defecerit dissipabitur populus qui custodit legem beatus est<verse eID="proverbs.29.18" />
+        <verse sID="proverbs.29.19" osisID="proverbs.29.19" />servus verbis non potest erudiri quia quod dicis intellegit et respondere contemnit<verse eID="proverbs.29.19" />
+        <verse sID="proverbs.29.20" osisID="proverbs.29.20" />vidisti hominem velocem ad loquendum stulti magis speranda est quam illius correptio<verse eID="proverbs.29.20" />
+        <verse sID="proverbs.29.21" osisID="proverbs.29.21" />qui delicate a pueritia nutrit servum suum postea illum sentiet contumacem<verse eID="proverbs.29.21" />
+        <verse sID="proverbs.29.22" osisID="proverbs.29.22" />vir iracundus provocat rixas et qui ad indignandum facilis est erit ad peccata proclivior<verse eID="proverbs.29.22" />
+        <verse sID="proverbs.29.23" osisID="proverbs.29.23" />superbum sequitur humilitas et humilem spiritu suscipiet gloria<verse eID="proverbs.29.23" />
+        <verse sID="proverbs.29.24" osisID="proverbs.29.24" />qui cum fure partitur odit animam suam adiurantem audit et non indicat<verse eID="proverbs.29.24" />
+        <verse sID="proverbs.29.25" osisID="proverbs.29.25" />qui timet hominem cito corruet qui sperat in Domino sublevabitur<verse eID="proverbs.29.25" />
+        <verse sID="proverbs.29.26" osisID="proverbs.29.26" />multi requirunt faciem principis et a Domino iudicium egreditur singulorum<verse eID="proverbs.29.26" />
+        <verse sID="proverbs.29.27" osisID="proverbs.29.27" />abominantur iusti virum impium et abominantur impii eos qui in recta sunt via<verse eID="proverbs.29.27" />
+      </p>
+      <chapter eID="proverbs.29" />
+      <chapter sID="proverbs.30" osisID="proverbs.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="proverbs.30.1" osisID="proverbs.30.1" />VERBA CONGREGANTIS FILII VOMENTIS
+Visio quam locutus est vir cum quo est Deus et qui Deo secum morante confortatus ait<verse eID="proverbs.30.1" />
+        <verse sID="proverbs.30.2" osisID="proverbs.30.2" />stultissimus sum virorum et sapientia hominum non est mecum<verse eID="proverbs.30.2" />
+        <verse sID="proverbs.30.3" osisID="proverbs.30.3" />non didici sapientiam et non novi sanctorum scientiam<verse eID="proverbs.30.3" />
+        <verse sID="proverbs.30.4" osisID="proverbs.30.4" />quis ascendit in caelum atque descendit quis continuit spiritum manibus suis quis conligavit aquas quasi in vestimento quis suscitavit omnes terminos terrae quod nomen eius et quod nomen filii eius si nosti<verse eID="proverbs.30.4" />
+        <verse sID="proverbs.30.5" osisID="proverbs.30.5" />omnis sermo Dei ignitus clypeus est sperantibus in se<verse eID="proverbs.30.5" />
+        <verse sID="proverbs.30.6" osisID="proverbs.30.6" />ne addas quicquam verbis illius et arguaris inveniarisque mendax<verse eID="proverbs.30.6" />
+        <verse sID="proverbs.30.7" osisID="proverbs.30.7" />duo rogavi te ne deneges mihi antequam moriar<verse eID="proverbs.30.7" />
+        <verse sID="proverbs.30.8" osisID="proverbs.30.8" />vanitatem et verba mendacia longe fac a me mendicitatem et divitias ne dederis mihi tribue tantum victui meo necessaria<verse eID="proverbs.30.8" />
+        <verse sID="proverbs.30.9" osisID="proverbs.30.9" />ne forte saturatus inliciar ad negandum et dicam quis est Dominus et egestate conpulsus furer et peierem nomen Dei mei<verse eID="proverbs.30.9" />
+        <verse sID="proverbs.30.10" osisID="proverbs.30.10" />ne accuses servum ad dominum suum ne forte maledicat tibi et corruas<verse eID="proverbs.30.10" />
+        <verse sID="proverbs.30.11" osisID="proverbs.30.11" />generatio quae patri suo maledicit et quae non benedicit matri suae<verse eID="proverbs.30.11" />
+        <verse sID="proverbs.30.12" osisID="proverbs.30.12" />generatio quae sibi munda videtur et tamen non est lota a sordibus suis<verse eID="proverbs.30.12" />
+        <verse sID="proverbs.30.13" osisID="proverbs.30.13" />generatio cuius excelsi sunt oculi et palpebrae eius in alta subrectae<verse eID="proverbs.30.13" />
+        <verse sID="proverbs.30.14" osisID="proverbs.30.14" />generatio quae pro dentibus gladios habet et commandit molaribus suis ut comedat inopes de terra et pauperes ex hominibus<verse eID="proverbs.30.14" />
+        <verse sID="proverbs.30.15" osisID="proverbs.30.15" />sanguisugae duae sunt filiae dicentes adfer adfer tria sunt insaturabilia et quartum quod numquam dicit sufficit<verse eID="proverbs.30.15" />
+        <verse sID="proverbs.30.16" osisID="proverbs.30.16" />infernus et os vulvae et terra quae non satiatur aqua ignis vero numquam dicit sufficit<verse eID="proverbs.30.16" />
+        <verse sID="proverbs.30.17" osisID="proverbs.30.17" />oculum qui subsannat patrem et qui despicit partum matris suae effodiant corvi de torrentibus et comedant illum filii aquilae<verse eID="proverbs.30.17" />
+        <verse sID="proverbs.30.18" osisID="proverbs.30.18" />tria sunt difficilia mihi et quartum penitus ignoro<verse eID="proverbs.30.18" />
+        <verse sID="proverbs.30.19" osisID="proverbs.30.19" />viam aquilae in caelo viam colubri super petram viam navis in medio mari et viam viri in adulescentula<verse eID="proverbs.30.19" />
+        <verse sID="proverbs.30.20" osisID="proverbs.30.20" />talis est via mulieris adulterae quae comedit et tergens os suum dicit non sum operata malum<verse eID="proverbs.30.20" />
+        <verse sID="proverbs.30.21" osisID="proverbs.30.21" />per tria movetur terra et quartum non potest sustinere<verse eID="proverbs.30.21" />
+        <verse sID="proverbs.30.22" osisID="proverbs.30.22" />per servum cum regnaverit per stultum cum saturatus fuerit cibo<verse eID="proverbs.30.22" />
+        <verse sID="proverbs.30.23" osisID="proverbs.30.23" />per odiosam mulierem cum in matrimonio fuerit adsumpta et per ancillam cum heres fuerit dominae suae<verse eID="proverbs.30.23" />
+        <verse sID="proverbs.30.24" osisID="proverbs.30.24" />quattuor sunt minima terrae et ipsa sunt sapientiora sapientibus<verse eID="proverbs.30.24" />
+        <verse sID="proverbs.30.25" osisID="proverbs.30.25" />formicae populus infirmus quae praeparant in messe cibum sibi<verse eID="proverbs.30.25" />
+        <verse sID="proverbs.30.26" osisID="proverbs.30.26" />lepusculus plebs invalida quae conlocat in petra cubile suum<verse eID="proverbs.30.26" />
+        <verse sID="proverbs.30.27" osisID="proverbs.30.27" />regem lucusta non habet et egreditur universa per turmas<verse eID="proverbs.30.27" />
+        <verse sID="proverbs.30.28" osisID="proverbs.30.28" />stilio manibus nititur et moratur in aedibus regis<verse eID="proverbs.30.28" />
+        <verse sID="proverbs.30.29" osisID="proverbs.30.29" />tria sunt quae bene gradiuntur et quartum quod incedit feliciter<verse eID="proverbs.30.29" />
+        <verse sID="proverbs.30.30" osisID="proverbs.30.30" />leo fortissimus bestiarum ad nullius pavebit occursum<verse eID="proverbs.30.30" />
+        <verse sID="proverbs.30.31" osisID="proverbs.30.31" />gallus succinctus lumbos et aries nec est rex qui resistat ei<verse eID="proverbs.30.31" />
+        <verse sID="proverbs.30.32" osisID="proverbs.30.32" />et qui stultus apparuit postquam elatus est in sublime si enim intellexisset ori inposuisset manum<verse eID="proverbs.30.32" />
+        <verse sID="proverbs.30.33" osisID="proverbs.30.33" />qui autem fortiter premit ubera ad eliciendum lac exprimit butyrum et qui vehementer emungitur elicit sanguinem et qui provocat iras producit discordias<verse eID="proverbs.30.33" />
+      </p>
+      <chapter eID="proverbs.30" />
+      <chapter sID="proverbs.31" osisID="proverbs.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="proverbs.31.1" osisID="proverbs.31.1" />VERBA LAMUHEL REGIS VISIO QUA ERUDIVIT EUM MATER SUA<verse eID="proverbs.31.1" />
+        <verse sID="proverbs.31.2" osisID="proverbs.31.2" />Quid dilecte mi quid dilecte uteri mei quid dilecte votorum meorum<verse eID="proverbs.31.2" />
+        <verse sID="proverbs.31.3" osisID="proverbs.31.3" />ne dederis mulieribus substantiam tuam et vias tuas ad delendos reges<verse eID="proverbs.31.3" />
+        <verse sID="proverbs.31.4" osisID="proverbs.31.4" />noli regibus o Lamuhel noli regibus dare vinum quia nullum secretum est ubi regnat ebrietas<verse eID="proverbs.31.4" />
+        <verse sID="proverbs.31.5" osisID="proverbs.31.5" />ne forte bibat et obliviscatur iudiciorum et mutet causam filiorum pauperis<verse eID="proverbs.31.5" />
+        <verse sID="proverbs.31.6" osisID="proverbs.31.6" />date siceram maerentibus et vinum his qui amaro sunt animo<verse eID="proverbs.31.6" />
+        <verse sID="proverbs.31.7" osisID="proverbs.31.7" />bibant ut obliviscantur egestatis suae et doloris non recordentur amplius<verse eID="proverbs.31.7" />
+        <verse sID="proverbs.31.8" osisID="proverbs.31.8" />aperi os tuum muto et causis omnium filiorum qui pertranseunt<verse eID="proverbs.31.8" />
+        <verse sID="proverbs.31.9" osisID="proverbs.31.9" />aperi os tuum decerne quod iustum est et iudica inopem et pauperem<verse eID="proverbs.31.9" />
+        <verse sID="proverbs.31.10" osisID="proverbs.31.10" />ALEPH Mulierem fortem quis inveniet procul et de ultimis finibus pretium eius<verse eID="proverbs.31.10" />
+        <verse sID="proverbs.31.11" osisID="proverbs.31.11" />BETH confidit in ea cor viri sui et spoliis non indigebit<verse eID="proverbs.31.11" />
+        <verse sID="proverbs.31.12" osisID="proverbs.31.12" />GIMEL reddet ei bonum et non malum omnibus diebus vitae suae<verse eID="proverbs.31.12" />
+        <verse sID="proverbs.31.13" osisID="proverbs.31.13" />DELETH quaesivit lanam et linum et operata est consilio manuum suarum<verse eID="proverbs.31.13" />
+        <verse sID="proverbs.31.14" osisID="proverbs.31.14" />HE facta est quasi navis institoris de longe portat panem suum<verse eID="proverbs.31.14" />
+        <verse sID="proverbs.31.15" osisID="proverbs.31.15" />VAV et de nocte surrexit deditque praedam domesticis suis et cibaria ancillis suis<verse eID="proverbs.31.15" />
+        <verse sID="proverbs.31.16" osisID="proverbs.31.16" />ZAI consideravit agrum et emit eum de fructu manuum suarum plantavit vineam<verse eID="proverbs.31.16" />
+        <verse sID="proverbs.31.17" osisID="proverbs.31.17" />HETH accinxit fortitudine lumbos suos et roboravit brachium suum<verse eID="proverbs.31.17" />
+        <verse sID="proverbs.31.18" osisID="proverbs.31.18" />TETH gustavit quia bona est negotiatio eius non extinguetur in nocte lucerna illius<verse eID="proverbs.31.18" />
+        <verse sID="proverbs.31.19" osisID="proverbs.31.19" />IOTH manum suam misit ad fortia et digiti eius adprehenderunt fusum<verse eID="proverbs.31.19" />
+        <verse sID="proverbs.31.20" osisID="proverbs.31.20" />CAPH manum suam aperuit inopi et palmas suas extendit ad pauperem<verse eID="proverbs.31.20" />
+        <verse sID="proverbs.31.21" osisID="proverbs.31.21" />LAMETH non timebit domui suae a frigoribus nivis omnes enim domestici eius vestiti duplicibus<verse eID="proverbs.31.21" />
+        <verse sID="proverbs.31.22" osisID="proverbs.31.22" />MEM stragulam vestem fecit sibi byssus et purpura indumentum eius<verse eID="proverbs.31.22" />
+        <verse sID="proverbs.31.23" osisID="proverbs.31.23" />NUN nobilis in portis vir eius quando sederit cum senatoribus terrae<verse eID="proverbs.31.23" />
+        <verse sID="proverbs.31.24" osisID="proverbs.31.24" />SAMECH sindonem fecit et vendidit et cingulum tradidit Chananeo<verse eID="proverbs.31.24" />
+        <verse sID="proverbs.31.25" osisID="proverbs.31.25" />AIN fortitudo et decor indumentum eius et ridebit in die novissimo<verse eID="proverbs.31.25" />
+        <verse sID="proverbs.31.26" osisID="proverbs.31.26" />PHE os suum aperuit sapientiae et lex clementiae in lingua eius<verse eID="proverbs.31.26" />
+        <verse sID="proverbs.31.27" osisID="proverbs.31.27" />SADE considerat semitas domus suae et panem otiosa non comedet<verse eID="proverbs.31.27" />
+        <verse sID="proverbs.31.28" osisID="proverbs.31.28" />COPH surrexerunt filii eius et beatissimam praedicaverunt vir eius et laudavit eam<verse eID="proverbs.31.28" />
+        <verse sID="proverbs.31.29" osisID="proverbs.31.29" />RES multae filiae congregaverunt divitias tu supergressa es universas<verse eID="proverbs.31.29" />
+        <verse sID="proverbs.31.30" osisID="proverbs.31.30" />SIN fallax gratia et vana est pulchritudo mulier timens Dominum ipsa laudabitur<verse eID="proverbs.31.30" />
+        <verse sID="proverbs.31.31" osisID="proverbs.31.31" />THAV date ei de fructu manuum suarum et laudent eam in portis opera eius<verse eID="proverbs.31.31" />
+      </p>
+      <chapter eID="proverbs.31" />
+    </div>
+  </osisText>
+</osis>

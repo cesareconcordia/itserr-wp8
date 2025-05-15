@@ -1,0 +1,701 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Prov" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Prov">
+        <title>proverbs</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Prov</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>proverbs</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Prov">
+      <title>proverbs</title>
+      <chapter sID="Prov.1" osisID="Prov.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Prov.1.2" osisID="Prov.1.2" />Scire sapientiam, et disciplinam,<verse eID="Prov.1.2" />
+        <verse sID="Prov.1.3" osisID="Prov.1.3" />Et intelligere verba prudentiae, suscipere versutias sermonum, et nosse iustitiam veram, et corrigere iudicium,<verse eID="Prov.1.3" />
+        <verse sID="Prov.1.4" osisID="Prov.1.4" />Et det innocentibus versutiam. Puero autem iuniori sensum, et intelligentiam.<verse eID="Prov.1.4" />
+        <verse sID="Prov.1.5" osisID="Prov.1.5" />Haec audiens sapiens, sapientior erit, et prudens, gubernationem possidebit.<verse eID="Prov.1.5" />
+        <verse sID="Prov.1.6" osisID="Prov.1.6" />Et intelliget parabolam, et tenebrosum sermonem, dicta sapientium, et aenigmata.<verse eID="Prov.1.6" />
+        <verse sID="Prov.1.7" osisID="Prov.1.7" />Timor Domini, initium sensus, sapientiam autem, et disciplinam impii spernunt.<verse eID="Prov.1.7" />
+        <verse sID="Prov.1.8" osisID="Prov.1.8" />Audi, fili, disciplinam patris tui, et ne abieceris instituta matris tuae,<verse eID="Prov.1.8" />
+        <verse sID="Prov.1.9" osisID="Prov.1.9" />coronam enim gratiarum accipies tuo vertici, et torquem aureum circa tuum collum.<verse eID="Prov.1.9" />
+        <verse sID="Prov.1.10" osisID="Prov.1.10" />Fili, non te seducant viri impii, neque acquiescas.<verse eID="Prov.1.10" />
+        <verse sID="Prov.1.11" osisID="Prov.1.11" />Si te rogaverint, dicentes, Veni, communica nobiscum sanguinem, abscondamus autem in terra virum iustum iniuste,<verse eID="Prov.1.11" />
+        <verse sID="Prov.1.12" osisID="Prov.1.12" />absorbeamus vero eum tanquam infernus viventem, et auferamus eius memoriam de terra.<verse eID="Prov.1.12" />
+        <verse sID="Prov.1.13" osisID="Prov.1.13" />Possessionem eius pretiosam apprehendamus ...<verse eID="Prov.1.13" />
+        <verse sID="Prov.1.15" osisID="Prov.1.15" />Nec abieris vias cum illis, ne declinaveris pedem tuum ad semitas eorum.<verse eID="Prov.1.15" />
+        <verse sID="Prov.1.17" osisID="Prov.1.17" />Non enim inique tenduntur retia avibus.<verse eID="Prov.1.17" />
+        <verse sID="Prov.1.18" osisID="Prov.1.18" />Ipsi enim, qui homicidii participes sunt, thesaurizant sibimetipsis mala.<verse eID="Prov.1.18" />
+        <verse sID="Prov.1.19" osisID="Prov.1.19" />Hae sunt viae omnium consummantium iniqua, sua enim impietate suam animam auferunt.<verse eID="Prov.1.19" />
+        <verse sID="Prov.1.20" osisID="Prov.1.20" />Sapientia in exitu canitur, in plateis vero fiducialiter agit,<verse eID="Prov.1.20" />
+        <verse sID="Prov.1.21" osisID="Prov.1.21" />In portis autem potentior adsistit, in muris quoque civitatis confidenter ait,<verse eID="Prov.1.21" />
+        <verse sID="Prov.1.22" osisID="Prov.1.22" />Quanto tempore simplices obtinent iustitiam, non erubescent, imprudentes autem, contumeliae cum sint cupidi, impii effecti, odio habuerunt sensum,<verse eID="Prov.1.22" />
+        <verse sID="Prov.1.23" osisID="Prov.1.23" />et obnoxii facti sunt increpationibus. Ecce proferam vobis meae spirationis professionem, docebo vos meum sermonem.<verse eID="Prov.1.23" />
+        <verse sID="Prov.1.24" osisID="Prov.1.24" />Nam quoniam vocabam, nec obediebatis, et extendebam verba, nec attendebatis,<verse eID="Prov.1.24" />
+        <verse sID="Prov.1.25" osisID="Prov.1.25" />sed irrita faciebatis mea consilia, meis autem increpationibus non intendebatis,<verse eID="Prov.1.25" />
+        <verse sID="Prov.1.26" osisID="Prov.1.26" />Itaque et ego vestra perditione ridebo. Gratulabor autem adversus vos, cum venerit vobis subito tumultus,<verse eID="Prov.1.26" />
+        <verse sID="Prov.1.27" osisID="Prov.1.27" />eversio autem similis procellae. Cum advenerit autem vobis interitus,<verse eID="Prov.1.27" />
+        <verse sID="Prov.1.28" osisID="Prov.1.28" />Erit enim cum me invocabitis, ego autem non exaudiam, quaerent me mali, et non invenient,<verse eID="Prov.1.28" />
+        <verse sID="Prov.1.29" osisID="Prov.1.29" />oderunt enim sapientiam, verbum autem Domini non assumpserunt,<verse eID="Prov.1.29" />
+        <verse sID="Prov.1.30" osisID="Prov.1.30" />neque voluerunt meis consiliis intendere, spreverunt enim meas increpationes.<verse eID="Prov.1.30" />
+        <verse sID="Prov.1.31" osisID="Prov.1.31" />Ideoque edent viae suae fructus, et sua impietate saturabunt animas.<verse eID="Prov.1.31" />
+        <verse sID="Prov.1.32" osisID="Prov.1.32" />Nam quia decipiebant parvulos, interficientur ...<verse eID="Prov.1.32" />
+        <verse sID="Prov.1.33" osisID="Prov.1.33" />Qui autem me audit, inhabitabit in spe, et requiescet sine timore ab omni malignitate.<verse eID="Prov.1.33" />
+      </p>
+      <chapter eID="Prov.1" />
+      <chapter sID="Prov.2" osisID="Prov.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Prov.2.3" osisID="Prov.2.3" />Si enim sapientiam invoces, et intellectui des vocem tuam.<verse eID="Prov.2.3" />
+        <verse sID="Prov.2.4" osisID="Prov.2.4" />Et exquiras eam tanquam argentum, et tanquam thesauros investiges eam,<verse eID="Prov.2.4" />
+        <verse sID="Prov.2.5" osisID="Prov.2.5" />tunc intelliges timorem Domini, et scientiam Dei reperies,<verse eID="Prov.2.5" />
+        <verse sID="Prov.2.6" osisID="Prov.2.6" />quoniam Dominus dat sapientiam, et a facie eius scientia, et intellectus.<verse eID="Prov.2.6" />
+        <verse sID="Prov.2.7" osisID="Prov.2.7" />Deus thesaurizat diligentibus se salutem ...<verse eID="Prov.2.7" />
+        <verse sID="Prov.2.11" osisID="Prov.2.11" />... cogitatio sancta servabit te,<verse eID="Prov.2.11" />
+        <verse sID="Prov.2.13" osisID="Prov.2.13" />O qui dereliquistis semitas rectas, abeundo in vias tenebrarum,<verse eID="Prov.2.13" />
+        <verse sID="Prov.2.14" osisID="Prov.2.14" />et qui laetamini in malis, et gaudetis in eversione mala,<verse eID="Prov.2.14" />
+        <verse sID="Prov.2.15" osisID="Prov.2.15" />quorum semitae pravae, et flexuosi cursus eorum,<verse eID="Prov.2.15" />
+        <verse sID="Prov.2.16" osisID="Prov.2.16" />Cur odisse coepistis viam rectam, et iustum consilium deseruistis? Fili, non te comprehendat cogitatio mala,<verse eID="Prov.2.16" />
+        <verse sID="Prov.2.17" osisID="Prov.2.17" />quae derelinquit doctrinam adolescentiae,<verse eID="Prov.2.17" />
+        <verse sID="Prov.2.18" osisID="Prov.2.18" />et testamenti divini oblita est. Posuit enim apud mortem domum suam, et apud inferos cum terrigenis axes suos.<verse eID="Prov.2.18" />
+        <verse sID="Prov.2.20" osisID="Prov.2.20" />Si ambularent semitas bonas, invenissent utique semitas iustitiae leves.<verse eID="Prov.2.20" />
+        <verse sID="Prov.2.21" osisID="Prov.2.21" />Quoniam recti habitabunt in terra, et sancti habitabunt in ea.<verse eID="Prov.2.21" />
+      </p>
+      <chapter eID="Prov.2" />
+      <chapter sID="Prov.3" osisID="Prov.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Prov.3.4" osisID="Prov.3.4" />... provide bona semper coram Deo, et coram hominibus.<verse eID="Prov.3.4" />
+        <verse sID="Prov.3.5" osisID="Prov.3.5" />Esto confidens in Dominum in toto corde tuo, in tua autem sapientia ne exalteris.<verse eID="Prov.3.5" />
+        <verse sID="Prov.3.6" osisID="Prov.3.6" />In omnibus viis tuis cognosce eum, ut rectas faciat vias tuas.<verse eID="Prov.3.6" />
+        <verse sID="Prov.3.7" osisID="Prov.3.7" />Noli esse sapiens apud te ipsum, time Dominum, et declina ab omni malo,<verse eID="Prov.3.7" />
+        <verse sID="Prov.3.8" osisID="Prov.3.8" />et erit pax corpori tuo, et diligentia ossibus tuis.<verse eID="Prov.3.8" />
+        <verse sID="Prov.3.9" osisID="Prov.3.9" />Honora Dominum de tuis iustis laboribus, et da ei de fructibus iustitiae tuae,<verse eID="Prov.3.9" />
+        <verse sID="Prov.3.10" osisID="Prov.3.10" />ut impleantur cellaria tua frumento, et vino torcularia tua redundent.<verse eID="Prov.3.10" />
+        <verse sID="Prov.3.11" osisID="Prov.3.11" />Fili, ne deficias in disciplina Domini, neque fatigeris cum ab illo increparis,<verse eID="Prov.3.11" />
+        <verse sID="Prov.3.12" osisID="Prov.3.12" />quem enim diligit Dominus, corripit, flagellat autem omnem filium quem recipit.<verse eID="Prov.3.12" />
+        <verse sID="Prov.3.13" osisID="Prov.3.13" />Beatus vir, qui invenit sapientiam. Et immortalis, qui videt prudentiam,<verse eID="Prov.3.13" />
+        <verse sID="Prov.3.14" osisID="Prov.3.14" />melius est enim illam mercari, quam auri et argenti thesauros,<verse eID="Prov.3.14" />
+        <verse sID="Prov.3.15" osisID="Prov.3.15" />pretiosior est autem lapidibus optimis, non resistit illi ullum malum, bene nota est omnibus appropinquantibus ei, et eis qui considerant eam diligenter, omne autem pretiosum non est illi dignum.<verse eID="Prov.3.15" />
+        <verse sID="Prov.3.16" osisID="Prov.3.16" />Longitudo dierum et anni vitae in dextera eius, in sinistra autem eius divitiae, et gloria ... legem et misericordiam in lingua portat.<verse eID="Prov.3.16" />
+        <verse sID="Prov.3.17" osisID="Prov.3.17" />Viae eius viae bonae, et omnes semitae eius in pace.<verse eID="Prov.3.17" />
+        <verse sID="Prov.3.18" osisID="Prov.3.18" />Lignum vitae est omnibus, qui complectuntur eam, et qui incumbunt in eam, sicut in Domino.<verse eID="Prov.3.18" />
+        <verse sID="Prov.3.19" osisID="Prov.3.19" />Deus sapientia fundavit terram, paravit autem coelum prudentia.<verse eID="Prov.3.19" />
+        <verse sID="Prov.3.20" osisID="Prov.3.20" />Sensu eius abyssi eruperunt, nubes autem manaverunt ros.<verse eID="Prov.3.20" />
+        <verse sID="Prov.3.21" osisID="Prov.3.21" />Fili, ne defluas ...<verse eID="Prov.3.21" />
+        <verse sID="Prov.3.24" osisID="Prov.3.24" />si enim sedeas, sine timore sedebis, si dormias, suaviter requieses,<verse eID="Prov.3.24" />
+        <verse sID="Prov.3.25" osisID="Prov.3.25" />et non timebis pavorem qui superveniet tibi, neque impetus impiorum supervenientes tibi.<verse eID="Prov.3.25" />
+        <verse sID="Prov.3.27" osisID="Prov.3.27" />Noli abstinere benefacere egenti, dum habes occasionem, benefac.<verse eID="Prov.3.27" />
+        <verse sID="Prov.3.28" osisID="Prov.3.28" />Ne dixeris, Abi, et revertere, cras ego dabo, cum possis continuo benefacere, non enim scis quid contingat sequenti die.<verse eID="Prov.3.28" />
+        <verse sID="Prov.3.29" osisID="Prov.3.29" />Noli fabricare in amicum tuum mala, in incolam, et confidentem.<verse eID="Prov.3.29" />
+        <verse sID="Prov.3.30" osisID="Prov.3.30" />Noli inimicitias exercere adversus hominem sine causa, ne quid tibi operetur malum.<verse eID="Prov.3.30" />
+        <verse sID="Prov.3.34" osisID="Prov.3.34" />Superbis Deus resistit, humilibus autem dat gratiam.<verse eID="Prov.3.34" />
+        <verse sID="Prov.3.35" osisID="Prov.3.35" />... impii exaltant contumeliam.<verse eID="Prov.3.35" />
+      </p>
+      <chapter eID="Prov.3" />
+      <chapter sID="Prov.4" osisID="Prov.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Prov.4.1" osisID="Prov.4.1" />Audite pueri disciplinam patris, et attendite ut cognoscatis intelligentiam.<verse eID="Prov.4.1" />
+        <verse sID="Prov.4.5" osisID="Prov.4.5" />Posside sapientiam, posside intelligentiam, ne obliviscaris, et ne declinaveris a verbis oris mei.<verse eID="Prov.4.5" />
+        <verse sID="Prov.4.6" osisID="Prov.4.6" />Neque derelinquas illam, et apprehendet te, ama illam, et servabit te.<verse eID="Prov.4.6" />
+        <verse sID="Prov.4.7" osisID="Prov.4.7" />Principium sapientiae, posside sapientiam, et in omni possessione tua posside intelligentiam,<verse eID="Prov.4.7" />
+        <verse sID="Prov.4.8" osisID="Prov.4.8" />circumda illam, et exaltabit te, honora illam, et amplexabitur te,<verse eID="Prov.4.8" />
+        <verse sID="Prov.4.9" osisID="Prov.4.9" />ut det capiti tuo coronam gratiarum, corona quoque deliciarum protegat te.<verse eID="Prov.4.9" />
+        <verse sID="Prov.4.14" osisID="Prov.4.14" />Vias impiorum noli sequi, neque aemuleris viam iniquorum.<verse eID="Prov.4.14" />
+        <verse sID="Prov.4.15" osisID="Prov.4.15" />In quocunque loco exercitum constituerint, ne supervenias illuc, declina autem ab ea, et devita,<verse eID="Prov.4.15" />
+        <verse sID="Prov.4.16" osisID="Prov.4.16" />non enim dormient, nisi malefecerint, ablatus est enim somnus ab eis, et non dormiunt,<verse eID="Prov.4.16" />
+        <verse sID="Prov.4.17" osisID="Prov.4.17" />hi enim cibantur cibis impietatis, vino autem iniquo inebriantur.<verse eID="Prov.4.17" />
+        <verse sID="Prov.4.18" osisID="Prov.4.18" />Nam viae iustorum similiter ut lux fulgebunt, procedunt, et illuminant, donec corrigat dies.<verse eID="Prov.4.18" />
+        <verse sID="Prov.4.19" osisID="Prov.4.19" />Viae autem impiorum tenebrosae, nesciunt quomodo offendunt.<verse eID="Prov.4.19" />
+        <verse sID="Prov.4.23" osisID="Prov.4.23" />Omni custodia serva cor tuum, ex hoc enim exitus vitae.<verse eID="Prov.4.23" />
+        <verse sID="Prov.4.24" osisID="Prov.4.24" />Aufer igitur tibi pravum os, et iniusta labia longe a te propelle.<verse eID="Prov.4.24" />
+        <verse sID="Prov.4.25" osisID="Prov.4.25" />Oculi tui recta videant ...<verse eID="Prov.4.25" />
+        <verse sID="Prov.4.26" osisID="Prov.4.26" />Rectos cursus fac pedibus tuis, et vias tuas dirige.<verse eID="Prov.4.26" />
+        <verse sID="Prov.4.27" osisID="Prov.4.27" />Ne declines in dexteram, neque in sinistram, averte autem pedem tuum a via mala, vias enim, quae a dextris sunt, novit Dominus, perversae vero sunt quae a sinistris sunt. Ipse autem rectos faciet cursus tuos, itinera autem tua in pace producet.<verse eID="Prov.4.27" />
+      </p>
+      <chapter eID="Prov.4" />
+      <chapter sID="Prov.5" osisID="Prov.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Prov.5.2" osisID="Prov.5.2" />... Noli te intendere fallaci mulieri,<verse eID="Prov.5.2" />
+        <verse sID="Prov.5.3" osisID="Prov.5.3" />mel enim distillat a labiis mulieris meretricis, quae ad tempus impinguat fauces tuas,<verse eID="Prov.5.3" />
+        <verse sID="Prov.5.4" osisID="Prov.5.4" />novissime autem amarius felle invenies, et acutius magis quam gladius ex utraquae parte acutus.<verse eID="Prov.5.4" />
+        <verse sID="Prov.5.5" osisID="Prov.5.5" />Insipientes autem pedes deducunt utentes ea cum morte ad inferos.<verse eID="Prov.5.5" />
+        <verse sID="Prov.5.15" osisID="Prov.5.15" />Bibe aquam de tuis vasis, et de puteorum tuorum fontibus,<verse eID="Prov.5.15" />
+        <verse sID="Prov.5.16" osisID="Prov.5.16" />Superfluant tibi aquae de tuo fonte, in tuas autem plateas discurrant.<verse eID="Prov.5.16" />
+        <verse sID="Prov.5.17" osisID="Prov.5.17" />Sint tibi soli constitutae, et nemo alienus particeps sit tibi.<verse eID="Prov.5.17" />
+        <verse sID="Prov.5.18" osisID="Prov.5.18" />Fons aquae tuae sit tibi proprius, et iucundare cum uxore, quae est tibi a iuventute,<verse eID="Prov.5.18" />
+        <verse sID="Prov.5.19" osisID="Prov.5.19" />cervus amicitiae, et pullus gratiarum confabulentur tecum ...<verse eID="Prov.5.19" />
+        <verse sID="Prov.5.20" osisID="Prov.5.20" />Ne multus fueris ad alienam, neque continueris amplexibus non tuam.<verse eID="Prov.5.20" />
+        <verse sID="Prov.5.22" osisID="Prov.5.22" />Iniquitates suae capient impium, funiculis autem peccatorum suorum unusquisque constringitur.<verse eID="Prov.5.22" />
+        <verse sID="Prov.5.23" osisID="Prov.5.23" />Hic moritur cum indisciplinatis, de multitudine autem vitae suae proiectus est, et perit pro insipientia.<verse eID="Prov.5.23" />
+      </p>
+      <chapter eID="Prov.5" />
+      <chapter sID="Prov.6" osisID="Prov.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Prov.6.2" osisID="Prov.6.2" />laqueus fortis est viro propria labia ...<verse eID="Prov.6.2" />
+        <verse sID="Prov.6.3" osisID="Prov.6.3" />Fac fili quae ego mando tibi, et salvus eris, venisti enim in manus malorum propter amicum tuum. Esto infatigabilis, attende autem amicum tuum, quem spondisti,<verse eID="Prov.6.3" />
+        <verse sID="Prov.6.4" osisID="Prov.6.4" />ne dederis somnum oculis tuis, neque dormites palpebris tuis.<verse eID="Prov.6.4" />
+        <verse sID="Prov.6.5" osisID="Prov.6.5" />Cito vadas sicut damula ex retibus, sicut avis ex laqueo.<verse eID="Prov.6.5" />
+        <verse sID="Prov.6.6" osisID="Prov.6.6" />Confer te ad formicam o piger, et aemulare vias eius, et esto illa sapientior,<verse eID="Prov.6.6" />
+        <verse sID="Prov.6.7" osisID="Prov.6.7" />illa enima nullam culturam possidet, neque eum qui se cogat habens, neque sub domino agens,<verse eID="Prov.6.7" />
+        <verse sID="Prov.6.8" osisID="Prov.6.8" />quemadmodum praeparat escam, quae de tuis laboribus sibi messem recondit. Vade ad apem, et vide quomodo operaria est, operationem quoque quam venerabilem mercatur. Cuius laborem reges, et mediocres ad salutem sumunt, appetibilis enim est omnibus, et clara, cum sit robore infirma, sapientiae praedicatione substantiae suae producit aetatem.<verse eID="Prov.6.8" />
+        <verse sID="Prov.6.9" osisID="Prov.6.9" />O piger quousque dormis? Quando autem de somno surgis?<verse eID="Prov.6.9" />
+        <verse sID="Prov.6.10" osisID="Prov.6.10" />Modicum quidem dormis, modicum sedes, modicum autem dormitas, pusillum autem manibus amplecteris pectus,<verse eID="Prov.6.10" />
+        <verse sID="Prov.6.11" osisID="Prov.6.11" />deinde superveniet tibi tanquam viator, paupertas. Inopia autem sicut bonus cursor. Si vero impiger fueris, veniet ut fons messis tua, et egestas longe fugiet a te.<verse eID="Prov.6.11" />
+        <verse sID="Prov.6.17" osisID="Prov.6.17" />Oculus contumeliosus, lingua iniqua, manus effundentes sanguinem iusti,<verse eID="Prov.6.17" />
+        <verse sID="Prov.6.18" osisID="Prov.6.18" />et cor fabricans cogitationes malas, et pedes festinantes ad malefaciendum.<verse eID="Prov.6.18" />
+        <verse sID="Prov.6.20" osisID="Prov.6.20" />Fili custodi legem patris tui, et ne repuleris instituta matris tuae.<verse eID="Prov.6.20" />
+        <verse sID="Prov.6.21" osisID="Prov.6.21" />Alliga autem illa circa tuam animam semper, et circumda collo tuo.<verse eID="Prov.6.21" />
+        <verse sID="Prov.6.25" osisID="Prov.6.25" />Non te vincat concupiscentia formae, neque capiaris oculis, neque abripiaris palpebris,<verse eID="Prov.6.25" />
+        <verse sID="Prov.6.26" osisID="Prov.6.26" />pretium meretricis tantum est unius panis, mulier autem pretiosas animas capit.<verse eID="Prov.6.26" />
+        <verse sID="Prov.6.27" osisID="Prov.6.27" />Ligabit quis ignem in sinu, vestimenta autem non comburet?<verse eID="Prov.6.27" />
+        <verse sID="Prov.6.28" osisID="Prov.6.28" />Vel ambulabit quis super carbones ignis, pedes autem non comburet?<verse eID="Prov.6.28" />
+        <verse sID="Prov.6.29" osisID="Prov.6.29" />Sic qui introierit ad uxorem proximi sui, non erit immunis, neque omnis qui tangit eam.<verse eID="Prov.6.29" />
+        <verse sID="Prov.6.32" osisID="Prov.6.32" />Moechus autem per indigentiam sensuum perditionem animae suae acquirit,<verse eID="Prov.6.32" />
+        <verse sID="Prov.6.33" osisID="Prov.6.33" />dolores et dehonestationes sustinet, ignominia autem eius non abolebitur in aevum,<verse eID="Prov.6.33" />
+        <verse sID="Prov.6.34" osisID="Prov.6.34" />plena enim zeli indignatio viri non parcet in die iudicii.<verse eID="Prov.6.34" />
+      </p>
+      <chapter eID="Prov.6" />
+      <chapter sID="Prov.7" osisID="Prov.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Prov.7.1" osisID="Prov.7.1" />... Fili.<verse eID="Prov.7.1" />
+        <verse sID="Prov.7.2" osisID="Prov.7.2" />Honora Dominum, et valebis, praeter eum ne timeas alterum ...<verse eID="Prov.7.2" />
+        <verse sID="Prov.7.3" osisID="Prov.7.3" />... describe haec in latitudine cordis tui.<verse eID="Prov.7.3" />
+        <verse sID="Prov.7.4" osisID="Prov.7.4" />... prudentiam autem notam adsume tibi,<verse eID="Prov.7.4" />
+        <verse sID="Prov.7.5" osisID="Prov.7.5" />ut custodiat te a muliere aliena, et mala ...<verse eID="Prov.7.5" />
+        <verse sID="Prov.7.6" osisID="Prov.7.6" />Per fenestram enim de domo sua in plateas prospicit.<verse eID="Prov.7.6" />
+        <verse sID="Prov.7.14" osisID="Prov.7.14" />Sacrificium pacis est mihi, hodie reddo vota mea,<verse eID="Prov.7.14" />
+        <verse sID="Prov.7.15" osisID="Prov.7.15" />hac ex causa progressa sum obviam tibi, desiderans faciem tuam, inveni te.<verse eID="Prov.7.15" />
+        <verse sID="Prov.7.16" osisID="Prov.7.16" />Institis texui lectum meum, et tapetis ab Aegypto stravi,<verse eID="Prov.7.16" />
+        <verse sID="Prov.7.17" osisID="Prov.7.17" />aspersi lectum meum croco, domum autem meam cinnamomo.<verse eID="Prov.7.17" />
+        <verse sID="Prov.7.18" osisID="Prov.7.18" />Veni, fruamur amicitia usque in diluculum. Veni, et colluctemur cupidine,<verse eID="Prov.7.18" />
+        <verse sID="Prov.7.19" osisID="Prov.7.19" />non enim adest vir meus in domo, abiit autem viam longissimam,<verse eID="Prov.7.19" />
+        <verse sID="Prov.7.20" osisID="Prov.7.20" />involucro pecuniae accepto in manu ...<verse eID="Prov.7.20" />
+        <verse sID="Prov.7.21" osisID="Prov.7.21" />Seducens eum multo blandimento sermonum, et laqueis labiorum suorum alligans, domum adusque adtraxit.<verse eID="Prov.7.21" />
+        <verse sID="Prov.7.22" osisID="Prov.7.22" />At ille secutus eam, circumvenitur ...<verse eID="Prov.7.22" />
+        <verse sID="Prov.7.23" osisID="Prov.7.23" />velut cervus sagittatus in iecore haeret saucius ...<verse eID="Prov.7.23" />
+        <verse sID="Prov.7.24" osisID="Prov.7.24" />Nunc igitur fili, audi me, intende verbis oris mei.<verse eID="Prov.7.24" />
+        <verse sID="Prov.7.25" osisID="Prov.7.25" />Non declinet in vias eius cor tuum,<verse eID="Prov.7.25" />
+        <verse sID="Prov.7.26" osisID="Prov.7.26" />multos enim vulnerando deiecit, et sunt innumerabiles quos trucidavit.<verse eID="Prov.7.26" />
+        <verse sID="Prov.7.27" osisID="Prov.7.27" />Viae inferorum domus eius, deducentes in secessum mortis.<verse eID="Prov.7.27" />
+      </p>
+      <chapter eID="Prov.7" />
+      <chapter sID="Prov.8" osisID="Prov.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Prov.8.4" osisID="Prov.8.4" />Vos, o homines, obsecro, et emitto vocem meam filiis hominum.<verse eID="Prov.8.4" />
+        <verse sID="Prov.8.5" osisID="Prov.8.5" />Intelligite simplices astutiam, indocti autem cor apponite.<verse eID="Prov.8.5" />
+        <verse sID="Prov.8.7" osisID="Prov.8.7" />Quoniam veritatem meditabuntur fauces meae, abominata vero ante me labia mendacia.<verse eID="Prov.8.7" />
+        <verse sID="Prov.8.10" osisID="Prov.8.10" />Tu autem accipe potius disciplinam, quam pecuniam. Et scientiam, super aurum probatum.<verse eID="Prov.8.10" />
+        <verse sID="Prov.8.11" osisID="Prov.8.11" />Melior est enim lapidibus pretiosis ...<verse eID="Prov.8.11" />
+        <verse sID="Prov.8.13" osisID="Prov.8.13" />Timor Domini odit malitiam ...<verse eID="Prov.8.13" />
+        <verse sID="Prov.8.14" osisID="Prov.8.14" />Meum consilium, et mea tutela. Ego prudentia, mea autem virtus.<verse eID="Prov.8.14" />
+        <verse sID="Prov.8.15" osisID="Prov.8.15" />Per me reges regnant, et potentes scribunt iustitiam,<verse eID="Prov.8.15" />
+        <verse sID="Prov.8.16" osisID="Prov.8.16" />Per me principes magnificantur, et tyranni per me tenent terram.<verse eID="Prov.8.16" />
+        <verse sID="Prov.8.20" osisID="Prov.8.20" />In viis aequitatis ambulo, et inter medias semitas iustitiae conversor,<verse eID="Prov.8.20" />
+        <verse sID="Prov.8.21" osisID="Prov.8.21" />ut dividam diligentibus me substantiam, et thesauros eorum impleam bonis. Si enunciavero vobis quae quotidie fiunt, memorabor ea quae a saeculo sunt enumerare.<verse eID="Prov.8.21" />
+        <verse sID="Prov.8.22" osisID="Prov.8.22" />Dominus condidit me in initio viarum suarum in opera sua,<verse eID="Prov.8.22" />
+        <verse sID="Prov.8.23" osisID="Prov.8.23" />ante saeculum fundavit me, in principio, antequam terram faceret,<verse eID="Prov.8.23" />
+        <verse sID="Prov.8.24" osisID="Prov.8.24" />et antequam abyssos constitueret, priusquam procederent fontes aquarum,<verse eID="Prov.8.24" />
+        <verse sID="Prov.8.25" osisID="Prov.8.25" />antequam montes collocarentur. Ante omnes colles genuit me Dominus.<verse eID="Prov.8.25" />
+        <verse sID="Prov.8.26" osisID="Prov.8.26" />Fecit regiones, et inhabitabilia, et fines inhabitabiles sub coelo.<verse eID="Prov.8.26" />
+        <verse sID="Prov.8.27" osisID="Prov.8.27" />Cum pararet coelum, aderam illi. Et cum secerneret suam sedem,<verse eID="Prov.8.27" />
+        <verse sID="Prov.8.28" osisID="Prov.8.28" />cum super ventos validas faceret desuper nubes, et cum confirmatos ponebat fontes sub coelo,<verse eID="Prov.8.28" />
+        <verse sID="Prov.8.29" osisID="Prov.8.29" />quando fortia faciebat fundamenta terrae.<verse eID="Prov.8.29" />
+        <verse sID="Prov.8.30" osisID="Prov.8.30" />Eram penes illum disponens, ego eram cui adgaudebat. Quotidie autem iucundabar ante faciem eius in omni tempore,<verse eID="Prov.8.30" />
+        <verse sID="Prov.8.31" osisID="Prov.8.31" />cum laetaretur orbe perfecto, et iocundabatur in filiis hominum.<verse eID="Prov.8.31" />
+        <verse sID="Prov.8.34" osisID="Prov.8.34" />Beatus vir qui audierit me, et homo qui vias meas custodierit, advigilans meis ostiis quotidie, custodiens postes mei introitus.<verse eID="Prov.8.34" />
+        <verse sID="Prov.8.35" osisID="Prov.8.35" />Exitus mei, exitus sunt vitae, praeparatur voluntas a Domino.<verse eID="Prov.8.35" />
+        <verse sID="Prov.8.36" osisID="Prov.8.36" />Qui autem in me peccant, impie faciunt in animas suas, et qui me oderunt, diligunt mortem.<verse eID="Prov.8.36" />
+      </p>
+      <chapter eID="Prov.8" />
+      <chapter sID="Prov.9" osisID="Prov.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Prov.9.1" osisID="Prov.9.1" />Sapientia aedificavit sibi domum, et subdidit columnas septem.<verse eID="Prov.9.1" />
+        <verse sID="Prov.9.2" osisID="Prov.9.2" />Mactavit suas hostias, miscuit in cratera vinum suum, et paravit suam mensam.<verse eID="Prov.9.2" />
+        <verse sID="Prov.9.3" osisID="Prov.9.3" />Et misit servos suos convocans cum excelsa praedicatione ad craterem, dicens,<verse eID="Prov.9.3" />
+        <verse sID="Prov.9.4" osisID="Prov.9.4" />Qui est insipiens, declinet ad me. Et egentibus sensu dixit,<verse eID="Prov.9.4" />
+        <verse sID="Prov.9.5" osisID="Prov.9.5" />Venite, edite de meis panibus, et bibite vinum quod miscui vobis.<verse eID="Prov.9.5" />
+        <verse sID="Prov.9.6" osisID="Prov.9.6" />Derelinquite stultitiam, et quaerite prudentiam, et corrigite scientiam in intellectu.<verse eID="Prov.9.6" />
+        <verse sID="Prov.9.8" osisID="Prov.9.8" />Noli arguere malos, ne oderint te. Corripe sapientem, et amabit te, corripe stultum, et adiiciet ut oderit te.<verse eID="Prov.9.8" />
+        <verse sID="Prov.9.9" osisID="Prov.9.9" />Da sapienti occasionem, et sapientior erit. Notum fac iusto, et adiiciet percipere.<verse eID="Prov.9.9" />
+        <verse sID="Prov.9.10" osisID="Prov.9.10" />Principium sapientiae, timor Domini ... scire legem, sensus est optimi.<verse eID="Prov.9.10" />
+        <verse sID="Prov.9.12" osisID="Prov.9.12" />Fili, si sapiens eris, tibi sapiens eris, et proximis, si autem malus evaseris, solus hauries mala. Qui fidens est in falsis, hic pascit ventos, idem autem ipse sequitur aves volantes, deserit enim vias vineae suae, a semitis vero agelli sui erravit, ingreditur autem per avia loca atque arida, et terram destinatam in sitim. Contrahit autem manibus infructuosa.<verse eID="Prov.9.12" />
+        <verse sID="Prov.9.13" osisID="Prov.9.13" />Mulier insipiens et audax inops panis efficitur, quae non novit pudorem,<verse eID="Prov.9.13" />
+        <verse sID="Prov.9.14" osisID="Prov.9.14" />sedet in foribus domus in sella palam in plateis,<verse eID="Prov.9.14" />
+        <verse sID="Prov.9.15" osisID="Prov.9.15" />advocans praetereuntes ...<verse eID="Prov.9.15" />
+        <verse sID="Prov.9.16" osisID="Prov.9.16" />Qui est insipientior, divertat ad me. Et indigentibus sapientia praecipio, dicens,<verse eID="Prov.9.16" />
+        <verse sID="Prov.9.17" osisID="Prov.9.17" />Panibus absconditis suaviter utimini, et aquam furtim dulciorem bibite.<verse eID="Prov.9.17" />
+        <verse sID="Prov.9.18" osisID="Prov.9.18" />Et nescit insipiens quoniam terrigenae apud eam pereunt, et in profundum inferni incurrunt. Exili, noli demorari in loco eius, neque intendas oculo tuo in eam. Ab aqua aliena abstine te, et de fonte extraneo ne biberis. Ut longum vivas tempus, adiiciantur etiam tibi anni vitae.<verse eID="Prov.9.18" />
+      </p>
+      <chapter eID="Prov.9" />
+      <chapter sID="Prov.10" osisID="Prov.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Prov.10.2" osisID="Prov.10.2" />Non proderunt thesauri iniquis, iustitia autem eripit a morte.<verse eID="Prov.10.2" />
+        <verse sID="Prov.10.3" osisID="Prov.10.3" />Non occidet fame Dominus animam iustam ...<verse eID="Prov.10.3" />
+        <verse sID="Prov.10.4" osisID="Prov.10.4" />... Filius eruditus sapiens erit, imprudente autem ministro uretur.<verse eID="Prov.10.4" />
+        <verse sID="Prov.10.7" osisID="Prov.10.7" />Memoria iusti cum laudibus ...<verse eID="Prov.10.7" />
+        <verse sID="Prov.10.9" osisID="Prov.10.9" />Qui ambulat simpliciter, ambulat fidenter ...<verse eID="Prov.10.9" />
+        <verse sID="Prov.10.10" osisID="Prov.10.10" />Annuens oculis cum dolo, congerit hominibus moestitiam, qui autem arguit palam, pacem facit.<verse eID="Prov.10.10" />
+        <verse sID="Prov.10.12" osisID="Prov.10.12" />Odium suscitat contentio, omnes autem qui non contendunt protegit amicitia.<verse eID="Prov.10.12" />
+        <verse sID="Prov.10.14" osisID="Prov.10.14" />... os procacis appropiat contritioni.<verse eID="Prov.10.14" />
+        <verse sID="Prov.10.15" osisID="Prov.10.15" />Possessio divitum, civitas firmissima ...<verse eID="Prov.10.15" />
+        <verse sID="Prov.10.18" osisID="Prov.10.18" />... et qui profert maledicta, stultissimus est.<verse eID="Prov.10.18" />
+        <verse sID="Prov.10.19" osisID="Prov.10.19" />Ex multiloquentia non effugies peccatum, parcens autem labiis, sensatus eris.<verse eID="Prov.10.19" />
+        <verse sID="Prov.10.20" osisID="Prov.10.20" />Argentum igne examinatum, lingua iusti ...<verse eID="Prov.10.20" />
+        <verse sID="Prov.10.21" osisID="Prov.10.21" />... imperitis enim obviat mors.<verse eID="Prov.10.21" />
+        <verse sID="Prov.10.23" osisID="Prov.10.23" />Stultus per risum agit mala ...<verse eID="Prov.10.23" />
+        <verse sID="Prov.10.26" osisID="Prov.10.26" />Sicut uva acerba dentibus vexatio est, et fumus oculis. Sic iniquitas utentibus ea.<verse eID="Prov.10.26" />
+        <verse sID="Prov.10.27" osisID="Prov.10.27" />... anni impiorum minuentur.<verse eID="Prov.10.27" />
+        <verse sID="Prov.10.31" osisID="Prov.10.31" />Lingua intelligentis meditabitur sapientiam ...<verse eID="Prov.10.31" />
+      </p>
+      <chapter eID="Prov.10" />
+      <chapter sID="Prov.11" osisID="Prov.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Prov.11.1" osisID="Prov.11.1" />Statera doli, abominatio est coram Domino, pondus autem aequum, acceptum est ei.<verse eID="Prov.11.1" />
+        <verse sID="Prov.11.3" osisID="Prov.11.3" />Defunctus iustus relinquet poenitentiam, promptus autem sit et insultabilis impiorum interitus.<verse eID="Prov.11.3" />
+        <verse sID="Prov.11.14" osisID="Prov.11.14" />Quibus non est gubernatio, cadent quasi folia, ubi plurima sunt consilia, maxima est salus.<verse eID="Prov.11.14" />
+        <verse sID="Prov.11.15" osisID="Prov.11.15" />Malignus nocet, cum se miscuerit iusto. Odit autem fonum tutelae.<verse eID="Prov.11.15" />
+        <verse sID="Prov.11.16" osisID="Prov.11.16" />Mulier grata suscitat viro gloriam ...<verse eID="Prov.11.16" />
+        <verse sID="Prov.11.17" osisID="Prov.11.17" />Animae suae benefacit vir misericors ...<verse eID="Prov.11.17" />
+        <verse sID="Prov.11.20" osisID="Prov.11.20" />Diligit Dominus munda corda, accepti autem sunt ei omnes immaculati.<verse eID="Prov.11.20" />
+        <verse sID="Prov.11.21" osisID="Prov.11.21" />Manus inferens iniuste non erit impunitus ...<verse eID="Prov.11.21" />
+        <verse sID="Prov.11.22" osisID="Prov.11.22" />Sicut inauris in naribus porcae, sic mulieri male moratae pulchritudo.<verse eID="Prov.11.22" />
+        <verse sID="Prov.11.25" osisID="Prov.11.25" />Anima benedicta, omnis simplex, vir animosus inhonestus est.<verse eID="Prov.11.25" />
+        <verse sID="Prov.11.26" osisID="Prov.11.26" />Qui continet frumentum, relinquet illud nationibus, captans annonam, maledictus in plebe est. Benedictio autem eius qui participat.<verse eID="Prov.11.26" />
+        <verse sID="Prov.11.29" osisID="Prov.11.29" />... servit enim imprudens prudenti.<verse eID="Prov.11.29" />
+        <verse sID="Prov.11.31" osisID="Prov.11.31" />Si iustus vix salvabitur, peccator et impius ubi parebunt?<verse eID="Prov.11.31" />
+      </p>
+      <chapter eID="Prov.11" />
+      <chapter sID="Prov.12" osisID="Prov.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Prov.12.1" osisID="Prov.12.1" />Qui diligit disciplinam, diligit sensum, nam qui odit arguentem se, stultus est.<verse eID="Prov.12.1" />
+        <verse sID="Prov.12.4" osisID="Prov.12.4" />Mulier bona, corona est viro suo ...<verse eID="Prov.12.4" />
+        <verse sID="Prov.12.5" osisID="Prov.12.5" />Cogitationes iustorum semitae ...<verse eID="Prov.12.5" />
+        <verse sID="Prov.12.9" osisID="Prov.12.9" />Melior est vir in ignobilitate serviens sibi, quam qui dignitatem sibi acquirit, et indiget pane.<verse eID="Prov.12.9" />
+        <verse sID="Prov.12.10" osisID="Prov.12.10" />Iustus miseretur animas pecorum suorum, viscera autem impiorum sine misericordia.<verse eID="Prov.12.10" />
+        <verse sID="Prov.12.11" osisID="Prov.12.11" />... Qui suavis est in vini demorationibus, in suis monitionibus relinquet contumeliam.<verse eID="Prov.12.11" />
+        <verse sID="Prov.12.13" osisID="Prov.12.13" />Per delicta labiorum incidit in laqueum peccator ...<verse eID="Prov.12.13" />
+        <verse sID="Prov.12.15" osisID="Prov.12.15" />Viae insipientium rectae coram ipsis, exaudit autem consilia sapiens.<verse eID="Prov.12.15" />
+        <verse sID="Prov.12.16" osisID="Prov.12.16" />Imprudens eadem die enunciat iram suam, abscondit autem inhonorationem suam astutus.<verse eID="Prov.12.16" />
+        <verse sID="Prov.12.21" osisID="Prov.12.21" />Iusto nihil placet iniquum ...<verse eID="Prov.12.21" />
+        <verse sID="Prov.12.22" osisID="Prov.12.22" />Abominatio est Domino labia mendacia ...<verse eID="Prov.12.22" />
+        <verse sID="Prov.12.27" osisID="Prov.12.27" />... possessio pretiosa vir mundus.<verse eID="Prov.12.27" />
+      </p>
+      <chapter eID="Prov.12" />
+      <chapter sID="Prov.13" osisID="Prov.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Prov.13.3" osisID="Prov.13.3" />Qui custodit os suum, servat animam suam, et qui temerarius est labiis, terrebit se ipsum.<verse eID="Prov.13.3" />
+        <verse sID="Prov.13.7" osisID="Prov.13.7" />Sunt qui se divites ferunt, nihil habentes, et sunt qui se humiliant in multis divitiis.<verse eID="Prov.13.7" />
+        <verse sID="Prov.13.8" osisID="Prov.13.8" />Redemptio animae viri, propriae divitiae, pauper autem non sustinet comminationem.<verse eID="Prov.13.8" />
+        <verse sID="Prov.13.9" osisID="Prov.13.9" />Lux semper est iustis ... Animae dolosae errant in peccatis, iusti autem misericordes sunt, et miserantur.<verse eID="Prov.13.9" />
+        <verse sID="Prov.13.10" osisID="Prov.13.10" />Malus cum contumelia agit mala ...<verse eID="Prov.13.10" />
+        <verse sID="Prov.13.13" osisID="Prov.13.13" />... Filio doloso nihil erit boni, servo autem sapienti prosperi erunt actus, et dirigentur viae eius.<verse eID="Prov.13.13" />
+        <verse sID="Prov.13.14" osisID="Prov.13.14" />Lex sapienti fons est vitae, stultus autem laqueo morietur.<verse eID="Prov.13.14" />
+        <verse sID="Prov.13.15" osisID="Prov.13.15" />Intellectus autem bonus dat gratiam ...<verse eID="Prov.13.15" />
+        <verse sID="Prov.13.16" osisID="Prov.13.16" />... et insipiens expandit malitiam suam.<verse eID="Prov.13.16" />
+        <verse sID="Prov.13.17" osisID="Prov.13.17" />Rex audax incidet in mala ...<verse eID="Prov.13.17" />
+        <verse sID="Prov.13.18" osisID="Prov.13.18" />Paupertatem, et ignobilitatem aufert disciplina ...<verse eID="Prov.13.18" />
+        <verse sID="Prov.13.22" osisID="Prov.13.22" />... thesaurizantur autem iustis divitiae impiorum.<verse eID="Prov.13.22" />
+        <verse sID="Prov.13.24" osisID="Prov.13.24" />Qui parcit baculo suo, odit filium suum, qui autem diligenter corripit, diligit.<verse eID="Prov.13.24" />
+        <verse sID="Prov.13.25" osisID="Prov.13.25" />Iustus comedens, saturat animam suam, animae autem impiorum esurient.<verse eID="Prov.13.25" />
+      </p>
+      <chapter eID="Prov.13" />
+      <chapter sID="Prov.14" osisID="Prov.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Prov.14.1" osisID="Prov.14.1" />Mulieres sapientes aedificaverunt sibi domos ...<verse eID="Prov.14.1" />
+        <verse sID="Prov.14.3" osisID="Prov.14.3" />Ex ore stultorum baculum contumeliae ...<verse eID="Prov.14.3" />
+        <verse sID="Prov.14.4" osisID="Prov.14.4" />Ubi boves non sunt, praesepia munda sunt, ubi plena sunt praesepia, manifesta est fortitudo bovis.<verse eID="Prov.14.4" />
+        <verse sID="Prov.14.6" osisID="Prov.14.6" />Quaeres sapientiam apud malos, et non invenies ...<verse eID="Prov.14.6" />
+        <verse sID="Prov.14.7" osisID="Prov.14.7" />... arma intellectus, labia sapientis.<verse eID="Prov.14.7" />
+        <verse sID="Prov.14.11" osisID="Prov.14.11" />Domus iustorum permanent, et tabernacula eorum, qui recte agunt, stabunt.<verse eID="Prov.14.11" />
+        <verse sID="Prov.14.12" osisID="Prov.14.12" />Est via, quae videtur recta esse apud homines, et novissima eius veniunt in profundum inferni.<verse eID="Prov.14.12" />
+        <verse sID="Prov.14.14" osisID="Prov.14.14" />Suis itineribus saturabitur temerarius ...<verse eID="Prov.14.14" />
+        <verse sID="Prov.14.15" osisID="Prov.14.15" />Innocens credit omni verbo ...<verse eID="Prov.14.15" />
+        <verse sID="Prov.14.16" osisID="Prov.14.16" />Sapiens timendo declinabit a malo, insipiens autem miscetur confidens iniquo.<verse eID="Prov.14.16" />
+        <verse sID="Prov.14.17" osisID="Prov.14.17" />Vir iracundus agit sine consilio ...<verse eID="Prov.14.17" />
+        <verse sID="Prov.14.23" osisID="Prov.14.23" />In omni sollicito inest amplius, nam qui suavis, et sine dolore est, in egestate erit.<verse eID="Prov.14.23" />
+        <verse sID="Prov.14.25" osisID="Prov.14.25" />Liberat de malis animam martyr fidelis ...<verse eID="Prov.14.25" />
+        <verse sID="Prov.14.26" osisID="Prov.14.26" />In timore Dei spiritus fortitudinis. Et in viis eius pax, et vita aeterna.<verse eID="Prov.14.26" />
+        <verse sID="Prov.14.28" osisID="Prov.14.28" />In lata gente gloria regis, in diminutione autem populi contritio principis.<verse eID="Prov.14.28" />
+        <verse sID="Prov.14.29" osisID="Prov.14.29" />Longanimus vir, multus in prudentia est, pusillanimus, valde imprudens est.<verse eID="Prov.14.29" />
+        <verse sID="Prov.14.30" osisID="Prov.14.30" />Mansuetus homo, cordis medicus est, tinea ossium, cor intelligens.<verse eID="Prov.14.30" />
+        <verse sID="Prov.14.31" osisID="Prov.14.31" />Qui contumeliam facit pauperi, irritat eum qui fecit illum ...<verse eID="Prov.14.31" />
+        <verse sID="Prov.14.33" osisID="Prov.14.33" />In corde enim bono requiescet sapientia ...<verse eID="Prov.14.33" />
+      </p>
+      <chapter eID="Prov.14" />
+      <chapter sID="Prov.15" osisID="Prov.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Prov.15.1" osisID="Prov.15.1" />Ira perdit etiam prudentes ...<verse eID="Prov.15.1" />
+        <verse sID="Prov.15.2" osisID="Prov.15.2" />Lingua sapientium bona novit, et os stultorum pronunciat malum.<verse eID="Prov.15.2" />
+        <verse sID="Prov.15.3" osisID="Prov.15.3" />In omni loco speculantur oculi Dei bonos et malos.<verse eID="Prov.15.3" />
+        <verse sID="Prov.15.5" osisID="Prov.15.5" />... In abundanti iustitiae virtus maxima est, cogitationes impiorum eradicabuntur.<verse eID="Prov.15.5" />
+        <verse sID="Prov.15.7" osisID="Prov.15.7" />Labia sapientium alligata sunt sensu.<verse eID="Prov.15.7" />
+        <verse sID="Prov.15.10" osisID="Prov.15.10" />Non diligit indisciplinatus castigantem se, qui autem oderunt correptiones, consumentur turpiter.<verse eID="Prov.15.10" />
+        <verse sID="Prov.15.12" osisID="Prov.15.12" />Non diligit indisciplinatus arguentes se, cum sapientibus autem non loquitur.<verse eID="Prov.15.12" />
+        <verse sID="Prov.15.16" osisID="Prov.15.16" />Melius est exiguum cum Dei timore, quam thesauri magni sine timore.<verse eID="Prov.15.16" />
+        <verse sID="Prov.15.17" osisID="Prov.15.17" />Melior est hospitalitas cum oleribus ad amicitiam et gratiam, quam si vitulos occidas ad praesepia cum inimicitiis.<verse eID="Prov.15.17" />
+        <verse sID="Prov.15.18" osisID="Prov.15.18" />Homo animosus parat lites, et vir iracundus exaggerat peccata.<verse eID="Prov.15.18" />
+        <verse sID="Prov.15.19" osisID="Prov.15.19" />Viae enim nihil operantium stratae sunt spinis, fortium vero tritae sunt.<verse eID="Prov.15.19" />
+        <verse sID="Prov.15.27" osisID="Prov.15.27" />... Per misericordias et fidem purgantur peccata, timor autem Domini declinat omnes a malo.<verse eID="Prov.15.27" />
+        <verse sID="Prov.15.28" osisID="Prov.15.28" />... Acceptae apud Dominum viae iustorum, et per ipsos etiam inimici amici fiunt.<verse eID="Prov.15.28" />
+        <verse sID="Prov.15.29" osisID="Prov.15.29" />Longe est Dominus ab impiis ...<verse eID="Prov.15.29" />
+        <verse sID="Prov.15.30" osisID="Prov.15.30" />Cor viri cogitet iusta, ut a Domino dirigantur gressus eius ... impinguant ossa sermones boni.<verse eID="Prov.15.30" />
+        <verse sID="Prov.15.32" osisID="Prov.15.32" />Qui repellit disciplinam, odit semetipsum, nam qui servat obiurgationem, acquiret.<verse eID="Prov.15.32" />
+        <verse sID="Prov.15.33" osisID="Prov.15.33" />Timor Domini, disciplina et sapientia est ...<verse eID="Prov.15.33" />
+      </p>
+      <chapter eID="Prov.15" />
+      <chapter sID="Prov.16" osisID="Prov.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Prov.16.3" osisID="Prov.16.3" />Devolve super Dominum opera tua, et firmabuntur cogitationes tuae.<verse eID="Prov.16.3" />
+        <verse sID="Prov.16.4" osisID="Prov.16.4" />Omnia operatus est Dominus propter semetipsum ...<verse eID="Prov.16.4" />
+        <verse sID="Prov.16.5" osisID="Prov.16.5" />Immundus est apud Deum omnis qui exaltat cor suum, manus manui inferens iniuste, non erit impunitus. Initium viae bonae, facere iusta, accepta autem sunt apud Dominum magis, quam immolare hostias. Qui timet Deum, inveniet scientiam cum iustitia ...<verse eID="Prov.16.5" />
+        <verse sID="Prov.16.8" osisID="Prov.16.8" />Melior est modica acceptio cum iustitia, quam multa genimina cum iniquitate.<verse eID="Prov.16.8" />
+        <verse sID="Prov.16.17" osisID="Prov.16.17" />... Qui excipit disciplinam, in bonis erit, qui autem custodit increpationes, sapiens fiet. Qui custodit vias suas, custodit animam suam, diligens autem vitam, parcet ori suo.<verse eID="Prov.16.17" />
+        <verse sID="Prov.16.18" osisID="Prov.16.18" />Ante contritionem praecedit ruina, et ante ruinam mala cogitatio.<verse eID="Prov.16.18" />
+        <verse sID="Prov.16.22" osisID="Prov.16.22" />Fons vitae, consilium possidentibus eum ...<verse eID="Prov.16.22" />
+        <verse sID="Prov.16.23" osisID="Prov.16.23" />Sapiens intelligit quae profert de ore suo, et in labiis suis portabit scientiam.<verse eID="Prov.16.23" />
+        <verse sID="Prov.16.24" osisID="Prov.16.24" />Favi mellis, sermones boni ...<verse eID="Prov.16.24" />
+        <verse sID="Prov.16.25" osisID="Prov.16.25" />Sunt viae quae videntur viro rectae esse, ultima autem earum adspiciunt in profundum inferni.<verse eID="Prov.16.25" />
+        <verse sID="Prov.16.26" osisID="Prov.16.26" />Vir in doloribus laborat sibi, et vim facit perditioni suae,<verse eID="Prov.16.26" />
+        <verse sID="Prov.16.27" osisID="Prov.16.27" />Perversus in ore suo portat perditionem, et in labiis suis ignem condit.<verse eID="Prov.16.27" />
+        <verse sID="Prov.16.30" osisID="Prov.16.30" />Qui obfirmat oculos suos, cogitat perversa, et provocat labiis suis omnia mala ...<verse eID="Prov.16.30" />
+        <verse sID="Prov.16.32" osisID="Prov.16.32" />Melior est vir patiens forti, qui enim iracundiam continet, melior est quam qui urbem capit.<verse eID="Prov.16.32" />
+      </p>
+      <chapter eID="Prov.16" />
+      <chapter sID="Prov.17" osisID="Prov.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Prov.17.1" osisID="Prov.17.1" />Melior est panis in suavitate cum pace ...<verse eID="Prov.17.1" />
+        <verse sID="Prov.17.2" osisID="Prov.17.2" />Est servus intelligens qui regat dominos stultos ...<verse eID="Prov.17.2" />
+        <verse sID="Prov.17.3" osisID="Prov.17.3" />Sicut probatur in camino argentum et aurum, sic electa corda apud Dominum.<verse eID="Prov.17.3" />
+        <verse sID="Prov.17.4" osisID="Prov.17.4" />Malus obaudit linguae iniquorum, iustus autem non intendit labiis mendacibus.<verse eID="Prov.17.4" />
+        <verse sID="Prov.17.6" osisID="Prov.17.6" />... Eius qui fidelis est, totus mundus divitiarum, illius autem qui infidelis est, neque obolus.<verse eID="Prov.17.6" />
+        <verse sID="Prov.17.15" osisID="Prov.17.15" />Qui iustum iudicat iniustum, iniustum vero iustum, exsecrabilis apud Deum.<verse eID="Prov.17.15" />
+        <verse sID="Prov.17.16" osisID="Prov.17.16" />Ut quid fuerint divitiae insipienti? Possidere enim sapientiam excors non poterit. Qui altam facit domum suam, quaerit ruinam, et qui devitat discere, incidet in mala.<verse eID="Prov.17.16" />
+        <verse sID="Prov.17.18" osisID="Prov.17.18" />... Spondens sponde amico tuo, quemadmodum qui obligat se sponsorem amicorum suorum.<verse eID="Prov.17.18" />
+        <verse sID="Prov.17.28" osisID="Prov.17.28" />Inintelligendo sapientiam interroganti sapientia deputatur ...<verse eID="Prov.17.28" />
+      </p>
+      <chapter eID="Prov.17" />
+      <chapter sID="Prov.18" osisID="Prov.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Prov.18.2" osisID="Prov.18.2" />Non opus est sapientia, ubi deest sensus, magis enim ducitur insipientia.<verse eID="Prov.18.2" />
+        <verse sID="Prov.18.3" osisID="Prov.18.3" />Cum venerit impius in profundum malorum, contemnit ...<verse eID="Prov.18.3" />
+        <verse sID="Prov.18.4" osisID="Prov.18.4" />Aqua alta verbum in corde viri ...<verse eID="Prov.18.4" />
+        <verse sID="Prov.18.5" osisID="Prov.18.5" />Mirari personam impii non est bonum, neque sanctum declinare iustum in iudicio.<verse eID="Prov.18.5" />
+        <verse sID="Prov.18.6" osisID="Prov.18.6" />Labia stulti ducunt eum in mala, et os audax mortem invocat.<verse eID="Prov.18.6" />
+        <verse sID="Prov.18.8" osisID="Prov.18.8" />Verba adulatorum, mollia, novissima autem eorum perveniunt in intima ventris. Pigrum deiicit timor, animae autem effeminatorum esurient.<verse eID="Prov.18.8" />
+        <verse sID="Prov.18.12" osisID="Prov.18.12" />Ante contritionem elevatur cor viri, et ante gloriam humiliatur.<verse eID="Prov.18.12" />
+        <verse sID="Prov.18.17" osisID="Prov.18.17" />Iustus in principio sermonis sui ipse sibi accusator est ...<verse eID="Prov.18.17" />
+        <verse sID="Prov.18.18" osisID="Prov.18.18" />Contradictiones sedat sortitio, et inter potentes definit.<verse eID="Prov.18.18" />
+        <verse sID="Prov.18.19" osisID="Prov.18.19" />Frater fratrem adiuvans, exaltabitur sicut civitas magna ...<verse eID="Prov.18.19" />
+        <verse sID="Prov.18.20" osisID="Prov.18.20" />Ex fructu oris sui vir implevit ventrem suum, fructibus autem labiorum suorum satiabitur.<verse eID="Prov.18.20" />
+        <verse sID="Prov.18.21" osisID="Prov.18.21" />Mors, et vita in manibus linguae ...<verse eID="Prov.18.21" />
+        <verse sID="Prov.18.22" osisID="Prov.18.22" />... Qui expellit mulierum bonam, expellit bonum, qui autem continet adulteram, stultus est et impius.<verse eID="Prov.18.22" />
+      </p>
+      <chapter eID="Prov.18" />
+      <chapter sID="Prov.19" osisID="Prov.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Prov.19.3" osisID="Prov.19.3" />Insipientia viri violat vias eius, Deum autem causatur in corde suo.<verse eID="Prov.19.3" />
+        <verse sID="Prov.19.5" osisID="Prov.19.5" />Testis falsus non impunitus erit, et qui accusat inique, non effugiet.<verse eID="Prov.19.5" />
+        <verse sID="Prov.19.9" osisID="Prov.19.9" />Falsus testius non erit impunitus ...<verse eID="Prov.19.9" />
+        <verse sID="Prov.19.10" osisID="Prov.19.10" />Non expediunt stulto deliciae ...<verse eID="Prov.19.10" />
+        <verse sID="Prov.19.12" osisID="Prov.19.12" />Iniqui regis minitatio similis rugitui leonis, sicut autem ros in herba, sic et hilaritus eius.<verse eID="Prov.19.12" />
+        <verse sID="Prov.19.14" osisID="Prov.19.14" />Domum, et substantiam patres partiuntur filiis, a Deo autem praeparabitur viro uxor.<verse eID="Prov.19.14" />
+        <verse sID="Prov.19.17" osisID="Prov.19.17" />Foenerat Domino qui miseretur pauperi, secundum datum autem eius retribuet ei.<verse eID="Prov.19.17" />
+        <verse sID="Prov.19.19" osisID="Prov.19.19" />Malignus vir multa detrimenta patietur ...<verse eID="Prov.19.19" />
+        <verse sID="Prov.19.21" osisID="Prov.19.21" />Multae cogitationes in corde viri, consilium autem Domini manet in aeternum.<verse eID="Prov.19.21" />
+        <verse sID="Prov.19.22" osisID="Prov.19.22" />... melior pauper iustus, quam dives mendax.<verse eID="Prov.19.22" />
+        <verse sID="Prov.19.23" osisID="Prov.19.23" />Timor Domini ad vitam, nam qui sine timore est, habitat in locis, quae non visitat Aeternus.<verse eID="Prov.19.23" />
+        <verse sID="Prov.19.25" osisID="Prov.19.25" />Pestifero castigatio insipiens astutior fiet, si autem arguas virum prudentem, intellexit sensum.<verse eID="Prov.19.25" />
+      </p>
+      <chapter eID="Prov.19" />
+      <chapter sID="Prov.20" osisID="Prov.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Prov.20.1" osisID="Prov.20.1" />Prodigum est vinum, et contumeliosa ebrietas ...<verse eID="Prov.20.1" />
+        <verse sID="Prov.20.2" osisID="Prov.20.2" />Non distat ira regis ab ira leonis, sed qui stimulat illum et admiscetur, peccat in animam suam.<verse eID="Prov.20.2" />
+        <verse sID="Prov.20.3" osisID="Prov.20.3" />Gloria est viro, qui avertit se a maledictis, qui autem stultus est, talibus se obligat.<verse eID="Prov.20.3" />
+        <verse sID="Prov.20.5" osisID="Prov.20.5" />Aqua alta, consilium in corde viri ...<verse eID="Prov.20.5" />
+        <verse sID="Prov.20.6" osisID="Prov.20.6" />Grande, homo. Pretiosum, vir misericors, virum vero fidelem opus est invenire.<verse eID="Prov.20.6" />
+        <verse sID="Prov.20.7" osisID="Prov.20.7" />Qui conversatur sine vituperatione in iustitia, beatos post se filios relinquet.<verse eID="Prov.20.7" />
+        <verse sID="Prov.20.8" osisID="Prov.20.8" />Cum rex iustus sederit in throno ...<verse eID="Prov.20.8" />
+        <verse sID="Prov.20.9" osisID="Prov.20.9" />Quis gloriabitur castum se habere cor? Aut quis gloriabitur mundum se esse a peccato?<verse eID="Prov.20.9" />
+        <verse sID="Prov.20.10" osisID="Prov.20.10" />Pondus magnum et minimum, et mensurae duplices, immunda ante Dominum utraque, et qui facit ea.<verse eID="Prov.20.10" />
+        <verse sID="Prov.20.11" osisID="Prov.20.11" />In studiis suis impedietur iuvenis, qui cum sancto est, directa est via eius.<verse eID="Prov.20.11" />
+        <verse sID="Prov.20.12" osisID="Prov.20.12" />Auris audit, et oculus videt, opera Domini utraque.<verse eID="Prov.20.12" />
+        <verse sID="Prov.20.13" osisID="Prov.20.13" />Noli diligere detrahere, ne extollaris, aperi oculos tuos, et implere panibus.<verse eID="Prov.20.13" />
+        <verse sID="Prov.20.17" osisID="Prov.20.17" />Suavis est homini panis mendacii, et postea replebitur os eius calculo.<verse eID="Prov.20.17" />
+        <verse sID="Prov.20.22" osisID="Prov.20.22" />Ne dixeris, Ulciscar me de inimico meo, sed exspecta Dominum, ut tibi auxilio sit.<verse eID="Prov.20.22" />
+        <verse sID="Prov.20.23" osisID="Prov.20.23" />Abominatio est Domino pondus duplex, et statera dolosa non est bona in conspectu eius.<verse eID="Prov.20.23" />
+        <verse sID="Prov.20.24" osisID="Prov.20.24" />A Domino diriguntur gressus viri, mortalis autem quomodo intelligit vias suas?<verse eID="Prov.20.24" />
+        <verse sID="Prov.20.25" osisID="Prov.20.25" />Laqueus est viri cito quid de suis sanctificare, cum enim votum fecerit, surrepit poenitentia.<verse eID="Prov.20.25" />
+        <verse sID="Prov.20.26" osisID="Prov.20.26" />Ventilator enim est impiorum rex sapiens, et immittit illis rotam malorum.<verse eID="Prov.20.26" />
+        <verse sID="Prov.20.27" osisID="Prov.20.27" />Lux Domini inspiratio est hominum ...<verse eID="Prov.20.27" />
+        <verse sID="Prov.20.28" osisID="Prov.20.28" />Misericordia, et veritas tutela est regi. Et circumeunt iusti sedem eius.<verse eID="Prov.20.28" />
+        <verse sID="Prov.20.29" osisID="Prov.20.29" />... gloria senum, canities ...<verse eID="Prov.20.29" />
+      </p>
+      <chapter eID="Prov.20" />
+      <chapter sID="Prov.21" osisID="Prov.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Prov.21.1" osisID="Prov.21.1" />Sicut impetus aquae, sic cor regis in manu Dei, quocunque voluerit, declinabit illud.<verse eID="Prov.21.1" />
+        <verse sID="Prov.21.2" osisID="Prov.21.2" />Omnis vir videtur sibimetipsi iustus, dirigit autem corda Dominus.<verse eID="Prov.21.2" />
+        <verse sID="Prov.21.3" osisID="Prov.21.3" />Facere iustitiam et veracem esse, placet Deo magis, quam hostiarum sanguis.<verse eID="Prov.21.3" />
+        <verse sID="Prov.21.6" osisID="Prov.21.6" />Qui operantur thesauros lingua mendacii, vana sectatur, et veniet in laqueos mortis.<verse eID="Prov.21.6" />
+        <verse sID="Prov.21.9" osisID="Prov.21.9" />Melius est habitare sub divo, quam in calce litis cum iniquitate, et in domo nova.<verse eID="Prov.21.9" />
+        <verse sID="Prov.21.11" osisID="Prov.21.11" />Castigato pestilente sapiens astutior erit ...<verse eID="Prov.21.11" />
+        <verse sID="Prov.21.13" osisID="Prov.21.13" />Qui obturat aures suas ne audiat imbecillum, et ipse invocabit Deum, et non erit qui exaudiat eum.<verse eID="Prov.21.13" />
+        <verse sID="Prov.21.15" osisID="Prov.21.15" />... sanctus autem immundus est apud malos.<verse eID="Prov.21.15" />
+        <verse sID="Prov.21.19" osisID="Prov.21.19" />Melius est habitare in terra deserta, quam cum uxore litigosa et iracunda.<verse eID="Prov.21.19" />
+        <verse sID="Prov.21.20" osisID="Prov.21.20" />Thesaurus desiderabilis requiescit in ore sapientis, vir autem stultus glutit illum.<verse eID="Prov.21.20" />
+        <verse sID="Prov.21.22" osisID="Prov.21.22" />Civitates firmas ascendit iustus, et destruxit munitiones earum, in quibus confidebant impii.<verse eID="Prov.21.22" />
+        <verse sID="Prov.21.24" osisID="Prov.21.24" />Temerarius et superbus pestilentia vocabitur ...<verse eID="Prov.21.24" />
+        <verse sID="Prov.21.27" osisID="Prov.21.27" />Sacrificia impiorum exsecratio est Domino, etenim inique offerunt illa.<verse eID="Prov.21.27" />
+        <verse sID="Prov.21.30" osisID="Prov.21.30" />Non est sapientia, non est fortitudo, non est consilium apud impios.<verse eID="Prov.21.30" />
+        <verse sID="Prov.21.31" osisID="Prov.21.31" />Equus paratur in diem belli, a Domino autem est adiutorium.<verse eID="Prov.21.31" />
+      </p>
+      <chapter eID="Prov.21" />
+      <chapter sID="Prov.22" osisID="Prov.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Prov.22.1" osisID="Prov.22.1" />Potius est nomen bonum, quam divitiae multae, et super omnes argenti acervos, bona est gratia.<verse eID="Prov.22.1" />
+        <verse sID="Prov.22.2" osisID="Prov.22.2" />Dives et pauper obviaverunt sibi, fecit autem ambos Dominus.<verse eID="Prov.22.2" />
+        <verse sID="Prov.22.5" osisID="Prov.22.5" />Tribuli et laquei in viis pravis, qui autem timet Dominum, abstinebit se ab eis.<verse eID="Prov.22.5" />
+        <verse sID="Prov.22.7" osisID="Prov.22.7" />Divitum pauperes praepositi erunt, et proprii servi dominis foenerabunt.<verse eID="Prov.22.7" />
+        <verse sID="Prov.22.9" osisID="Prov.22.9" />Qui miseretur pauperis, ipse pascetur ... Victoriam et honorem acquiret qui dat munera, animam autem aufert accipientium.<verse eID="Prov.22.9" />
+        <verse sID="Prov.22.10" osisID="Prov.22.10" />Eiice de concilio pestilentem, et exiet cum illo contentio ...<verse eID="Prov.22.10" />
+        <verse sID="Prov.22.11" osisID="Prov.22.11" />Diligit Dominus munda corda, accepti autem sunt ei omnes immaculati.<verse eID="Prov.22.11" />
+        <verse sID="Prov.22.13" osisID="Prov.22.13" />... Leo est in viis, in plateis autem homicidae.<verse eID="Prov.22.13" />
+        <verse sID="Prov.22.20" osisID="Prov.22.20" />Tu autem describe ea tripliciter, in consilio et scientia,<verse eID="Prov.22.20" />
+        <verse sID="Prov.22.21" osisID="Prov.22.21" />ut respondeas verbum veritatis his, qui proponunt tibi.<verse eID="Prov.22.21" />
+        <verse sID="Prov.22.26" osisID="Prov.22.26" />Noli te dare in sponsionem, erubescens personam,<verse eID="Prov.22.26" />
+        <verse sID="Prov.22.27" osisID="Prov.22.27" />si enim non habueris unde solvas, auferent stramentum de sub lateribus tuis.<verse eID="Prov.22.27" />
+        <verse sID="Prov.22.28" osisID="Prov.22.28" />Non transferas terminos sempiternos, quos posuerunt patres tui.<verse eID="Prov.22.28" />
+      </p>
+      <chapter eID="Prov.22" />
+      <chapter sID="Prov.23" osisID="Prov.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Prov.23.1" osisID="Prov.23.1" />Si sederis coenare ad mensam potentis, sapienter intellige ea quae apponuntur tibi,<verse eID="Prov.23.1" />
+        <verse sID="Prov.23.2" osisID="Prov.23.2" />et emitte manum tuam, sciens quod oportet te talia praeparare,<verse eID="Prov.23.2" />
+        <verse sID="Prov.23.3" osisID="Prov.23.3" />si autem insatiabilis es, noli concupiscere escas eius, haec enim obtinent vitam fallacem.<verse eID="Prov.23.3" />
+        <verse sID="Prov.23.4" osisID="Prov.23.4" />Ne extendas te, cum sis pauper, diviti, sensu autem tuo abstine.<verse eID="Prov.23.4" />
+        <verse sID="Prov.23.6" osisID="Prov.23.6" />Non coenabis cum viro invido ...<verse eID="Prov.23.6" />
+        <verse sID="Prov.23.9" osisID="Prov.23.9" />In aures imprudentis noli quidquam dicere, ne quando audierit, irrideat sensatos sermones tuos.<verse eID="Prov.23.9" />
+        <verse sID="Prov.23.12" osisID="Prov.23.12" />Da in disciplinam cor tuum, aures autem tuas praepara sermonibus intellectus.<verse eID="Prov.23.12" />
+        <verse sID="Prov.23.13" osisID="Prov.23.13" />Noli cessare parvulum emendare, quia si percusseris eum virga, non morietur.<verse eID="Prov.23.13" />
+        <verse sID="Prov.23.14" osisID="Prov.23.14" />Tu quidem percuties eum virga, animam autem eius liberabis a morte.<verse eID="Prov.23.14" />
+        <verse sID="Prov.23.21" osisID="Prov.23.21" />omnis ebriosus pannis vestietur ...<verse eID="Prov.23.21" />
+        <verse sID="Prov.23.25" osisID="Prov.23.25" />Iucundetur pater, et mater in te ...<verse eID="Prov.23.25" />
+        <verse sID="Prov.23.29" osisID="Prov.23.29" />Cui vae? Cui iudicia? Cui tumultus? ...<verse eID="Prov.23.29" />
+        <verse sID="Prov.23.33" osisID="Prov.23.33" />Oculi tui cum viderint alienam, os tuum tunc loquetur prava.<verse eID="Prov.23.33" />
+        <verse sID="Prov.23.34" osisID="Prov.23.34" />Et iacebis tanquam in corde maris, et sicut gubernator in magna tempestate,<verse eID="Prov.23.34" />
+        <verse sID="Prov.23.35" osisID="Prov.23.35" />dices autem, Ferierunt me, sed non dolui, et deluserunt me, ego autem nescivi ...<verse eID="Prov.23.35" />
+      </p>
+      <chapter eID="Prov.23" />
+      <chapter sID="Prov.24" osisID="Prov.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Prov.24.1" osisID="Prov.24.1" />Ne imitatus fueris malos viros, neque desideres esse cum illis,<verse eID="Prov.24.1" />
+        <verse sID="Prov.24.2" osisID="Prov.24.2" />falsa enim meditatur cor eorum, et dolores labia eorum loquuntur.<verse eID="Prov.24.2" />
+        <verse sID="Prov.24.3" osisID="Prov.24.3" />Cum sapientia aedificatur domus, et cum intellectu iterum erigitur.<verse eID="Prov.24.3" />
+        <verse sID="Prov.24.4" osisID="Prov.24.4" />Cum sensu implentur cellaria, omnibus divitiis pretiosis et bonis.<verse eID="Prov.24.4" />
+        <verse sID="Prov.24.7" osisID="Prov.24.7" />... Sapientes non declinant de ore Domini, sed tractant in confessionibus suis.<verse eID="Prov.24.7" />
+        <verse sID="Prov.24.8" osisID="Prov.24.8" />Indisciplinatis obviat mors,<verse eID="Prov.24.8" />
+        <verse sID="Prov.24.9" osisID="Prov.24.9" />Moritur insipiens in peccatis ...<verse eID="Prov.24.9" />
+        <verse sID="Prov.24.11" osisID="Prov.24.11" />Libera eos, qui ducuntur ad mortem, et redimere eos qui interficiuntur, ne cesses.<verse eID="Prov.24.11" />
+        <verse sID="Prov.24.12" osisID="Prov.24.12" />Si autem dixeris, Nescio hunc, scito quoniam Dominus corda omnium novit. Et qui figuravit spiritum omnibus illis, scit omnia, qui reddit unicuique secundum opera eius.<verse eID="Prov.24.12" />
+        <verse sID="Prov.24.15" osisID="Prov.24.15" />Noli applicare impium ad pascua iusti, neque seducaris saturitate ventris.<verse eID="Prov.24.15" />
+        <verse sID="Prov.24.16" osisID="Prov.24.16" />Septies enim cadit iustus, et resurget, impii autem infirmabuntur in malis.<verse eID="Prov.24.16" />
+        <verse sID="Prov.24.17" osisID="Prov.24.17" />Si ceciderit inimicus tuus, noli gratulari. In supplantatione autem eius noli extolli,<verse eID="Prov.24.17" />
+        <verse sID="Prov.24.18" osisID="Prov.24.18" />ne videat Dominus, et non placeat ei, et avertat iram suam ab eo.<verse eID="Prov.24.18" />
+        <verse sID="Prov.24.21" osisID="Prov.24.21" />... cum detractoribus ne commiscearis,<verse eID="Prov.24.21" />
+        <verse sID="Prov.24.22" osisID="Prov.24.22" />quoniam repente veniet interitus eorum, et ruinam utriusque quis novit?<verse eID="Prov.24.22" />
+        <verse sID="Prov.24.23" osisID="Prov.24.23" />... Erubescere personam in iudicio non est bonum.<verse eID="Prov.24.23" />
+        <verse sID="Prov.24.24" osisID="Prov.24.24" />Et qui dicit impium iustum esse, maledictus erit in populis, et odibilis gentibus.<verse eID="Prov.24.24" />
+        <verse sID="Prov.24.25" osisID="Prov.24.25" />Nam qui arguunt, meliora sperabunt, in ipsos autem veniet benedictio optima.<verse eID="Prov.24.25" />
+        <verse sID="Prov.24.30" osisID="Prov.24.30" />Tanquam agricultura, homo imprudens, et tanquam vinea, homo egens sensu,<verse eID="Prov.24.30" />
+        <verse sID="Prov.24.31" osisID="Prov.24.31" />si reliqueris eum, desertus erit ...<verse eID="Prov.24.31" />
+        <verse sID="Prov.24.32" osisID="Prov.24.32" />Novissime ego egi poenitentiam, et respexi ut eligerem disciplinam.<verse eID="Prov.24.32" />
+        <verse sID="Prov.24.33" osisID="Prov.24.33" />Usquequo piger dormis? Usquequo de somno consurgis? ...<verse eID="Prov.24.33" />
+      </p>
+      <chapter eID="Prov.24" />
+      <chapter sID="Prov.25" osisID="Prov.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Prov.25.6" osisID="Prov.25.6" />Noli superbire coram rege ...<verse eID="Prov.25.6" />
+        <verse sID="Prov.25.8" osisID="Prov.25.8" />Quae viderint oculi tui, loquere ...<verse eID="Prov.25.8" />
+        <verse sID="Prov.25.10" osisID="Prov.25.10" />... Gratia et amicitia liberant, quas tibi serva, ne exprobrabilis fias ...<verse eID="Prov.25.10" />
+        <verse sID="Prov.25.14" osisID="Prov.25.14" />Sicut venti, et nubes, et pluviae manifestissimae sunt. Ita qui gloriatur in dato falso.<verse eID="Prov.25.14" />
+        <verse sID="Prov.25.16" osisID="Prov.25.16" />Mel invenisti, comede quantum satis est, si enim plus comederis, evomes illud.<verse eID="Prov.25.16" />
+        <verse sID="Prov.25.17" osisID="Prov.25.17" />Raro inferes pedem ad amicum tuum, ne saturatus tui oderit te.<verse eID="Prov.25.17" />
+        <verse sID="Prov.25.18" osisID="Prov.25.18" />Clava, et gladius, et sagitta ferrata. Sic homo est, testimonium dans falsum adversus amicum suum.<verse eID="Prov.25.18" />
+        <verse sID="Prov.25.20" osisID="Prov.25.20" />... Sicut tinea vestimento, et vermis ligno, sic moeror excruciat cor viri.<verse eID="Prov.25.20" />
+        <verse sID="Prov.25.21" osisID="Prov.25.21" />Si esurierit inimicus tuus, ciba illum, si siti, potum da illi,<verse eID="Prov.25.21" />
+        <verse sID="Prov.25.22" osisID="Prov.25.22" />hoc enim faciens, carbones ignis congeres super caput eius ...<verse eID="Prov.25.22" />
+        <verse sID="Prov.25.24" osisID="Prov.25.24" />Melius est habitare in angulo tecti, quam cum uxore maledica in domo communi.<verse eID="Prov.25.24" />
+        <verse sID="Prov.25.25" osisID="Prov.25.25" />Ut aqua frigida sitientibus, ita nuncius bonus a terra longinqua.<verse eID="Prov.25.25" />
+      </p>
+      <chapter eID="Prov.25" />
+      <chapter sID="Prov.26" osisID="Prov.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Prov.26.2" osisID="Prov.26.2" />Sicut aves avolant et passeres, ita maledictum vanum non superveniet ulli.<verse eID="Prov.26.2" />
+        <verse sID="Prov.26.3" osisID="Prov.26.3" />Flagellum equo, et stimulus asino imperat, virga autem nationi imprudenti.<verse eID="Prov.26.3" />
+        <verse sID="Prov.26.4" osisID="Prov.26.4" />Noli respondere imprudenti ad imprudentiam eius, ne similis illi fias,<verse eID="Prov.26.4" />
+        <verse sID="Prov.26.5" osisID="Prov.26.5" />Sed responde stulto ad stultitiam eius, ne sibi sapiens esse videatur.<verse eID="Prov.26.5" />
+        <verse sID="Prov.26.9" osisID="Prov.26.9" />Spinae nascuntur in manu ebriosi, servitus autem in manu imprudentis.<verse eID="Prov.26.9" />
+        <verse sID="Prov.26.11" osisID="Prov.26.11" />Sicut canis, qui convertitur ad vomitum suum, et odibilis efficitur. Ita stultus, sua malitia conversus ad suum peccatum ...<verse eID="Prov.26.11" />
+        <verse sID="Prov.26.13" osisID="Prov.26.13" />... Leo est in viis, in plateis autem homicidae.<verse eID="Prov.26.13" />
+        <verse sID="Prov.26.19" osisID="Prov.26.19" />qui insidiatur amicis suis, cum visus fuerit dicit, Ludens feci.<verse eID="Prov.26.19" />
+        <verse sID="Prov.26.20" osisID="Prov.26.20" />In multis lignis viget ignis ...<verse eID="Prov.26.20" />
+        <verse sID="Prov.26.21" osisID="Prov.26.21" />Craticula carbonis, et ligna igni, et vir maledictus ad tumultum rixae.<verse eID="Prov.26.21" />
+        <verse sID="Prov.26.22" osisID="Prov.26.22" />Verba callidorum mollia, haec autem feriunt in penetralia ventris.<verse eID="Prov.26.22" />
+        <verse sID="Prov.26.23" osisID="Prov.26.23" />Pecunia quae datur cum dolo, quasi testa reputabitur ...<verse eID="Prov.26.23" />
+        <verse sID="Prov.26.25" osisID="Prov.26.25" />Si te rogaverit inimicus tuus voce magna, ne consenseris ei, septem enim nequitiae sunt in anima eius.<verse eID="Prov.26.25" />
+        <verse sID="Prov.26.27" osisID="Prov.26.27" />Qui fodit foveam proximo suo, ipse incidet in eam ...<verse eID="Prov.26.27" />
+      </p>
+      <chapter eID="Prov.26" />
+      <chapter sID="Prov.27" osisID="Prov.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Prov.27.1" osisID="Prov.27.1" />Ne glorieris in crastinum, nescis enim quid ventura pariat dies.<verse eID="Prov.27.1" />
+        <verse sID="Prov.27.2" osisID="Prov.27.2" />Laudet te proximus tuus, et non os tuum ...<verse eID="Prov.27.2" />
+        <verse sID="Prov.27.3" osisID="Prov.27.3" />Gravis est lapis, et vix portabilis arena, sed ira stulti gravior utroque.<verse eID="Prov.27.3" />
+        <verse sID="Prov.27.4" osisID="Prov.27.4" />Crudelis est indignatio, et acuta ira. Et zelus impatiens est.<verse eID="Prov.27.4" />
+        <verse sID="Prov.27.6" osisID="Prov.27.6" />Utiliora vulnera amici, quam voluntaria oscula inimici.<verse eID="Prov.27.6" />
+        <verse sID="Prov.27.7" osisID="Prov.27.7" />Anima quae in satietate est, favis illudit, animae autem egenti etiam amara dulcia videntur.<verse eID="Prov.27.7" />
+        <verse sID="Prov.27.10" osisID="Prov.27.10" />... Melior vicinus in proximo, quam frater longe habitans.<verse eID="Prov.27.10" />
+        <verse sID="Prov.27.11" osisID="Prov.27.11" />Sapiens esto fili, ut laetetur cor tuum, averte dedecoris sermonem.<verse eID="Prov.27.11" />
+        <verse sID="Prov.27.12" osisID="Prov.27.12" />Astutus videns malum puniri, vehementer erudietur, imprudentes autem supervenientes damnum pendent.<verse eID="Prov.27.12" />
+        <verse sID="Prov.27.13" osisID="Prov.27.13" />Aufer vestimentum tuum, praeterit enim iniuriosus ...<verse eID="Prov.27.13" />
+        <verse sID="Prov.27.14" osisID="Prov.27.14" />Qui benedicit amico mane grandi voce, a maledicente nihil differt.<verse eID="Prov.27.14" />
+        <verse sID="Prov.27.15" osisID="Prov.27.15" />Stillicidia eiiciunt hominem in die hiemali de domo sua, similiter et mulier maledica de propria domo,<verse eID="Prov.27.15" />
+        <verse sID="Prov.27.16" osisID="Prov.27.16" />Aquilo durus ventus ...<verse eID="Prov.27.16" />
+        <verse sID="Prov.27.18" osisID="Prov.27.18" />Quis plantat ficum, et de fructu eius non manducat? ...<verse eID="Prov.27.18" />
+        <verse sID="Prov.27.20" osisID="Prov.27.20" />Infernus et interitus non satiantur, similiter oculi hominum insatiabiles sunt. Abominatio est Domino defigens oculum ...<verse eID="Prov.27.20" />
+        <verse sID="Prov.27.21" osisID="Prov.27.21" />Probatio argenti et auri, ignis, vir autem probatur per os laudantium eum. Cor iniqui exquiret mala, cor autem rectum exquiret scientiam.<verse eID="Prov.27.21" />
+        <verse sID="Prov.27.22" osisID="Prov.27.22" />Si flagellaveris stultum in medio concilio contumeliam faciendo, non auferes stultitiam eius.<verse eID="Prov.27.22" />
+        <verse sID="Prov.27.25" osisID="Prov.27.25" />Adhibe curam his quae in campo sunt regionibus, et attonde herbam, et congrega fenum,<verse eID="Prov.27.25" />
+        <verse sID="Prov.27.26" osisID="Prov.27.26" />ut habeas oves ad vescendum. Excole diligentur quasi bonus agricola campum tuum, ut pascantur agni tui, et sata tua floreant.<verse eID="Prov.27.26" />
+      </p>
+      <chapter eID="Prov.27" />
+      <chapter sID="Prov.28" osisID="Prov.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="Prov.28.1" osisID="Prov.28.1" />Fugit impius, nemine persequente se ...<verse eID="Prov.28.1" />
+        <verse sID="Prov.28.3" osisID="Prov.28.3" />Impius calumniatur pauperes. Sicut pluvia vehemens et inutilis,<verse eID="Prov.28.3" />
+        <verse sID="Prov.28.4" osisID="Prov.28.4" />sic qui derelinquunt sapientiam, et impietatem laudant ...<verse eID="Prov.28.4" />
+        <verse sID="Prov.28.14" osisID="Prov.28.14" />Beatus homo est, qui veretur omnia per metum ...<verse eID="Prov.28.14" />
+        <verse sID="Prov.28.19" osisID="Prov.28.19" />Qui colit terram suam, satiabitur panibus, qui autem sectatur otium, replebitur egestate.<verse eID="Prov.28.19" />
+        <verse sID="Prov.28.23" osisID="Prov.28.23" />Qui arguit hominis vias, gratiam habebit, magis quam is, qui loquitur quae delectent.<verse eID="Prov.28.23" />
+        <verse sID="Prov.28.26" osisID="Prov.28.26" />Qui confidit in cordis audacia, stultissimus est ...<verse eID="Prov.28.26" />
+        <verse sID="Prov.28.27" osisID="Prov.28.27" />Qui dat pauperibus, nunquam indigebit, qui autem avertit oculum suum, in multa penuria erit.<verse eID="Prov.28.27" />
+        <verse sID="Prov.28.28" osisID="Prov.28.28" />In locis impiorum ingemiscent iusti ...<verse eID="Prov.28.28" />
+      </p>
+      <chapter eID="Prov.28" />
+      <chapter sID="Prov.29" osisID="Prov.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="Prov.29.5" osisID="Prov.29.5" />Qui praeparat ante faciem amici sui rete, circumdat illud pedibus suis.<verse eID="Prov.29.5" />
+        <verse sID="Prov.29.11" osisID="Prov.29.11" />Totam iram suam profert stultus, sapiens autem dispensat per partes.<verse eID="Prov.29.11" />
+        <verse sID="Prov.29.13" osisID="Prov.29.13" />Foeneratoris et debitoris sibi occurrentium, prospectum amborum facit Dominus.<verse eID="Prov.29.13" />
+        <verse sID="Prov.29.14" osisID="Prov.29.14" />Regis in veritate iudicantis de pauperibus, sedes eius in testimonium resurget.<verse eID="Prov.29.14" />
+        <verse sID="Prov.29.15" osisID="Prov.29.15" />Plagae et correptiones dant sapientiam ...<verse eID="Prov.29.15" />
+        <verse sID="Prov.29.17" osisID="Prov.29.17" />Erudi filium tuum, et exhilarabit te, et dabit decorem animae tuae.<verse eID="Prov.29.17" />
+        <verse sID="Prov.29.19" osisID="Prov.29.19" />Verbis non emendabitur servus durus, si enim et intellexerit, non obediet.<verse eID="Prov.29.19" />
+        <verse sID="Prov.29.20" osisID="Prov.29.20" />Si videris virum velocem in verbis, scito quia spem habet insipiens magis, quam ille.<verse eID="Prov.29.20" />
+        <verse sID="Prov.29.21" osisID="Prov.29.21" />Qui in deliciis conversatur a pueritia, servus erit, in novissimo dolebit in se.<verse eID="Prov.29.21" />
+        <verse sID="Prov.29.22" osisID="Prov.29.22" />Vir animosus parit rixas, vir autem iracundus effodit peccata.<verse eID="Prov.29.22" />
+        <verse sID="Prov.29.27" osisID="Prov.29.27" />Abominatio est iustus viro iniquo ... Verbum suscipiens filius, a perditione longe aberit, excipiens autem excepit illud sibi, et nihil falsi ex eius ore procedit.<verse eID="Prov.29.27" />
+      </p>
+      <chapter eID="Prov.29" />
+      <chapter sID="Prov.30" osisID="Prov.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="Prov.30.2" osisID="Prov.30.2" />Insipientissimus enim omnium hominum sum, et non est hominis prudentia in me.<verse eID="Prov.30.2" />
+        <verse sID="Prov.30.3" osisID="Prov.30.3" />Deus docuit me sapientiam, et scientiam sanctorum cognovi.<verse eID="Prov.30.3" />
+        <verse sID="Prov.30.4" osisID="Prov.30.4" />Quis ascendit in coelum et descendit? Quis collegit ventos in sinum? Quis convertit aquam in vestimento? Quis tenuit fines terrae? Quod nomen est ei, aut quod nomen est filii eius?<verse eID="Prov.30.4" />
+        <verse sID="Prov.30.7" osisID="Prov.30.7" />Duo postulo a te. Ne auferas gratiam tuam me, priusquam moriar.<verse eID="Prov.30.7" />
+        <verse sID="Prov.30.8" osisID="Prov.30.8" />Et vanum verbum non exeat de ore meo. Divitias, et paupertatem ne dederis mihi, constitue autem mihi quae necessaria sunt sufficienter,<verse eID="Prov.30.8" />
+        <verse sID="Prov.30.9" osisID="Prov.30.9" />ut ne satiatus mendax efficiar, et dicam, Quis me videt? Aut pauper factus furer, et periurem nomen Dei mei.<verse eID="Prov.30.9" />
+        <verse sID="Prov.30.12" osisID="Prov.30.12" />Filius malus iustum se facit, et non lavat exitum suum.<verse eID="Prov.30.12" />
+        <verse sID="Prov.30.13" osisID="Prov.30.13" />Filius malus excelsos habet oculos, et palpebris suis elevatur.<verse eID="Prov.30.13" />
+        <verse sID="Prov.30.14" osisID="Prov.30.14" />Filius malus gladios dentes habet, et cultros molas, ut consumat infirmos de terra, et pauperes ex hominibus.<verse eID="Prov.30.14" />
+        <verse sID="Prov.30.15" osisID="Prov.30.15" />Sanguisugae tres filiae erant dilectione dilectae, Sed istae non saturaverunt eam, et quartae non sufficit dicere, Satis est.<verse eID="Prov.30.15" />
+        <verse sID="Prov.30.16" osisID="Prov.30.16" />Infernus, et amor mulieris, et terra, quae non satiatur aqua, et ignis non dicit, Satis est.<verse eID="Prov.30.16" />
+        <verse sID="Prov.30.17" osisID="Prov.30.17" />Oculum, qui irridet patrem, et despicit senectutem matris, effodiant eum corvi de convallibus, et comedant illum pulli aquilarum.<verse eID="Prov.30.17" />
+        <verse sID="Prov.30.18" osisID="Prov.30.18" />Tria sunt impossibilia mihi intelligere, et quartum quod non agnosco,<verse eID="Prov.30.18" />
+        <verse sID="Prov.30.19" osisID="Prov.30.19" />Vestigia aquilae volantis, viam serpentis in petra, et semitas navis navigantis, et vias viri in iuventute.<verse eID="Prov.30.19" />
+        <verse sID="Prov.30.20" osisID="Prov.30.20" />Talis via mulieris adulterae, quae postquam egit, abluta, nihil egisse se dicit iniquum.<verse eID="Prov.30.20" />
+        <verse sID="Prov.30.21" osisID="Prov.30.21" />Per tria movetur terra, quartum autem non potest ferre,<verse eID="Prov.30.21" />
+        <verse sID="Prov.30.22" osisID="Prov.30.22" />Si servus regnet, et stultus si saturetur panibus,<verse eID="Prov.30.22" />
+        <verse sID="Prov.30.23" osisID="Prov.30.23" />et odiosa uxor si habeat bonum virum, et ancilla si eiiciat dominam suam.<verse eID="Prov.30.23" />
+        <verse sID="Prov.30.29" osisID="Prov.30.29" />Tria sunt, quae securiter ambulant ...<verse eID="Prov.30.29" />
+        <verse sID="Prov.30.30" osisID="Prov.30.30" />Catulus leonis fortior iumentis ...<verse eID="Prov.30.30" />
+        <verse sID="Prov.30.31" osisID="Prov.30.31" />gallus inter gallinas, et hircus praecedens capras ...<verse eID="Prov.30.31" />
+      </p>
+      <chapter eID="Prov.30" />
+      <chapter sID="Prov.31" osisID="Prov.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="Prov.31.1" osisID="Prov.31.1" />... regis admonitio, quem erudivit mater sua.<verse eID="Prov.31.1" />
+        <verse sID="Prov.31.2" osisID="Prov.31.2" />... primogenite tibi dico fili, quid filius mei ventris, quid natus mearum orationum?<verse eID="Prov.31.2" />
+        <verse sID="Prov.31.3" osisID="Prov.31.3" />Ne dederis mulieri tuam honestatem ... Cum consilio omnia fac, cum consilio vinum bibe.<verse eID="Prov.31.3" />
+        <verse sID="Prov.31.4" osisID="Prov.31.4" />Potentes qui iracundi sunt, vinum non bibant,<verse eID="Prov.31.4" />
+        <verse sID="Prov.31.5" osisID="Prov.31.5" />ne cum biberint, obliviscantur sapientiae, et recta iudicare non possint.<verse eID="Prov.31.5" />
+        <verse sID="Prov.31.6" osisID="Prov.31.6" />Date ebrietatem his, qui in tristitia sunt. Et vinum bibere his, qui in doloribus sunt,<verse eID="Prov.31.6" />
+        <verse sID="Prov.31.7" osisID="Prov.31.7" />ut obliviscantur paupertatis, et dolorum suorum non meminerint amplius.<verse eID="Prov.31.7" />
+        <verse sID="Prov.31.8" osisID="Prov.31.8" />Aperi os tuum verbo Dei, et iudica omnibus integre,<verse eID="Prov.31.8" />
+        <verse sID="Prov.31.9" osisID="Prov.31.9" />aperi os tuum, et iudica iusta ...<verse eID="Prov.31.9" />
+        <verse sID="Prov.31.10" osisID="Prov.31.10" />Mulierem fortem quis inveniet? Pretiosior est lapidibus pretiosis, quae eius modi est.<verse eID="Prov.31.10" />
+        <verse sID="Prov.31.11" osisID="Prov.31.11" />Confidit super eam cor viri eius, quae talis est, spoliis non indigebit.<verse eID="Prov.31.11" />
+        <verse sID="Prov.31.12" osisID="Prov.31.12" />Operatur enim viro suo bona, et non mala, in omni tempore.<verse eID="Prov.31.12" />
+        <verse sID="Prov.31.13" osisID="Prov.31.13" />Inveniens lanam et linum, fecit utile manibus suis.<verse eID="Prov.31.13" />
+        <verse sID="Prov.31.14" osisID="Prov.31.14" />Facta est quasi navis, qua negotiator a longe congerit sibi divitias.<verse eID="Prov.31.14" />
+        <verse sID="Prov.31.15" osisID="Prov.31.15" />Exsurgit de noctibus, et dedit escas domui, et opera ancillis.<verse eID="Prov.31.15" />
+        <verse sID="Prov.31.16" osisID="Prov.31.16" />Prospiciens agrum, mercata est, de fructibus manuum suarum plantavit possessionem.<verse eID="Prov.31.16" />
+        <verse sID="Prov.31.17" osisID="Prov.31.17" />Succincta fortiter lumbos suos, firmavit brachia sua.<verse eID="Prov.31.17" />
+        <verse sID="Prov.31.18" osisID="Prov.31.18" />Gustavit quia bonum est operari, non exstinguetur lucerna eius tota nocte.<verse eID="Prov.31.18" />
+        <verse sID="Prov.31.19" osisID="Prov.31.19" />Manus suas extendit ad utilia, brachia quoque sua firmavit in fusum.<verse eID="Prov.31.19" />
+        <verse sID="Prov.31.20" osisID="Prov.31.20" />Manus autem suas aperuit pauperi, fructum autem porrexit inopi.<verse eID="Prov.31.20" />
+        <verse sID="Prov.31.21" osisID="Prov.31.21" />Non est sollicitus de his quae in domo sunt vir eius, cum alicubi demoratur, omnes enim apud eam vestiti sunt.<verse eID="Prov.31.21" />
+        <verse sID="Prov.31.22" osisID="Prov.31.22" />Duplicia pallia fecit viro suo, de bysso et purpura vestimenta sibi fecit.<verse eID="Prov.31.22" />
+        <verse sID="Prov.31.23" osisID="Prov.31.23" />Erit conspicuus in portis vir eius, cum sederit in concilio cum senioribus terrae.<verse eID="Prov.31.23" />
+        <verse sID="Prov.31.24" osisID="Prov.31.24" />Sindones fecit, et vendidit, cinctoria autem Chananaeis.<verse eID="Prov.31.24" />
+        <verse sID="Prov.31.25" osisID="Prov.31.25" />Fortitudine et decore induta est, et laetata est in diebus novissimis.<verse eID="Prov.31.25" />
+        <verse sID="Prov.31.26" osisID="Prov.31.26" />Os suum aperuit attente, et ordinem posuit linguae suae.<verse eID="Prov.31.26" />
+        <verse sID="Prov.31.27" osisID="Prov.31.27" />Severae conversationes domorum eius, cibos autem pigros non comedit.<verse eID="Prov.31.27" />
+        <verse sID="Prov.31.28" osisID="Prov.31.28" />Surrexerunt filii eius, et ditati sunt. Et vir eius laudavit eam.<verse eID="Prov.31.28" />
+        <verse sID="Prov.31.29" osisID="Prov.31.29" />Multae filiae fecerunt potentiam, tu autem superasti, et superposuisti omnes.<verse eID="Prov.31.29" />
+        <verse sID="Prov.31.30" osisID="Prov.31.30" />Falsae gratiae, et vana species mulieris, mulier enim sapiens benedicitur. Timorem autem Domini ipsa collaudat.<verse eID="Prov.31.30" />
+        <verse sID="Prov.31.31" osisID="Prov.31.31" />Date illi de fructibus manuum suarum, et laudetur in portis vir eius.<verse eID="Prov.31.31" />
+      </p>
+      <chapter eID="Prov.31" />
+    </div>
+  </osisText>
+</osis>

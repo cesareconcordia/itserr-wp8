@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Judith" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Judith">
+        <title>judith</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Judith</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>judith</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Judith">
+      <title>judith</title>
+      <chapter sID="Judith.1" osisID="Judith.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Judith.1.1" osisID="Judith.1.1" />Anno duodecimo regni Nabuchodonosor, qui regnavit Assyriis in Ninive civitate magna, in diebus Arfaxath regis, qui regnavit in Medis in Ecbathana civitate, et aedificavit turrem in Ecbathana,<verse eID="Judith.1.1" />
+        <verse sID="Judith.1.2" osisID="Judith.1.2" />et in circuitu muros eius, ex lapidibus excisis, latitudine cubitorum trium, et longitudine cubitorum sex, et fecit altitudinem muri cubitorum sexaginta, et turres constituit supra portas eius cubitorum centum,<verse eID="Judith.1.2" />
+        <verse sID="Judith.1.3" osisID="Judith.1.3" />altitudinem et latitudinem earum fundavit in cubitis sexaginta, et fecit portas eius exsurgentes in altum cubitis sexaginta, et latitudinem earum cubitis quadraginta,<verse eID="Judith.1.3" />
+        <verse sID="Judith.1.4" osisID="Judith.1.4" />ad exitum quadrigarum suarum.<verse eID="Judith.1.4" />
+        <verse sID="Judith.1.5" osisID="Judith.1.5" />Et fecit bellum in diebus illis rex Nabuchodonosor adversus regem Arfaxath<verse eID="Judith.1.5" />
+        <verse sID="Judith.1.6" osisID="Judith.1.6" />in campo magno, hic est campus Ragau. Et convenerunt in pugnam omnes habitantes in montanis, et Euphrate, et Tigri, et Ydaspi, in campis Arioth regis Elimeorum, et collegerunt se gentes multae ad bellum filiorum Chelleuth.<verse eID="Judith.1.6" />
+        <verse sID="Judith.1.7" osisID="Judith.1.7" />Et misit Nabuchodonosor rex Assyriorum ad omnes inhabitantes Iamnae, Persidis, et Ciliciam, et Damascum, Libanum et Antelibanum, et contra faciem maris,<verse eID="Judith.1.7" />
+        <verse sID="Judith.1.8" osisID="Judith.1.8" />et qui sunt in nationibus Carmeli et Galaad, et superiori Galilaeae in campo magno Esdrelon,<verse eID="Judith.1.8" />
+        <verse sID="Judith.1.9" osisID="Judith.1.9" />et ad omnes qui in Samaria, et in civitatibus eius, et trans Iordanem usque Hierusalem, et Bathana, et Chelus, et Cades, et flumina Aegypti, et Tasnas, et Ramesses, et omnem terram Gessen, donec veniatur supra Thaneos et Memphis, et omnes qui inhabitant Galilaea maritima in Iordanem, in totam terram Aegypti, donec veniatur ad fines Aethiopiae.<verse eID="Judith.1.9" />
+        <verse sID="Judith.1.11" osisID="Judith.1.11" />Et contempserunt omnes inhabitantes terram illam, verbum Nabuchodonosor regis Assyriorum, neque convenerunt cum illo in praelium, quia non timuerunt eum, sed erat adversus eos quasi vir unus. Et remiserunt legatos eius vacuos, sine honore facies eorum.<verse eID="Judith.1.11" />
+        <verse sID="Judith.1.12" osisID="Judith.1.12" />Et iratus est rex Nabuchodonosor ad omnem terram illam vehementer, et iuravit per sedem regni sui, animadversurum se in omnes fines Ciliciae, et Damasci, et Scythiae, et interfecturum gladio suo inhabitantes Moab, et filios Ammon, et omnem Iudaeam, et omnes qui in Aegypto sunt, usque dum veniatur montanam, et ad finitima duorum aequorum. Et praeparavit se in virtute sua adversus regem Arfaxath in anno septimo decimo, et invaluit in pugna sua, et redegit in potestate sua omnem virtutem regis Arfaxath, et omnem equitatum eius, et omnes currus ipsius, et dominatus est civitatum eius. Et abiit usque Ecbatham, et obtinuit turres eius, et praedatus est plateas eius, et ornamenta eius, et posuit ea in opprobrio, et cepit regem Arfaxath in montibus Regau, et percussit illum in lanceis suis, et disperdidit eum usque in hodiernum diem. Et reversus est Nabuchodonosor rex in Niniven, ipse et exercitus, multitudo virorum bellatorum copiosa nimis, et erat illic securus habitans. Et epulatus est ipse, et virtus eius per dies centum viginti.<verse eID="Judith.1.12" />
+      </p>
+      <chapter eID="Judith.1" />
+      <chapter sID="Judith.2" osisID="Judith.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Judith.2.1" osisID="Judith.2.1" />Et anno octavo decimo, secundo et vicesimo die mensis, factum est verbum in domo Nabuchodonosor regis Assyriorum, ut defenderet omnem terram, sicut locutus est.<verse eID="Judith.2.1" />
+        <verse sID="Judith.2.2" osisID="Judith.2.2" />Et consedit cum omnibus famulis et principibus suis, et exposuit illis mysterium consilii sui,<verse eID="Judith.2.2" />
+        <verse sID="Judith.2.3" osisID="Judith.2.3" />et factum est, cum consummasset malitiam terrae ex ore suo, et ipsi iudicaverunt exterminari omnem carnem, qui non sunt obsecuti verbo oris eius.<verse eID="Judith.2.3" />
+        <verse sID="Judith.2.4" osisID="Judith.2.4" />Cum autem consummasset loquens consilium ad eos, vocavit Nabuchodonosor rex Assyriorum Olofernem principem militiae suae, qui erat secundus ab eo,<verse eID="Judith.2.4" />
+        <verse sID="Judith.2.5" osisID="Judith.2.5" />et dixit ad eum, Haec dicit rex magnus, universae terrae dominus, Ecce tu exies ante faciem meam, et accipies tecum viros sidentes in virtute sua, peditum centum viginti millia, et multitudinem equorum cum ascensoribus duodecim millia, et exies in obviam universae terrae ad occasum, qui contempserunt verba oris mei. Et denuntiabis illis, ut praeparent mihi terram et aquam, quia exibo in ira mea adversus illos, et cooperiam faciem totius terrae pedibus exercitus mei, et dabo eos in direptionem, et vulneratis eorum implebuntur valles eorum, et omnis torrens et fluvius inundans, mortuis eorum implebuntur. Et adducam captivitatem eorum ad ultima terrae. Tu autem exiens, praeoccupabis mihi omnes fines eorum. Et illi si tradiderint se tibi, servabis eos mihi in diem increpationis ipsorum.<verse eID="Judith.2.5" />
+        <verse sID="Judith.2.6" osisID="Judith.2.6" />Super eos autem qui non obediunt, non parcet oculus tuus, ut des illos in occisionem, et in rapinam universae terrae, quoniam vivo ego, et virtus regni mei, quae locutus sum ut faciam omnia ista in manu mea. Et tu non praeteries unum verbum domini tui, sed consummans consummabis, sicut praecepi tibi, et non prolongabis facere ea.<verse eID="Judith.2.6" />
+        <verse sID="Judith.2.7" osisID="Judith.2.7" />Exiit Olofernes a facie domini sui, et vocavit duces, et magistratus, et praepositos virtutis Assyriorum, et numeravit electos viros in acie, quemadmodum praeceperat ei dominus suus, centum viginti millia peditum, et equitatum sagittariorum duodecim millia.<verse eID="Judith.2.7" />
+        <verse sID="Judith.2.8" osisID="Judith.2.8" />Et disposuit eos quemadmodum ad bellum multitudo constituitur, et accepit camelos, et asinos, et mulas ad utensilia eorum, multitudinem magnam valde. Oves, et boves, et capras in apparatum eorum, quorum non erat numerus,<verse eID="Judith.2.8" />
+        <verse sID="Judith.2.9" osisID="Judith.2.9" />et frumenta omni homini ad satietatem.<verse eID="Judith.2.9" />
+        <verse sID="Judith.2.10" osisID="Judith.2.10" />Et aurum, et argentum de domo regis, multum nimis.<verse eID="Judith.2.10" />
+        <verse sID="Judith.2.11" osisID="Judith.2.11" />Et profectus est de Ninive Olofernes, ipse et omnis virtus eius, sicut praeceperat rex Nabuchodonosor, ut cooperiret faciem terrae, quae est ad occasum, quadrigis, et equitibus, et peditibus electis suis. Et multus comitatus, sicut locustae, profectus est cum eis, et sicut arena, nec enim poterat numerari multitudo eorum. Et exiit de Ninive viam trium dierum super faciem campi in Bethuliam.<verse eID="Judith.2.11" />
+        <verse sID="Judith.2.12" osisID="Judith.2.12" />Et consedit exercitus eius contra Bithilat, iuxta montem Agge, qui est in sinistra superioris partis Ciliciae, et accepit omnem exercitum suum, pedites, et equites, et currus suos.<verse eID="Judith.2.12" />
+        <verse sID="Judith.2.13" osisID="Judith.2.13" />Et abiit inde in montana, et concidit Tafuth et Luth, et vastavit omnes filios Thiras et Rasis, et filios Ismael, qui inhabitabant contra faciem deserti, ad austrum Cheleonis terrae Chaldaeorum.<verse eID="Judith.2.13" />
+        <verse sID="Judith.2.14" osisID="Judith.2.14" />Et transiit Euphraten a Mesopotamia, et subvertit omnes civitates excelsas, quae erant ad torrentem Beccon, donec veniatur ad mare,<verse eID="Judith.2.14" />
+        <verse sID="Judith.2.15" osisID="Judith.2.15" />et occupavit fines Ciliciae, et occidit omnes resistentes sibi, et venit usque ad terminos Iofeth ad austrum, contra faciem terrae Arabiae.<verse eID="Judith.2.15" />
+        <verse sID="Judith.2.16" osisID="Judith.2.16" />Et circumierunt omnes filios Madian, et succenderunt tabernacula eorum, et praedati sunt, et vastaverunt omnia cubilia eorum.<verse eID="Judith.2.16" />
+        <verse sID="Judith.2.17" osisID="Judith.2.17" />Et descenderunt ad campos Damasci in diebus tritici, et succenderunt omnes agros illorum, et campos eorum, et extirpaverunt domicilia eorum, et greges et armenta dederunt in interitum. Et civitates eorum depraedati sunt, et spoliaverunt, et percusserunt omnes iuvenes eorum in ore gladii,<verse eID="Judith.2.17" />
+        <verse sID="Judith.2.18" osisID="Judith.2.18" />et cecidit timor et tremor eius super omnes inhabitantes maritima, qui erant in Sidone, et Tyro, et Sur, et Gemna, et Azoto, et Ascalona, et Gaza, et timuerunt eum valde.<verse eID="Judith.2.18" />
+      </p>
+      <chapter eID="Judith.2" />
+      <chapter sID="Judith.3" osisID="Judith.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Judith.3.1" osisID="Judith.3.1" />Et miserunt ad illum nuncios pacificis verbis, dicentes,<verse eID="Judith.3.1" />
+        <verse sID="Judith.3.2" osisID="Judith.3.2" />Ecce nos pueri Nabuchodonosor regis magni adstamus tibi, ut simus in conspectu tuo, utere nobis sicut placet ante faciem tuam.<verse eID="Judith.3.2" />
+        <verse sID="Judith.3.3" osisID="Judith.3.3" />Ecce possessiones nostrae, et universus ager, et omnis campus frumenti, greges, et armenta, et universa stabula iumentorum nostrorum, subiacent ante faciem tuam,<verse eID="Judith.3.3" />
+        <verse sID="Judith.3.4" osisID="Judith.3.4" />utere eis sicut placet tibi.<verse eID="Judith.3.4" />
+        <verse sID="Judith.3.5" osisID="Judith.3.5" />Ecce civitates nostrae, et qui habitant in illis, servi tui sunt,<verse eID="Judith.3.5" />
+        <verse sID="Judith.3.6" osisID="Judith.3.6" />veniens occurre eis miserans, sicut bonum est in oculis tuis.<verse eID="Judith.3.6" />
+        <verse sID="Judith.3.7" osisID="Judith.3.7" />Et venerunt nuncii ad Olofernem, et nunciaverunt illi secundum verba ista. Et descendit iuxta maritimam, secundum nuncium illorum, ipse et exercitus eius, et praedatus est civitates excelsas.<verse eID="Judith.3.7" />
+        <verse sID="Judith.3.8" osisID="Judith.3.8" />Et accepit ex eis in auxilium viros electos.<verse eID="Judith.3.8" />
+        <verse sID="Judith.3.10" osisID="Judith.3.10" />Et exceperunt illum ipsi, et omnis regio eorum cum coronis, et choris, et tymphanis.<verse eID="Judith.3.10" />
+        <verse sID="Judith.3.12" osisID="Judith.3.12" />Et destruxit omnes terminos eorum, et excidit,<verse eID="Judith.3.12" />
+        <verse sID="Judith.3.13" osisID="Judith.3.13" />quoniam datum illi erat in ministerio, exterminare omnes deos terrae, ut ipsi soli Nabuchodonosor servirent, et adorarent universae gentes. Et omnes linguae, et tribus eorum invocarent illum Deum.<verse eID="Judith.3.13" />
+        <verse sID="Judith.3.14" osisID="Judith.3.14" />Et venit secus faciem Esdrelon, iuxta Dothea, quae est contra Prionem magnam Iudaeae,<verse eID="Judith.3.14" />
+        <verse sID="Judith.3.15" osisID="Judith.3.15" />et obsedit inter medium Gabe, et Scytarum civitatis, et erat ibi diebus triginta, ad colligendum omnem exercitum suum.<verse eID="Judith.3.15" />
+      </p>
+      <chapter eID="Judith.3" />
+      <chapter sID="Judith.4" osisID="Judith.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Judith.4.1" osisID="Judith.4.1" />Et audierunt filii Israel, qui habitabant in Iudaea, omnia quae fecit inter gentes Olofernis princeps militiae Nabuchodonosor regis Assyriorum. Et quemadmodum exspoliavit universa templa eorum, et dedit ea in interitum, et timuerunt valde a facie eius.<verse eID="Judith.4.1" />
+        <verse sID="Judith.4.2" osisID="Judith.4.2" />Et propter Hierusalem et templum Domini Dei sui et turbati sunt, quia nuper ascenderant de captivitate, et propter ipsum quod collectus erat omnis populus in Iudaea. Et vasa, et altare, et domus de profanatione nuper sanctificata erat.<verse eID="Judith.4.2" />
+        <verse sID="Judith.4.3" osisID="Judith.4.3" />Et miserunt in omnem finem Samariae, et in castella et vicos, et Boccha, et Bethorum, et Abelmam, et Hiericho, et Choban, et Belon, et Aulona, et Artosia, et Selem in porticum Hierusalem. Et praeoccupaverunt omnia cacumina montium excelsorum,<verse eID="Judith.4.3" />
+        <verse sID="Judith.4.4" osisID="Judith.4.4" />et muris circumdederunt castella quae in viis sunt, et reposuerunt copias equitibus ad apparatum belli, quia nuper erant campi eorum demessi.<verse eID="Judith.4.4" />
+        <verse sID="Judith.4.5" osisID="Judith.4.5" />Et scripsit Ioachim sacerdos magnus, qui erat in diebus illis in Hierusalem, qui habitabant Bethuliam, et Betomasten quae est super Prionem contra Esdrelon, ante faciem campi magni iuxta Dothain, dicens,<verse eID="Judith.4.5" />
+        <verse sID="Judith.4.6" osisID="Judith.4.6" />ut occuparent ascensus montium. Quia per ipsos erat introitus in Iudaeam, et erat facile prohibere ascendentes, eo quod angustus esset ascensus in viris non amplius quam duobus.<verse eID="Judith.4.6" />
+        <verse sID="Judith.4.7" osisID="Judith.4.7" />Et fecerunt filii Israel, sicut constituit illis Ioachim sacerdos magnus, et seniores totius populi Israel, qui sedebant in Hierusalem.<verse eID="Judith.4.7" />
+        <verse sID="Judith.4.8" osisID="Judith.4.8" />Et proclamaverunt viri Israel ad Dominum instantia magna, et humiliaverunt animas suas in ieiunio magno, ipsi et mulieres, et parvuli eorum, et omnis advena, qui erat mercenarius et emptitius eorum,<verse eID="Judith.4.8" />
+        <verse sID="Judith.4.9" osisID="Judith.4.9" />et imposuerunt cilicia super lumbos suos. Et omnes viri Israel, et mulieres, et pueri qui inhabitabant Hierusalem, prociderunt in faciem contra templum. Et cinerem posuerunt super capita sua, contra faciem templi Domini, et cooperuerunt altare cilicio,<verse eID="Judith.4.9" />
+        <verse sID="Judith.4.10" osisID="Judith.4.10" />et clamaverunt ad Dominum Israel unianimes, ut non daret in direptionem parvulos eorum, et mulieres in praedam, et civitates haereditatis illorum in exterminium, et sancta in conviolationem, et improperium, et opprobrium gentibus. Exaudivit Dominus voces eorum, et vidit tribulationem illorum, et erat plebs ieiunans diebus multis in tota terra Iudaeae et Hierusalem, et prociderunt contra faciem sanctorum Domini omnipotentis.<verse eID="Judith.4.10" />
+        <verse sID="Judith.4.11" osisID="Judith.4.11" />Et Ioachim sacerdos magnus,<verse eID="Judith.4.11" />
+        <verse sID="Judith.4.15" osisID="Judith.4.15" />et omnes qui adstabant coram Domino<verse eID="Judith.4.15" />
+        <verse sID="Judith.4.16" osisID="Judith.4.16" />sacerdotes, praecincti ciliciis circa lumbos suos, offerebant immolationem instantiae, et vota, et consueta dona plebis. Et erat cinis super cidarim eorum.<verse eID="Judith.4.16" />
+        <verse sID="Judith.4.17" osisID="Judith.4.17" />Et clamabant ad Dominum in omni virtute sua, ut in bono visitaret omnem domum Israel.<verse eID="Judith.4.17" />
+      </p>
+      <chapter eID="Judith.4" />
+      <chapter sID="Judith.5" osisID="Judith.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Judith.5.1" osisID="Judith.5.1" />Et renuntiatum est Oloferni principi militiae Assyriorum, quoniam filii Israel praeparaverunt se ad pugnam, et itinera montium concluserunt, et muri cinxerunt omnes vertices eorum, et posuerunt in campis offendicula,<verse eID="Judith.5.1" />
+        <verse sID="Judith.5.2" osisID="Judith.5.2" />et iratus est iracundia Olofernis valde, et vocavit omnes principes Moab, et duces Ammon, et omnes magistratus maritimae regionis,<verse eID="Judith.5.2" />
+        <verse sID="Judith.5.3" osisID="Judith.5.3" />et dixit eis, Renuntiate mihi filii Chanaan, Qui est iste populus, qui sedit in montana, quae sunt autem, quibus inhabitant, civitates, et quae est multitudo virtutis eorum, in quo est autem potestas virtutis illorum, et quis praeest illis dux militiae eorum,<verse eID="Judith.5.3" />
+        <verse sID="Judith.5.4" osisID="Judith.5.4" />quare autem non cucurrerunt in obviam mihi, prae omnibus, qui habitant in occidente?<verse eID="Judith.5.4" />
+        <verse sID="Judith.5.5" osisID="Judith.5.5" />Et dixit ad illum Achior dux filiorum Ammon, Audiat nunc verbum dominus meus ex ore servi sui, et dicam tibi veritatem, de populo hoc, qui inhabitat iuxta montana ista, et non exiet mendacium de ore servi sui.<verse eID="Judith.5.5" />
+        <verse sID="Judith.5.6" osisID="Judith.5.6" />Populus hic est ex progenie Chaldaeorum,<verse eID="Judith.5.6" />
+        <verse sID="Judith.5.7" osisID="Judith.5.7" />qui habitaverunt primum in Mesopotamia Syriae. Quoniam ergo noluerunt obedire diis patrum suorum, qui fuerunt in terra Chaldaeorum honorifice,<verse eID="Judith.5.7" />
+        <verse sID="Judith.5.8" osisID="Judith.5.8" />sed declinaverunt de via parentum suorum,<verse eID="Judith.5.8" />
+        <verse sID="Judith.5.9" osisID="Judith.5.9" />et adoraverunt Deum coeli, Deum quem cognoverunt. Et eiecerunt illos a facie deorum suorum, et fugerunt in Mesopotamiam, et habitaverunt ibi dies multos. Et dixit illis Deus eorum, ut exirent de peregrinatione, et irent in terram Chanaan, et inhabitarent ibi, et repleti sunt auro et argento, et pecoribus multis valde. Et descenderunt in Aegyptum, cooperuerat enim fames faciem terrae Chanaan, et commorati sunt ibi usque dum nutrirentur. Et facti sunt ibi in multitudine magna, nec erat numerus generis illorum.<verse eID="Judith.5.9" />
+        <verse sID="Judith.5.10" osisID="Judith.5.10" />Et insurrexerunt super illos Aegyptii, et oppresserunt eos, et gravaverunt illos in luto et latere, et humiliaverunt illos, et posuerunt eos in servis, et exclamaverunt ad Deum suum, et percussa est tota terra Aegypti plagis, in quibus non erat sanitas.<verse eID="Judith.5.10" />
+        <verse sID="Judith.5.11" osisID="Judith.5.11" />Et eiecerunt eos Aegyptii a facie sua,<verse eID="Judith.5.11" />
+        <verse sID="Judith.5.12" osisID="Judith.5.12" />et exsiccavit Deus ante eos rubrum mare,<verse eID="Judith.5.12" />
+        <verse sID="Judith.5.14" osisID="Judith.5.14" />et eduxit illos in viam Sina, in viam Cadesbarne, et eiecit omnes habitantes in eterno, omnes qui erant in terra Amorraeorum. Et omnes Esebonitas et Basanitas extirpaverunt in virtute sua. Et cum transissent Iordanem, possederunt totam terram montanam,<verse eID="Judith.5.14" />
+        <verse sID="Judith.5.20" osisID="Judith.5.20" />Et eiecerunt a facie sua Chananaeum, et Ferezaeum, Iebusaeum, Sichem, et Gergesaeum, et habitaverunt in ea diebus multis,<verse eID="Judith.5.20" />
+        <verse sID="Judith.5.21" osisID="Judith.5.21" />usquequo non peccarent in conspectu Dei sui, et erant cum ipsis bona, quoniam Deus odiens iniquitatem est.<verse eID="Judith.5.21" />
+        <verse sID="Judith.5.22" osisID="Judith.5.22" />Sed cum recesserunt a via, quam disposuerat eis, affecti sunt in bello multum valde, et captivi ducti sunt in terram non suam. Et templum Dei illorum devenit ad solum, et civitates eorum obtentae sunt ab adversariis eorum.<verse eID="Judith.5.22" />
+        <verse sID="Judith.5.23" osisID="Judith.5.23" />Et nunc revertentes ad Deum suum, clamaverunt a dispersione qua dispersi sunt ibi, et iterum possederunt Hierusalem in qua sanc imonium eorum est, et habitant in montanis quae erant deserta.<verse eID="Judith.5.23" />
+        <verse sID="Judith.5.24" osisID="Judith.5.24" />Et nunc domine, si est ignorantia aliqua in plebe hac, et peccat in Deum sum. Visitabimus eos, quia est in illis scandalum hoc, et ascendemus, et expugnabimus eos.<verse eID="Judith.5.24" />
+        <verse sID="Judith.5.25" osisID="Judith.5.25" />Si autem non est iniquitas in eis, praetereat dominus meus illos. Ne forte protegat illos Deus eorum pro se, et erimus improperium coram omni terra.<verse eID="Judith.5.25" />
+        <verse sID="Judith.5.26" osisID="Judith.5.26" />Et factum est, cum cessasset loqui Achior verba haec, murmuravit omnis populus qui erat in circuitu tabernaculi, et dixerunt principes Oloferni, et omnes qui habitabant ad mare Moab, ut occiderent illum, dicentes,<verse eID="Judith.5.26" />
+        <verse sID="Judith.5.27" osisID="Judith.5.27" />Non enim timebimus a facie filiorum Israel. Ecce enim populus, in quo non est potestas, neque virtus in pugna valida.<verse eID="Judith.5.27" />
+        <verse sID="Judith.5.28" osisID="Judith.5.28" />Propter hoc ascendemus, et erunt in consummatione omni militiae tuae, domine Olofernis.<verse eID="Judith.5.28" />
+      </p>
+      <chapter eID="Judith.5" />
+      <chapter sID="Judith.6" osisID="Judith.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Judith.6.1" osisID="Judith.6.1" />Et cum cessasset turbatio virorum qui erant in circuitu concilii, dixit Olofernis princeps virtutis Assyriorum ad Achior, praesentibus universis populis alienigenarum,<verse eID="Judith.6.1" />
+        <verse sID="Judith.6.2" osisID="Judith.6.2" />Quis es tu Achior, et omnes filii Moab, et mercenarii Ammon, quoniam prophetasti nobis sicut hodie, et dixisti, quoniam genus filiorum Israel defendetur a Deo, et non expugnatur, quia Deus eorum protexit illos? Et quis Deus, nisi Nabuchodonosor rex omnis terrae? Hic mittet exercitum suum, et disperdet eos a facie terrae, et non liberabit eos Deus eorum,<verse eID="Judith.6.2" />
+        <verse sID="Judith.6.3" osisID="Judith.6.3" />sed nos servi Nabuchodonosor, percutiemus illos, sicut hominem unum. Nec sustinebunt spumam equorum nostrorum, delebimus enim eos, et montes eorum inebriabuntur sanguine ipsorum, et campi illorum replebuntur mortuis, nec resistent vestigia pedum eorum contra faciem nostram, sed perditione perient,<verse eID="Judith.6.3" />
+        <verse sID="Judith.6.4" osisID="Judith.6.4" />dicit Nabuchodonosor rex, dominus universae terrae, dixit, et non frustrabuntur verba oris eius. Tu autem Achior, mercenarii Ammon, qui locutus es verba haec in die iniquitatis tuae, non videbis faciem meam iam nunc ex hac die, quoadusque ulciscar gentem eorum quae ascendit ex Aegypto, et tunc pertansiet gladius militiae meae, et lancea famulorum meorum per latera tua, et cades cum vulneratis eorum cum venero. Nunc vero deducent te servi mei hodie in montana, et ponent te in ascensum unius civitatis, et non peries, donec extermineris cum eis.<verse eID="Judith.6.4" />
+        <verse sID="Judith.6.5" osisID="Judith.6.5" />Et si tu speras corde tuo, quoniam non capientur, non concidat facies tua. Locutus sum, et nihil decidet verborum meorum.<verse eID="Judith.6.5" />
+        <verse sID="Judith.6.7" osisID="Judith.6.7" />Et praecepit Olofernis servis suis, qui erant adstantes, ut comprehenderent Achior, et reducerent eum in Bethuliam, et traderent illum in manus filiorum Israel.<verse eID="Judith.6.7" />
+        <verse sID="Judith.6.8" osisID="Judith.6.8" />Et comprehenderunt eum servi eius, et duxerunt illum extra castra in campum, et profecti sunt a medio campo in montana, et venerunt ad fontes qui erant sub Bethulia. Et ut viderunt eos viri civitatis, sumpserunt arma sua, et exierunt foras extra civitatem super cacumen montis, et omnis vir fundibularius custodiebat ascensum, et mittebant lapides super eos.<verse eID="Judith.6.8" />
+        <verse sID="Judith.6.9" osisID="Judith.6.9" />Et accedentes super montem, alligaverunt Achior, et reliquerunt eum proiectum sub radice montis, et reversi sunt ad dominum suum.<verse eID="Judith.6.9" />
+        <verse sID="Judith.6.10" osisID="Judith.6.10" />Descendentes autem filii Israel de civitate sua, venerunt ad illum, et solventes eum duxerunt in Bethuliam, et adduxerunt illum ad principes civitatis suae,<verse eID="Judith.6.10" />
+        <verse sID="Judith.6.11" osisID="Judith.6.11" />qui erant in illis diebus, Ozias filius Michiae de tribu Simeon, et Chabris filius Gothonihel, et Charmis filius Melchiel. Et convocaverunt omnes seniores civitatis, et concurrerunt omnes viri eorum, et mulieres, et pueri in concilium,<verse eID="Judith.6.11" />
+        <verse sID="Judith.6.12" osisID="Judith.6.12" />et statuerunt Achior in medio populo ipsorum. Et interrogavit Ozias quid contigisset ei, et indicavit illi omnia verba concilii Olofernis,<verse eID="Judith.6.12" />
+        <verse sID="Judith.6.13" osisID="Judith.6.13" />et omnia quaecunque locutus est in medio principum Assur, et quae magna locutus est Olofernis super domum Israel.<verse eID="Judith.6.13" />
+        <verse sID="Judith.6.14" osisID="Judith.6.14" />Et procidit omnis populus, et adoravit Dominum Deum, et clamaverunt,<verse eID="Judith.6.14" />
+        <verse sID="Judith.6.15" osisID="Judith.6.15" />dicentes, Domine Deus coeli et terrae, respice ad superbiam eorum, et miserere humilitati generis nostri, et respice ad faciem sanctorum tuorum in hac die.<verse eID="Judith.6.15" />
+        <verse sID="Judith.6.16" osisID="Judith.6.16" />Et consolati sunt Achior, et laudaverunt eum valde,<verse eID="Judith.6.16" />
+        <verse sID="Judith.6.17" osisID="Judith.6.17" />[17-18] dicentes, Quomodo visum fuerit Deo de nobis, erit et tecum.<verse eID="Judith.6.17" />
+        <verse sID="Judith.6.19" osisID="Judith.6.19" />Et eduxit eum Ozias de concilio, et duxit illum in domum suam.<verse eID="Judith.6.19" />
+        <verse sID="Judith.6.20" osisID="Judith.6.20" />Et fecit coenam senioribus.<verse eID="Judith.6.20" />
+        <verse sID="Judith.6.21" osisID="Judith.6.21" />Et invocaverunt Deum Israel in adiutorium tota nocte.<verse eID="Judith.6.21" />
+      </p>
+      <chapter eID="Judith.6" />
+      <chapter sID="Judith.7" osisID="Judith.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Judith.7.1" osisID="Judith.7.1" />Alio autem die praecepit Olofernis omni militiae suae, et omni populo suo, qui adfuerunt in auxilio eius, parare se ad Bethuliam, et ascensus montis occupare, et facere pugnam adversus filios Israel.<verse eID="Judith.7.1" />
+        <verse sID="Judith.7.2" osisID="Judith.7.2" />Et profecti sunt in illa die omnis potens eorum, et virtus peditum eorum erat centum septuaginta millia, et equitum viginti duo millia, praeter apparatum virorum, qui erant cum eis comitantes, multitudo magna valde.<verse eID="Judith.7.2" />
+        <verse sID="Judith.7.3" osisID="Judith.7.3" />Et applicuerunt se in aulonam secus Bethuliam ad fontem, et praetenderunt in circuitu Dothaim usque Abelme, et extenderunt longitudinem a Bethulia, usque Chelmona quae est contra Esdrelon.<verse eID="Judith.7.3" />
+        <verse sID="Judith.7.4" osisID="Judith.7.4" />Filii autem Israel ut viderunt multitudinem eorum, turbati sunt valde. Et dixit unusquisque ad proximum suum, Nunc elident isti faciem totius terrae. Et neque montes alti, neque colles, neque valles sustinebunt pondus eorum.<verse eID="Judith.7.4" />
+        <verse sID="Judith.7.5" osisID="Judith.7.5" />Et accepit unusquisque vasa sua bellica, et incendentes ignem super turres murorum, manebant custodientes tota nocte illa.<verse eID="Judith.7.5" />
+        <verse sID="Judith.7.6" osisID="Judith.7.6" />Alia autem die duxit Olofernis omnem virtutem suam contra faciem filiorum Israel qui erant in Bethulia, et visitavit ascensus civitatis eorum.<verse eID="Judith.7.6" />
+        <verse sID="Judith.7.7" osisID="Judith.7.7" />Et fontes aquarum perambulaverunt, et occupaverunt eos, et statuerunt super eos castra virorum bellatorum. Et ipse egressus est cum plebe sua.<verse eID="Judith.7.7" />
+        <verse sID="Judith.7.8" osisID="Judith.7.8" />Et accedentes ad eum omnes principes filiorum Esau, et omnes duces populi Moab, et magistratus maritimae, dixerunt, Audiat itaque nunc verbum dominus noster, ne fiat discussio in virtute tua, populus enim hic filiorum Israel non confidit in armis nec in lanceis, sed in altitudine montium in quibus habitant. Non enim est facile ascendere vertices montium.<verse eID="Judith.7.8" />
+        <verse sID="Judith.7.9" osisID="Judith.7.9" />Et nunc domine, noli pugnare adversus eos sicut pugnatur in bello, et non cadet ex populo tuo vir unus, sed mane in castris tuis, custodiens omnem exercitum tuum. Et obtineant pueri tui fontes aquarum qui exeunt a radice montis, quia inde implent omnes habitantes Bethuliam. Et interficies eos siti, et tradent civitatem suam. Et nos, et populus tuus ascendemus super vertices montium, et obsidebimus in eis custodientes, ut non exeat de civitate vir unus. Et distillabunt fame et siti, et ipsi, et mulieres eorum, et filii illorum, et priusquam veniat gladius super eos, prosternentur in plateis civitatis suae. Et retribues eis redditionem malignam, pro quibus contempserunt te, et non obviaverunt in conspectum tuum cum pace.<verse eID="Judith.7.9" />
+        <verse sID="Judith.7.10" osisID="Judith.7.10" />Et placuerunt verba eorum coram Oloferne, et coram omnibus famulis eius, et constituit facere secundum quae locuti sunt. Et promoverunt castra filiorum Moab, et cum illis ex Assyriis quinque millia peditum, et castra constituerunt in aulon, et praeoccupaverunt fontes aquarum filiorum Israel. Et ascenderunt filii Ammon, filii Esau, et cum eis plebis Assyriorum duodecim millia, et castra constituerunt in montana contra Dothaim, et miserunt ex eis ad austrum et ad aquilonem contra Etrebel, quae est iuxta Chus, ad rivum Machur. Et reliqui milites Assyriorum et castra constituerunt in campo, et operuerunt omnem faciem terrae. Et tabernacula, et rapinae constitutae sunt in medio eorum, et apparatus eorum erant copiosi valde. Filii autem Israel clamaverunt ad Dominum Deum suum, quoniam minorabatur spiritus eorum, circumdederant enim illos omnes inimici eorum, et non poterant effugere de medio illorum.<verse eID="Judith.7.10" />
+        <verse sID="Judith.7.11" osisID="Judith.7.11" />Et manserunt omnia castra filiorum Assur in circuitu eorum, pedites, et quadrigae, et equites eorum diebus triginta quatuor. Et defecerunt omnes inhabitantes Bethuliam, omnia enim vasa aquaria eorum, putei et cisternae, evacuata sunt, et non habebant quod biberent in satietate in una die, quoniam ad mensuram dabant eis aquam bibere. Et anxiabant infantes eorum et mulieres, et iuvenes deficiebant siti, et cadebant in plateis civitatis, et in transitu portarum, et non erat virtus iam in eis.<verse eID="Judith.7.11" />
+        <verse sID="Judith.7.12" osisID="Judith.7.12" />Et collegit se omnis populus ad Oziam, et ad omnes principes civitatis, iuvenes, et mulieres, et infantes. Et clamaverunt voce magna,<verse eID="Judith.7.12" />
+        <verse sID="Judith.7.13" osisID="Judith.7.13" />et dixerunt ad illos coram omnibus senioribus, Iudicet Dominus inter vos et nos, quoniam fecistis nobis iniquitatem magnam, non loquentes pacifica cum Assyriis.<verse eID="Judith.7.13" />
+        <verse sID="Judith.7.14" osisID="Judith.7.14" />Et nunc non est qui nos adiuvet, sed tradet nos Deus in manus eorum, ut prosternamur ante illos siti in perditione magna.<verse eID="Judith.7.14" />
+        <verse sID="Judith.7.15" osisID="Judith.7.15" />Et nunc convocate eos, et tradite civitatem totam in captivitatem populo Olofernis, et omni virtuti eius.<verse eID="Judith.7.15" />
+        <verse sID="Judith.7.16" osisID="Judith.7.16" />Melius est enim nos fieri illis in traditionem, erimus enim illis in servis et ancillis, et vivet anima nostra, ne videamus mortem infantum ante oculos nostros, et mulieres, et filias nostras deficientes.<verse eID="Judith.7.16" />
+        <verse sID="Judith.7.17" osisID="Judith.7.17" />Contestamur vobis coelum et terram, et Deum eorum, et Dominum patrum nostrorum, qui iudicat nos secundum peccata nostra et patrum nostrorum, ut faciatis secundum verba haec.<verse eID="Judith.7.17" />
+        <verse sID="Judith.7.18" osisID="Judith.7.18" />Et factus est fletus magnus in media ecclesia. Omnibus itaque consentientibus, vociferati sunt ad Dominum voce magna.<verse eID="Judith.7.18" />
+        <verse sID="Judith.7.23" osisID="Judith.7.23" />Et dixit ad illos Ozias, Aequo animo estote fratres, sustineamus adhuc dies quinque, in quos convertet Dominus Deus noster misericordiam suam super nos,<verse eID="Judith.7.23" />
+        <verse sID="Judith.7.24" osisID="Judith.7.24" />non enim derelinquet nos in finem.<verse eID="Judith.7.24" />
+        <verse sID="Judith.7.25" osisID="Judith.7.25" />Si autem transierint isti quinque dies, et non fuerit super nos adiutorium, faciam secundum verba vestra. Et dispersit plebem, unumquemque in castra sua, et super muros, et super turres civitatis, et mulieris et filios in domos suas dimiserunt. Et erant in magna humilitate valde.<verse eID="Judith.7.25" />
+      </p>
+      <chapter eID="Judith.7" />
+      <chapter sID="Judith.8" osisID="Judith.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Judith.8.1" osisID="Judith.8.1" />Et erat in civitate commorans in diebus illis Iudith filia Merari, filii Ozi, filii Ofeth, filii Oziae, filii Helchiae, filii Anar, filii Gedeon, filii Raphain, filii Achitob, filii Heli, filii Melchiae, filii Enar, filii Nathanahel, filii Salathiel, filii Symeon, filii Ruben, filii Israel,<verse eID="Judith.8.1" />
+        <verse sID="Judith.8.2" osisID="Judith.8.2" />et vir eius Manasse, ex tribu et ex patria eius, et mortuus est in diebus messis hordiariae,<verse eID="Judith.8.2" />
+        <verse sID="Judith.8.3" osisID="Judith.8.3" />stabat enim super alligantes manipulos in campo, et aestus introierat in caput eius, et cecidit in lectum suum, et mortuus est in civitate sua Bethulia, et sepelierunt illum cum patribus suis in agro eius, inter Dothain et Balamon.<verse eID="Judith.8.3" />
+        <verse sID="Judith.8.4" osisID="Judith.8.4" />Et erat Iudith in domo sua vidua annis tribus, et mensibus quatuor.<verse eID="Judith.8.4" />
+        <verse sID="Judith.8.5" osisID="Judith.8.5" />Et fecit sibi tabernaculum super solarium domus suae,<verse eID="Judith.8.5" />
+        <verse sID="Judith.8.6" osisID="Judith.8.6" />et imposuit super lumbos suos cilicium, et erant super eam vestimenta viduitatis suae. Et ieiunabat omnibus diebus viduitatis suae, praeter coenam puram, et sabbatum, et neomenias, et diebus festis et gaudii, et memoriae domus Israel.<verse eID="Judith.8.6" />
+        <verse sID="Judith.8.7" osisID="Judith.8.7" />Et erat bona in aspectu, et formosa facie. Prudens corde, et bona in sensu, et honesta valde. Quia reliquerat ei Manasses vir eius filius Ioseph, filii Achitob, filii Melchis, filii Elia, filii Nathanahel, filii Syrrasadac, filii Symeon, filii Israel, aurum et argentum, servos et ancillas, pecora et praedia. Et mansit in eis.<verse eID="Judith.8.7" />
+        <verse sID="Judith.8.8" osisID="Judith.8.8" />Et non erat qui inferret ei verbum malum, quia timebat Deum valde.<verse eID="Judith.8.8" />
+        <verse sID="Judith.8.9" osisID="Judith.8.9" />Et audivit verba populi maligna adversum principes, quoniam defecerunt animo super sterilitatem aquarum suarum. Audivit etiam Iudith omnia verba quae locutus est ad illos Ozias, quemadmodum audierat et iuraverat eis, ut post quinque traderet civitatem Assyriis. Et misit abram suam, quae erat supra omnia eius, et vocavit Oziam, et Cambrim et Charmin maiores natu civitatis suae.<verse eID="Judith.8.9" />
+        <verse sID="Judith.8.10" osisID="Judith.8.10" />Et venerunt ad eam, et dixit ad illos, Audite me nunc principes et habitantes Bethuliam, quoniam non est rectum verbum vestrum quod locuti estis coram plebe in hac die. Et statuistis iusiurandum, quod locuti estis in medio ante Deum et ante vos, et dixistis tradituros vos civitatem inimicis nostris, si non in illis converterit se Dominus Deus noster in adiutorium nobis.<verse eID="Judith.8.10" />
+        <verse sID="Judith.8.11" osisID="Judith.8.11" />Nunc vero qui estis vos, qui tentatis Deum Israel in hodierno die, et adsistitis pro Deo in medio filiorum hominum? Et sensum Dei omnipotentis tentatis, quem nemo potest intelligere usque in sempiternum. Quoniam altitudo cordis hominum non intelligitur, et cogitatum sensus eorum non comprehenditis. Et quomodo Deu qui fecit omnia invenietis, et sensum eius cognoscitis, et cogitationem eius considerabitis?<verse eID="Judith.8.11" />
+        <verse sID="Judith.8.12" osisID="Judith.8.12" />Nolite fratres, nolite exacerbare Dominum Deum nostrum,<verse eID="Judith.8.12" />
+        <verse sID="Judith.8.13" osisID="Judith.8.13" />quoniam si noluerit in his quinque diebus adiuvare nos, ipse habet potestatem, in quibus velit, protegere nos a facie inimicorum nostrorum.<verse eID="Judith.8.13" />
+        <verse sID="Judith.8.14" osisID="Judith.8.14" />Vos autem nolite ignorare cogitationes Dei nostri,<verse eID="Judith.8.14" />
+        <verse sID="Judith.8.15" osisID="Judith.8.15" />quoniam non sicut homo, Dominus comminatur, aut sicut filius hominis extollitur.<verse eID="Judith.8.15" />
+        <verse sID="Judith.8.16" osisID="Judith.8.16" />Propter quod sustinentes salvationem ab eo, invocemus ipsum in adiutorium nostri,<verse eID="Judith.8.16" />
+        <verse sID="Judith.8.17" osisID="Judith.8.17" />et exaudiet vocem nostram, si fuerit ipsi placitum,<verse eID="Judith.8.17" />
+        <verse sID="Judith.8.18" osisID="Judith.8.18" />quoniam non exsurrexit in progeniem nostram, nec est hodie tribus, neque patria, neque populus, neque civitas ex nobis, qui adorent deos manufactos, sicut factum est in primis diebus,<verse eID="Judith.8.18" />
+        <verse sID="Judith.8.19" osisID="Judith.8.19" />pro quibus traditi sunt in gladium, et rapinam patres nostri, et ceciderunt in ruinam magnam ante conspectum inimicorum suorum, nos autem alium Deum nescimus praeter eum, in quo speramus, quia non despiciet nos, nec auferet salvationem, et misericordiam suam a nobis, et a genere nostro.<verse eID="Judith.8.19" />
+        <verse sID="Judith.8.20" osisID="Judith.8.20" />Quoniam si nos captivi fuerimus, capietur omnis Iudaea, praedabuntur sancta nostra, et inquiret Deus iniquitatem et coinquinationem eorum de sanguine nostro. Et mortem fratrum nostrorum, et captivitatem terrae, et desertionem haereditatis nostrae. Et convertet in caput nostrum, et gentibus quibuscunque servierimus ibi, et erimus in offensionem, et in improperium ante omnes qui possederint nos, quoniam non dirigetur servitus nostra in gratiam, sed sine honore in depraedationem ponet eam Dominus Deus noster.<verse eID="Judith.8.20" />
+        <verse sID="Judith.8.21" osisID="Judith.8.21" />Et nunc fratres, suscipiamus fratres nostros, quoniam ex nobis pendet anima illorum, et sancta, et domus, et sacrarium incumbit in nobis. Praetre haec omnia gratias agamus et placeamus Deo nostro, qui tentat nos sicut patres nostros.<verse eID="Judith.8.21" />
+        <verse sID="Judith.8.22" osisID="Judith.8.22" />Memores estote, quanta fecerit cum Abraham et Isaac,<verse eID="Judith.8.22" />
+        <verse sID="Judith.8.23" osisID="Judith.8.23" />et quae facta sint in Iacob in Mesopotamia Syriae, pascenti pecora Laban fratris matris suae,<verse eID="Judith.8.23" />
+        <verse sID="Judith.8.26" osisID="Judith.8.26" />quia sicut illos iussit interrogatione cordis ipsorum, ita et nos non in ultione,<verse eID="Judith.8.26" />
+        <verse sID="Judith.8.27" osisID="Judith.8.27" />sed in monitione flagellat Dominus adpropinquantes sibi.<verse eID="Judith.8.27" />
+        <verse sID="Judith.8.28" osisID="Judith.8.28" />Et dixit ad eam Ozias, Omnia quaecunque dixisti, in bono corde locuta es, et non est qui resistat verbis tuis, quoniam non ex hodierno sapientia tua manifestata est, sed ab initio dierum tuorum scit omnis populus prudentiam tuam, et quoniam bona sunt figmenta cordis tui, nam populus sitit valde, et suaserunt nos facere sicut locuti sumus eis, inducere super nos iusiurandum, quod non praeteriemus.<verse eID="Judith.8.28" />
+        <verse sID="Judith.8.29" osisID="Judith.8.29" />Et nunc ora pro nobis, si forte exaudiet te Dominus Deus noster, quoniam mulier sancta es tu. Et mittet Dominus pluviam in supplementum lacuum nostrorum, et non deficiemus.<verse eID="Judith.8.29" />
+        <verse sID="Judith.8.30" osisID="Judith.8.30" />Et dixit ad illos Iudith, Audite me, et faciam rem prudentem, quae provulgabitur in progeniem generationis filiis generis nostri.<verse eID="Judith.8.30" />
+        <verse sID="Judith.8.32" osisID="Judith.8.32" />Vos stabitis ad portam hac nocte, et exeam ego cum ancilla mea, et in diebus, quibus dixistis civitatem tradituros vos inimicis nostris, respiciet Dominus ad Israel in manu mea, sicut ego fido.<verse eID="Judith.8.32" />
+        <verse sID="Judith.8.33" osisID="Judith.8.33" />Vos autem non scrutabitis actum meum, non enim renuntiabo vobis, quousque consummentur quae ego facio.<verse eID="Judith.8.33" />
+        <verse sID="Judith.8.34" osisID="Judith.8.34" />Et dixit Ozias, et principes ad eam, Vade in pace, et Dominus Deus erit ante te in ultionem inimicorum nostrorum. Et revertentes descenderunt de tabernaculo eius, et abierunt ad dispositiones suas.<verse eID="Judith.8.34" />
+      </p>
+      <chapter eID="Judith.8" />
+      <chapter sID="Judith.9" osisID="Judith.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Judith.9.1" osisID="Judith.9.1" />Iudith autem procidit in faciem suam, et imposuit cinerem supra caput suum, et scidit tunicam suam qua se induerat, et vestivit se cilicium ipsum, quod inferebatur in Hierusalem in domum Domini incensum vespertinum, et clamavit voce magna ad Dominum, et dixit,<verse eID="Judith.9.1" />
+        <verse sID="Judith.9.2" osisID="Judith.9.2" />Domine Deus patris mei Symeon, cui dedisti in manu gladium in ultionem alienigenarum, qui violaverunt vulvam virginis in coinquinatione, et denudaverunt femur in confusione, et coinquinaverunt matricem in improperio, dixisti enim, Non sic erit, et fecisti, pro quibus egerunt in sanguine virginis, et dedisti principes eorum in occisionem, et thorum eius, qui recepit dilectam, in sanguinem. Et praeposuisti servos super potentes, super sedes eorum,<verse eID="Judith.9.2" />
+        <verse sID="Judith.9.3" osisID="Judith.9.3" />et dedisti mulieres eorum in praedam, et filias in captivitatem. Et omnia spolia in divisionem filiorum dilectorum, qui zelaverunt zelum tuum, et abominati sunt coinquinationem sanguinis sui, et invocaverunt te in adiutorium sibi, Domine Deus meus, exaudi me viduam.<verse eID="Judith.9.3" />
+        <verse sID="Judith.9.4" osisID="Judith.9.4" />Tu enim fecisti priora illorum, et posteriora, et nunc quae futura sunt, cogitasti enim, et facta sunt, recordatus es, et adstiterunt tibi in concilio, vocasti, et dixerunt, Ecce adsumus.<verse eID="Judith.9.4" />
+        <verse sID="Judith.9.5" osisID="Judith.9.5" />Omnes enim viae tuae paratae, et iudicia tua in providentia.<verse eID="Judith.9.5" />
+        <verse sID="Judith.9.6" osisID="Judith.9.6" />Ecce enim Assyrii repleti sunt in virtute sua, et exaltati sunt in equo et ascensore.<verse eID="Judith.9.6" />
+        <verse sID="Judith.9.9" osisID="Judith.9.9" />Gloriati sunt in brachio peditum, speraverunt in clypeis, et tenso arcu, et fundibalis,<verse eID="Judith.9.9" />
+        <verse sID="Judith.9.10" osisID="Judith.9.10" />et nescierunt quoniam tu es Dominus, qui conteris bella. Dominus enim nomen est tibi.<verse eID="Judith.9.10" />
+        <verse sID="Judith.9.11" osisID="Judith.9.11" />Tu contete virtutem illorum, Deus aeterne, comminue multitudinem illorum in virtute tua, confringe potestatem eorum in ira tua, cogitaverunt enim contaminare sancta tua, et coinquinare tabernaculum requiei nominis maiestatis tuae, et deiicere ferro cornu altaris tui.<verse eID="Judith.9.11" />
+        <verse sID="Judith.9.12" osisID="Judith.9.12" />Respice in superbiam eorum, et mitte iram in capite illorum.<verse eID="Judith.9.12" />
+        <verse sID="Judith.9.13" osisID="Judith.9.13" />[14] Da in manum meam viduae quam cogitavi virtutem,<verse eID="Judith.9.13" />
+        <verse sID="Judith.9.14" osisID="Judith.9.14" />[13] et percuties eos ex labiis suasionis meae, principem, et principem super servum suum.<verse eID="Judith.9.14" />
+        <verse sID="Judith.9.15" osisID="Judith.9.15" />Quassa substantiam eius in manu viduae, ut sciant omnia regna, quoniam tu es Dues.<verse eID="Judith.9.15" />
+        <verse sID="Judith.9.16" osisID="Judith.9.16" />Non enim in multitudine virtus tua est, neque in potentia, nec datum tuum in fortibus praevalet, sed humilium susceptor, et desperatorum salvator.<verse eID="Judith.9.16" />
+        <verse sID="Judith.9.17" osisID="Judith.9.17" />Itaque Domine Deus patris mei, et Deus haereditatis Israel, dominator Domine coelorum et terrae, creator aquarum, rex totius creaturae, tu exaudi obsecrationem meam,<verse eID="Judith.9.17" />
+        <verse sID="Judith.9.18" osisID="Judith.9.18" />et da versutiam in suasione, et vulnus et livorem eorum, qui sunt adversus testamentum tuum, et domum tuam sanctam, et vertices Sion, et domum possessionis filiorum tuorum, qui cogitaverunt dura. Inspice, et fac super omnem gentem, et omnem tribum scientiam,<verse eID="Judith.9.18" />
+        <verse sID="Judith.9.19" osisID="Judith.9.19" />ut sciant, quoniam tu es Deus universae potestatis et virtutis, et non est alius defensor generis Israel praeter te.<verse eID="Judith.9.19" />
+      </p>
+      <chapter eID="Judith.9" />
+      <chapter sID="Judith.10" osisID="Judith.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Judith.10.1" osisID="Judith.10.1" />Et factum est, cum cessasset clamans ad Deum Israel, consummavit omnia verba ista, et surrexit de loco quo prociderat.<verse eID="Judith.10.1" />
+        <verse sID="Judith.10.2" osisID="Judith.10.2" />Et vocavit abram suam, et descendit in domum suam, in qua commorabatur in diebus sabbatorum, et in diebus festis suis, et abstulit cilicium quod induerat, et exuit se vestimenta viduitatis suae,<verse eID="Judith.10.2" />
+        <verse sID="Judith.10.3" osisID="Judith.10.3" />et lavit corpus suum aqua, et unxit se unguento spisso, et pectinavit capillos capitis sui, et imposuit mitram super caput suum, et induit se vestem iocunditatis suae, qua vestiebatur in diebus viri sui Manasse, et accepit soleas in pedes suos, et imposuit periscelides, et dextralia, et liliolum, et annulos, et inaures, et omnia ornamenta sua.<verse eID="Judith.10.3" />
+        <verse sID="Judith.10.4" osisID="Judith.10.4" />Et composuit se nimis in rapinam virorum quicunque viderent eam.<verse eID="Judith.10.4" />
+        <verse sID="Judith.10.5" osisID="Judith.10.5" />Et porrexit ancillae suae ascopam vini, et vas olei. Et peram implevit pulenta, et massam fici, et panes, et immisit in eam casium. Et plicuit omnia vasa sua, et imposuit ei.<verse eID="Judith.10.5" />
+        <verse sID="Judith.10.6" osisID="Judith.10.6" />Abierunt uterque simul, et venerunt ad portam civitatis Bethuliae, et invenerunt stantes ad eam Oziam et maiores natu civitatis, Cambrim et Charmin.<verse eID="Judith.10.6" />
+        <verse sID="Judith.10.7" osisID="Judith.10.7" />Qui cum vidissent eam immutata facie et veste mutata, mirati sunt ad speciem eius multum valde.<verse eID="Judith.10.7" />
+        <verse sID="Judith.10.8" osisID="Judith.10.8" />Et dixerunt ad eam, Deus patrum nostrorum det te in gratiam, et consummet cogitationes tuas, in gloriam filiorum Israel, et in exsultationem Hierusalem. Et procidens in faciem Iudith, adoravit Deum, et dixit ad eos, Faciat Dominus Deus secundum sermones vestros, et inveniat ancilla vestra gratiam in conspectu Dei. Praecipite nunc aperiri portam civitatis, ut exeam in consummationem verborum quae locuti estis mecum.<verse eID="Judith.10.8" />
+        <verse sID="Judith.10.9" osisID="Judith.10.9" />Et constituerunt iuvenibus aperire ei sicut locuti sunt, et fecerunt sic.<verse eID="Judith.10.9" />
+        <verse sID="Judith.10.10" osisID="Judith.10.10" />Et exiit Iudith, ipsa et ancilla eius cum ea, et speculabantur eam viri civitatis, quoadusque descendit montem. At ubi venerunt in atrium, iam non videbant eam in convalle.<verse eID="Judith.10.10" />
+        <verse sID="Judith.10.11" osisID="Judith.10.11" />Et abiit in aulonem in directum, et obviavit primus custodibus Assyriorum, et comprehenderunt eam, et interrogaverunt illam, dicentes, Quorum es? Et unde venis? Et quo vadis?<verse eID="Judith.10.11" />
+        <verse sID="Judith.10.12" osisID="Judith.10.12" />Et dixit eis, Filia ego sum Hebraeorum, et fugio a facie ipsorum, quoniam incipient tradi vobis in consummationem.<verse eID="Judith.10.12" />
+        <verse sID="Judith.10.13" osisID="Judith.10.13" />Et ego venio ad faciem Olofernis principis virtutis vestrae, ut renuntiem ei verba veritatis, et ostendam ante faciem ipsius viam, per quam vadat, et dominetur universae montanae, et non intercidat de viris eius caro una, neque spiritus vitae.<verse eID="Judith.10.13" />
+        <verse sID="Judith.10.14" osisID="Judith.10.14" />Et cum audissent viri verba eius, consideraverunt faciem eius, et erat ante illos mirabilis in specie nimis.<verse eID="Judith.10.14" />
+        <verse sID="Judith.10.15" osisID="Judith.10.15" />Et dixerunt ad eam, Salvasti animam tuam in bono, festinans descendere ad faciem domini nostri. Et nunc accede ad tabernaculum eius, et ex nostris mittemus tecum, quousque tradant te in manus eius.<verse eID="Judith.10.15" />
+        <verse sID="Judith.10.16" osisID="Judith.10.16" />Si autem steteris in conspectu eius, noli timere corde tuo, sed refer ei secundum verba tua, et bene tibi faciet. Et elegerunt ex ipsis viros centum, et adiunxerunt ei et puellae eius, et perduxerunt illas ad tabernaculum Olofernis.<verse eID="Judith.10.16" />
+        <verse sID="Judith.10.17" osisID="Judith.10.17" />Et factus est concursus in tota castra, et innotuit in tabernaculo adventus eius, et venerunt et circumdederunt eam cum staret ante tabernaculum Olofernis, quoadusque nunciaverunt ei de illa. Et mirabantur ad speciem eius, et percipiebant verba eius, quia erant valde bona. Et laudabant filios Israel in ea.<verse eID="Judith.10.17" />
+        <verse sID="Judith.10.18" osisID="Judith.10.18" />Et dixit unusquisque ad proximum suum, Quis contemnet populum istum, qui habent mulieres tales? Quoniam non est bonum derelinquere ex eis viros, ne qui relicti fuerint, possint superare omnem terram. Et exierunt omnes deservientes Oloferni, et omnes famuli eius, et induxerunt illam in tabernaculum eius.<verse eID="Judith.10.18" />
+        <verse sID="Judith.10.19" osisID="Judith.10.19" />Et erat Olofernis requiescens in lecto suo in conopeo, quod erat ex purpura, et auro, et zmaragdo, et lapidibus pretiosis contextum, et nunciaverunt ei de illa. Qui cum audisset, exiit ante tabernaculum, et lampades argenteae praecedebant eum multae valde, et induxerunt eam ad illum.<verse eID="Judith.10.19" />
+        <verse sID="Judith.10.20" osisID="Judith.10.20" />Cum autem adstitisset ante faciem eius Iudith, et famulorum eius, procidens in faciem, adoravit eum. Et levaverunt eam servi eius, et mirabantur omnes ad speciem vultus eius.<verse eID="Judith.10.20" />
+      </p>
+      <chapter eID="Judith.10" />
+      <chapter sID="Judith.11" osisID="Judith.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Judith.11.1" osisID="Judith.11.1" />Et dixit ad eam Olofernis, Constans esto mulier, et noli timere cordet tuo, quia ego non nocui hominem, cui placuit servire Nabuchodonosor regi totius terrae.<verse eID="Judith.11.1" />
+        <verse sID="Judith.11.2" osisID="Judith.11.2" />Et nunc plebs tua, quae habitat in montanis, nisi fefellisset me, non elevassem lanceam meam super illos. Sed ipsi fecerunt sibi haec.<verse eID="Judith.11.2" />
+        <verse sID="Judith.11.3" osisID="Judith.11.3" />Et nunc dic mihi, qua ex causa recessisti ab eis, et venisti ad nos? Venisti enim ad salutem animae tuae. Animaequior esto, in hac nocte vives, et deinceps, nec enim est qui te noceat, sed bene faciam tibi, sicut fit servis domini mei.<verse eID="Judith.11.3" />
+        <verse sID="Judith.11.4" osisID="Judith.11.4" />Et dixit ad eum Iudith, Sume verba ancillae tuae, et loquetur mendacium domino meo in hac nocte. Et si secutus fueris verba mea, consummabis omnia in manibus tuis, quae faciet Deus tecum. Et non excedet dominus meus de cogitationibus suis, quoadusque vivet.<verse eID="Judith.11.4" />
+        <verse sID="Judith.11.5" osisID="Judith.11.5" />Vivit enim Nabuchodonosor rex totius terrae, et vivit virtus eius, qui misit te in correctionem omnium animarum, quoniam non solum homines per te servient ei, sed bestiae agri, et iumenta, et volucres coeli. Et per virtutem tuam sciet Nabuchodonosor, et omnis domus eius.<verse eID="Judith.11.5" />
+        <verse sID="Judith.11.6" osisID="Judith.11.6" />Audivimus enim sapientiam tuam, et astutiam tuam. Et nunciatum est universae terrae, quia tu solus bonus es in regno, et potens in militia belli, et mirabilis in providentia, et laudabilis in disciplina.<verse eID="Judith.11.6" />
+        <verse sID="Judith.11.7" osisID="Judith.11.7" />Et nunc domine mi, verbum quod locutus es ad Achior in concilio tuo, audivimus, quoniam circumierunt eum viri in Bethulia, et nuciavit illis omnia quae locutus est apud te. Propter quod dominator domine, non transeas verbum eius, sed conde illud corde tuo, quia verum est.<verse eID="Judith.11.7" />
+        <verse sID="Judith.11.8" osisID="Judith.11.8" />Non enim defendetur genus nostrum, neque dominatur gladius super eos, nisi peccent in Deum suum.<verse eID="Judith.11.8" />
+        <verse sID="Judith.11.9" osisID="Judith.11.9" />Et nunc ne fiat dominus meus frustratus ante faciem illorum in actu suo, cecidit enim timor super illos, et comprehendit eos peccatum magnum, in quo exacerbaverunt Dominum Deum suum,<verse eID="Judith.11.9" />
+        <verse sID="Judith.11.10" osisID="Judith.11.10" />mox enim ut fecerint illud, erunt tibi in consummationem. Quoniam quidem defecerunt illis escae, et ablatae sunt ab eis aquae,<verse eID="Judith.11.10" />
+        <verse sID="Judith.11.11" osisID="Judith.11.11" />cogitaverunt iniicere manus iumentis suis, et bibere sanguinem eorum, et omnia quae praecepit illis Deus ne manducarent, statuerunt consumere.<verse eID="Judith.11.11" />
+        <verse sID="Judith.11.12" osisID="Judith.11.12" />Initia frumenti, et vini, et olei, quae constituit sanctificare omnibus sacerdotibus, qui praesunt altario in Hierusalem contra faciem Dei nostri, cogitaverunt consumere ea, quae nec manibus licet tangere cuiquam ex populo. Et miserunt in Hierusalem (quia et qui habitant ibi fecerunt omnia haec) qui transtulerunt in relationem senioribus. Et erit, cum nunciatum fuerit, mox ut fecerint, dabuntur tibi in perditionem in die illa.<verse eID="Judith.11.12" />
+        <verse sID="Judith.11.13" osisID="Judith.11.13" />Unde ego ancilla tua, cum cognovissem haec omnia, refugi a facie eorum, et misit me Deus facere tecum hanc rem, in qua mirabitur tota terra, quae audierit ea,<verse eID="Judith.11.13" />
+        <verse sID="Judith.11.14" osisID="Judith.11.14" />quoniam ancilla tua Deum colit, orans nocte ac die Deum coeli. Et nunc manebo penes te dominum meum, et exiens ancilla tua noctu ad vallem, orabo ad Deum,<verse eID="Judith.11.14" />
+        <verse sID="Judith.11.15" osisID="Judith.11.15" />et indicabit mihi quando facient peccatum suum, et veniens indicabo illud tibi, et exies in virtute tua, et non erit qui resistet tibi ex eis. Et deducam te per mediam Iudaeam, usquequo veniam contra Hierusalem, et ponam sedem tuam in medio eius. Et deduces illos sicut oves quibus non est pastor, et non latrabit canis lingua sua contra te,<verse eID="Judith.11.15" />
+        <verse sID="Judith.11.16" osisID="Judith.11.16" />quoniam haec ostensa sunt mihi secundum scientiam meam,<verse eID="Judith.11.16" />
+        <verse sID="Judith.11.17" osisID="Judith.11.17" />et missa sum nunciare tibi.<verse eID="Judith.11.17" />
+        <verse sID="Judith.11.18" osisID="Judith.11.18" />Et placuerunt verba eius coram Oloferne, et coram famulis eius, et mirati sunt in specie et in sapientia eius, et dixerunt,<verse eID="Judith.11.18" />
+        <verse sID="Judith.11.19" osisID="Judith.11.19" />Non est talis mulier, a cacumine montium usque ad summum terrae, in vultu, et sapientia sermonum.<verse eID="Judith.11.19" />
+        <verse sID="Judith.11.20" osisID="Judith.11.20" />Et dixit ad eam Olofernis, Benefecit Deus, qui misit te a filiis plebis tuae, ut fiat in manibus nostris virtus, in illis autem qui nos spreverunt, perditio. Quia abominati sunt me, et dominum meum Nabuchodonosor,<verse eID="Judith.11.20" />
+        <verse sID="Judith.11.21" osisID="Judith.11.21" />et nunc tu decens in aspectu, et bona in verbis tuis, quia si feceris secundum quod locuta es, Deus tuus Deus meus erit, et tu in domo regis sedebis, et eris nominata in omni terra.<verse eID="Judith.11.21" />
+      </p>
+      <chapter eID="Judith.11" />
+      <chapter sID="Judith.12" osisID="Judith.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Judith.12.1" osisID="Judith.12.1" />Et iussit introduci eam ubi reponebant argentum eius pueri ipsius, et praecepit sterni ei, et dare illi ex obsoniis suis, et de vino suo bibere.<verse eID="Judith.12.1" />
+        <verse sID="Judith.12.2" osisID="Judith.12.2" />Et dixit illi Iudith, Non manducabo ex eis, neque bibam, ne sit mihi in scandalum, sed de his, quae mecum sunt, manducabo.<verse eID="Judith.12.2" />
+        <verse sID="Judith.12.3" osisID="Judith.12.3" />Et dixit ad illam Olofernis, Se defecerint ea, quae tecum sunt, unde habemus dare tibi similia eorum? Nec enim est homo nobiscum de populo tuo, qui habeat talia.<verse eID="Judith.12.3" />
+        <verse sID="Judith.12.4" osisID="Judith.12.4" />Et dixit Iudith ad eum, Vivit anima tua domine mi, quoniam non impendet ancilla tua haec, quae sunt cum ea, quoadusque faciat Deus in manu mea quae cogitavi. Et induxerunt illam servi Olofernis in tabernaculum, et dormivit usque in mediam noctem.<verse eID="Judith.12.4" />
+        <verse sID="Judith.12.5" osisID="Judith.12.5" />Et surrexit ante lucem, et misit ad Olofernem, dicens, Praecipiat nunc dominus meus, et permittat ancillam suam exire ad orationem.<verse eID="Judith.12.5" />
+        <verse sID="Judith.12.6" osisID="Judith.12.6" />Et praecepit Olofernis cubiculariis suis, ne prohiberent eam. Et mansit in castris triduo,<verse eID="Judith.12.6" />
+        <verse sID="Judith.12.7" osisID="Judith.12.7" />et exiebat per noctem in vallem Bethuliae, et baptizabat se in fonte aquae.<verse eID="Judith.12.7" />
+        <verse sID="Judith.12.8" osisID="Judith.12.8" />Et ut ascendebat, orabat Dominum Deum Israel, ut dirigeret viam eius in liberationem populi sui Israel.<verse eID="Judith.12.8" />
+        <verse sID="Judith.12.9" osisID="Judith.12.9" />Et introiens, munda manebat in tabernaculo, usque dum adferretur ei esca ad vesperum.<verse eID="Judith.12.9" />
+        <verse sID="Judith.12.10" osisID="Judith.12.10" />Et factum est, quarto die fecit Olofernis coenam famulis suis solis, et neminem vocavit ad coenam de necessariis, et dixit Bagoe spadoni, qui erat super omnia ipsius, Vade nunc ad mulierem illam Hebraeam, quae est apud te, et suade ei, ut veniat manducare et bibere nobiscum.<verse eID="Judith.12.10" />
+        <verse sID="Judith.12.11" osisID="Judith.12.11" />Foedum est enim in conspectu nostro, ut mulierem talem omittamus non fabulantes ei, quoniam si non illam adduxerimus ad nos, deridebit nos.<verse eID="Judith.12.11" />
+        <verse sID="Judith.12.12" osisID="Judith.12.12" />Et exiit Bagoas spado a facie Olofernis, et introivit ad illam, et dixit ei, Non pigeat puellam bonam venire ad dominum meum, ut honorificetur ante faciem eius. Et bibes cum eo vinum in iocunditate, et fies in hodierno die honorifica, sicut una filiarum principum Assyriorum, qui adsistunt in domo Nabuchodonosor.<verse eID="Judith.12.12" />
+        <verse sID="Judith.12.13" osisID="Judith.12.13" />Et dixit ad illum Iudith, Quae sum ego, ut contradicam domino meo?<verse eID="Judith.12.13" />
+        <verse sID="Judith.12.14" osisID="Judith.12.14" />Quoniam omne quod erit optimum ante oculos eius festinans faciam, et erit hoc mihi gaudium usque ad diem mortis meae.<verse eID="Judith.12.14" />
+        <verse sID="Judith.12.15" osisID="Judith.12.15" />Et surgens, ornavit se vestibus, et omni muliebri ornatu. Et accessit ancilla eius, et stravit illi contra Olofernem in terra stragula, quae acceperat a Bagoa spadone in quotidianum usum, ut manducaret discumbens super ea. Et introiens Iudith, discubuit.<verse eID="Judith.12.15" />
+        <verse sID="Judith.12.16" osisID="Judith.12.16" />Et expavit cor Olofernis in ea, et commota est anima eius, quia erat cupiens valde ut concumberet cum illa, et quaerebat tempus ut occurreret illi, ex die qua viderat eam.<verse eID="Judith.12.16" />
+        <verse sID="Judith.12.17" osisID="Judith.12.17" />Et dixit ad illam Olofernis, Bibe nunc nobiscum in iocunditate.<verse eID="Judith.12.17" />
+        <verse sID="Judith.12.18" osisID="Judith.12.18" />Et dixit Iudith, Bibam domine, quia magnificata est vita mea in me hodie, prae omnibus diebus nativitatis meae.<verse eID="Judith.12.18" />
+        <verse sID="Judith.12.19" osisID="Judith.12.19" />Et accipiens, manducavit et bibit coram illo, ea quae praeparaverat ei ancilla sua.<verse eID="Judith.12.19" />
+        <verse sID="Judith.12.20" osisID="Judith.12.20" />Et iocundatus est Olofernis super eam, et bibit multum vinum, quantum nunquam biberat ulla die ex qua natus est.<verse eID="Judith.12.20" />
+      </p>
+      <chapter eID="Judith.12" />
+      <chapter sID="Judith.13" osisID="Judith.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Judith.13.1" osisID="Judith.13.1" />Et ut sero factum est, satagerunt servi eius abire, et Bagoas conclusit tabernaculum a foris, et dimisit adstantes a facie domini sui, et abierunt omnes in cubilia sua,<verse eID="Judith.13.1" />
+        <verse sID="Judith.13.2" osisID="Judith.13.2" />erant enim omnes fatigati et soporati, quoniam plurimus factus erat potus,<verse eID="Judith.13.2" />
+        <verse sID="Judith.13.3" osisID="Judith.13.3" />derelicta est autem sola Iudith in tabernaculo.<verse eID="Judith.13.3" />
+        <verse sID="Judith.13.4" osisID="Judith.13.4" />Et Olofernis prociderat supra lectum suum, erat enim solutus a vino.<verse eID="Judith.13.4" />
+        <verse sID="Judith.13.5" osisID="Judith.13.5" />Et dixit Iudith ancillae suae, ut staret foris ante cubiculum, et observaret introitum et exitum eius sicut quotidie, exire enim se dixerat ad orationem suam, et Bagoe locuta est secundum verba haec. Et discesserunt omnes a facie, et nemo relictus est in cubiculo eius, magnus vel pusillus.<verse eID="Judith.13.5" />
+        <verse sID="Judith.13.6" osisID="Judith.13.6" />Et stetit Iudith ad caput eius, et dixit in corde suo,<verse eID="Judith.13.6" />
+        <verse sID="Judith.13.7" osisID="Judith.13.7" />Domine Deus omnium virtutum, respice in hac hora ad opera manuum mearum, ut exaltetur Hierusalem, quia nunc est tempus suscipiendi haereditatem tuam, et fac cogitationem meam in quassationem gentium, quae insurrexerunt super nos.<verse eID="Judith.13.7" />
+        <verse sID="Judith.13.8" osisID="Judith.13.8" />Et accedens ad columnam tabernaculi, quae erat ad caput Olofernis, deposuit pugionem eius ab illa.<verse eID="Judith.13.8" />
+        <verse sID="Judith.13.9" osisID="Judith.13.9" />Et accedens ad lectum, comprehendit comam capitis eius, et dixit, Domine confirma me Deus Israel in hodierno die,<verse eID="Judith.13.9" />
+        <verse sID="Judith.13.10" osisID="Judith.13.10" />et percussit in cervice eius bis in virtute sua, et abstulit caput eius ab illo, et involvit corpus eius a toto ipsius, et abstulit conopeum eius a columnis.<verse eID="Judith.13.10" />
+        <verse sID="Judith.13.11" osisID="Judith.13.11" />Et post pusillum exiit, et tradidit ancillae suae caput Olofernis, et misit illud in peram escarum suarum.<verse eID="Judith.13.11" />
+        <verse sID="Judith.13.12" osisID="Judith.13.12" />Et exierunt duae simul, secundum consuetudinem suam, quasi ad orationem. Et transeuntes castra, gyraverunt totam vallem illam, et ascenderunt montem, et venerunt ad portam Bethuliae.<verse eID="Judith.13.12" />
+        <verse sID="Judith.13.13" osisID="Judith.13.13" />Et dixit Iudith a longe eis qui custodiebant in turribus, Aperite, aperite nunc portam. Nobiscum est Deus noster, qui dedit virtutem in Israel, et potestatem adversus inimicos, sicut hodie fecit et facturus est.<verse eID="Judith.13.13" />
+        <verse sID="Judith.13.14" osisID="Judith.13.14" />Et factum est, cum audissent viri civitatis vocem eius, festinaverunt descendere ad portam civitatis suae, et convocaverunt maiores natu plebis.<verse eID="Judith.13.14" />
+        <verse sID="Judith.13.15" osisID="Judith.13.15" />Et concurrerunt omnes, a minimo usque ad maximum, quoniam mirum erat eis reversam illam.<verse eID="Judith.13.15" />
+        <verse sID="Judith.13.16" osisID="Judith.13.16" />Et aperuerunt portas, et susceperunt eas. Et incendentes ignem ad lumen, congyraverunt illam,<verse eID="Judith.13.16" />
+        <verse sID="Judith.13.17" osisID="Judith.13.17" />quae dixit ad eos voce magna, Laudate Deum, laudate Dominum nostrum,<verse eID="Judith.13.17" />
+        <verse sID="Judith.13.18" osisID="Judith.13.18" />qui non abstulit misericordiam suam a domo Israel, sed quassavit inimicos nostros per manum meam in hac nocte.<verse eID="Judith.13.18" />
+        <verse sID="Judith.13.19" osisID="Judith.13.19" />Et proferens caput eius de pera, ostendit, et dixit eis, Ecce caput Olofernis principis virtutis Assyriorum, et ecce conopeum, in quo recumbebat in ebrietate sua, et percussit illum Dominus in manu feminae.<verse eID="Judith.13.19" />
+        <verse sID="Judith.13.20" osisID="Judith.13.20" />Vivit Dominus, qui custodivit me in via mea qua profecta sum, quoniam seduxit eum facies mea in perditionem ipsius, et non fecit peccatum mecum in coinquinatione, et in confusione.<verse eID="Judith.13.20" />
+        <verse sID="Judith.13.22" osisID="Judith.13.22" />Et obstupuit omnis populus valde, et inclinantes se adoraverunt Deum, et dixerunt universi, Benedictus es Domine Deus noster, qui ad nihilum redegisti inimicos nostros hodie.<verse eID="Judith.13.22" />
+        <verse sID="Judith.13.23" osisID="Judith.13.23" />Et dixit ad eam Ozias, Benedicta tu filia a Deo excelso, prae omnibus mulieribus quae sunt super terram.<verse eID="Judith.13.23" />
+        <verse sID="Judith.13.24" osisID="Judith.13.24" />Et benedictus Deus noster, qui creavit coelum et terram, et direxit te in vulnus capitis principis inimici nostri,<verse eID="Judith.13.24" />
+        <verse sID="Judith.13.25" osisID="Judith.13.25" />quoniam non discedet laus tua a corde hominum, memorantium virtutis Dei usque in sempiternum. Et det tibi Deus benedictionem in aeternum, et visitet te in bonis, pro eo quod non pepercisti animae tuae, propter humilitatem generis nostri, sed prosilisti in casum ruinae nostrae in directum in conspectu Dei nostri.<verse eID="Judith.13.25" />
+        <verse sID="Judith.13.26" osisID="Judith.13.26" />Et dixit omnis populus, Fiat, fiat.<verse eID="Judith.13.26" />
+        <verse sID="Judith.13.27" osisID="Judith.13.27" />Et antequam faciatis ista, vocate mihi Achior Ammoniten,<verse eID="Judith.13.27" />
+        <verse sID="Judith.13.28" osisID="Judith.13.28" />et cum viderit, recognoscat eum, qui vituperavit Deum Israel, et ipsum quasi in mortem misit ad nos.<verse eID="Judith.13.28" />
+        <verse sID="Judith.13.29" osisID="Judith.13.29" />Et vocavit Achior de domo Ozia, qui cum introisset, vidit caput Olofernis in manu viri unius in ecclesia populi, et cecidit in faciem super terram, et resolutus est spiritus eius.<verse eID="Judith.13.29" />
+        <verse sID="Judith.13.30" osisID="Judith.13.30" />Sed postquam resumpsit vires, cecidit ad pedes Iudith, et adoravit faciem eius, et dixit illi,<verse eID="Judith.13.30" />
+        <verse sID="Judith.13.31" osisID="Judith.13.31" />Benedicta tu in omni tabernaculo Iuda, et in omni gente. Quicunque audierit nomen tuum, turbabitur. Et nunc refer mihi quaecunque fecisti in diebus istis. Et retulit illi Iudith omnia quaecunque fecit a die qua exiit, sicut locuta est illis. Et postquam desiit loqui, clamavit omnis populus voce magna, et dedit vocem laetitiae in civitate sua.<verse eID="Judith.13.31" />
+      </p>
+      <chapter eID="Judith.13" />
+      <chapter sID="Judith.14" osisID="Judith.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Judith.14.1" osisID="Judith.14.1" />Et dixit Iudith ad illos, Audite fratres, accipite caput hoc, et suspendite illud super fastigium muri nostri,<verse eID="Judith.14.1" />
+        <verse sID="Judith.14.2" osisID="Judith.14.2" />et cum lucere coeperit, et exierit sol in terram, sumat unusquisque vestrum arma bellica sua, et exeat omnis vir in fortitudine potens extra civitatem, et date priores impetum in illos, tanquam descendentes in campum ad bellum adversus custodiam filiorum Assur.<verse eID="Judith.14.2" />
+        <verse sID="Judith.14.3" osisID="Judith.14.3" />Et mox ut descendetis in campum, accipient illi arma sua, et ibunt in castra sua.<verse eID="Judith.14.3" />
+        <verse sID="Judith.14.4" osisID="Judith.14.4" />Et levabunt se duces eorum, et concurrent ad tabernaculum Olofernis, et non invenient eum, et incidet in illos timor magnus, et fugient a facie vestra.<verse eID="Judith.14.4" />
+        <verse sID="Judith.14.5" osisID="Judith.14.5" />Et subsecuti omnes vos, et universi qui incolunt omnem finem Israel, prosternite illos in viis suis.<verse eID="Judith.14.5" />
+        <verse sID="Judith.14.6" osisID="Judith.14.6" />Postea vero quam vidit Achior omnia quaecunque fecit Dominus in Israel, credidit Deo valde, et circumcidit carnem praeputii sui, et adpositus est ad domum Israel usque in hunc diem.<verse eID="Judith.14.6" />
+        <verse sID="Judith.14.7" osisID="Judith.14.7" />Et postquam factum est diluculum, subierunt, et suspenderunt caput Olofernis in muro, et accepit omnis vir arma sua, et exierunt secundum ordinem ad ascensum montis.<verse eID="Judith.14.7" />
+        <verse sID="Judith.14.8" osisID="Judith.14.8" />Filii vero Assyriorum, ut viderunt illos, miserunt ad duces, et ad tribunos suos, et ad omnes principes.<verse eID="Judith.14.8" />
+        <verse sID="Judith.14.11" osisID="Judith.14.11" />Et venerunt ad tabernaculum Olofernis, et dixerunt ad Bagoe, qui erat super omnia eius,<verse eID="Judith.14.11" />
+        <verse sID="Judith.14.12" osisID="Judith.14.12" />Suscita dominum nostrum, quoniam ausi sunt filii Israel descendere ad nos in bellum, ut pereant usque in finem.<verse eID="Judith.14.12" />
+        <verse sID="Judith.14.13" osisID="Judith.14.13" />Et introivit Bagoas, et pulsavit ianuam quae ante tabernaculum erat, suspicabatur enim illum adhuc cum Iudith dormire.<verse eID="Judith.14.13" />
+        <verse sID="Judith.14.14" osisID="Judith.14.14" />Postquam vero nullus respondebat, aperuit, et introivit in cubiculum, et invenit illum iacentem nudum in testudine, et caput eius sublatum ab eo, et exclamavit voce magna cum lacrymis et luctu, et scidit vestimenta sua.<verse eID="Judith.14.14" />
+        <verse sID="Judith.14.15" osisID="Judith.14.15" />Et intravit in tabernaculum ubi erat Iudith, et non invenit eam. Et egressus est ad populum,<verse eID="Judith.14.15" />
+        <verse sID="Judith.14.16" osisID="Judith.14.16" />et dixit, Neglexerunt heri servi eius, et fecit confusionem una mulier Hebraea in domo regis Nabuchodonosor, quoniam ecce Olofernis in terra iacet, et caput ipsius non est in eo.<verse eID="Judith.14.16" />
+        <verse sID="Judith.14.17" osisID="Judith.14.17" />Et audierunt verba haec presbyteri Assyriorum, sciderunt tunicas suas, et conturbata est anima eorum valde.<verse eID="Judith.14.17" />
+        <verse sID="Judith.14.18" osisID="Judith.14.18" />Et factus est clamor eorum in medio castrorum.<verse eID="Judith.14.18" />
+      </p>
+      <chapter eID="Judith.14" />
+      <chapter sID="Judith.15" osisID="Judith.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Judith.15.1" osisID="Judith.15.1" />Et ut audierunt ii qui in tabernaculis erant, admirati sunt, et inquisierunt quid esset facti, et incidit in illis timor et tremor,<verse eID="Judith.15.1" />
+        <verse sID="Judith.15.2" osisID="Judith.15.2" />et non erat homo qui staret ante proximum suum, sed diffusi unianimes fugiebant in omnem viam campi et montis, et qui castra collocaverant circa Bethuliam, in fuga conversi sunt.<verse eID="Judith.15.2" />
+        <verse sID="Judith.15.3" osisID="Judith.15.3" />Tunc filiorum Israel omnis vir bellator diffusus est super illos.<verse eID="Judith.15.3" />
+        <verse sID="Judith.15.5" osisID="Judith.15.5" />Et misit Ozias Bethumas, Tebel, Menchoba, et Ioab, et in omnem montem Israel, ut cognoscerent de his rebus quae gesta erant, et omnes in hostes diffundantur ad summam victoriam bellorum.<verse eID="Judith.15.5" />
+        <verse sID="Judith.15.6" osisID="Judith.15.6" />Et postquam audierunt filii Israel, omnes simul incubuerunt in illos, et conciderunt illos usque Choba. Similiter autem et qui in Hierusalem erant, venerunt ex omni montana. Renuntiata sunt enim illis quae facta sunt inimicis eorum, et qui in Galaad, et qui in Galilaea erant, consecuti sunt eos, et interfecerunt illos plaga magna, quousque transirent Damascum et terminos eorum.<verse eID="Judith.15.6" />
+        <verse sID="Judith.15.7" osisID="Judith.15.7" />Reliqui autem qui inhabitabant Bethuliam, incubuerunt in castra Assyriorum, et spoliaverunt eos, et locupletati sunt valde.<verse eID="Judith.15.7" />
+        <verse sID="Judith.15.8" osisID="Judith.15.8" />Filii autem Israel reversi a cacumine montis, dominati sunt reliquorum, et vicos, et civitates, et omnes campos obtinuerunt, et multa spolia possederunt. Multitudo enim fuit magna.<verse eID="Judith.15.8" />
+        <verse sID="Judith.15.9" osisID="Judith.15.9" />Et venit Ioachim sacerdos magnus, et maiores natu filiorum Israel qui inhabitabant in Hierusalem, ut viderent bona quae fecit Dominus Israel, et ut viderent Iudith, et loquerentur cum illa in pace.<verse eID="Judith.15.9" />
+        <verse sID="Judith.15.10" osisID="Judith.15.10" />Et exiit ad eos Iudith, et benedixerunt Dominum, et dixerunt ad illam, Tu exultatio Hierusalem, tu gaudium Israel, tu gloria gentis nostrae,<verse eID="Judith.15.10" />
+        <verse sID="Judith.15.11" osisID="Judith.15.11" />quia fecisti omnem adinventionem tuam, et fecisti bona cum Israel, et benefecit super nos Deus, benedicta es mulier apud Deum omnipotentem in aeternum tempus.<verse eID="Judith.15.11" />
+        <verse sID="Judith.15.12" osisID="Judith.15.12" />Et dixit omnis populus, Fiat, fiat.<verse eID="Judith.15.12" />
+        <verse sID="Judith.15.13" osisID="Judith.15.13" />Et spolia collegit populus multa per dies triginta.<verse eID="Judith.15.13" />
+        <verse sID="Judith.15.14" osisID="Judith.15.14" />Et dederunt Iudith tabernaculum Olofernis, et omne argentum, et lectum, et apparatum illius, et cum accepisset Iudith, imposuit super mulas suas, et iunxit currus suos, et congessit illa simul.<verse eID="Judith.15.14" />
+        <verse sID="Judith.15.15" osisID="Judith.15.15" />Et concurrerunt omnes mulieres Israel ad eam, ut viderent illam, et benedixerunt ei, et fecerunt illi choros ex se. Et accepit Iudith tyrsos in manu sua, et dedit mulieribus quae cum ea erant. Et coronavit se oliva, et eos qui secum erant. Et omnes principes plebis Israel praeibant ante populum, imperans omnibus mulieribus, et sequebantur eam omnes viri Israel cum armis et coronis, et hymni erant in ore ipsorum.<verse eID="Judith.15.15" />
+      </p>
+      <chapter eID="Judith.15" />
+      <chapter sID="Judith.16" osisID="Judith.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Judith.16.1" osisID="Judith.16.1" />Et praeibat Iudith in confessione sua ante omnem Israel, et succlamabat omnis populus laudem Domino. Et dixit Iudith,<verse eID="Judith.16.1" />
+        <verse sID="Judith.16.2" osisID="Judith.16.2" />Incipite Domino in tympanis, cantate Deo in cymbalis, modolamini illi psalmum novum, exaltate, et invocate nomen eius.<verse eID="Judith.16.2" />
+        <verse sID="Judith.16.3" osisID="Judith.16.3" />Quia Deus conterens bella, Dominus nomen est illi.<verse eID="Judith.16.3" />
+        <verse sID="Judith.16.4" osisID="Judith.16.4" />Qui ponit castra sua in medio populi sui, ut eripiat me de manibus persequentium me.<verse eID="Judith.16.4" />
+        <verse sID="Judith.16.5" osisID="Judith.16.5" />Venit Assur de montibus ab aquilone, venit in millibus exercitus sui, cuius multitudo obturavit torrentes, et equi eorum cooperuerunt valles.<verse eID="Judith.16.5" />
+        <verse sID="Judith.16.6" osisID="Judith.16.6" />Dixit incensurum se fines meos, et iuvenes meos occisurum gladio, parvulos meos daturum in praedam, et virgines spoliaturum.<verse eID="Judith.16.6" />
+        <verse sID="Judith.16.7" osisID="Judith.16.7" />Dominus omnipotens nocuit eum, et tradidit illum in manu feminae, et confodit eum.<verse eID="Judith.16.7" />
+        <verse sID="Judith.16.8" osisID="Judith.16.8" />Non enim cecidit potens eorum a iuvenibus, neque filii Dathan percusserunt illos, nec filii gigantium insidiati sunt eis, sed Iudith filia Merari in pulchritudine faciei debilitavit illum.<verse eID="Judith.16.8" />
+        <verse sID="Judith.16.9" osisID="Judith.16.9" />Exuit enim se cultu viduitatis suae, in exsultatione doloris Israel.<verse eID="Judith.16.9" />
+        <verse sID="Judith.16.10" osisID="Judith.16.10" />Unxit faciem suam unguento, conligavit capillos suos mitra, et accepit stolam novam ad decipiendum illum.<verse eID="Judith.16.10" />
+        <verse sID="Judith.16.11" osisID="Judith.16.11" />Sandalia eius rapuerunt oculos ipsius, pulchritudo illius captivam fecit animam eius, amputavit gladius caput eius.<verse eID="Judith.16.11" />
+        <verse sID="Judith.16.12" osisID="Judith.16.12" />Horruerunt Persae constantiam eius, et Medi audaciam eius.<verse eID="Judith.16.12" />
+        <verse sID="Judith.16.13" osisID="Judith.16.13" />Turbata sunt tunc omnia castra Assur, et ululaverunt humiles mei, et exclamaverunt aegrotantes in siti, et exclamaverunt voce sua, et convertit aquam.<verse eID="Judith.16.13" />
+        <verse sID="Judith.16.14" osisID="Judith.16.14" />Filii puellarum compunxerunt eos, et sicut pueros fugientes vulneraverunt illos, perierunt in praelio a facie Domini mei.<verse eID="Judith.16.14" />
+        <verse sID="Judith.16.15" osisID="Judith.16.15" />Hymnum dicamus Deo nostro, hymnum novum cantemus Domino.<verse eID="Judith.16.15" />
+        <verse sID="Judith.16.16" osisID="Judith.16.16" />Adonai Domine magnus es tu, et clarus, mirabilis in virtute, et quem superare nemo possit.<verse eID="Judith.16.16" />
+        <verse sID="Judith.16.17" osisID="Judith.16.17" />Tibi serviat omnis creatura tua, quoniam dixisti, et factum est, misisti spiritum tuum, et aedificata sunt, et non est qui contra voluntatem tuam faciat.<verse eID="Judith.16.17" />
+        <verse sID="Judith.16.18" osisID="Judith.16.18" />Montes a radicibus movebuntur cum aquis, petrae autem a facie tua, sicut cera, liquescent.<verse eID="Judith.16.18" />
+        <verse sID="Judith.16.19" osisID="Judith.16.19" />Illis autem qui timent te, propitius eris, quoniam pusillum est omne sacrificium ad odorem suavitatis tuae, et in minimo est omnis adeps ad holocaustum, qui autem timet Dominum, magnus est apud eum semper.<verse eID="Judith.16.19" />
+        <verse sID="Judith.16.20" osisID="Judith.16.20" />Vae gentibus insurgentibus generi meo, Dominus omnipotens vindicabit in illos, in die iudicii visitabit eos.<verse eID="Judith.16.20" />
+        <verse sID="Judith.16.21" osisID="Judith.16.21" />Da ignem, et vermes in carnes ipsorum, ut comburantur, et sentiant usque in aeternum.<verse eID="Judith.16.21" />
+        <verse sID="Judith.16.22" osisID="Judith.16.22" />Et postquam venerunt in Hierusalem, adoraverunt Dominum, et postquam mundatus est populus, obtulerunt holocaustum Domino, et vota, et solemnia sua.<verse eID="Judith.16.22" />
+        <verse sID="Judith.16.23" osisID="Judith.16.23" />Et donum dedit Iudith omnia vasa Olofernis, quaecunque dederat ei plebs. Et conopeum, quod sustulit ipsa de cubiculo, dedit in consecrationem Domino.<verse eID="Judith.16.23" />
+        <verse sID="Judith.16.24" osisID="Judith.16.24" />Et erat plebs epulans in Hierusalem ante faciem sanctorum mensibus tribus, et Iudith cum illis mansit.<verse eID="Judith.16.24" />
+        <verse sID="Judith.16.25" osisID="Judith.16.25" />Post illos autem dies rediit unusquisque ad tabernacula sua, et Iudith abiit in Bethuliam, et demorata est in re familiari sua, et facta est clara in omni terra, et multi concupierunt eam.<verse eID="Judith.16.25" />
+        <verse sID="Judith.16.26" osisID="Judith.16.26" />Et nescivit illam vir omnibus diebus vitae eius, ex quo mortuus est Manasses maritus eius, et adpositus est ad populum suum.<verse eID="Judith.16.26" />
+        <verse sID="Judith.16.27" osisID="Judith.16.27" />Et procedente tempore clara facta est.<verse eID="Judith.16.27" />
+        <verse sID="Judith.16.28" osisID="Judith.16.28" />Et senuit in domo mariti sui annos agens vitae centum quinque, et mortua est in Bethulia, et sepulta est in monumento mariti sui.<verse eID="Judith.16.28" />
+        <verse sID="Judith.16.29" osisID="Judith.16.29" />Et planxerunt illam omnis domus Israel diebus septem. Et divisit bona sua, priusquam moriretur, omnibus proximis viri sui Manasse, et proximis ex genere suo, et reliquit ancillam suam liberam.<verse eID="Judith.16.29" />
+        <verse sID="Judith.16.30" osisID="Judith.16.30" />Et non fuit adhuc qui in timore mitteret filios Israel in diebus vitae Iudith, et post mortem eius diebus multis.<verse eID="Judith.16.30" />
+      </p>
+      <chapter eID="Judith.16" />
+    </div>
+  </osisText>
+</osis>

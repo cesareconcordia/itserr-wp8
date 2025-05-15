@@ -1,0 +1,1031 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="1Mac" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="1Mac">
+        <title>maccabees-1</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">1Mac</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>maccabees-1</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="1Mac">
+      <title>maccabees-1</title>
+      <chapter sID="1Mac.1" osisID="1Mac.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="1Mac.1.1" osisID="1Mac.1.1" />Et factum est, postquam percussit Alexander Philippi Macedo, qui primus regnavit in Graecia, egressus de terra Cethim, Darium regem Persarum et Medorum:<verse eID="1Mac.1.1" />
+        <verse sID="1Mac.1.2" osisID="1Mac.1.2" />constituit praelia multa, et obtinuit omnium munitiones, et interfecit reges terrae,<verse eID="1Mac.1.2" />
+        <verse sID="1Mac.1.3" osisID="1Mac.1.3" />et pertransiit usque ad fines terrae: et accepit spolia multitudinis gentium, et siluit terra in conspectu eius.<verse eID="1Mac.1.3" />
+        <verse sID="1Mac.1.4" osisID="1Mac.1.4" />Et congregavit virtutem, et exercitum fortem nimis: et exaltatum est, et elevatum cor eius:<verse eID="1Mac.1.4" />
+        <verse sID="1Mac.1.5" osisID="1Mac.1.5" />et obtinuit regiones gentium, et tyrannos: et facti sunt illi in tributum.<verse eID="1Mac.1.5" />
+        <verse sID="1Mac.1.6" osisID="1Mac.1.6" />Et post haec decidit in lectum, et cognovit quia moreretur.<verse eID="1Mac.1.6" />
+        <verse sID="1Mac.1.7" osisID="1Mac.1.7" />Et vocavit pueros suos nobiles, qui secum erant nutriti a iuventute: et divisit illis regnum suum, cum adhuc viveret.<verse eID="1Mac.1.7" />
+        <verse sID="1Mac.1.8" osisID="1Mac.1.8" />Et regnavit Alexander annis duodecim, et mortuus est.<verse eID="1Mac.1.8" />
+        <verse sID="1Mac.1.9" osisID="1Mac.1.9" />Et obtinuerunt pueri eius regnum, unusquisque in loco suo:<verse eID="1Mac.1.9" />
+        <verse sID="1Mac.1.10" osisID="1Mac.1.10" />et imposuerunt omnes sibi diademata post mortem eius, et filii eorum post eos annis multis, et multiplicata sunt mala in terra.<verse eID="1Mac.1.10" />
+        <verse sID="1Mac.1.11" osisID="1Mac.1.11" />Et exiit ex eis radix peccatrix, Antiochus illustris, filius Antiochi regis, qui fuerat Romae obses: et regnavit in anno centesimo trigesimo septimo regni Graecorum.<verse eID="1Mac.1.11" />
+        <verse sID="1Mac.1.12" osisID="1Mac.1.12" />In diebus illis, exierunt ex Israël filii iniqui, et suaserunt multis, dicentes: Eamus, et disponamus testamentum cum gentibus, quae circa nos sunt: quia ex quo recessimus ab eis, invenerunt nos multa mala.<verse eID="1Mac.1.12" />
+        <verse sID="1Mac.1.13" osisID="1Mac.1.13" />Et bonus visus est sermo in oculis eorum.<verse eID="1Mac.1.13" />
+        <verse sID="1Mac.1.14" osisID="1Mac.1.14" />Et destinaverunt aliqui de populo, et abierunt ad regem: et dedit illis potestatem ut facerent iustitiam gentium.<verse eID="1Mac.1.14" />
+        <verse sID="1Mac.1.15" osisID="1Mac.1.15" />Et aedificaverunt gymnasium in Ierosolymis secundum leges nationum:<verse eID="1Mac.1.15" />
+        <verse sID="1Mac.1.16" osisID="1Mac.1.16" />et fecerunt sibi praeputia, et recesserunt a testamento sancto, et iuncti sunt nationibus, et venundati sunt ut facerent malum.<verse eID="1Mac.1.16" />
+        <verse sID="1Mac.1.17" osisID="1Mac.1.17" />Et paratum est regnum in conspectu Antiochi, et coepit regnare in terra Aegypti ut regnaret super duo regna.<verse eID="1Mac.1.17" />
+        <verse sID="1Mac.1.18" osisID="1Mac.1.18" />Et intravit in Aegyptum in multitudine gravi, in curribus, et elephantis, et equitibus, et copiosa navium multitudine:<verse eID="1Mac.1.18" />
+        <verse sID="1Mac.1.19" osisID="1Mac.1.19" />et constituit bellum adversus Ptolemaeum regem Aegypti, et veritus est Ptolemaeus a facie eius, et fugit, et ceciderunt vulnerati multi.<verse eID="1Mac.1.19" />
+        <verse sID="1Mac.1.20" osisID="1Mac.1.20" />Et comprehendit civitates munitas in terra Aegypti, et accepit spolia terrae Aegypti.<verse eID="1Mac.1.20" />
+        <verse sID="1Mac.1.21" osisID="1Mac.1.21" />Et convertit Antiochus, postquam percussit Aegyptum in centesimo et quadragesimo tertio anno: et ascendit ad Israël,<verse eID="1Mac.1.21" />
+        <verse sID="1Mac.1.22" osisID="1Mac.1.22" />et ascendit Ierosolymam in multitudine gravi.<verse eID="1Mac.1.22" />
+        <verse sID="1Mac.1.23" osisID="1Mac.1.23" />Et intravit in sanctificationem cum superbia, et accepit altare aureum, et candelabrum luminis, et universa vasa eius, et mensam propositionis, et libatoria, et phialas, et mortariola aurea, et velum, et coronas, et ornamentum aureum, quod in facie templi erat: et comminuit omnia.<verse eID="1Mac.1.23" />
+        <verse sID="1Mac.1.24" osisID="1Mac.1.24" />Et accepit argentum, et aurum, et vasa concupiscibilia: et accepit thesauros occultos, quos invenit: et sublatis omnibus, abiit in terram suam.<verse eID="1Mac.1.24" />
+        <verse sID="1Mac.1.25" osisID="1Mac.1.25" />Et fecit caedem hominum, et locutus est in superbia magna.<verse eID="1Mac.1.25" />
+        <verse sID="1Mac.1.26" osisID="1Mac.1.26" />Et factus est planctus magnus in Israël, et in omni loco eorum:<verse eID="1Mac.1.26" />
+        <verse sID="1Mac.1.27" osisID="1Mac.1.27" />et ingemuerunt principes et seniores; virgines et iuvenes infirmati sunt: et speciositas mulierum immutata est.<verse eID="1Mac.1.27" />
+        <verse sID="1Mac.1.28" osisID="1Mac.1.28" />Omnis maritus sumpsit lamentum, et quae sedebant in thoro maritali, lugebant:<verse eID="1Mac.1.28" />
+        <verse sID="1Mac.1.29" osisID="1Mac.1.29" />et commota est terra super habitantes in ea, et universa domus Iacob induit confusionem.<verse eID="1Mac.1.29" />
+        <verse sID="1Mac.1.30" osisID="1Mac.1.30" />Et post duos annos dierum, misit rex principem tributorum in civitates Iuda, et venit Ierusalem cum turba magna.<verse eID="1Mac.1.30" />
+        <verse sID="1Mac.1.31" osisID="1Mac.1.31" />Et locutus est ad eos verba pacifica in dolo: et crediderunt ei.<verse eID="1Mac.1.31" />
+        <verse sID="1Mac.1.32" osisID="1Mac.1.32" />Et irruit super civitatem repente, et percussit eam plaga magna, et perdidit populum multum ex Israël.<verse eID="1Mac.1.32" />
+        <verse sID="1Mac.1.33" osisID="1Mac.1.33" />Et accepit spolia civitatis: et succendit eam igni, et destruxit domos eius, et muros eius in circuitu:<verse eID="1Mac.1.33" />
+        <verse sID="1Mac.1.34" osisID="1Mac.1.34" />et captivas duxerunt mulieres, et natos et pecora possederunt.<verse eID="1Mac.1.34" />
+        <verse sID="1Mac.1.35" osisID="1Mac.1.35" />Et aedificaverunt civitatem David muro magno et firmo, et turribus firmis, et facta est illis in arcem:<verse eID="1Mac.1.35" />
+        <verse sID="1Mac.1.36" osisID="1Mac.1.36" />et posuerunt illic gentem peccatricem viros iniquos, et convaluerunt in ea: et posuerunt arma, et escas, et congregaverunt spolia Ierusalem:<verse eID="1Mac.1.36" />
+        <verse sID="1Mac.1.37" osisID="1Mac.1.37" />et reposuerunt illic: et facti sunt in laqueum magnum.<verse eID="1Mac.1.37" />
+        <verse sID="1Mac.1.38" osisID="1Mac.1.38" />Et factum est hoc ad insidias sanctificationi, et in diabolum malum in Israël:<verse eID="1Mac.1.38" />
+        <verse sID="1Mac.1.39" osisID="1Mac.1.39" />et effuderunt sanguinem innocentem per circuitum sanctificationis, et contaminaverunt sanctificationem.<verse eID="1Mac.1.39" />
+        <verse sID="1Mac.1.40" osisID="1Mac.1.40" />Et fugerunt habitatores Ierusalem propter eos, et facta est habitatio exterorum, et facta est extera semini suo, et nati eius reliquerunt eam.<verse eID="1Mac.1.40" />
+        <verse sID="1Mac.1.41" osisID="1Mac.1.41" />Sanctificatio eius desolata est sicut solitudo; dies testi eius conversi sunt in luctum, sabbata eius in opprobrium, honores eius in nihilum.<verse eID="1Mac.1.41" />
+        <verse sID="1Mac.1.42" osisID="1Mac.1.42" />Secundum gloriam eius multiplicata est ignominia eius, et sublimitas eius conversa est in luctum.<verse eID="1Mac.1.42" />
+        <verse sID="1Mac.1.43" osisID="1Mac.1.43" />Et scripsit rex Antiochus omni regno suo ut esset omnis populus unus: et relinqueret unusquisque legem suam.<verse eID="1Mac.1.43" />
+        <verse sID="1Mac.1.44" osisID="1Mac.1.44" />Et consenserunt omnes gentes secundum verbum regis Antiochi:<verse eID="1Mac.1.44" />
+        <verse sID="1Mac.1.45" osisID="1Mac.1.45" />et multi ex Israël consenserunt servituti eius, et sacrificaverunt idolis, et coinquinaverunt sabbatum.<verse eID="1Mac.1.45" />
+        <verse sID="1Mac.1.46" osisID="1Mac.1.46" />Et misit rex libros per manus nuntiorum in Ierusalem, et in omnes civitates Iuda, ut sequerentur leges gentium terrae,<verse eID="1Mac.1.46" />
+        <verse sID="1Mac.1.47" osisID="1Mac.1.47" />et prohiberent holocausta et sacrificia, et placationes fieri in templo Dei,<verse eID="1Mac.1.47" />
+        <verse sID="1Mac.1.48" osisID="1Mac.1.48" />et prohiberent celebrari sabbatum, et dies solemnes:<verse eID="1Mac.1.48" />
+        <verse sID="1Mac.1.49" osisID="1Mac.1.49" />et iussit coinquinari sancta, et sanctum populum Israël.<verse eID="1Mac.1.49" />
+        <verse sID="1Mac.1.50" osisID="1Mac.1.50" />Et iussit aedificari aras, et templa, et idola, et immolari carnes suillas, et pecora communia,<verse eID="1Mac.1.50" />
+        <verse sID="1Mac.1.51" osisID="1Mac.1.51" />et relinquere filios suos incircumcisos, et coinquinari animas eorum in omnibus immundis, et abominationibus, ita ut obliviscerentur legem, et immutarent omnes iustificationes Dei:<verse eID="1Mac.1.51" />
+        <verse sID="1Mac.1.52" osisID="1Mac.1.52" />et quicumque non fecissent secundum verbum regis Antiochi, morerentur.<verse eID="1Mac.1.52" />
+        <verse sID="1Mac.1.53" osisID="1Mac.1.53" />Secundum omnia verba haec scripsit omni regno suo: et praeposuit principes populo, qui haec fieri cogerent.<verse eID="1Mac.1.53" />
+        <verse sID="1Mac.1.54" osisID="1Mac.1.54" />Et iusserunt civitatibus Iuda sacrificare.<verse eID="1Mac.1.54" />
+        <verse sID="1Mac.1.55" osisID="1Mac.1.55" />Et congregati sunt multi de populo ad eos qui dereliquerant legem Domini, et fecerunt mala super terram:<verse eID="1Mac.1.55" />
+        <verse sID="1Mac.1.56" osisID="1Mac.1.56" />et effugaverunt populum Israël in abditis, et in absconditis fugitivorum locis.<verse eID="1Mac.1.56" />
+        <verse sID="1Mac.1.57" osisID="1Mac.1.57" />Die quintadecima mensis Casleu, quinto et quadragesimo et centesimo anno, aedificavit rex Antiochus abominandum idolum desolationis super altare Dei, et per universas civitates Iuda in circuitu aedificaverunt aras:<verse eID="1Mac.1.57" />
+        <verse sID="1Mac.1.58" osisID="1Mac.1.58" />et ante ianuas domorum et in plateis incendebant thura, et sacrificabant:<verse eID="1Mac.1.58" />
+        <verse sID="1Mac.1.59" osisID="1Mac.1.59" />et libros legis Dei combusserunt igni, scindentes eos:<verse eID="1Mac.1.59" />
+        <verse sID="1Mac.1.60" osisID="1Mac.1.60" />et apud quemcumque inveniebantur libri testamenti Domini, et quicumque observabat legem Domini, secundum edictum regis trucidabant eum.<verse eID="1Mac.1.60" />
+        <verse sID="1Mac.1.61" osisID="1Mac.1.61" />In virtute sua faciebant haec populo Israël, qui inveniebatur in omni mense et mense in civitatibus.<verse eID="1Mac.1.61" />
+        <verse sID="1Mac.1.62" osisID="1Mac.1.62" />Et quinta et vigesima die mensis sacrificabant super aram, quae erat contra altare.<verse eID="1Mac.1.62" />
+        <verse sID="1Mac.1.63" osisID="1Mac.1.63" />Et mulieres, quae circumcidebant filios suos, trucidabantur secundum iussum regis Antiochi,<verse eID="1Mac.1.63" />
+        <verse sID="1Mac.1.64" osisID="1Mac.1.64" />et suspendebant pueros a cervicibus per universas domos eorum: et eos, qui circumciderant illos, trucidabant.<verse eID="1Mac.1.64" />
+        <verse sID="1Mac.1.65" osisID="1Mac.1.65" />Et multi de populo Israël definierunt apud se, ut non manducarent immunda: et elegerunt magis mori, quam cibis coinquinari immundis:<verse eID="1Mac.1.65" />
+        <verse sID="1Mac.1.66" osisID="1Mac.1.66" />et noluerunt infringere legem Dei sanctam, et trucidati sunt:<verse eID="1Mac.1.66" />
+        <verse sID="1Mac.1.67" osisID="1Mac.1.67" />et facta est ira magna super populum valde.<verse eID="1Mac.1.67" />
+      </p>
+      <chapter eID="1Mac.1" />
+      <chapter sID="1Mac.2" osisID="1Mac.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="1Mac.2.1" osisID="1Mac.2.1" />In diebus illis surrexit Mathathias filius Ioannis filii Simeonis, sacerdos ex filiis Ioarib, ab Ierusalem, et consedit in monte Modin:<verse eID="1Mac.2.1" />
+        <verse sID="1Mac.2.2" osisID="1Mac.2.2" />et habebat filios quinque, Ioannem, qui cognominabatur Gaddis:<verse eID="1Mac.2.2" />
+        <verse sID="1Mac.2.3" osisID="1Mac.2.3" />et Simonem, qui cognominabatur Thasi:<verse eID="1Mac.2.3" />
+        <verse sID="1Mac.2.4" osisID="1Mac.2.4" />et Iudam, qui vocabatur Machabaeus:<verse eID="1Mac.2.4" />
+        <verse sID="1Mac.2.5" osisID="1Mac.2.5" />et Eleazarum, qui cognominabatur Abaron: et Ionathan, qui cognominabatur Apphus:<verse eID="1Mac.2.5" />
+        <verse sID="1Mac.2.6" osisID="1Mac.2.6" />hi viderunt mala, quae fiebant in populo Iuda, et in Ierusalem.<verse eID="1Mac.2.6" />
+        <verse sID="1Mac.2.7" osisID="1Mac.2.7" />Et dixit Mathathias: Vae mihi! ut quid natus sum videre contritionem populi mei, et contritionem civitatis sanctae, et sedere illic, cum datur in manibus inimicorum?<verse eID="1Mac.2.7" />
+        <verse sID="1Mac.2.8" osisID="1Mac.2.8" />Sancta in manu extraneorum facta sunt: templum eius sicut homo ignobilis.<verse eID="1Mac.2.8" />
+        <verse sID="1Mac.2.9" osisID="1Mac.2.9" />Vasa gloriae eius captiva abducta sunt: trucidati sunt senes eius in plateis, et iuvenes eius ceciderunt in gladio inimicorum.<verse eID="1Mac.2.9" />
+        <verse sID="1Mac.2.10" osisID="1Mac.2.10" />Quae gens non haereditavit regnum eius et non obtinuit spolia eius?<verse eID="1Mac.2.10" />
+        <verse sID="1Mac.2.11" osisID="1Mac.2.11" />Omnis compositio eius ablata est. Quae erat libera, facta est ancilla.<verse eID="1Mac.2.11" />
+        <verse sID="1Mac.2.12" osisID="1Mac.2.12" />Et ecce sancta nostra, et pulchritudo nostra, et claritas nostra desolata est, et coinquinaverunt ea gentes.<verse eID="1Mac.2.12" />
+        <verse sID="1Mac.2.13" osisID="1Mac.2.13" />Quo ergo nobis adhuc vivere?<verse eID="1Mac.2.13" />
+        <verse sID="1Mac.2.14" osisID="1Mac.2.14" />Et scidit vestimenta sua Mathathias, et filii eius: et operuerunt se ciliciis, et planxerunt valde.<verse eID="1Mac.2.14" />
+        <verse sID="1Mac.2.15" osisID="1Mac.2.15" />Et venerunt illuc qui missi erant a rege Antiocho, ut cogerent eos, qui confugerant in civitatem Modin, immolare, et accendere thura, et a lege Dei discedere.<verse eID="1Mac.2.15" />
+        <verse sID="1Mac.2.16" osisID="1Mac.2.16" />Et multi de populo Israël consentientes accesserunt ad eos: sed Mathathias et filii eius constanter steterunt.<verse eID="1Mac.2.16" />
+        <verse sID="1Mac.2.17" osisID="1Mac.2.17" />Et respondentes qui missi erant ab Antiocho, dixerunt Mathathiae: Princeps, et clarissimus et magnus es in hac civitate, et ornatus filiis et fratribus:<verse eID="1Mac.2.17" />
+        <verse sID="1Mac.2.18" osisID="1Mac.2.18" />ergo accede prior, et fac iussum regis, sicut fecerunt omnes gentes, et viri Iuda, et qui remanserunt in Ierusalem: et eris tu, et filii tui, inter amicos regis, et amplificatus auro, et argento, et muneribus multis.<verse eID="1Mac.2.18" />
+        <verse sID="1Mac.2.19" osisID="1Mac.2.19" />Et respondit Mathathias, et dixit magna voce: Etsi omnes gentes regi Antiocho obediunt, ut discedat unusquisque a servitute legis patrum suorum, et consentiat mandatis eius:<verse eID="1Mac.2.19" />
+        <verse sID="1Mac.2.20" osisID="1Mac.2.20" />ego et filii mei, et fratres mei, obediemus legi patrum nostrorum:<verse eID="1Mac.2.20" />
+        <verse sID="1Mac.2.21" osisID="1Mac.2.21" />propitius sit nobis Deus: non est nobis utile relinquere legem, et iustitias Dei:<verse eID="1Mac.2.21" />
+        <verse sID="1Mac.2.22" osisID="1Mac.2.22" />non audiemus verba regis Antiochi, nec sacrificabimus transgredientes legis nostrae mandata, ut eamus altera via.<verse eID="1Mac.2.22" />
+        <verse sID="1Mac.2.23" osisID="1Mac.2.23" />Et ut cessavit loqui verba haec, accessit quidam Iudaeus in omnium oculis sacrificare idolis super aram in civitate Modin, secundum iussum regis:<verse eID="1Mac.2.23" />
+        <verse sID="1Mac.2.24" osisID="1Mac.2.24" />et vidit Mathathias, et doluit, et contremuerunt renes eius, et accensus est furor eius secundum iudicium legis, et insiliens trucidavit eum super aram:<verse eID="1Mac.2.24" />
+        <verse sID="1Mac.2.25" osisID="1Mac.2.25" />sed et virum, quem rex Antiochus miserat, qui cogebat immolare, occidit in ipso tempore, et aram destruxit:<verse eID="1Mac.2.25" />
+        <verse sID="1Mac.2.26" osisID="1Mac.2.26" />et zelatus est legem, sicut fecit Phinees Zamri filio Salomi.<verse eID="1Mac.2.26" />
+        <verse sID="1Mac.2.27" osisID="1Mac.2.27" />Et exclamavit Mathathias voce magna in civitate, dicens: Omnis qui zelum habet legis, statuens testamentum, exeat post me.<verse eID="1Mac.2.27" />
+        <verse sID="1Mac.2.28" osisID="1Mac.2.28" />Et fugit ipse, et filii eius in montes, et reliquerunt quaecumque habebant in civitate.<verse eID="1Mac.2.28" />
+        <verse sID="1Mac.2.29" osisID="1Mac.2.29" />Tunc descenderunt multi quaerentes iudicium, et iustitiam, in desertum:<verse eID="1Mac.2.29" />
+        <verse sID="1Mac.2.30" osisID="1Mac.2.30" />et sederunt ibi ipsi, et filii eorum, et mulieres eorum, et pecora eorum: quoniam inundaverunt super eos mala.<verse eID="1Mac.2.30" />
+        <verse sID="1Mac.2.31" osisID="1Mac.2.31" />Et renuntiatum est viris regis, et exercitui qui erat in Ierusalem civitate David, quoniam discessissent viri quidam, qui dissipaverunt mandatum regis, in loca occulta in deserto, et abiissent post illos multi.<verse eID="1Mac.2.31" />
+        <verse sID="1Mac.2.32" osisID="1Mac.2.32" />Et statim perrexerunt ad eos, et constituerunt adversus eos praelium in die sabbatorum,<verse eID="1Mac.2.32" />
+        <verse sID="1Mac.2.33" osisID="1Mac.2.33" />et dixerunt ad eos: Resistitis et nunc adhuc? exite, et facite secundum verbum regis Antiochi, et vivetis.<verse eID="1Mac.2.33" />
+        <verse sID="1Mac.2.34" osisID="1Mac.2.34" />Et dixerunt: Non exibimus, neque faciemus verbum regis, ut polluamus diem sabbatorum.<verse eID="1Mac.2.34" />
+        <verse sID="1Mac.2.35" osisID="1Mac.2.35" />Et concitaverunt adversus eos praelium.<verse eID="1Mac.2.35" />
+        <verse sID="1Mac.2.36" osisID="1Mac.2.36" />Et non responderunt eis, nec lapidem miserunt in eos, nec oppilaverunt loca occulta,<verse eID="1Mac.2.36" />
+        <verse sID="1Mac.2.37" osisID="1Mac.2.37" />dicentes: Moriamur omnes in simplicitate nostra: et testes erunt super nos caelum et terra, quod iniuste perditis nos.<verse eID="1Mac.2.37" />
+        <verse sID="1Mac.2.38" osisID="1Mac.2.38" />Et intulerunt illis bellum sabbatis: et mortui sunt ipsi, et uxores eorum, et filii eorum, et pecora eorum usque ad mille animas hominum.<verse eID="1Mac.2.38" />
+        <verse sID="1Mac.2.39" osisID="1Mac.2.39" />Et cognovit Mathathias et amici eius, et luctum habuerunt super eos valde.<verse eID="1Mac.2.39" />
+        <verse sID="1Mac.2.40" osisID="1Mac.2.40" />Et dixit vir proximo suo: Si omnes fecerimus sicut fratres nostri fecerunt, et non pugnaverimus adversus gentes pro animabus nostris et iustificationibus nostris, nunc citius disperdent nos a terra.<verse eID="1Mac.2.40" />
+        <verse sID="1Mac.2.41" osisID="1Mac.2.41" />Et cogitaverunt in die illa, dicentes: Omnis homo, quicumque venerit ad nos in bello die sabbatorum, pugnemus adversus eum: et non moriemur omnes, sicut mortui sunt fratres nostri in occultis.<verse eID="1Mac.2.41" />
+        <verse sID="1Mac.2.42" osisID="1Mac.2.42" />Tunc congregata est ad eos synagoga Assidaeorum fortis viribus ex Israël, omnis voluntarius in lege:<verse eID="1Mac.2.42" />
+        <verse sID="1Mac.2.43" osisID="1Mac.2.43" />et omnes, qui fugiebant a malis, additi sunt ad eos, et facti sunt illis ad firmamentum.<verse eID="1Mac.2.43" />
+        <verse sID="1Mac.2.44" osisID="1Mac.2.44" />Et collegerunt exercitum, et percusserunt peccatores in ira sua, et viros iniquos in indignatione sua: et ceteri fugerunt ad nationes, ut evaderent.<verse eID="1Mac.2.44" />
+        <verse sID="1Mac.2.45" osisID="1Mac.2.45" />Et circuivit Mathathias et amici eius, et destruxerunt aras:<verse eID="1Mac.2.45" />
+        <verse sID="1Mac.2.46" osisID="1Mac.2.46" />et circumciderunt pueros incircumcisos quotquot invenerunt in finibus Israël: et in fortitudine.<verse eID="1Mac.2.46" />
+        <verse sID="1Mac.2.47" osisID="1Mac.2.47" />Et persecuti sunt filios superbiae, et prosperatum est opus in manibus eorum:<verse eID="1Mac.2.47" />
+        <verse sID="1Mac.2.48" osisID="1Mac.2.48" />et obtinuerunt legem de manibus gentium, et de manibus regum, et non dederant cornu peccatori.<verse eID="1Mac.2.48" />
+        <verse sID="1Mac.2.49" osisID="1Mac.2.49" />Et appropinquaverunt dies Mathathiae moriendi, et dixit filiis suis: Nunc confortata est superbia, et castigatio, et tempus eversionis, et ira indignationis.<verse eID="1Mac.2.49" />
+        <verse sID="1Mac.2.50" osisID="1Mac.2.50" />Nunc ergo, o filii, aemulatores estote legis, et date animas vestras pro testamento patrum vestrorum,<verse eID="1Mac.2.50" />
+        <verse sID="1Mac.2.51" osisID="1Mac.2.51" />et mementote operum patrum, quae fecerunt in generationibus suis: et accipietis gloriam magnam, et nomen aeternum.<verse eID="1Mac.2.51" />
+        <verse sID="1Mac.2.52" osisID="1Mac.2.52" />Abraham nonne in tentatione inventus est fidelis, et reputatum est ei ad iustitiam?<verse eID="1Mac.2.52" />
+        <verse sID="1Mac.2.53" osisID="1Mac.2.53" />Ioseph in tempore angustiae suae custodivit mandatum, et factus est dominus Aegypti.<verse eID="1Mac.2.53" />
+        <verse sID="1Mac.2.54" osisID="1Mac.2.54" />Phinees pater noster, zelando zelum Dei, accepit testamentum sacerdotii aeterni.<verse eID="1Mac.2.54" />
+        <verse sID="1Mac.2.55" osisID="1Mac.2.55" />Iesus dum implevit verbum, factus est dux in Israël.<verse eID="1Mac.2.55" />
+        <verse sID="1Mac.2.56" osisID="1Mac.2.56" />Caleb dum testificatur in ecclesia, accepit haereditatem.<verse eID="1Mac.2.56" />
+        <verse sID="1Mac.2.57" osisID="1Mac.2.57" />David in sua misericordia consecutus est sedem regni in saecula.<verse eID="1Mac.2.57" />
+        <verse sID="1Mac.2.58" osisID="1Mac.2.58" />Elias, dum zelat zelum legis, receptus est in caelum.<verse eID="1Mac.2.58" />
+        <verse sID="1Mac.2.59" osisID="1Mac.2.59" />Ananias et Azarias et Misaël credentes, liberati sunt de flamma.<verse eID="1Mac.2.59" />
+        <verse sID="1Mac.2.60" osisID="1Mac.2.60" />Daniel in sua simplicitate liberatus est de ore leonum.<verse eID="1Mac.2.60" />
+        <verse sID="1Mac.2.61" osisID="1Mac.2.61" />Et ita cogitate per generationem et generationem: quia omnes qui sperant in eum, non infirmantur.<verse eID="1Mac.2.61" />
+        <verse sID="1Mac.2.62" osisID="1Mac.2.62" />Et a verbis viri peccatoris ne timueritis, quia gloria eius stercus et vermis est:<verse eID="1Mac.2.62" />
+        <verse sID="1Mac.2.63" osisID="1Mac.2.63" />hodie extollitur, et cras non invenietur: quia conversus est in terram suam, et cogitatio eius periit.<verse eID="1Mac.2.63" />
+        <verse sID="1Mac.2.64" osisID="1Mac.2.64" />Vos ergo filii, confortamini, et viriliter agite in lege: quia in ipsa gloriosi eritis.<verse eID="1Mac.2.64" />
+        <verse sID="1Mac.2.65" osisID="1Mac.2.65" />Et ecce Simon frater vester, scio quod vir consilii est: ipsum audite semper, et ipse erit vobis pater.<verse eID="1Mac.2.65" />
+        <verse sID="1Mac.2.66" osisID="1Mac.2.66" />Et Iudas Machabaeus, fortis viribus a iuventute sua, sit vobis princeps militiae, et ipse aget bellum populi.<verse eID="1Mac.2.66" />
+        <verse sID="1Mac.2.67" osisID="1Mac.2.67" />Et adducetis ad vos omnes factores legis: et vindicate vindictam populi vestri.<verse eID="1Mac.2.67" />
+        <verse sID="1Mac.2.68" osisID="1Mac.2.68" />Retribuite retributionem gentibus, et intendite in praeceptum legis.<verse eID="1Mac.2.68" />
+        <verse sID="1Mac.2.69" osisID="1Mac.2.69" />Et benedixit eos, et appositus est ad patres suos.<verse eID="1Mac.2.69" />
+        <verse sID="1Mac.2.70" osisID="1Mac.2.70" />Et defunctus est anno centesimo et quadragesimo sexto: et sepultus est a filiis suis in sepulchris patrum suorum in Modin, et planxerunt eum omnis Israël planctu magno.<verse eID="1Mac.2.70" />
+      </p>
+      <chapter eID="1Mac.2" />
+      <chapter sID="1Mac.3" osisID="1Mac.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="1Mac.3.1" osisID="1Mac.3.1" />Et surrexit Iudas, qui vocabatur Machabaeus, filius eius, pro eo:<verse eID="1Mac.3.1" />
+        <verse sID="1Mac.3.2" osisID="1Mac.3.2" />et adiuvabant eum omnes fratres eius, et universi qui se coniunxerant patri eius, et praeliabantur praelium Israël cum laetitia.<verse eID="1Mac.3.2" />
+        <verse sID="1Mac.3.3" osisID="1Mac.3.3" />Et dilatavit gloriam populo suo, et induit se loricam sicut gigas, et succinxit se arma bellica sua in praeliis, et protegebat castra gladio suo.<verse eID="1Mac.3.3" />
+        <verse sID="1Mac.3.4" osisID="1Mac.3.4" />Similis factus est leoni in operibus suis, et sicut catulus leonis rugiens in venatione.<verse eID="1Mac.3.4" />
+        <verse sID="1Mac.3.5" osisID="1Mac.3.5" />Et persecutus est iniquos perscrutans eos: et qui conturbabant populum suum, eos succendit flammis:<verse eID="1Mac.3.5" />
+        <verse sID="1Mac.3.6" osisID="1Mac.3.6" />et repulsi sunt inimici eius prae timore eius, et omnes operarii iniquitatis conturbati sunt: et directa est salus in manu eius.<verse eID="1Mac.3.6" />
+        <verse sID="1Mac.3.7" osisID="1Mac.3.7" />Et exacerbabat reges multos, et laetificabat Iacob in operibus suis, et in saeculum memoria eius in benedictione.<verse eID="1Mac.3.7" />
+        <verse sID="1Mac.3.8" osisID="1Mac.3.8" />Et perambulavit civitates Iuda, et perdidit impios ex eis, et avertit iram ab Israël.<verse eID="1Mac.3.8" />
+        <verse sID="1Mac.3.9" osisID="1Mac.3.9" />Et nominatus est usque ad novissimum terrae, et congregavit pereuntes.<verse eID="1Mac.3.9" />
+        <verse sID="1Mac.3.10" osisID="1Mac.3.10" />Et congregavit Apollonius gentes, et a Samaria virtutem multam et magnam ad bellandum contra Israël.<verse eID="1Mac.3.10" />
+        <verse sID="1Mac.3.11" osisID="1Mac.3.11" />Et cognovit Iudas, et exiit obviam illi: et percussit, et occidit illum: et ceciderunt vulnerati multi, et reliqui fugerunt.<verse eID="1Mac.3.11" />
+        <verse sID="1Mac.3.12" osisID="1Mac.3.12" />Et accepit spolia eorum: et gladium Apollonii abstulit Iudas, et erat pugnans in eo omnibus diebus.<verse eID="1Mac.3.12" />
+        <verse sID="1Mac.3.13" osisID="1Mac.3.13" />Et audivit Seron princeps exercitus Syriae, quod congregavit Iudas congregationem fidelium, et ecclesiam secum,<verse eID="1Mac.3.13" />
+        <verse sID="1Mac.3.14" osisID="1Mac.3.14" />et ait: Faciam mihi nomen, et glorificabor in regno, et debellabo Iudam, et eos qui cum ipso sunt, qui spernebant verbum regis.<verse eID="1Mac.3.14" />
+        <verse sID="1Mac.3.15" osisID="1Mac.3.15" />Et praeparavit se: et ascenderunt cum eo castra impiorum fortes auxiliarii ut facerent vindictam in filios Israël.<verse eID="1Mac.3.15" />
+        <verse sID="1Mac.3.16" osisID="1Mac.3.16" />Et appropinquaverunt usque ad Bethoron: et exivit Iudas obviam illi cum paucis.<verse eID="1Mac.3.16" />
+        <verse sID="1Mac.3.17" osisID="1Mac.3.17" />Ut autem viderunt exercitum venientem sibi obviam, dixerunt Iudae: Quomodo poterimus pauci pugnare contra multitudinem tantam, et tam fortem, et nos fatigati sumus ieiunio hodie?<verse eID="1Mac.3.17" />
+        <verse sID="1Mac.3.18" osisID="1Mac.3.18" />Et ait Iudas: Facile est concludi multos in manus paucorum: et non est differentia in conspectu Dei caeli liberare in multis, et in paucis:<verse eID="1Mac.3.18" />
+        <verse sID="1Mac.3.19" osisID="1Mac.3.19" />quoniam non in multitudine exercitus victoria belli, sed de caelo fortitudo est.<verse eID="1Mac.3.19" />
+        <verse sID="1Mac.3.20" osisID="1Mac.3.20" />Ipsi veniunt ad nos in multitudine contumaci, et superbia, ut disperdant nos, et uxores nostras, et filios nostros, et ut spolient nos:<verse eID="1Mac.3.20" />
+        <verse sID="1Mac.3.21" osisID="1Mac.3.21" />nos vero pugnabimus pro animabus nostris, et legibus nostris:<verse eID="1Mac.3.21" />
+        <verse sID="1Mac.3.22" osisID="1Mac.3.22" />et ipse Dominus conteret eos ante faciem nostram: vos autem ne timueritis eos.<verse eID="1Mac.3.22" />
+        <verse sID="1Mac.3.23" osisID="1Mac.3.23" />Ut cessavit autem loqui, insiluit in eos subito: et contritus est Seron et exercitus eius in conspectu ipsius:<verse eID="1Mac.3.23" />
+        <verse sID="1Mac.3.24" osisID="1Mac.3.24" />et persecutus est eum in descensu Bethoron usque in campum, et ceciderunt ex eis octingenti viri, reliqui autem fugerunt in terram Philisthiim.<verse eID="1Mac.3.24" />
+        <verse sID="1Mac.3.25" osisID="1Mac.3.25" />Et cecidit timor Iudae ac fratrum eius, et formido super omnes gentes in circuitu eorum:<verse eID="1Mac.3.25" />
+        <verse sID="1Mac.3.26" osisID="1Mac.3.26" />et pervenit ad regem nomen eius, et de praeliis Iudae narrabant omnes gentes.<verse eID="1Mac.3.26" />
+        <verse sID="1Mac.3.27" osisID="1Mac.3.27" />Ut audivit autem rex Antiochus sermones istos, iratus est animo: et misit, et congregavit exercitum universi regni sui, castra fortia valde:<verse eID="1Mac.3.27" />
+        <verse sID="1Mac.3.28" osisID="1Mac.3.28" />et aperuit aerarium suum, et dedit stipendia exercitui in annum: et mandavit illis ut essent parati ad omnia.<verse eID="1Mac.3.28" />
+        <verse sID="1Mac.3.29" osisID="1Mac.3.29" />Et vidit quod defecit pecunia de thesauris suis, et tributa regionis modica propter dissensionem et plagam quam fecit in terra, ut tolleret legitima, quae erant a primis diebus:<verse eID="1Mac.3.29" />
+        <verse sID="1Mac.3.30" osisID="1Mac.3.30" />et timuit ne non haberet ut semel et bis, in sumptus et donaria, quae dederat ante larga manu: et abundaverat super reges qui ante eum fuerant.<verse eID="1Mac.3.30" />
+        <verse sID="1Mac.3.31" osisID="1Mac.3.31" />Et consternatus erat animo valde, et cogitavit ire in Persidem, et accipere tributa regionum, et congregare argentum multum.<verse eID="1Mac.3.31" />
+        <verse sID="1Mac.3.32" osisID="1Mac.3.32" />Et reliquit Lysiam hominem nobilem de genere regali, super negotia regia, a flumine Euphrate usque ad flumen Aegypti,<verse eID="1Mac.3.32" />
+        <verse sID="1Mac.3.33" osisID="1Mac.3.33" />et ut nutriret Antiochum filium suum, donec rediret.<verse eID="1Mac.3.33" />
+        <verse sID="1Mac.3.34" osisID="1Mac.3.34" />Et tradidit ei medium exercitum, et elephantos: et mandavit ei de omnibus quae volebat, et de inhabitantibus Iudaeam, et Ierusalem:<verse eID="1Mac.3.34" />
+        <verse sID="1Mac.3.35" osisID="1Mac.3.35" />et ut mitteret ad eos exercitum ad conterendam et extirpandam virtutem Israël, et reliquias Ierusalem, et auferendam memoriam eorum de loco:<verse eID="1Mac.3.35" />
+        <verse sID="1Mac.3.36" osisID="1Mac.3.36" />et ut constitueret habitatores filios alienigenas in omnibus finibus eorum, et sorte distribueret terram eorum.<verse eID="1Mac.3.36" />
+        <verse sID="1Mac.3.37" osisID="1Mac.3.37" />Et rex assumpsit partem exercitus residui, et exivit ab Antiochia civitate regni sui anno centesimo et quadragesimo septimo: et transfretavit Euphraten flumen, et perambulabat superiores regiones.<verse eID="1Mac.3.37" />
+        <verse sID="1Mac.3.38" osisID="1Mac.3.38" />Et elegit Lysias Ptolemaeum filium Dorymini, et Nicanorem, et Gorgiam, viros potentes ex amicis regis:<verse eID="1Mac.3.38" />
+        <verse sID="1Mac.3.39" osisID="1Mac.3.39" />et misit cum eis quadraginta millia virorum, et septem millia equitum, ut venirent in terram Iuda, et disperderent eam secundum verbum regis.<verse eID="1Mac.3.39" />
+        <verse sID="1Mac.3.40" osisID="1Mac.3.40" />Et processerunt cum universa virtute sua, et venerunt, et applicuerunt Emmaum in terra campestri.<verse eID="1Mac.3.40" />
+        <verse sID="1Mac.3.41" osisID="1Mac.3.41" />Et audierunt mercatores regionum nomen eorum: et acceperunt argentum, et aurum multum valde, et pueros, et venerunt in castra ut acciperent filios Israël in servos, et additi sunt ad eos exercitus Syriae, et terrae alienigenarum.<verse eID="1Mac.3.41" />
+        <verse sID="1Mac.3.42" osisID="1Mac.3.42" />Et vidit Iudas et fratres eius, quia multiplicata sunt mala, et exercitus applicabant ad fines eorum: et cognoverunt verba regis, quae mandavit populo facere in interitum et consummationem:<verse eID="1Mac.3.42" />
+        <verse sID="1Mac.3.43" osisID="1Mac.3.43" />et dixerunt unusquisque ad proximum suum: Erigamus deiectionem populi nostri, et pugnemus pro populo nostro, et sanctis nostris.<verse eID="1Mac.3.43" />
+        <verse sID="1Mac.3.44" osisID="1Mac.3.44" />Et congregatus est conventus ut essent parati in praelium, et ut orarent et peterent misericordiam et miserationes.<verse eID="1Mac.3.44" />
+        <verse sID="1Mac.3.45" osisID="1Mac.3.45" />Et Ierusalem non habitabatur, sed erat sicut desertum: non erat qui ingrederetur et egrederetur de natis eius. Et sanctum conculcabatur: et filii alienigenarum erant in arce; ibi erat habitatio gentium: et ablata est voluptas a Iacob, et defecit ibi tibia et cithara.<verse eID="1Mac.3.45" />
+        <verse sID="1Mac.3.46" osisID="1Mac.3.46" />Et congregati sunt, et venerunt in Maspha contra Ierusalem, quia locus orationis erat in Maspha ante in Israël.<verse eID="1Mac.3.46" />
+        <verse sID="1Mac.3.47" osisID="1Mac.3.47" />Et ieiunaverunt illa die, et induerunt se ciliciis, et cinerem imposuerunt capiti suo, et disciderunt vestimenta sua:<verse eID="1Mac.3.47" />
+        <verse sID="1Mac.3.48" osisID="1Mac.3.48" />et expanderunt libros legis, de quibus scrutabantur gentes similitudinem simulacrorum suorum:<verse eID="1Mac.3.48" />
+        <verse sID="1Mac.3.49" osisID="1Mac.3.49" />et attulerunt ornamenta sacerdotalia, et primitias, et decimas: et suscitaverunt Nazaraeos, qui impleverant dies,<verse eID="1Mac.3.49" />
+        <verse sID="1Mac.3.50" osisID="1Mac.3.50" />et clamaverunt voce magna in caelum, dicentes: Quid faciemus istis, et quo eos ducemus?<verse eID="1Mac.3.50" />
+        <verse sID="1Mac.3.51" osisID="1Mac.3.51" />et sancta tua conculcata sunt, et contaminata sunt, et sacerdotes tui facti sunt in luctum, et in humilitatem:<verse eID="1Mac.3.51" />
+        <verse sID="1Mac.3.52" osisID="1Mac.3.52" />et ecce nationes convenerunt adversum nos ut nos disperdant: tu scis quae cogitant in nos.<verse eID="1Mac.3.52" />
+        <verse sID="1Mac.3.53" osisID="1Mac.3.53" />Quomodo poterimus subsistere ante faciem eorum, nisi tu, Deus, adiuves nos?<verse eID="1Mac.3.53" />
+        <verse sID="1Mac.3.54" osisID="1Mac.3.54" />Et tubis exclamaverunt voce magna.<verse eID="1Mac.3.54" />
+        <verse sID="1Mac.3.55" osisID="1Mac.3.55" />Et post haec constituit Iudas duces populi, tribunos, et centuriones, et pentacontarchos, et decuriones.<verse eID="1Mac.3.55" />
+        <verse sID="1Mac.3.56" osisID="1Mac.3.56" />Et dixit his, qui aedificabant domos, et sponsabant uxores, et plantabant vineas, et formidolosis, ut redirent unusquisque in domum suam secundum legem.<verse eID="1Mac.3.56" />
+        <verse sID="1Mac.3.57" osisID="1Mac.3.57" />Et moverunt castra, et collocaverunt ad austrum Emmaum.<verse eID="1Mac.3.57" />
+        <verse sID="1Mac.3.58" osisID="1Mac.3.58" />Et ait Iudas: Accingimini, et estote filii potentes, et estote parati in mane, ut pugnetis adversus nationes has quae convenerunt adversus nos disperdere nos, et sancta nostra:<verse eID="1Mac.3.58" />
+        <verse sID="1Mac.3.59" osisID="1Mac.3.59" />quoniam melius est nos mori in bello, quam videre mala gentis nostrae, et sanctorum.<verse eID="1Mac.3.59" />
+        <verse sID="1Mac.3.60" osisID="1Mac.3.60" />Sicut autem fuerit voluntas in caelo, sic fiat.<verse eID="1Mac.3.60" />
+      </p>
+      <chapter eID="1Mac.3" />
+      <chapter sID="1Mac.4" osisID="1Mac.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="1Mac.4.1" osisID="1Mac.4.1" />Et assumpsit Gorgias quinque millia virorum, et mille equites electos: et moverunt castra nocte,<verse eID="1Mac.4.1" />
+        <verse sID="1Mac.4.2" osisID="1Mac.4.2" />ut applicarent ad castra Iudaeorum, et percuterent eos subito: et filii, qui erant ex arce, erant illis duces.<verse eID="1Mac.4.2" />
+        <verse sID="1Mac.4.3" osisID="1Mac.4.3" />Et audivit Iudas, et surrexit ipse et potentes percutere virtutem exercituum regis, qui erant in Emmaum:<verse eID="1Mac.4.3" />
+        <verse sID="1Mac.4.4" osisID="1Mac.4.4" />adhuc enim dispersus erat exercitus a castris.<verse eID="1Mac.4.4" />
+        <verse sID="1Mac.4.5" osisID="1Mac.4.5" />Et venit Gorgias in castra Iudae noctu, et neminem invenit: et quaerebat eos in montibus, quoniam dixit: Fugiunt hi a nobis.<verse eID="1Mac.4.5" />
+        <verse sID="1Mac.4.6" osisID="1Mac.4.6" />Et cum dies factus esset, apparuit Iudas in campo cum tribus millibus virorum tantum, qui tegumenta et gladios non habebant:<verse eID="1Mac.4.6" />
+        <verse sID="1Mac.4.7" osisID="1Mac.4.7" />et viderunt castra gentium valida, et loricatos et equitatus in circuitu eorum, et hi docti ad praelium.<verse eID="1Mac.4.7" />
+        <verse sID="1Mac.4.8" osisID="1Mac.4.8" />Et ait Iudas viris, qui secum erant: Ne timueritis multitudinem eorum, et impetum eorum ne formidetis.<verse eID="1Mac.4.8" />
+        <verse sID="1Mac.4.9" osisID="1Mac.4.9" />Mementote qualiter salvi facti sunt patres nostri in mari Rubro, cum sequeretur eos Pharao cum exercitu multo.<verse eID="1Mac.4.9" />
+        <verse sID="1Mac.4.10" osisID="1Mac.4.10" />Et nunc clamemus in caelum: et miserebitur nostri Dominus, et memor erit testamenti patrum nostrorum, et conteret exercitum istum ante faciem nostram hodie:<verse eID="1Mac.4.10" />
+        <verse sID="1Mac.4.11" osisID="1Mac.4.11" />et scient omnes gentes quia est qui redimat et liberet Israël.<verse eID="1Mac.4.11" />
+        <verse sID="1Mac.4.12" osisID="1Mac.4.12" />Et elevaverunt alienigenae oculos suos, et viderunt eos venientes ex adverso.<verse eID="1Mac.4.12" />
+        <verse sID="1Mac.4.13" osisID="1Mac.4.13" />Et exierunt de castris in praelium, et tuba cecinerunt hi qui erant cum Iuda.<verse eID="1Mac.4.13" />
+        <verse sID="1Mac.4.14" osisID="1Mac.4.14" />Et congressi sunt: et contritae sunt gentes, et fugerunt in campum.<verse eID="1Mac.4.14" />
+        <verse sID="1Mac.4.15" osisID="1Mac.4.15" />Novissimi autem omnes ceciderunt in gladio, et persecuti sunt eos usque Gezeron, et usque in campos Idumaeae, et Azoti, et Iamniae: et ceciderunt ex illis usque ad tria millia virorum.<verse eID="1Mac.4.15" />
+        <verse sID="1Mac.4.16" osisID="1Mac.4.16" />Et reversus est Iudas, et exercitus eius sequens eum.<verse eID="1Mac.4.16" />
+        <verse sID="1Mac.4.17" osisID="1Mac.4.17" />Dixitque ad populum: Non concupiscatis spolia: quia bellum contra nos est,<verse eID="1Mac.4.17" />
+        <verse sID="1Mac.4.18" osisID="1Mac.4.18" />et Gorgias et exercitus eius prope nos in monte: sed state nunc contra inimicos nostros, et expugnate eos, et sumetis postea spolia securi.<verse eID="1Mac.4.18" />
+        <verse sID="1Mac.4.19" osisID="1Mac.4.19" />Et adhuc loquente Iuda haec, ecce apparuit pars quaedam prospiciens de monte.<verse eID="1Mac.4.19" />
+        <verse sID="1Mac.4.20" osisID="1Mac.4.20" />Et vidit Gorgias quod in fugam conversi sunt sui, et succenderunt castra: fumus enim, qui videbatur, declarabat quod factum est.<verse eID="1Mac.4.20" />
+        <verse sID="1Mac.4.21" osisID="1Mac.4.21" />Quibus illi conspectis timuerunt valde, aspicientes simul et Iudam, et exercitum in campo paratum ad praelium.<verse eID="1Mac.4.21" />
+        <verse sID="1Mac.4.22" osisID="1Mac.4.22" />Et fugerunt omnes in campum alienigenarum:<verse eID="1Mac.4.22" />
+        <verse sID="1Mac.4.23" osisID="1Mac.4.23" />et Iudas reversus est ad spolia castrorum, et acceperunt aurum multum, et argentum, et hyacinthinum, et purpuram marinam, et opes magnas.<verse eID="1Mac.4.23" />
+        <verse sID="1Mac.4.24" osisID="1Mac.4.24" />Et conversi, hymnum canebant, et benedicebant Deum in caelum, quoniam bonus est, quoniam in saeculum misericordia eius.<verse eID="1Mac.4.24" />
+        <verse sID="1Mac.4.25" osisID="1Mac.4.25" />Et facta est salus magna in Israël in die illa.<verse eID="1Mac.4.25" />
+        <verse sID="1Mac.4.26" osisID="1Mac.4.26" />Quicumque autem alienigenarum evaserunt, venerunt, et nuntiaverunt Lysiae universa quae acciderant.<verse eID="1Mac.4.26" />
+        <verse sID="1Mac.4.27" osisID="1Mac.4.27" />Quibus ille auditis, consternatus animo deficiebat: quod non qualia voluit, talia contigerunt in Israël, et qualia mandavit rex.<verse eID="1Mac.4.27" />
+        <verse sID="1Mac.4.28" osisID="1Mac.4.28" />Et sequenti anno, congregavit Lysias virorum electorum sexaginta millia, et equitum quinque millia, ut debellaret eos.<verse eID="1Mac.4.28" />
+        <verse sID="1Mac.4.29" osisID="1Mac.4.29" />Et venerunt in Iudaeam, et castra posuerunt in Bethoron, et occurrit illis Iudas cum decem millibus viris.<verse eID="1Mac.4.29" />
+        <verse sID="1Mac.4.30" osisID="1Mac.4.30" />Et viderunt exercitum fortem, et oravit, et dixit: Benedictus es, salvator Israël, qui contrivisti impetum potentis in manu servi tui David, et tradidisti castra alienigenarum in manu Ionathae filii Saul, et armigeri eius.<verse eID="1Mac.4.30" />
+        <verse sID="1Mac.4.31" osisID="1Mac.4.31" />Conclude exercitum istum in manu populi tui Israël, et confundantur in exercitu suo et equitibus.<verse eID="1Mac.4.31" />
+        <verse sID="1Mac.4.32" osisID="1Mac.4.32" />Da illis formidinem, et tabefac audaciam virtutis eorum, et commoveantur contritione sua.<verse eID="1Mac.4.32" />
+        <verse sID="1Mac.4.33" osisID="1Mac.4.33" />Deiice illos gladio diligentium te: et collaudent te omnes, qui noverunt nomen tuum, in hymnis.<verse eID="1Mac.4.33" />
+        <verse sID="1Mac.4.34" osisID="1Mac.4.34" />Et commiserunt praelium: et ceciderunt de exercitu Lysiae quinque millia virorum.<verse eID="1Mac.4.34" />
+        <verse sID="1Mac.4.35" osisID="1Mac.4.35" />Videns autem Lysias fugam suorum, et Iudaeorum audaciam, et quod parati sunt aut vivere, aut mori fortiter, abiit Antiochiam, et elegit milites, ut multiplicati rursus venirent in Iudaeam.<verse eID="1Mac.4.35" />
+        <verse sID="1Mac.4.36" osisID="1Mac.4.36" />Dixit autem Iudas, et fratres eius: Ecce contriti sunt inimici nostri: ascendamus nunc mundare sancta, et renovare.<verse eID="1Mac.4.36" />
+        <verse sID="1Mac.4.37" osisID="1Mac.4.37" />Et congregatus est omnis exercitus, et ascenderunt in montem Sion.<verse eID="1Mac.4.37" />
+        <verse sID="1Mac.4.38" osisID="1Mac.4.38" />Et viderunt sanctificationem desertam, et altare profanatum, et portas exustas, et in atriis virgulta nata sicut in saltu vel in montibus, et pastophoria diruta.<verse eID="1Mac.4.38" />
+        <verse sID="1Mac.4.39" osisID="1Mac.4.39" />Et sciderunt vestimenta sua, et planxerunt planctu magno, et imposuerunt cinerem super caput suum,<verse eID="1Mac.4.39" />
+        <verse sID="1Mac.4.40" osisID="1Mac.4.40" />et ceciderunt in faciem super terram, et exclamaverunt tubis signorum, et clamaverunt in caelum.<verse eID="1Mac.4.40" />
+        <verse sID="1Mac.4.41" osisID="1Mac.4.41" />Tunc ordinavit Iudas viros ut pugnarent adversus eos qui erant in arce, donec emundarent sancta.<verse eID="1Mac.4.41" />
+        <verse sID="1Mac.4.42" osisID="1Mac.4.42" />Et elegit sacerdotes sine macula, voluntatem habentes in lege Dei:<verse eID="1Mac.4.42" />
+        <verse sID="1Mac.4.43" osisID="1Mac.4.43" />et mundaverunt sancta, et tulerunt lapides contaminationis in locum immundum.<verse eID="1Mac.4.43" />
+        <verse sID="1Mac.4.44" osisID="1Mac.4.44" />Et cogitavit de altari holocaustorum, quod profanatum erat, quid de eo faceret.<verse eID="1Mac.4.44" />
+        <verse sID="1Mac.4.45" osisID="1Mac.4.45" />Et incidit illis consilium bonum ut destruerent illud: ne forte illis esset in opprobrium, quia contaminaverunt illud gentes, et demoliti sunt illud.<verse eID="1Mac.4.45" />
+        <verse sID="1Mac.4.46" osisID="1Mac.4.46" />Et reposuerunt lapides in monte domus in loco apto, quoadusque veniret propheta, et responderet de eis.<verse eID="1Mac.4.46" />
+        <verse sID="1Mac.4.47" osisID="1Mac.4.47" />Et acceperunt lapides integros secundum legem, et aedificaverunt altare novum secundum illud quod fuit prius:<verse eID="1Mac.4.47" />
+        <verse sID="1Mac.4.48" osisID="1Mac.4.48" />et aedificaverunt sancta, et quae intra domum erant intrinsecus: et aedem, et atria sanctificaverunt.<verse eID="1Mac.4.48" />
+        <verse sID="1Mac.4.49" osisID="1Mac.4.49" />Et fecerunt vasa sancta nova, et intulerunt candelabrum, et altare incensorum, et mensam, in templum.<verse eID="1Mac.4.49" />
+        <verse sID="1Mac.4.50" osisID="1Mac.4.50" />Et incensum posuerunt super altare, et accenderunt lucernas quae super candelabrum erant, et lucebant in templo.<verse eID="1Mac.4.50" />
+        <verse sID="1Mac.4.51" osisID="1Mac.4.51" />Et posuerunt super mensam panes, et appenderunt vela, et consummaverunt omnia opera quae fecerant.<verse eID="1Mac.4.51" />
+        <verse sID="1Mac.4.52" osisID="1Mac.4.52" />Et ante matutinum surrexerunt quinta et vigesima die mensis noni (hic est mensis Casleu) centesimi quadragesimi octavi anni:<verse eID="1Mac.4.52" />
+        <verse sID="1Mac.4.53" osisID="1Mac.4.53" />et obtulerunt sacrificium secundum legem super altare holocaustorum novum, quod fecerunt.<verse eID="1Mac.4.53" />
+        <verse sID="1Mac.4.54" osisID="1Mac.4.54" />Secundum tempus et secundum diem in qua contaminaverunt illud gentes, in ipsa renovatum est in canticis, et citharis, et cinyris, et in cymbalis.<verse eID="1Mac.4.54" />
+        <verse sID="1Mac.4.55" osisID="1Mac.4.55" />Et cecidit omnis populus in faciem, et adoraverunt, et benedixerunt in caelum eum, qui prosperavit eis.<verse eID="1Mac.4.55" />
+        <verse sID="1Mac.4.56" osisID="1Mac.4.56" />Et fecerunt dedicationem altaris diebus octo, et obtulerunt holocausta cum laetitia, et sacrificium salutaris et laudis.<verse eID="1Mac.4.56" />
+        <verse sID="1Mac.4.57" osisID="1Mac.4.57" />Et ornaverunt faciem templi coronis aureis et scutulis, et dedicaverunt portas et pastophoria, et imposuerunt eis ianuas.<verse eID="1Mac.4.57" />
+        <verse sID="1Mac.4.58" osisID="1Mac.4.58" />Et facta est laetitia in populo magna valde, et aversum est opprobrium gentium.<verse eID="1Mac.4.58" />
+        <verse sID="1Mac.4.59" osisID="1Mac.4.59" />Et statuit Iudas, et fratres eius, et universa ecclesia Israël, ut agatur dies dedicationis altaris in temporibus suis ab anno in annum per dies octo a quinta et vigesima die mensis Casleu, cum laetitia et gaudio.<verse eID="1Mac.4.59" />
+        <verse sID="1Mac.4.60" osisID="1Mac.4.60" />Et aedificaverunt in tempore illo montem Sion, et per circuitum muros altos et turres firmas, nequando venirent gentes, et conculcarent eum sicut antea fecerunt.<verse eID="1Mac.4.60" />
+        <verse sID="1Mac.4.61" osisID="1Mac.4.61" />Et collocavit illic exercitum, ut servarent eum, et munivit eum ad custodiendum Bethsuram, ut haberet populus munitionem contra faciem Idumaeae.<verse eID="1Mac.4.61" />
+      </p>
+      <chapter eID="1Mac.4" />
+      <chapter sID="1Mac.5" osisID="1Mac.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="1Mac.5.1" osisID="1Mac.5.1" />Et factum est, ut audierunt gentes in circuitu quia aedificatum est altare et sanctuarium sicut prius, iratae sunt valde:<verse eID="1Mac.5.1" />
+        <verse sID="1Mac.5.2" osisID="1Mac.5.2" />et cogitabant tollere genus Iacob, qui erant inter eos, et coeperunt occidere de populo, et persequi.<verse eID="1Mac.5.2" />
+        <verse sID="1Mac.5.3" osisID="1Mac.5.3" />Et debellabat Iudas filios Esau in Idumaea, et eos qui erant in Acrabathane, quia circumsedebant Israëlitas: et percussit eos plaga magna.<verse eID="1Mac.5.3" />
+        <verse sID="1Mac.5.4" osisID="1Mac.5.4" />Et recordatus est malitiam filiorum Bean, qui erant populo in laqueum et in scandalum, insidiantes ei in via.<verse eID="1Mac.5.4" />
+        <verse sID="1Mac.5.5" osisID="1Mac.5.5" />Et conclusi sunt ab eo in turribus, et applicuit ad eos, et anathematizavit eos, et incendit turres eorum igni cum omnibus qui in eis erant.<verse eID="1Mac.5.5" />
+        <verse sID="1Mac.5.6" osisID="1Mac.5.6" />Et transivit ad filios Ammon, et invenit manum fortem, et populum copiosum, et Timotheum ducem ipsorum:<verse eID="1Mac.5.6" />
+        <verse sID="1Mac.5.7" osisID="1Mac.5.7" />et commisit cum eis praelia multa, et contriti sunt in conspectu eorum, et percussit eos:<verse eID="1Mac.5.7" />
+        <verse sID="1Mac.5.8" osisID="1Mac.5.8" />et cepit Gazer civitatem et filias eius, et reversus est in Iudaeam.<verse eID="1Mac.5.8" />
+        <verse sID="1Mac.5.9" osisID="1Mac.5.9" />Et congregatae sunt gentes quae sunt in Galaad adversus Israëlitas, qui erant in finibus eorum, ut tollerent eos: et fugerunt in Datheman munitionem.<verse eID="1Mac.5.9" />
+        <verse sID="1Mac.5.10" osisID="1Mac.5.10" />Et miserunt litteras ad Iudam et fratres eius, dicentes: Congregatae sunt adversum nos gentes per circuitum, ut nos auferant,<verse eID="1Mac.5.10" />
+        <verse sID="1Mac.5.11" osisID="1Mac.5.11" />et parant venire, et occupare munitionem, in quam confugimus: et Timotheus est dux exercitus eorum.<verse eID="1Mac.5.11" />
+        <verse sID="1Mac.5.12" osisID="1Mac.5.12" />Nunc ergo veni, et eripe nos de manibus eorum, quia cecidit multitudo de nobis.<verse eID="1Mac.5.12" />
+        <verse sID="1Mac.5.13" osisID="1Mac.5.13" />Et omnes fratres nostri, qui erant in locis Tubin, interfecti sunt: et captivas duxerunt uxores eorum, et natos, et spolia, et peremerunt illic fere mille viros.<verse eID="1Mac.5.13" />
+        <verse sID="1Mac.5.14" osisID="1Mac.5.14" />Et adhuc epistolae legebantur, et ecce alii nuntii venerunt de Galilaea conscissis tunicis, nuntiantes secundum verba haec:<verse eID="1Mac.5.14" />
+        <verse sID="1Mac.5.15" osisID="1Mac.5.15" />dicentes convenisse adversum se a Ptolemaida, et Tyro, et Sidone: et repleta est omnis Galilaea alienigenis, ut nos consumant.<verse eID="1Mac.5.15" />
+        <verse sID="1Mac.5.16" osisID="1Mac.5.16" />Ut audivit autem Iudas et populus sermones istos, convenit ecclesia magna cogitare quid facerent fratribus suis, qui in tribulatione erant, et expugnabantur ab eis.<verse eID="1Mac.5.16" />
+        <verse sID="1Mac.5.17" osisID="1Mac.5.17" />Dixitque Iudas Simoni fratri suo: Elige tibi viros, et vade, et libera fratres tuos in Galilaea: ego autem et frater meus Ionathas ibimus in Galaaditim.<verse eID="1Mac.5.17" />
+        <verse sID="1Mac.5.18" osisID="1Mac.5.18" />Et reliquit Iosephum filium Zachariae, et Azariam, duces populi, cum residuo exercitu in Iudaea ad custodiam:<verse eID="1Mac.5.18" />
+        <verse sID="1Mac.5.19" osisID="1Mac.5.19" />et praecepit illis, dicens: Praeestote populo huic: et nolite bellum committere adversum gentes, donec revertamur.<verse eID="1Mac.5.19" />
+        <verse sID="1Mac.5.20" osisID="1Mac.5.20" />Et partiti sunt Simoni viri tria millia, ut iret in Galilaeam: Iudae autem octo millia in Galaaditim.<verse eID="1Mac.5.20" />
+        <verse sID="1Mac.5.21" osisID="1Mac.5.21" />Et abiit Simon in Galilaeam, et commisit praelia multa cum gentibus: et contritae sunt gentes a facie eius, et persecutus est eos usque ad portam<verse eID="1Mac.5.21" />
+        <verse sID="1Mac.5.22" osisID="1Mac.5.22" />Ptolemaidis: et ceciderunt de gentibus fere tria millia virorum. Et accepit spolia eorum,<verse eID="1Mac.5.22" />
+        <verse sID="1Mac.5.23" osisID="1Mac.5.23" />et assumpsit eos qui erant in Galilaea et in Arbatis, cum uxoribus, et natis, et omnibus quae erant illis, et adduxit in Iudaeam cum laetitia magna.<verse eID="1Mac.5.23" />
+        <verse sID="1Mac.5.24" osisID="1Mac.5.24" />Et Iudas Machabaeus, et Ionathas frater eius, transierunt Iordanem, et abierunt viam trium dierum per desertum.<verse eID="1Mac.5.24" />
+        <verse sID="1Mac.5.25" osisID="1Mac.5.25" />Et occurrerunt eis Nabuthaei, et susceperunt eos pacifice, et narraverunt eis omnia quae acciderant fratribus eorum in Galaaditide,<verse eID="1Mac.5.25" />
+        <verse sID="1Mac.5.26" osisID="1Mac.5.26" />et quia multi ex eis comprehensi sunt in Barasa, et Bosor, et in Alimis, et in Casphor, et Mageth, et Carnaim: hae omnes civitates munitae et magnae.<verse eID="1Mac.5.26" />
+        <verse sID="1Mac.5.27" osisID="1Mac.5.27" />Sed et in ceteris civitatibus Galaaditidis tenentur comprehensi, et in crastinum constituerunt admovere exercitum civitatibus his, et comprehendere, et tollere eos in una die.<verse eID="1Mac.5.27" />
+        <verse sID="1Mac.5.28" osisID="1Mac.5.28" />Et convertit Iudas et exercitus eius viam in desertum Bosor repente, et occupavit civitatem: et occidit omnem masculum in ore gladii, et accepit omnia spolia eorum, et succendit eam igni.<verse eID="1Mac.5.28" />
+        <verse sID="1Mac.5.29" osisID="1Mac.5.29" />Et surrexerunt inde nocte, et ibant usque ad munitionem.<verse eID="1Mac.5.29" />
+        <verse sID="1Mac.5.30" osisID="1Mac.5.30" />Et factum est diluculo, cum elevassent oculos suos, ecce populus multus, cuius non erat numerus, portantes scalas et machinas ut comprehenderent munitionem, et expugnarent eos.<verse eID="1Mac.5.30" />
+        <verse sID="1Mac.5.31" osisID="1Mac.5.31" />Et vidit Iudas quia coepit bellum, et clamor belli ascendit ad caelum sicut tuba, et clamor magnus de civitate:<verse eID="1Mac.5.31" />
+        <verse sID="1Mac.5.32" osisID="1Mac.5.32" />et dixit exercitui suo: Pugnate hodie pro fratribus vestris.<verse eID="1Mac.5.32" />
+        <verse sID="1Mac.5.33" osisID="1Mac.5.33" />Et venit tribus ordinibus post eos, et exclamaverunt tubis, et clamaverunt in oratione.<verse eID="1Mac.5.33" />
+        <verse sID="1Mac.5.34" osisID="1Mac.5.34" />Et cognoverunt castra Timothei quia Machabaeus est, et refugerunt a facie eius: et percusserunt eos plaga magna. Et ceciderunt ex eis in die illa fere octo millia virorum.<verse eID="1Mac.5.34" />
+        <verse sID="1Mac.5.35" osisID="1Mac.5.35" />Et divertit Iudas in Maspha, et expugnavit, et cepit eam: et occidit omnem masculum eius, et sumpsit spolia eius, et succendit eam igni.<verse eID="1Mac.5.35" />
+        <verse sID="1Mac.5.36" osisID="1Mac.5.36" />Inde perrexit, et cepit Casbon, et Mageth, et Bosor, et reliquas civitates Galaaditidis.<verse eID="1Mac.5.36" />
+        <verse sID="1Mac.5.37" osisID="1Mac.5.37" />Post haec autem verba congregavit Timotheus exercitum alium, et castra posuit contra Raphon trans torrentem.<verse eID="1Mac.5.37" />
+        <verse sID="1Mac.5.38" osisID="1Mac.5.38" />Et misit Iudas speculari exercitum: et renuntiaverunt ei, dicentes: Quia convenerunt ad eum omnes gentes quae in circuitu nostro sunt, exercitus multus nimis:<verse eID="1Mac.5.38" />
+        <verse sID="1Mac.5.39" osisID="1Mac.5.39" />et Arabas conduxerunt in auxilium sibi, et castra posuerunt trans torrentem, parati ad te venire in praelium. Et abiit Iudas obviam illis.<verse eID="1Mac.5.39" />
+        <verse sID="1Mac.5.40" osisID="1Mac.5.40" />Et ait Timotheus principibus exercitus sui: Cum appropinquaverit Iudas, et exercitus eius, ad torrentem aquae: si transierit ad nos prior, non poterimus sustinere eum, quia potens poterit adversum nos;<verse eID="1Mac.5.40" />
+        <verse sID="1Mac.5.41" osisID="1Mac.5.41" />si vero timuerit transire, et posuerit castra extra flumen, transfretamus ad eos, et poterimus adversus illum.<verse eID="1Mac.5.41" />
+        <verse sID="1Mac.5.42" osisID="1Mac.5.42" />Ut autem appropinquavit Iudas ad torrentem aquae, statuit scribas populi secus torrentem, et mandavit eis, dicens: Neminem hominem reliqueritis, sed veniant omnes in praelium.<verse eID="1Mac.5.42" />
+        <verse sID="1Mac.5.43" osisID="1Mac.5.43" />Et transfretavit ad illos prior, et omnis populus post eum, et contritae sunt omnes gentes a facie eorum, et proiecerunt arma sua, et fugerunt ad fanum, quod erat in Carnaim.<verse eID="1Mac.5.43" />
+        <verse sID="1Mac.5.44" osisID="1Mac.5.44" />Et occupavit ipsam civitatem, et fanum succendit igni cum omnibus qui erant in ipso: et oppressa est Carnaim, et non potuit sustinere contra faciem Iudae.<verse eID="1Mac.5.44" />
+        <verse sID="1Mac.5.45" osisID="1Mac.5.45" />Et congregavit Iudas universos Israëlitas, qui erant in Galaaditide, a minimo usque ad maximum, et uxores eorum, et natos, et exercitum magnum valde, ut venirent in terram Iuda.<verse eID="1Mac.5.45" />
+        <verse sID="1Mac.5.46" osisID="1Mac.5.46" />Et venerunt usque Ephron: et haec civitas magna in ingressu posita, munita valde, et non erat declinare ab ea dextera vel sinistra, sed per mediam iter erat.<verse eID="1Mac.5.46" />
+        <verse sID="1Mac.5.47" osisID="1Mac.5.47" />Et incluserunt se qui erant in civitate, et obstruxerunt portas lapidibus: et misit ad eos Iudas verbis pacificis,<verse eID="1Mac.5.47" />
+        <verse sID="1Mac.5.48" osisID="1Mac.5.48" />dicens: Transeamus per terram vestram, ut eamus in terram nostram: et nemo vobis nocebit, tantum pedibus transibimus. Et nolebant eis aperire.<verse eID="1Mac.5.48" />
+        <verse sID="1Mac.5.49" osisID="1Mac.5.49" />Et praecepit Iudas praedicare in castris, ut applicarent unusquisque in quo erat loco:<verse eID="1Mac.5.49" />
+        <verse sID="1Mac.5.50" osisID="1Mac.5.50" />et applicuerunt se viri virtutis, et oppugnavit civitatem illam tota die et tota nocte, et tradita est civitas in manu eius:<verse eID="1Mac.5.50" />
+        <verse sID="1Mac.5.51" osisID="1Mac.5.51" />et peremerunt omnem masculum in ore gladii, et eradicavit eam, et accepit spolia eius: et transivit per totam civitatem super interfectos.<verse eID="1Mac.5.51" />
+        <verse sID="1Mac.5.52" osisID="1Mac.5.52" />Et transgressi sunt Iordanem in campo magno, contra faciem Bethsan.<verse eID="1Mac.5.52" />
+        <verse sID="1Mac.5.53" osisID="1Mac.5.53" />Et erat Iudas congregans extremos, et exhortabatur populum per totam viam, donec venirent in terram Iuda:<verse eID="1Mac.5.53" />
+        <verse sID="1Mac.5.54" osisID="1Mac.5.54" />et ascenderunt in montem Sion cum laetitia, et gaudio, et obtulerunt holocausta, quod nemo ex eis cecidisset donec reverterentur in pace.<verse eID="1Mac.5.54" />
+        <verse sID="1Mac.5.55" osisID="1Mac.5.55" />Et in diebus quibus erat Iudas et Ionathas in terra Galaad, et Simon frater eius in Galilaea contra faciem Ptolemaidis,<verse eID="1Mac.5.55" />
+        <verse sID="1Mac.5.56" osisID="1Mac.5.56" />audivit Iosephus Zachariae filius, et Azarias princeps virtutis, res bene gestas, et praelia quae facta sunt,<verse eID="1Mac.5.56" />
+        <verse sID="1Mac.5.57" osisID="1Mac.5.57" />et dixit: Faciamus et ipsi nobis nomen, et eamus pugnare adversus gentes quae in circuitu nostro sunt.<verse eID="1Mac.5.57" />
+        <verse sID="1Mac.5.58" osisID="1Mac.5.58" />Et praecepit his qui erant in exercitu suo, et abierunt Iamniam.<verse eID="1Mac.5.58" />
+        <verse sID="1Mac.5.59" osisID="1Mac.5.59" />Et exivit Gorgias de civitate, et viri eius obviam illis in pugnam.<verse eID="1Mac.5.59" />
+        <verse sID="1Mac.5.60" osisID="1Mac.5.60" />Et fugati sunt Iosephus et Azarias usque in fines Iudaeae: et ceciderunt illo die de populo Israël ad duo millia viri, et facta est fuga magna in populo:<verse eID="1Mac.5.60" />
+        <verse sID="1Mac.5.61" osisID="1Mac.5.61" />quia non audierunt Iudam, et fratres eius, existimantes fortiter se facturos.<verse eID="1Mac.5.61" />
+        <verse sID="1Mac.5.62" osisID="1Mac.5.62" />Ipsi autem non erant de semine virorum illorum, per quos salus facta est in Israël.<verse eID="1Mac.5.62" />
+        <verse sID="1Mac.5.63" osisID="1Mac.5.63" />Et viri Iuda magnificati sunt valde in conspectu omnis Israël, et gentium omnium ubi audiebatur nomen eorum.<verse eID="1Mac.5.63" />
+        <verse sID="1Mac.5.64" osisID="1Mac.5.64" />Et convenerunt ad eos fausta acclamantes.<verse eID="1Mac.5.64" />
+        <verse sID="1Mac.5.65" osisID="1Mac.5.65" />Et exivit Iudas et fratres eius, et expugnabant filios Esau in terra quae ad austrum est, et percussit Chebron et filias eius: et muros eius, et turres succendit igni in circuitu.<verse eID="1Mac.5.65" />
+        <verse sID="1Mac.5.66" osisID="1Mac.5.66" />Et movit castra ut iret in terram alienigenarum, et perambulabat Samariam.<verse eID="1Mac.5.66" />
+        <verse sID="1Mac.5.67" osisID="1Mac.5.67" />In die illa ceciderunt sacerdotes in bello, dum volunt fortiter facere, dum sine consilio exeunt in praelium.<verse eID="1Mac.5.67" />
+        <verse sID="1Mac.5.68" osisID="1Mac.5.68" />Et declinavit Iudas in Azotum in terram alienigenarum, et diruit aras eorum, et sculptilia deorum ipsorum succendit igni: et cepit spolia civitatum, et reversus est in terram Iuda.<verse eID="1Mac.5.68" />
+      </p>
+      <chapter eID="1Mac.5" />
+      <chapter sID="1Mac.6" osisID="1Mac.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="1Mac.6.1" osisID="1Mac.6.1" />Et rex Antiochus perambulabat superiores regiones, et audivit esse civitatem Elymaidem in Perside nobilissimam, et copiosam in argento et auro,<verse eID="1Mac.6.1" />
+        <verse sID="1Mac.6.2" osisID="1Mac.6.2" />templumque in ea locuples valde, et illic velamina aurea, et loricae, et scuta, quae reliquit Alexander Philippi rex Macedo, qui regnavit primus in Graecia.<verse eID="1Mac.6.2" />
+        <verse sID="1Mac.6.3" osisID="1Mac.6.3" />Et venit, et quaerebat capere civitatem, et depraedari eam: et non potuit, quoniam innotuit sermo his qui erant in civitate:<verse eID="1Mac.6.3" />
+        <verse sID="1Mac.6.4" osisID="1Mac.6.4" />et insurrexerunt in praelium, et fugit inde, et abiit cum tristitia magna, et reversus est in Babyloniam.<verse eID="1Mac.6.4" />
+        <verse sID="1Mac.6.5" osisID="1Mac.6.5" />Et venit qui nuntiaret ei in Perside, quia fugata sunt castra quae erant in terra Iuda:<verse eID="1Mac.6.5" />
+        <verse sID="1Mac.6.6" osisID="1Mac.6.6" />et quia abiit Lysias cum virtute forti in primis, et fugatus est a facie Iudaeorum, et invaluerunt armis, et viribus, et spoliis multis, quae ceperunt de castris, quae exciderunt:<verse eID="1Mac.6.6" />
+        <verse sID="1Mac.6.7" osisID="1Mac.6.7" />et quia diruerunt abominationem, quam aedificaverat super altare quod erat in Ierusalem: et sanctificationem, sicut prius, circumdederunt muris excelsis, sed et Bethsuram civitatem suam.<verse eID="1Mac.6.7" />
+        <verse sID="1Mac.6.8" osisID="1Mac.6.8" />Et factum est ut audivit rex sermones istos, expavit, et commotus est valde: et decidit in lectum, et incidit in languorem prae tristitia, quia non factum est ei sicut cogitabat.<verse eID="1Mac.6.8" />
+        <verse sID="1Mac.6.9" osisID="1Mac.6.9" />Et erat illic per dies multos, quia renovata est in eo tristitia magna, et arbitratus est se mori.<verse eID="1Mac.6.9" />
+        <verse sID="1Mac.6.10" osisID="1Mac.6.10" />Et vocavit omnes amicos suos, et dixit illis: Recessit somnus ab oculis meis, et concidi, et corrui corde prae sollicitudine:<verse eID="1Mac.6.10" />
+        <verse sID="1Mac.6.11" osisID="1Mac.6.11" />et dixi in corde meo: In quantam tribulationem deveni, et in quos fluctus tristitiae, in qua nunc sum: qui iucundus eram, et dilectus in potestate mea!<verse eID="1Mac.6.11" />
+        <verse sID="1Mac.6.12" osisID="1Mac.6.12" />Nunc vero reminiscor malorum quae feci in Ierusalem, unde et abstuli omnia spolia aurea et argentea quae erant in ea, et misi auferre habitantes Iudaeam sine causa.<verse eID="1Mac.6.12" />
+        <verse sID="1Mac.6.13" osisID="1Mac.6.13" />Cognovi ergo quia propterea invenerunt me mala ista: et ecce pereo tristitia magna in terra aliena.<verse eID="1Mac.6.13" />
+        <verse sID="1Mac.6.14" osisID="1Mac.6.14" />Et vocavit Philippum, unum de amicis suis, et praeposuit eum super universum regnum suum:<verse eID="1Mac.6.14" />
+        <verse sID="1Mac.6.15" osisID="1Mac.6.15" />et dedit ei diadema, et stolam suam, et annulum, ut adduceret Antiochum filium suum, et nutriret eum, et regnaret.<verse eID="1Mac.6.15" />
+        <verse sID="1Mac.6.16" osisID="1Mac.6.16" />Et mortuus est illic Antiochus rex anno centesimo quadragesimo nono.<verse eID="1Mac.6.16" />
+        <verse sID="1Mac.6.17" osisID="1Mac.6.17" />Et cognovit Lysias quoniam mortuus est rex, et constituit regnare Antiochum filium eius, quem nutrivit adolescentem: et vocavit nomen eius Eupator.<verse eID="1Mac.6.17" />
+        <verse sID="1Mac.6.18" osisID="1Mac.6.18" />Et hi qui erant in arce, concluserant Israël in circuitu sanctorum: et quaerebant eis mala semper, et firmamentum gentium.<verse eID="1Mac.6.18" />
+        <verse sID="1Mac.6.19" osisID="1Mac.6.19" />Et cogitavit Iudas disperdere eos: et convocavit universum populum, ut obsiderent eos.<verse eID="1Mac.6.19" />
+        <verse sID="1Mac.6.20" osisID="1Mac.6.20" />Et convenerunt simul, et obsederunt eos anno centesimo quinquagesimo, et fecerunt ballistas et machinas.<verse eID="1Mac.6.20" />
+        <verse sID="1Mac.6.21" osisID="1Mac.6.21" />Et exierunt quidam ex eis qui obsidebantur: et adiunxerunt se illis aliqui impii ex Israël,<verse eID="1Mac.6.21" />
+        <verse sID="1Mac.6.22" osisID="1Mac.6.22" />et abierunt ad regem, et dixerunt: Quousque non facis iudicium, et vindicas fratres nostros?<verse eID="1Mac.6.22" />
+        <verse sID="1Mac.6.23" osisID="1Mac.6.23" />Nos decrevimus servire patri tuo, et ambulare in praeceptis eius, et obsequi edictis eius:<verse eID="1Mac.6.23" />
+        <verse sID="1Mac.6.24" osisID="1Mac.6.24" />et filii populi nostri propter hoc alienabant se a nobis, et quicumque inveniebantur ex nobis, interficiebantur, et haereditates nostrae diripiebantur.<verse eID="1Mac.6.24" />
+        <verse sID="1Mac.6.25" osisID="1Mac.6.25" />Et non ad nos tantum extenderunt manum, sed et in omnes fines nostros:<verse eID="1Mac.6.25" />
+        <verse sID="1Mac.6.26" osisID="1Mac.6.26" />et ecce applicuerunt hodie ad arcem Ierusalem occupare eam, et munitionem Bethsuram munierunt:<verse eID="1Mac.6.26" />
+        <verse sID="1Mac.6.27" osisID="1Mac.6.27" />et nisi praeveneris eos velocius, maiora quam haec facient, et non poteris obtinere eos.<verse eID="1Mac.6.27" />
+        <verse sID="1Mac.6.28" osisID="1Mac.6.28" />Et iratus est rex, ut haec audivit: et convocavit omnes amicos suos, et principes exercitus sui, et eos qui super equites erant:<verse eID="1Mac.6.28" />
+        <verse sID="1Mac.6.29" osisID="1Mac.6.29" />sed et de regnis aliis et de insulis maritimis venerunt ad eum exercitus conductitii.<verse eID="1Mac.6.29" />
+        <verse sID="1Mac.6.30" osisID="1Mac.6.30" />Et erat numerus exercitus eius, centum millia peditum, et viginti millia equitum, et elephanti triginta duo, docti ad praelium.<verse eID="1Mac.6.30" />
+        <verse sID="1Mac.6.31" osisID="1Mac.6.31" />Et venerunt per Idumaeam, et applicuerunt ad Bethsuram, et pugnaverunt dies multos: et fecerunt machinas, et exierunt, et succenderunt eas igni, et pugnaverunt viriliter.<verse eID="1Mac.6.31" />
+        <verse sID="1Mac.6.32" osisID="1Mac.6.32" />Et recessit Iudas ab arce, et movit castra ad Bethzacharam contra castra regis.<verse eID="1Mac.6.32" />
+        <verse sID="1Mac.6.33" osisID="1Mac.6.33" />Et surrexit rex ante lucem, et concitavit exercitus in impetum contra viam Bethzacharam: et comparaverunt se exercitus in praelium, et tubis cecinerunt:<verse eID="1Mac.6.33" />
+        <verse sID="1Mac.6.34" osisID="1Mac.6.34" />et elephantis ostenderunt sanguinem uvae et mori, ad acuendos eos in praelium:<verse eID="1Mac.6.34" />
+        <verse sID="1Mac.6.35" osisID="1Mac.6.35" />et diviserunt bestias per legiones, et astiterunt singulis elephantis mille viri in loricis concatenatis, et galeae aereae in capitibus eorum: et quingenti equites ordinati unicuique bestiae electi erant.<verse eID="1Mac.6.35" />
+        <verse sID="1Mac.6.36" osisID="1Mac.6.36" />Hi ante tempus, ubicumque erat bestia, ibi erant: et quocumque ibat, ibant, et non discedebant ab ea.<verse eID="1Mac.6.36" />
+        <verse sID="1Mac.6.37" osisID="1Mac.6.37" />Sed et turres ligneae super eos firmae protegentes super singulas bestias: et super eas machinae: et super singulas viri virtutis triginta duo, qui pugnabant desuper: et Indus magister bestiae.<verse eID="1Mac.6.37" />
+        <verse sID="1Mac.6.38" osisID="1Mac.6.38" />Et residuum equitatum hinc et inde statuit in duas partes, tubis exercitum commovere, et perurgere constipatos in legionibus eius.<verse eID="1Mac.6.38" />
+        <verse sID="1Mac.6.39" osisID="1Mac.6.39" />Et ut refulsit sol in clypeos aureos et aereos, resplenduerunt montes ab eis, et resplenduerunt sicut lampades ignis.<verse eID="1Mac.6.39" />
+        <verse sID="1Mac.6.40" osisID="1Mac.6.40" />Et distincta est pars exercitus regis per montes excelsos, et alia per loca humilia: et ibant caute et ordinate.<verse eID="1Mac.6.40" />
+        <verse sID="1Mac.6.41" osisID="1Mac.6.41" />Et commovebantur omnes inhabitantes terram a voce multitudinis, et incessu turbae, et collisione armorum: erat enim exercitus magnus valde, et fortis.<verse eID="1Mac.6.41" />
+        <verse sID="1Mac.6.42" osisID="1Mac.6.42" />Et appropiavit Iudas et exercitus eius in praelium, et ceciderunt de exercitu regis sexcenti viri.<verse eID="1Mac.6.42" />
+        <verse sID="1Mac.6.43" osisID="1Mac.6.43" />Et vidit Eleazar filius Saura unam de bestiis loricatam loricis regis: et erat eminens super ceteras bestias, et visum est ei quod in ea esset rex:<verse eID="1Mac.6.43" />
+        <verse sID="1Mac.6.44" osisID="1Mac.6.44" />et dedit se ut liberaret populum suum, et acquireret sibi nomen aeternum.<verse eID="1Mac.6.44" />
+        <verse sID="1Mac.6.45" osisID="1Mac.6.45" />Et cucurrit ad eam audacter in medio legionis, interficiens a dextris et a sinistris, et cadebant ab eo huc atque illuc.<verse eID="1Mac.6.45" />
+        <verse sID="1Mac.6.46" osisID="1Mac.6.46" />Et ivit sub pedes elephantis, et supposuit se ei, et occidit eum: et cecidit in terram super ipsum, et mortuus est illic.<verse eID="1Mac.6.46" />
+        <verse sID="1Mac.6.47" osisID="1Mac.6.47" />Et videntes virtutem regis, et impetum exercitus eius, diverterunt se ab eis.<verse eID="1Mac.6.47" />
+        <verse sID="1Mac.6.48" osisID="1Mac.6.48" />Castra autem regis ascenderunt contra eos in Ierusalem, et applicuerunt castra regis ad Iudaeam, et montem Sion.<verse eID="1Mac.6.48" />
+        <verse sID="1Mac.6.49" osisID="1Mac.6.49" />Et fecit pacem cum his qui erant in Bethsura: et exierunt de civitate, quia non erant eis ibi alimenta conclusis, quia sabbata erant terrae.<verse eID="1Mac.6.49" />
+        <verse sID="1Mac.6.50" osisID="1Mac.6.50" />Et comprehendit rex Bethsuram: et constituit illic custodiam servare eam.<verse eID="1Mac.6.50" />
+        <verse sID="1Mac.6.51" osisID="1Mac.6.51" />Et convertit castra ad locum sanctificationis dies multos: et statuit illic ballistas, et machinas, et ignis iacula, et tormenta ad lapides iactandos, et spicula, et scorpios ad mittendas sagittas, et fundibula.<verse eID="1Mac.6.51" />
+        <verse sID="1Mac.6.52" osisID="1Mac.6.52" />Fecerunt autem et ipsi machinas adversus machinas eorum, et pugnaverunt dies multos.<verse eID="1Mac.6.52" />
+        <verse sID="1Mac.6.53" osisID="1Mac.6.53" />Escae autem non erant in civitate, eo quod septimus annus esset: et qui remanserant in Iudaea de gentibus, consumpserant reliquias eorum, quae repositae fuerant.<verse eID="1Mac.6.53" />
+        <verse sID="1Mac.6.54" osisID="1Mac.6.54" />Et remanserunt in sanctis viri pauci, quoniam obtinuerat eos fames: et dispersi sunt unusquisque in locum suum.<verse eID="1Mac.6.54" />
+        <verse sID="1Mac.6.55" osisID="1Mac.6.55" />Et audivit Lysias quod Philippus, quem constituerat rex Antiochus cum adhuc viveret, ut nutriret Antiochum filium suum, et regnaret,<verse eID="1Mac.6.55" />
+        <verse sID="1Mac.6.56" osisID="1Mac.6.56" />reversus esset a Perside et Media, et exercitus qui abierat cum ipso, et quia quaerebat suscipere regni negotia:<verse eID="1Mac.6.56" />
+        <verse sID="1Mac.6.57" osisID="1Mac.6.57" />festinavit ire, et dicere ad regem, et duces exercitus: Deficimus quotidie, et esca nobis modica est; et locus, quem obsidemus, est munitus, et incumbit nobis ordinare de regno.<verse eID="1Mac.6.57" />
+        <verse sID="1Mac.6.58" osisID="1Mac.6.58" />Nunc itaque demus dextras hominibus istis, et faciamus cum illis pacem, et cum omni gente eorum:<verse eID="1Mac.6.58" />
+        <verse sID="1Mac.6.59" osisID="1Mac.6.59" />et constituamus illis ut ambulent in legitimis suis sicut prius: propter legitima enim ipsorum, quae despeximus, irati sunt, et fecerunt omnia haec.<verse eID="1Mac.6.59" />
+        <verse sID="1Mac.6.60" osisID="1Mac.6.60" />Et placuit sermo in conspectu regis et principum: et misit ad eos pacem facere, et receperunt illam.<verse eID="1Mac.6.60" />
+        <verse sID="1Mac.6.61" osisID="1Mac.6.61" />Et iuravit illis rex et principes, et exierunt de munitione.<verse eID="1Mac.6.61" />
+        <verse sID="1Mac.6.62" osisID="1Mac.6.62" />Et intravit rex montem Sion, et vidit munitionem loci: et rupit citius iuramentum quod iuravit, et mandavit destruere murum in gyro.<verse eID="1Mac.6.62" />
+        <verse sID="1Mac.6.63" osisID="1Mac.6.63" />Et discessit festinanter, et reversus est Antiochiam, et invenit Philippum dominantem civitati: et pugnavit adversus eum, et occupavit civitatem.<verse eID="1Mac.6.63" />
+      </p>
+      <chapter eID="1Mac.6" />
+      <chapter sID="1Mac.7" osisID="1Mac.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="1Mac.7.1" osisID="1Mac.7.1" />Anno centesimo quinquagesimo primo, exiit Demetrius Seleuci filius ab urbe Roma, et ascendit cum paucis viris in civitatem maritimam, et regnavit illic.<verse eID="1Mac.7.1" />
+        <verse sID="1Mac.7.2" osisID="1Mac.7.2" />Et factum est, ut ingressus est domum regni patrum suorum, comprehendit exercitus Antiochum et Lysiam, ut adducerent eos ad eum.<verse eID="1Mac.7.2" />
+        <verse sID="1Mac.7.3" osisID="1Mac.7.3" />Et res ei innotuit, et ait: Nolite mihi ostendere faciem eorum.<verse eID="1Mac.7.3" />
+        <verse sID="1Mac.7.4" osisID="1Mac.7.4" />Et occidit eos exercitus. Et sedit Demetrius super sedem regni sui.<verse eID="1Mac.7.4" />
+        <verse sID="1Mac.7.5" osisID="1Mac.7.5" />Et venerunt ad eum viri iniqui et impii ex Israël: et Alcimus dux eorum, qui volebat fieri sacerdos.<verse eID="1Mac.7.5" />
+        <verse sID="1Mac.7.6" osisID="1Mac.7.6" />Et accusaverunt populum apud regem, dicentes: Perdidit Iudas et fratres eius omnes amicos tuos, et nos dispersit de terra nostra.<verse eID="1Mac.7.6" />
+        <verse sID="1Mac.7.7" osisID="1Mac.7.7" />Nunc ergo mitte virum, cui credis, ut eat, et videat exterminium omne quod fecit nobis, et regionibus regis: et puniat omnes amicos eius, et adiutores eorum.<verse eID="1Mac.7.7" />
+        <verse sID="1Mac.7.8" osisID="1Mac.7.8" />Et elegit rex ex amicis suis Bacchidem, qui dominabatur trans flumen magnum in regno, et fidelem regi: et misit eum,<verse eID="1Mac.7.8" />
+        <verse sID="1Mac.7.9" osisID="1Mac.7.9" />ut videret exterminium quod fecit Iudas: sed et Alcimum impium constituit in sacerdotium, et mandavit ei facere ultionem in filios Israël.<verse eID="1Mac.7.9" />
+        <verse sID="1Mac.7.10" osisID="1Mac.7.10" />Et surrexerunt, et venerunt cum exercitu magno in terram Iuda: et miserunt nuntios, et locuti sunt ad Iudam et ad fratres eius verbis pacificis in dolo.<verse eID="1Mac.7.10" />
+        <verse sID="1Mac.7.11" osisID="1Mac.7.11" />Et non intenderunt sermonibus eorum: viderunt enim quia venerunt cum exercitu magno.<verse eID="1Mac.7.11" />
+        <verse sID="1Mac.7.12" osisID="1Mac.7.12" />Et convenerunt ad Alcimum et Bacchidem congregatio scribarum requirere quae iusta sunt:<verse eID="1Mac.7.12" />
+        <verse sID="1Mac.7.13" osisID="1Mac.7.13" />et primi, Assidaei qui erant in filiis Israël: et exquirebant ab eis pacem.<verse eID="1Mac.7.13" />
+        <verse sID="1Mac.7.14" osisID="1Mac.7.14" />Dixerunt enim: Homo sacerdos de semine Aaron venit; non decipiet nos:<verse eID="1Mac.7.14" />
+        <verse sID="1Mac.7.15" osisID="1Mac.7.15" />et locutus est cum eis verba pacifica, et iuravit illis, dicens: Non inferemus vobis malum, neque amicis vestris.<verse eID="1Mac.7.15" />
+        <verse sID="1Mac.7.16" osisID="1Mac.7.16" />Et crediderunt ei: et comprehendit ex eis sexaginta viros, et occidit eos in una die, secundum verbum quod scriptum est:<verse eID="1Mac.7.16" />
+        <verse sID="1Mac.7.17" osisID="1Mac.7.17" />Carnes sanctorum tuorum, et sanguinem ipsorum effuderunt in circuitu Ierusalem, et non erat qui sepeliret.<verse eID="1Mac.7.17" />
+        <verse sID="1Mac.7.18" osisID="1Mac.7.18" />Et incubuit timor et tremor in omnem populum: quia dixerunt: Non est veritas, et iudicium in eis: transgressi sunt enim constitutum, et iusiurandum quod iuraverunt.<verse eID="1Mac.7.18" />
+        <verse sID="1Mac.7.19" osisID="1Mac.7.19" />Et movit Bacchides castra ab Ierusalem, et applicuit in Bethzecha: et misit, et comprehendit multos ex eis qui a se effugerant: et quosdam de populo mactavit, et in puteum magnum proiecit.<verse eID="1Mac.7.19" />
+        <verse sID="1Mac.7.20" osisID="1Mac.7.20" />Et commisit regionem Alcimo, et reliquit cum eo auxilium in adiutorium ipsi. Et abiit Bacchides ad regem:<verse eID="1Mac.7.20" />
+        <verse sID="1Mac.7.21" osisID="1Mac.7.21" />et satis agebat Alcimus pro principatu sacerdotii sui:<verse eID="1Mac.7.21" />
+        <verse sID="1Mac.7.22" osisID="1Mac.7.22" />et convenerunt ad eum omnes, qui perturbabant populum suum, et obtinuerunt terram Iuda, et fecerunt plagam magnam in Israël.<verse eID="1Mac.7.22" />
+        <verse sID="1Mac.7.23" osisID="1Mac.7.23" />Et vidit Iudas omnia mala quae fecit Alcimus et qui cum eo erant filiis Israël, multo plus quam gentes:<verse eID="1Mac.7.23" />
+        <verse sID="1Mac.7.24" osisID="1Mac.7.24" />et exiit in omnes fines Iudaeae in circuitu, et fecit vindictam in viros desertores, et cessaverunt ultra exire in regionem.<verse eID="1Mac.7.24" />
+        <verse sID="1Mac.7.25" osisID="1Mac.7.25" />Vidit autem Alcimus quod praevaluit Iudas et qui cum eo erant, et cognovit quia non potest sustinere eos: et regressus est ad regem, et accusavit eos multis criminibus.<verse eID="1Mac.7.25" />
+        <verse sID="1Mac.7.26" osisID="1Mac.7.26" />Et misit rex Nicanorem, unum ex principibus suis nobilioribus, qui erat inimicitias exercens contra Israël: et mandavit ei evertere populum.<verse eID="1Mac.7.26" />
+        <verse sID="1Mac.7.27" osisID="1Mac.7.27" />Et venit Nicanor in Ierusalem cum exercitu magno, et misit ad Iudam et ad fratres eius verbis pacificis cum dolo,<verse eID="1Mac.7.27" />
+        <verse sID="1Mac.7.28" osisID="1Mac.7.28" />dicens: Non sit pugna inter me et vos: veniam cum viris paucis, ut videam facies vestras cum pace.<verse eID="1Mac.7.28" />
+        <verse sID="1Mac.7.29" osisID="1Mac.7.29" />Et venit ad Iudam, et salutaverunt se invicem pacifice: et hostes parati erant rapere Iudam.<verse eID="1Mac.7.29" />
+        <verse sID="1Mac.7.30" osisID="1Mac.7.30" />Et innotuit sermo Iudae quoniam cum dolo venerat ad eum: et conterritus est ab eo, et amplius noluit videre faciem eius.<verse eID="1Mac.7.30" />
+        <verse sID="1Mac.7.31" osisID="1Mac.7.31" />Et cognovit Nicanor quoniam denudatum est consilium eius: et exivit obviam Iudae in pugnam iuxta Capharsalama.<verse eID="1Mac.7.31" />
+        <verse sID="1Mac.7.32" osisID="1Mac.7.32" />Et ceciderunt de Nicanoris exercitu fere quinque millia viri, et fugerunt in civitatem David.<verse eID="1Mac.7.32" />
+        <verse sID="1Mac.7.33" osisID="1Mac.7.33" />Et post haec verba ascendit Nicanor in montem Sion: et exierunt de sacerdotibus populi salutare eum in pace, et demonstrare ei holocautomata, quae offerebantur pro rege.<verse eID="1Mac.7.33" />
+        <verse sID="1Mac.7.34" osisID="1Mac.7.34" />Et irridens sprevit eos, et polluit: et locutus est superbe,<verse eID="1Mac.7.34" />
+        <verse sID="1Mac.7.35" osisID="1Mac.7.35" />et iuravit cum ira, dicens: Nisi traditus fuerit Iudas et exercitus eius in manus meas, continuo cum regressus fuero in pace, succendam domum istam. Et exiit cum ira magna.<verse eID="1Mac.7.35" />
+        <verse sID="1Mac.7.36" osisID="1Mac.7.36" />Et intraverunt sacerdotes, et steterunt ante faciem altaris et templi, et flentes dixerunt:<verse eID="1Mac.7.36" />
+        <verse sID="1Mac.7.37" osisID="1Mac.7.37" />Tu, Domine, elegisti domum istam ad invocandum nomen tuum in ea, ut esset domus orationis et obsecrationis populo tuo:<verse eID="1Mac.7.37" />
+        <verse sID="1Mac.7.38" osisID="1Mac.7.38" />fac vindictam in homine isto et exercitu eius, et cadant in gladio: memento blasphemias eorum, et ne dederis eis ut permaneant.<verse eID="1Mac.7.38" />
+        <verse sID="1Mac.7.39" osisID="1Mac.7.39" />Et exiit Nicanor ab Ierusalem, et castra applicuit ad Bethoron: et occurrit illi exercitus Syriae.<verse eID="1Mac.7.39" />
+        <verse sID="1Mac.7.40" osisID="1Mac.7.40" />Et Iudas applicuit in Adarsa cum tribus millibus viris: et oravit Iudas, et dixit:<verse eID="1Mac.7.40" />
+        <verse sID="1Mac.7.41" osisID="1Mac.7.41" />Qui missi erant a rege Sennacherib, Domine, quia blasphemaverunt te, exiit angelus, et percussit ex eis centum octoginta quinque millia:<verse eID="1Mac.7.41" />
+        <verse sID="1Mac.7.42" osisID="1Mac.7.42" />sic contere exercitum istum in conspectu nostro hodie: et sciant ceteri quia male locutus est super sancta tua: et iudica illum secundum malitiam illius.<verse eID="1Mac.7.42" />
+        <verse sID="1Mac.7.43" osisID="1Mac.7.43" />Et commiserunt exercitus praelium tertiadecima die mensis Adar: et contrita sunt castra Nicanoris, et cecidit ipse primus in praelio.<verse eID="1Mac.7.43" />
+        <verse sID="1Mac.7.44" osisID="1Mac.7.44" />Ut autem vidit exercitus eius quia cecidisset Nicanor, proiecerunt arma sua, et fugerunt:<verse eID="1Mac.7.44" />
+        <verse sID="1Mac.7.45" osisID="1Mac.7.45" />et persecuti sunt eos viam unius diei ab Adazer usquequo veniatur in Gazara, et tubis cecinerunt post eos cum significationibus:<verse eID="1Mac.7.45" />
+        <verse sID="1Mac.7.46" osisID="1Mac.7.46" />et exierunt de omnibus castellis Iudaeae in circuitu, et ventilabant eos cornibus, et convertebantur iterum ad eos, et ceciderunt omnes gladio, et non est relictus ex eis nec unus.<verse eID="1Mac.7.46" />
+        <verse sID="1Mac.7.47" osisID="1Mac.7.47" />Et acceperunt spolia eorum in praedam: et caput Nicanoris amputaverunt, et dexteram eius, quam extenderat superbe, et attulerunt, et suspenderunt contra Ierusalem.<verse eID="1Mac.7.47" />
+        <verse sID="1Mac.7.48" osisID="1Mac.7.48" />Et laetatus est populus valde, et egerunt diem illam in laetitia magna.<verse eID="1Mac.7.48" />
+        <verse sID="1Mac.7.49" osisID="1Mac.7.49" />Et constituit agi omnibus annis diem istam tertiadecima die mensis Adar.<verse eID="1Mac.7.49" />
+        <verse sID="1Mac.7.50" osisID="1Mac.7.50" />Et siluit terra Iuda dies paucos.<verse eID="1Mac.7.50" />
+      </p>
+      <chapter eID="1Mac.7" />
+      <chapter sID="1Mac.8" osisID="1Mac.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="1Mac.8.1" osisID="1Mac.8.1" />Et audivit Iudas nomen Romanorum, quia sunt potentes viribus, et acquiescunt ad omnia quae postulantur ab eis, et quicumque accesserunt ad eos, statuerunt cum eis amicitias: et quia sunt potentes viribus.<verse eID="1Mac.8.1" />
+        <verse sID="1Mac.8.2" osisID="1Mac.8.2" />Et audierunt praelia eorum, et virtutes bonas, quas fecerunt in Galatia, quia obtinuerunt eos, et duxerunt sub tributum:<verse eID="1Mac.8.2" />
+        <verse sID="1Mac.8.3" osisID="1Mac.8.3" />et quanta fecerunt in regione Hispaniae, et quod in potestatem redegerunt metalla argenti et auri, quae illic sunt, et possederunt omnem locum consilio suo, et patientia:<verse eID="1Mac.8.3" />
+        <verse sID="1Mac.8.4" osisID="1Mac.8.4" />locaque quae longe erant valde ab eis, et reges, qui supervenerant eis ab extremis terrae, contriverunt, et percusserunt eos plaga magna: ceteri autem dant eis tributum omnibus annis.<verse eID="1Mac.8.4" />
+        <verse sID="1Mac.8.5" osisID="1Mac.8.5" />Et Philippum et Persen Ceteorum regem, et ceteros qui adversum eos arma tulerant, contriverunt in bello, et obtinuerunt eos:<verse eID="1Mac.8.5" />
+        <verse sID="1Mac.8.6" osisID="1Mac.8.6" />et Antiochum magnum regem Asiae, qui eis pugnam intulerat habens centum viginti elephantos, et equitatum, et currus, et exercitum magnum valde, contritum ab eis:<verse eID="1Mac.8.6" />
+        <verse sID="1Mac.8.7" osisID="1Mac.8.7" />et quia ceperunt eum vivum, et statuerunt ei ut daret ipse, et qui regnarent post ipsum, tributum magnum, et daret obsides, et constitutum,<verse eID="1Mac.8.7" />
+        <verse sID="1Mac.8.8" osisID="1Mac.8.8" />et regionem Indorum, et Medos, et Lydos, de optimis regionibus eorum: et acceptas eas ab eis, dederunt Eumeni regi,<verse eID="1Mac.8.8" />
+        <verse sID="1Mac.8.9" osisID="1Mac.8.9" />et quia qui erant apud Helladam, voluerunt ire, et tollere eos: et innotuit sermo his,<verse eID="1Mac.8.9" />
+        <verse sID="1Mac.8.10" osisID="1Mac.8.10" />et miserunt ad eos ducem unum, et pugnaverunt contra illos, et ceciderunt ex eis multi, et captivas duxerunt uxores eorum et filios, et diripuerunt eos, et terram eorum possederunt, et destruxerunt muros eorum, et in servitutem illos redegerunt usque in hunc diem:<verse eID="1Mac.8.10" />
+        <verse sID="1Mac.8.11" osisID="1Mac.8.11" />et residua regna, et insulas, quae aliquando restiterant illis, exterminaverunt, et in potestatem redegerunt.<verse eID="1Mac.8.11" />
+        <verse sID="1Mac.8.12" osisID="1Mac.8.12" />Cum amicis autem suis, et qui in ipsis requiem habebant, conservaverunt amicitiam, et obtinuerunt regna, quae erant proxima, et quae erant longe: quia quicumque audiebant nomen eorum, timebant eos:<verse eID="1Mac.8.12" />
+        <verse sID="1Mac.8.13" osisID="1Mac.8.13" />quibus vero vellent auxilio esse ut regnarent, regnabant: quos autem vellent, regno deturbabant: et exaltati sunt valde.<verse eID="1Mac.8.13" />
+        <verse sID="1Mac.8.14" osisID="1Mac.8.14" />Et in omnibus istis nemo portabat diadema, nec induebatur purpura, ut magnificaretur in ea.<verse eID="1Mac.8.14" />
+        <verse sID="1Mac.8.15" osisID="1Mac.8.15" />Et quia curiam fecerunt sibi, et quotidie consulebant trecentos viginti consilium agentes semper de multitudine, ut quae digna sunt, gerant:<verse eID="1Mac.8.15" />
+        <verse sID="1Mac.8.16" osisID="1Mac.8.16" />et committunt uni homini magistratum suum per singulos annos dominari universae terrae suae, et omnes obediunt uni, et non est invidia, neque zelus inter eos.<verse eID="1Mac.8.16" />
+        <verse sID="1Mac.8.17" osisID="1Mac.8.17" />Et elegit Iudas Eupolemum filium Ioannis filii Iacob, et Iasonem filium Eleazari, et misit eos Romam constituere cum illis amicitiam et societatem:<verse eID="1Mac.8.17" />
+        <verse sID="1Mac.8.18" osisID="1Mac.8.18" />et ut auferrent ab eis iugum Graecorum, quia viderunt quod in servitutem premerent regnum Israël.<verse eID="1Mac.8.18" />
+        <verse sID="1Mac.8.19" osisID="1Mac.8.19" />Et abierunt Romam viam multam valde, et introierunt curiam, et dixerunt:<verse eID="1Mac.8.19" />
+        <verse sID="1Mac.8.20" osisID="1Mac.8.20" />Iudas Machabaeus, et fratres eius, et populus Iudaeorum, miserunt nos ad vos statuere vobiscum societatem et pacem, et conscribere nos socios et amicos vestros.<verse eID="1Mac.8.20" />
+        <verse sID="1Mac.8.21" osisID="1Mac.8.21" />Et placuit sermo in conspectu eorum.<verse eID="1Mac.8.21" />
+        <verse sID="1Mac.8.22" osisID="1Mac.8.22" />Et hoc rescriptum est quod rescripserunt in tabulis aereis, et miserunt in Ierusalem, ut esset apud eos ibi memoriale pacis et societatis:<verse eID="1Mac.8.22" />
+        <verse sID="1Mac.8.23" osisID="1Mac.8.23" />Bene sit Romanis, et genti Iudaeorum, in mari et in terra in aeternum: gladiusque et hostis procul sit ab eis.<verse eID="1Mac.8.23" />
+        <verse sID="1Mac.8.24" osisID="1Mac.8.24" />Quod si institerit bellum Romanis prius, aut omnibus sociis eorum in omni dominatione eorum,<verse eID="1Mac.8.24" />
+        <verse sID="1Mac.8.25" osisID="1Mac.8.25" />auxilium feret gens Iudaeorum, prout tempus dictaverit, corde pleno:<verse eID="1Mac.8.25" />
+        <verse sID="1Mac.8.26" osisID="1Mac.8.26" />et praeliantibus non dabunt, neque subministrabunt triticum, arma, pecuniam, naves, sicut placuit Romanis: et custodient mandata eorum, nihil ab eis accipientes.<verse eID="1Mac.8.26" />
+        <verse sID="1Mac.8.27" osisID="1Mac.8.27" />Similiter autem et si genti Iudaeorum prius acciderit bellum, adiuvabunt Romani ex animo, prout eis tempus permiserit:<verse eID="1Mac.8.27" />
+        <verse sID="1Mac.8.28" osisID="1Mac.8.28" />et adiuvantibus non dabitur triticum, arma, pecunia, naves, sicut placuit Romanis: et custodient mandata eorum absque dolo:<verse eID="1Mac.8.28" />
+        <verse sID="1Mac.8.29" osisID="1Mac.8.29" />secundum haec verba constituerunt Romani populo Iudaeorum.<verse eID="1Mac.8.29" />
+        <verse sID="1Mac.8.30" osisID="1Mac.8.30" />Quod si post haec verba hi aut illi addere aut demere ad haec aliquid voluerint, facient ex proposito suo: et quaecumque addiderint, vel dempserint, rata erunt.<verse eID="1Mac.8.30" />
+        <verse sID="1Mac.8.31" osisID="1Mac.8.31" />Sed et de malis, quae Demetrius rex fecit in eos, scripsimus ei, dicentes: Quare gravasti iugum tuum super amicos nostros, et socios Iudaeos?<verse eID="1Mac.8.31" />
+        <verse sID="1Mac.8.32" osisID="1Mac.8.32" />si ergo iterum adierint nos, adversum te faciemus illis iudicium, et pugnabimus tecum mari terraque.<verse eID="1Mac.8.32" />
+      </p>
+      <chapter eID="1Mac.8" />
+      <chapter sID="1Mac.9" osisID="1Mac.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="1Mac.9.1" osisID="1Mac.9.1" />Interea, ut audivit Demetrius quia cecidit Nicanor et exercitus eius in praelio, apposuit Bacchidem et Alcimum rursum mittere in Iudaeam, et dextrum cornu cum illis.<verse eID="1Mac.9.1" />
+        <verse sID="1Mac.9.2" osisID="1Mac.9.2" />Et abierunt viam quae ducit in Galgala, et castra posuerunt in Masaloth, quae est in Arbellis: et occupaverunt eam, et peremerunt animas hominum multas.<verse eID="1Mac.9.2" />
+        <verse sID="1Mac.9.3" osisID="1Mac.9.3" />In mense primo anni centesimi et quinquagesimi secundi, applicuerunt exercitum ad Ierusalem:<verse eID="1Mac.9.3" />
+        <verse sID="1Mac.9.4" osisID="1Mac.9.4" />et surrexerunt, et abierunt in Beream viginti millia virorum, et duo millia equitum.<verse eID="1Mac.9.4" />
+        <verse sID="1Mac.9.5" osisID="1Mac.9.5" />Et Iudas posuerat castra in Laisa, et tria millia viri electi cum eo:<verse eID="1Mac.9.5" />
+        <verse sID="1Mac.9.6" osisID="1Mac.9.6" />et viderunt multitudinem exercitus, quia multi sunt, et timuerunt valde: et multi subtraxerunt se de castris, et non remanserunt ex eis nisi octingenti viri.<verse eID="1Mac.9.6" />
+        <verse sID="1Mac.9.7" osisID="1Mac.9.7" />Et vidit Iudas quod defluxit exercitus suus, et bellum perurgebat eum, et confractus est corde, quia non habebat tempus congregandi eos, et dissolutus est.<verse eID="1Mac.9.7" />
+        <verse sID="1Mac.9.8" osisID="1Mac.9.8" />Et dixit his qui residui erant: Surgamus, et eamus ad adversarios nostros, si poterimus pugnare adversus eos.<verse eID="1Mac.9.8" />
+        <verse sID="1Mac.9.9" osisID="1Mac.9.9" />Et avertebant eum, dicentes: Non poterimus, sed liberemus animas nostras modo, et revertamur ad fratres nostros, et tunc pugnabimus adversus eos: nos autem pauci sumus.<verse eID="1Mac.9.9" />
+        <verse sID="1Mac.9.10" osisID="1Mac.9.10" />Et ait Iudas: Absit istam rem facere ut fugiamus ab eis: et si appropiavit tempus nostrum, moriamur in virtute propter fratres nostros, et non inferamus crimen gloriae nostrae.<verse eID="1Mac.9.10" />
+        <verse sID="1Mac.9.11" osisID="1Mac.9.11" />Et movit exercitus de castris, et steterunt illis obviam: et divisi sunt equites in duas partes, et fundibularii et sagittarii praeibant exercitum, et primi certaminis omnes potentes.<verse eID="1Mac.9.11" />
+        <verse sID="1Mac.9.12" osisID="1Mac.9.12" />Bacchides autem erat in dextro cornu, et proximavit legio ex duabus partibus, et clamabant tubis:<verse eID="1Mac.9.12" />
+        <verse sID="1Mac.9.13" osisID="1Mac.9.13" />exclamaverunt autem et hi qui erant ex parte Iudae etiam ipsi, et commota est terra a voce exercituum: et commissum est praelium a mane usque ad vesperam.<verse eID="1Mac.9.13" />
+        <verse sID="1Mac.9.14" osisID="1Mac.9.14" />Et vidit Iudas quod firmior est pars exercitus Bacchidis in dextris, et convenerunt cum ipso omnes constantes corde:<verse eID="1Mac.9.14" />
+        <verse sID="1Mac.9.15" osisID="1Mac.9.15" />et contrita est dextera pars ab eis, et persecutus est eos usque ad montem Azoti.<verse eID="1Mac.9.15" />
+        <verse sID="1Mac.9.16" osisID="1Mac.9.16" />Et qui in sinistro cornu erant, viderunt quod contritum est dextrum cornu, et secuti sunt post Iudam, et eos qui cum ipso erant, a tergo:<verse eID="1Mac.9.16" />
+        <verse sID="1Mac.9.17" osisID="1Mac.9.17" />et ingravatum est praelium, et ceciderunt vulnerati multi ex his et ex illis.<verse eID="1Mac.9.17" />
+        <verse sID="1Mac.9.18" osisID="1Mac.9.18" />Et Iudas cecidit, et ceteri fugerunt.<verse eID="1Mac.9.18" />
+        <verse sID="1Mac.9.19" osisID="1Mac.9.19" />Et Ionathas et Simon tulerunt Iudam fratrem suum, et sepelierunt eum in sepulchro patrum suorum in civitate Modin.<verse eID="1Mac.9.19" />
+        <verse sID="1Mac.9.20" osisID="1Mac.9.20" />Et fleverunt eum omnis populus Israël planctu magno, et lugebant dies multos,<verse eID="1Mac.9.20" />
+        <verse sID="1Mac.9.21" osisID="1Mac.9.21" />et dixerunt: Quomodo cecidit potens, qui salvum faciebat populum Israël!<verse eID="1Mac.9.21" />
+        <verse sID="1Mac.9.22" osisID="1Mac.9.22" />Et cetera verba bellorum Iudae, et virtutum, quas fecit, et magnitudinis eius, non sunt descripta: multa enim erant valde.<verse eID="1Mac.9.22" />
+        <verse sID="1Mac.9.23" osisID="1Mac.9.23" />Et factum est: post obitum Iudae emerserunt iniqui in omnibus finibus Israël, et exorti sunt omnes qui operabantur iniquitatem.<verse eID="1Mac.9.23" />
+        <verse sID="1Mac.9.24" osisID="1Mac.9.24" />In diebus illis facta est fames magna valde, et tradidit se Bacchidi omnis regio eorum cum ipsis.<verse eID="1Mac.9.24" />
+        <verse sID="1Mac.9.25" osisID="1Mac.9.25" />Et elegit Bacchides viros impios, et constituit eos dominos regionis:<verse eID="1Mac.9.25" />
+        <verse sID="1Mac.9.26" osisID="1Mac.9.26" />et exquirebant, et perscrutabantur amicos Iudae, et adducebant eos ad Bacchidem, et vindicabat in illos, et illudebat.<verse eID="1Mac.9.26" />
+        <verse sID="1Mac.9.27" osisID="1Mac.9.27" />Et facta est tribulatio magna in Israël, qualis non fuit ex die qua non est visus propheta in Israël.<verse eID="1Mac.9.27" />
+        <verse sID="1Mac.9.28" osisID="1Mac.9.28" />Et congregati sunt omnes amici Iudae, et dixerunt Ionathae:<verse eID="1Mac.9.28" />
+        <verse sID="1Mac.9.29" osisID="1Mac.9.29" />Ex quo frater tuus Iudas defunctus est, vir similis ei non est, qui exeat contra inimicos nostros, Bacchidem et eos qui inimici sunt gentis nostrae.<verse eID="1Mac.9.29" />
+        <verse sID="1Mac.9.30" osisID="1Mac.9.30" />Nunc itaque, te hodie elegimus esse pro eo nobis in principem, et ducem ad bellandum bellum nostrum.<verse eID="1Mac.9.30" />
+        <verse sID="1Mac.9.31" osisID="1Mac.9.31" />Et suscepit Ionathas tempore illo principatum, et surrexit loco Iudae fratris sui.<verse eID="1Mac.9.31" />
+        <verse sID="1Mac.9.32" osisID="1Mac.9.32" />Et cognovit Bacchides, et quaerebat eum occidere.<verse eID="1Mac.9.32" />
+        <verse sID="1Mac.9.33" osisID="1Mac.9.33" />Et cognovit Ionathas, et Simon frater eius, et omnes qui cum eo erant: et fugerunt in desertum Thecuae et consederunt ad aquam lacus Asphar.<verse eID="1Mac.9.33" />
+        <verse sID="1Mac.9.34" osisID="1Mac.9.34" />Et cognovit Bacchides, et die sabbatorum venit ipse et omnis exercitus eius trans Iordanem.<verse eID="1Mac.9.34" />
+        <verse sID="1Mac.9.35" osisID="1Mac.9.35" />Et Ionathas misit fratrem suum ducem populi, et rogavit Nabuthaeos amicos suos, ut commodarent illis apparatum suum, qui erat copiosus.<verse eID="1Mac.9.35" />
+        <verse sID="1Mac.9.36" osisID="1Mac.9.36" />Et exierunt filii Iambri ex Madaba, et comprehenderunt Ioannem et omnia quae habebat, et abierunt habentes ea.<verse eID="1Mac.9.36" />
+        <verse sID="1Mac.9.37" osisID="1Mac.9.37" />Post haec verba, renuntiatum est Ionathae et Simoni fratri eius, quia filii Iambri faciunt nuptias magnas, et ducunt sponsam ex Madaba filiam unius de magnis principibus Chanaan cum ambitione magna.<verse eID="1Mac.9.37" />
+        <verse sID="1Mac.9.38" osisID="1Mac.9.38" />Et recordati sunt sanguinis Ioannis fratris sui: et ascenderunt, et absconderunt se sub tegumento montis.<verse eID="1Mac.9.38" />
+        <verse sID="1Mac.9.39" osisID="1Mac.9.39" />Et elevaverunt oculos suos, et viderunt: et ecce tumultus, et apparatus multus: et sponsus processit, et amici eius, et fratres eius obviam illis cum tympanis, et musicis, et armis multis.<verse eID="1Mac.9.39" />
+        <verse sID="1Mac.9.40" osisID="1Mac.9.40" />Et surrexerunt ad eos ex insidiis, et occiderunt eos, et ceciderunt vulnerati multi, et residui fugerunt in montes: et acceperunt omnia spolia eorum:<verse eID="1Mac.9.40" />
+        <verse sID="1Mac.9.41" osisID="1Mac.9.41" />et conversae sunt nuptiae in luctum, et vox musicorum ipsorum in lamentum.<verse eID="1Mac.9.41" />
+        <verse sID="1Mac.9.42" osisID="1Mac.9.42" />Et vindicaverunt vindictam sanguinis fratris sui: et reversi sunt ad ripam Iordanis.<verse eID="1Mac.9.42" />
+        <verse sID="1Mac.9.43" osisID="1Mac.9.43" />Et audivit Bacchides, et venit die sabbatorum usque ad oram Iordanis in virtute magna.<verse eID="1Mac.9.43" />
+        <verse sID="1Mac.9.44" osisID="1Mac.9.44" />Et dixit ad suos Ionathas: Surgamus, et pugnemus contra inimicos nostros: non est enim hodie sicut heri et nudiustertius:<verse eID="1Mac.9.44" />
+        <verse sID="1Mac.9.45" osisID="1Mac.9.45" />ecce enim bellum ex adverso, aqua vero Iordanis hinc et inde, et ripae, et paludes, et saltus: et non est locus divertendi.<verse eID="1Mac.9.45" />
+        <verse sID="1Mac.9.46" osisID="1Mac.9.46" />Nunc ergo, clamate in caelum, ut liberemini de manu inimicorum vestrorum. Et commissum est bellum.<verse eID="1Mac.9.46" />
+        <verse sID="1Mac.9.47" osisID="1Mac.9.47" />Et extendit Ionathas manum suam percutere Bacchidem, et divertit ab eo retro:<verse eID="1Mac.9.47" />
+        <verse sID="1Mac.9.48" osisID="1Mac.9.48" />et desiliit Ionathas, et qui cum eo erant, in Iordanem, et transnataverunt ad eos Iordanem.<verse eID="1Mac.9.48" />
+        <verse sID="1Mac.9.49" osisID="1Mac.9.49" />Et ceciderunt de parte Bacchidis die illa mille viri. Et reversi sunt in Ierusalem,<verse eID="1Mac.9.49" />
+        <verse sID="1Mac.9.50" osisID="1Mac.9.50" />et aedificaverunt civitates munitas in Iudaea, munitionem quae erat in Iericho, et in Ammaum, et in Bethoron, et in Bethel, et Thamnata, et Phara, et Thopo muris excelsis, et portis, et seris.<verse eID="1Mac.9.50" />
+        <verse sID="1Mac.9.51" osisID="1Mac.9.51" />Et posuit custodiam in eis, ut inimicitias exercerent in Israël:<verse eID="1Mac.9.51" />
+        <verse sID="1Mac.9.52" osisID="1Mac.9.52" />et munivit civitatem Bethsuram, et Gazaram, et arcem, et posuit in eis auxilia, et apparatum escarum:<verse eID="1Mac.9.52" />
+        <verse sID="1Mac.9.53" osisID="1Mac.9.53" />et accepit filios principum regionis obsides, et posuit eos in arce in Ierusalem in custodiam.<verse eID="1Mac.9.53" />
+        <verse sID="1Mac.9.54" osisID="1Mac.9.54" />Et anno centesimo quinquagesimo tertio, mense secundo, praecepit Alcimus destrui muros domus sanctae interioris, et destrui opera prophetarum: et coepit destruere.<verse eID="1Mac.9.54" />
+        <verse sID="1Mac.9.55" osisID="1Mac.9.55" />In tempore illo percussus est Alcimus: et impedita sunt opera illius, et occlusum est os eius, et dissolutus est paralysi, nec ultra potuit loqui verbum, et mandare de domo sua.<verse eID="1Mac.9.55" />
+        <verse sID="1Mac.9.56" osisID="1Mac.9.56" />Et mortuus est Alcimus in tempore illo cum tormento magno.<verse eID="1Mac.9.56" />
+        <verse sID="1Mac.9.57" osisID="1Mac.9.57" />Et vidit Bacchides quoniam mortuus est Alcimus, et reversus est ad regem. Et siluit terra annis duobus.<verse eID="1Mac.9.57" />
+        <verse sID="1Mac.9.58" osisID="1Mac.9.58" />Et cogitaverunt omnes iniqui, dicentes: Ecce Ionathas, et qui cum eo sunt, in silentio habitant confidenter: nunc ergo adducamus Bacchidem, et comprehendet eos omnes una nocte.<verse eID="1Mac.9.58" />
+        <verse sID="1Mac.9.59" osisID="1Mac.9.59" />Et abierunt, et consilium ei dederunt.<verse eID="1Mac.9.59" />
+        <verse sID="1Mac.9.60" osisID="1Mac.9.60" />Et surrexit ut veniret cum exercitu multo: et misit occulte epistolas sociis suis qui erant in Iudaea, ut comprehenderent Ionathan, et eos qui cum eo erant: sed non potuerunt, quia innotuit eis consilium eorum.<verse eID="1Mac.9.60" />
+        <verse sID="1Mac.9.61" osisID="1Mac.9.61" />Et apprehendit de viris regionis, qui principes erant malitiae, quinquaginta viros, et occidit eos:<verse eID="1Mac.9.61" />
+        <verse sID="1Mac.9.62" osisID="1Mac.9.62" />et secessit Ionathas, et Simon, et qui cum eo erant, in Bethbessen, quae est in deserto: et exstruxit diruta eius, et firmaverunt eam.<verse eID="1Mac.9.62" />
+        <verse sID="1Mac.9.63" osisID="1Mac.9.63" />Et cognovit Bacchides, et congregavit universam multitudinem suam: et his, qui de Iudaea erant, denuntiavit.<verse eID="1Mac.9.63" />
+        <verse sID="1Mac.9.64" osisID="1Mac.9.64" />Et venit, et castra posuit desuper Bethbessen: et oppugnavit eam dies multos, et fecit machinas.<verse eID="1Mac.9.64" />
+        <verse sID="1Mac.9.65" osisID="1Mac.9.65" />Et reliquit Ionathas Simonem fratrem suum in civitate, et exiit in regionem, et venit cum numero:<verse eID="1Mac.9.65" />
+        <verse sID="1Mac.9.66" osisID="1Mac.9.66" />et percussit Odaren et fratres eius, et filios Phaseron in tabernaculis ipsorum: et coepit caedere, et crescere in virtutibus.<verse eID="1Mac.9.66" />
+        <verse sID="1Mac.9.67" osisID="1Mac.9.67" />Simon vero, et qui cum ipso erant, exierunt de civitate, et succenderunt machinas,<verse eID="1Mac.9.67" />
+        <verse sID="1Mac.9.68" osisID="1Mac.9.68" />et pugnaverunt contra Bacchidem, et contritus est ab eis: et afflixerunt eum valde, quoniam consilium eius et congressus eius erat inanis.<verse eID="1Mac.9.68" />
+        <verse sID="1Mac.9.69" osisID="1Mac.9.69" />Et iratus contra viros iniquos, qui ei consilium dederant ut veniret in regionem ipsorum, multos ex eis occidit: ipse autem cogitavit cum reliquis abire in regionem suam.<verse eID="1Mac.9.69" />
+        <verse sID="1Mac.9.70" osisID="1Mac.9.70" />Et cognovit Ionathas: et misit ad eum legatos componere pacem cum ipso, et reddere ei captivitatem.<verse eID="1Mac.9.70" />
+        <verse sID="1Mac.9.71" osisID="1Mac.9.71" />Et libenter accepit, et fecit secundum verba eius, et iuravit se nihil facturum ei mali omnibus diebus vitae eius.<verse eID="1Mac.9.71" />
+        <verse sID="1Mac.9.72" osisID="1Mac.9.72" />Et reddidit ei captivitatem, quam prius erat praedatus de terra Iuda: et conversus abiit in terram suam, et non apposuit amplius venire in fines eius.<verse eID="1Mac.9.72" />
+        <verse sID="1Mac.9.73" osisID="1Mac.9.73" />Et cessavit gladius ex Israël: et habitavit Ionathas in Machmas, et coepit Ionathas ibi iudicare populum, et exterminavit impios ex Israël.<verse eID="1Mac.9.73" />
+      </p>
+      <chapter eID="1Mac.9" />
+      <chapter sID="1Mac.10" osisID="1Mac.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="1Mac.10.1" osisID="1Mac.10.1" />Et anno centesimo sexagesimo, ascendit Alexander Antiochi filius, qui cognominatus est Nobilis, et occupavit Ptolemaidam: et receperunt eum, et regnavit illic.<verse eID="1Mac.10.1" />
+        <verse sID="1Mac.10.2" osisID="1Mac.10.2" />Et audivit Demetrius rex, et congregavit exercitum copiosum valde, et exivit obviam illi in praelium.<verse eID="1Mac.10.2" />
+        <verse sID="1Mac.10.3" osisID="1Mac.10.3" />Et misit Demetrius epistolam ad Ionathan verbis pacificis, ut magnificaret eum.<verse eID="1Mac.10.3" />
+        <verse sID="1Mac.10.4" osisID="1Mac.10.4" />Dixit enim: Anticipemus facere pacem cum eo, priusquam faciat cum Alexandro adversum nos:<verse eID="1Mac.10.4" />
+        <verse sID="1Mac.10.5" osisID="1Mac.10.5" />recordabitur enim omnium malorum, quae fecimus in eum, et in fratrem eius, et in gentem eius.<verse eID="1Mac.10.5" />
+        <verse sID="1Mac.10.6" osisID="1Mac.10.6" />Et dedit ei potestatem congregandi exercitum, et fabricare arma, et esse ipsum socium eius: et obsides, qui erant in arce, iussit tradi ei.<verse eID="1Mac.10.6" />
+        <verse sID="1Mac.10.7" osisID="1Mac.10.7" />Et venit Ionathas in Ierusalem, et legit epistolas in auditu omnis populi, et eorum qui in arce erant.<verse eID="1Mac.10.7" />
+        <verse sID="1Mac.10.8" osisID="1Mac.10.8" />Et timuerunt timore magno, quoniam audierunt quod dedit ei rex potestatem congregandi exercitum.<verse eID="1Mac.10.8" />
+        <verse sID="1Mac.10.9" osisID="1Mac.10.9" />Et traditi sunt Ionathae obsides, et reddidit eos parentibus suis:<verse eID="1Mac.10.9" />
+        <verse sID="1Mac.10.10" osisID="1Mac.10.10" />et habitavit Ionathas in Ierusalem, et coepit aedificare et innovare civitatem.<verse eID="1Mac.10.10" />
+        <verse sID="1Mac.10.11" osisID="1Mac.10.11" />Et dixit facientibus opera ut exstruerent muros, et montem Sion in circuitu lapidibus quadratis ad munitionem: et ita fecerunt.<verse eID="1Mac.10.11" />
+        <verse sID="1Mac.10.12" osisID="1Mac.10.12" />Et fugerunt alienigenae, qui erant in munitionibus quas Bacchides aedificaverat:<verse eID="1Mac.10.12" />
+        <verse sID="1Mac.10.13" osisID="1Mac.10.13" />et reliquit unusquisque locum suum, et abiit in terram suam:<verse eID="1Mac.10.13" />
+        <verse sID="1Mac.10.14" osisID="1Mac.10.14" />tantum in Bethsura remanserunt aliqui ex his qui reliquerant legem et praecepta Dei: erat enim haec eis ad refugium.<verse eID="1Mac.10.14" />
+        <verse sID="1Mac.10.15" osisID="1Mac.10.15" />Et audivit Alexander rex promissa, quae promisit Demetrius Ionathae: et narraverunt ei praelia, et virtutes quas ipse fecit, et fratres eius, et labores quos laboraverunt:<verse eID="1Mac.10.15" />
+        <verse sID="1Mac.10.16" osisID="1Mac.10.16" />et ait: Numquid inveniemus aliquem virum talem? et nunc faciemus eum amicum, et socium nostrum.<verse eID="1Mac.10.16" />
+        <verse sID="1Mac.10.17" osisID="1Mac.10.17" />Et scripsit epistolam, et misit ei secundum haec verba, dicens:<verse eID="1Mac.10.17" />
+        <verse sID="1Mac.10.18" osisID="1Mac.10.18" />Rex Alexander fratri Ionathae salutem.<verse eID="1Mac.10.18" />
+        <verse sID="1Mac.10.19" osisID="1Mac.10.19" />Audivimus de te quod vir potens sis viribus, et aptus es ut sis amicus noster:<verse eID="1Mac.10.19" />
+        <verse sID="1Mac.10.20" osisID="1Mac.10.20" />et nunc constituimus te hodie summum sacerdotem gentis tuae, et ut amicus voceris regis (et misit ei purpuram, et coronam auream) et quae nostra sunt sentias nobiscum, et conserves amicitias ad nos.<verse eID="1Mac.10.20" />
+        <verse sID="1Mac.10.21" osisID="1Mac.10.21" />Et induit se Ionathas stola sancta septimo mense, anno centesimo sexagesimo, in die solemni scenopegiae: et congregavit exercitum, et fecit arma copiosa.<verse eID="1Mac.10.21" />
+        <verse sID="1Mac.10.22" osisID="1Mac.10.22" />Et audivit Demetrius verba ista, et contristatus est nimis, et ait:<verse eID="1Mac.10.22" />
+        <verse sID="1Mac.10.23" osisID="1Mac.10.23" />Quid hoc fecimus, quod praeoccupavit nos Alexander apprehendere amicitiam Iudaeorum ad munimen sui?<verse eID="1Mac.10.23" />
+        <verse sID="1Mac.10.24" osisID="1Mac.10.24" />scribam et ego illis verba deprecatoria, et dignitates, et dona, ut sint mecum in adiutorium.<verse eID="1Mac.10.24" />
+        <verse sID="1Mac.10.25" osisID="1Mac.10.25" />Et scripsit eis in haec verba: Rex Demetrius genti Iudaeorum salutem.<verse eID="1Mac.10.25" />
+        <verse sID="1Mac.10.26" osisID="1Mac.10.26" />Quoniam servastis ad nos pactum, et mansistis in amicitia nostra, et non accessistis ad inimicos nostros, audivimus, et gavisi sumus.<verse eID="1Mac.10.26" />
+        <verse sID="1Mac.10.27" osisID="1Mac.10.27" />Et nunc perseverate adhuc conservare ad nos fidem, et retribuemus vobis bona pro his quae fecistis nobiscum:<verse eID="1Mac.10.27" />
+        <verse sID="1Mac.10.28" osisID="1Mac.10.28" />et remittemus vobis praestationes multas, et dabimus vobis donationes.<verse eID="1Mac.10.28" />
+        <verse sID="1Mac.10.29" osisID="1Mac.10.29" />Et nunc absolvo vos et omnes Iudaeos a tributis, et pretia salis indulgeo, et coronas remitto, et tertias seminis:<verse eID="1Mac.10.29" />
+        <verse sID="1Mac.10.30" osisID="1Mac.10.30" />et dimidiam partem fructus ligni, quod est portionis meae, relinquo vobis ex hodierno die, et deinceps, ne accipiatur a terra Iuda, et a tribus civitatibus quae additae sunt illi ex Samaria et Galilaea; ex hodierna die et in totum tempus:<verse eID="1Mac.10.30" />
+        <verse sID="1Mac.10.31" osisID="1Mac.10.31" />et Ierusalem sit sancta, et libera cum finibus suis: et decimae et tributa ipsius sint.<verse eID="1Mac.10.31" />
+        <verse sID="1Mac.10.32" osisID="1Mac.10.32" />Remitto etiam potestatem arcis, quae est in Ierusalem: et do eam summo sacerdoti, ut constituat in ea viros quoscumque ipse elegerit, qui custodiant eam.<verse eID="1Mac.10.32" />
+        <verse sID="1Mac.10.33" osisID="1Mac.10.33" />Et omnem animam Iudaeorum, quae captiva est a terra Iuda in omni regno meo, relinquo liberam gratis, ut omnes a tributis solvantur, etiam pecorum suorum.<verse eID="1Mac.10.33" />
+        <verse sID="1Mac.10.34" osisID="1Mac.10.34" />Et omnes dies solemnes, et sabbata, et neomeniae, et dies decreti, et tres dies ante diem solemnem, et tres dies post diem solemnem, sint omnes immunitatis et remissionis omnibus Iudaeis, qui sunt in regno meo:<verse eID="1Mac.10.34" />
+        <verse sID="1Mac.10.35" osisID="1Mac.10.35" />et nemo habebit potestatem agere aliquid, et movere negotia adversus aliquem illorum in omni causa.<verse eID="1Mac.10.35" />
+        <verse sID="1Mac.10.36" osisID="1Mac.10.36" />Et ascribantur ex Iudaeis in exercitu regis ad triginta millia virorum: et dabuntur illis copiae ut oportet omnibus exercitibus regis, et ex eis ordinabuntur qui sint in munitionibus regis magni:<verse eID="1Mac.10.36" />
+        <verse sID="1Mac.10.37" osisID="1Mac.10.37" />et ex his constituentur super negotia regni, quae aguntur ex fide, et principes sint ex eis, et ambulent in legibus suis, sicut praecepit rex in terra Iuda.<verse eID="1Mac.10.37" />
+        <verse sID="1Mac.10.38" osisID="1Mac.10.38" />Et tres civitates, quae additae sunt Iudaeae ex regione Samariae, cum Iudaea reputentur: ut sint sub uno, et non obediant alii potestati, nisi summi sacerdotis.<verse eID="1Mac.10.38" />
+        <verse sID="1Mac.10.39" osisID="1Mac.10.39" />Ptolemaida et confines eius, quas dedi donum sanctis qui sunt in Ierusalem, ad necessarios sumptus sanctorum.<verse eID="1Mac.10.39" />
+        <verse sID="1Mac.10.40" osisID="1Mac.10.40" />Et ego do singulis annis quindecim millia siclorum argenti de rationibus regis, quae me contingunt:<verse eID="1Mac.10.40" />
+        <verse sID="1Mac.10.41" osisID="1Mac.10.41" />et omne quod reliquum fuerit, quod non reddiderant qui super negotia erant annis prioribus, ex hoc dabunt in opera domus.<verse eID="1Mac.10.41" />
+        <verse sID="1Mac.10.42" osisID="1Mac.10.42" />Et super haec quinque millia siclorum argenti, quae accipiebant de sanctorum ratione per singulos annos: et haec ad sacerdotes pertineant, qui ministerio funguntur.<verse eID="1Mac.10.42" />
+        <verse sID="1Mac.10.43" osisID="1Mac.10.43" />Et quicumque confugerint in templum quod est Ierosolymis, et in omnibus finibus eius, obnoxii regi in omni negotio dimittantur, et universa quae sunt eis in regno meo, libera habeant.<verse eID="1Mac.10.43" />
+        <verse sID="1Mac.10.44" osisID="1Mac.10.44" />Et ad aedificanda vel restauranda opera sanctorum, sumptus dabuntur de ratione regis:<verse eID="1Mac.10.44" />
+        <verse sID="1Mac.10.45" osisID="1Mac.10.45" />et ad exstruendos muros Ierusalem, et communiendos in circuitu, sumptus dabuntur de ratione regis, et ad construendos muros in Iudaea.<verse eID="1Mac.10.45" />
+        <verse sID="1Mac.10.46" osisID="1Mac.10.46" />Ut audivit autem Ionathas et populus sermones istos, non crediderunt eis, nec receperunt eos: quia recordati sunt malitiae magnae, quam fecerat in Israël, et tribulaverat eos valde.<verse eID="1Mac.10.46" />
+        <verse sID="1Mac.10.47" osisID="1Mac.10.47" />Et complacuit eis in Alexandrum, quia ipse fuerat eis princeps sermonum pacis, et ipsi auxilium ferebant omnibus diebus.<verse eID="1Mac.10.47" />
+        <verse sID="1Mac.10.48" osisID="1Mac.10.48" />Et congregavit rex Alexander exercitum magnum, et admovit castra contra Demetrium.<verse eID="1Mac.10.48" />
+        <verse sID="1Mac.10.49" osisID="1Mac.10.49" />Et commiserunt praelium duo reges, et fugit exercitus Demetrii, et insecutus est eum Alexander, et incubuit super eos.<verse eID="1Mac.10.49" />
+        <verse sID="1Mac.10.50" osisID="1Mac.10.50" />Et invaluit praelium nimis, donec occidit sol: et cecidit Demetrius in die illa.<verse eID="1Mac.10.50" />
+        <verse sID="1Mac.10.51" osisID="1Mac.10.51" />Et misit Alexander ad Ptolemaeum regem Aegypti legatos secundum haec verba, dicens:<verse eID="1Mac.10.51" />
+        <verse sID="1Mac.10.52" osisID="1Mac.10.52" />Quoniam regressus sum in regnum meum, et sedi in sede patrum meorum, et obtinui principatum, et contrivi Demetrium, et possedi regionem nostram,<verse eID="1Mac.10.52" />
+        <verse sID="1Mac.10.53" osisID="1Mac.10.53" />et commisi pugnam cum eo, et contritus est ipse et castra eius a nobis, et sedimus in sede regni eius:<verse eID="1Mac.10.53" />
+        <verse sID="1Mac.10.54" osisID="1Mac.10.54" />et nunc statuamus ad invicem amicitiam: et da mihi filiam tuam uxorem, et ego ero gener tuus, et dabo tibi dona, et ipsi, digna te.<verse eID="1Mac.10.54" />
+        <verse sID="1Mac.10.55" osisID="1Mac.10.55" />Et respondit rex Ptolemaeus, dicens: Felix dies, in qua reversus es ad terram patrum tuorum, et sedisti in sede regni eorum.<verse eID="1Mac.10.55" />
+        <verse sID="1Mac.10.56" osisID="1Mac.10.56" />Et nunc faciam tibi quod scripsisti: sed occurre mihi Ptolemaidam, ut videamus invicem nos, et spondeam tibi sicut dixisti.<verse eID="1Mac.10.56" />
+        <verse sID="1Mac.10.57" osisID="1Mac.10.57" />Et exivit Ptolemaeus de Aegypto, ipse et Cleopatra filia eius, et venit Ptolemaidam anno centesimo sexagesimo secundo.<verse eID="1Mac.10.57" />
+        <verse sID="1Mac.10.58" osisID="1Mac.10.58" />Et occurrit ei Alexander rex, et dedit ei Cleopatram filiam suam: et fecit nuntias eius Ptolemaidae, sicut reges in magna gloria.<verse eID="1Mac.10.58" />
+        <verse sID="1Mac.10.59" osisID="1Mac.10.59" />Et scripsit rex Alexander Ionathae, ut veniret obviam sibi.<verse eID="1Mac.10.59" />
+        <verse sID="1Mac.10.60" osisID="1Mac.10.60" />Et abiit cum gloria Ptolemaidam, et occurrit ibi duobus regibus, et dedit illis argentum multum, et aurum, et dona: et invenit gratiam in conspectu eorum.<verse eID="1Mac.10.60" />
+        <verse sID="1Mac.10.61" osisID="1Mac.10.61" />Et convenerunt adversus eum viri pestilentes ex Israël, viri iniqui interpellantes adversus eum: et non intendit ad eos rex.<verse eID="1Mac.10.61" />
+        <verse sID="1Mac.10.62" osisID="1Mac.10.62" />Et iussit spoliari Ionathan vestibus suis, et indui eum purpura: et ita fecerunt. Et collocavit eum rex sedere secum.<verse eID="1Mac.10.62" />
+        <verse sID="1Mac.10.63" osisID="1Mac.10.63" />Dixitque principibus suis: Exite cum eo in medium civitatis, et praedicate, ut nemo adversus eum interpellet de ullo negotio, nec quisquam ei molestus sit de ulla ratione.<verse eID="1Mac.10.63" />
+        <verse sID="1Mac.10.64" osisID="1Mac.10.64" />Et factum est, ut viderunt qui interpellabant gloriam eius, quae praedicabatur, et opertum eum purpura, fugerunt omnes:<verse eID="1Mac.10.64" />
+        <verse sID="1Mac.10.65" osisID="1Mac.10.65" />et magnificavit eum rex, et scripsit eum inter primos amicos, et posuit eum ducem, et participem principatus.<verse eID="1Mac.10.65" />
+        <verse sID="1Mac.10.66" osisID="1Mac.10.66" />Et reversus est Ionathas in Ierusalem cum pace et laetitia.<verse eID="1Mac.10.66" />
+        <verse sID="1Mac.10.67" osisID="1Mac.10.67" />In anno centesimo sexagesimo quinto, venit Demetrius filius Demetrii a Creta in terram patrum suorum.<verse eID="1Mac.10.67" />
+        <verse sID="1Mac.10.68" osisID="1Mac.10.68" />Et audivit Alexander rex, et contristatus est valde, et reversus est Antiochum.<verse eID="1Mac.10.68" />
+        <verse sID="1Mac.10.69" osisID="1Mac.10.69" />Et constituit Demetrius rex Apollonium ducem, qui praeerat Coelesyriae: et congregavit exercitum magnum, et accessit ad Iamniam: et misit ad Ionathan summum sacerdotem,<verse eID="1Mac.10.69" />
+        <verse sID="1Mac.10.70" osisID="1Mac.10.70" />dicens: Tu solus resistis nobis: ego autem factus sum in derisum, et in opprobrium, propterea quia tu potestatem adversum nos exerces in montibus.<verse eID="1Mac.10.70" />
+        <verse sID="1Mac.10.71" osisID="1Mac.10.71" />Nunc ergo si confidis in virtutibus tuis, descende ad nos in campum, et comparemus illic invicem: quia mecum est virtus bellorum.<verse eID="1Mac.10.71" />
+        <verse sID="1Mac.10.72" osisID="1Mac.10.72" />Interroga, et disce quis sum ego, et ceteri qui auxilio sunt mihi, qui et dicunt quia non potest stare pes vester ante faciem nostram, quia bis in fugam conversi sunt patres tui in terra sua:<verse eID="1Mac.10.72" />
+        <verse sID="1Mac.10.73" osisID="1Mac.10.73" />et nunc quomodo poteris sustinere equitatum et exercitum tantum in campo, ubi non est lapis, neque saxum, neque locus fugiendi?<verse eID="1Mac.10.73" />
+        <verse sID="1Mac.10.74" osisID="1Mac.10.74" />Ut audivit autem Ionathas sermones Apollonii, motus est animo: et elegit decem millia virorum, et exiit ab Ierusalem, et occurrit ei Simon frater eius in adiutorium:<verse eID="1Mac.10.74" />
+        <verse sID="1Mac.10.75" osisID="1Mac.10.75" />et applicuerunt castra in Ioppen, et exclusit eum a civitate, quia custodia Apollonii Ioppe erat: et oppugnavit eam.<verse eID="1Mac.10.75" />
+        <verse sID="1Mac.10.76" osisID="1Mac.10.76" />Et exterriti qui erant in civitate, aperuerunt ei, et obtinuit Ionathas Ioppen.<verse eID="1Mac.10.76" />
+        <verse sID="1Mac.10.77" osisID="1Mac.10.77" />Et audivit Apollonius, et admovit tria millia equitum, et exercitum multum.<verse eID="1Mac.10.77" />
+        <verse sID="1Mac.10.78" osisID="1Mac.10.78" />Et abiit Azotum tamquam iter faciens, et statim exiit in campum, eo quod haberet multitudinem equitum, et confideret in eis. Et insecutus est eum Ionathas in Azotum, et commiserunt praelium.<verse eID="1Mac.10.78" />
+        <verse sID="1Mac.10.79" osisID="1Mac.10.79" />Et reliquit Apollonius in castris mille equites post eos occulte.<verse eID="1Mac.10.79" />
+        <verse sID="1Mac.10.80" osisID="1Mac.10.80" />Et cognovit Ionathas quoniam insidiae sunt post se, et circuierunt castra eius, et iecerunt iacula in populum a mane usque ad vesperam.<verse eID="1Mac.10.80" />
+        <verse sID="1Mac.10.81" osisID="1Mac.10.81" />Populus autem stabat, sicut praeceperat Ionathas: et laboraverunt equi eorum.<verse eID="1Mac.10.81" />
+        <verse sID="1Mac.10.82" osisID="1Mac.10.82" />Et eiecit Simon exercitum suum, et commisit contra legionem: equites enim fatigati erant: et contriti sunt ab eo, et fugerunt.<verse eID="1Mac.10.82" />
+        <verse sID="1Mac.10.83" osisID="1Mac.10.83" />Et qui dispersi sunt per campum, fugerunt in Azotum, et intraverunt in Bethdagon idolum suum, ut ibi se liberarent.<verse eID="1Mac.10.83" />
+        <verse sID="1Mac.10.84" osisID="1Mac.10.84" />Et succendit Ionathas Azotum, et civitates quae erant in circuitu eius, et accepit spolia eorum, et templum Dagon: et omnes qui fugerunt in illud, succendit igni.<verse eID="1Mac.10.84" />
+        <verse sID="1Mac.10.85" osisID="1Mac.10.85" />Et fuerunt qui ceciderunt gladio, cum his qui succensi sunt, fere octo millia virorum.<verse eID="1Mac.10.85" />
+        <verse sID="1Mac.10.86" osisID="1Mac.10.86" />Et movit inde Ionathas castra, et applicuit ea Ascalonem: et exierunt de civitate obviam illi in magna gloria.<verse eID="1Mac.10.86" />
+        <verse sID="1Mac.10.87" osisID="1Mac.10.87" />Et reversus est Ionathas in Ierusalem cum suis, habentibus spolia multa.<verse eID="1Mac.10.87" />
+        <verse sID="1Mac.10.88" osisID="1Mac.10.88" />Et factum est, ut audivit Alexander rex sermones istos, addidit adhuc glorificare Ionathan.<verse eID="1Mac.10.88" />
+        <verse sID="1Mac.10.89" osisID="1Mac.10.89" />Et misit ei fibulam auream, sicut consuetudo est dari cognatis regum. Et dedit ei Accaron, et omnes fines eius, in possessionem.<verse eID="1Mac.10.89" />
+      </p>
+      <chapter eID="1Mac.10" />
+      <chapter sID="1Mac.11" osisID="1Mac.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="1Mac.11.1" osisID="1Mac.11.1" />Et rex Aegypti congregavit exercitum, sicut arena quae est circa oram maris, et naves multas: et quaerebat obtinere regnum Alexandri dolo, et addere illud regno suo.<verse eID="1Mac.11.1" />
+        <verse sID="1Mac.11.2" osisID="1Mac.11.2" />Et exiit in Syriam verbis pacificis, et aperiebant ei civitates, et occurrebant ei: quia mandaverat Alexander rex exire ei obviam, eo quod socer suus esset.<verse eID="1Mac.11.2" />
+        <verse sID="1Mac.11.3" osisID="1Mac.11.3" />Cum autem introiret civitatem Ptolemaeus, ponebat custodias militum in singulis civitatibus.<verse eID="1Mac.11.3" />
+        <verse sID="1Mac.11.4" osisID="1Mac.11.4" />Et ut appropiavit Azoto, ostenderunt ei templum Dagon succensum igni, et Azotum, et cetera eius demolita, et corpora proiecta, et eorum, qui caesi erant in bello, tumulos quos fecerant secus viam.<verse eID="1Mac.11.4" />
+        <verse sID="1Mac.11.5" osisID="1Mac.11.5" />Et narraverunt regi quia haec fecit Ionathas, ut invidiam facerent ei: et tacuit rex.<verse eID="1Mac.11.5" />
+        <verse sID="1Mac.11.6" osisID="1Mac.11.6" />Et occurrit Ionathas regi in Ioppen cum gloria, et invicem se salutaverunt, et dormierunt illic.<verse eID="1Mac.11.6" />
+        <verse sID="1Mac.11.7" osisID="1Mac.11.7" />Et abiit Ionathas cum rege usque ad fluvium qui vocatur Eleutherus: et reversus est in Ierusalem.<verse eID="1Mac.11.7" />
+        <verse sID="1Mac.11.8" osisID="1Mac.11.8" />Rex autem Ptolemaeus obtinuit dominium civitatum usque Seleuciam maritimam, et cogitabat in Alexandrum consilia mala.<verse eID="1Mac.11.8" />
+        <verse sID="1Mac.11.9" osisID="1Mac.11.9" />Et misit legatos ad Demetrium, dicens: Veni, componamus inter nos pactum, et dabo tibi filiam meam, quam habet Alexander, et regnabis in regno patris tui:<verse eID="1Mac.11.9" />
+        <verse sID="1Mac.11.10" osisID="1Mac.11.10" />poenitet enim me quod dederim illi filiam meam: quaesivit enim me occidere.<verse eID="1Mac.11.10" />
+        <verse sID="1Mac.11.11" osisID="1Mac.11.11" />Et vituperavit eum, propterea quod concupierat regnum eius.<verse eID="1Mac.11.11" />
+        <verse sID="1Mac.11.12" osisID="1Mac.11.12" />Et abstulit filiam suam, et dedit eam Demetrio, et alienavit se ab Alexandro, et manifestae sunt inimicitiae eius.<verse eID="1Mac.11.12" />
+        <verse sID="1Mac.11.13" osisID="1Mac.11.13" />Et intravit Ptolemaeus Antiochiam, et imposuit duo diademata capiti suo, Aegypti et Asiae.<verse eID="1Mac.11.13" />
+        <verse sID="1Mac.11.14" osisID="1Mac.11.14" />Alexander autem rex erat in Cilicia illis temporibus: quia rebellabant qui erant in locis illis.<verse eID="1Mac.11.14" />
+        <verse sID="1Mac.11.15" osisID="1Mac.11.15" />Et audivit Alexander, et venit ad eum in bellum: et produxit Ptolemaeus rex exercitum, et occurrit ei in manu valida, et fugavit eum.<verse eID="1Mac.11.15" />
+        <verse sID="1Mac.11.16" osisID="1Mac.11.16" />Et fugit Alexander in Arabiam, ut ibi protegeretur: rex autem Ptolemaeus exaltatus est.<verse eID="1Mac.11.16" />
+        <verse sID="1Mac.11.17" osisID="1Mac.11.17" />Et abstulit Zabdiel Arabs caput Alexandri, et misit Ptolemaeo.<verse eID="1Mac.11.17" />
+        <verse sID="1Mac.11.18" osisID="1Mac.11.18" />Et rex Ptolemaeus mortuus est in die tertia: et qui erant in munitionibus, perierunt ab his qui erant intra castra.<verse eID="1Mac.11.18" />
+        <verse sID="1Mac.11.19" osisID="1Mac.11.19" />Et regnavit Demetrius anno centesimo sexagesimo septimo.<verse eID="1Mac.11.19" />
+        <verse sID="1Mac.11.20" osisID="1Mac.11.20" />In diebus illis congregavit Ionathas eos qui erant in Iudaea, ut expugnarent arcem quae est in Ierusalem: et fecerunt contra eam machinas multas.<verse eID="1Mac.11.20" />
+        <verse sID="1Mac.11.21" osisID="1Mac.11.21" />Et abierunt quidam qui oderant gentem suam viri iniqui ad regem Demetrium, et renuntiaverunt ei quod Ionathas obsideret arcem.<verse eID="1Mac.11.21" />
+        <verse sID="1Mac.11.22" osisID="1Mac.11.22" />Et ut audivit, iratus est: et statim venit ad Ptolemaidam, et scripsit Ionathae ne obsideret arcem, sed occurreret sibi ad colloquium festinato.<verse eID="1Mac.11.22" />
+        <verse sID="1Mac.11.23" osisID="1Mac.11.23" />Ut audivit autem Ionathas, iussit obsidere: et elegit de senioribus Israël, et de sacerdotibus, et dedit se periculo.<verse eID="1Mac.11.23" />
+        <verse sID="1Mac.11.24" osisID="1Mac.11.24" />Et accepit aurum, et argentum, et vestem, et alia xenia multa, et abiit ad regem Ptolemaidam: et invenit gratiam in conspectu eius,<verse eID="1Mac.11.24" />
+        <verse sID="1Mac.11.25" osisID="1Mac.11.25" />et interpellabant adversus eum quidam iniqui ex gente sua.<verse eID="1Mac.11.25" />
+        <verse sID="1Mac.11.26" osisID="1Mac.11.26" />Et fecit ei rex sicut fecerant ei qui ante eum fuerant: et exaltavit eum in conspectu omnium amicorum suorum,<verse eID="1Mac.11.26" />
+        <verse sID="1Mac.11.27" osisID="1Mac.11.27" />et statuit ei principatum sacerdotii, et quaecumque alia habuit prius pretiosa, et fecit eum principem amicorum.<verse eID="1Mac.11.27" />
+        <verse sID="1Mac.11.28" osisID="1Mac.11.28" />Et postulavit Ionathas a rege ut immunem faceret Iudaeam, et tres toparchias, et Samariam et confines eius: et promisit ei talenta trecenta.<verse eID="1Mac.11.28" />
+        <verse sID="1Mac.11.29" osisID="1Mac.11.29" />Et consensit rex: et scripsit Ionathae epistolas de his omnibus, hunc modum continentes:<verse eID="1Mac.11.29" />
+        <verse sID="1Mac.11.30" osisID="1Mac.11.30" />Rex Demetrius fratri Ionathae salutem, et genti Iudaeorum.<verse eID="1Mac.11.30" />
+        <verse sID="1Mac.11.31" osisID="1Mac.11.31" />Exemplum epistolae, quam scripsimus Lastheni parenti nostro de vobis, misimus ad vos ut sciretis:<verse eID="1Mac.11.31" />
+        <verse sID="1Mac.11.32" osisID="1Mac.11.32" />Rex Demetrius Lastheni parenti salutem.<verse eID="1Mac.11.32" />
+        <verse sID="1Mac.11.33" osisID="1Mac.11.33" />Genti Iudaeorum amicis nostris, et conservantibus quae iusta sunt apud nos, decrevimus benefacere propter benignitatem ipsorum, quam erga nos habent.<verse eID="1Mac.11.33" />
+        <verse sID="1Mac.11.34" osisID="1Mac.11.34" />Statuimus ergo illis omnes fines Iudaeae, et tres civitates, Lydan, et Ramathan, quae additae sunt Iudaeae ex Samaria, et omnes confines earum, sequestrari omnibus sacrificantibus in Ierosolymis pro his quae ab eis prius accipiebat rex per singulos annos, et pro fructibus terrae et pomorum.<verse eID="1Mac.11.34" />
+        <verse sID="1Mac.11.35" osisID="1Mac.11.35" />Et alia quae ad nos pertinebant decimarum et tributorum ex hoc tempore, remittimus eis: et areas salinarum, et coronas, quae nobis deferebantur,<verse eID="1Mac.11.35" />
+        <verse sID="1Mac.11.36" osisID="1Mac.11.36" />omnia ipsis concedimus: et nihil horum irritum erit, ex hoc, et in omne tempus.<verse eID="1Mac.11.36" />
+        <verse sID="1Mac.11.37" osisID="1Mac.11.37" />Nunc ergo curate facere horum exemplum, et detur Ionathae, et ponatur in monte sancto, in loco celebri.<verse eID="1Mac.11.37" />
+        <verse sID="1Mac.11.38" osisID="1Mac.11.38" />Et videns Demetrius rex quod siluit terra in conspectu suo, et nihil ei resistit, dimisit totum exercitum suum, unumquemque in locum suum, excepto peregrino exercitu, quem contraxit ab insulis gentium: et inimici erant ei omnes exercitus patrum eius.<verse eID="1Mac.11.38" />
+        <verse sID="1Mac.11.39" osisID="1Mac.11.39" />Tryphon autem erat quidam partium Alexandri prius: et vidit quoniam omnis exercitus murmurabat contra Demetrium, et ivit ad Emalchuel Arabem, qui nutriebat Antiochum filium Alexandri:<verse eID="1Mac.11.39" />
+        <verse sID="1Mac.11.40" osisID="1Mac.11.40" />et assidebat ei, ut traderet eum ipsi, ut regnaret loco patris sui: et enuntiavit ei quanta fecit Demetrius, et inimicitias exercituum eius adversus illum. Et mansit ibi diebus multis.<verse eID="1Mac.11.40" />
+        <verse sID="1Mac.11.41" osisID="1Mac.11.41" />Et misit Ionathas ad Demetrium regem, ut eiiceret eos qui in arce erant in Ierusalem, et qui in praesidiis erant: quia impugnabant Israël.<verse eID="1Mac.11.41" />
+        <verse sID="1Mac.11.42" osisID="1Mac.11.42" />Et misit Demetrius ad Ionathan, dicens: Non haec tantum faciam tibi, et genti tuae, sed gloria illustrabo te, et gentem tuam, cum fuerit opportunum.<verse eID="1Mac.11.42" />
+        <verse sID="1Mac.11.43" osisID="1Mac.11.43" />Nunc ergo recte feceris, si miseris in auxilium mihi viros: quia discessit omnis exercitus meus.<verse eID="1Mac.11.43" />
+        <verse sID="1Mac.11.44" osisID="1Mac.11.44" />Et misit ei Ionathas tria millia virorum fortium Antiochiam: et venerunt ad regem, et delectatus est rex in adventu eorum.<verse eID="1Mac.11.44" />
+        <verse sID="1Mac.11.45" osisID="1Mac.11.45" />Et convenerunt qui erant de civitate, centum viginti millia virorum, et volebant interficere regem.<verse eID="1Mac.11.45" />
+        <verse sID="1Mac.11.46" osisID="1Mac.11.46" />Et fugit rex in aulam: et occupaverunt qui erant de civitate, itinera civitatis, et coeperunt pugnare.<verse eID="1Mac.11.46" />
+        <verse sID="1Mac.11.47" osisID="1Mac.11.47" />Et vocavit rex Iudaeos in auxilium, et convenerunt omnes simul ad eum, et dispersi sunt omnes per civitatem:<verse eID="1Mac.11.47" />
+        <verse sID="1Mac.11.48" osisID="1Mac.11.48" />et occiderunt in illa die centum millia hominum, et succenderunt civitatem, et ceperunt spolia multa in die illa, et liberaverunt regem.<verse eID="1Mac.11.48" />
+        <verse sID="1Mac.11.49" osisID="1Mac.11.49" />Et viderunt qui erant de civitate, quod obtinuissent Iudaei civitatem sicut volebant: et infirmati sunt mente sua, et clamaverunt ad regem cum precibus, dicentes:<verse eID="1Mac.11.49" />
+        <verse sID="1Mac.11.50" osisID="1Mac.11.50" />Da nobis dextras, et cessent Iudaei oppugnare nos, et civitatem.<verse eID="1Mac.11.50" />
+        <verse sID="1Mac.11.51" osisID="1Mac.11.51" />Et proiecerunt arma sua, et fecerunt pacem, et glorificati sunt Iudaei in conspectu regis, et in conspectu omnium qui erant in regno eius, et nominati sunt in regno: et regressi sunt in Ierusalem habentes spolia multa.<verse eID="1Mac.11.51" />
+        <verse sID="1Mac.11.52" osisID="1Mac.11.52" />Et sedit Demetrius rex in sede regni sui: et siluit terra in conspectu eius.<verse eID="1Mac.11.52" />
+        <verse sID="1Mac.11.53" osisID="1Mac.11.53" />Et mentitus est omnia quaecumque dixit, et abalienavit se a Ionatha, et non retribuit ei secundum beneficia quae sibi tribuerat, et vexabat eum valde.<verse eID="1Mac.11.53" />
+        <verse sID="1Mac.11.54" osisID="1Mac.11.54" />Post haec autem reversus est Tryphon, et Antiochus cum eo puer adolescens, et regnavit, et imposuit sibi diadema.<verse eID="1Mac.11.54" />
+        <verse sID="1Mac.11.55" osisID="1Mac.11.55" />Et congregati sunt ad eum omnes exercitus, quos disperserat Demetrius, et pugnaverunt contra eum: et fugit, et terga vertit.<verse eID="1Mac.11.55" />
+        <verse sID="1Mac.11.56" osisID="1Mac.11.56" />Et accepit Tryphon bestias, et obtinuit Antiochiam.<verse eID="1Mac.11.56" />
+        <verse sID="1Mac.11.57" osisID="1Mac.11.57" />Et scripsit Antiochus adolescens Ionathae, dicens: Constituo tibi sacerdotium, et constituo te super quatuor civitates, ut sis de amicis regis.<verse eID="1Mac.11.57" />
+        <verse sID="1Mac.11.58" osisID="1Mac.11.58" />Et misit illi vasa aurea in ministerium, et dedit ei potestatem bibendi in auro, et esse in purpura, et habere fibulam auream:<verse eID="1Mac.11.58" />
+        <verse sID="1Mac.11.59" osisID="1Mac.11.59" />et Simonem fratrem eius constituit ducem a terminis Tyri usque ad fines Aegypti.<verse eID="1Mac.11.59" />
+        <verse sID="1Mac.11.60" osisID="1Mac.11.60" />Et exiit Ionathas, et perambulabat trans flumen civitates: et congregatus est ad eum omnis exercitus Syriae in auxilium, et venit Ascalonem, et occurrerunt ei honorifice de civitate.<verse eID="1Mac.11.60" />
+        <verse sID="1Mac.11.61" osisID="1Mac.11.61" />Et abiit inde Gazam: et concluserunt se qui erant Gazae: et obsedit eam, et succendit quae erant in circuitu civitatis, et praedatus est ea.<verse eID="1Mac.11.61" />
+        <verse sID="1Mac.11.62" osisID="1Mac.11.62" />Et rogaverunt Gazenses Ionathan, et dedit illis dexteram: et accepit filios eorum obsides, et misit illos in Ierusalem: et perambulavit regionem usque Damascum.<verse eID="1Mac.11.62" />
+        <verse sID="1Mac.11.63" osisID="1Mac.11.63" />Et audivit Ionathas quod praevaricati sunt principes Demetrii in Cades, quae est in Galilaea, cum exercitu multo, volentes eum removere a negotio regni:<verse eID="1Mac.11.63" />
+        <verse sID="1Mac.11.64" osisID="1Mac.11.64" />et occurrit illis: fratrem autem suum Simonem reliquit intra provinciam.<verse eID="1Mac.11.64" />
+        <verse sID="1Mac.11.65" osisID="1Mac.11.65" />Et applicuit Simon ad Bethsuram, et expugnabat eam diebus multis, et conclusit eos.<verse eID="1Mac.11.65" />
+        <verse sID="1Mac.11.66" osisID="1Mac.11.66" />Et postulaverunt ab eo dextras accipere, et dedit illis: et eiecit eos inde, et cepit civitatem, et posuit in ea praesidium.<verse eID="1Mac.11.66" />
+        <verse sID="1Mac.11.67" osisID="1Mac.11.67" />Et Ionathas et castra eius applicuerunt ad aquam Genesar, et ante lucem vigilaverunt in campo Asor:<verse eID="1Mac.11.67" />
+        <verse sID="1Mac.11.68" osisID="1Mac.11.68" />et ecce castra alienigenarum occurrebant in campo, et tendebant ei insidias in montibus: ipse autem occurrit ex adverso.<verse eID="1Mac.11.68" />
+        <verse sID="1Mac.11.69" osisID="1Mac.11.69" />Insidiae vero exsurrexerunt de locis suis, et commiserunt praelium.<verse eID="1Mac.11.69" />
+        <verse sID="1Mac.11.70" osisID="1Mac.11.70" />Et fugerunt qui erant ex parte Ionathae omnes, et nemo relictus est ex eis, nisi Mathathias filius Absolomi, et Iudas filius Calphi, princeps militiae exercitus.<verse eID="1Mac.11.70" />
+        <verse sID="1Mac.11.71" osisID="1Mac.11.71" />Et scidit Ionathas vestimenta sua, et posuit terram in capite suo, et oravit.<verse eID="1Mac.11.71" />
+        <verse sID="1Mac.11.72" osisID="1Mac.11.72" />Et reversus est Ionathas ad eos in praelium, et convertit eos in fugam, et pugnaverunt.<verse eID="1Mac.11.72" />
+        <verse sID="1Mac.11.73" osisID="1Mac.11.73" />Et viderunt qui fugiebant partis illius, et reversi sunt ad eum, et insequebantur cum eo omnes usque Cades ad castra sua, et pervenerunt usque illuc:<verse eID="1Mac.11.73" />
+        <verse sID="1Mac.11.74" osisID="1Mac.11.74" />et ceciderunt de alienigenis in die illa tria millia virorum: et reversus est Ionathas in Ierusalem.<verse eID="1Mac.11.74" />
+      </p>
+      <chapter eID="1Mac.11" />
+      <chapter sID="1Mac.12" osisID="1Mac.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="1Mac.12.1" osisID="1Mac.12.1" />Et vidit Ionathas quia tempus eum iuvat, et elegit viros, et misit eos Romam statuere et renovare cum eis amicitiam:<verse eID="1Mac.12.1" />
+        <verse sID="1Mac.12.2" osisID="1Mac.12.2" />et ad Spartiatas, et ad alia loca misit epistolas secundum eamdem formam:<verse eID="1Mac.12.2" />
+        <verse sID="1Mac.12.3" osisID="1Mac.12.3" />et abierunt Romam, et intraverunt curiam, et dixerunt: Ionathas summus sacerdos, et gens Iudaeorum miserunt nos, ut renovaremus amicitiam et societatem secundum pristinum.<verse eID="1Mac.12.3" />
+        <verse sID="1Mac.12.4" osisID="1Mac.12.4" />Et dederunt illis epistolas ad ipsos per loca, ut deducerent eos in terram Iuda cum pace.<verse eID="1Mac.12.4" />
+        <verse sID="1Mac.12.5" osisID="1Mac.12.5" />Et hoc est exemplum epistolarum, quas scripsit Ionathas Spartiatis:<verse eID="1Mac.12.5" />
+        <verse sID="1Mac.12.6" osisID="1Mac.12.6" />Ionathas summus sacerdos, et seniores gentis, et sacerdotes, et reliquus populus Iudaeorum, Spartiatis fratribus salutem.<verse eID="1Mac.12.6" />
+        <verse sID="1Mac.12.7" osisID="1Mac.12.7" />Iampridem missae erant epistolae ad Oniam summum sacerdotem ab Ario, qui regnabat apud vos, quoniam estis fratres nostri, sicut rescriptum continet, quod subiectum est.<verse eID="1Mac.12.7" />
+        <verse sID="1Mac.12.8" osisID="1Mac.12.8" />Et suscepit Onias virum, qui missus fuerat, cum honore: et accepit epistolas, in quibus significabatur de societate et amicitia.<verse eID="1Mac.12.8" />
+        <verse sID="1Mac.12.9" osisID="1Mac.12.9" />Nos cum nullo horum indigeremus, habentes solatio sanctos libros, qui sunt in manibus nostris,<verse eID="1Mac.12.9" />
+        <verse sID="1Mac.12.10" osisID="1Mac.12.10" />maluimus mittere ad vos renovare fraternitatem et amicitiam, ne forte alieni efficiamur a vobis: multa enim tempora transierunt, ex quo misistis ad nos.<verse eID="1Mac.12.10" />
+        <verse sID="1Mac.12.11" osisID="1Mac.12.11" />Nos ergo in omni tempore sine intermissione in diebus solemnibus, et ceteris, quibus oportet, memores sumus vestri in sacrificiis quae offerimus, et in observationibus, sicut fas est, et decet meminisse fratrum.<verse eID="1Mac.12.11" />
+        <verse sID="1Mac.12.12" osisID="1Mac.12.12" />Laetamur itaque de gloria vestra.<verse eID="1Mac.12.12" />
+        <verse sID="1Mac.12.13" osisID="1Mac.12.13" />Nos autem circumdederunt multae tribulationes, et multa praelia, et impugnaverunt nos reges qui sunt in circuitu nostro.<verse eID="1Mac.12.13" />
+        <verse sID="1Mac.12.14" osisID="1Mac.12.14" />Noluimus ergo vobis molesti esse, neque ceteris sociis et amicis nostris in his praeliis:<verse eID="1Mac.12.14" />
+        <verse sID="1Mac.12.15" osisID="1Mac.12.15" />habuimus enim de caelo auxilium, et liberati sumus nos, et humiliati sunt inimici nostri.<verse eID="1Mac.12.15" />
+        <verse sID="1Mac.12.16" osisID="1Mac.12.16" />Elegimus itaque Numenium Antiochi filium, et Antipatrem Iasonis filium, et misimus ad Romanos renovare cum eis amicitiam et societatem pristinam.<verse eID="1Mac.12.16" />
+        <verse sID="1Mac.12.17" osisID="1Mac.12.17" />Mandavimus itaque eis ut veniant etiam ad vos, et salutent vos, et reddant vobis epistolas nostras de innovatione fraternitatis nostrae.<verse eID="1Mac.12.17" />
+        <verse sID="1Mac.12.18" osisID="1Mac.12.18" />Et nunc benefacietis respondentes nobis ad haec.<verse eID="1Mac.12.18" />
+        <verse sID="1Mac.12.19" osisID="1Mac.12.19" />Et hoc est rescriptum epistolarum quod miserat Oniae:<verse eID="1Mac.12.19" />
+        <verse sID="1Mac.12.20" osisID="1Mac.12.20" />Arius rex Spartiatarum Oniae sacerdoti magno salutem.<verse eID="1Mac.12.20" />
+        <verse sID="1Mac.12.21" osisID="1Mac.12.21" />Inventum est in scriptura de Spartiatis, et Iudaeis, quoniam sunt fratres, et quod sunt de genere Abraham.<verse eID="1Mac.12.21" />
+        <verse sID="1Mac.12.22" osisID="1Mac.12.22" />Et nunc ex quo haec cognovimus, benefacitis scribentes nobis de pace vestra.<verse eID="1Mac.12.22" />
+        <verse sID="1Mac.12.23" osisID="1Mac.12.23" />Sed et nos rescripsimus vobis: Pecora nostra, et possessiones nostrae, vestrae sunt: et vestrae, nostrae: mandavimus itaque haec nuntiari vobis.<verse eID="1Mac.12.23" />
+        <verse sID="1Mac.12.24" osisID="1Mac.12.24" />Et audivit Ionathas quoniam regressi sunt principes Demetrii cum exercitu multo supra quam prius, pugnare adversus eum:<verse eID="1Mac.12.24" />
+        <verse sID="1Mac.12.25" osisID="1Mac.12.25" />et exiit ab Ierusalem, et occurrit eis in Amathite regione: non enim dederat eis spatium ut ingrederentur regionem eius.<verse eID="1Mac.12.25" />
+        <verse sID="1Mac.12.26" osisID="1Mac.12.26" />Et misit speculatores in castra eorum: et reversi renuntiaverunt quod constituunt supervenire illis nocte.<verse eID="1Mac.12.26" />
+        <verse sID="1Mac.12.27" osisID="1Mac.12.27" />Cum occidisset autem sol, praecepit Ionathas suis vigilare, et esse in armis paratos ad pugnam tota nocte: et posuit custodes per circuitum castrorum.<verse eID="1Mac.12.27" />
+        <verse sID="1Mac.12.28" osisID="1Mac.12.28" />Et audierunt adversarii quod paratus est Ionathas cum suis in bello: et timuerunt, et formidaverunt in corde suo: et accenderunt focos in castris suis.<verse eID="1Mac.12.28" />
+        <verse sID="1Mac.12.29" osisID="1Mac.12.29" />Ionathas autem, et qui cum eo erant, non cognoverunt usque mane: videbant autem luminaria ardentia,<verse eID="1Mac.12.29" />
+        <verse sID="1Mac.12.30" osisID="1Mac.12.30" />et secutus est eos Ionathas, et non comprehendit eos: transierant enim flumen Eleutherum.<verse eID="1Mac.12.30" />
+        <verse sID="1Mac.12.31" osisID="1Mac.12.31" />Et divertit Ionathas ad Arabas, qui vocantur Zabadaei: et percussit eos, et accepit spolia eorum.<verse eID="1Mac.12.31" />
+        <verse sID="1Mac.12.32" osisID="1Mac.12.32" />Et iunxit, et venit Damascum, et perambulabat omnem regionem illam.<verse eID="1Mac.12.32" />
+        <verse sID="1Mac.12.33" osisID="1Mac.12.33" />Simon autem exiit, et venit usque ad Ascalonem, et ad proxima praesidia: et declinavit in Ioppen, et occupavit eam<verse eID="1Mac.12.33" />
+        <verse sID="1Mac.12.34" osisID="1Mac.12.34" />(audivit enim quod vellent praesidium tradere partibus Demetrii), et posuit ibi custodes ut custodirent eam.<verse eID="1Mac.12.34" />
+        <verse sID="1Mac.12.35" osisID="1Mac.12.35" />Et reversus est Ionathas, et convocavit seniores populi, et cogitavit cum eis aedificare praesidia in Iudaea,<verse eID="1Mac.12.35" />
+        <verse sID="1Mac.12.36" osisID="1Mac.12.36" />et aedificare muros in Ierusalem, et exaltare altitudinem magnam inter medium arcis et civitatis, ut separaret eam a civitate, ut esset ipsa singulariter, et neque emant, neque vendant.<verse eID="1Mac.12.36" />
+        <verse sID="1Mac.12.37" osisID="1Mac.12.37" />Et convenerunt ut aedificarent civitatem: et cecidit murus qui erat super torrentem ab ortu solis, et reparavit eum, qui vocatur Caphetetha:<verse eID="1Mac.12.37" />
+        <verse sID="1Mac.12.38" osisID="1Mac.12.38" />et Simon aedificavit Adiada in Sephela, et munivit eam, et imposuit portas et seras.<verse eID="1Mac.12.38" />
+        <verse sID="1Mac.12.39" osisID="1Mac.12.39" />Et cum cogitasset Tryphon regnare Asiae, et assumere diadema, et extendere manum in Antiochum regem:<verse eID="1Mac.12.39" />
+        <verse sID="1Mac.12.40" osisID="1Mac.12.40" />timens ne forte non permitteret eum Ionathas, sed pugnaret adversus eum, quaerebat comprehendere eum, et occidere. Et exsurgens abiit in Bethsan.<verse eID="1Mac.12.40" />
+        <verse sID="1Mac.12.41" osisID="1Mac.12.41" />Et exivit Ionathas obviam illi cum quadraginta millibus virorum electorum in praelium, et venit Bethsan.<verse eID="1Mac.12.41" />
+        <verse sID="1Mac.12.42" osisID="1Mac.12.42" />Et vidit Tryphon quia venit Ionathas cum exercitu multo ut extenderet in eum manus: timuit,<verse eID="1Mac.12.42" />
+        <verse sID="1Mac.12.43" osisID="1Mac.12.43" />et excepit eum cum honore, et commendavit eum omnibus amicis suis, et dedit ei munera: et praecepit exercitibus suis ut obedirent ei, sicut sibi.<verse eID="1Mac.12.43" />
+        <verse sID="1Mac.12.44" osisID="1Mac.12.44" />Et dixit Ionathae: Ut quid vexasti universum populum, cum bellum nobis non sit?<verse eID="1Mac.12.44" />
+        <verse sID="1Mac.12.45" osisID="1Mac.12.45" />et nunc remitte eos in domos suas: elige autem tibi viros paucos, qui tecum sint, et veni mecum Ptolemaidam, et tradam eam tibi, et reliqua praesidia, et exercitum, et universos praepositos negotii: et conversus abibo: propterea enim veni.<verse eID="1Mac.12.45" />
+        <verse sID="1Mac.12.46" osisID="1Mac.12.46" />Et credidit ei, et fecit sicut dixit: et dimisit exercitum, et abierunt in terram Iuda.<verse eID="1Mac.12.46" />
+        <verse sID="1Mac.12.47" osisID="1Mac.12.47" />Retinuit autem secum tria millia virorum: ex quibus remisit in Galilaeam duo millia: mille autem venerunt cum eo.<verse eID="1Mac.12.47" />
+        <verse sID="1Mac.12.48" osisID="1Mac.12.48" />Ut autem intravit Ptolemaidam Ionathas, clauserunt portas civitatis Ptolemenses, et comprehenderunt eum: et omnes qui cum eo intraverant, gladio interfecerunt.<verse eID="1Mac.12.48" />
+        <verse sID="1Mac.12.49" osisID="1Mac.12.49" />Et misit Tryphon exercitum et equites in Galilaeam et in campum magnum, ut perderent omnes socios Ionathae.<verse eID="1Mac.12.49" />
+        <verse sID="1Mac.12.50" osisID="1Mac.12.50" />At illi cum cognovissent quia comprehensus est Ionathas, et periit, et omnes qui cum eo erant, hortati sunt semetipsos, et exierunt parati in praelium.<verse eID="1Mac.12.50" />
+        <verse sID="1Mac.12.51" osisID="1Mac.12.51" />Et videntes hi qui insecuti fuerant, quia pro anima res est illis, reversi sunt:<verse eID="1Mac.12.51" />
+        <verse sID="1Mac.12.52" osisID="1Mac.12.52" />illi autem venerunt omnes cum pace in terram Iuda. Et planxerunt Ionathan, et eos qui cum ipso fuerant, valde: et luxit Israël luctu magno.<verse eID="1Mac.12.52" />
+        <verse sID="1Mac.12.53" osisID="1Mac.12.53" />Et quaesierunt omnes gentes quae erant in circuitu eorum conterere eos: dixerunt enim:<verse eID="1Mac.12.53" />
+        <verse sID="1Mac.12.54" osisID="1Mac.12.54" />Non habent principem et adiuvantem: nunc ergo expugnemus illos, et tollamus de hominibus memoriam eorum.<verse eID="1Mac.12.54" />
+      </p>
+      <chapter eID="1Mac.12" />
+      <chapter sID="1Mac.13" osisID="1Mac.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="1Mac.13.1" osisID="1Mac.13.1" />Et audivit Simon quod congregavit Tryphon exercitum copiosum ut veniret in terram Iuda, et attereret eam.<verse eID="1Mac.13.1" />
+        <verse sID="1Mac.13.2" osisID="1Mac.13.2" />Videns quia in tremore populus est, et in timore, ascendit Ierusalem, et congregavit populum:<verse eID="1Mac.13.2" />
+        <verse sID="1Mac.13.3" osisID="1Mac.13.3" />et adhortans dixit: Vos scitis quanta ego, et fratres mei, et domus patris mei, fecimus pro legibus et pro sanctis, praelia, et angustias quales vidimus:<verse eID="1Mac.13.3" />
+        <verse sID="1Mac.13.4" osisID="1Mac.13.4" />horum gratia perierunt fratres mei omnes propter Israël, et relictus sum ego solus.<verse eID="1Mac.13.4" />
+        <verse sID="1Mac.13.5" osisID="1Mac.13.5" />Et nunc non mihi contingat parcere animae meae in omni tempore tribulationis: non enim melior sum fratribus meis.<verse eID="1Mac.13.5" />
+        <verse sID="1Mac.13.6" osisID="1Mac.13.6" />Vindicabo itaque gentem meam, et sancta, natos quoque nostros, et uxores: quia congregatae sunt universae gentes conterere nos inimicitiae gratia.<verse eID="1Mac.13.6" />
+        <verse sID="1Mac.13.7" osisID="1Mac.13.7" />Et accensus est spiritus populi simul ut audivit sermones istos:<verse eID="1Mac.13.7" />
+        <verse sID="1Mac.13.8" osisID="1Mac.13.8" />et responderunt voce magna, dicentes: Tu es dux noster loco Iudae, et Ionathae fratris tui:<verse eID="1Mac.13.8" />
+        <verse sID="1Mac.13.9" osisID="1Mac.13.9" />pugna praelium nostrum: et omnia, quaecumque dixeris nobis, faciemus.<verse eID="1Mac.13.9" />
+        <verse sID="1Mac.13.10" osisID="1Mac.13.10" />Et congregans omnes viros bellatores, acceleravit consummare universos muros Ierusalem, et munivit eam in gyro.<verse eID="1Mac.13.10" />
+        <verse sID="1Mac.13.11" osisID="1Mac.13.11" />Et misit Ionathan filium Absalomi, et cum eo exercitum novum in Ioppen, et eiectis his qui erant in ea, remansit illic ipse.<verse eID="1Mac.13.11" />
+        <verse sID="1Mac.13.12" osisID="1Mac.13.12" />Et movit Tryphon a Ptolemaida cum exercitu multo, ut veniret in terram Iuda, et Ionathas cum eo in custodia.<verse eID="1Mac.13.12" />
+        <verse sID="1Mac.13.13" osisID="1Mac.13.13" />Simon autem applicuit in Addus contra faciem campi.<verse eID="1Mac.13.13" />
+        <verse sID="1Mac.13.14" osisID="1Mac.13.14" />Et ut cognovit Tryphon quia surrexit Simon loco fratris sui Ionathae, et quia commissurus esset cum eo praelium, misit ad eum legatos,<verse eID="1Mac.13.14" />
+        <verse sID="1Mac.13.15" osisID="1Mac.13.15" />dicens: Pro argento, quod debebat frater tuus Ionathas in ratione regis propter negotia quae habuit, detinuimus eum.<verse eID="1Mac.13.15" />
+        <verse sID="1Mac.13.16" osisID="1Mac.13.16" />Et nunc mitte argenti talenta centum, et duos filios eius obsides, ut non dimissus fugiat a nobis, et remittemus eum.<verse eID="1Mac.13.16" />
+        <verse sID="1Mac.13.17" osisID="1Mac.13.17" />Et cognovit Simon quia cum dolo loqueretur secum: iussit tamen dari argentum et pueros, ne inimicitiam magnam sumeret ad populum Israël, dicentem:<verse eID="1Mac.13.17" />
+        <verse sID="1Mac.13.18" osisID="1Mac.13.18" />Quia non misit ei argentum, et pueros, propterea periit.<verse eID="1Mac.13.18" />
+        <verse sID="1Mac.13.19" osisID="1Mac.13.19" />Et misit pueros, et centum talenta: et mentitus est, et non dimisit Ionathan.<verse eID="1Mac.13.19" />
+        <verse sID="1Mac.13.20" osisID="1Mac.13.20" />Et post haec venit Tryphon intra regionem, ut contereret eam: et gyraverunt per viam quae ducit Ador: et Simon et castra eius ambulabant in omnem locum quocumque ibant.<verse eID="1Mac.13.20" />
+        <verse sID="1Mac.13.21" osisID="1Mac.13.21" />Qui autem in arce erant, miserunt ad Tryphonem legatos, ut festinaret venire per desertum, et mitteret illis alimonias.<verse eID="1Mac.13.21" />
+        <verse sID="1Mac.13.22" osisID="1Mac.13.22" />Et paravit Tryphon omnem equitatum, ut veniret illa nocte: erat autem nix multa valde, et non venit in Galaaditim.<verse eID="1Mac.13.22" />
+        <verse sID="1Mac.13.23" osisID="1Mac.13.23" />Et cum appropinquasset Bascaman, occidit Ionathan et filios eius illic.<verse eID="1Mac.13.23" />
+        <verse sID="1Mac.13.24" osisID="1Mac.13.24" />Et convertit Tryphon, et abiit in terram suam.<verse eID="1Mac.13.24" />
+        <verse sID="1Mac.13.25" osisID="1Mac.13.25" />Et misit Simon, et accepit ossa Ionathae fratris sui, et sepelivit ea in Modin civitate patrum eius.<verse eID="1Mac.13.25" />
+        <verse sID="1Mac.13.26" osisID="1Mac.13.26" />Et planxerunt eum omnis Israël planctu magno, et luxerunt eum dies multos.<verse eID="1Mac.13.26" />
+        <verse sID="1Mac.13.27" osisID="1Mac.13.27" />Et aedificavit Simon super sepulchrum patris sui et fratrum suorum aedificium altum visu, lapide polito retro et ante.<verse eID="1Mac.13.27" />
+        <verse sID="1Mac.13.28" osisID="1Mac.13.28" />Et statuit septem pyramidas, unam contra unam, patri et matri, et quatuor fratribus:<verse eID="1Mac.13.28" />
+        <verse sID="1Mac.13.29" osisID="1Mac.13.29" />et his circumposuit columnas magnas: et super columnas arma, ad memoriam aeternam: et iuxta arma naves sculptas, quae viderentur ab omnibus navigantibus mare:<verse eID="1Mac.13.29" />
+        <verse sID="1Mac.13.30" osisID="1Mac.13.30" />hoc est sepulchrum, quod fecit in Modin usque in hunc diem.<verse eID="1Mac.13.30" />
+        <verse sID="1Mac.13.31" osisID="1Mac.13.31" />Tryphon autem cum iter faceret cum Antiocho rege adolescente, dolo occidit eum:<verse eID="1Mac.13.31" />
+        <verse sID="1Mac.13.32" osisID="1Mac.13.32" />et regnavit loco eius, et imposuit sibi diadema Asiae, et fecit plagam magnam in terra.<verse eID="1Mac.13.32" />
+        <verse sID="1Mac.13.33" osisID="1Mac.13.33" />Et aedificavit Simon praesidia Iudaeae, muniens ea turribus excelsis, et muris magnis, et portis, et seris: et posuit alimenta in munitionibus.<verse eID="1Mac.13.33" />
+        <verse sID="1Mac.13.34" osisID="1Mac.13.34" />Et elegit Simon viros, et misit ad Demetrium regem ut faceret remissionem regioni: quia actus omnes Tryphonis per direptionem fuerant gesti.<verse eID="1Mac.13.34" />
+        <verse sID="1Mac.13.35" osisID="1Mac.13.35" />Et Demetrius rex ad verba ista respondit ei, et scripsit epistolam talem:<verse eID="1Mac.13.35" />
+        <verse sID="1Mac.13.36" osisID="1Mac.13.36" />Rex Demetrius Simoni summo sacerdoti et amico regum, et senioribus, et genti Iudaeorum, salutem.<verse eID="1Mac.13.36" />
+        <verse sID="1Mac.13.37" osisID="1Mac.13.37" />Coronam auream, et bahem, quam misistis, suscepimus: et parati sumus facere vobiscum pacem magnam, et scribere praepositis regis remittere vobis quae indulsimus.<verse eID="1Mac.13.37" />
+        <verse sID="1Mac.13.38" osisID="1Mac.13.38" />Quaecumque enim constituimus, vobis constant: munitiones, quas aedificastis, vobis sint:<verse eID="1Mac.13.38" />
+        <verse sID="1Mac.13.39" osisID="1Mac.13.39" />remittimus quoque ignorantias et peccata usque in hodiernum diem, et coronam quam debebatis: et si quid aliud erat tributarium in Ierusalem, iam non sit tributarium.<verse eID="1Mac.13.39" />
+        <verse sID="1Mac.13.40" osisID="1Mac.13.40" />Et si qui ex vobis apti sunt conscribi inter nostros, conscribantur, et sit inter nos pax.<verse eID="1Mac.13.40" />
+        <verse sID="1Mac.13.41" osisID="1Mac.13.41" />Anno centesimo septuagesimo, ablatum est iugum gentium ab Israël.<verse eID="1Mac.13.41" />
+        <verse sID="1Mac.13.42" osisID="1Mac.13.42" />Et coepit populus Israël scribere in tabulis, et gestis publicis, anno primo sub Simone summo sacerdote, magno duce, et principe Iudaeorum.<verse eID="1Mac.13.42" />
+        <verse sID="1Mac.13.43" osisID="1Mac.13.43" />In diebus illis applicuit Simon ad Gazam, et circumdedit eam castris, et fecit machinas, et applicuit ad civitatem, et percussit turrem unam, et comprehendit eam.<verse eID="1Mac.13.43" />
+        <verse sID="1Mac.13.44" osisID="1Mac.13.44" />Et eruperant qui erant intra machinam in civitatem, et factus est motus magnus in civitate.<verse eID="1Mac.13.44" />
+        <verse sID="1Mac.13.45" osisID="1Mac.13.45" />Et ascenderunt qui erant in civitate cum uxoribus et filiis supra murum, scissis tunicis suis, et clamaverunt voce magna, postulantes a Simone dextras sibi dari,<verse eID="1Mac.13.45" />
+        <verse sID="1Mac.13.46" osisID="1Mac.13.46" />et dixerunt: Non nobis reddas secundum malitias nostras, sed secundum misericordias tuas.<verse eID="1Mac.13.46" />
+        <verse sID="1Mac.13.47" osisID="1Mac.13.47" />Et flexus Simon, non debellavit eos: eiecit tamen eos de civitate, et mundavit aedes in quibus fuerant simulacra, et tunc intravit in eam cum hymnis benedicens Dominum:<verse eID="1Mac.13.47" />
+        <verse sID="1Mac.13.48" osisID="1Mac.13.48" />et eiecta ab ea omni immunditia, collocavit in ea viros qui legem facerent: et munivit eam, et fecit sibi habitationem.<verse eID="1Mac.13.48" />
+        <verse sID="1Mac.13.49" osisID="1Mac.13.49" />Qui autem erant in arce Ierusalem, prohibebantur egredi et ingredi regionem, et emere ac vendere: et esurierunt valde, et multi ex eis fame perierunt,<verse eID="1Mac.13.49" />
+        <verse sID="1Mac.13.50" osisID="1Mac.13.50" />et clamaverunt ad Simonem ut dextras acciperent: et dedit illis: et eiecit eos inde, et mundavit arcem a contaminationibus:<verse eID="1Mac.13.50" />
+        <verse sID="1Mac.13.51" osisID="1Mac.13.51" />et intraverunt in eam tertia et vigesima die secundi mensis, anno centesimo septuagesimo primo, cum laude, et ramis palmarum, et cinyris, et cymbalis, et nablis, et hymnis, et canticis, quia contritus est inimicus magnus ex Israël.<verse eID="1Mac.13.51" />
+        <verse sID="1Mac.13.52" osisID="1Mac.13.52" />Et constituit ut omnibus annis agerentur dies hi cum laetitia.<verse eID="1Mac.13.52" />
+        <verse sID="1Mac.13.53" osisID="1Mac.13.53" />Et munivit montem templi, qui erat secus arcem, et habitavit ibi ipse, et qui cum eo erant.<verse eID="1Mac.13.53" />
+        <verse sID="1Mac.13.54" osisID="1Mac.13.54" />Et vidit Simon Ioannem filium suum, quod fortis praelii vir esset: et posuit eum ducem virtutum universarum: et habitavit in Gazaris.<verse eID="1Mac.13.54" />
+      </p>
+      <chapter eID="1Mac.13" />
+      <chapter sID="1Mac.14" osisID="1Mac.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="1Mac.14.1" osisID="1Mac.14.1" />Anno centesimo septuagesimo secundo, congregavit rex Demetrius exercitum suum, et abiit in Mediam ad contrahenda sibi auxilia, ut expugnaret Tryphonem.<verse eID="1Mac.14.1" />
+        <verse sID="1Mac.14.2" osisID="1Mac.14.2" />Et audivit Arsaces rex Persidis et Mediae, quia intravit Demetrius confines suos: et misit unum de principibus suis ut comprehenderet eum vivum, et adduceret eum ad se.<verse eID="1Mac.14.2" />
+        <verse sID="1Mac.14.3" osisID="1Mac.14.3" />Et abiit, et percussit castra Demetrii: et comprehendit eum, et duxit eum ad Arsacem, et posuit eum in custodiam.<verse eID="1Mac.14.3" />
+        <verse sID="1Mac.14.4" osisID="1Mac.14.4" />Et siluit omnis terra Iuda omnibus diebus Simonis, et quaesivit bona genti suae: et placuit illis potestas eius et gloria eius omnibus diebus.<verse eID="1Mac.14.4" />
+        <verse sID="1Mac.14.5" osisID="1Mac.14.5" />Et cum omni gloria sua accepit Ioppen in portum, et fecit introitum in insulis maris.<verse eID="1Mac.14.5" />
+        <verse sID="1Mac.14.6" osisID="1Mac.14.6" />Et dilatavit fines gentis suae, et obtinuit regionem.<verse eID="1Mac.14.6" />
+        <verse sID="1Mac.14.7" osisID="1Mac.14.7" />Et congregavit captivitatem multam, et dominatus est Gazarae, et Bethsurae, et arci: et abstulit immunditias ex ea, et non erat qui resisteret ei.<verse eID="1Mac.14.7" />
+        <verse sID="1Mac.14.8" osisID="1Mac.14.8" />Et unusquisque colebat terram suam cum pace: et terra Iuda dabat fructus suos, et ligna camporum fructum suum.<verse eID="1Mac.14.8" />
+        <verse sID="1Mac.14.9" osisID="1Mac.14.9" />Seniores in plateis sedebant omnes, et de bonis terrae tractabant, et iuvenes induebant se gloriam, et stolas belli.<verse eID="1Mac.14.9" />
+        <verse sID="1Mac.14.10" osisID="1Mac.14.10" />Et civitatibus tribuebat alimonias, et constituebat eas ut essent vasa munitionis quoadusque nominatum est nomen gloriae eius usque ad extremum terrae.<verse eID="1Mac.14.10" />
+        <verse sID="1Mac.14.11" osisID="1Mac.14.11" />Fecit pacem super terram, et laetatus est Israël laetitia magna.<verse eID="1Mac.14.11" />
+        <verse sID="1Mac.14.12" osisID="1Mac.14.12" />Et sedit unusquisque sub vite sua, et sub ficulnea sua: et non erat qui eos terreret.<verse eID="1Mac.14.12" />
+        <verse sID="1Mac.14.13" osisID="1Mac.14.13" />Defecit impugnans eos super terram: reges contriti sunt in diebus illis.<verse eID="1Mac.14.13" />
+        <verse sID="1Mac.14.14" osisID="1Mac.14.14" />Et confirmavit omnes humiles populi sui, et legem exquisivit, et abstulit omnem iniquum et malum:<verse eID="1Mac.14.14" />
+        <verse sID="1Mac.14.15" osisID="1Mac.14.15" />sancta glorificavit, et multiplicavit vasa sanctorum.<verse eID="1Mac.14.15" />
+        <verse sID="1Mac.14.16" osisID="1Mac.14.16" />Et auditum est Romae quia defunctus esset Ionathas, et usque in Spartiatas: et contristati sunt valde.<verse eID="1Mac.14.16" />
+        <verse sID="1Mac.14.17" osisID="1Mac.14.17" />Ut audierunt autem quod Simon frater eius factus esset summus sacerdos loco eius, et ipse obtineret omnem regionem, et civitates in ea,<verse eID="1Mac.14.17" />
+        <verse sID="1Mac.14.18" osisID="1Mac.14.18" />scripserunt ad eum in tabulis aereis, ut renovarent amicitias et societatem quam fecerant cum Iuda et cum Ionatha, fratribus eius.<verse eID="1Mac.14.18" />
+        <verse sID="1Mac.14.19" osisID="1Mac.14.19" />Et lectae sunt in conspectu ecclesiae in Ierusalem. Et hoc exemplum epistolarum, quas Spartiatae miserunt:<verse eID="1Mac.14.19" />
+        <verse sID="1Mac.14.20" osisID="1Mac.14.20" />Spartianorum principes et civitates, Simoni sacerdoti magno, et senioribus, et sacerdotibus, et reliquo populo Iudaeorum, fratribus, salutem.<verse eID="1Mac.14.20" />
+        <verse sID="1Mac.14.21" osisID="1Mac.14.21" />Legati, qui missi sunt ad populum nostrum, nuntiaverunt nobis de vestra gloria, et honore, ac laetitia: et gavisi sumus in introitu eorum.<verse eID="1Mac.14.21" />
+        <verse sID="1Mac.14.22" osisID="1Mac.14.22" />Et scripsimus quae ab eis erant dicta in conciliis populi, sic: Numenius Antiochi, et Antipater Iasonis filius, legati Iudaeorum, venerunt ad nos, renovantes nobiscum amicitiam pristinam.<verse eID="1Mac.14.22" />
+        <verse sID="1Mac.14.23" osisID="1Mac.14.23" />Et placuit populo excipere viros gloriose, et ponere exemplum sermonum eorum in segregatis populi libris, ut sit ad memoriam populo Spartiatarum. Exemplum autem horum scripsimus Simoni magno sacerdoti.<verse eID="1Mac.14.23" />
+        <verse sID="1Mac.14.24" osisID="1Mac.14.24" />Post haec autem misit Simon Numenium Romam, habentem clypeum aureum magnum, pondo mnarum mille, ad statuendam cum eis societatem. Cum autem audisset populus Romanus<verse eID="1Mac.14.24" />
+        <verse sID="1Mac.14.25" osisID="1Mac.14.25" />sermones istos, dixerunt: Quam gratiarum actionem reddemus Simoni, et filiis eius?<verse eID="1Mac.14.25" />
+        <verse sID="1Mac.14.26" osisID="1Mac.14.26" />restituit enim ipse fratres suos, et expugnavit inimicos Israël ab eis, et statuerunt ei libertatem, et descripserunt in tabulis aereis, et posuerunt in titulis in monte Sion.<verse eID="1Mac.14.26" />
+        <verse sID="1Mac.14.27" osisID="1Mac.14.27" />Et hoc est exemplum scripturae: Octavadecima die mensis Elul, anno centesimo septuagesimo secundo, anno tertio sub Simone sacerdote magno in Asaramel,<verse eID="1Mac.14.27" />
+        <verse sID="1Mac.14.28" osisID="1Mac.14.28" />in conventu magno sacerdotum, et populi, et principum gentis, et seniorum regionis, nota facta sunt haec: quoniam frequenter facta sunt praelia in regione nostra,<verse eID="1Mac.14.28" />
+        <verse sID="1Mac.14.29" osisID="1Mac.14.29" />Simon autem Mathathiae filius, ex filiis Iarib, et fratres eius, dederunt se periculo, et restiterunt adversariis gentis suae, ut starent sancta ipsorum, et lex: et gloria magna glorificaverunt gentem suam.<verse eID="1Mac.14.29" />
+        <verse sID="1Mac.14.30" osisID="1Mac.14.30" />Et congregavit Ionathas gentem suam, et factus est illis sacerdos magnus, et appositus est ad populum suum.<verse eID="1Mac.14.30" />
+        <verse sID="1Mac.14.31" osisID="1Mac.14.31" />Et voluerunt inimici eorum calcare et atterere regionem ipsorum, et extendere manus in sancta eorum.<verse eID="1Mac.14.31" />
+        <verse sID="1Mac.14.32" osisID="1Mac.14.32" />Tunc restitit Simon, et pugnavit pro gente sua, et erogavit pecunias multas, et armavit viros virtutis gentis suae, et dedit illis stipendia:<verse eID="1Mac.14.32" />
+        <verse sID="1Mac.14.33" osisID="1Mac.14.33" />et munivit civitates Iudaeae, et Bethsuram, quae erat in finibus Iudaeae, ubi erant arma hostium antea: et posuit illic praesidium viros Iudaeos.<verse eID="1Mac.14.33" />
+        <verse sID="1Mac.14.34" osisID="1Mac.14.34" />Et Ioppen munivit, quae erat ad mare, et Gazaram, quae est in finibus Azoti, in qua hostes antea habitabant: et collocavit illic Iudaeos, et quaecumque apta erant ad correptionem eorum, posuit in eis.<verse eID="1Mac.14.34" />
+        <verse sID="1Mac.14.35" osisID="1Mac.14.35" />Et vidit populus actum Simonis, et gloriam quam cogitabat facere genti suae, et posuerunt eum ducem suum, et principem sacerdotum, eo quod ipse fecerat haec omnia, et iustitiam, et fidem, quam conservavit genti suae, et exquisivit omni modo exaltare populum suum.<verse eID="1Mac.14.35" />
+        <verse sID="1Mac.14.36" osisID="1Mac.14.36" />Et in diebus eius prosperatum est in manibus eius, ut tollerentur gentes de regione ipsorum, et qui in civitate David erant, in Ierusalem in arce, de qua procedebant, et contaminabant omnia quae in circuitu sanctorum sunt, et inferebant plagam magnam castitati:<verse eID="1Mac.14.36" />
+        <verse sID="1Mac.14.37" osisID="1Mac.14.37" />et collocavit in ea viros Iudaeos ad tutamentum regionis, et civitatis, et exaltavit muros Ierusalem.<verse eID="1Mac.14.37" />
+        <verse sID="1Mac.14.38" osisID="1Mac.14.38" />Et rex Demetrius statuit illi summum sacerdotium.<verse eID="1Mac.14.38" />
+        <verse sID="1Mac.14.39" osisID="1Mac.14.39" />Secundum haec fecit eum amicum suum, et glorificavit eum gloria magna.<verse eID="1Mac.14.39" />
+        <verse sID="1Mac.14.40" osisID="1Mac.14.40" />Audivit enim quod appellati sunt Iudaei a Romanis amici, et socii, et fratres, et quia susceperunt legatos Simonis gloriose,<verse eID="1Mac.14.40" />
+        <verse sID="1Mac.14.41" osisID="1Mac.14.41" />et quia Iudaei et sacerdotes eorum consenserunt eum esse ducem suum, et summum sacerdotem in aeternum, donec surgat propheta fidelis:<verse eID="1Mac.14.41" />
+        <verse sID="1Mac.14.42" osisID="1Mac.14.42" />et ut sit super eos dux, et ut cura esset illi pro sanctis, et ut constitueret praepositos super opera eorum, et super regionem, et super arma, et super praesidia:<verse eID="1Mac.14.42" />
+        <verse sID="1Mac.14.43" osisID="1Mac.14.43" />et cura sit illi de sanctis: et ut audiatur ab omnibus, et scribantur in nomine eius omnes conscriptiones in regione: et ut operiatur purpura et auro:<verse eID="1Mac.14.43" />
+        <verse sID="1Mac.14.44" osisID="1Mac.14.44" />et ne liceat ulli ex populo et ex sacerdotibus irritum facere aliquid horum, et contradicere his quae ab eo dicuntur, aut convocare conventum in regione sine ipso, et vestiri purpura, et uti fibula aurea:<verse eID="1Mac.14.44" />
+        <verse sID="1Mac.14.45" osisID="1Mac.14.45" />qui autem fecerit extra haec, aut irritum fecerit aliquid horum, reus erit.<verse eID="1Mac.14.45" />
+        <verse sID="1Mac.14.46" osisID="1Mac.14.46" />Et complacuit omni populo statuere Simonem, et facere secundum verba ista.<verse eID="1Mac.14.46" />
+        <verse sID="1Mac.14.47" osisID="1Mac.14.47" />Et suscepit Simon, et placuit ei ut summo sacerdotio fungeretur, et esset dux et princeps gentis Iudaeorum, et sacerdotum, et praeesset omnibus.<verse eID="1Mac.14.47" />
+        <verse sID="1Mac.14.48" osisID="1Mac.14.48" />Et scripturam istam dixerunt ponere in tabulis aereis, et ponere eas in peribolo sanctorum, in loco celebri:<verse eID="1Mac.14.48" />
+        <verse sID="1Mac.14.49" osisID="1Mac.14.49" />exemplum autem eorum ponere in aerario, ut habeat Simon, et filii eius.<verse eID="1Mac.14.49" />
+      </p>
+      <chapter eID="1Mac.14" />
+      <chapter sID="1Mac.15" osisID="1Mac.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="1Mac.15.1" osisID="1Mac.15.1" />Et misit rex Antiochus filius Demetrii epistolas ab insulis maris Simoni sacerdoti, et principi gentis Iudaeorum, et universae genti:<verse eID="1Mac.15.1" />
+        <verse sID="1Mac.15.2" osisID="1Mac.15.2" />et erant continentes hunc modum: Rex Antiochus Simoni sacerdoti magno, et genti Iudaeorum salutem.<verse eID="1Mac.15.2" />
+        <verse sID="1Mac.15.3" osisID="1Mac.15.3" />Quoniam quidem pestilentes obtinuerunt regnum patrum nostrorum, volo autem vendicare regnum, et restituere illud sicut erat antea: et electam feci multitudinem exercitus, et feci naves bellicas.<verse eID="1Mac.15.3" />
+        <verse sID="1Mac.15.4" osisID="1Mac.15.4" />Volo autem procedere per regionem ut ulciscar in eos, qui corruperunt regionem nostram, et qui desolaverunt civitates multas in regno meo.<verse eID="1Mac.15.4" />
+        <verse sID="1Mac.15.5" osisID="1Mac.15.5" />Nunc ergo statuo tibi omnes oblationes, quas remiserunt tibi ante me omnes reges, et quaecumque alia dona remiserunt tibi:<verse eID="1Mac.15.5" />
+        <verse sID="1Mac.15.6" osisID="1Mac.15.6" />et permitto tibi facere percussuram proprii numismatis in regione tua:<verse eID="1Mac.15.6" />
+        <verse sID="1Mac.15.7" osisID="1Mac.15.7" />Ierusalem autem sanctam esse, et liberam: et omnia arma, quae fabricata sunt, et praesidia, quae construxisti, quae tenes, maneant tibi.<verse eID="1Mac.15.7" />
+        <verse sID="1Mac.15.8" osisID="1Mac.15.8" />Et omne debitum regis, et quae futura sunt regi, ex hoc et in totum tempus remittuntur tibi.<verse eID="1Mac.15.8" />
+        <verse sID="1Mac.15.9" osisID="1Mac.15.9" />Cum autem obtinuerimus regnum nostrum, glorificabimus te, et gentem tuam, et templum, gloria magna, ita ut manifestetur gloria vestra in universa terra.<verse eID="1Mac.15.9" />
+        <verse sID="1Mac.15.10" osisID="1Mac.15.10" />Anno centesimo septuagesimo quarto exiit Antiochus in terram patrum suorum, et convenerunt ad eum omnes exercitus, ita ut pauci relicti essent cum Tryphone.<verse eID="1Mac.15.10" />
+        <verse sID="1Mac.15.11" osisID="1Mac.15.11" />Et insecutus est eum Antiochus rex, et venit Doram fugiens per maritimam:<verse eID="1Mac.15.11" />
+        <verse sID="1Mac.15.12" osisID="1Mac.15.12" />sciebat enim quod congregata sunt mala in eum, et reliquit eum exercitus:<verse eID="1Mac.15.12" />
+        <verse sID="1Mac.15.13" osisID="1Mac.15.13" />et applicuit Antiochus super Doram cum centum viginti millibus virorum belligeratorum, et octo millibus equitum:<verse eID="1Mac.15.13" />
+        <verse sID="1Mac.15.14" osisID="1Mac.15.14" />et circuivit civitatem, et naves a mari accesserunt: et vexabant civitatem a terra et mari, et neminem sinebant ingredi vel egredi.<verse eID="1Mac.15.14" />
+        <verse sID="1Mac.15.15" osisID="1Mac.15.15" />Venit autem Numenius, et qui cum eo fuerant, ab urbe Roma, habentes epistolas regibus et regionibus scriptas, in quibus continebantur haec:<verse eID="1Mac.15.15" />
+        <verse sID="1Mac.15.16" osisID="1Mac.15.16" />Lucius consul Romanorum, Ptolemaeo regi salutem.<verse eID="1Mac.15.16" />
+        <verse sID="1Mac.15.17" osisID="1Mac.15.17" />Legati Iudaeorum venerunt ad nos amici nostri, renovantes pristinam amicitiam et societatem, missi a Simone principe sacerdotum et populo Iudaeorum.<verse eID="1Mac.15.17" />
+        <verse sID="1Mac.15.18" osisID="1Mac.15.18" />Attulerunt autem et clypeum aureum mnarum mille.<verse eID="1Mac.15.18" />
+        <verse sID="1Mac.15.19" osisID="1Mac.15.19" />Placuit itaque nobis scribere regibus et regionibus, ut non inferant illis mala, neque impugnent eos, et civitates eorum, et regiones eorum: et ut non ferant auxilium pugnantibus adversus eos.<verse eID="1Mac.15.19" />
+        <verse sID="1Mac.15.20" osisID="1Mac.15.20" />Visum autem est nobis accipere ab eis clypeum.<verse eID="1Mac.15.20" />
+        <verse sID="1Mac.15.21" osisID="1Mac.15.21" />Si qui ergo pestilentes refugerunt de regione ipsorum ad vos, tradite eos Simoni principi sacerdotum, ut vindicet in eos secundum legem suam.<verse eID="1Mac.15.21" />
+        <verse sID="1Mac.15.22" osisID="1Mac.15.22" />Haec eadem scripta sunt Demetrio regi, et Attalo, et Ariarathi, et Arsaci,<verse eID="1Mac.15.22" />
+        <verse sID="1Mac.15.23" osisID="1Mac.15.23" />et in omnes regiones: et Lampsaco, et Spartiatis, et in Delum, et in Myndum, et in Sicyonem, et in Cariam, et in Samum, et in Pamphyliam, et in Lyciam, et in Alicarnassum, et in Coo, et in Siden, et in Aradon, et in Rhodum, et in Phaselidem, et in Gortynam, et Gnidum, et Cyprum, et Cyrenen.<verse eID="1Mac.15.23" />
+        <verse sID="1Mac.15.24" osisID="1Mac.15.24" />Exemplum autem eorum scripserunt Simoni principi sacerdotum, et populo Iudaeorum.<verse eID="1Mac.15.24" />
+        <verse sID="1Mac.15.25" osisID="1Mac.15.25" />Antiochus autem rex applicuit castra in Doram secundo, admovens ei semper manus, et machinas faciens: et conclusit Tryphonem, ne procederet:<verse eID="1Mac.15.25" />
+        <verse sID="1Mac.15.26" osisID="1Mac.15.26" />et misit ad eum Simon duo millia virorum electorum in auxilium, et argentum, et aurum, et vasa copiosa:<verse eID="1Mac.15.26" />
+        <verse sID="1Mac.15.27" osisID="1Mac.15.27" />et noluit ea accipere, sed rupit omnia, quae pactus est cum eo antea, et alienavit se ab eo.<verse eID="1Mac.15.27" />
+        <verse sID="1Mac.15.28" osisID="1Mac.15.28" />Et misit ad eum Athenobium unum de amicis suis, ut tractaret cum ipso, dicens: Vos tenetis Ioppen, et Gazaram, et arcem, quae est in Ierusalem, civitates regni mei:<verse eID="1Mac.15.28" />
+        <verse sID="1Mac.15.29" osisID="1Mac.15.29" />fines earum desolastis, et fecistis plagam magnam in terra, et dominati estis per loca multa in regno meo.<verse eID="1Mac.15.29" />
+        <verse sID="1Mac.15.30" osisID="1Mac.15.30" />Nunc ergo tradite civitates quas occupastis, et tributa locorum in quibus dominati estis extra fines Iudaeae:<verse eID="1Mac.15.30" />
+        <verse sID="1Mac.15.31" osisID="1Mac.15.31" />sin autem, date pro illis quingenta talenta argenti, et exterminii, quod exterminastis, et tributorum civitatum alia talenta quingenta: sin autem, veniemus, et expugnabimus vos.<verse eID="1Mac.15.31" />
+        <verse sID="1Mac.15.32" osisID="1Mac.15.32" />Et venit Athenobius amicus regis in Ierusalem, et vidit gloriam Simonis, et claritatem in auro, et argento, et apparatum copiosum: et obstupuit, et retulit ei verba regis.<verse eID="1Mac.15.32" />
+        <verse sID="1Mac.15.33" osisID="1Mac.15.33" />Et respondit ei Simon, et dixit ei: Neque alienam terram sumpsimus, neque aliena detinemus: sed haereditatem patrum nostrorum, quae iniuste ab inimicis nostris aliquo tempore possessa est.<verse eID="1Mac.15.33" />
+        <verse sID="1Mac.15.34" osisID="1Mac.15.34" />Nos vero tempus habentes, vindicamus haereditatem patrum nostrorum.<verse eID="1Mac.15.34" />
+        <verse sID="1Mac.15.35" osisID="1Mac.15.35" />Nam de Ioppe et Gazara quae expostulas, ipsi faciebant in populo plagam magnam, et in regione nostra: horum damus talenta centum. Et non respondit ei Athenobius verbum.<verse eID="1Mac.15.35" />
+        <verse sID="1Mac.15.36" osisID="1Mac.15.36" />Reversus autem cum ira ad regem, renuntiavit ei verba ista, et gloriam Simonis, et universa quae vidit, et iratus est rex ira magna.<verse eID="1Mac.15.36" />
+        <verse sID="1Mac.15.37" osisID="1Mac.15.37" />Tryphon autem fugit navi in Orthosiada.<verse eID="1Mac.15.37" />
+        <verse sID="1Mac.15.38" osisID="1Mac.15.38" />Et constituit rex Cendebaeum ducem maritimum, et exercitum peditum et equitum dedit illi.<verse eID="1Mac.15.38" />
+        <verse sID="1Mac.15.39" osisID="1Mac.15.39" />Et mandavit illi movere castra contra faciem Iudaeae: et mandavit ei aedificare Gedorem, et obstruere portas civitatis, et debellare populum. Rex autem persequebatur Typhonem.<verse eID="1Mac.15.39" />
+        <verse sID="1Mac.15.40" osisID="1Mac.15.40" />Et pervenit Cendebaeus Iamniam, et coepit irritare plebem, et conculcare Iudaeam, et captivare populum, et interficere, et aedificare Gedorem.<verse eID="1Mac.15.40" />
+        <verse sID="1Mac.15.41" osisID="1Mac.15.41" />Et collocavit illic equites et exercitum, ut egressi perambularent viam Iudaeae, sicut constituit ei rex.<verse eID="1Mac.15.41" />
+      </p>
+      <chapter eID="1Mac.15" />
+      <chapter sID="1Mac.16" osisID="1Mac.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="1Mac.16.1" osisID="1Mac.16.1" />Et ascendit Ioannes de Gazaris, et nuntiavit Simoni patri suo quae fecit Cendebaeus in populo ipsorum.<verse eID="1Mac.16.1" />
+        <verse sID="1Mac.16.2" osisID="1Mac.16.2" />Et vocavit Simon duos filios seniores, Iudam et Ioannem, et ait illis: Ego, et fratres mei, et domus patris mei expugnavimus hostes Israël ab adolescentia usque in hunc diem: et prosperatum est in manibus nostris liberare Israël aliquoties.<verse eID="1Mac.16.2" />
+        <verse sID="1Mac.16.3" osisID="1Mac.16.3" />Nunc autem senui: sed estote loco meo, et fratres mei, et egressi pugnate pro gente nostra: auxilium vero de caelo vobiscum sit.<verse eID="1Mac.16.3" />
+        <verse sID="1Mac.16.4" osisID="1Mac.16.4" />Et elegit de regione viginti millia virorum belligeratorum, et equites: et profecti sunt ad Cendebaeum, et dormierunt in Modin.<verse eID="1Mac.16.4" />
+        <verse sID="1Mac.16.5" osisID="1Mac.16.5" />Et surrexerunt mane, et abierunt in campum: ecce exercitus copiosus in obviam illis peditum et equitum: et fluvius torrens erat inter medium ipsorum.<verse eID="1Mac.16.5" />
+        <verse sID="1Mac.16.6" osisID="1Mac.16.6" />Et admovit castra contra faciem eorum ipse et populus eius, et vidit populum trepidantem ad transfretandum torrentem: et transfretavit primus, et viderunt eum viri, et transierunt post eum.<verse eID="1Mac.16.6" />
+        <verse sID="1Mac.16.7" osisID="1Mac.16.7" />Et divisit populum et equites in medio peditum: erat autem equitatus adversariorum copiosus nimis.<verse eID="1Mac.16.7" />
+        <verse sID="1Mac.16.8" osisID="1Mac.16.8" />Et exclamaverunt sacris tubis, et in fugam conversus est Cendebaeus et castra eius: et ceciderunt ex eis multi vulnerati: residui autem in munitionem fugerunt.<verse eID="1Mac.16.8" />
+        <verse sID="1Mac.16.9" osisID="1Mac.16.9" />Tunc vulneratus est Iudas frater Ioannis: Ioannes autem insecutus est eos, donec venit Cedronem, quam aedificavit:<verse eID="1Mac.16.9" />
+        <verse sID="1Mac.16.10" osisID="1Mac.16.10" />et fugerunt usque ad turres, quae erant in agris Azoti, et succendit eas igni. Et ceciderunt ex illis duo millia virorum, et reversus est in Iudaeam in pace.<verse eID="1Mac.16.10" />
+        <verse sID="1Mac.16.11" osisID="1Mac.16.11" />Et Ptolemaeus filius Abobi constitutus erat dux in campo Iericho, et habebat argentum et aurum multum:<verse eID="1Mac.16.11" />
+        <verse sID="1Mac.16.12" osisID="1Mac.16.12" />erat enim gener summi sacerdotis.<verse eID="1Mac.16.12" />
+        <verse sID="1Mac.16.13" osisID="1Mac.16.13" />Et exaltatum est cor eius, et volebat obtinere regionem, et cogitabat dolum adversus Simonem et filios eius, ut tolleret eos.<verse eID="1Mac.16.13" />
+        <verse sID="1Mac.16.14" osisID="1Mac.16.14" />Simon autem, perambulans civitates quae erant in regione Iudaeae, et sollicitudinem gerens earum, descendit in Iericho ipse, et Mathathias filius eius, et Iudas, anno centesimo septuagesimo septimo, mense undecimo: hic est mensis Sabath.<verse eID="1Mac.16.14" />
+        <verse sID="1Mac.16.15" osisID="1Mac.16.15" />Et suscepit eos filius Abobi in munitiunculam, quae vocatur Doch, cum dolo, quam aedificavit: et fecit eis convivium magnum, et abscondit illic viros.<verse eID="1Mac.16.15" />
+        <verse sID="1Mac.16.16" osisID="1Mac.16.16" />Et cum inebriatus esset Simon et filii eius, surrexit Ptolemaeus cum suis, et sumpserunt arma sua, et intraverunt in convivium: et occiderunt eum, et duos filios eius, et quosdam pueros eius:<verse eID="1Mac.16.16" />
+        <verse sID="1Mac.16.17" osisID="1Mac.16.17" />et fecit deceptionem magnam in Israël, et reddidit mala pro bonis.<verse eID="1Mac.16.17" />
+        <verse sID="1Mac.16.18" osisID="1Mac.16.18" />Et scripsit haec Ptolemaeus, et misit regi ut mitteret ei exercitum in auxilium, et traderet ei regionem, et civitates eorum, et tributa.<verse eID="1Mac.16.18" />
+        <verse sID="1Mac.16.19" osisID="1Mac.16.19" />Et misit alios in Gazaram tollere Ioannem: et tribunis misit epistolas, ut venirent ad se, et daret eis argentum, et aurum, et dona.<verse eID="1Mac.16.19" />
+        <verse sID="1Mac.16.20" osisID="1Mac.16.20" />Et alios misit occupare Ierusalem et montem templi.<verse eID="1Mac.16.20" />
+        <verse sID="1Mac.16.21" osisID="1Mac.16.21" />Et praecurrens quidam, nuntiavit Ioanni in Gazara quia periit pater eius et fratres eius, et quia misit te quoque interfici.<verse eID="1Mac.16.21" />
+        <verse sID="1Mac.16.22" osisID="1Mac.16.22" />Ut audivit autem, vehementer expavit: et comprehendit viros, qui venerant perdere eum, et occidit eos: cognovit enim quia quaerebant eum perdere.<verse eID="1Mac.16.22" />
+        <verse sID="1Mac.16.23" osisID="1Mac.16.23" />Et cetera sermonum Ioannis, et bellorum eius, et bonarum virtutum, quibus fortiter gessit, et aedificii murorum, quos exstruxit, et rerum gestarum eius:<verse eID="1Mac.16.23" />
+        <verse sID="1Mac.16.24" osisID="1Mac.16.24" />ecce haec scripta sunt in libro dierum sacerdotii eius, ex quo factus est princeps sacerdotum post patrem suum.<verse eID="1Mac.16.24" />
+      </p>
+      <chapter eID="1Mac.16" />
+    </div>
+  </osisText>
+</osis>

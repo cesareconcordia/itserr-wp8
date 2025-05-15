@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="1Chr" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="1Chr">
+        <title>chronicles-1</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">1Chr</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>chronicles-1</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="1Chr">
+      <title>chronicles-1</title>
+      <chapter sID="1Chr.1" osisID="1Chr.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="1Chr.1.29" osisID="1Chr.1.29" />... Primitivus Ismael, Nabaioth, et Cedar ...<verse eID="1Chr.1.29" />
+      </p>
+      <chapter eID="1Chr.1" />
+      <chapter sID="1Chr.2" osisID="1Chr.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="1Chr.2.52" osisID="1Chr.2.52" />Fuerunt filii Sobal patris Cariathiarim, qui prophetabant ex dimidio ...<verse eID="1Chr.2.52" />
+        <verse sID="1Chr.2.54" osisID="1Chr.2.54" />Filii autem Salma, patris Bethleem, et Nethophati, corona domus Ioab, et qui prophetabant ex dimidio Zarai.<verse eID="1Chr.2.54" />
+        <verse sID="1Chr.2.55" osisID="1Chr.2.55" />... Hi sunt qui venerunt de calore domus patris Rechab.<verse eID="1Chr.2.55" />
+      </p>
+      <chapter eID="1Chr.2" />
+      <chapter sID="1Chr.11" osisID="1Chr.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="1Chr.11.9" osisID="1Chr.11.9" />Et ambulabat David proficiens, et magnificabatur, et Dominus erat cum illo.<verse eID="1Chr.11.9" />
+      </p>
+      <chapter eID="1Chr.11" />
+      <chapter sID="1Chr.12" osisID="1Chr.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="1Chr.12.18" osisID="1Chr.12.18" />Et spiritus induit Amasai principem triginta, et dixit, Tui sumus o David, et tecum futuri fili Iesse, pax, pax tibi, et pax adiutoribus tuis, quia auxiliatus est tibi Deus ...<verse eID="1Chr.12.18" />
+        <verse sID="1Chr.12.38" osisID="1Chr.12.38" />Omnes hi viri bellatores dirigentes aciem, corde pacifico venerunt in Hebron, ut constituerent David super omnem Israel ...<verse eID="1Chr.12.38" />
+      </p>
+      <chapter eID="1Chr.12" />
+      <chapter sID="1Chr.17" osisID="1Chr.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="1Chr.17.11" osisID="1Chr.17.11" />Et erit cum completi fuerint dies tui, et dormies cum patribus tuis, suscitabo semen tuum post te, qui erit de ventre tuo, et parabo regnum eius.<verse eID="1Chr.17.11" />
+        <verse sID="1Chr.17.12" osisID="1Chr.17.12" />Ipse mihi aedificabit domum, et erigam sedem eius in saeculum.<verse eID="1Chr.17.12" />
+        <verse sID="1Chr.17.13" osisID="1Chr.17.13" />Ego ero ei in patrem, et ipse erit mihi in filium, et misericordiam meam non dispergam ab eo, sicut dispersi ab iis, qui ante fuerunt.<verse eID="1Chr.17.13" />
+        <verse sID="1Chr.17.14" osisID="1Chr.17.14" />Et fidelem eum servabo in domo mea, et in regno eius in saeculum.<verse eID="1Chr.17.14" />
+      </p>
+      <chapter eID="1Chr.17" />
+      <chapter sID="1Chr.21" osisID="1Chr.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="1Chr.21.8" osisID="1Chr.21.8" />... Peccavi valde quoniam verbum hoc feci, et nunc Domine, dele iniquitatem servi tui ...<verse eID="1Chr.21.8" />
+        <verse sID="1Chr.21.11" osisID="1Chr.21.11" />... Quid fieri velis elige,<verse eID="1Chr.21.11" />
+        <verse sID="1Chr.21.12" osisID="1Chr.21.12" />triennium famen super terram, aut tribus mensibus fugere te a facie inimicorum tuorum, et illos persequentes, aut triduo fieri mortem in terra, et nunc scito, et vide quid respondeam illi, qui misit me.<verse eID="1Chr.21.12" />
+        <verse sID="1Chr.21.13" osisID="1Chr.21.13" />Et dixit David ad Nathan, Angustiae mihi sunt in his tribus, sed magis incidam in manus Domini, quoniam magna est misericordia illius, quam in hominum manus.<verse eID="1Chr.21.13" />
+        <verse sID="1Chr.21.17" osisID="1Chr.21.17" />... Ecce ego sum, ego peccavi, et ego pastor male feci, et isti in hoc grege quid fecerunt? Fiat manus tua in me, et in domum patris mei ...<verse eID="1Chr.21.17" />
+      </p>
+      <chapter eID="1Chr.21" />
+      <chapter sID="1Chr.22" osisID="1Chr.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="1Chr.22.14" osisID="1Chr.22.14" />... Ecce congregavi de paupertate mea auri talenta centum millia, et argenti mille millia, et aeris, et ferri, quorum numerus non est ...<verse eID="1Chr.22.14" />
+      </p>
+      <chapter eID="1Chr.22" />
+      <chapter sID="1Chr.28" osisID="1Chr.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="1Chr.28.9" osisID="1Chr.28.9" />Et tu Salomon fili mi, cognose Deum, et servi ei in corde perfecto, et anima volente, quia omnia corda scrutatur Dominus, et omnem cogitationem mentium novit. Si quaesieris eum, invenietur tibi, et si dimiseris eum, repellet te in perpetuum.<verse eID="1Chr.28.9" />
+      </p>
+      <chapter eID="1Chr.28" />
+    </div>
+  </osisText>
+</osis>

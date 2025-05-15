@@ -1,0 +1,203 @@
+INPUT_SOURCE: data/input/
+LIBRI_G_Lxx: libri_g_lxx/
+LIBRI_Vulgata: libri_vulgata/
+LILA_TEXTLINKER: https://lila-erc.eu/LiLaTextLinker/processText
+LILA_SPARQLEP: https://lila-erc.eu/sparql/lila_knowledge_base/sparql
+NAMESPACES:
+    its: http://itserr.it/data/
+    efrbroo: http://erlangen-crm.org/efrbroo/
+    orl: https://dantenetwork.it/ontology/orl/current/
+    lemon: http://lemon-model.net/lemon#
+    ecrm: https://erlangen-crm.org/current/
+    olires: https://dantenetwork.it/ontology/olires/current/
+    ontolex: http://www.w3.org/ns/lemon/ontolex#
+    metont: https://dantenetwork.it/ontology/metont/current/
+    cnt: http://www.w3.org/2011/content#
+    syntit: https://dantenetwork.it/ontology/syntit/current/
+    iront: https://dantenetwork.it/ontology/iront/current/
+    tresont: https://itserr.it/ns/tresont/current/
+    lila: http://lila-erc.eu/ontologies/lila/
+    lilaLemma: http://lila-erc.eu/data/id/lemma/
+    lilaIpoLemma: http://lila-erc.eu/data/id/hypolemma/
+SIGLAOPERA: wv
+TITOLOOPERA: Biblia Sacra Vulgata
+TEXTFILES:
+    - Genesis
+    - Exodus
+    - Leviticus
+    - Numbers
+    - Deuteronomy
+    - Joshua
+    - Judges
+    - Ruth
+    - Samuel-1
+    - Samuel-2
+    - Kings-1
+    - Kings-2
+    - Chronicles-1
+    - Chronicles-2
+    - Esdrae-1
+    - Esdrae-2
+    - Tobit
+    - Judith
+    - Esther
+    - Job
+    - Psalms-iuxta-septuaginta
+    - Psalms-iuxta-hebraicum
+    - Proverbs
+    - Ecclesiastes
+    - Song-of-solomon
+    - Wisdom
+    - Sirach
+    - Isaiah
+    - Jeremiah
+    - Lamentations
+    - Baruch
+    - Ezekiel
+    - Daniel
+    - Hosea
+    - Joel
+    - Amos
+    - Obadiah
+    - Jonah
+    - Micah
+    - Nahum
+    - Habakkuk
+    - Zephaniah
+    - Haggai
+    - Zachariah
+    - Malachi
+    - Maccabees-1
+    - Maccabees-2
+    - Matthew
+    - Mark
+    - Luke
+    - John
+    - Acts
+    - Romans
+    - Corinthias-1
+    - Corinthias-2
+    - Galatians
+    - Ephesians
+    - Philippians
+    - Colossians
+    - Thessalonians-1
+    - Thessalonians-2
+    - Timothy-1
+    - Timothy-2
+    - Titus
+    - Philemon
+    - Hebrews
+    - James
+    - Peter-1
+    - Peter-2
+    - John-1
+    - John-2
+    - John-3
+    - Jude
+    - Revelation
+    - Prayer-of-Manasseh
+    - Esdrae-3
+    - Esdrae-4
+    - Psalm-151
+    - Laodicenses
+
+TITOLILIBRI: {
+    'genesis':['Gen', 'Genesis'],
+    'exodus':['Exo', 'Exodus'],
+    'leviticus':['Lev', 'Leviticus'],
+    'numbers':['Num', 'Numeri', 'numbers'],
+    'deuteronomy':['Deu', 'Deuteronomium', 'deuteronomy' ],
+    'joshua':['Jos', 'Josue', 'joshua'],
+    'judges':['Jdg', 'Iudicum', 'judges'],
+    'ruth': ['Rut', 'Ruth'],
+    'samuel-1':['1Sa', 'I Samuhel', 'I Regum', 'samuel-1'],
+    'samuel-2':['2Sa', 'II Samuhel', 'II Regum', 'samuel-2'],
+    'kings-1':['1Ki', 'I Malachim', 'III Regum', 'kings-1'],
+    'kings-2':['2Ki', 'II Malachim', 'IV Regum', 'kings-2'],
+    'chronicles-1':['1Ch', 'I Verba Dierum', 'I Paralipomenon', 'chronicles-1'],
+    'chronicles-2':['2Ch', 'II Verba Dierum', 'II Paralipomenon', 'chronicles-2'],
+    'esdrae-1':['1Es', 'I Ezras', 'I Esdrae', 'esdrae-1'],
+    'esdrae-2':['2Es', 'II Ezras', 'II Esdrae', 'esdrae-2'],
+    'tobit':['Tob', 'Tobias', 'tobit'],
+    'judith':['Jud', 'Iudith', 'judith'],
+    'esther':['Est', 'Hester', 'esther'],
+    'job':['Job', 'Iob', 'job'],
+    'psalms':['pis', 'Psalmi iuxta Septuaginta', 'psalms'],
+    'psalms-iuxtra-hebraicum':['Pih', 'Psalmi iuxta Hebraicum', 'psalms-iuxtra-hebraicum'],
+    'proverbs':['Pr', 'Libri Salomonis', 'Proverbia', 'proverbs'],
+    'ecclesiastes':['Ecc', 'Ecclesiastes'],
+    'song-of-solomon':['Sos', 'Canticum Canticorum', 'song-of-solomon'],
+    'wisdom':['Wis', 'Sapientia', 'wisdom'],
+    'sirach':['Sir', 'Sirach', 'Ecclesiasticus','sirach'],
+    'isaiah':['Isa', 'Isaias','isaiah'],
+    'jeremiah':['Jer', 'Hieremias','jeremiah'],
+    'lamentations':['Lam', 'Threni', 'Lamentationes','lamentations'],
+    'baruch':['Bar', 'Baruch','baruch'],
+    'ezekiel':['Eze', 'Hiezechiel','ezekiel'],
+    'daniel':['Dan', 'Danihel','daniel'],
+    'hosea':['Hos', 'Osee','hosea'],
+    'joel':['Joe', 'Iohel','joel'],
+    'amos':['Amo', 'Amos','amos'],
+    'obadiah':['Oba', 'Abdias','obadiah'],
+    'jonah':['Jon', 'Ionas','jonah'],
+    'micah':['Mic', 'Micha','micah'],
+    'nahum':['Nah', 'Naum','nahum'],
+    'habakkuk':['Hab', 'Abacuc','habakkuk'],
+    'zephaniah':['Zep', 'Sofonias', 'zephaniah'],
+    'haggai':['Hag', 'Aggeus', 'haggai'],
+    'zachariah':['Zac', 'Zaccharias', 'zachariah'],
+    'malachi':['Mal', 'Malachi'],
+    'maccabees-1':['1Ma', 'I Macchabaeorum', 'maccabees-1'],
+    'maccabees-2':['2Ma', 'II Macchabaeorum', 'maccabees-2'],
+    'matthew':['Mat', 'Secundum Mattheum', 'matthew'],
+    'mark':['Mar', 'Secundum Marcum', 'mark'],
+    'luke':['Luk', 'Secundum Lucam','luke'],
+    'john':['Joh', 'Secundum Iohannem', 'john'],
+    'acts':['Act', 'Actus Apostolorum', 'acts'],
+    'romans':['Rom', 'Ad Romanos', 'romans'],
+    'corinthias-1':['1Co', 'Ad Corinthios I', 'corinthias-1'],
+    'corinthias-2':['2Co', 'Ad Corinthios II', 'corinthias-2'],
+    'galatians':['Gal', 'Ad Galatas', 'galatians'],
+    'ephesians':['Eph', 'Ad Ephesios', 'ephesians'],
+    'philippians':['Phi', 'Ad Philippenses', 'philippians'],
+    'colossians':['Col', 'Ad Colossenses', 'colossians'],
+    'thessalonians-1':['1Th', 'Ad Thessalonicenses I', 'thessalonians-1'],
+    'thessalonians-2':['2Th', 'Ad Thessalonicenses II', 'thessalonians-2'],
+    'timothy-1':['1Ti', 'Ad Timotheum I', 'timothy-1'],
+    'timothy-2':['2Ti', 'Ad Timotheum II', 'timothy-2'],
+    'titus':['Tit', 'Ad Titum', 'titus'],
+    'philemon':['Phil', 'Ad Philemonem', 'philemon'],
+    'hebrews':['Heb', 'Ad Hebraeos', 'hebrews'],
+    'james':['Jam', 'Iacobi', 'james'],
+    'peter-1':['1Pe', 'I Petri', 'peter-1'],
+    'peter-2':['2Pe', 'II Petri','peter-2'],
+    'john-1':['1Jh', 'I Iohannis', 'john-1'],
+    'john-2':['2Jh', 'II Iohannis','john-2'],
+    'john-3':['3Jh', 'III Iohannis', 'john-3'],
+    'jude':['Jude', 'Iudae', 'jude'],
+    'revelation':['Rev', 'Apocalypsis', 'revelation'],
+    'prayer-of-manasseh':['Pom', 'Oratio Manasse', 'prayer-of-manasseh'],
+    'esdrae-3':['3Es', 'III Ezras', 'III Esdrae', 'esdrae-3'],
+    'esdrae-4':['4Es', 'IVEzras', 'IV Esdrae', 'esdrae-4'],
+    'psalm-151':['Psa', 'Psalmus CLI', 'psalm-151'],
+    'laodicenses':['Lao', 'Ad Laodicenses', 'laodicenses']
+}
+
+SIGLEPOS: {
+    'SCONJ': ['subordinating_conjunction', 'a'],
+    'NUM': ['numeral', 'b'],
+    'PRON': ['pronoun', 'c'],
+    'INTJ': ['interjection', 'd'],
+    'DET': ['determiner', 'e'],
+    'PROPN': ['proper_noun', 'f'],
+    'ADP': ['adposition', 'g'],
+    'CCONJ': ['coordinating_conjunction', 'h'],
+    'ADV': ['adverb', 'i'],
+    'ADJ': ['adjective', 'l'],
+    'VERB': ['verb', 'm'],
+    'AUX': ['verb', 'n'],
+    'NOUN': ['noun', 'o'], 
+    'PART': ['particle', 'p'],
+    'PUNCT': ['punct', 'q']
+}

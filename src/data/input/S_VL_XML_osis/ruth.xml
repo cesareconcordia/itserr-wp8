@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Ruth" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Ruth">
+        <title>ruth</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Ruth</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>ruth</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Ruth">
+      <title>ruth</title>
+      <chapter sID="Ruth.1" osisID="Ruth.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Ruth.1.1" osisID="Ruth.1.1" />... Bethleem civitate Iudaeae abiit vir, colere in agro Moab cum uxore et duobus filiis,<verse eID="Ruth.1.1" />
+        <verse sID="Ruth.1.2" osisID="Ruth.1.2" />Elimelech viro nomen, mulieri, Noemi ...<verse eID="Ruth.1.2" />
+        <verse sID="Ruth.1.4" osisID="Ruth.1.4" />Filii eius acceperunt sibi uxores Moabitidas, nomen uni Orpha, et nomen secundae Ruth. Et inhabitaverunt illic quasi decem annis,<verse eID="Ruth.1.4" />
+        <verse sID="Ruth.1.5" osisID="Ruth.1.5" />et mortui sunt ...<verse eID="Ruth.1.5" />
+        <verse sID="Ruth.1.15" osisID="Ruth.1.15" />... Ecce iam consponsa tua ad populum suum regressa est, et ad deos suos, et tu revertere pariter cum consponsa tua.<verse eID="Ruth.1.15" />
+        <verse sID="Ruth.1.16" osisID="Ruth.1.16" />Respondit Ruth, Non contingat mihi dimittere te et redire ad deos meos, quia quocunque tu ieris, ibo tecum, et ubi tu habitaveris, habitabo. Populus tuus populus meus, et Deus tuus Deus meus.<verse eID="Ruth.1.16" />
+        <verse sID="Ruth.1.17" osisID="Ruth.1.17" />Et ubi mortua fueris, moriar, et ubi sepulta fueris, sepeliar. Hoc faciat mihi Deus, et hoc augeat, si non sola mors separaverit inter te et me.<verse eID="Ruth.1.17" />
+      </p>
+      <chapter eID="Ruth.1" />
+      <chapter sID="Ruth.2" osisID="Ruth.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Ruth.2.4" osisID="Ruth.2.4" />... dixit que Booz iuveni, qui messoribus praeerat, Dominus vobiscum. Qui responderunt ei, Benedicat tibi Dominus.<verse eID="Ruth.2.4" />
+      </p>
+      <chapter eID="Ruth.2" />
+      <chapter sID="Ruth.3" osisID="Ruth.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Ruth.3.10" osisID="Ruth.3.10" />... quia mulier virtutis es tu, vel quia bene fecisti misericordiam tuam novissimam, plusquam primam ...<verse eID="Ruth.3.10" />
+      </p>
+      <chapter eID="Ruth.3" />
+      <chapter sID="Ruth.4" osisID="Ruth.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Ruth.4.7" osisID="Ruth.4.7" />... solvebat vir calciamentum suum, et dabat proximo suo, dicens, Hoc erit in testimonium in Israel.<verse eID="Ruth.4.7" />
+        <verse sID="Ruth.4.8" osisID="Ruth.4.8" />Et dicebat propinquus, Accipe, et adquire tibi tu. Et solvebat calciamentum suum ...<verse eID="Ruth.4.8" />
+        <verse sID="Ruth.4.11" osisID="Ruth.4.11" />... det Dominus mulierem, quae intrat in domum tuam, sicut Rachel, et sicut Liam, quae aedificaverunt domum Israel, et facere virtutem in Ephrata, et sit nomen in Bethleem,<verse eID="Ruth.4.11" />
+        <verse sID="Ruth.4.12" osisID="Ruth.4.12" />et fiat domus tua, sicut domus Phares, quem peperit Thamar Iudae. De semine tuo det tibi Dominus ex hac puella.<verse eID="Ruth.4.12" />
+        <verse sID="Ruth.4.13" osisID="Ruth.4.13" />Et accepit Booz Ruth, et facta est ei in matrimonium ...<verse eID="Ruth.4.13" />
+      </p>
+      <chapter eID="Ruth.4" />
+    </div>
+  </osisText>
+</osis>

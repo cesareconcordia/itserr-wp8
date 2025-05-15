@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Num" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Num">
+        <title>numbers</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Num</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>numbers</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Num">
+      <title>numbers</title>
+      <chapter sID="Num.1" osisID="Num.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Num.1.2" osisID="Num.1.2" />Tollite summam omnis synagogae Israel iuxta cognationes et populos, secundum domos paternitatum, iuxta numerum nominum eorum ...<verse eID="Num.1.2" />
+        <verse sID="Num.1.3" osisID="Num.1.3" />a viginti annis et supra, omnis egrediens ad praeliandum in Israel ...<verse eID="Num.1.3" />
+        <verse sID="Num.1.4" osisID="Num.1.4" />Et vobiscum erunt unusquisque secundum caput uniuscuiusque principum ...<verse eID="Num.1.4" />
+        <verse sID="Num.1.16" osisID="Num.1.16" />Hi sunt electi synagogae, principes tribuum iuxta paternitates suas, duces Israel.<verse eID="Num.1.16" />
+        <verse sID="Num.1.20" osisID="Num.1.20" />Et fuerunt filii Ruben primogeniti Israelis secundum propinquitates eorum, secundum populos eorum, secundum domos familiarum eorum, secundum numerum nominum eorum, secundum caput eorum, omnia masculina a viginti annis et supra, omnis qui procedit in virtute, recognitio eorum,<verse eID="Num.1.20" />
+        <verse sID="Num.1.22" osisID="Num.1.22" />Filiis Simeon secundum propinquitates eorum, secundum populos eorum, secundum domos familiarum eorum, secundum numerum nominum eorum, secundum caput eorum, omnia masculina a viginti annis et supra, omnis qui procedit in virtute, recognitio eorum,<verse eID="Num.1.22" />
+        <verse sID="Num.1.45" osisID="Num.1.45" />... numeratio filiorum Israel cum exercitu eorum a viginti annis et supra, omnis egrediens ad praeliandum in Israel,<verse eID="Num.1.45" />
+        <verse sID="Num.1.49" osisID="Num.1.49" />... non accipies eos inter filios Israel.<verse eID="Num.1.49" />
+        <verse sID="Num.1.50" osisID="Num.1.50" />Sed constitues Levitas super tabernaculum testimonii, et super omnia vasa eius adstare, et super quaecunque sunt in ipso. Ipsi tollant tabernaculum et omnia vasa eius. Et ipsi ministrent in eo, et in circuitu tabernaculi castra ipsi constituant.<verse eID="Num.1.50" />
+        <verse sID="Num.1.51" osisID="Num.1.51" />Et promovendo tabernaculum, ipsi deponant Levitae. Et constituendo castra, rursum ipsum tabernaculum ipsi statuant. Alienigena, quicunque accesserit, morte moriatur.<verse eID="Num.1.51" />
+        <verse sID="Num.1.54" osisID="Num.1.54" />Et fecerunt filii Israel secundum omnia quae mandavit Dominus Moysi et Aaron, ita fecerunt.<verse eID="Num.1.54" />
+      </p>
+      <chapter eID="Num.1" />
+      <chapter sID="Num.3" osisID="Num.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Num.3.3" osisID="Num.3.3" />... sacerdotes qui uncti sunt, quorum consummaverunt manus eorum sacerdotio fungi.<verse eID="Num.3.3" />
+        <verse sID="Num.3.5" osisID="Num.3.5" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Num.3.5" />
+        <verse sID="Num.3.6" osisID="Num.3.6" />Accipe tribum Levi, et statues eos in conspectu Aaron sacerdotis, et ministrabunt ei, et custodient custodias eius,<verse eID="Num.3.6" />
+        <verse sID="Num.3.7" osisID="Num.3.7" />et custodias filiorum Israel ante tabernaculum testimonii ...<verse eID="Num.3.7" />
+        <verse sID="Num.3.10" osisID="Num.3.10" />... Alienigena, qui tetigerit, morietur.<verse eID="Num.3.10" />
+        <verse sID="Num.3.12" osisID="Num.3.12" />Ecce eligo Levitas de medio filiorum Israel pro omni primogenito, aperiente vulvam filiis Israel. Redemptiones eorum erunt isti, et erunt mihi Levitae.<verse eID="Num.3.12" />
+        <verse sID="Num.3.13" osisID="Num.3.13" />Mihi enim omne primitivum. In qua die percussi omne primogenitum Aegypti, sanctificavi omne primogenitum Israel ...<verse eID="Num.3.13" />
+        <verse sID="Num.3.14" osisID="Num.3.14" />Et locutus est Dominus ad Moysen in deserto Sina, dicens,<verse eID="Num.3.14" />
+        <verse sID="Num.3.15" osisID="Num.3.15" />Numera filios Levi secundum domos paternitatum suarum, secundum populos eorum, secundum cognationes eorum, omne masculinum a mense uno et supra, considerate eos.<verse eID="Num.3.15" />
+      </p>
+      <chapter eID="Num.3" />
+      <chapter sID="Num.4" osisID="Num.4" />
+      <title>Chatper 4</title>
+      <p>
+        <verse sID="Num.4.7" osisID="Num.4.7" />... et panes qui semper super eam erunt.<verse eID="Num.4.7" />
+        <verse sID="Num.4.11" osisID="Num.4.11" />Et super altare aureum adoperient vestimentum hyacinthinum, et adoperient illud operimento pelliceo hyacinthino ...<verse eID="Num.4.11" />
+        <verse sID="Num.4.14" osisID="Num.4.14" />Et imponent super illud omnia vasa eius, quibus ministrant in ipsis ...<verse eID="Num.4.14" />
+        <verse sID="Num.4.17" osisID="Num.4.17" />Et locutus est Dominus ad Moysen et Aaron, dicens,<verse eID="Num.4.17" />
+        <verse sID="Num.4.18" osisID="Num.4.18" />Nolite disperdere a tribu sua plebem Caath de medio Levitarum.<verse eID="Num.4.18" />
+        <verse sID="Num.4.19" osisID="Num.4.19" />Hoc facite eis, et vivent, et non morientur, accedentibus illis ad sancta sanctorum. Aaron et filii eius ingrediantur, et ordinent eos, unumquemque prout portandi locum habet.<verse eID="Num.4.19" />
+        <verse sID="Num.4.20" osisID="Num.4.20" />Et non intrent de subito videre sanctum ...<verse eID="Num.4.20" />
+      </p>
+      <chapter eID="Num.4" />
+      <chapter sID="Num.5" osisID="Num.5" />
+      <title>Chatper 5</title>
+      <p>
+        <verse sID="Num.5.6" osisID="Num.5.6" />... Vir, aut mulier, quicunque fecerit ab omnibus peccatis humanis, et despiciens despexerit, et deliquerit anima illa,<verse eID="Num.5.6" />
+        <verse sID="Num.5.7" osisID="Num.5.7" />annuntiabit peccatum quod peccavit, et restituet delictum. Caput, et quintas eius adiiciet super illud, et reddet cui deliquit ei.<verse eID="Num.5.7" />
+        <verse sID="Num.5.8" osisID="Num.5.8" />Si autem non fuerit homini proximus, ita ut reddat illi delictum ad ipsum. Delictum, quod redditur Domino, sacerdoti erit, excepto ariete propitiationis, per quem exorabit in illo pro eo.<verse eID="Num.5.8" />
+        <verse sID="Num.5.12" osisID="Num.5.12" />... Viri viri, si praevaricata fuerit uxor eius ...<verse eID="Num.5.12" />
+        <verse sID="Num.5.14" osisID="Num.5.14" />Si superveniet illi spiritus zelandi, illa autem non fuerit inquinata,<verse eID="Num.5.14" />
+        <verse sID="Num.5.15" osisID="Num.5.15" />et adducet homo uxorem suam ad sacerdotem ...<verse eID="Num.5.15" />
+        <verse sID="Num.5.18" osisID="Num.5.18" />... erit aqua argutionis, quae maledicitur, haec.<verse eID="Num.5.18" />
+        <verse sID="Num.5.19" osisID="Num.5.19" />... innocens esto ab aqua argutionis, quae maledicitur haec.<verse eID="Num.5.19" />
+        <verse sID="Num.5.21" osisID="Num.5.21" />... Det te Dominus in maledictum, et in exsecramentum ...<verse eID="Num.5.21" />
+      </p>
+      <chapter eID="Num.5" />
+      <chapter sID="Num.6" osisID="Num.6" />
+      <title>Chatper 6</title>
+      <p>
+        <verse sID="Num.6.2" osisID="Num.6.2" />... Vir, vel mulier, quicunque magne voverit votum ...<verse eID="Num.6.2" />
+        <verse sID="Num.6.14" osisID="Num.6.14" />Et offeret munus suum Domino, agnum anniculum sine vitio in holocaustoma, et agnam anniculam sine vitio unam in peccatum ...<verse eID="Num.6.14" />
+        <verse sID="Num.6.23" osisID="Num.6.23" />... Sic benedices populum meum, et ego benedicam illos ...<verse eID="Num.6.23" />
+        <verse sID="Num.6.24" osisID="Num.6.24" />Benedicat te Dominus, et custodiat te.<verse eID="Num.6.24" />
+        <verse sID="Num.6.25" osisID="Num.6.25" />Illuminet Dominus faciem suam super te, et misereatur tui.<verse eID="Num.6.25" />
+        <verse sID="Num.6.26" osisID="Num.6.26" />Attollat Dominus faciem suam super te, et det tibi pacem.<verse eID="Num.6.26" />
+        <verse sID="Num.6.27" osisID="Num.6.27" />Vos ponite nomen meum super filios Israel, ego Dominus benedicam eos.<verse eID="Num.6.27" />
+      </p>
+      <chapter eID="Num.6" />
+      <chapter sID="Num.7" osisID="Num.7" />
+      <title>Chatper 7</title>
+      <p>
+        <verse sID="Num.7.3" osisID="Num.7.3" />... sex vehicula tecta, et duodecim boves. Vehiculum a duobus principibus, et vitulum a singulis ...<verse eID="Num.7.3" />
+        <verse sID="Num.7.11" osisID="Num.7.11" />... Princeps unus quotidie, princeps quotidie offerent dona sua ...<verse eID="Num.7.11" />
+        <verse sID="Num.7.15" osisID="Num.7.15" />vitulum unum pro bobus ...<verse eID="Num.7.15" />
+        <verse sID="Num.7.16" osisID="Num.7.16" />et hircum ex capris unum ...<verse eID="Num.7.16" />
+      </p>
+      <chapter eID="Num.7" />
+      <chapter sID="Num.8" osisID="Num.8" />
+      <title>Chatper 8</title>
+      <p>
+        <verse sID="Num.8.5" osisID="Num.8.5" />Et locutus est Dominus ad Moysen, dicens,<verse eID="Num.8.5" />
+        <verse sID="Num.8.6" osisID="Num.8.6" />Accipe Levitas de medio filiorum Israel, et purificabis eos,<verse eID="Num.8.6" />
+        <verse sID="Num.8.7" osisID="Num.8.7" />et ita facies eis purificationem eorum. Circumsparges eos aqua purificationis ...<verse eID="Num.8.7" />
+        <verse sID="Num.8.19" osisID="Num.8.19" />... et non erit in filiis Israel accedens filiorum Israel ad sancta.<verse eID="Num.8.19" />
+        <verse sID="Num.8.20" osisID="Num.8.20" />Et fecit Moyses et Aaron, et omnis synagoga filiorum Israel Levitis secundum quae praecepit Dominus Moysi de Levitis, ita fecerunt eis filii Israel.<verse eID="Num.8.20" />
+        <verse sID="Num.8.23" osisID="Num.8.23" />Locutus est Dominus ad Moysen, dicens,<verse eID="Num.8.23" />
+        <verse sID="Num.8.24" osisID="Num.8.24" />Hoc est de Levitis, A quinto et vicesimo anno et supra, introibunt ministrare in ministerium in operibus in tabernaculo testimonii.<verse eID="Num.8.24" />
+        <verse sID="Num.8.25" osisID="Num.8.25" />Et a quinquagenario recedet ab administratione, et non operabitur ultra.<verse eID="Num.8.25" />
+        <verse sID="Num.8.26" osisID="Num.8.26" />Et ministrabit frater eius, in tabernaculo testimonii custodire custodias, opera autem non operabitur ...<verse eID="Num.8.26" />
+      </p>
+      <chapter eID="Num.8" />
+      <chapter sID="Num.9" osisID="Num.9" />
+      <title>Chatper 9</title>
+      <p>
+        <verse sID="Num.9.12" osisID="Num.9.12" />... os eius non conteretur ...<verse eID="Num.9.12" />
+        <verse sID="Num.9.13" osisID="Num.9.13" />Et homo homo, quicunque mundus fuerit, et in viam longinquam non est, et defuerit facere pascha, exterminabitur anima illa de populo suo ...<verse eID="Num.9.13" />
+        <verse sID="Num.9.15" osisID="Num.9.15" />Et die qua statutum est tabernaculum, texit nubes tabernaculum, domum testimonii. Et vespere erat super tabernaculum velut species ignis usque mane.<verse eID="Num.9.15" />
+        <verse sID="Num.9.16" osisID="Num.9.16" />Ita fiebat semper. Nubes tegebat illud die, et species ignis nocte.<verse eID="Num.9.16" />
+        <verse sID="Num.9.17" osisID="Num.9.17" />Et cum ascendisset nubes a tabernaculo, et postea promovebant filii Israel. Et in loco ubicunque steterat nubes, ibi castra collocabant filii Israel.<verse eID="Num.9.17" />
+        <verse sID="Num.9.18" osisID="Num.9.18" />Per praeceptum Domini castra collocabunt filii Israel, et per praeceptum Domini promovebunt. Omnes dies in quibus obumbrat nubes super tabernaculum, in castris erunt filii Israel.<verse eID="Num.9.18" />
+        <verse sID="Num.9.19" osisID="Num.9.19" />Et quando protraxerit nubes super tabernaculum dies plures, et custodient filii Israel custodiam Dei, et non promovebunt.<verse eID="Num.9.19" />
+        <verse sID="Num.9.20" osisID="Num.9.20" />Et erit, cum texerit nubes dies numero super tabernaculum, per vocem Domini in castris erunt, et per praeceptum Domini promovebunt.<verse eID="Num.9.20" />
+        <verse sID="Num.9.21" osisID="Num.9.21" />Et erit, cum fuerit nubes a vespera usque mane, et ascenderit nubes mane, et promovebunt die. Vel nocte et si ascenderit nubes, promovebunt.<verse eID="Num.9.21" />
+        <verse sID="Num.9.22" osisID="Num.9.22" />Die, vel manse diei, abundante nube obumbrante super illud, in castris erunt filii Israel, et non promovebunt.<verse eID="Num.9.22" />
+        <verse sID="Num.9.23" osisID="Num.9.23" />Quoniam per praeceptum Domini promovebunt, custodiam Domini custodierunt per praeceptum Domini in manu Moysi.<verse eID="Num.9.23" />
+      </p>
+      <chapter eID="Num.9" />
+      <chapter sID="Num.10" osisID="Num.10" />
+      <title>Chatper 10</title>
+      <p>
+        <verse sID="Num.10.1" osisID="Num.10.1" />Locutus est Dominus ad Moysen, dicens,<verse eID="Num.10.1" />
+        <verse sID="Num.10.2" osisID="Num.10.2" />Fac tibi duas tubas ductiles. Argenteas facies eas. Et erunt tibi ad evocandam synagogam, et promovenda castra.<verse eID="Num.10.2" />
+        <verse sID="Num.10.3" osisID="Num.10.3" />Et tuba canes in illis, et colligetur omnis turba ad ostium tabernaculi testimonii.<verse eID="Num.10.3" />
+        <verse sID="Num.10.4" osisID="Num.10.4" />Si autem in una tuba cecineris, ad te venient omnes principes, et duces Israel.<verse eID="Num.10.4" />
+        <verse sID="Num.10.5" osisID="Num.10.5" />Et tuba canetis significationem primam, et promovebunt castra, et constituentur ad orientem.<verse eID="Num.10.5" />
+        <verse sID="Num.10.6" osisID="Num.10.6" />Et tuba canetis significationem secundam, et promovebunt castra, et constituentur ad libanum. Et tuba canetis significationem tertiam, et promovebunt castra, quae constituentur ad boream. Et tuba canetis significationem quartam, et promovebunt castra, quae constituentur ad aquilonem. Significationem tuba canent in promotu eorum.<verse eID="Num.10.6" />
+        <verse sID="Num.10.7" osisID="Num.10.7" />Et cum congregabitis synagogam, tuba canite, et non significationem.<verse eID="Num.10.7" />
+        <verse sID="Num.10.8" osisID="Num.10.8" />Et filii Aaron sacerdotes tubis canent. Et erit vobis legitimum aeternum in progenies vestras.<verse eID="Num.10.8" />
+        <verse sID="Num.10.9" osisID="Num.10.9" />Si autem exieritis in bellum in terram vestram ad adversarios qui resistunt vobis, significabitis tubis, et reminiscemini coram Domino, et liberationem habebitis a mortuis vestris.<verse eID="Num.10.9" />
+        <verse sID="Num.10.10" osisID="Num.10.10" />Et in diebus laetitiae vestrae, et in diebus festis vestris, et in neomeniis vestris concinite tubis, et in holocaustis, et sacrificiis salutaribus vestris. Et erit vobis in commemoratione vestra coram Domino, ait Dominus ...<verse eID="Num.10.10" />
+        <verse sID="Num.10.14" osisID="Num.10.14" />Et promovebunt ordo castrorum filiorum Iuda primi ...<verse eID="Num.10.14" />
+        <verse sID="Num.10.17" osisID="Num.10.17" />... et promovebunt filii Gerson, et filii Merari ...<verse eID="Num.10.17" />
+        <verse sID="Num.10.29" osisID="Num.10.29" />Et dixit Moyses Obeth filio Raguel Madianitae, genero Moysi ...<verse eID="Num.10.29" />
+        <verse sID="Num.10.30" osisID="Num.10.30" />Et dixit ad eum, Non ibo, sed ad terram meam, et ad progeniem meam.<verse eID="Num.10.30" />
+      </p>
+      <chapter eID="Num.10" />
+      <chapter sID="Num.11" osisID="Num.11" />
+      <title>Chatper 11</title>
+      <p>
+        <verse sID="Num.11.4" osisID="Num.11.4" />Et promiscuus, qui erat in eis, concupiverunt concupiscentiam ... Quis nos vescet carne?<verse eID="Num.11.4" />
+        <verse sID="Num.11.5" osisID="Num.11.5" />Venerunt in mentem nobis pisces, quos in Aegypto edebamus gratis, et cucumeres, et pepones, et porri, et cepe, et allia.<verse eID="Num.11.5" />
+        <verse sID="Num.11.6" osisID="Num.11.6" />At nunc anima nostra arida, nihil nisi manna vident oculi nostri<verse eID="Num.11.6" />
+        <verse sID="Num.11.8" osisID="Num.11.8" />... et molebant illud in mola ...<verse eID="Num.11.8" />
+        <verse sID="Num.11.12" osisID="Num.11.12" />Nunquid ego in utero accepi omnem populum istum ...<verse eID="Num.11.12" />
+        <verse sID="Num.11.14" osisID="Num.11.14" />Non potero solus ferre populum istum ...<verse eID="Num.11.14" />
+        <verse sID="Num.11.16" osisID="Num.11.16" />... Constitue tecum septuaginta senes, quos ipse nosti, quoniam senes sunt ...<verse eID="Num.11.16" />
+        <verse sID="Num.11.17" osisID="Num.11.17" />... et auferam de spiritu qui est in te, et superponam super eos. Et sustinebunt tecum impetum populi, et non portabis illos tu solus.<verse eID="Num.11.17" />
+        <verse sID="Num.11.21" osisID="Num.11.21" />Et dixit Moyses, Sexcenta millia peditum in quibus sum in ipsis. Et tu dixisti, Carnes dabo eis, et edent mense dierum.<verse eID="Num.11.21" />
+        <verse sID="Num.11.22" osisID="Num.11.22" />Nunquid oves et boves occidentur illis, et sufficient illis? Aut omnis piscis congregabitur eis, et sufficient eis?<verse eID="Num.11.22" />
+        <verse sID="Num.11.23" osisID="Num.11.23" />... Nunquid manus Domini non sufficiet? Iam videbis si comprehendit te verbum meum, aut non.<verse eID="Num.11.23" />
+        <verse sID="Num.11.25" osisID="Num.11.25" />... et abstulit de spiritu qui super ipsum ...<verse eID="Num.11.25" />
+        <verse sID="Num.11.29" osisID="Num.11.29" />... quis det ut omnis populus Domini sit in prophetas, et det Dominus Spiritum suum super eos?<verse eID="Num.11.29" />
+        <verse sID="Num.11.33" osisID="Num.11.33" />Carnes adhuc erant in dentibus eorum ... et percussit Dominus plagam magnam valde.<verse eID="Num.11.33" />
+        <verse sID="Num.11.34" osisID="Num.11.34" />Et hinc vocatum est nomen loci illius, Sepulcra concupiscentiae, quia ibi sepelierunt populum desideratorem. A sepulchris concupiscentiae profectus est populus in Aseroth ...<verse eID="Num.11.34" />
+      </p>
+      <chapter eID="Num.11" />
+      <chapter sID="Num.12" osisID="Num.12" />
+      <title>Chatper 12</title>
+      <p>
+        <verse sID="Num.12.3" osisID="Num.12.3" />(Et homo Moyses lenis valde plus quam omnes homines super terram.)<verse eID="Num.12.3" />
+        <verse sID="Num.12.6" osisID="Num.12.6" />... Audite verba mea. Si fuerit propheta inter vos Domino, in visione illi cognoscar, et in somno loquar illi.<verse eID="Num.12.6" />
+        <verse sID="Num.12.7" osisID="Num.12.7" />Non ita quomodo famulus meus Moyses, in tota domo mea fidelis est.<verse eID="Num.12.7" />
+        <verse sID="Num.12.8" osisID="Num.12.8" />Os ad os loquar ad illum. In specie, et non per aenigmata et claritatem Domini vidit. Et quare non timuistis detrahere de famulo meo Mosi?<verse eID="Num.12.8" />
+        <verse sID="Num.12.9" osisID="Num.12.9" />Et ira animationis Domini super eos ...<verse eID="Num.12.9" />
+        <verse sID="Num.12.10" osisID="Num.12.10" />... Et ecce Maria leprosa sicut nix ...<verse eID="Num.12.10" />
+        <verse sID="Num.12.11" osisID="Num.12.11" />... Rogo domine, ne inferas in nos peccatum hoc, quia ignoravimus quod peccavimus in te.<verse eID="Num.12.11" />
+      </p>
+      <chapter eID="Num.12" />
+      <chapter sID="Num.13" osisID="Num.13" />
+      <title>Chatper 13</title>
+      <p>
+        <verse sID="Num.13.1" osisID="Num.13.1" />Et post haec profectus est populus de Aseroth, et castrametatus est in deserto Pharan.<verse eID="Num.13.1" />
+        <verse sID="Num.13.18" osisID="Num.13.18" />... et dixit ad eos, Ascendite ista eremo. Et ascendetis in montem,<verse eID="Num.13.18" />
+        <verse sID="Num.13.19" osisID="Num.13.19" />et videbitis terram, quae sit, et populum qui insidet super eam, si fortis est aut infirmus, si pauci sunt aut multi,<verse eID="Num.13.19" />
+        <verse sID="Num.13.20" osisID="Num.13.20" />quae est terra, in qua isti insidunt super eam, si bona est an nequam, et quae sunt civitates in quibus ipsi inhabitant in ipsis ...<verse eID="Num.13.20" />
+        <verse sID="Num.13.24" osisID="Num.13.24" />... venerunt in vallem botri ...<verse eID="Num.13.24" />
+        <verse sID="Num.13.25" osisID="Num.13.25" />... locum ipsum quem nominaverunt, Vallem botri ...<verse eID="Num.13.25" />
+        <verse sID="Num.13.32" osisID="Num.13.32" />... quoniam fortior est nobis magis.<verse eID="Num.13.32" />
+        <verse sID="Num.13.33" osisID="Num.13.33" />Et protulerunt pavorem terrae, quam exploraverunt eam ... Terram, quam transivimus eam explorare, terra comedens, qui habitant super eam, est ...<verse eID="Num.13.33" />
+      </p>
+      <chapter eID="Num.13" />
+      <chapter sID="Num.14" osisID="Num.14" />
+      <title>Chatper 14</title>
+      <p>
+        <verse sID="Num.14.4" osisID="Num.14.4" />... Demus nobis ducem, et revertamur in Aegyptum.<verse eID="Num.14.4" />
+        <verse sID="Num.14.7" osisID="Num.14.7" />... Terram, quam exploravimus eam, bona est valde valde.<verse eID="Num.14.7" />
+        <verse sID="Num.14.9" osisID="Num.14.9" />... vos autem ne timueritis populum terrae, quoniam cibus nobis sunt. Abscessit enim tempus ab eis. Dominus autem in nobis, ne timueritis eos.<verse eID="Num.14.9" />
+        <verse sID="Num.14.10" osisID="Num.14.10" />Et ait omnis synagoga lapidare eos in lapidibus ...<verse eID="Num.14.10" />
+        <verse sID="Num.14.11" osisID="Num.14.11" />... Et quousque non credunt mihi in omnibus signis, quibus feci in ipsis?<verse eID="Num.14.11" />
+        <verse sID="Num.14.15" osisID="Num.14.15" />Audient Aegyptii cum contriveris hunc populum, et dicent,<verse eID="Num.14.15" />
+        <verse sID="Num.14.16" osisID="Num.14.16" />Quoniam non potuit illos introducere in terram, quam iuravit illis, prostravit illos in deserto.<verse eID="Num.14.16" />
+        <verse sID="Num.14.17" osisID="Num.14.17" />Et nunc magnificetur fortitudo Domini, sicut locutus est, dicens,<verse eID="Num.14.17" />
+        <verse sID="Num.14.18" osisID="Num.14.18" />Dominus longanimis et multae misericordiae, auferens iniquitatem et scelera, et emundans non mundabit reum ...<verse eID="Num.14.18" />
+        <verse sID="Num.14.20" osisID="Num.14.20" />... Propitius ero illis.<verse eID="Num.14.20" />
+        <verse sID="Num.14.21" osisID="Num.14.21" />Veruntamen vivo ego, et vivit nomen meum, quia implebitur gloria mea omnis terra.<verse eID="Num.14.21" />
+        <verse sID="Num.14.24" osisID="Num.14.24" />Puer autem meus Chaleb, quoniam spiritus alius in eo, et affecutus est me, et inducam eum in terram, in quam intravit illuc ...<verse eID="Num.14.24" />
+        <verse sID="Num.14.26" osisID="Num.14.26" />Et ait Dominus ad Moysen et Aaron, dicens,<verse eID="Num.14.26" />
+        <verse sID="Num.14.29" osisID="Num.14.29" />... quotquot murmuraverunt super me,<verse eID="Num.14.29" />
+        <verse sID="Num.14.31" osisID="Num.14.31" />... et haereditate possidebunt terram, quam vos abscessistis ab ea.<verse eID="Num.14.31" />
+        <verse sID="Num.14.35" osisID="Num.14.35" />Ego Dominus locutus sum, nisi ita fecero synagogae malignae isti ...<verse eID="Num.14.35" />
+      </p>
+      <chapter eID="Num.14" />
+      <chapter sID="Num.15" osisID="Num.15" />
+      <title>Chatper 15</title>
+      <p>
+        <verse sID="Num.15.18" osisID="Num.15.18" />Cum intraveritis in terram, in quam induco vos,<verse eID="Num.15.18" />
+        <verse sID="Num.15.19" osisID="Num.15.19" />et cum manducare coeperitis de panibus terrae illius, offeretis oblationem separatam Domino primitias conspersionis vestrae.<verse eID="Num.15.19" />
+        <verse sID="Num.15.20" osisID="Num.15.20" />Panem sicut oblationem de area,<verse eID="Num.15.20" />
+        <verse sID="Num.15.21" osisID="Num.15.21" />sic offeretis primitias confusionum vestrarum, et dabitis Domino.<verse eID="Num.15.21" />
+        <verse sID="Num.15.24" osisID="Num.15.24" />... hircum caprarum pro peccato.<verse eID="Num.15.24" />
+        <verse sID="Num.15.25" osisID="Num.15.25" />Et placabit sacerdos pro omni synagoga filiorum Israel. Et propitiabitur ei Dominus, quia ignorantia est. Et ipsi offerent oblationem suam in sacrificium Domino pro peccato suo in conspectu eius, quoniam nescierunt.<verse eID="Num.15.25" />
+        <verse sID="Num.15.27" osisID="Num.15.27" />Si autem anima una peccaverit non sponte, offeret capram unam anniculam pro peccato,<verse eID="Num.15.27" />
+        <verse sID="Num.15.28" osisID="Num.15.28" />et exorabit sacerdos pro anima invita, et quae peccaverit nolenter ante Dominum, exorare pro eo, et remittetur ei.<verse eID="Num.15.28" />
+        <verse sID="Num.15.30" osisID="Num.15.30" />Et anima, quaecunque peccaverit in manu superbiae ex indigenis, aut ex proselytis, Deum hic exacerbat, et exterminabitur anima illa de populo suo,<verse eID="Num.15.30" />
+        <verse sID="Num.15.31" osisID="Num.15.31" />quoniam verbum Domini contempsit, et mandata eius disperdidi. Contritione conteretur anima illa, peccatum eius in illa.<verse eID="Num.15.31" />
+        <verse sID="Num.15.35" osisID="Num.15.35" />... Morte moriatur homo, lapidate eum lapidibus omnis synagoga.<verse eID="Num.15.35" />
+      </p>
+      <chapter eID="Num.15" />
+      <chapter sID="Num.16" osisID="Num.16" />
+      <title>Chatper 16</title>
+      <p>
+        <verse sID="Num.16.3" osisID="Num.16.3" />... Satis sit vobis, quod tota synagoga omnes sancti, et in ipsis Dominus. Et vos quare premitis synagogam Domini?<verse eID="Num.16.3" />
+        <verse sID="Num.16.8" osisID="Num.16.8" />Dixit Moyses ad Core, Audite me filii Levi.<verse eID="Num.16.8" />
+        <verse sID="Num.16.9" osisID="Num.16.9" />Nunquid hoc pusillum est vobis, quod separavit vos Deus a synagoga Israel, et adduxit vos ad se, ut ministraretis ministeria tabernaculi Domini ...<verse eID="Num.16.9" />
+        <verse sID="Num.16.13" osisID="Num.16.13" />nunquid pusillum hoc quoniam eduxisti nos in terram fluentem lac et mel, interficere nos in eremo, quoniam praees nobis, princeps es?<verse eID="Num.16.13" />
+        <verse sID="Num.16.14" osisID="Num.16.14" />Et tu in terram fluentem lac et mel induxisti nos, et dedisti nobis sortem agri et vineas. Oculos hominum illorum abscidisses. Non ascendimus.<verse eID="Num.16.14" />
+        <verse sID="Num.16.15" osisID="Num.16.15" />... non concupiscens alicuius illorum quid accepi, neque malefeci alicui eorum.<verse eID="Num.16.15" />
+        <verse sID="Num.16.17" osisID="Num.16.17" />Et accipite singuli thuribulum suum ...<verse eID="Num.16.17" />
+        <verse sID="Num.16.20" osisID="Num.16.20" />Et locutus est Dominus ad Moysen et Aaron, dicens,<verse eID="Num.16.20" />
+        <verse sID="Num.16.21" osisID="Num.16.21" />Abscedite vos de medio synagogae istius, et consummabo eos simul.<verse eID="Num.16.21" />
+        <verse sID="Num.16.26" osisID="Num.16.26" />... Separamini a tabernaculis hominum istorum durissimorum, et nolite tangere ab omnibus quae sunt eis, ne simul pereatis in peccato eorum.<verse eID="Num.16.26" />
+        <verse sID="Num.16.28" osisID="Num.16.28" />... In hoc scietis, quoniam Dominus misit me facere omnia opera ista, et quoniam non a me facio.<verse eID="Num.16.28" />
+        <verse sID="Num.16.29" osisID="Num.16.29" />Si secundum mortem omnium hominum morientur isti, et si secundum visitationem omnium hominum visitatio erit illorum, non Dominus misit me.<verse eID="Num.16.29" />
+        <verse sID="Num.16.30" osisID="Num.16.30" />... in visione ostendet Deus, et aperiens terra os suum, absorbebit eos ...<verse eID="Num.16.30" />
+        <verse sID="Num.16.33" osisID="Num.16.33" />Et descenderunt ipsi, et omnia quaecunque sunt eis, viventes ad inferos ...<verse eID="Num.16.33" />
+        <verse sID="Num.16.34" osisID="Num.16.34" />Et omnis Israel, qui in circuitu eorum, fugerunt a voce eorum ...<verse eID="Num.16.34" />
+        <verse sID="Num.16.36" osisID="Num.16.36" />Et dixit Dominus ad Moysen,<verse eID="Num.16.36" />
+        <verse sID="Num.16.37" osisID="Num.16.37" />et ad Eleazarum filium Aaron sacerdotem, Tollite thuribula aerea e medio exustorum, et ignem alienum hunc semina ibi, quia sanctificaverunt thuribula<verse eID="Num.16.37" />
+        <verse sID="Num.16.38" osisID="Num.16.38" />peccatorum horum in animabus suis, et fac ea laminas ductiles circumpositionem altari, quoniam oblata sunt ante Dominum, et sanctificata sunt, et facta sunt in signum filiis Israel.<verse eID="Num.16.38" />
+        <verse sID="Num.16.39" osisID="Num.16.39" />Et accepit Eleazar filius Aaron sacerdotis thuribula aerea, quanta obtulerunt qui exusti sunt, et addidit ea circumpositionem altaris,<verse eID="Num.16.39" />
+      </p>
+      <chapter eID="Num.16" />
+      <chapter sID="Num.17" osisID="Num.17" />
+      <title>Chatper 17</title>
+      <p>
+        <verse sID="Num.17.1" osisID="Num.17.1" />Dixit Dominus Moysi<verse eID="Num.17.1" />
+        <verse sID="Num.17.2" osisID="Num.17.2" />Sic dices filiis Israel ...<verse eID="Num.17.2" />
+        <verse sID="Num.17.6" osisID="Num.17.6" />... et virgam Aaron inter virgas illorum.<verse eID="Num.17.6" />
+        <verse sID="Num.17.7" osisID="Num.17.7" />Posuit eas coram Domino, intulitque in tabernaculum testimonii.<verse eID="Num.17.7" />
+        <verse sID="Num.17.8" osisID="Num.17.8" />Et factum est in crastinum, introiit Moyses et Aaron in tabernaculum, et ecce germinavit virga Aaron ex domo Levi, et produxit germen, florem germinavit et nuces.<verse eID="Num.17.8" />
+        <verse sID="Num.17.10" osisID="Num.17.10" />... desinat murmuratio eorum a me, et non morientur sic omnes.<verse eID="Num.17.10" />
+      </p>
+      <chapter eID="Num.17" />
+      <chapter sID="Num.18" osisID="Num.18" />
+      <title>Chatper 18</title>
+      <p>
+        <verse sID="Num.18.1" osisID="Num.18.1" />Et ait Dominus ad Aaron, dicens, Tu, et filii tui, et domus patris tui tecum, accipietis peccata sanctorum, et tu et filii tui accipietis peccata sacerdotii vestri.<verse eID="Num.18.1" />
+        <verse sID="Num.18.6" osisID="Num.18.6" />Et ego accepi fratres vestros Levitas de medio filiorum Israel, dationem datam Domino ...<verse eID="Num.18.6" />
+        <verse sID="Num.18.8" osisID="Num.18.8" />Et locutus est Dominus ad Aaron, dicens, Ecce ego dedi vobis ad conservandum primitias ...<verse eID="Num.18.8" />
+        <verse sID="Num.18.12" osisID="Num.18.12" />Omnis primitia olei, et omnis primitia vini, et tritici, primitia eorum quaecunque dederint Domino, tibi dedi ea.<verse eID="Num.18.12" />
+        <verse sID="Num.18.13" osisID="Num.18.13" />Primogenita omnia, quaecunque fuerint in terra eorum, quantacunque attulerint Domino, tibi erunt ...<verse eID="Num.18.13" />
+        <verse sID="Num.18.15" osisID="Num.18.15" />Omne quod aperit vulvam ab omni carne, quae offertur Domino, ab homine usque ad pecus, tibi erunt. Tantummodo pretiis redimant primogenita hominum, et primogenita pecorum immundorum.<verse eID="Num.18.15" />
+        <verse sID="Num.18.16" osisID="Num.18.16" />Redemptio eius erit ab uno mense, aestimatio quinque siclorum. Siclus, secundum siclum sanctuarii, viginti oboli sunt.<verse eID="Num.18.16" />
+        <verse sID="Num.18.17" osisID="Num.18.17" />Tantummodo primogenita vitulorum, et primogenita ovium, et primogenita caprarum non redimes, quia sancta sunt ...<verse eID="Num.18.17" />
+      </p>
+      <chapter eID="Num.18" />
+      <chapter sID="Num.19" osisID="Num.19" />
+      <title>Chatper 19</title>
+      <p>
+        <verse sID="Num.19.1" osisID="Num.19.1" />Et locutus est Dominus ad Moysen et Aaron, dicens,<verse eID="Num.19.1" />
+        <verse sID="Num.19.2" osisID="Num.19.2" />Ista distinctio legis, quaecunque constituit Dominus, dicens, Loquere filiis Israel, et accipiant ad te iuvencam rusam sine vitio, quae non habet in se vitium, et non est superpositum super eam iugum.<verse eID="Num.19.2" />
+        <verse sID="Num.19.3" osisID="Num.19.3" />Et dabis eam ad Eleazarum sacerdotem, et eiicient eam extra castra in locum mundum, et occident eam in conspectu eius.<verse eID="Num.19.3" />
+        <verse sID="Num.19.4" osisID="Num.19.4" />Et accipiet Eleazar sanguinem eius, et asperget contra faciem tabernaculi testimonii a sanguine eius septies,<verse eID="Num.19.4" />
+        <verse sID="Num.19.5" osisID="Num.19.5" />et cremabunt eam in conspectu eius, et pellis eius, et carnes, et sanguis eius cum stercore eius comburetur.<verse eID="Num.19.5" />
+        <verse sID="Num.19.6" osisID="Num.19.6" />Et accipiet sacerdos lignum cedrinum, et hyssopum, et coccinum, et immittet in medium combustionis iuvencae.<verse eID="Num.19.6" />
+        <verse sID="Num.19.7" osisID="Num.19.7" />Et lavabit vestimenta sua sacerdos, et lavabit corpus suum aqua, et postea introibit in castra, et immundus erit sacerdos usque ad vesperam.<verse eID="Num.19.7" />
+        <verse sID="Num.19.8" osisID="Num.19.8" />Et qui comburet eam, lavabit vestimenta sua, et lavabit corpus suum aqua, et immundus erit usque ad vesperam.<verse eID="Num.19.8" />
+        <verse sID="Num.19.9" osisID="Num.19.9" />Et congregabit homo mundus cinerem iuvencae, et ponet extra castra in locum mundum, et erit synagogae filiorum Israel in conservationem. Aqua aspersionis purificatio est.<verse eID="Num.19.9" />
+        <verse sID="Num.19.10" osisID="Num.19.10" />Et qui congregat cinerem iuvencae, lavabit vestimenta sua, et immundus erit usque ad vesperam. Et erit filiis Israel, et proselytis qui apponuntur, legitimum aeternum.<verse eID="Num.19.10" />
+        <verse sID="Num.19.11" osisID="Num.19.11" />Qui tetigerit mortuum, omnis anima hominis immunda erit septem diebus.<verse eID="Num.19.11" />
+        <verse sID="Num.19.12" osisID="Num.19.12" />Hic purificabitur die tertio et die septimo, et mundus erit. Si autem non purificatus fuerit die tertio, et die septimo non erit mundus.<verse eID="Num.19.12" />
+        <verse sID="Num.19.13" osisID="Num.19.13" />Omnis qui tetigerit mortuum ab omni anima hominis, et mortuus fuerit, et non fuerit purificatus, tabernaculum Domini polluit, exteretur anima illa ex Israel, quoniam aqua aspersionis non est circumaspersa super eum, immundus est, adhuc immunditia eius in ipso est.<verse eID="Num.19.13" />
+        <verse sID="Num.19.15" osisID="Num.19.15" />Omne vas apertum, quaecunque non habent alligaturam alligatam super ea ...<verse eID="Num.19.15" />
+        <verse sID="Num.19.16" osisID="Num.19.16" />Omnis qui tetigerit super faciem campi vulneratum, aut mortuum, aut os hominis, aut monumentum ...<verse eID="Num.19.16" />
+        <verse sID="Num.19.17" osisID="Num.19.17" />Et accipient illi immundo a cinere illius exustae purificationis, et effundent super illum aquam vivam in vase.<verse eID="Num.19.17" />
+        <verse sID="Num.19.18" osisID="Num.19.18" />Et accipiens hyssopum, intinguens in aqua vir mundus, et circumaspergens super domum, et super vasa, et super animas, quotquot fuerint illic, et super eum qui tetigerit os humanum, aut vulneratum, aut mortuum, aut monumentum.<verse eID="Num.19.18" />
+        <verse sID="Num.19.19" osisID="Num.19.19" />Et asperget mundus super immundum in die tertio, et in die septimo. Et purificabitur die septimo, et lavabit vestimenta sua, et lavabitur aqua, et immundus erit usque ad vesperam.<verse eID="Num.19.19" />
+        <verse sID="Num.19.21" osisID="Num.19.21" />... Et qui circumasperget aquam aspersionis, lavabit vestimenta sua. Et qui tetigerit aquam aspersionis, immundus erit usque ad vesperam.<verse eID="Num.19.21" />
+        <verse sID="Num.19.22" osisID="Num.19.22" />Et omne quodcunque tetigerit illud immundus, immundum erit. Et anima, quae tetigerit, immunda erit usque ad vesperam.<verse eID="Num.19.22" />
+      </p>
+      <chapter eID="Num.19" />
+      <chapter sID="Num.20" osisID="Num.20" />
+      <title>Chatper 20</title>
+      <p>
+        <verse sID="Num.20.9" osisID="Num.20.9" />Et accepit Moyses virgam, quae ante Dominum ...<verse eID="Num.20.9" />
+        <verse sID="Num.20.10" osisID="Num.20.10" />... Audite me increduli. Nunquid de petra ista educemus vobis aquam?<verse eID="Num.20.10" />
+        <verse sID="Num.20.11" osisID="Num.20.11" />Et elevata Moyses manu sua, percussit petram virga bis, et exiit aqua multa, et bibit synagoga, et pecora eorum.<verse eID="Num.20.11" />
+        <verse sID="Num.20.12" osisID="Num.20.12" />Et dixit Dominus ad Moysen et Aaron, Quoniam non credidistis sanctificare me in conspectu filiorum Israel, propter hoc non inducetis vos synagogam hanc in terram, quam dedi eis.<verse eID="Num.20.12" />
+        <verse sID="Num.20.13" osisID="Num.20.13" />Haec aqua contradictionis, quia maledixerunt filii Israel ante Dominum, et sanctificatus est in ipsis.<verse eID="Num.20.13" />
+        <verse sID="Num.20.15" osisID="Num.20.15" />... et incolae fuimus in Aegypto dies plures ...<verse eID="Num.20.15" />
+        <verse sID="Num.20.16" osisID="Num.20.16" />... Et nunc sumus in Cades civitate, ex parte finium tuorum,<verse eID="Num.20.16" />
+        <verse sID="Num.20.17" osisID="Num.20.17" />... neque bibemus aquam de lacu tuo, via regali ibimus, non divertemus dextera, neque sinistra, quoadusque transeamus terminos tuos.<verse eID="Num.20.17" />
+        <verse sID="Num.20.18" osisID="Num.20.18" />Et dixit ad eum Edom, Non transibis per me, alioquin bello in occursum tibi exibo.<verse eID="Num.20.18" />
+        <verse sID="Num.20.19" osisID="Num.20.19" />Et dicunt ei filii Israel, Iuxta montem transibimus, si autem de aqua tua biberimus ego et pecora mea, dabo pretium tibi ...<verse eID="Num.20.19" />
+        <verse sID="Num.20.24" osisID="Num.20.24" />... non introibitis in terram, quam dedi filiis Israel in possessionem, quoniam exacerbatis me super aquam maledictionis.<verse eID="Num.20.24" />
+        <verse sID="Num.20.25" osisID="Num.20.25" />Apprehende Aaron fratrem tuum, et Eleazarum filium eius, et impones eos in montem coram omni synagoga.<verse eID="Num.20.25" />
+        <verse sID="Num.20.26" osisID="Num.20.26" />Et exue Aaron stolam eius, et indue Eleazarum filium eius. Et Aaron appositus, moriatur illic.<verse eID="Num.20.26" />
+        <verse sID="Num.20.30" osisID="Num.20.30" />Et vidit omnis synagoga quia dimissus est Aaron, et fleverunt Aaron triginta dies omnis domus Israel.<verse eID="Num.20.30" />
+      </p>
+      <chapter eID="Num.20" />
+      <chapter sID="Num.21" osisID="Num.21" />
+      <title>Chatper 21</title>
+      <p>
+        <verse sID="Num.21.2" osisID="Num.21.2" />Et vovit Israel votum Domino, et dixit, Si mihi tradideris populum istum subiectum, anathemabo illum, et civitates eius.<verse eID="Num.21.2" />
+        <verse sID="Num.21.3" osisID="Num.21.3" />... et anathemavit eum, et civitatem eius. Et vocatum est nomen loci illius, Anathema.<verse eID="Num.21.3" />
+        <verse sID="Num.21.4" osisID="Num.21.4" />Egressi sunt de monte Or, per viam maris rubri, et circumierunt terram Edom ...<verse eID="Num.21.4" />
+        <verse sID="Num.21.5" osisID="Num.21.5" />Et detrahebat populus ad Deum, et adversus Moysen ...<verse eID="Num.21.5" />
+        <verse sID="Num.21.7" osisID="Num.21.7" />... ora ergo ad Dominum ut auferat a nobis serpentem ...<verse eID="Num.21.7" />
+        <verse sID="Num.21.8" osisID="Num.21.8" />... Fac tibi serpentem aeneum, et pone illum pro signo. Et omnis morsus videns illum, vivet.<verse eID="Num.21.8" />
+        <verse sID="Num.21.9" osisID="Num.21.9" />... Et factum est quando momordit serpens hominem, et aspexit in aeneum serpentem, et vivebat.<verse eID="Num.21.9" />
+        <verse sID="Num.21.10" osisID="Num.21.10" />Et profecti filii Israel castrametati sunt in Oboth.<verse eID="Num.21.10" />
+        <verse sID="Num.21.11" osisID="Num.21.11" />Et discedentes ex Oboth, castrametati sunt in Ieabarim, in deserto, quod est in conspectu Moab ad orientem solis.<verse eID="Num.21.11" />
+        <verse sID="Num.21.12" osisID="Num.21.12" />Inde discesserunt, et castrametati sunt in valle Zared.<verse eID="Num.21.12" />
+        <verse sID="Num.21.13" osisID="Num.21.13" />Et inde castra collocaverunt trans Arnon in eremo, quod exstat a limitibus Amorrhaeorum. Est enim Arnon limes Moab, inter Moab et inter Amorrhaeum.<verse eID="Num.21.13" />
+        <verse sID="Num.21.14" osisID="Num.21.14" />Propterea dicitur in libro, Bellum Domini Zoob inflammavit, et torrentes Arnon.<verse eID="Num.21.14" />
+        <verse sID="Num.21.15" osisID="Num.21.15" />Et torrentes constituit inhabitare Er ...<verse eID="Num.21.15" />
+        <verse sID="Num.21.16" osisID="Num.21.16" />Hic est puteus, quem dixit Dominus ad Moysen, Congrega populum, et dabo eis aquam bibere.<verse eID="Num.21.16" />
+        <verse sID="Num.21.17" osisID="Num.21.17" />... Ascende putee,<verse eID="Num.21.17" />
+        <verse sID="Num.21.18" osisID="Num.21.18" />quem foderunt principes, et aperuerunt duces populorum in datore legum, et in baculo eius. Et de solitudine in Matthana.<verse eID="Num.21.18" />
+        <verse sID="Num.21.19" osisID="Num.21.19" />Et de Matthana ad torrentes Dei, et de torrentibus Dei ad excelsa.<verse eID="Num.21.19" />
+        <verse sID="Num.21.20" osisID="Num.21.20" />Et de excelsis ad vallem quae est in regione Moab, in vertice Phasga, qui prospicit contra desertum.<verse eID="Num.21.20" />
+        <verse sID="Num.21.22" osisID="Num.21.22" />Transibimus per terram tuam. Non declinabimus neque ad agrum neque ad vineam, neque bibemus aquam de puteo, via regia transibimus ...<verse eID="Num.21.22" />
+        <verse sID="Num.21.24" osisID="Num.21.24" />Et percussit eum Israel nece gladii, et dominati sunt terrae eius ab Arnon usque Iaboc, et usque ad filios Ammon, quoniam Iazer termini filiorum Ammon sunt.<verse eID="Num.21.24" />
+        <verse sID="Num.21.25" osisID="Num.21.25" />Et accepit Israel omnes civitates istas, et habitavit Israel in omnibus civitatibus Amorrhaeorum, in Esebon ...<verse eID="Num.21.25" />
+        <verse sID="Num.21.27" osisID="Num.21.27" />Propterea dicent Aenigmatistae, Venite in Esebon ...<verse eID="Num.21.27" />
+      </p>
+      <chapter eID="Num.21" />
+      <chapter sID="Num.22" osisID="Num.22" />
+      <title>Chatper 22</title>
+      <p>
+        <verse sID="Num.22.1" osisID="Num.22.1" />Et discedentes filii Israel, castrametati sunt ad occidentem Moab, apud Iordanem, iuxta Hiericho.<verse eID="Num.22.1" />
+        <verse sID="Num.22.4" osisID="Num.22.4" />... Nunc linget congregatio haec omnes, qui in circuitu nostro sunt, sicut lingit vitulus virentia ex campo ...<verse eID="Num.22.4" />
+        <verse sID="Num.22.7" osisID="Num.22.7" />... et divinationes in manibus eorum ...<verse eID="Num.22.7" />
+        <verse sID="Num.22.8" osisID="Num.22.8" />... venit Deus ad Balaam, et dixit ei,<verse eID="Num.22.8" />
+        <verse sID="Num.22.9" osisID="Num.22.9" />Quid homines hi penes te?<verse eID="Num.22.9" />
+        <verse sID="Num.22.12" osisID="Num.22.12" />... Non ibis cum eis, neque maledices populum. Est enim benedictus.<verse eID="Num.22.12" />
+        <verse sID="Num.22.13" osisID="Num.22.13" />Et exsurgens Balaam mane ...<verse eID="Num.22.13" />
+        <verse sID="Num.22.18" osisID="Num.22.18" />... Si dederit mihi Balac plenam domum suam argento et auro, non potero praevaricare verbum Domini, facere illud pusillum, vel magnum in mente mea.<verse eID="Num.22.18" />
+        <verse sID="Num.22.19" osisID="Num.22.19" />Et nunc sustinete ibi et vos nocte hac, et sciam quid adiiciet Dominus loqui ad me.<verse eID="Num.22.19" />
+        <verse sID="Num.22.20" osisID="Num.22.20" />Venit enim Deus ad Balaam nocte, et ait illi, Si vocare te venerunt homines, exsurgens sequere eos. Sed verbum quodcunque locutus fuero ad te, hoc facies.<verse eID="Num.22.20" />
+        <verse sID="Num.22.21" osisID="Num.22.21" />Et exsurgens Balaam mane, stravit asinam suam, et abiit cum principibus Moab.<verse eID="Num.22.21" />
+        <verse sID="Num.22.22" osisID="Num.22.22" />Et iratus est animatione Deus, quia ibat ipse. Et insurrexit angelus Dei differre eum in via ...<verse eID="Num.22.22" />
+        <verse sID="Num.22.23" osisID="Num.22.23" />Et cum vidisset asina angelum Dei resistentem in via, et evaginatum gladium in manu eius, et declinavit asina de via, et ibat in campum. Et percussit asinam in virga, et corrigeret eam in via,<verse eID="Num.22.23" />
+        <verse sID="Num.22.24" osisID="Num.22.24" />et stetit angelus Dei in sulcis vinearum, maceria hinc, et maceria hinc.<verse eID="Num.22.24" />
+        <verse sID="Num.22.25" osisID="Num.22.25" />Et cum vidisset asina angelum Dei, compressit se ad parietem, et compressit pedem Balaam ad parietem. Et adiecit adhuc caedere eam.<verse eID="Num.22.25" />
+        <verse sID="Num.22.26" osisID="Num.22.26" />Et apposuit angelus Dei, et adiiciens substitit in loco angusto, in quo non fuit declinare dextram neque sinistram.<verse eID="Num.22.26" />
+        <verse sID="Num.22.27" osisID="Num.22.27" />Et cum vidisset asina angelum Dei, consedit sub Balaam. Et iratus est Balaam, et percutiebat asinam virga.<verse eID="Num.22.27" />
+        <verse sID="Num.22.28" osisID="Num.22.28" />Et aperuit Deus os asinae, et ait ad Balaam, Quid feci tibi, quia percussisti me tertio hoc?<verse eID="Num.22.28" />
+        <verse sID="Num.22.29" osisID="Num.22.29" />Et ait Balaam asinae, Quia illusisti mihi. Et si haberem gladium in manu mea, iam transfixissem te.<verse eID="Num.22.29" />
+        <verse sID="Num.22.32" osisID="Num.22.32" />... Et ecce ego exii in dilationem tuam ...<verse eID="Num.22.32" />
+      </p>
+      <chapter eID="Num.22" />
+      <chapter sID="Num.23" osisID="Num.23" />
+      <title>Chatper 23</title>
+      <p>
+        <verse sID="Num.23.6" osisID="Num.23.6" />... et factus est Spiritus Dei super illum.<verse eID="Num.23.6" />
+        <verse sID="Num.23.8" osisID="Num.23.8" />Quid maledicam, cui non maledicit Dominus? ...<verse eID="Num.23.8" />
+        <verse sID="Num.23.9" osisID="Num.23.9" />A summis montibus conspiciam eum ...<verse eID="Num.23.9" />
+        <verse sID="Num.23.10" osisID="Num.23.10" />... Moriatur anima mea in animis iustorum, et fiat semen meum sicut semen istorum.<verse eID="Num.23.10" />
+        <verse sID="Num.23.11" osisID="Num.23.11" />... In maledictionem inimicorum meorum vocavi te. Et ecce benedixisti benedictionem.<verse eID="Num.23.11" />
+        <verse sID="Num.23.12" osisID="Num.23.12" />... Quaecunque miserit Deus in os meum, hoc observabo loqui.<verse eID="Num.23.12" />
+        <verse sID="Num.23.13" osisID="Num.23.13" />... Veni mecum adhuc in locum alium, de quo non videbis eum inde.<verse eID="Num.23.13" />
+        <verse sID="Num.23.19" osisID="Num.23.19" />Non quasi homo, Deus suspenditur. Neque quasi filius hominis, minas patitur ...<verse eID="Num.23.19" />
+        <verse sID="Num.23.21" osisID="Num.23.21" />Non erit labor in Iacob, neque videbitur labor in Israel, quoniam Dominus Deus eius cum eo, et ipse praeclarus princeps cum ipso.<verse eID="Num.23.21" />
+        <verse sID="Num.23.22" osisID="Num.23.22" />Deus ex Aegypto vocavit eum, gloria eius sicut unicornis.<verse eID="Num.23.22" />
+        <verse sID="Num.23.23" osisID="Num.23.23" />Non est augurium in Iacob, neque divinatio in Israel ...<verse eID="Num.23.23" />
+        <verse sID="Num.23.24" osisID="Num.23.24" />Ecce populus ut catalus leonis consurget, et ut leo exsultans ...<verse eID="Num.23.24" />
+      </p>
+      <chapter eID="Num.23" />
+      <chapter sID="Num.24" osisID="Num.24" />
+      <title>Chatper 24</title>
+      <p>
+        <verse sID="Num.24.5" osisID="Num.24.5" />Quam pulchrae tuae domus Iacob, tabernacula tua Israel!<verse eID="Num.24.5" />
+        <verse sID="Num.24.6" osisID="Num.24.6" />Tanquam valles obumbrantes, tanquam horti super fluvium, et velut tabernacula quae fixit Dominus, et sicut cedrus super aquas.<verse eID="Num.24.6" />
+        <verse sID="Num.24.7" osisID="Num.24.7" />Procedet homo de semine eius, et dominabitur multarum gentium. Et exaltabitur tanquam Gog regnum ipsius, et augebitur regnum eius.<verse eID="Num.24.7" />
+        <verse sID="Num.24.8" osisID="Num.24.8" />Et Deus eduxit eum ex Aegypto, quasi claritas unicornis ei. Et edet gentes inimicorum suorum, et crassitudines illorum emedullabit, et balistis suis configet inimicum.<verse eID="Num.24.8" />
+        <verse sID="Num.24.9" osisID="Num.24.9" />Recubans requievit quasi leo, et quasi catulus leonis. Quis suscitabit eum? Qui benedicunt te, benedicti sunt. Et qui maledicunt te, maledicti sunt.<verse eID="Num.24.9" />
+        <verse sID="Num.24.17" osisID="Num.24.17" />... ORIETUR STELLA ex Iacob, et exsurget homo de Israel. Et confringet duces Moab, et praedabitur omnes filios Seth.<verse eID="Num.24.17" />
+        <verse sID="Num.24.18" osisID="Num.24.18" />Et erit Edom haereditas eius.<verse eID="Num.24.18" />
+        <verse sID="Num.24.20" osisID="Num.24.20" />... Initium nationum Amalec, et semen eius peribit.<verse eID="Num.24.20" />
+        <verse sID="Num.24.25" osisID="Num.24.25" />Et surgens Balaam, abiit reversus in locum suum. Et Balac abiit ad semetipsum.<verse eID="Num.24.25" />
+      </p>
+      <chapter eID="Num.24" />
+      <chapter sID="Num.25" osisID="Num.25" />
+      <title>Chatper 25</title>
+      <p>
+        <verse sID="Num.25.4" osisID="Num.25.4" />Et dixit Dominus ad Moysen, Accipe duces populi, et ostenta eos Domino contra solem. Et auferetur ira animationis Domini ab Israel.<verse eID="Num.25.4" />
+        <verse sID="Num.25.8" osisID="Num.25.8" />... Et cessavit plaga a filiis Israel.<verse eID="Num.25.8" />
+        <verse sID="Num.25.10" osisID="Num.25.10" />Et locutus est Dominus ad Mosen, dicens,<verse eID="Num.25.10" />
+        <verse sID="Num.25.11" osisID="Num.25.11" />Phinees filius Eleazar filii Aaron sacerdotis sedavit furorem meum a filiis Israel. In eo quod aemulatus est zelum meum in illis, et non consummavi filios Israel in zelo meo.<verse eID="Num.25.11" />
+        <verse sID="Num.25.12" osisID="Num.25.12" />Sicut dixi, Ecce ego do ei testamentum pacis,<verse eID="Num.25.12" />
+        <verse sID="Num.25.13" osisID="Num.25.13" />et erit illi et semini eius post eum testamentum sacerdotii aeternum, propter quod aemulatus est Deum suum, et non exoravit pro filiis Israel.<verse eID="Num.25.13" />
+        <verse sID="Num.25.15" osisID="Num.25.15" />... domus familiae est Madian.<verse eID="Num.25.15" />
+      </p>
+      <chapter eID="Num.25" />
+      <chapter sID="Num.26" osisID="Num.26" />
+      <title>Chatper 26</title>
+      <p>
+        <verse sID="Num.26.1" osisID="Num.26.1" />... et locutus est Dominus ad Moysen, et ad Eleazar sacerdotem, dicens,<verse eID="Num.26.1" />
+        <verse sID="Num.26.2" osisID="Num.26.2" />Accipe principium totius synagogae filiorum Israel a viginti annis et supra ...<verse eID="Num.26.2" />
+      </p>
+      <chapter eID="Num.26" />
+      <chapter sID="Num.27" osisID="Num.27" />
+      <title>Chatper 27</title>
+      <p>
+        <verse sID="Num.27.18" osisID="Num.27.18" />Et locutus est Dominus ad Moysen, dicens, Accipe ad teipsum Iesum filium Nave, hominem qui habet spiritum in se ipso, et impones manus tuas super eum.<verse eID="Num.27.18" />
+        <verse sID="Num.27.19" osisID="Num.27.19" />Et statues eum in conspectu Eleazari sacerdotis, et mandabis ei in conspectu omnis synagogae.<verse eID="Num.27.19" />
+        <verse sID="Num.27.20" osisID="Num.27.20" />... et dabis de gloria tua super eum, ut exaudiant eum filii Israel.<verse eID="Num.27.20" />
+        <verse sID="Num.27.21" osisID="Num.27.21" />... In ore eius exibunt ... in ore eius introibunt ...<verse eID="Num.27.21" />
+        <verse sID="Num.27.22" osisID="Num.27.22" />Et fecit Moyses secundum quae praecepit illi Dominus. Et assumens Iesum, statuit eum ante Eleazarum sacerdotem ...<verse eID="Num.27.22" />
+        <verse sID="Num.27.23" osisID="Num.27.23" />... et commendavit eum secundum quae praecepit Dominus Moysi.<verse eID="Num.27.23" />
+      </p>
+      <chapter eID="Num.27" />
+      <chapter sID="Num.28" osisID="Num.28" />
+      <title>Chatper 28</title>
+      <p>
+        <verse sID="Num.28.13" osisID="Num.28.13" />decimam decimam similaginis consparsam in oleo agno uni ...<verse eID="Num.28.13" />
+        <verse sID="Num.28.16" osisID="Num.28.16" />Et in mense primo, quartadecima mensis huius, dies festus ...<verse eID="Num.28.16" />
+        <verse sID="Num.28.17" osisID="Num.28.17" />... septem dies azyma edetis.<verse eID="Num.28.17" />
+      </p>
+      <chapter eID="Num.28" />
+      <chapter sID="Num.29" osisID="Num.29" />
+      <title>Chatper 29</title>
+      <p>
+        <verse sID="Num.29.1" osisID="Num.29.1" />Et mense septimo una mensis ...<verse eID="Num.29.1" />
+        <verse sID="Num.29.2" osisID="Num.29.2" />... vitulum unum ex bobus, arietem unum, agnos anniculos sine vitio septem.<verse eID="Num.29.2" />
+        <verse sID="Num.29.4" osisID="Num.29.4" />decima decima agno uni, septem agnis.<verse eID="Num.29.4" />
+        <verse sID="Num.29.7" osisID="Num.29.7" />... affligetis animas vestras ...<verse eID="Num.29.7" />
+        <verse sID="Num.29.39" osisID="Num.29.39" />... exceptis votis vestris, et voluntaria vestra, et holocaustomata vestra, sacrificia vestra, et libamina vestra, et salutaria vestra.<verse eID="Num.29.39" />
+      </p>
+      <chapter eID="Num.29" />
+      <chapter sID="Num.30" osisID="Num.30" />
+      <title>Chatper 30</title>
+      <p>
+        <verse sID="Num.30.3" osisID="Num.30.3" />Homo, homo quicunque voverit votum Domino, aut iuraverit iruamentum, aut definierit definitionem de anima sua, non profanabit verbum suum, omnia quaecunque exierint ex ore eius faciet.<verse eID="Num.30.3" />
+        <verse sID="Num.30.4" osisID="Num.30.4" />Si autem mulier voverit votum Domino, aut definierit definitionem in domo patris sui, in iuventute sua, et audierit pater eius vota eius, et definitiones eius, quas definivit adversus animam suam, et tacuerit pater eius, et stabunt omnia vota eius.<verse eID="Num.30.4" />
+        <verse sID="Num.30.5" osisID="Num.30.5" />Et omnes definitiones eius, quas definivit adversus animam suam, manebunt ei.<verse eID="Num.30.5" />
+        <verse sID="Num.30.6" osisID="Num.30.6" />Si autem abnuens abnuerit pater eius, quacunque die audierit omnia vota eius, et definitiones eius quas definivit adversus animam suam, non stabunt, et Dominus emundabit eam, quia abnuit pater eius.<verse eID="Num.30.6" />
+        <verse sID="Num.30.7" osisID="Num.30.7" />Si autem facta fuerit viro, et vota eius super eam, secundum distinctionem labiorum eius, quanta definivit adversus animam suam,<verse eID="Num.30.7" />
+        <verse sID="Num.30.8" osisID="Num.30.8" />et audierit vir eius, et tacuerit ei quacunque die audierit, et ita stabunt omnia vota eius, et definitiones eius, quas definivit adversus animam suam, stabunt.<verse eID="Num.30.8" />
+        <verse sID="Num.30.9" osisID="Num.30.9" />Si autem abnuens abnuerit vir eius in quacunque die audierit, omnia vota eius, et definitiones eius, quas definivit adversus animam suam, non manebunt, quoniam vir abnuit ab ea, et Dominus mundabit eam.<verse eID="Num.30.9" />
+        <verse sID="Num.30.10" osisID="Num.30.10" />Et votum viduae et expulsae, quaecunque voverit adversus animam suam, manebunt ei.<verse eID="Num.30.10" />
+        <verse sID="Num.30.11" osisID="Num.30.11" />Si autem in domo viri eius votum eius, aut definitio quae adversus animam eius cum iureiurando,<verse eID="Num.30.11" />
+        <verse sID="Num.30.12" osisID="Num.30.12" />et audierit vir eius, et tacuerit ei, et non abnuerit ei, et stabunt omnia vota eius, et omnes definitiones, quas definivit adversus animam suam, stabunt adversus eam.<verse eID="Num.30.12" />
+        <verse sID="Num.30.13" osisID="Num.30.13" />Si autem circumauferens circumauferat vir eius, quacunque die audierit, omnia quaecunque exierint ex labiis eius, secundum vota eius, et secundum definitiones, quae adversus animam eius, non manent ei. Vir eius circumabstulit, et Dominus mundabit eam.<verse eID="Num.30.13" />
+        <verse sID="Num.30.14" osisID="Num.30.14" />Omne votum, et omne iusiurandum vinculi affligere animam, vir eius statuet ei, et vir eius circumauferet.<verse eID="Num.30.14" />
+        <verse sID="Num.30.15" osisID="Num.30.15" />Si autem tacens tacuerit ei diem ex die, et statuet ei omnia vota eius, et definitiones, quae super ipsam, statuet ei, quoniam tacuit ei, die quo audivit.<verse eID="Num.30.15" />
+        <verse sID="Num.30.16" osisID="Num.30.16" />Si autem circumauferens circumauferat vir eius post diem quem audivit, et accipiet peccatum suum.<verse eID="Num.30.16" />
+      </p>
+      <chapter eID="Num.30" />
+      <chapter sID="Num.31" osisID="Num.31" />
+      <title>Chatper 31</title>
+      <p>
+        <verse sID="Num.31.4" osisID="Num.31.4" />mille ex tribu, et mille ex tribu ex omnibus tribubus Israel ...<verse eID="Num.31.4" />
+        <verse sID="Num.31.6" osisID="Num.31.6" />et misit eos Moyses mille ex tribu, et mille ex tribu cum virtute eorum ...<verse eID="Num.31.6" />
+        <verse sID="Num.31.8" osisID="Num.31.8" />... interfecerunt in gladio ...<verse eID="Num.31.8" />
+        <verse sID="Num.31.9" osisID="Num.31.9" />Et praedam egerunt mulieres Madian, et supellectilem eorum, et pecora eorum, et omnia quae possederant. Et virtutem eorum depraedati sunt.<verse eID="Num.31.9" />
+        <verse sID="Num.31.10" osisID="Num.31.10" />Et omnes civitates eorum quae in habitationibus eorum, et villas eorum succenderunt in igni.<verse eID="Num.31.10" />
+        <verse sID="Num.31.15" osisID="Num.31.15" />... Ut quid vivificastis omne femininum?<verse eID="Num.31.15" />
+        <verse sID="Num.31.16" osisID="Num.31.16" />Haec enim fuerunt filiis Israel secundum verbum Balaam, ut recedere facerent et despicere verbum Domini propter Phogor ...<verse eID="Num.31.16" />
+        <verse sID="Num.31.18" osisID="Num.31.18" />Et omnem multitudinem mulierem, quae non novit concubitum masculi, vivificate.<verse eID="Num.31.18" />
+        <verse sID="Num.31.28" osisID="Num.31.28" />... et a dimidia parte eorum accipietis,<verse eID="Num.31.28" />
+        <verse sID="Num.31.29" osisID="Num.31.29" />et dabis ea Eleazar sacerdoti primitias Domini.<verse eID="Num.31.29" />
+        <verse sID="Num.31.35" osisID="Num.31.35" />Et animae hominum a mulieribus, quae non cognoverunt concubitum viri, omnis anima duo et triginta millia.<verse eID="Num.31.35" />
+        <verse sID="Num.31.54" osisID="Num.31.54" />Et accepit Moyses et Eleazar sacerdos aurum a chiliarchis, et a centurionibus, et intulit ea in tabernaculum testimonii ...<verse eID="Num.31.54" />
+      </p>
+      <chapter eID="Num.31" />
+      <chapter sID="Num.32" osisID="Num.32" />
+      <title>Chatper 32</title>
+      <p>
+        <verse sID="Num.32.1" osisID="Num.32.1" />Et pecora, multitudo erat filiis Ruben et fillis Gad, multitudo copiosa valde. Et viderunt regionem Iazer, et regionem Galaad. Et erat locus, locus pecoribus.<verse eID="Num.32.1" />
+        <verse sID="Num.32.2" osisID="Num.32.2" />Et accedentes filii Ruben et filii Gad, dixerunt ad Moysen, et Eleazar sacerdotem, et ad principes synagogae, dicentes,<verse eID="Num.32.2" />
+        <verse sID="Num.32.5" osisID="Num.32.5" />... detur terra ista famulis tuis in possessionem ...<verse eID="Num.32.5" />
+        <verse sID="Num.32.11" osisID="Num.32.11" />... non enim secuti sunt post me,<verse eID="Num.32.11" />
+        <verse sID="Num.32.12" osisID="Num.32.12" />praeter Chaleb filius Iephone ...<verse eID="Num.32.12" />
+        <verse sID="Num.32.13" osisID="Num.32.13" />... donec consumeretur omnis generatio, facientes maligna in conspectu Domini.<verse eID="Num.32.13" />
+        <verse sID="Num.32.16" osisID="Num.32.16" />Et accesserunt ei, et dixerunt ...<verse eID="Num.32.16" />
+        <verse sID="Num.32.24" osisID="Num.32.24" />Et aedificabitis vobis ipsis civitates impedimentis vestris ...<verse eID="Num.32.24" />
+        <verse sID="Num.32.26" osisID="Num.32.26" />Impedimenta nostra, et uxores nostrae, et omnia pecora nostra erunt in civitatibus Galaad.<verse eID="Num.32.26" />
+        <verse sID="Num.32.27" osisID="Num.32.27" />Pueri autem tui transibunt omnes armati ...<verse eID="Num.32.27" />
+        <verse sID="Num.32.28" osisID="Num.32.28" />Et commendavit eis Moyses Eleazar sacerdotem, et Iesum filium Nave, et principes familiarum tribuum Israel ...<verse eID="Num.32.28" />
+        <verse sID="Num.32.30" osisID="Num.32.30" />Si autem non transierint armati vobiscum in bellum in conspectu Domini, et transferte impedimenta eorum ...<verse eID="Num.32.30" />
+        <verse sID="Num.32.33" osisID="Num.32.33" />Et dedit eis Moyses filiis Gad et filiis Ruben ...<verse eID="Num.32.33" />
+      </p>
+      <chapter eID="Num.32" />
+      <chapter sID="Num.33" osisID="Num.33" />
+      <title>Chatper 33</title>
+      <p>
+        <verse sID="Num.33.1" osisID="Num.33.1" />Haec sunt castra filiorum Israel, qui egressi sunt de terra Aegypti per turmas suas in manu Moysi et Aaron,<verse eID="Num.33.1" />
+        <verse sID="Num.33.3" osisID="Num.33.3" />Moverunt autem castra de Ramesse mense primo, quintadecima die mensis primi, altera die post pascha, egressi sunt filii Israel in manu excelsa, in conspectu omnium Aegyptiorum.<verse eID="Num.33.3" />
+        <verse sID="Num.33.4" osisID="Num.33.4" />Et Aegyptii sepeliebant quos percusserat Dominus ex eis omne primogenitum in terra Aegypti, et in diis eorum fecit Dominus iudicia.<verse eID="Num.33.4" />
+        <verse sID="Num.33.5" osisID="Num.33.5" />Profecti autem filii Israel ex Ramesse, castrametati sunt in Socoth.<verse eID="Num.33.5" />
+        <verse sID="Num.33.6" osisID="Num.33.6" />Et profecti e Socoth, castrametati sunt in Ethan, et est pars deserti.<verse eID="Num.33.6" />
+        <verse sID="Num.33.7" osisID="Num.33.7" />Et profecti ex Ethan, castrametati sunt ad os Eroth, quae est contra Beelsephon, et contra Magdalon.<verse eID="Num.33.7" />
+        <verse sID="Num.33.8" osisID="Num.33.8" />Et profecti contra os Eroth, transierunt per medium maris in desertum. Et ambulaverunt viam trium dierum per desertum ipsi, et castrametati sunt in Marah.<verse eID="Num.33.8" />
+        <verse sID="Num.33.9" osisID="Num.33.9" />Et profecti ex Marah venerunt in Elim. In Elim vero erant duodecim fontes aquarum, et septuaginta arbores palmarum. Et castrametati sunt illic apud aquas.<verse eID="Num.33.9" />
+        <verse sID="Num.33.10" osisID="Num.33.10" />Et profecti ex Elim castrametati sunt super mare rubrum. Et profecti a mari rubro,<verse eID="Num.33.10" />
+        <verse sID="Num.33.11" osisID="Num.33.11" />castrametati sunt in desertum Sin.<verse eID="Num.33.11" />
+        <verse sID="Num.33.12" osisID="Num.33.12" />Et profecti de deserto Sin, castrametati sunt in Dephcha.<verse eID="Num.33.12" />
+        <verse sID="Num.33.13" osisID="Num.33.13" />Et profecti de Dephcha, castrametati sunt in Halus.<verse eID="Num.33.13" />
+        <verse sID="Num.33.14" osisID="Num.33.14" />Et profecti ex Halus, castrametati sunt in Raphidim, et non erat illic aqua ad bibendum.<verse eID="Num.33.14" />
+        <verse sID="Num.33.15" osisID="Num.33.15" />Et profecti ex Raphidim, castrametati sunt in deserto Sinai.<verse eID="Num.33.15" />
+        <verse sID="Num.33.16" osisID="Num.33.16" />Et profecti de deserto Sinai, castrametati sunt in sepulcris concupiscentiae.<verse eID="Num.33.16" />
+        <verse sID="Num.33.17" osisID="Num.33.17" />Et profecti ex sepulcris concupiscentiae, castrametati sunt in Aseroth.<verse eID="Num.33.17" />
+        <verse sID="Num.33.18" osisID="Num.33.18" />Et profecti ex Aseroth, castrametati sunt in Rethma.<verse eID="Num.33.18" />
+        <verse sID="Num.33.19" osisID="Num.33.19" />Et profecti ex Rethma, castrametati sunt in Remon Phares.<verse eID="Num.33.19" />
+        <verse sID="Num.33.20" osisID="Num.33.20" />Et profecti ex Remon Phares, castrametati sunt in Lebna.<verse eID="Num.33.20" />
+        <verse sID="Num.33.21" osisID="Num.33.21" />Et profecti ex Lebna, castrametati sunt in Ressa.<verse eID="Num.33.21" />
+        <verse sID="Num.33.22" osisID="Num.33.22" />Et profecti de Ressa, castrametati sunt in Calatha.<verse eID="Num.33.22" />
+        <verse sID="Num.33.23" osisID="Num.33.23" />Et profecti de Calatha, castrametati sunt in Arsaphar.<verse eID="Num.33.23" />
+        <verse sID="Num.33.24" osisID="Num.33.24" />Et profecti ex Arsaphar, castrametati sunt in Arada.<verse eID="Num.33.24" />
+        <verse sID="Num.33.25" osisID="Num.33.25" />Et profecti de Arada, castrametati sunt in Maceloth.<verse eID="Num.33.25" />
+        <verse sID="Num.33.26" osisID="Num.33.26" />Et profecti de Maceloth, castrametati sunt in Thaath.<verse eID="Num.33.26" />
+        <verse sID="Num.33.27" osisID="Num.33.27" />Et profecti de Thaath, castrametati sunt in Thare.<verse eID="Num.33.27" />
+        <verse sID="Num.33.28" osisID="Num.33.28" />Et profecti de Thare, castrametati sunt in Metcha.<verse eID="Num.33.28" />
+        <verse sID="Num.33.29" osisID="Num.33.29" />Et profecti ex Metcha, castrametati sunt in Esmona.<verse eID="Num.33.29" />
+        <verse sID="Num.33.30" osisID="Num.33.30" />Et profecti ex Exmona, castrametati sunt in Moseroth.<verse eID="Num.33.30" />
+        <verse sID="Num.33.31" osisID="Num.33.31" />Et profecti de Moseroth, castrametati sunt in Baneiacham.<verse eID="Num.33.31" />
+        <verse sID="Num.33.32" osisID="Num.33.32" />Et profecti de Baneiacham, castrametati sunt in monte Gadgad.<verse eID="Num.33.32" />
+        <verse sID="Num.33.33" osisID="Num.33.33" />Et profecti de monte Gadgad, castrametati sunt in Iethebatha.<verse eID="Num.33.33" />
+        <verse sID="Num.33.34" osisID="Num.33.34" />Et profecti de Iethebatha, castrametati sunt in Ebrona.<verse eID="Num.33.34" />
+        <verse sID="Num.33.35" osisID="Num.33.35" />Et profecti de Ebrona, castrametati sunt in Asiongaber.<verse eID="Num.33.35" />
+        <verse sID="Num.33.36" osisID="Num.33.36" />Et profecti de Asiongaber, castrametati sunt in deserto Sin.<verse eID="Num.33.36" />
+        <verse sID="Num.33.37" osisID="Num.33.37" />Et profecti de deserto Sin, haec est Cades, castrametati sunt in Hor monte, prope terram Edom.<verse eID="Num.33.37" />
+        <verse sID="Num.33.38" osisID="Num.33.38" />Ascenditque Aaron sacerdos in montem Or, iuxta praeceptum Domini. Et mortuus est ibi anno quadragesimo egressionis filiorum Israel de terra Aegypti, mense quinto, prima die mensis,<verse eID="Num.33.38" />
+        <verse sID="Num.33.39" osisID="Num.33.39" />eratque Aaron centum viginti trium annorum, quando mortuus est in monte Or.<verse eID="Num.33.39" />
+        <verse sID="Num.33.40" osisID="Num.33.40" />Et audivit Chananaeus rex Arad, qui habitabat ad austrum, in terra Chanaan, quod venissent filii Israel.<verse eID="Num.33.40" />
+        <verse sID="Num.33.41" osisID="Num.33.41" />Et profecti ex Hor monte, castrametati sunt in Salmona.<verse eID="Num.33.41" />
+        <verse sID="Num.33.42" osisID="Num.33.42" />Et profecti de Salmona, castrametati sunt in Phinon.<verse eID="Num.33.42" />
+        <verse sID="Num.33.43" osisID="Num.33.43" />Et profecti de Phinon, castrametati sunt in Oboth.<verse eID="Num.33.43" />
+        <verse sID="Num.33.44" osisID="Num.33.44" />Et profecti ex Oboth, castrametati sunt in Ieabarim, in eo quod ultra, in finibus Moab.<verse eID="Num.33.44" />
+        <verse sID="Num.33.45" osisID="Num.33.45" />Et profecti ex Ieabarim, castrametati sunt in Dibongad.<verse eID="Num.33.45" />
+        <verse sID="Num.33.46" osisID="Num.33.46" />Et profecti ex Dibongad, castrametati sunt in Elmon Deblathaim.<verse eID="Num.33.46" />
+        <verse sID="Num.33.47" osisID="Num.33.47" />Et profecti ex Elmon Deblathaim, castrametati sunt super montes Abarim contra Nebo.<verse eID="Num.33.47" />
+        <verse sID="Num.33.48" osisID="Num.33.48" />Et profecti de finibus Abarim, venerunt ad occidentem Moab, supra Iordanem iuxta Hiericho.<verse eID="Num.33.48" />
+        <verse sID="Num.33.49" osisID="Num.33.49" />Ibique castrametati sunt apud Iordanem inter Bethsimon usque Belsachin in occidente Moab,<verse eID="Num.33.49" />
+        <verse sID="Num.33.51" osisID="Num.33.51" />Loquere filiis Israel, et dices ad eos ...<verse eID="Num.33.51" />
+        <verse sID="Num.33.52" osisID="Num.33.52" />... et omnia idola, fusilia eorum perdetis ea ...<verse eID="Num.33.52" />
+      </p>
+      <chapter eID="Num.33" />
+      <chapter sID="Num.34" osisID="Num.34" />
+      <title>Chatper 34</title>
+      <p>
+        <verse sID="Num.34.6" osisID="Num.34.6" />... hoc erit vobis fines maris.<verse eID="Num.34.6" />
+        <verse sID="Num.34.7" osisID="Num.34.7" />Et hoc erit vobis fines ad aquilonem ...<verse eID="Num.34.7" />
+      </p>
+      <chapter eID="Num.34" />
+      <chapter sID="Num.35" osisID="Num.35" />
+      <title>Chatper 35</title>
+      <p>
+        <verse sID="Num.35.3" osisID="Num.35.3" />... et erunt civitates eis habitare ...<verse eID="Num.35.3" />
+        <verse sID="Num.35.11" osisID="Num.35.11" />disponetis vobis civitates ad refugium, et erunt vobis refugia, quo refugiat homicida omnis, qui percusserit animam invitus.<verse eID="Num.35.11" />
+        <verse sID="Num.35.12" osisID="Num.35.12" />Et erunt civitates vobis refugia a vindicante sanguinem, et non morietur is qui occidit, quoadusque stet in cospectu synagogae in iudicium.<verse eID="Num.35.12" />
+        <verse sID="Num.35.13" osisID="Num.35.13" />... sex civitates ad refugia erunt vobis,<verse eID="Num.35.13" />
+        <verse sID="Num.35.14" osisID="Num.35.14" />tres civitates dabitis trans Iordanem, et tres civitates dabitis in terra Chanaan,<verse eID="Num.35.14" />
+        <verse sID="Num.35.15" osisID="Num.35.15" />... et incolae qui in vobis, istae civitates in refugium ...<verse eID="Num.35.15" />
+        <verse sID="Num.35.19" osisID="Num.35.19" />Qui vindicat sanguinem, ipse interficiet homicidam. Cum occurrerit ei iste, interficiet eum.<verse eID="Num.35.19" />
+      </p>
+      <chapter eID="Num.35" />
+    </div>
+  </osisText>
+</osis>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Joel" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Joel">
+        <title>joel</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Joel</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>joel</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Joel">
+      <title>joel</title>
+      <chapter sID="Joel.1" osisID="Joel.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Joel.1.1" osisID="Joel.1.1" />Verbum Domini, quod factum est ad Ioel filium Bathuel.<verse eID="Joel.1.1" />
+        <verse sID="Joel.1.2" osisID="Joel.1.2" />Audite haec senes, et auribus percipite omnes habitatores terrae, si facta sunt talia in diebus vestris, aut in diebus patrum vestrorum?<verse eID="Joel.1.2" />
+        <verse sID="Joel.1.3" osisID="Joel.1.3" />Pro his filiis vestris narrate, et filii vestri filiis suis, et filii eorum in generationem alteram.<verse eID="Joel.1.3" />
+        <verse sID="Joel.1.4" osisID="Joel.1.4" />Residuum erucae comedit locusta, et residuum locustae comedit bruchus, et residuum bruchi comedit rubigo.<verse eID="Joel.1.4" />
+        <verse sID="Joel.1.5" osisID="Joel.1.5" />Evigilate qui ebrii estis in vino vestro, et plorate, et plangite omnes, qui bibitis vinum in ebrietate, quoniam ablatum est de ore vestro.<verse eID="Joel.1.5" />
+        <verse sID="Joel.1.6" osisID="Joel.1.6" />Quia gens ascendit super terram, fortis et innumerabilis, dentes eius, leonis, et molares eius ut catuli leonis.<verse eID="Joel.1.6" />
+        <verse sID="Joel.1.7" osisID="Joel.1.7" />Posuit vineam in dissipationem, et ficos meas in confractionem, scrutans scrutatus est eam, et proiecit, dealbavit ramos eius.<verse eID="Joel.1.7" />
+        <verse sID="Joel.1.8" osisID="Joel.1.8" />Plange ad me super sponsam accinctam cilicio super virum suum virgineum.<verse eID="Joel.1.8" />
+        <verse sID="Joel.1.9" osisID="Joel.1.9" />Ablatum est sacrificium et libatio de domo Domini, lugete sacerdotes ministri Domini,<verse eID="Joel.1.9" />
+        <verse sID="Joel.1.10" osisID="Joel.1.10" />quoniam desolati sunt campi, lugeat terra, quoniam afflictum est triticum, aruit vinum, imminutum est oleum.<verse eID="Joel.1.10" />
+        <verse sID="Joel.1.11" osisID="Joel.1.11" />Aruerunt agricolae, lugete possessiones pro frumento et hordeo, quia periit vindemia de agro.<verse eID="Joel.1.11" />
+        <verse sID="Joel.1.12" osisID="Joel.1.12" />Vinea aruit, et ficus imminutae sunt, malogranatum, et palma, et malum, et omnia ligna agri arefacti sunt, quoniam confuderunt gaudium filii hominum.<verse eID="Joel.1.12" />
+        <verse sID="Joel.1.13" osisID="Joel.1.13" />Accingite vos, et plangite sacerdotes, lamentamini qui ministratis altari, ingredimini, dormite in saccis ministri Dei, quoniam defecit de domo Dei vestri sacrificium et libatio.<verse eID="Joel.1.13" />
+        <verse sID="Joel.1.14" osisID="Joel.1.14" />Sanctificate ieiunium, praedicate curationem, congregate senes, omnes habitatores terrae in domum Dei nostri, et clamate ad Dominum vehementer.<verse eID="Joel.1.14" />
+        <verse sID="Joel.1.15" osisID="Joel.1.15" />Heu mihi, heu mihi, heu mihi, in die, quoniam iuxta est dies Domini, et quasi miseria de miseria veniet.<verse eID="Joel.1.15" />
+        <verse sID="Joel.1.16" osisID="Joel.1.16" />Ante oculos vestros alimenta perierunt de domo Dei nostri, laetitia et gaudium.<verse eID="Joel.1.16" />
+        <verse sID="Joel.1.17" osisID="Joel.1.17" />Subsaltaverunt vituli in praesepibus suis, dissipati sunt thesauri, suffossa sunt torcularia, quia arefactum est triticum.<verse eID="Joel.1.17" />
+        <verse sID="Joel.1.18" osisID="Joel.1.18" />Quid reponemus nobis? Fleverunt armenta boum, quia non erant pascua eis, et greges ovium disperierunt.<verse eID="Joel.1.18" />
+        <verse sID="Joel.1.19" osisID="Joel.1.19" />Ad te Domine clamabo, quoniam ignis consumpsit speciosa deserti, et flamma succendit omnia ligna agri.<verse eID="Joel.1.19" />
+        <verse sID="Joel.1.20" osisID="Joel.1.20" />Et iumenta campi suspexerunt ad te, quoniam arefactae sunt emissiones aquarum, et ignis devoravit speciosa deserti.<verse eID="Joel.1.20" />
+      </p>
+      <chapter eID="Joel.1" />
+      <chapter sID="Joel.2" osisID="Joel.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Joel.2.1" osisID="Joel.2.1" />Canite tuba in Sion, praedicate in monte sancto meo, conturbentur omnes habitatores terrae, Quoniam adest dies Domini, quoniam iuxta est<verse eID="Joel.2.1" />
+        <verse sID="Joel.2.2" osisID="Joel.2.2" />dies tenebrarum et caliginis, dies nubis et pruinae, sicut mane fundetur super montes populus multus et fortis, similis ei non fuit a principio, et post eum non erit usque ad annos generationis et generationum.<verse eID="Joel.2.2" />
+        <verse sID="Joel.2.3" osisID="Joel.2.3" />Ante eum consumens ignis, et post eum flamma succensa, sicut paradisus voluptatis terra ante faciem eius, et posteriora illius sicut campus solitudinis, et qui salvetur non erit ei.<verse eID="Joel.2.3" />
+        <verse sID="Joel.2.4" osisID="Joel.2.4" />Sicut aspectus equorum, aspectus eorum, et sicut equites sic persequentur.<verse eID="Joel.2.4" />
+        <verse sID="Joel.2.5" osisID="Joel.2.5" />Sicut vox quadrigarum super vertices montium exsilient, et sicut vox flammae ignis devorantis stipulam, et sicut populus multus et fortis praeparatus ad praelium.<verse eID="Joel.2.5" />
+        <verse sID="Joel.2.6" osisID="Joel.2.6" />A facie eius conterentur populi, omnis vultus sicut adustio ollae.<verse eID="Joel.2.6" />
+        <verse sID="Joel.2.7" osisID="Joel.2.7" />Sicut pugnatores current, et sicut viri bellatores ascendent super muros, et unusquisque in via sua ambulabit, et non declinabunt a semitis suis.<verse eID="Joel.2.7" />
+        <verse sID="Joel.2.8" osisID="Joel.2.8" />Singuli a proximo suo non recedent, aggravati armis suis ibunt, et in iaculis suis cadent, et non consumentur.<verse eID="Joel.2.8" />
+        <verse sID="Joel.2.9" osisID="Joel.2.9" />Urbem apprehendent, et super muros discurrent, super domos ascendent, et per fenestras intrabunt sicut fures.<verse eID="Joel.2.9" />
+        <verse sID="Joel.2.10" osisID="Joel.2.10" />A facie eius confundetur terra, et commovebitur coelum, sol et luna contenebrabuntur, et stellae auferent lumen suum.<verse eID="Joel.2.10" />
+        <verse sID="Joel.2.11" osisID="Joel.2.11" />Et Dominus dabit vocem suam a facie fortitudinis suae, quoniam multa sunt nimis castra eius, quoniam fortia opera sermonem illius, quia magna dies Domini, magna et illustris nimis, et quis erit sufficiens ad eam?<verse eID="Joel.2.11" />
+        <verse sID="Joel.2.12" osisID="Joel.2.12" />Et nunc dicit Dominus Deus noster, Convertimini ad me in toto corde vestro, et ieiunio, in cilicio, in fletu, et in planctu.<verse eID="Joel.2.12" />
+        <verse sID="Joel.2.13" osisID="Joel.2.13" />Et scindite corda vestra, et non vestimenta vestra, et convertimini ad Dominum Deum vestrum, quia misericors et miserator est, patiens et multae misericordiae, et poenitens super malitiis.<verse eID="Joel.2.13" />
+        <verse sID="Joel.2.14" osisID="Joel.2.14" />Quis novit si revertatur, et poeniteat eum, et dimittat post se benedictionem, sacrificium et libamen Domino Deo nostro?<verse eID="Joel.2.14" />
+        <verse sID="Joel.2.15" osisID="Joel.2.15" />Clangite tuba in Sion, sanctificate ieiunium, praedicate curationem,<verse eID="Joel.2.15" />
+        <verse sID="Joel.2.16" osisID="Joel.2.16" />congregate populum, sanctificate ecclesiam, eligite senes, congregate parvulos, et fugentes ubera, egrediatur sponsus de cubili suo, et sponsa de thalamo suo.<verse eID="Joel.2.16" />
+        <verse sID="Joel.2.17" osisID="Joel.2.17" />Inter crepidinem et altare plorabunt sacerdotes ministri Domini, et dicent, Parce Domine populo tuo, et ne dederis haereditatem tuam in opprobrium, ut dominentur eorum gentes, ne dicant in nationibus, Ubi est Deus eorum?<verse eID="Joel.2.17" />
+        <verse sID="Joel.2.18" osisID="Joel.2.18" />Et zelatus est Dominus terram suam, et pepercit populo suo.<verse eID="Joel.2.18" />
+        <verse sID="Joel.2.19" osisID="Joel.2.19" />Et respondit Dominus, et dixit populo suo, Ecce ego mittam vobis frumentum, et vinum, et oleum, et implebimini ex eis, et non dabo vos ultra opprobrium in gentibus.<verse eID="Joel.2.19" />
+        <verse sID="Joel.2.20" osisID="Joel.2.20" />Et eum, qui ab Aquilone est, repellam a vobis, et educam eum in terram quae est sine aqua, et disperdam faciem eius in mare primum, et posteriora eius in mare novissimum, et ascendet fetor eius, et ascendet purtredo illius, quoniam magnificata sunt opera eius.<verse eID="Joel.2.20" />
+        <verse sID="Joel.2.21" osisID="Joel.2.21" />Confide terra, gaude atque laetare, quia magnificavit Dominus ut faceret.<verse eID="Joel.2.21" />
+        <verse sID="Joel.2.22" osisID="Joel.2.22" />Confidite iumenta campi, quoniam germinaverunt campi solitudinis, quia lignum attulit fructum suum, ficus et vinea dederunt fortitudinem suam.<verse eID="Joel.2.22" />
+        <verse sID="Joel.2.23" osisID="Joel.2.23" />Et filii Sion gaudete, atque laetamini in Domino Deo vestro, quoniam dedit vobis escas iustitiae, et pluit vobis imbrem temporaneum et serotinum, sicut a principio.<verse eID="Joel.2.23" />
+        <verse sID="Joel.2.24" osisID="Joel.2.24" />Et replebuntur areae tritico, et redundabunt torcularia vino et oleo.<verse eID="Joel.2.24" />
+        <verse sID="Joel.2.25" osisID="Joel.2.25" />Et reddam vobis pro annis, in quibus comedit locusta, et bruchus, et rubigo, et eruca, fortitudo mea magna, quam misi in vos.<verse eID="Joel.2.25" />
+        <verse sID="Joel.2.26" osisID="Joel.2.26" />Et vescemini comedentes, et saturabimini, et laudabitis nomen Domini Dei vestri, qui fecit vobiscum mirabilia, et non confundetur populus meus in aeternum.<verse eID="Joel.2.26" />
+        <verse sID="Joel.2.27" osisID="Joel.2.27" />Et scietis quia in medio Israel ego sum, et ego Dominus Deus vester, et non est amplius praeter me, et non confundetur populus meus in aeternum.<verse eID="Joel.2.27" />
+        <verse sID="Joel.2.28" osisID="Joel.2.28" />Et erit post haec, Effundam de spiritu meo super omnem carnem, et prophetabunt filii vestri, et filiae vestrae, et senes vestri somnia somniabunt, et iuvenes vestri visiones videbunt.<verse eID="Joel.2.28" />
+        <verse sID="Joel.2.29" osisID="Joel.2.29" />Et super servos meos, et super ancillas meas in diebus illis effundam de spiritu meo.<verse eID="Joel.2.29" />
+        <verse sID="Joel.2.30" osisID="Joel.2.30" />Et dabo prodigia in coelo, et super terram, sanguinem, ignem, et vaporem fumi.<verse eID="Joel.2.30" />
+        <verse sID="Joel.2.31" osisID="Joel.2.31" />Sol convertetur in tenebras, et luna in sanguinem, antequam veniat dies Domini magnus, et illustris.<verse eID="Joel.2.31" />
+        <verse sID="Joel.2.32" osisID="Joel.2.32" />Et erit, omnis qui invocaverit nomen Domini, salvus erit, quia in monte Sion, et in Ierusalem erit qui salvatus fuerit, sicut dixit Dominus, et annuntians, quos Dominus vocavit.<verse eID="Joel.2.32" />
+      </p>
+      <chapter eID="Joel.2" />
+      <chapter sID="Joel.3" osisID="Joel.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Joel.3.1" osisID="Joel.3.1" />Quia ecce ego in diebus illis, et in tempore illo, quando convertero captivitatem Iuda et Ierusalem,<verse eID="Joel.3.1" />
+        <verse sID="Joel.3.2" osisID="Joel.3.2" />Congregabo omnes gentes, et deducam eas in vallem Iosaphat, et disceptabo cum eis ibi pro populo meo, et haereditate mea Israel, qui dispersi sunt in gentibus, et terram meam diviserunt.<verse eID="Joel.3.2" />
+        <verse sID="Joel.3.3" osisID="Joel.3.3" />Et super populum meum miserunt sortes, et posuerunt puerum in prostibulo, et puellas vendebant pro vino, et bibebant.<verse eID="Joel.3.3" />
+        <verse sID="Joel.3.4" osisID="Joel.3.4" />Quid mihi et vobis Tyrus et Sidon, et omnis Galilaea alienigenarum? Nunquid retributionem vos redditis mihi? Aut iram in corde retinetis adversum me? Velociter et cito reddam retributionem vestram in capitibus vestris.<verse eID="Joel.3.4" />
+        <verse sID="Joel.3.5" osisID="Joel.3.5" />Pro eo quod argentum meum, et aurum meum tulistis, et electa mea et optima intulistis in templa vestra,<verse eID="Joel.3.5" />
+        <verse sID="Joel.3.6" osisID="Joel.3.6" />et filios Iuda, et filios Ierusalem vendidistis filiis Graecorum, ut eiiceretis eos de finibus suis,<verse eID="Joel.3.6" />
+        <verse sID="Joel.3.7" osisID="Joel.3.7" />Ecce ego suscitabo eos de loco, in quo vendidistis eos, et reddam retributionem in capita vestra.<verse eID="Joel.3.7" />
+        <verse sID="Joel.3.8" osisID="Joel.3.8" />Et vendam filios vestros, et filias vestras in manibus filiorum Iuda, et venundabunt eos in captivitatem genti quae procul abest, quoniam Dominus locutus est.<verse eID="Joel.3.8" />
+        <verse sID="Joel.3.9" osisID="Joel.3.9" />Praedicate haec in gentibus, sanctificate bellum, suscitate pugnatores, adducite, et ascendite omnes viri bellatores.<verse eID="Joel.3.9" />
+        <verse sID="Joel.3.10" osisID="Joel.3.10" />Concidite aratra vestra in gladios, et falces vestras in lanceas. Fortis dicat, Quia praevaleo ego.<verse eID="Joel.3.10" />
+        <verse sID="Joel.3.11" osisID="Joel.3.11" />Congregamini, et introite omnes gentes per circuitum, et congregamini illuc, mansuetus sit pugnator.<verse eID="Joel.3.11" />
+        <verse sID="Joel.3.12" osisID="Joel.3.12" />Consurgant, et ascendant omnes gentes in vallem Iosaphat, quia ibi sedebo ut iudicem omnes gentes in circuitu.<verse eID="Joel.3.12" />
+        <verse sID="Joel.3.13" osisID="Joel.3.13" />Emittite falce, quoniam adest vindemia, introite, et calcate, quia plenum est torcular, et redundant torcularia, quia repleta sunt mala eorum.<verse eID="Joel.3.13" />
+        <verse sID="Joel.3.14" osisID="Joel.3.14" />Sonitus exauditi sunt in valle iudicii, quia iuxta est dies Domini in valle iudicii.<verse eID="Joel.3.14" />
+        <verse sID="Joel.3.15" osisID="Joel.3.15" />Sol et luna obtenebrabuntur, et stellae occidere facient splendorem suum.<verse eID="Joel.3.15" />
+        <verse sID="Joel.3.16" osisID="Joel.3.16" />Dominus autem de Sion clamabit, et de Ierusalem dabit vocem suam, et movebitur coelum, et terra, et Dominus parcet populo suo, et confortabit filios Israel.<verse eID="Joel.3.16" />
+        <verse sID="Joel.3.17" osisID="Joel.3.17" />Et scietis quia ego Dominus Deus vester, habitans in Sion monte sancto meo, et erit Ierusalem sancta, et alienigena non transibit per eam amplius.<verse eID="Joel.3.17" />
+        <verse sID="Joel.3.18" osisID="Joel.3.18" />Et erit in die illa, stillabunt montes dulcedinem, et colles fluent lactae, et omnes emissiones Iudae fluent aquis, et fons de domo Domini egredietur, et irrigabit torrentem funiculorum.<verse eID="Joel.3.18" />
+        <verse sID="Joel.3.19" osisID="Joel.3.19" />Aegyptus in perditione erit, et Idumaea in campum desolationis propter iniquitates filiorum Iuda, pro eo quod effuderunt sanguinem iustum in terra sua.<verse eID="Joel.3.19" />
+        <verse sID="Joel.3.20" osisID="Joel.3.20" />Iudaea autem in aeternum habitabitur, et Ierusalem in generatione et generationem.<verse eID="Joel.3.20" />
+        <verse sID="Joel.3.21" osisID="Joel.3.21" />Et requiram sanguinem eorum, inultumque esse non patiar, et Dominus habitabit in Sion.<verse eID="Joel.3.21" />
+      </p>
+      <chapter eID="Joel.3" />
+    </div>
+  </osisText>
+</osis>

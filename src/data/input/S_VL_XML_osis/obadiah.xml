@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Obad" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Obad">
+        <title>obadiah</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Obad</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>obadiah</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Obad">
+      <title>obadiah</title>
+      <chapter sID="Obad.1" osisID="Obad.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Obad.1.1" osisID="Obad.1.1" />Visio Abdiae. Haec dicit Dominus Deus ad Idumaeam, Auditum audivi a Domino, et munitionem in gentibus misit, Surgite, et consurgamus adversus eam in praelium.<verse eID="Obad.1.1" />
+        <verse sID="Obad.1.2" osisID="Obad.1.2" />Ecce minimum dedi te in gentibus, inhonoratus es tu valde.<verse eID="Obad.1.2" />
+        <verse sID="Obad.1.3" osisID="Obad.1.3" />Superbia cordis tui elevavit te, habitantem in foraminibus petrarum, exaltantem habitaculum tuum, atque dicentem in corde tuo, Quis me deducet in terram?<verse eID="Obad.1.3" />
+        <verse sID="Obad.1.4" osisID="Obad.1.4" />Si exaltatus fueris ut aquila, et si inter media sidera ponas nidum tuum, inde te detraham, dicit Dominus.<verse eID="Obad.1.4" />
+        <verse sID="Obad.1.5" osisID="Obad.1.5" />Si fures introissent ad te, vel latrones per noctem, ubi proiectus esses, nonne furati essent sufficientia sibi? Et si vindemiatores introissent ad te, nonne reliquissent racemum?<verse eID="Obad.1.5" />
+        <verse sID="Obad.1.6" osisID="Obad.1.6" />Quomodo perscrutatus est Esau, et deprehensa sunt abscondita eius?<verse eID="Obad.1.6" />
+        <verse sID="Obad.1.7" osisID="Obad.1.7" />Usque ad terminos dimiserunt te, omnes viri testamenti tui restiterunt tibi, praevaluerunt adversum te viri pacifici tui, posuerunt insidias subter te, non est sapientia in eo.<verse eID="Obad.1.7" />
+        <verse sID="Obad.1.8" osisID="Obad.1.8" />In die illa, dicit Dominus, perdam sapientes ex Idumaea, et intelligentiam de monte Esau.<verse eID="Obad.1.8" />
+        <verse sID="Obad.1.9" osisID="Obad.1.9" />Et pavebunt pugnatores tui de Theman, ut auferatur homo de monte Esau.<verse eID="Obad.1.9" />
+        <verse sID="Obad.1.10" osisID="Obad.1.10" />Propter interfectionem, et impietatem adversum fratrem tuum Iacob, operiet te confusio, et aufereris in aeternum.<verse eID="Obad.1.10" />
+        <verse sID="Obad.1.11" osisID="Obad.1.11" />Ex die qua restitisti contra, in die ut caperent alienigenae fortitudinem eius, et alieni ingressi sunt portas eius, et super Ierusalem miserunt sortem, et vos eratis quasi unus ex eis.<verse eID="Obad.1.11" />
+        <verse sID="Obad.1.12" osisID="Obad.1.12" />Et non despicies diem fratris tui in die alienorum, et non laetaberis super filios Iuda in die perditionis eorum, et non magna loqueris in die angustiae.<verse eID="Obad.1.12" />
+        <verse sID="Obad.1.13" osisID="Obad.1.13" />Neque ingredieris portas populorum in die laborum eorum, et non despicies etiam tu congregationem eorum in die perditionis eorum, neque apponeris fortitudini eorum in die perditionis eorum.<verse eID="Obad.1.13" />
+        <verse sID="Obad.1.14" osisID="Obad.1.14" />Neque stabis in egressibus eorum, ut interficias eos qui salvi fuerint ex eis, neque concludes fugitivos eorum in die tribulationes.<verse eID="Obad.1.14" />
+        <verse sID="Obad.1.15" osisID="Obad.1.15" />Quia iuxta est dies Domini super omnes gentes, sicut fecisti, fiet tibi, retributio tua reddetur in caput tuum.<verse eID="Obad.1.15" />
+        <verse sID="Obad.1.16" osisID="Obad.1.16" />Quia quomodo bibisti super montem sanctum meum, bibent omnes gentes vinum, bibent, et absorbebunt, et erunt quasi non sint.<verse eID="Obad.1.16" />
+        <verse sID="Obad.1.17" osisID="Obad.1.17" />In monte autem Sion erit salvatio, et erit sanctum, et possidebit domus Iacob eos qui se possederant.<verse eID="Obad.1.17" />
+        <verse sID="Obad.1.18" osisID="Obad.1.18" />Et erit domus Iacob ignis, et domus Ioseph flamma, domus autem Esau stipula, et succendentur in eos, et devorabunt illos, et non erit frumentarius domui Esau, quia Dominus locutus est.<verse eID="Obad.1.18" />
+        <verse sID="Obad.1.19" osisID="Obad.1.19" />Et possidebunt qui in Nageb, montem Esau. Et qui in Sephela, alienigenas, et possidebunt montem Ephraim, et campum Samariae, et Beniamin, et Galaad.<verse eID="Obad.1.19" />
+        <verse sID="Obad.1.20" osisID="Obad.1.20" />Et transmigrationis principium istud filiis Israel, terra Chananaeorum usque ad Sareptham, et transmigratio Ierusalem usque Ephrathen, possidebunt civitates Nageb.<verse eID="Obad.1.20" />
+        <verse sID="Obad.1.21" osisID="Obad.1.21" />Et ascendent qui salvi fuerant de monte Sion, ut puniant montem Esau, et erit Domino regnum.<verse eID="Obad.1.21" />
+      </p>
+      <chapter eID="Obad.1" />
+    </div>
+  </osisText>
+</osis>

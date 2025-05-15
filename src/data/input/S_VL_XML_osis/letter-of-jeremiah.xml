@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="LetterI" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="LetterI">
+        <title>letter-of-jeremiah</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">LetterI</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>letter-of-jeremiah</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="LetterI">
+      <title>letter-of-jeremiah</title>
+      <chapter sID="LetterI.1" osisID="LetterI.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="LetterI.1.1" osisID="LetterI.1.1" />Propter peccata quae peccastis ante Deum, abducemini in Babyloniam captivi a Nabuchodonosor rege Babylonis.<verse eID="LetterI.1.1" />
+        <verse sID="LetterI.1.2" osisID="LetterI.1.2" />Ingressi itaque in Babylonem, eritis ibi annis plurimis, et temporibus longis, usque ad generationes septem: post hoc autem educam vos inde cum pace.<verse eID="LetterI.1.2" />
+        <verse sID="LetterI.1.3" osisID="LetterI.1.3" />Nunc autem videbitis in Babylonia deos aureos et argenteos, et lapideos et ligneos, in humeris portari, ostentantes metum gentibus.<verse eID="LetterI.1.3" />
+        <verse sID="LetterI.1.4" osisID="LetterI.1.4" />Videte ergo ne et vos similes efficiamini factis alienis, et metuatis, et metus vos capiat in ipsis.<verse eID="LetterI.1.4" />
+        <verse sID="LetterI.1.5" osisID="LetterI.1.5" />Visa itaque turba de retro et ab ante, adorantes dicite in cordibus vestris: Te oportet adorari, Domine.<verse eID="LetterI.1.5" />
+        <verse sID="LetterI.1.6" osisID="LetterI.1.6" />Angelus enim meus vobiscum est: ipse autem exquiram animas vestras.<verse eID="LetterI.1.6" />
+        <verse sID="LetterI.1.7" osisID="LetterI.1.7" />Nam lingua ipsorum polita a fabro; ipsa etiam inaurata et inargentata: falsa sunt, et non possunt loqui.<verse eID="LetterI.1.7" />
+        <verse sID="LetterI.1.8" osisID="LetterI.1.8" />Et sicut virgini amanti ornamenta, ita accepto auro fabricati sunt.<verse eID="LetterI.1.8" />
+        <verse sID="LetterI.1.9" osisID="LetterI.1.9" />Coronas certe aureas habent super capita sua dii illorum: unde subtrahunt sacerdotes ab eis aurum et argentum, et erogant illud in semetipsos.<verse eID="LetterI.1.9" />
+        <verse sID="LetterI.1.10" osisID="LetterI.1.10" />Dant autem et ex ipso prostitutis, et meretrices ornant: et iterum cum receperint illud a meretricibus, ornant deos suos.<verse eID="LetterI.1.10" />
+        <verse sID="LetterI.1.11" osisID="LetterI.1.11" />Hi autem non liberantur ab aerugine et tinea.<verse eID="LetterI.1.11" />
+        <verse sID="LetterI.1.12" osisID="LetterI.1.12" />Opertis autem illis veste purpurea, extergunt faciem ipsorum propter pulverem domus qui est plurimus inter eos.<verse eID="LetterI.1.12" />
+        <verse sID="LetterI.1.13" osisID="LetterI.1.13" />Sceptrum autem habet ut homo, sicut iudex regionis, qui in se peccantem non interficit.<verse eID="LetterI.1.13" />
+        <verse sID="LetterI.1.14" osisID="LetterI.1.14" />Habet etiam in manu gladium et securim, se autem de bello et a latronibus non liberat. Unde vobis notum sit quia non sunt dii:<verse eID="LetterI.1.14" />
+        <verse sID="LetterI.1.15" osisID="LetterI.1.15" />non ergo timueritis eos. Sicut enim vas hominis confractum inutile efficitur, tales sunt et dii illorum.<verse eID="LetterI.1.15" />
+        <verse sID="LetterI.1.16" osisID="LetterI.1.16" />Constitutis illis in domo, oculi eorum pleni sunt pulvere a pedibus introëuntium.<verse eID="LetterI.1.16" />
+        <verse sID="LetterI.1.17" osisID="LetterI.1.17" />Et sicut alicui qui regem offendit circumseptae sunt ianuae, aut sicut ad sepulchrum adductum mortuum: ita tutantur sacerdotes ostia clausuris et seris, ne a latronibus expolientur.<verse eID="LetterI.1.17" />
+        <verse sID="LetterI.1.18" osisID="LetterI.1.18" />Lucernas accendunt illis, et quidem multas, ex quibus nullam videre possunt: sunt autem sicut trabes in domo.<verse eID="LetterI.1.18" />
+        <verse sID="LetterI.1.19" osisID="LetterI.1.19" />Corda vero eorum dicunt elingere serpentes qui de terra sunt, dum comedunt eos, et vestimentum ipsorum, et non sentiunt.<verse eID="LetterI.1.19" />
+        <verse sID="LetterI.1.20" osisID="LetterI.1.20" />Nigrae fiunt facies eorum a fumo qui in domo fit.<verse eID="LetterI.1.20" />
+        <verse sID="LetterI.1.21" osisID="LetterI.1.21" />Supra corpus eorum et supra caput eorum volant noctuae, et hirundines, et aves etiam, similiter et cattae.<verse eID="LetterI.1.21" />
+        <verse sID="LetterI.1.22" osisID="LetterI.1.22" />Unde sciatis quia non sunt dii: ne ergo timueritis eos.<verse eID="LetterI.1.22" />
+        <verse sID="LetterI.1.23" osisID="LetterI.1.23" />Aurum etiam quod habent ad speciem est: nisi aliquis exterserit aeruginem, non fulgebunt: neque enim dum conflarentur, sentiebant.<verse eID="LetterI.1.23" />
+        <verse sID="LetterI.1.24" osisID="LetterI.1.24" />Ex omni pretio empta sunt, in quibus spiritus non inest ipsis.<verse eID="LetterI.1.24" />
+        <verse sID="LetterI.1.25" osisID="LetterI.1.25" />Sine pedibus, in humeris portantur, ostentantes ignobilitatem suam hominibus: confundantur etiam qui colunt ea.<verse eID="LetterI.1.25" />
+        <verse sID="LetterI.1.26" osisID="LetterI.1.26" />Propterea si ceciderint in terram, a semetipsis non consurgunt: neque si quis eum statuerit rectum, per semetipsum stabit: sed sicut mortuis munera eorum illis apponentur.<verse eID="LetterI.1.26" />
+        <verse sID="LetterI.1.27" osisID="LetterI.1.27" />Hostias illorum vendunt sacerdotes ipsorum, et abutuntur: similiter et mulieres eorum decerpentes, neque infirmo, neque mendicanti, aliquid impertiunt.<verse eID="LetterI.1.27" />
+        <verse sID="LetterI.1.28" osisID="LetterI.1.28" />De sacrificiis eorum ftae et menstruatae contingunt. Sciens itaque ex his quia non sunt dii, ne timeatis eos.<verse eID="LetterI.1.28" />
+        <verse sID="LetterI.1.29" osisID="LetterI.1.29" />Unde enim vocantur dii? quia mulieres apponunt diis argenteis, et aureis, et ligneis:<verse eID="LetterI.1.29" />
+        <verse sID="LetterI.1.30" osisID="LetterI.1.30" />et in domibus eorum sacerdotes sedent habentes tunicas scissas, et capita et barbam rasam, quorum capita nuda sunt.<verse eID="LetterI.1.30" />
+        <verse sID="LetterI.1.31" osisID="LetterI.1.31" />Rugiunt autem clamantes contra deos suos sicut in cna mortui.<verse eID="LetterI.1.31" />
+        <verse sID="LetterI.1.32" osisID="LetterI.1.32" />Vestimenta eorum auferunt sacerdotes, et vestiunt uxores suas et filios suos.<verse eID="LetterI.1.32" />
+        <verse sID="LetterI.1.33" osisID="LetterI.1.33" />Neque si quid mali patiuntur ab aliquo, neque si quid boni, poterunt retribuere: neque regem constituere possunt, neque auferre.<verse eID="LetterI.1.33" />
+        <verse sID="LetterI.1.34" osisID="LetterI.1.34" />Similiter neque dare divitias possunt, neque malum retribuere. Si quis illis votum voverit et non reddiderit, neque hoc requirunt.<verse eID="LetterI.1.34" />
+        <verse sID="LetterI.1.35" osisID="LetterI.1.35" />Hominem a morte non liberant, neque infirmum a potentiori eripiunt.<verse eID="LetterI.1.35" />
+        <verse sID="LetterI.1.36" osisID="LetterI.1.36" />Hominem caecum ad visum non restituunt; de necessitate hominem non liberabunt.<verse eID="LetterI.1.36" />
+        <verse sID="LetterI.1.37" osisID="LetterI.1.37" />Viduae non miserebuntur, neque orphanis benefacient.<verse eID="LetterI.1.37" />
+        <verse sID="LetterI.1.38" osisID="LetterI.1.38" />Lapidibus de monte similes sunt dii illorum, lignei, et lapidei, et aurei, et argentei: qui autem colunt ea, confundentur.<verse eID="LetterI.1.38" />
+        <verse sID="LetterI.1.39" osisID="LetterI.1.39" />Quomodo ergo aestimandum est aut dicendum illos esse deos?<verse eID="LetterI.1.39" />
+        <verse sID="LetterI.1.40" osisID="LetterI.1.40" />Adhuc enim ipsis Chaldaeis non honorantibus ea: qui cum audierint mutum non posse loqui, offerunt illud ad Bel, postulantes ab eo loqui:<verse eID="LetterI.1.40" />
+        <verse sID="LetterI.1.41" osisID="LetterI.1.41" />quasi possint sentire qui non habent motum! Et ipsi, cum intellexerint, relinquent ea: sensum enim non habent ipsi dii illorum.<verse eID="LetterI.1.41" />
+        <verse sID="LetterI.1.42" osisID="LetterI.1.42" />Mulieres autem circumdatae funibus in viis sedent, succendentes ossa olivarum:<verse eID="LetterI.1.42" />
+        <verse sID="LetterI.1.43" osisID="LetterI.1.43" />cum autem aliqua ex ipsis, attracta ab aliquo transeunte, dormierit cum eo, proximae suae exprobrat quod ea non sit digna habita, sicut ipsa, neque funis eius diruptus sit.<verse eID="LetterI.1.43" />
+        <verse sID="LetterI.1.44" osisID="LetterI.1.44" />Omnia autem quae illi fiunt, falsa sunt: quomodo aestimandum aut dicendum est illos esse deos?<verse eID="LetterI.1.44" />
+        <verse sID="LetterI.1.45" osisID="LetterI.1.45" />A fabris autem et ab aurificibus facta sunt: nihil aliud erunt, nisi id quod volunt esse sacerdotes.<verse eID="LetterI.1.45" />
+        <verse sID="LetterI.1.46" osisID="LetterI.1.46" />Artifices etiam ipsi, qui ea faciunt, non sunt multi temporis: numquid ergo possunt ea, quae fabricata sunt ab ipsis, esse dii?<verse eID="LetterI.1.46" />
+        <verse sID="LetterI.1.47" osisID="LetterI.1.47" />Reliquerunt autem falsa et opprobrium postea futuris.<verse eID="LetterI.1.47" />
+        <verse sID="LetterI.1.48" osisID="LetterI.1.48" />Nam cum supervenerit illis praelium et mala, cogitant sacerdotes apud se ubi se abscondant cum illis.<verse eID="LetterI.1.48" />
+        <verse sID="LetterI.1.49" osisID="LetterI.1.49" />Quomodo ergo sentiri debeant quoniam dii sunt, qui nec de bello se liberant, neque de malis se eripiunt?<verse eID="LetterI.1.49" />
+        <verse sID="LetterI.1.50" osisID="LetterI.1.50" />Nam cum sint lignea, inaurata et inargentata, scietur postea quia falsa sunt ab universis gentibus et regibus: quae manifesta sunt quia non sunt dii, sed opera manuum hominum, et nullum Dei opus cum illis.<verse eID="LetterI.1.50" />
+        <verse sID="LetterI.1.51" osisID="LetterI.1.51" />Unde ergo notum est quia non sunt dii, sed opera manuum hominum, et nullum Dei opus in ipsis est.<verse eID="LetterI.1.51" />
+        <verse sID="LetterI.1.52" osisID="LetterI.1.52" />Regem regioni non suscitant, neque pluviam hominibus dabunt.<verse eID="LetterI.1.52" />
+        <verse sID="LetterI.1.53" osisID="LetterI.1.53" />Iudicium quoque non discernent, neque regiones liberabunt ab iniuria, quia nihil possunt, sicut corniculae inter medium caeli et terrae.<verse eID="LetterI.1.53" />
+        <verse sID="LetterI.1.54" osisID="LetterI.1.54" />Etenim cum inciderit ignis in domum deorum ligneorum, argenteorum et aureorum, sacerdotes quidem ipsorum fugient, et liberabuntur: ipsi vero sicut trabes in medio comburentur.<verse eID="LetterI.1.54" />
+        <verse sID="LetterI.1.55" osisID="LetterI.1.55" />Regi autem et bello non resistent. Quomodo ergo aestimandum est aut recipiendum quia dii sunt?<verse eID="LetterI.1.55" />
+        <verse sID="LetterI.1.56" osisID="LetterI.1.56" />Non a furibus, neque a latronibus se liberabunt dii lignei, et lapidei, et inaurati, et inargentati: quibus hi qui fortiores sunt,<verse eID="LetterI.1.56" />
+        <verse sID="LetterI.1.57" osisID="LetterI.1.57" />aurum et argentum, et vestimentum quo operti sunt, auferent illis, et abibunt, nec sibi auxilium ferent.<verse eID="LetterI.1.57" />
+        <verse sID="LetterI.1.58" osisID="LetterI.1.58" />Itaque melius est esse regem ostentantem virtutem suam, aut vas in domo utile, in quo gloriabitur qui possidet illud, vel ostium in domo, quod custodit quae in ipsa sunt, quam falsi dii.<verse eID="LetterI.1.58" />
+        <verse sID="LetterI.1.59" osisID="LetterI.1.59" />Sol quidem et luna ac sidera, cum sint splendida et emissa ad utilitates, obaudiunt:<verse eID="LetterI.1.59" />
+        <verse sID="LetterI.1.60" osisID="LetterI.1.60" />similiter et fulgur cum apparuerit, perspicuum est: idipsum autem et spiritus in omni regione spirat:<verse eID="LetterI.1.60" />
+        <verse sID="LetterI.1.61" osisID="LetterI.1.61" />et nubes, quibus cum imperatum fuerit a Deo perambulare universum orbem, perficiunt quod imperatum est eis:<verse eID="LetterI.1.61" />
+        <verse sID="LetterI.1.62" osisID="LetterI.1.62" />ignis etiam missus desuper, ut consumat montes et silvas, facit quod praeceptum est ei: haec autem neque speciebus, neque virtutibus, uni eorum similia sunt.<verse eID="LetterI.1.62" />
+        <verse sID="LetterI.1.63" osisID="LetterI.1.63" />Unde neque existimandum est, neque dicendum illos esse deos, quando non possunt neque iudicium iudicare, neque quidquam facere hominibus.<verse eID="LetterI.1.63" />
+        <verse sID="LetterI.1.64" osisID="LetterI.1.64" />Scientes itaque quia non sunt dii, ne ergo timueritis eos.<verse eID="LetterI.1.64" />
+        <verse sID="LetterI.1.65" osisID="LetterI.1.65" />Neque enim regibus maledicent, neque benedicent.<verse eID="LetterI.1.65" />
+        <verse sID="LetterI.1.66" osisID="LetterI.1.66" />Signa etiam in caelo gentibus non ostendunt: neque ut sol lucebunt, neque illuminabunt ut luna.<verse eID="LetterI.1.66" />
+        <verse sID="LetterI.1.67" osisID="LetterI.1.67" />Bestiae meliores sunt illis, quae possunt fugere sub tectum ac prodesse sibi.<verse eID="LetterI.1.67" />
+        <verse sID="LetterI.1.68" osisID="LetterI.1.68" />Nullo itaque modo nobis est manifestum quia sunt dii: propter quod ne timeatis eos.<verse eID="LetterI.1.68" />
+        <verse sID="LetterI.1.69" osisID="LetterI.1.69" />Nam sicut in cucumerario formido nihil custodit, ita sunt dii illorum lignei, et argentei, et inaurati.<verse eID="LetterI.1.69" />
+        <verse sID="LetterI.1.70" osisID="LetterI.1.70" />Eodem modo et in horto spina alba, supra quam omnis avis sedet, similiter et mortuo proiecto in tenebris, similes sunt dii illorum lignei, et inaurati, et inargentati.<verse eID="LetterI.1.70" />
+        <verse sID="LetterI.1.71" osisID="LetterI.1.71" />A purpura quoque et murice, quae supra illos tineant, scietis itaque quia non sunt dii: ipsi etiam postremo comeduntur, et erunt opprobrium in regione.<verse eID="LetterI.1.71" />
+        <verse sID="LetterI.1.72" osisID="LetterI.1.72" />Melior est homo iustus qui non habet simulacra, nam erit longe ab opprobriis.<verse eID="LetterI.1.72" />
+      </p>
+      <chapter eID="LetterI.1" />
+    </div>
+  </osisText>
+</osis>

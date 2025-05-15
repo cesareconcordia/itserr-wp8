@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.xsd">
+  <osisText osisIDWork="Zeph" osisRefWork="bible" xml:lang="el" canonical="true">
+    <header>
+      <work osisWork="Zeph">
+        <title>zephaniah</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Zeph</identifier>
+        <rights type="x-copyright">Copyright 2024 Resilient</rights>
+        <scope>zephaniah</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+      <work osisWork="bible">
+        <type type="OSIS">Bible</type>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Zeph">
+      <title>zephaniah</title>
+      <chapter sID="Zeph.1" osisID="Zeph.1" />
+      <title>Chatper 1</title>
+      <p>
+        <verse sID="Zeph.1.1" osisID="Zeph.1.1" />Verbum Domini, quod factum est ad Sophoniam filium Chusi, filii Amariae, filii Ezechiae, in diebus Iosiae filii Ammon regis Iuda.<verse eID="Zeph.1.1" />
+        <verse sID="Zeph.1.2" osisID="Zeph.1.2" />Defectione deficiat a facie terrae, dicit Dominus,<verse eID="Zeph.1.2" />
+        <verse sID="Zeph.1.3" osisID="Zeph.1.3" />deficiat homo, et iumenta. Deficiant volatilia coeli, et pisces maris, et infirmabuntur impii, et auferam iniquos a facie terrae, dicit Dominus.<verse eID="Zeph.1.3" />
+        <verse sID="Zeph.1.4" osisID="Zeph.1.4" />Et extendam manum meam super Iudam, et super omnes qui habitant Ierusalem, et auferam de loco hoc nomina Baalim, et nomina sacerdotum cum sacerdotibus.<verse eID="Zeph.1.4" />
+        <verse sID="Zeph.1.5" osisID="Zeph.1.5" />Et eos qui adorant super tecta militiam coeli, et eos qui iurant in Domino, et iurant in rege suo.<verse eID="Zeph.1.5" />
+        <verse sID="Zeph.1.6" osisID="Zeph.1.6" />Et eos qui declinant a Domino, et qui non requirunt Dominum, et qui non retinent Dominum.<verse eID="Zeph.1.6" />
+        <verse sID="Zeph.1.7" osisID="Zeph.1.7" />Timete a facie Domini Dei, quia iuxta est dies Domini, quia praeparavit Dominus victimam suam, sanctificavit vocatos suos.<verse eID="Zeph.1.7" />
+        <verse sID="Zeph.1.8" osisID="Zeph.1.8" />Et erit, in die hostiae Domini, et ulciscar super principes, et super domum regis, et super omnes qui induti sunt vestimentis alienis,<verse eID="Zeph.1.8" />
+        <verse sID="Zeph.1.9" osisID="Zeph.1.9" />et ulciscar super omnes manifeste, qui sunt in vestibulis in die illa, qui complent domum Domini Dei sui impietate et dolo.<verse eID="Zeph.1.9" />
+        <verse sID="Zeph.1.10" osisID="Zeph.1.10" />Et erit in illa die, dicit Dominus, vox clamoris de porta compungentium, et ululatus a Secunda, et contritio magna a collibus.<verse eID="Zeph.1.10" />
+        <verse sID="Zeph.1.11" osisID="Zeph.1.11" />Plangite qui habitatis concissam, quia assimilatus est omnis populus Chanaan, disperierunt omnes qui erecti sunt argento.<verse eID="Zeph.1.11" />
+        <verse sID="Zeph.1.12" osisID="Zeph.1.12" />Et erit in die illa, scrutabor Ierusalem cum lucerna, et ulciscar super viros, qui contemnunt custodias suas, et dicunt in cordibus suis, Non faciet bene Dominus, et non faciet male.<verse eID="Zeph.1.12" />
+        <verse sID="Zeph.1.13" osisID="Zeph.1.13" />Et erit fortitudo eorum in rapinam, et domus eorum dissipabuntur, et aedificabunt domos, et non habitabunt in eis, et plantabunt vineas, et non bibent vinum earum.<verse eID="Zeph.1.13" />
+        <verse sID="Zeph.1.14" osisID="Zeph.1.14" />Quia iuxta est dies Domini magnus, iuxta, et velox nimis, vox diei Domini amara, et dura posita est, fortis.<verse eID="Zeph.1.14" />
+        <verse sID="Zeph.1.15" osisID="Zeph.1.15" />Dies irae dies illa, dies tribulationis et necessitatis, dies miseriae et perditionis, dies tenebrarum et turbinis, dies nebulae et caliginis,<verse eID="Zeph.1.15" />
+        <verse sID="Zeph.1.16" osisID="Zeph.1.16" />dies tubae et clamoris super civitates munitas, et super angulos excelsos.<verse eID="Zeph.1.16" />
+        <verse sID="Zeph.1.17" osisID="Zeph.1.17" />Et tribulabo homines, et ambulabunt ut caeci, quia Domino peccaverunt, et effundet sanguinem eorum sicut pulverem, et carnes eorum sicut stercus boum.<verse eID="Zeph.1.17" />
+        <verse sID="Zeph.1.18" osisID="Zeph.1.18" />Et argentum eorum, et aurum eorum non poterit eruere eos in die irae Domini, et in igne zeli eius consumetur omnis terra, consummationem enim et festinationem faciet super omnes habitantes terram.<verse eID="Zeph.1.18" />
+      </p>
+      <chapter eID="Zeph.1" />
+      <chapter sID="Zeph.2" osisID="Zeph.2" />
+      <title>Chatper 2</title>
+      <p>
+        <verse sID="Zeph.2.1" osisID="Zeph.2.1" />Congregamini, et colligamini gens inerudita,<verse eID="Zeph.2.1" />
+        <verse sID="Zeph.2.2" osisID="Zeph.2.2" />Antequam sitis sicut flos pertansiens diem, antequam veniat ira Domini super vos, antequam super vos irruat dies irae furoris Domini.<verse eID="Zeph.2.2" />
+        <verse sID="Zeph.2.3" osisID="Zeph.2.3" />Quaerite Dominum omnes humiles terrae, iudicium operamini, et iustitiam quaerite, et respondete ea, ut protegamini in die irae Domini.<verse eID="Zeph.2.3" />
+        <verse sID="Zeph.2.4" osisID="Zeph.2.4" />Quia Gaza direpta erit, et Ascalon in desertum, et Azotus in meridie proiicietur, et Accaron eradicabitur.<verse eID="Zeph.2.4" />
+        <verse sID="Zeph.2.5" osisID="Zeph.2.5" />Vae qui habitatis funiculum maris, advenae Cretensium, verbum Domini super vos Chanaan terra Allophylorum, et perdam vos de habitatione.<verse eID="Zeph.2.5" />
+        <verse sID="Zeph.2.6" osisID="Zeph.2.6" />Et erit Creta pascua gregum, et ovile pecorum,<verse eID="Zeph.2.6" />
+        <verse sID="Zeph.2.7" osisID="Zeph.2.7" />et erit funiculus maris his, qui reliqui sunt de domo Iuda, super ipsos pascentur in domibus Ascalonis, post meridiem divertent a facie filiorum Iuda, quia visitabit eos Dominus Deus eorum, et avertet captivitatem eorum.<verse eID="Zeph.2.7" />
+        <verse sID="Zeph.2.8" osisID="Zeph.2.8" />Audivi opprobrium Moab, et contumelias filiorum Ammon, in quibus exprobraverunt populo meo, et magnificati sunt super terminos meos.<verse eID="Zeph.2.8" />
+        <verse sID="Zeph.2.9" osisID="Zeph.2.9" />Propterea vivo ego, dicit Dominus virtutum Deus Israel, quia Moab sicut Sodoma erit, et filii Ammon quasi Gomorrha, et Damascus derelicta quasi acervus areae, et dissipata usque in sempiternum, et qui reliqui fuerint de populo meo diripient eos, et residui gentis meae possidebunt eos.<verse eID="Zeph.2.9" />
+        <verse sID="Zeph.2.10" osisID="Zeph.2.10" />Hoc erit eis pro contumelia sua, quia exprobraverunt, et magnificatai sunt super Dominum omnipotentem.<verse eID="Zeph.2.10" />
+        <verse sID="Zeph.2.11" osisID="Zeph.2.11" />Manifestus erit Dominus super eos, et disperdet omnes deos gentium terrae, et adorabunt eum singuli de loco suo, omnes insulae gentium.<verse eID="Zeph.2.11" />
+        <verse sID="Zeph.2.12" osisID="Zeph.2.12" />Et vos Aethiopes vulnerati gladio meo eritis.<verse eID="Zeph.2.12" />
+        <verse sID="Zeph.2.13" osisID="Zeph.2.13" />Et extendam manum meam super Aquilonem, et perdam Assyrium, et ponam Niniven in solitudinem, et inaquosam, quasi desertum.<verse eID="Zeph.2.13" />
+        <verse sID="Zeph.2.14" osisID="Zeph.2.14" />Et pascentur in medio eius greges, et ericii in praesepibus eius cubabunt, et bestiae clamabunt in foveis suis, et corvi in portis eius, quia cedrus altitudo eius.<verse eID="Zeph.2.14" />
+        <verse sID="Zeph.2.15" osisID="Zeph.2.15" />Haec est civitas malis dedita, quae habitat in spe, quae dicit in corde suo, Ego sum, et non est post me amplius, quomodo facta est in solitudinem pascua bestiarum? Omnis qui transit per eam, sibilabit, et movebit manus suas.<verse eID="Zeph.2.15" />
+      </p>
+      <chapter eID="Zeph.2" />
+      <chapter sID="Zeph.3" osisID="Zeph.3" />
+      <title>Chatper 3</title>
+      <p>
+        <verse sID="Zeph.3.1" osisID="Zeph.3.1" />O illustrias, et redempta civitas, columba.<verse eID="Zeph.3.1" />
+        <verse sID="Zeph.3.2" osisID="Zeph.3.2" />Non audivit vocem, non suscepit disciplinam, in Domino non est confisa, et ad Dominum suum non appropinquavit.<verse eID="Zeph.3.2" />
+        <verse sID="Zeph.3.3" osisID="Zeph.3.3" />Principes eius in ea veluti rugientes leones, iudices eius sicut lupi Arabiae, non dimittebant in mane.<verse eID="Zeph.3.3" />
+        <verse sID="Zeph.3.4" osisID="Zeph.3.4" />Prophetae eius portantes spiritum, viri contemptores, sacerdotes eius polluunt sancta, et impie agunt in legem.<verse eID="Zeph.3.4" />
+        <verse sID="Zeph.3.5" osisID="Zeph.3.5" />Dominus autem iustus in medio eius, et non faciet iniquitatem, mane mane iudicium suum dabit in luce, et non est absconditus, et nescit iniquitatem in exactione, nec in sempiternum iniustitiam.<verse eID="Zeph.3.5" />
+        <verse sID="Zeph.3.6" osisID="Zeph.3.6" />Detraxi superbos, dissipati sunt anguli eorum, destruxi vias eorum, ut penitus non transeant, defecerunt civitates eorum, eo quod nullus subsisteret, neque habitaret.<verse eID="Zeph.3.6" />
+        <verse sID="Zeph.3.7" osisID="Zeph.3.7" />Dixi, Veruntamen timebitis me, et suscipietis disciplinam, et non peribitis de oculis eius, in omnibus in quibus ultus sum super eam, praeparare, consurge diluculo, disperierunt omnes racemi eorum.<verse eID="Zeph.3.7" />
+        <verse sID="Zeph.3.8" osisID="Zeph.3.8" />Propterea exspecta me, dicit Dominus, in die resurrectionis meae in testimonium, quia iudicium meum in congregationes gentium, ut suscipiam reges. Ut effundam super eos iram meam, omnem iram furoris mei, quia in igne zeli mei consumetur omnis terra.<verse eID="Zeph.3.8" />
+        <verse sID="Zeph.3.9" osisID="Zeph.3.9" />Quia tunc convertam super populos linguam in generationem eius, ut invocent omnes nomine Domini, ut serviant ei sub iugo uno.<verse eID="Zeph.3.9" />
+        <verse sID="Zeph.3.10" osisID="Zeph.3.10" />De finibus fluminum Aethiopiae suscipiam dispersos meos, afferent victimas mihi.<verse eID="Zeph.3.10" />
+        <verse sID="Zeph.3.11" osisID="Zeph.3.11" />In die illa non confunderis ex omnibus adinventionibus tuis, quibus impie egisti in me, quia tunc auferam a te detractionem contumeliae tuae, et ultra non adiicies ut magnificeris super montem sanctum meum.<verse eID="Zeph.3.11" />
+        <verse sID="Zeph.3.12" osisID="Zeph.3.12" />Et relinquam in te populum mansuetum et humilem, et reverebuntur nomen Domini,<verse eID="Zeph.3.12" />
+        <verse sID="Zeph.3.13" osisID="Zeph.3.13" />qui fuerint reliqui de Israel, et non facient iniquitatem, et non loquentur vana, et non invenietur in ore eorum lingua dolosa, quoniam ipsi pascentur et accubabunt, et non erit qui exterreat eos.<verse eID="Zeph.3.13" />
+        <verse sID="Zeph.3.14" osisID="Zeph.3.14" />Gaude filia Sion, praedica filia Ierusalem, exsulta, et delectare de toto corde tuo filia Ierusalem.<verse eID="Zeph.3.14" />
+        <verse sID="Zeph.3.15" osisID="Zeph.3.15" />Abstulit Dominus iniquitates tuas, redemit te de manu inimicorum tuorum, rex Israel Dominus in medio tui, non videbis mala ultra.<verse eID="Zeph.3.15" />
+        <verse sID="Zeph.3.16" osisID="Zeph.3.16" />In tempore illo dicit Dominus Ierusalem, Confide Sion, non dissolvantur manus tuae.<verse eID="Zeph.3.16" />
+        <verse sID="Zeph.3.17" osisID="Zeph.3.17" />Dominus Deus tuus in te fortis, salvabit te, adducet super te laetitiam, et innovabit te in charitate sua, et laetabitur in te in delectatione, quasi in die solemni.<verse eID="Zeph.3.17" />
+        <verse sID="Zeph.3.18" osisID="Zeph.3.18" />Congregabo confractos tuos, vae qui accepit super eam opprobrium.<verse eID="Zeph.3.18" />
+        <verse sID="Zeph.3.19" osisID="Zeph.3.19" />Ecce ego faciam in te, propter te, in tempore illo, et salvabo expressam, et repulsam suscipiam, et ponam eos in gloriam, et nominatos in omni terra, et confundentur<verse eID="Zeph.3.19" />
+        <verse sID="Zeph.3.20" osisID="Zeph.3.20" />in tempore illo, quando bene vobis fecero. Et in tempore, cum suscepero vos, quia dabo vos nominatos, et in gloriam in cunctis populis terrae, quando convertero captivitatem vestram coram vobis, dicit Dominus.<verse eID="Zeph.3.20" />
+      </p>
+      <chapter eID="Zeph.3" />
+    </div>
+  </osisText>
+</osis>
