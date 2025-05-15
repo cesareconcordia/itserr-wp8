@@ -1,4 +1,4 @@
-## WP8: CRitical Edition ONTology Enhanced per la Bibbia in latino.
+## ITSERR WP8: CRitical Edition ONTology Enhanced per la Bibbia in latino.
 
 Questa repository contiene i file RDF con la rappresentazione della Bibbia in latino (edizione Vulgata Weber-Gryson ed edizione S_VL (Sabatier)) ed il codice Python per la creazione di questi file.
 
