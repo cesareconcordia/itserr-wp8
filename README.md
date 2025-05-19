@@ -8,7 +8,7 @@ Il codice è composto da 4 notebook Python ed una libreria software, ed implemen
 * creazione dei grafi RDF: implementazione degli assiomi definiti nell'ontologia
 
  
-L'ontologia creata per definire la struttura dei dataset  è denominata CRitical Edition ONTology Enhanced, per brevità CREONTE ed è un’ontologia applicativa espressa nel linguaggio OWL 2 DL , costruita come segue:
+L'ontologia creata per definire la struttura dei dataset  è denominata CRitical Edition ONTology Enhanced, per brevità CREONTE ed è un’ontologia applicativa espressa nel linguaggio OWL 2 DL, costruita come segue:
 
 * ontologia top di riferimento: CIDOC-CRM nella versione OWL 2 DL detta “Erlangen”;
 * principali ontologie di dominio: LRMoo per la rappresentazione delle risorse bibliografiche (“a high-level conceptual reference model for bibliographic information managed by libraries of all kinds”), CEO per la rappresentazione dell’edizione critica e dell’apparato relativo, TRESONT per la rappresentazione del contenuto e della struttura di opere testuali.
