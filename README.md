@@ -1,10 +1,10 @@
 ## ITSERR WP8: CRitical Edition ONTology Enhanced per la Bibbia in latino.
 
-Questa repository contiene i file RDF con la rappresentazione della Bibbia in latino (edizione Vulgata Weber-Gryson ed edizione S_VL (Sabatier)) ed il codice Python per la creazione di questi file.
+Questa repository contiene i file RDF con la rappresentazione della Bibbia in latino (edizione Vulgata Weber-Gryson ed edizione S_VL (Sabatier)) ed il codice Python per la creazione dei set di dati.
 
-Il codice è composto da una 4 notebook Python ed una libreria software, ed implementa le seguenti funzionalità:
+Il codice è composto da 4 notebook Python ed una libreria software, ed implementa le seguenti funzionalità:
 
-* lemmatizzazione dei testi: per ciascun testo biblico vengono individuati i lemmi associati alle forme
+* lemmatizzazione dei testi: per ciascun testo vengono individuati i lemmi associati alle forme
 * creazione dei grafi RDF: implementazione degli assiomi definiti nell'ontologia
 
  
@@ -13,16 +13,9 @@ L'ontologia creata per definire la struttura dei dataset  è denominata CRitical
 * ontologia top di riferimento: CIDOC-CRM nella versione OWL 2 DL detta “Erlangen”;
 * principali ontologie di dominio: LRMoo per la rappresentazione delle risorse bibliografiche (“a high-level conceptual reference model for bibliographic information managed by libraries of all kinds”), CEO per la rappresentazione dell’edizione critica e dell’apparato relativo, TRESONT per la rappresentazione del contenuto e della struttura di opere testuali.
 
-Per funzionare nel contesto presente, l’ontologia CEO è riveduta e corretta. La revisione principale riguarda il fatto che CEO ridefinisce le classi e le proprietà che usa dalle altre ontologie, anziché importare queste ultime; le ontologie coinvolte sono: CIDOC-CRM, LRMoo, HICO, CAO, OA, e PROV. Nella versione emendata, queste ontologie sono importate e gli assiomi relativi alle loro classi e proprietà sono rimossi da CEO, con l’eccezione dell’ontologia HICO, che non essendo aggiornata importa ontologie obsolete (quali per esempio FRBR); quindi le classi le proprietà usate da CEO sono da questa ridefinite.
-
-Revisioni riguardanti l’ontologia CEO:
-
-	CEO usa il namespace <http://purl.org/critical-edition-ontology#> e non <http://iflastandards.info/ns/lrm/lrmoo/>
-	CEO usa un nome diverso dall’originale per le proprietà inverse del CRM e di LRMoo, omettendo la “i” dopo il numero. Ad esempio, l’inversa di R15_has_fragment è R15_is_fragment_of e non R15i_is_fragment_of
-	CEO dichiara R4_embodies inversa sia di R4_is_embodied_in che di R5_is_component_of, quest’ultima dipendenza è stata rimossa
-	CEO dichiara F3_Manifestatiion sottoclasse di F3_Expression, questo assioma è stata rimosso Riguardo all’ontologia CIDOC-CRM, si sono riscontrate analoghe anomalie, con la ridefinizione del dominio e del range di alcune proprietà
-	CEO aggiunge un’asserzione di tipo rdfs:seeAlso alla ri-definizione di ogni classe e proprietà. L’asserzione punta al documento di specifica dell’LRMoo versione 0.9, ora superato
-
+L'ontologia è descritta in dettaglio in questo [documento](https://docs.google.com/document/d/1n-OlAy1KleovGgHV4ZHhOSgkgMfsOKPDWT603_fic5k/edit?tab=t.0#heading=h.ng7sdvi05k6u).
 
 #### Autori: 
 Carlo Meghini, Cesare Concordia
+
+info: [cesare.concordia@isti.cnr.it](mailto:cesare.concordia@isti.cnr.it)
